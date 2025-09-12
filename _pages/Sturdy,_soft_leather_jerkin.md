@@ -1,0 +1,16 @@
+---
+title: Sturdy, soft leather jerkin
+permalink: /Sturdy,_soft_leather_jerkin/
+---
+
+\> **look jerkin**
+This jerkin has been constructed using softened leather pieces sewn
+together
+using a form of brown twine. It is lined with a delicate soft fur
+providing the
+wearer with warmth and protection, whilst also allowing a great deal
+of
+flexibility.
+\> **consider jerkin**
+It is a sturdy, soft leather jerkin.
+It weighs five pounds.

@@ -1,0 +1,34 @@
+---
+title: Whois
+permalink: /Whois/
+---
+
+This command gives you some information about a player. You can see his
+race, his class and level (unless he is
+[incognito](incognito "wikilink")), his self-supplied description,
+roughly from which part of the (real) world he is playing and about how
+long he was last seen on MUME.
+
+Members of the good races can't see whether a certain minion is playing,
+nor viceversa.
+
+Example: while playing a Dwarf, you would see...
+
+<nowiki>g \> whois frodo Frodo is a level one Hobbit Apprentice. Last
+login 2 hours ago from \*.edu
+
+\> whois trix Trix the Wabbit is a level forty-eight Mountain Troll
+Warrior \[Retired\]. This silly old Wabbit once wandered all over Arda:
+from Rivendell, to Bree, thru wittle Hobbiton, and all the way to
+GreyHaven.
+
+</pre>
+
+You can change the text shown on your "whois" by typing [Change
+Whois](Change_Whois "wikilink"). What you can write there is subject to
+certain rules: see [Rules Whois](Rules_Whois "wikilink").
+
+See also: [Description](Description "wikilink"), [Who](Who "wikilink"),
+[Incognito](Incognito "wikilink"), [Rl Areas](Rl_Areas "wikilink")
+
+[Category:Help files](Category:Help_files "wikilink")

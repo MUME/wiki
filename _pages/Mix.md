@@ -1,0 +1,12 @@
+---
+title: Mix
+permalink: /Mix/
+---
+
+The **mix** command can be used to mix the contents in an [herbal
+kit](herbal_kit "wikilink").
+
+See also: [Herblores](Herblores "wikilink"), [Crush](Crush "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")
