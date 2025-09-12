@@ -1,5 +1,5 @@
 ---
-title: "Loaf of bread"
+title: Loaf of bread
 ---
 
 \> **look bread**
@@ -9,5 +9,7 @@ flour.
 \> **consider bread**
 It is a loaf of bread.
 It weighs half a pound.
+
+{% include Equipment.md %}
 
 [Loaf of bread](Category:_Consumables "wikilink")

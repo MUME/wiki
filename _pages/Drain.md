@@ -1,5 +1,5 @@
 ---
-title: "Drain"
+title: Drain
 ---
 
 Orcs and Trolls can fill their skin, or any drink container they have,

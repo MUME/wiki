@@ -1,5 +1,5 @@
 ---
-title: "Plain pants"
+title: Plain pants
 ---
 
 \> **look pants**
@@ -13,3 +13,5 @@ threaded to prevent them from falling down.
 \> **consider pants**
 They are a black pair of pants.
 They weigh a couple of pounds.
+
+{% include Equipment.md %}

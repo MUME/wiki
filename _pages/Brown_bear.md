@@ -1,5 +1,5 @@
 ---
-title: "Brown bear"
+title: Brown bear
 ---
 
 **Brown bears** are aggressive level ~10 [mobs](mob "wikilink") found in

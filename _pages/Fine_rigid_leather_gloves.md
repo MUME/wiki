@@ -1,5 +1,5 @@
 ---
-title: "Fine rigid leather gloves"
+title: Fine rigid leather gloves
 ---
 
 \> **look gloves**
@@ -7,3 +7,5 @@ You see nothing special...
 \> **consider gloves**
 They are a fine pair of rigid leather gloves.
 They weigh a couple of pounds.
+
+{% include Equipment.md %}

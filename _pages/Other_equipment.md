@@ -1,5 +1,5 @@
 ---
-title: "Other equipment"
+title: Other equipment
 ---
 
 # Cloaks

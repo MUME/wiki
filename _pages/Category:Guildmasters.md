@@ -1,5 +1,5 @@
 ---
-title: "Category:Guildmasters"
+title: Category:Guildmasters
 ---
 
 [Category: Mobiles](Category:_Mobiles "wikilink")

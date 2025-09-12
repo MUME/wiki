@@ -1,5 +1,5 @@
 ---
-title: "Herbal kit"
+title: Herbal kit
 ---
 
 ## Upgrades

@@ -1,5 +1,5 @@
 ---
-title: "Weaponsmith"
+title: Weaponsmith
 ---
 
 **Weaponsmiths** tend to the weapon shops in

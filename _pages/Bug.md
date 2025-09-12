@@ -1,5 +1,5 @@
 ---
-title: "Bug"
+title: Bug
 ---
 
 **Bug**, **idea**, **typo** and **report** are commands for making

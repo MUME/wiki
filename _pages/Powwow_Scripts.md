@@ -1,5 +1,5 @@
 ---
-title: "Powwow Scripts"
+title: Powwow Scripts
 ---
 
 # Powwow

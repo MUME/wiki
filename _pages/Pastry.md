@@ -1,5 +1,5 @@
 ---
-title: "Pastry"
+title: Pastry
 ---
 
 **Pastries** are a [food](food "wikilink") [item](item "wikilink"),
@@ -15,5 +15,7 @@ to full.
 `>`**`consider pastry`**
 `It is a pastry.`
 `It weighs half a pound.`
+
+{% include Items.md %}
 
 [Category: Consumables](Category:_Consumables "wikilink")

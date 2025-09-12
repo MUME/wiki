@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Scout Guild"
+title: Rivendell Scout Guild
 ---
 
 An **elven hunter** teaches [scout](scout "wikilink")

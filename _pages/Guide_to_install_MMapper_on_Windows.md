@@ -1,5 +1,5 @@
 ---
-title: "Guide to install MMapper on Windows"
+title: Guide to install MMapper on Windows
 ---
 
 1.  REDIRECT [Guide to installing MMapper on

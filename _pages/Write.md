@@ -1,5 +1,5 @@
 ---
-title: "Write"
+title: Write
 ---
 
 In order to write a note, you need a piece of blank paper (often

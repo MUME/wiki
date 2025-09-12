@@ -1,5 +1,5 @@
 ---
-title: "A sturdy reinforced leather helmet"
+title: A sturdy reinforced leather helmet
 ---
 
 1.  REDIRECT [Sturdy reinforced leather

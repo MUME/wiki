@@ -1,5 +1,5 @@
 ---
-title: "Prompt"
+title: Prompt
 ---
 
 This command must be followed by one of the arguments below for mortals:

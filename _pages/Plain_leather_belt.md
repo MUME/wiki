@@ -1,5 +1,5 @@
 ---
-title: "Plain leather belt"
+title: Plain leather belt
 ---
 
 \> **look belt**
@@ -10,3 +10,5 @@ one end.
 \> **consider belt**
 It is a plain leather belt.
 It weighs half a pound.
+
+{% include Equipment.md %}

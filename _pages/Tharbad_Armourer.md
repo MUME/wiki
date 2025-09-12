@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Armourer"
+title: Tharbad Armourer
 ---
 
 An [armourer](armourer "wikilink") tends to the **Armoury** in

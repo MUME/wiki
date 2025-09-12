@@ -1,5 +1,5 @@
 ---
-title: "Call Familiar"
+title: Call Familiar
 ---
 
 <nowiki>g Syntax : cast 'call familiar' Type : Miscellaneous

@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Mounts, Riding, and Pets"
+title: Newbie Guide Mounts, Riding, and Pets
 ---
 
 **Newbie Guide Mounts, Riding, and Pets**

@@ -1,5 +1,5 @@
 ---
-title: "Ancient dwarven shield"
+title: Ancient dwarven shield
 ---
 
 ## Statistics

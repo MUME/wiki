@@ -1,5 +1,5 @@
 ---
-title: "Plain shirt"
+title: Plain shirt
 ---
 
 \> **look shirt**
@@ -11,3 +11,5 @@ can be adjusted for warmth and comfort.
 \> **consider shirt**
 It is a brown shirt.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

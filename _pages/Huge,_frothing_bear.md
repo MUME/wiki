@@ -1,5 +1,5 @@
 ---
-title: "Huge, frothing bear"
+title: Huge, frothing bear
 ---
 
 **Huge, frothing bears** are aggressive [level](level "wikilink") ~14

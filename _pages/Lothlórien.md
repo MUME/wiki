@@ -1,5 +1,5 @@
 ---
-title: "Lothlórien"
+title: Lothlórien
 ---
 
 ## Lothlorien
@@ -71,3 +71,5 @@ The Gates of \# \| Friends may Caras Galadhon \# \| knock to enter
 `              #_______/`
 
 </pre>
+
+{% include Place.md %}

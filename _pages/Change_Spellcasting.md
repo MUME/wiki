@@ -1,5 +1,5 @@
 ---
-title: "Change Spellcasting"
+title: Change Spellcasting
 ---
 
 With this command you can set or show the default speed for your spells.

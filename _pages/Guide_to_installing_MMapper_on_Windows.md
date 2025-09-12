@@ -1,5 +1,5 @@
 ---
-title: "Guide to installing MMapper on Windows"
+title: Guide to installing MMapper on Windows
 ---
 
 mmapper2 mmapper2 is a graphical mud mapper especially written for the

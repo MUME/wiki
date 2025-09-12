@@ -1,5 +1,5 @@
 ---
-title: "Armourer"
+title: Armourer
 ---
 
 **Armourers** tend the armour [shops](shop "wikilink") in

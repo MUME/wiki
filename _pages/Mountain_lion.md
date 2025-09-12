@@ -1,5 +1,5 @@
 ---
-title: "Mountain lion"
+title: Mountain lion
 ---
 
 \> A mountain lion eyes you closely and prepares to pounce for his next

@@ -1,5 +1,5 @@
 ---
-title: "File:Bear roar.jpg"
+title: File:Bear roar.jpg
 ---
 
 Source: Dave Hurteau of Field & Stream magazine. [Photo

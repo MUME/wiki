@@ -1,5 +1,5 @@
 ---
-title: "Mottled snake"
+title: Mottled snake
 ---
 
 \> A mottled snake is sneaking here, ready to sink its fangs into

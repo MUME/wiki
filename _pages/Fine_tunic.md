@@ -1,5 +1,5 @@
 ---
-title: "Fine tunic"
+title: Fine tunic
 ---
 
 \> **look tunic**
@@ -10,5 +10,7 @@ fine patterns of valuable thread. Such is the garb for nobles!
 \> **consider tunic**
 It is a fine tunic.
 It weighs about one pound.
+
+{% include Equipment.md %}
 
 [Fine tunic](Category:_Cloth_equipment "wikilink")

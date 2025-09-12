@@ -1,5 +1,5 @@
 ---
-title: "Shire Scout Guild"
+title: Shire Scout Guild
 ---
 
 A **well-travelled hobbit** teaches [scout](scout "wikilink")

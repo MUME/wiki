@@ -1,5 +1,5 @@
 ---
-title: "Rules Interrace"
+title: Rules Interrace
 ---
 
 MUME characters belong either to the good races;

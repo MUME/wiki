@@ -1,5 +1,5 @@
 ---
-title: "Rope"
+title: Rope
 ---
 
 Rope is useful for leading groups in areas that require the

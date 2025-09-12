@@ -1,5 +1,5 @@
 ---
-title: "Large yellow apple"
+title: Large yellow apple
 ---
 
 ## Statistics

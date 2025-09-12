@@ -1,5 +1,5 @@
 ---
-title: "Dark-green moss"
+title: Dark-green moss
 ---
 
 **Dark green moss** is used by the [dwarven

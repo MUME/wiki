@@ -1,5 +1,5 @@
 ---
-title: "Wooden target shield"
+title: Wooden target shield
 ---
 
 \> **look shield**
@@ -10,3 +10,5 @@ together.
 \> **consider shield**
 It is a wooden target shield (flawless, seasoned).
 It weighs five pounds.
+
+{% include Equipment.md %}

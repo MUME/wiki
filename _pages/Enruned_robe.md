@@ -1,5 +1,5 @@
 ---
-title: "Enruned robe"
+title: Enruned robe
 ---
 
 \> **examine robe**
@@ -15,6 +15,8 @@ It weighs a couple of pounds.
 
 Can be looted from [Nagrorh](Nagrorh "wikilink") and some other evil
 caster [mobs](mob "wikilink").
+
+{% include Equipment.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category: Body items](Category:_Body_items "wikilink")

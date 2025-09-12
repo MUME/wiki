@@ -1,5 +1,5 @@
 ---
-title: "A gilded rounded shield"
+title: A gilded rounded shield
 ---
 
 Examine shield: It is made from a light metal, yet seems hard and

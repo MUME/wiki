@@ -1,5 +1,5 @@
 ---
-title: "Lockpicks"
+title: Lockpicks
 ---
 
 Lockpicks can be bought from locksmiths and from somewhat more shady

@@ -1,5 +1,5 @@
 ---
-title: "Detect Invisibility"
+title: Detect Invisibility
 ---
 
 <nowiki>g Syntax : cast 'detect invisibility' Type : Detection

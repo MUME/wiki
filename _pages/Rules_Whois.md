@@ -1,5 +1,5 @@
 ---
-title: "Rules Whois"
+title: Rules Whois
 ---
 
 `* Your whois must NOT emulate any game output, or in any other way act as`

@@ -1,5 +1,5 @@
 ---
-title: "Race"
+title: Race
 ---
 
 There are nine different races you can play on MUME.

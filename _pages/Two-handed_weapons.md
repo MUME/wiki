@@ -1,5 +1,5 @@
 ---
-title: "Two-handed weapons"
+title: Two-handed weapons
 ---
 
 ## Two Handed Weapons

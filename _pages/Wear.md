@@ -1,5 +1,5 @@
 ---
-title: "Wear"
+title: Wear
 ---
 
 This command is used for wearing some clothes, armour or the like. If a

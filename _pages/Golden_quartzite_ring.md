@@ -1,5 +1,5 @@
 ---
-title: "Golden quartzite ring"
+title: Golden quartzite ring
 ---
 
 This plain ring is made of gold. The band has been tarnished lightly by

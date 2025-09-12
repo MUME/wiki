@@ -1,5 +1,5 @@
 ---
-title: "Detect Poison"
+title: Detect Poison
 ---
 
 **Detect Poison** is a level 2 [cleric](cleric "wikilink")

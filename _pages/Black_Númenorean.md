@@ -1,5 +1,5 @@
 ---
-title: "Black Númenorean"
+title: Black Númenorean
 ---
 
 The origin of the first black Númenóreans is in the latter half of the

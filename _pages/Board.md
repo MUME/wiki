@@ -1,5 +1,5 @@
 ---
-title: "Board"
+title: Board
 ---
 
 In order to start a trip by ferry, use the 'Board' command. When you

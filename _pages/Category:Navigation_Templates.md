@@ -1,5 +1,5 @@
 ---
-title: "Category:Navigation Templates"
+title: Category:Navigation Templates
 ---
 
 These templates are in charge of the Navigational Boxes. Do not edit

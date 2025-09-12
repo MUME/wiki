@@ -1,5 +1,5 @@
 ---
-title: "Attack"
+title: Attack
 ---
 
 ## Attack

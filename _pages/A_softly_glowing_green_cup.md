@@ -1,5 +1,5 @@
 ---
-title: "A softly glowing green cup"
+title: A softly glowing green cup
 ---
 
 1.  REDIRECT [Softly glowing green

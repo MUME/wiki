@@ -1,5 +1,5 @@
 ---
-title: "Fornost Scout Guild"
+title: Fornost Scout Guild
 ---
 
 A **veteran Dúnadan scout** teaches at the **Scout Training Room** in

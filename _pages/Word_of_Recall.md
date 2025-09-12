@@ -1,5 +1,5 @@
 ---
-title: "Word of Recall"
+title: Word of Recall
 ---
 
 **Word of Recall** is a level 11 [cleric](cleric "wikilink")

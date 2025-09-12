@@ -1,5 +1,5 @@
 ---
-title: "Category:Cleric spells"
+title: Category:Cleric spells
 ---
 
 [Category: Spells](Category:_Spells "wikilink")

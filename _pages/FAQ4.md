@@ -1,5 +1,5 @@
 ---
-title: "FAQ4"
+title: FAQ4
 ---
 
 Q: "How do I hunt for food?"

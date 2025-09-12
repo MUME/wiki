@@ -1,5 +1,5 @@
 ---
-title: "Empty"
+title: Empty
 ---
 
 If you wish to **empty** a [container](container "wikilink"), you can

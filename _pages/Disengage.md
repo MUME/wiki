@@ -1,5 +1,5 @@
 ---
-title: "Disengage"
+title: Disengage
 ---
 
 Allows you to stop the fight unless you are the character who is

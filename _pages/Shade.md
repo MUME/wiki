@@ -1,5 +1,5 @@
 ---
-title: "Shade"
+title: Shade
 ---
 
 **Shades** are aggressive level ? [mobs](mob "wikilink"). They are

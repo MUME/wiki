@@ -1,5 +1,5 @@
 ---
-title: "A rigid leather breastplate"
+title: A rigid leather breastplate
 ---
 
 1.  REDIRECT [Rigid leather

@@ -1,5 +1,5 @@
 ---
-title: "Socials"
+title: Socials
 ---
 
 ac(cuse) che(er) fr(own) mas(sage) sha(ke) sy(mpathize) ad(monish)

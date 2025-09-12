@@ -1,5 +1,5 @@
 ---
-title: "Basinet"
+title: Basinet
 ---
 
 \> **look basinet**
@@ -11,6 +11,8 @@ It weighs five pounds.
 ## Other
 
 Reduces [offensive bonus](offensive_bonus "wikilink") slightly.
+
+{% include Equipment.md %}
 
 [Basinet](Category:_Metal_equipment "wikilink")
 [Basinet](Category:_Head_items "wikilink")

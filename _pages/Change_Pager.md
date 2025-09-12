@@ -1,5 +1,5 @@
 ---
-title: "Change Pager"
+title: Change Pager
 ---
 
 This setting affects how display from the "view" command is done.

@@ -1,5 +1,5 @@
 ---
-title: "Dispel Evil"
+title: Dispel Evil
 ---
 
 **Dispel Evil** is a level 12 [cleric](cleric "wikilink")

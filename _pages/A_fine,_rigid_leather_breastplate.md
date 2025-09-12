@@ -1,5 +1,5 @@
 ---
-title: "A fine, rigid leather breastplate"
+title: A fine, rigid leather breastplate
 ---
 
 1.  REDIRECT [Fine, rigid leather

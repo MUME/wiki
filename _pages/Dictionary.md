@@ -1,5 +1,5 @@
 ---
-title: "Dictionary"
+title: Dictionary
 ---
 
 With the **dictionary** command, you can get a short description of

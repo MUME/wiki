@@ -1,5 +1,5 @@
 ---
-title: "Forest green cloak"
+title: Forest green cloak
 ---
 
 Leafy green hues swathe into light brown tones to make the fabric of

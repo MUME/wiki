@@ -1,5 +1,5 @@
 ---
-title: "Death trap"
+title: Death trap
 ---
 
 A death trap is a room where anyone who enters dies immediately.

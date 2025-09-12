@@ -1,5 +1,5 @@
 ---
-title: "Ainur"
+title: Ainur
 ---
 
 The **Ainur** are the immortals of [MUME](MUME "wikilink"). They do not

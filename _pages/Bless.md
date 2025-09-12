@@ -1,5 +1,5 @@
 ---
-title: "Bless"
+title: Bless
 ---
 
 <nowiki>g Syntax : cast 'bless' Type : Miscellaneous Accumulative: No

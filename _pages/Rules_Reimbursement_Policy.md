@@ -1,5 +1,5 @@
 ---
-title: "Rules Reimbursement Policy"
+title: Rules Reimbursement Policy
 ---
 
 Here are some examples of former policies as guidelines when you want

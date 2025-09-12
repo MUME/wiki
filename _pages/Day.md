@@ -1,5 +1,5 @@
 ---
-title: "Day"
+title: Day
 ---
 
 Day names: <nowiki>g

@@ -1,5 +1,5 @@
 ---
-title: "Small wooden target shield"
+title: Small wooden target shield
 ---
 
 \> **look shield**
@@ -9,5 +9,7 @@ protection for two-handed weapon-users.
 \> **consider shield**
 It is a small wooden target shield.
 It weighs four pounds.
+
+{% include Equipment.md %}
 
 [Small wooden target shield](Category:_Shields "wikilink")

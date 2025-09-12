@@ -1,5 +1,5 @@
 ---
-title: "Gilded round shield"
+title: Gilded round shield
 ---
 
 \> **look shield**
@@ -9,5 +9,7 @@ lies the heraldry of Arthedain.
 \> **consider shield**
 It is a gilded round shield.
 It weighs one stone and three pounds.
+
+{% include Equipment.md %}
 
 [Gilded round shield](Category:_Shields "wikilink")

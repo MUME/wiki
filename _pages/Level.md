@@ -1,5 +1,5 @@
 ---
-title: "Level"
+title: Level
 ---
 
 With every new level, [practice](practice "wikilink") points become

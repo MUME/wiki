@@ -1,5 +1,5 @@
 ---
-title: "Forlond Tailor"
+title: Forlond Tailor
 ---
 
 An [elven tailor](elven_tailor "wikilink") tends the **Tailor's Shop**

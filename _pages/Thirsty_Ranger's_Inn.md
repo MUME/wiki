@@ -1,5 +1,5 @@
 ---
-title: "Thirsty Ranger's Inn"
+title: Thirsty Ranger's Inn
 ---
 
 The **Thirsty Ranger's Inn** is a tavern in

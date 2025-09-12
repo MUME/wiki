@@ -1,5 +1,5 @@
 ---
-title: "Malardil's guardsman"
+title: Malardil's guardsman
 ---
 
 **Malardil's guardsmen** are aggressive [level](level "wikilink") ?

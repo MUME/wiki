@@ -1,5 +1,5 @@
 ---
-title: "Category:Weapons"
+title: Category:Weapons
 ---
 
 [Weapons](Weapon "wikilink") in [MUME](MUME "wikilink").

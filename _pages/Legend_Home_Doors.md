@@ -1,5 +1,5 @@
 ---
-title: "Legend Home Doors"
+title: Legend Home Doors
 ---
 
 When creating your legend home you will be able to decide certain

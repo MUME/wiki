@@ -1,5 +1,5 @@
 ---
-title: "Anduin Vale"
+title: Anduin Vale
 ---
 
 ## Anduin Vale

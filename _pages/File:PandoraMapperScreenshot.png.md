@@ -1,5 +1,5 @@
 ---
-title: "File:PandoraMapperScreenshot.png"
+title: File:PandoraMapperScreenshot.png
 ---
 
 Screenshot of PandoraMapper

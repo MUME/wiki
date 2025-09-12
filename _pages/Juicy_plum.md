@@ -1,5 +1,5 @@
 ---
-title: "Juicy plum"
+title: Juicy plum
 ---
 
 \> **look plum**
@@ -8,5 +8,7 @@ there. It is egg-shaped and about two inches in diameter.
 \> **consider plum**
 It is a juicy plum.
 It weighs half a pound.
+
+{% include Equipment.md %}
 
 [Juicy plum](Category:_Consumables "wikilink")

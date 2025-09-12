@@ -1,5 +1,5 @@
 ---
-title: "A large wooden full shield"
+title: A large wooden full shield
 ---
 
 1.  REDIRECT [Large wooden full

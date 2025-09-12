@@ -1,5 +1,5 @@
 ---
-title: "File:Hobbits.jpg"
+title: File:Hobbits.jpg
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

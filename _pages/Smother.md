@@ -1,5 +1,5 @@
 ---
-title: "Smother"
+title: Smother
 ---
 
 <nowiki>g Syntax : cast 'smother' \[victim\] Type : Offensive, physical

@@ -1,5 +1,5 @@
 ---
-title: "Ent"
+title: Ent
 ---
 
 Ents, Shepherds of the Trees, created at the prayer of Yavanna the Vala

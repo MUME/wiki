@@ -1,5 +1,5 @@
 ---
-title: "The Foaming Mug"
+title: The Foaming Mug
 ---
 
 The **Foaming Mug** is an [inn](inn "wikilink") in [Black

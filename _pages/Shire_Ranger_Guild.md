@@ -1,5 +1,5 @@
 ---
-title: "Shire Ranger Guild"
+title: Shire Ranger Guild
 ---
 
 A **ranger** teaches [ranger](general "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Camp"
+title: Camp
 ---
 
 \[Delayed Command\]

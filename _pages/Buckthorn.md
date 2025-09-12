@@ -1,5 +1,5 @@
 ---
-title: "Buckthorn"
+title: Buckthorn
 ---
 
 **Buckthorns** are aggressive, [evil](evil "wikilink")

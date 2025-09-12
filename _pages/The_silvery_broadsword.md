@@ -1,5 +1,5 @@
 ---
-title: "The silvery broadsword"
+title: The silvery broadsword
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

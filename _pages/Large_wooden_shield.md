@@ -1,5 +1,5 @@
 ---
-title: "Large wooden shield"
+title: Large wooden shield
 ---
 
 \> **look shield**
@@ -9,5 +9,7 @@ yet it seems to be very effective.
 \> **consider shield**
 It is a large wooden shield.
 It weighs nine pounds.
+
+{% include Equipment.md %}
 
 [Large wooden shield](Category:_Shields "wikilink")

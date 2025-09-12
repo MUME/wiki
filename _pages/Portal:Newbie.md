@@ -1,5 +1,5 @@
 ---
-title: "Portal:Newbie"
+title: Portal:Newbie
 ---
 
 1.  REDIRECT [Newbie](Newbie "wikilink")

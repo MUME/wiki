@@ -1,5 +1,5 @@
 ---
-title: "Category:Skills"
+title: Category:Skills
 ---
 
 Skills in [MUME](MUME "wikilink").

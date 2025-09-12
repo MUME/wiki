@@ -1,5 +1,5 @@
 ---
-title: "Barbaras"
+title: Barbaras
 ---
 
 \> The mean bandit leader Barbaras grins at you and draws his sword.

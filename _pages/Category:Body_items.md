@@ -1,4 +1,5 @@
 ---
-title: "Category:Body items"
+title: Category:Body items
 ---
 
+{% include Equipment.md %}

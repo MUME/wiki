@@ -1,5 +1,5 @@
 ---
-title: "Reboot"
+title: Reboot
 ---
 
 Every once in a while MUME will need to **reboot** to incorporate new

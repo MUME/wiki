@@ -1,5 +1,5 @@
 ---
-title: "Teleport"
+title: Teleport
 ---
 
 <nowiki>gSyntax : cast 'teleport' <location> Type : Long range

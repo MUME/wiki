@@ -1,5 +1,5 @@
 ---
-title: "Black padded boots"
+title: Black padded boots
 ---
 
 **\>examine boots** The boots are made of a rough black leather. The

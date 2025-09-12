@@ -1,5 +1,5 @@
 ---
-title: "Category:Newbie Help"
+title: Category:Newbie Help
 ---
 
 A list of newbie guides.

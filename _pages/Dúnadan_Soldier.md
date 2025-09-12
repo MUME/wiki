@@ -1,5 +1,5 @@
 ---
-title: "Dúnadan Soldier"
+title: Dúnadan Soldier
 ---
 
 \>**examine soldier**

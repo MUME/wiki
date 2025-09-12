@@ -1,5 +1,5 @@
 ---
-title: "Sturdy chain mail hauberk"
+title: Sturdy chain mail hauberk
 ---
 
 \> **examine hauberk**
@@ -13,6 +13,7 @@ space between the rings.
 \> **consider hauberk**
 It is a sturdy chain mail hauberk.
 It weighs eight pounds.
+{% include Equipment.md %}
 
 [Category: Chain equipment](Category:_Chain_equipment "wikilink")
 [Category: Body items](Category:_Body_items "wikilink")

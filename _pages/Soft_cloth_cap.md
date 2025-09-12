@@ -1,5 +1,5 @@
 ---
-title: "Soft cloth cap"
+title: Soft cloth cap
 ---
 
 \> **look cap**
@@ -14,3 +14,5 @@ eyes from the sun.
 \> **consider cap**
 It is a soft cloth cap'.
 It weighs a few ounces.
+
+{% include Equipment.md %}

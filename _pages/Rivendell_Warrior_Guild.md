@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Warrior Guild"
+title: Rivendell Warrior Guild
 ---
 
 An **elven knight** teaches [warrior](warrior "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Train"
+title: Train
 ---
 
 The 'train' command has three different purposes.

@@ -1,5 +1,5 @@
 ---
-title: "Divination"
+title: Divination
 ---
 
 <nowiki>g Syntax : cast 'divination' Type : Miscellaneous Accumulative:

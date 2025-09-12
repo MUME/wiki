@@ -1,5 +1,5 @@
 ---
-title: "Moria"
+title: Moria
 ---
 
 <nowiki>`g  "Durin is the name that the Dwarves use for the eldest of the Seven`

@@ -1,5 +1,5 @@
 ---
-title: "Depression"
+title: Depression
 ---
 
 When Black Númenóreans backfire a spell, they suffer from depression for

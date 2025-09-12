@@ -1,5 +1,5 @@
 ---
-title: "Enchant"
+title: Enchant
 ---
 
 <nowiki>g Syntax : cast 'enchant' \[weapon\] Type : Miscellaneous

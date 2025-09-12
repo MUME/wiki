@@ -1,5 +1,5 @@
 ---
-title: "Cleaving weapons"
+title: Cleaving weapons
 ---
 
 ## Cleaving

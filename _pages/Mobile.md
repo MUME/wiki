@@ -1,5 +1,5 @@
 ---
-title: "Mobile"
+title: Mobile
 ---
 
 PC is sometimes used as a short form of Player Character, which simply

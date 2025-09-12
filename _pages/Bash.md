@@ -1,5 +1,5 @@
 ---
-title: "Bash"
+title: Bash
 ---
 
 ## Bash

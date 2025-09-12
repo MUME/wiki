@@ -1,5 +1,5 @@
 ---
-title: "Olly's Tavern"
+title: Olly's Tavern
 ---
 
 ## About Olly's Tavern

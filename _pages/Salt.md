@@ -1,5 +1,5 @@
 ---
-title: "Salt"
+title: Salt
 ---
 
 A chunk of salt can be used when cooking to help preserve the food. Salt

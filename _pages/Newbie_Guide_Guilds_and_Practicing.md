@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Guilds and Practicing"
+title: Newbie Guide Guilds and Practicing
 ---
 
 **Newbie Guide Guilds and Practicing**

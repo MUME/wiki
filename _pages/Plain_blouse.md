@@ -1,5 +1,5 @@
 ---
-title: "Plain blouse"
+title: Plain blouse
 ---
 
 \> **look blouse**
@@ -13,3 +13,5 @@ It weighs a couple of pounds.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}

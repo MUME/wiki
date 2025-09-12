@@ -1,5 +1,5 @@
 ---
-title: "Crumpled, mud-smeared piece of paper"
+title: Crumpled, mud-smeared piece of paper
 ---
 
 The **crumpled, mud-smeared piece of paper** is an
@@ -18,5 +18,7 @@ Havens](Grey_Havens "wikilink").
 `>`**`consider paper`**
 `It is a crumpled, mud-smeared piece of paper.`
 `It weighs about an ounce.`
+
+{% include Items.md %}
 
 [Category: Quest items](Category:_Quest_items "wikilink")

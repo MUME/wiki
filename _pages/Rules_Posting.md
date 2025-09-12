@@ -1,5 +1,5 @@
 ---
-title: "Rules Posting"
+title: Rules Posting
 ---
 
 These are very simple rules to follow on all mortal boards. If you fail

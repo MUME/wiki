@@ -1,5 +1,5 @@
 ---
-title: "Good races"
+title: Good races
 ---
 
 The good races are the Free Peoples of Arda. They consist of:

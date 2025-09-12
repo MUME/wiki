@@ -1,5 +1,5 @@
 ---
-title: "Black Dagger Guild"
+title: Black Dagger Guild
 ---
 
 The Black Dagger Guild?

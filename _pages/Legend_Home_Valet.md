@@ -1,5 +1,5 @@
 ---
-title: "Legend Home Valet"
+title: Legend Home Valet
 ---
 
 Currently there are two choices when deciding on which valet mob you

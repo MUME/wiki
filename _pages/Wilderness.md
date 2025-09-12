@@ -1,5 +1,5 @@
 ---
-title: "Wilderness"
+title: Wilderness
 ---
 
 ## Wilderness

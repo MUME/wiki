@@ -1,5 +1,5 @@
 ---
-title: "Locate"
+title: Locate
 ---
 
 <nowiki>g Syntax : cast 'locate' \[<key>\] \[<max distance>\] Type :

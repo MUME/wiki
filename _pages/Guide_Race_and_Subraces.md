@@ -1,5 +1,5 @@
 ---
-title: "Guide Race and Subraces"
+title: Guide Race and Subraces
 ---
 
 Guide Race and Subraces

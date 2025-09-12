@@ -1,5 +1,5 @@
 ---
-title: "Rules Character Separation"
+title: Rules Character Separation
 ---
 
 1\. Character [separation](Rules_Separation "wikilink"):

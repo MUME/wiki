@@ -1,5 +1,5 @@
 ---
-title: "Sturdy soft leather gloves"
+title: Sturdy soft leather gloves
 ---
 
 \> **look gloves**
@@ -8,3 +8,5 @@ lined with fine rabbit fur to offer comfort as well as protection.
 \> **consider gloves**
 They are a sturdy pair of soft leather gloves.
 They weigh about one pound.
+
+{% include Equipment.md %}

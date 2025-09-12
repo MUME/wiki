@@ -1,5 +1,5 @@
 ---
-title: "Black wolf fur"
+title: Black wolf fur
 ---
 
 \>**examine fur**

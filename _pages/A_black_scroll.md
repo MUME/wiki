@@ -1,5 +1,5 @@
 ---
-title: "A black scroll"
+title: A black scroll
 ---
 
 ## Statistics
@@ -20,5 +20,7 @@ It weighs half a pound.
 The same healing effect of a [blue scroll](A_blue_scroll "wikilink") but
 with a [strength spell](Strength_spell "wikilink") included. Definitely
 the most difficult type of healing scroll to attain.
+
+{% include Equipment.md %}
 
 [Black scroll](Category:_Miscellaneous_equipment "wikilink")

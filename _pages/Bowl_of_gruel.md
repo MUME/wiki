@@ -1,5 +1,5 @@
 ---
-title: "Bowl of gruel"
+title: Bowl of gruel
 ---
 
 \> **look gruel**
@@ -10,3 +10,5 @@ filling.
 \> **consider gruel**
 It is a bowl of gruel.
 It weighs about one pound.
+
+{% include Equipment.md %}

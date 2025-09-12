@@ -1,5 +1,5 @@
 ---
-title: "Offensive bonus"
+title: Offensive bonus
 ---
 
 The **offensive bonus** (OB%) improves the likelyhood of your attacks

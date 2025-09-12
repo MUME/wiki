@@ -1,5 +1,5 @@
 ---
-title: "Cast"
+title: Cast
 ---
 
 cast \[<effort>\] 'spell name' \[<parameters>\]

@@ -1,5 +1,5 @@
 ---
-title: "Dwarven dye-maker"
+title: Dwarven dye-maker
 ---
 
 The **dwarven dye-maker** is a [level](level "wikilink") ~11-12

@@ -1,5 +1,5 @@
 ---
-title: "Faldor the weaponsmith"
+title: Faldor the weaponsmith
 ---
 
 **Faldor the weaponsmith** tends to **Faldor's Fine Weapons** in

@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Doors, Exits, and Exploring"
+title: Newbie Guide Doors, Exits, and Exploring
 ---
 
 Newbie Guide Doors, Exits, and Exploring

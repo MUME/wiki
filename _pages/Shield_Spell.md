@@ -1,5 +1,5 @@
 ---
-title: "Shield Spell"
+title: Shield Spell
 ---
 
 <nowiki>g Syntax : cast 'shield' \[self-only\] Type : Defensive

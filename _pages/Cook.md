@@ -1,5 +1,5 @@
 ---
-title: "Cook"
+title: Cook
 ---
 
 If you have a [pan](pan "wikilink"), and there is some sort of fire in

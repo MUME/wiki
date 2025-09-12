@@ -1,4 +1,4 @@
 ---
-title: "File:Dwarven statue.jpg"
+title: File:Dwarven statue.jpg
 ---
 

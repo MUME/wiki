@@ -1,5 +1,5 @@
 ---
-title: "Raft"
+title: Raft
 ---
 
 **Rafts** are a common type of [boat](boat "wikilink"), often found near
@@ -17,5 +17,7 @@ preferable options.
 `>`**`consider raft`**
 `It is a raft.`
 `It weighs five stone and thirteen pounds.`
+
+{% include Equipment.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

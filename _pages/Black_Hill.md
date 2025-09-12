@@ -1,5 +1,5 @@
 ---
-title: "Black Hill"
+title: Black Hill
 ---
 
 **Black Hill** is a small village located in the [Tower

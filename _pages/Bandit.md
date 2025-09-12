@@ -1,5 +1,5 @@
 ---
-title: "Bandit"
+title: Bandit
 ---
 
 **Bandits** are hostile level ? [mobiles](mobile "wikilink"). They can

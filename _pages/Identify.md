@@ -1,5 +1,5 @@
 ---
-title: "Identify"
+title: Identify
 ---
 
 <nowiki>g Syntax : cast 'identify' // Type : Miscellaneous Accumulative:

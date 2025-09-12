@@ -1,5 +1,5 @@
 ---
-title: "Harm"
+title: Harm
 ---
 
 **Harm** is a level 15 [cleric](cleric "wikilink")

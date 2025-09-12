@@ -1,5 +1,5 @@
 ---
-title: "Skill"
+title: Skill
 ---
 
 ## General

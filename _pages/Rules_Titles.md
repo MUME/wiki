@@ -1,5 +1,5 @@
 ---
-title: "Rules Titles"
+title: Rules Titles
 ---
 
 [Hero](Heroes "wikilink") and [legend](legends "wikilink") on MUME can

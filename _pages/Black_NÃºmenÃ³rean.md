@@ -1,5 +1,5 @@
 ---
-title: "Black NÃºmenÃ³rean"
+title: Black NÃºmenÃ³rean
 ---
 
 In J. R. R. Tolkien's fictional prehistory of the world (Arda), the

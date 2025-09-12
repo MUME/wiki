@@ -1,5 +1,5 @@
 ---
-title: "Dispel Magic"
+title: Dispel Magic
 ---
 
 <nowiki>g Syntax : cast 'dispel magic' Type : Offensive, meta magic

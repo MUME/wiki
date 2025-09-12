@@ -1,5 +1,5 @@
 ---
-title: "Metal vambraces"
+title: Metal vambraces
 ---
 
 \> **examine vambraces**
@@ -15,6 +15,7 @@ vambraces enable attachment to other pieces of armour.
 \> **consider vambraces**
 They are a pair of metal vambraces.
 They weigh twelve pounds.
+{% include Equipment.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Arms items](Category:_Arms_items "wikilink")

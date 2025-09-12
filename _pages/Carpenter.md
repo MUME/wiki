@@ -1,5 +1,5 @@
 ---
-title: "Carpenter"
+title: Carpenter
 ---
 
 The **carpenter** is a [good](alignment "wikilink")

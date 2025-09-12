@@ -1,5 +1,5 @@
 ---
-title: "Consider"
+title: Consider
 ---
 
 Syntax: consider \<mobile \| player \| object\>

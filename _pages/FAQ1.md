@@ -1,5 +1,5 @@
 ---
-title: "FAQ1"
+title: FAQ1
 ---
 
 Q: "I don't understand anything that's going on! Help!"

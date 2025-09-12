@@ -1,5 +1,5 @@
 ---
-title: "View"
+title: View
 ---
 
 The **view** command can be used instead of '[read](read "wikilink")' to

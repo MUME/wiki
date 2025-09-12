@@ -1,5 +1,5 @@
 ---
-title: "Category:Slashing weapons"
+title: Category:Slashing weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

@@ -1,5 +1,5 @@
 ---
-title: "Snakeskin belt"
+title: Snakeskin belt
 ---
 
 <nowiki>g CW\>exa belt The belt looks very tough, as it is made out of a

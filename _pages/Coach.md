@@ -1,5 +1,5 @@
 ---
-title: "Coach"
+title: Coach
 ---
 
 Coaches are a fairly safe, comfortable means of transportation between

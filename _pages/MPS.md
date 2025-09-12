@@ -1,5 +1,5 @@
 ---
-title: "MPS"
+title: MPS
 ---
 
 All players have a limited number of movement points which varies with

@@ -1,5 +1,5 @@
 ---
-title: "Plain silken sash"
+title: Plain silken sash
 ---
 
 \> **look sash**
@@ -11,3 +11,5 @@ It weighs a few ounces.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}

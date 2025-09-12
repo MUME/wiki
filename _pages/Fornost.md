@@ -1,5 +1,5 @@
 ---
-title: "Fornost"
+title: Fornost
 ---
 
 ## Fornost
@@ -74,3 +74,5 @@ part.
 `    --  The map was made by Ticar of Norbury, Sorcerer of Arthedain  --`
 
 </pre>
+
+{% include Place.md %}

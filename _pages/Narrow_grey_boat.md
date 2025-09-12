@@ -1,5 +1,5 @@
 ---
-title: "Narrow grey boat"
+title: Narrow grey boat
 ---
 
 **Narrow grey boats** are a type of [boat](boat "wikilink") found in

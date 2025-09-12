@@ -1,5 +1,5 @@
 ---
-title: "The black sword"
+title: The black sword
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

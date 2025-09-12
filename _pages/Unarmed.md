@@ -1,5 +1,5 @@
 ---
-title: "Unarmed"
+title: Unarmed
 ---
 
 ## Unarmed

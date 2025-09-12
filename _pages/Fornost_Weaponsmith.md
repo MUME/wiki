@@ -1,5 +1,5 @@
 ---
-title: "Fornost Weaponsmith"
+title: Fornost Weaponsmith
 ---
 
 \>**examine weaponsmith**

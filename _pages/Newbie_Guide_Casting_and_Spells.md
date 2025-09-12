@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Casting and Spells"
+title: Newbie Guide Casting and Spells
 ---
 
 Newbie Guide Casting and Spells

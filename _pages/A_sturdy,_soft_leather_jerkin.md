@@ -1,5 +1,5 @@
 ---
-title: "A sturdy, soft leather jerkin"
+title: A sturdy, soft leather jerkin
 ---
 
 1.  REDIRECT [Sturdy, soft leather

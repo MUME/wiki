@@ -1,5 +1,5 @@
 ---
-title: "Dagger"
+title: Dagger
 ---
 
 \> **look dagger**
@@ -36,5 +36,7 @@ It is awful while attacking and average while defending; its speed is
 very fast, and it inflicts very little damage upon hitting.
 It weighs about one pound.
 It looks quite impossible to mend.
+
+{% include Equipment.md %}
 
 [Dagger](Category:_Piercing_weapons "wikilink")

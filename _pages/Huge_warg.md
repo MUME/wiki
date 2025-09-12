@@ -1,5 +1,5 @@
 ---
-title: "Huge warg"
+title: Huge warg
 ---
 
 \> **look warg**

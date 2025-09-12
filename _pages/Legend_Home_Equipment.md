@@ -1,5 +1,5 @@
 ---
-title: "Legend Home Equipment"
+title: Legend Home Equipment
 ---
 
 If you would like to have certain items of equipment loaded into your

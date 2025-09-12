@@ -1,5 +1,5 @@
 ---
-title: "Morthan Blacksoul"
+title: Morthan Blacksoul
 ---
 
 **Morthan Blacksoul** is a bandit who has set up an obstruction on the

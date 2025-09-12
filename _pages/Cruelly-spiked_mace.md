@@ -1,5 +1,5 @@
 ---
-title: "Cruelly-spiked mace"
+title: Cruelly-spiked mace
 ---
 
 **examine mace**

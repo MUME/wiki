@@ -1,5 +1,5 @@
 ---
-title: "Canids"
+title: Canids
 ---
 
 Canids are the wolf-like creatures roaming the wilds of Middle Earth.

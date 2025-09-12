@@ -1,5 +1,5 @@
 ---
-title: "Resize"
+title: Resize
 ---
 
 Use these commands in shops. 'Buy' can also be used in

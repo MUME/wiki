@@ -1,5 +1,5 @@
 ---
-title: "Missile weapon"
+title: Missile weapon
 ---
 
 # Powerful
@@ -57,3 +57,5 @@ It weighs three pounds.
 
 Its accuracy is awful, its speed very fast, and it causes very little
 damage. It weighs half a pound.
+
+{% include Equipment.md %}

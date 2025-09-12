@@ -1,5 +1,5 @@
 ---
-title: "Steel-shafted mattock"
+title: Steel-shafted mattock
 ---
 
 This pounding weapon can be wielded either one- or two-handed. It is

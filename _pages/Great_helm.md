@@ -1,5 +1,5 @@
 ---
-title: "Great helm"
+title: Great helm
 ---
 
 \> **look helm**
@@ -13,3 +13,5 @@ runes.
 \> **consider helm**
 It is a great helm (well-maintained, fresh).
 It weighs seven pounds.
+
+{% include Equipment.md %}

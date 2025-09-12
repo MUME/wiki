@@ -1,5 +1,5 @@
 ---
-title: "Lock picks"
+title: Lock picks
 ---
 
 Lockpicks <nowiki>gThere is a variety of tools, including slim, flat

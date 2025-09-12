@@ -1,5 +1,5 @@
 ---
-title: "Head"
+title: Head
 ---
 
 # Metal
@@ -9,5 +9,7 @@ title: "Head"
 # Leather
 
 # Cloth
+
+{% include Equipment.md %}
 
 [Category:Equipment](Category:Equipment "wikilink")

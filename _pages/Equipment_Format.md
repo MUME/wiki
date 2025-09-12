@@ -1,5 +1,5 @@
 ---
-title: "Equipment Format"
+title: Equipment Format
 ---
 
 To get your equipment in a custom order, you write \`equipment

@@ -1,5 +1,5 @@
 ---
-title: "A sun-emblazoned cloakpin"
+title: A sun-emblazoned cloakpin
 ---
 
 1.  REDIRECT [Sun-emblazoned

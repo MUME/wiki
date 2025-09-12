@@ -1,5 +1,5 @@
 ---
-title: "Rabbit fur shoes"
+title: Rabbit fur shoes
 ---
 
 \> **look shoes**

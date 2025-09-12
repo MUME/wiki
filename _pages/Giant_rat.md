@@ -1,5 +1,5 @@
 ---
-title: "Giant rat"
+title: Giant rat
 ---
 
 **Giant rats** are aggressive [level](level "wikilink") 2

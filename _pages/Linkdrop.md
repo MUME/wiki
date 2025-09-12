@@ -1,5 +1,5 @@
 ---
-title: "Linkdrop"
+title: Linkdrop
 ---
 
 "Change linkdrop" sets an inactivity limit on a connection (in seconds).

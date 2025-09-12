@@ -1,5 +1,5 @@
 ---
-title: "Fornost Warrior Guild"
+title: Fornost Warrior Guild
 ---
 
 **Huor of Dor-lómin** teaches at the **Guild of Warriors** in

@@ -1,5 +1,5 @@
 ---
-title: "Kit"
+title: Kit
 ---
 
 Newbie kits consist of helpful items for young adventurers just starting

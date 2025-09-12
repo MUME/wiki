@@ -1,5 +1,5 @@
 ---
-title: "Thick tangle of vines"
+title: Thick tangle of vines
 ---
 
 \> Some thick writhing vines whip all around you.

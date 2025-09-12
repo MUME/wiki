@@ -1,5 +1,5 @@
 ---
-title: "Alweon's Versatile Caster Newbie Guide"
+title: Alweon's Versatile Caster Newbie Guide
 ---
 
 ## Alweon’s Versatile Caster Newbie Guide

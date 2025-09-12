@@ -1,5 +1,5 @@
 ---
-title: "Forlond Mage Guild"
+title: Forlond Mage Guild
 ---
 
 A **grey haired elf** teaches [mage](mage "wikilink")

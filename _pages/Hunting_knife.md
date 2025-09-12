@@ -1,5 +1,5 @@
 ---
-title: "Hunting knife"
+title: Hunting knife
 ---
 
 \> **look knife**
@@ -16,3 +16,5 @@ It weighs a couple of ounces.
 ## Other
 
 Can be used to [butcher](butcher "wikilink") corpses.
+
+{% include Equipment.md %}

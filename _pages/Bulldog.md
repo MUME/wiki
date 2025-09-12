@@ -1,5 +1,5 @@
 ---
-title: "Bulldog"
+title: Bulldog
 ---
 
 **Bulldogs** are aggressive [level](level "wikilink") ?

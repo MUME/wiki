@@ -1,5 +1,5 @@
 ---
-title: "Lock"
+title: Lock
 ---
 
 1.  Redirect [Open](Open "wikilink")

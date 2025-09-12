@@ -1,5 +1,5 @@
 ---
-title: "MUME:Wiki rules"
+title: MUME:Wiki rules
 ---
 
 The wiki is now up on <http://mume.org/wiki>. It is totally

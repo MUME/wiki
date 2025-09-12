@@ -1,5 +1,5 @@
 ---
-title: "Rules Ainur"
+title: Rules Ainur
 ---
 
 1\. Ainur should be visible if they are handing out punishments.

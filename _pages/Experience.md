@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: Experience
 ---
 
 Whenever you kill a monster or a player, you earn experience points.

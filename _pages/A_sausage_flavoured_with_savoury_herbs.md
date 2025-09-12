@@ -1,5 +1,5 @@
 ---
-title: "A sausage flavoured with savoury herbs"
+title: A sausage flavoured with savoury herbs
 ---
 
 1.  REDIRECT [Sausage flavoured with savoury

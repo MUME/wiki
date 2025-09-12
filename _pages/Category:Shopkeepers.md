@@ -1,5 +1,5 @@
 ---
-title: "Category:Shopkeepers"
+title: Category:Shopkeepers
 ---
 
 [Category: Mobiles](Category:_Mobiles "wikilink")

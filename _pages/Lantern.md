@@ -1,5 +1,5 @@
 ---
-title: "Lantern"
+title: Lantern
 ---
 
 The **lantern** is a [light
@@ -13,6 +13,8 @@ general stores.
 `>`**`consider lantern`**
 `It is a lantern.`
 `It weighs a couple of pounds.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

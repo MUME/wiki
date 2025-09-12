@@ -1,5 +1,5 @@
 ---
-title: "Endurance"
+title: Endurance
 ---
 
 ## Endurance

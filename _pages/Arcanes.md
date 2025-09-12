@@ -1,5 +1,5 @@
 ---
-title: "Arcanes"
+title: Arcanes
 ---
 
 1.  redirect [Language](Language "wikilink")

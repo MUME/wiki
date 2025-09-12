@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Grocer"
+title: Tower Hills Grocer
 ---
 
 A [grocer](grocer "wikilink") tends to the **Traveller's Shop** in

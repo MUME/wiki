@@ -1,5 +1,5 @@
 ---
-title: "Namechanges"
+title: Namechanges
 ---
 
 After much deliberation among MUME Management on the subject of name

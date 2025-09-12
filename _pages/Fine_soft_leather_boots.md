@@ -1,5 +1,5 @@
 ---
-title: "Fine soft leather boots"
+title: Fine soft leather boots
 ---
 
 \> **look boots**
@@ -11,3 +11,5 @@ also keep your feet nice and warm during those long winter walks.
 \> **consider boots**
 They are a fine pair of soft leather boots.
 They weigh a couple of pounds.
+
+{% include Equipment.md %}

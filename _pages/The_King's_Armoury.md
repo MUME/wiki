@@ -1,5 +1,5 @@
 ---
-title: "The King's Armoury"
+title: The King's Armoury
 ---
 
 1.  REDIRECT [Fornost Armourer](Fornost_Armourer "wikilink")

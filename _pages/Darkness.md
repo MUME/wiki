@@ -1,5 +1,5 @@
 ---
-title: "Darkness"
+title: Darkness
 ---
 
 <nowiki>g Syntax : cast 'darkness' Type : Miscellaneous Accumulative: No

@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide to Base Abilities"
+title: Newbie Guide to Base Abilities
 ---
 
 1.  REDIRECT [Newbie Guide to Choosing your Base Abilities or

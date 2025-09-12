@@ -1,5 +1,5 @@
 ---
-title: "A small oaken barrel"
+title: A small oaken barrel
 ---
 
 \> **examine barrel**
@@ -22,3 +22,5 @@ It weighs six stone.
 
 [Quest](Quest "wikilink") item for [the Elven
 Chief](Quest#Elven_Chief "wikilink").
+
+{% include Equipment.md %}

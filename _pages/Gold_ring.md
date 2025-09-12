@@ -1,5 +1,5 @@
 ---
-title: "Gold ring"
+title: Gold ring
 ---
 
 \> **look gold**
@@ -11,5 +11,7 @@ encircle each other intertwining into a spiral.
 \> **consider gold**
 It is a gold ring.
 It weighs a few ounces.
+
+{% include Equipment.md %}
 
 [Gold ring](Category:_Rings "wikilink")

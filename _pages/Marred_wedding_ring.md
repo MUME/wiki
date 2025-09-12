@@ -1,5 +1,5 @@
 ---
-title: "Marred wedding ring"
+title: Marred wedding ring
 ---
 
 The **marred wedding ring** is an [item](item "wikilink") needed for the

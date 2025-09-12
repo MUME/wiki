@@ -1,5 +1,5 @@
 ---
-title: "Leather helmet"
+title: Leather helmet
 ---
 
 \> **look helmet**
@@ -11,3 +11,5 @@ fit, which will be useful in high winds.
 \> **consider helmet**
 It is a leather helmet.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

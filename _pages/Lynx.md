@@ -1,5 +1,5 @@
 ---
-title: "Lynx"
+title: Lynx
 ---
 
 **Lynxes** are passive level ? [mobs](mob "wikilink"), found in various

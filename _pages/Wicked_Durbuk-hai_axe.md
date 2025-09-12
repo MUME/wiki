@@ -1,5 +1,5 @@
 ---
-title: "Wicked Durbuk-hai axe"
+title: Wicked Durbuk-hai axe
 ---
 
 \> **examine axe**
@@ -20,5 +20,6 @@ This cleaving weapon can be wielded one-handed.
 It is good while attacking and average while defending; its speed is
 average, and it inflicts average damage upon hitting.
 It weighs five pounds.
+{% include Equipment.md %}
 
 [Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

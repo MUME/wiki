@@ -1,5 +1,5 @@
 ---
-title: "Young mountain lion"
+title: Young mountain lion
 ---
 
 A young mountain lion is sizing up his next meal from the nearby

@@ -1,5 +1,5 @@
 ---
-title: "Blue Mountains Warrior Guild"
+title: Blue Mountains Warrior Guild
 ---
 
 **Frag** teaches [warrior](warrior "wikilink")

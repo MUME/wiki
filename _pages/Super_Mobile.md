@@ -1,5 +1,5 @@
 ---
-title: "Super Mobile"
+title: Super Mobile
 ---
 
 ## Supermobs

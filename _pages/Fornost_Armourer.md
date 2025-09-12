@@ -1,5 +1,5 @@
 ---
-title: "Fornost Armourer"
+title: Fornost Armourer
 ---
 
 \>**examine armourer**

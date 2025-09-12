@@ -1,5 +1,5 @@
 ---
-title: "Black scroll"
+title: Black scroll
 ---
 
 ## Statistics

@@ -1,5 +1,5 @@
 ---
-title: "Dales-pony"
+title: Dales-pony
 ---
 
 **Dales-ponies** are [level](level "wikilink") ~7

@@ -1,5 +1,5 @@
 ---
-title: "Rules Accounts"
+title: Rules Accounts
 ---
 
 1\. Players can only have _ONE_ account.

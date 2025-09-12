@@ -1,5 +1,5 @@
 ---
-title: "Reinforced leather helmet"
+title: Reinforced leather helmet
 ---
 
 \> **look helmet**
@@ -11,3 +11,5 @@ under your chin.
 \> **consider helmet**
 It is a reinforced leather helmet.
 It weighs three pounds.
+
+{% include Equipment.md %}

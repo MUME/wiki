@@ -1,5 +1,5 @@
 ---
-title: "Bandit bodyguard"
+title: Bandit bodyguard
 ---
 
 \> A sturdy bandit bodyguard stands here, eager to hack you to pieces.

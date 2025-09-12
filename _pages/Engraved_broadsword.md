@@ -1,5 +1,5 @@
 ---
-title: "Engraved broadsword"
+title: Engraved broadsword
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

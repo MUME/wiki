@@ -1,5 +1,5 @@
 ---
-title: "Ceramic cup"
+title: Ceramic cup
 ---
 
 The **ceramic cup** is a [drink](Food_%26_Drink#Drink "wikilink")
@@ -15,5 +15,7 @@ general stores and taverns.
 `>`**`consider cup`**
 `It is a ceramic cup.`
 `It weighs a few ounces.`
+
+{% include Items.md %}
 
 [Category: Containers](Category:_Containers "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Beechbone the Ent"
+title: Beechbone the Ent
 ---
 
 **Beechbone** is an [Ent](Ent "wikilink") living in

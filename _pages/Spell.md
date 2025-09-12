@@ -1,5 +1,5 @@
 ---
-title: "Spell"
+title: Spell
 ---
 
 ## Cleric

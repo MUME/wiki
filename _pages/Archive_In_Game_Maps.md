@@ -1,5 +1,5 @@
 ---
-title: "Archive In Game Maps"
+title: Archive In Game Maps
 ---
 
 Archive of In Game MUME Maps

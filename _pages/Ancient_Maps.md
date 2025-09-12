@@ -1,5 +1,5 @@
 ---
-title: "Ancient Maps"
+title: Ancient Maps
 ---
 
 <div>

@@ -1,5 +1,5 @@
 ---
-title: "Missile Weapons Usage"
+title: Missile Weapons Usage
 ---
 
 ## Missile

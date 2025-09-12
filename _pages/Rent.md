@@ -1,5 +1,5 @@
 ---
-title: "Rent"
+title: Rent
 ---
 
 For use in inns. The command '[Offer](Offer "wikilink")' will make the

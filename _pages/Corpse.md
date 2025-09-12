@@ -1,5 +1,5 @@
 ---
-title: "Corpse"
+title: Corpse
 ---
 
 When a living creature dies, it leaves a body which contains the wordly

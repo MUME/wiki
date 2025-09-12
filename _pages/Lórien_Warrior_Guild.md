@@ -1,5 +1,5 @@
 ---
-title: "Lórien Warrior Guild"
+title: Lórien Warrior Guild
 ---
 
 **Haldir** teaches [warrior](warrior "wikilink")

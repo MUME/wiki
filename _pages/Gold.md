@@ -1,5 +1,5 @@
 ---
-title: "Gold"
+title: Gold
 ---
 
 One gold coin = twenty silver pennies = two thousand copper pennies.

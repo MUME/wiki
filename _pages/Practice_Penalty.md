@@ -1,5 +1,5 @@
 ---
-title: "Practice Penalty"
+title: Practice Penalty
 ---
 
 Practicing skills from classes outside your main class will result in a

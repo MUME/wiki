@@ -1,5 +1,5 @@
 ---
-title: "Suggest name"
+title: Suggest name
 ---
 
 Syntax: **suggest** (a) **name** (for) (a) <gender> <race>

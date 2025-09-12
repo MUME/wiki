@@ -1,5 +1,5 @@
 ---
-title: "Quest"
+title: Quest
 ---
 
 ## Quests

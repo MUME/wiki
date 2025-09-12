@@ -1,5 +1,5 @@
 ---
-title: "Sing"
+title: Sing
 ---
 
 If you want to sing to all the other players in the game, sing it with

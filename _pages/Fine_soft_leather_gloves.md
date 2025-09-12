@@ -1,5 +1,5 @@
 ---
-title: "Fine soft leather gloves"
+title: Fine soft leather gloves
 ---
 
 CW\>**examine** gloves

@@ -1,5 +1,5 @@
 ---
-title: "Buttoned cassock"
+title: Buttoned cassock
 ---
 
 \> **look cassock**
@@ -14,6 +14,8 @@ It weighs five pounds.
 ## Other
 
 Increases [dodge bonus](dodge_bonus "wikilink").
+
+{% include Equipment.md %}
 
 [Buttoned cassock](Category:_Cloth_equipment "wikilink") [Buttoned
 cassock](Category:_Cloaks "wikilink")

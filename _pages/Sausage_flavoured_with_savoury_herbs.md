@@ -1,5 +1,5 @@
 ---
-title: "Sausage flavoured with savoury herbs"
+title: Sausage flavoured with savoury herbs
 ---
 
 \> **look sausage**
@@ -9,5 +9,7 @@ last some time, perfect for those who need to make long journeys.
 \> **consider sausage**
 It is a sausage flavoured with savoury herbs.
 It weighs about one pound.
+
+{% include Equipment.md %}
 
 [Sausage flavoured with savoury herbs](Category:_Consumables "wikilink")

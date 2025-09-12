@@ -1,5 +1,5 @@
 ---
-title: "Horn"
+title: Horn
 ---
 
 \> **look horn**
@@ -11,5 +11,7 @@ sharp.
 This piercing weapon can be wielded one-handed.
 It is awful while attacking and poor while defending; its speed is very
 fast, and it inflicts little damage upon hitting.
+
+{% include Equipment.md %}
 
 [Horn](Category:_Piercing_weapons "wikilink")

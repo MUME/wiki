@@ -1,5 +1,5 @@
 ---
-title: "Large metal full shield"
+title: Large metal full shield
 ---
 
 \> **look shield**
@@ -13,3 +13,5 @@ strips are pinched onto the shield, preventing it from slipping off the
 arm.
 \> **consider shield**
 It is a large metal full shield. It weighs one stone and seven pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Strange golden"
+title: Strange golden
 ---
 
 ## Statistics

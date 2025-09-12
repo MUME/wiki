@@ -1,5 +1,5 @@
 ---
-title: "Sense Life"
+title: Sense Life
 ---
 
 **Sense life** is a level 7 [cleric](cleric "wikilink")

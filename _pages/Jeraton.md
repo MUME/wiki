@@ -1,5 +1,5 @@
 ---
-title: "Jeraton"
+title: Jeraton
 ---
 
 **Jeraton** is a woodcutter living in a small village southwest of

@@ -1,5 +1,5 @@
 ---
-title: "A pike"
+title: A pike
 ---
 
 1.  REDIRECT [Pike](Pike "wikilink")

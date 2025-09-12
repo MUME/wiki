@@ -1,5 +1,5 @@
 ---
-title: "Frodo Baggins"
+title: Frodo Baggins
 ---
 
 Frodo Baggins was a Hobbit of the Third Age, the most famous of all

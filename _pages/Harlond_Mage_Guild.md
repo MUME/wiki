@@ -1,5 +1,5 @@
 ---
-title: "Harlond Mage Guild"
+title: Harlond Mage Guild
 ---
 
 **Malindon** teaches [mage](mage "wikilink") [spells](spells "wikilink")

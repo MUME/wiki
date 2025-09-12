@@ -1,5 +1,5 @@
 ---
-title: "Very large wooden club"
+title: Very large wooden club
 ---
 
 \> **look club**
@@ -13,5 +13,7 @@ This crushing weapon can be wielded two-handed.
 It is poor while attacking and awful while defending; its speed is very
 slow, and it inflicts considerable damage upon hitting.
 It weighs eleven pounds.
+
+{% include Equipment.md %}
 
 [Very large wooden club](Category:_Smiting_weapons "wikilink")

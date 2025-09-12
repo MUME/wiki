@@ -1,5 +1,5 @@
 ---
-title: "Zone"
+title: Zone
 ---
 
 To categorise all rooms in mume, they are divided into superzones. These

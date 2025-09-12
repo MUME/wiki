@@ -1,5 +1,5 @@
 ---
-title: "Shop commands"
+title: Shop commands
 ---
 
 Use these **commands** in [shops](shop "wikilink"). 'Buy' can also be

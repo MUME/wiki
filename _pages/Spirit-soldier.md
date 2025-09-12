@@ -1,5 +1,5 @@
 ---
-title: "Spirit-soldier"
+title: Spirit-soldier
 ---
 
 **Spirit-soldiers** are aggressive level ? [mobs](mob "wikilink") found

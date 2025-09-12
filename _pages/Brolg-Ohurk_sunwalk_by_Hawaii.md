@@ -1,5 +1,5 @@
 ---
-title: "Brolg-Ohurk sunwalk by Hawaii"
+title: Brolg-Ohurk sunwalk by Hawaii
 ---
 
 `Date: 27 apr 2008. `

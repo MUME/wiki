@@ -1,5 +1,5 @@
 ---
-title: "Mudlle"
+title: Mudlle
 ---
 
 Mudlle (MUD Language for Little Extensions) is the online programming

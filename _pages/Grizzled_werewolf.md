@@ -1,5 +1,5 @@
 ---
-title: "Grizzled werewolf"
+title: Grizzled werewolf
 ---
 
 \> An iron-grey wolf stands here, grizzled from countless hunts.

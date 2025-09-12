@@ -1,5 +1,5 @@
 ---
-title: "Balrog"
+title: Balrog
 ---
 
 1.  redirect [Super_Mobile#The

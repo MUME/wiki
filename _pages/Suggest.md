@@ -1,5 +1,5 @@
 ---
-title: "Suggest"
+title: Suggest
 ---
 
 Several functions can be reached through the **suggest** command;

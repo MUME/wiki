@@ -1,5 +1,5 @@
 ---
-title: "Shop"
+title: Shop
 ---
 
 Shops

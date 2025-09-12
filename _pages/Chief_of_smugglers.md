@@ -1,5 +1,5 @@
 ---
-title: "Chief of smugglers"
+title: Chief of smugglers
 ---
 
 The **chief of smugglers** is an aggressive level ?

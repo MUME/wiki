@@ -1,5 +1,5 @@
 ---
-title: "Rules Keyboard"
+title: Rules Keyboard
 ---
 
 It is forbidden for more than one person to use the same keyboard at the

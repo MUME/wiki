@@ -1,5 +1,5 @@
 ---
-title: "Black Numenorean"
+title: Black Numenorean
 ---
 
 1.  1.  Redirect

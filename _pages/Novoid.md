@@ -1,5 +1,5 @@
 ---
-title: "Novoid"
+title: Novoid
 ---
 
 MUME characters have linkless protection: if your link drops, you soon

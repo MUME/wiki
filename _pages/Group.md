@@ -1,5 +1,5 @@
 ---
-title: "Group"
+title: Group
 ---
 
 Syntax : group \[character \[add \| remove \| transfer\]\]

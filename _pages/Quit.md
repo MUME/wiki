@@ -1,5 +1,5 @@
 ---
-title: "Quit"
+title: Quit
 ---
 
 When you get tired of playing, you can leave the game by typing \`quit'.

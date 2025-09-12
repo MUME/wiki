@@ -1,5 +1,5 @@
 ---
-title: "Brown bottle"
+title: Brown bottle
 ---
 
 \> **look bottle**
@@ -13,5 +13,7 @@ It weighs half a pound.
 
 This is an antidote. It cures any poisons you are currently affected by,
 as well as making you immune to poisons for a short while (~1 MUME day).
+
+{% include Equipment.md %}
 
 [Brown bottle](Category:_Miscellaneous_equipment "wikilink")

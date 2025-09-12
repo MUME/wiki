@@ -1,5 +1,5 @@
 ---
-title: "Smuggler"
+title: Smuggler
 ---
 
 **Smugglers** are aggressive level ? [mobiles](mobile "wikilink"), found

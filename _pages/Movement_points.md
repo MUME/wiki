@@ -1,5 +1,5 @@
 ---
-title: "Movement points"
+title: Movement points
 ---
 
 All players have a limited number of movement points which varies with

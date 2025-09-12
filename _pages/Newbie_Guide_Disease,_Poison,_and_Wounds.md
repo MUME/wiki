@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Disease, Poison, and Wounds"
+title: Newbie Guide Disease, Poison, and Wounds
 ---
 
 **Newbie Guide Disease, Poison, and Wounds**

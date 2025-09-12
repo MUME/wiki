@@ -1,5 +1,5 @@
 ---
-title: "Water"
+title: Water
 ---
 
 [Water](Water "wikilink"), the most common thirst-quencher, can be found

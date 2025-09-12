@@ -1,5 +1,5 @@
 ---
-title: "Blindness"
+title: Blindness
 ---
 
 **Blindness** is a level 6 [cleric](cleric "wikilink")

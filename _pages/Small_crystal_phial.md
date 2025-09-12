@@ -1,5 +1,5 @@
 ---
-title: "Small crystal phial"
+title: Small crystal phial
 ---
 
 Sun Phial

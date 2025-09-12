@@ -1,4 +1,4 @@
 ---
-title: "New Hero Guide (Welcome to level 21)"
+title: New Hero Guide (Welcome to level 21)
 ---
 

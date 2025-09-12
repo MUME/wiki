@@ -1,5 +1,5 @@
 ---
-title: "Cotton sleeves"
+title: Cotton sleeves
 ---
 
 **Cotton sleeves** are a piece of cloth
@@ -14,6 +14,8 @@ They are worth around 1 [silver](gold "wikilink") 70 copper.
 `>`**`consider sleeves`**
 `They are a pair of cotton sleeves.`
 `They weigh about one pound.`
+
+{% include Items.md %}
 
 [Category: Arms items](Category:_Arms_items "wikilink") [Category: Cloth
 equipment](Category:_Cloth_equipment "wikilink")

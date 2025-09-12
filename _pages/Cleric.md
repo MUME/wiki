@@ -1,5 +1,5 @@
 ---
-title: "Cleric"
+title: Cleric
 ---
 
 The cleric is the more supportive spell caster. The spells of wisdom

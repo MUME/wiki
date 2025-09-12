@@ -1,5 +1,5 @@
 ---
-title: "MUME:Community Portal"
+title: MUME:Community Portal
 ---
 
 1.  REDIRECT \[\[Wiki rules

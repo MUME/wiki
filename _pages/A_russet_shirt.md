@@ -1,5 +1,5 @@
 ---
-title: "A russet shirt"
+title: A russet shirt
 ---
 
 1.  REDIRECT [Russet shirt](Russet_shirt "wikilink")

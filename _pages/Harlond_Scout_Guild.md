@@ -1,5 +1,5 @@
 ---
-title: "Harlond Scout Guild"
+title: Harlond Scout Guild
 ---
 
 An **elven hunter** teaches [scout](thief "wikilink")

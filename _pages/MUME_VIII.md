@@ -1,5 +1,5 @@
 ---
-title: "MUME VIII"
+title: MUME VIII
 ---
 
 MUME VIII Summary

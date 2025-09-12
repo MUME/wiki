@@ -1,5 +1,5 @@
 ---
-title: "Musty loaf of bread"
+title: Musty loaf of bread
 ---
 
 \> **look bread**
@@ -9,5 +9,7 @@ white and green mould, which is possibly the source of the scent.
 \> **consider bread**
 It is a musty loaf of bread.
 It weighs a few ounces.
+
+{% include Equipment.md %}
 
 [Musty loaf of bread](Category:_Consumables "wikilink")

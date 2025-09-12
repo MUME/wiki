@@ -1,5 +1,5 @@
 ---
-title: "Large clay bowl"
+title: Large clay bowl
 ---
 
 `A very large drinking bowl made of well-worn clay is here.`

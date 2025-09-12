@@ -1,5 +1,5 @@
 ---
-title: "Ingrove Warrior Guild"
+title: Ingrove Warrior Guild
 ---
 
 **Tymen** teaches [warrior](warrior "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Beer bottle"
+title: Beer bottle
 ---
 
 The **beer bottle** is a [drink](drink "wikilink")
@@ -16,5 +16,7 @@ many general stores and taverns, most often containing
 `>`**`consider bottle`**
 `It is a beer bottle.`
 `It weighs about one pound.`
+
+{% include Items.md %}
 
 [Category: Containers](Category:_Containers "wikilink")

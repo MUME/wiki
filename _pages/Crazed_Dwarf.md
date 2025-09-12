@@ -1,5 +1,5 @@
 ---
-title: "Crazed Dwarf"
+title: Crazed Dwarf
 ---
 
 His beard has many years growth and is matted by constant drooling. His

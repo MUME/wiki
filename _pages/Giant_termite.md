@@ -1,5 +1,5 @@
 ---
-title: "Giant termite"
+title: Giant termite
 ---
 
 \> A giant termite is here, crushing skulls and bones.

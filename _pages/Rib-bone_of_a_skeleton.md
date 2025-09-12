@@ -1,5 +1,5 @@
 ---
-title: "Rib-bone of a skeleton"
+title: Rib-bone of a skeleton
 ---
 
 \>**examine bone**

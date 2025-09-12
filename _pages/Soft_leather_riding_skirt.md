@@ -1,5 +1,5 @@
 ---
-title: "Soft leather riding skirt"
+title: Soft leather riding skirt
 ---
 
 \> **look skirt**
@@ -11,3 +11,5 @@ to enfold each leg separately.
 \> **consider skirt**
 It is a soft leather riding skirt.
 It weighs six pounds.
+
+{% include Equipment.md %}

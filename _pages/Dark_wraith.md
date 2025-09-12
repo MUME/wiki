@@ -1,5 +1,5 @@
 ---
-title: "Dark wraith"
+title: Dark wraith
 ---
 
 \> **look wraith**

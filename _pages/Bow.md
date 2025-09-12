@@ -1,5 +1,5 @@
 ---
-title: "Bow"
+title: Bow
 ---
 
 1.  Redirect [Missile](Missile "wikilink")

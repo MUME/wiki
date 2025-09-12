@@ -1,5 +1,5 @@
 ---
-title: "Plain hood"
+title: Plain hood
 ---
 
 \> **look hood**
@@ -17,3 +17,5 @@ It weighs half a pound.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}

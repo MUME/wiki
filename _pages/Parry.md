@@ -1,5 +1,5 @@
 ---
-title: "Parry"
+title: Parry
 ---
 
 ## Parry

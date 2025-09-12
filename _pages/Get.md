@@ -1,5 +1,5 @@
 ---
-title: "Get"
+title: Get
 ---
 
 If you find something interesting on the ground, you may use 'get'

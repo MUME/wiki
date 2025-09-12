@@ -1,5 +1,5 @@
 ---
-title: "Huge, poisonous spider"
+title: Huge, poisonous spider
 ---
 
 **Huge, poisonous spiders** are hostile level ?

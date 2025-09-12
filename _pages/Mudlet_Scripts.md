@@ -1,5 +1,5 @@
 ---
-title: "Mudlet Scripts"
+title: Mudlet Scripts
 ---
 
 # Mudlet

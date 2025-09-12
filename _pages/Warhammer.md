@@ -1,5 +1,5 @@
 ---
-title: "Warhammer"
+title: Warhammer
 ---
 
 \> **look hammer**
@@ -10,3 +10,5 @@ This pounding weapon can be wielded one-handed.
 It is poor while attacking and poor while defending; its speed is
 average, and it inflicts little damage upon hitting.
 It weighs three pounds.
+
+{% include Equipment.md %}

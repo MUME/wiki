@@ -1,5 +1,5 @@
 ---
-title: "Mix"
+title: Mix
 ---
 
 The **mix** command can be used to mix the contents in an [herbal

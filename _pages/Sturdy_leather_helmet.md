@@ -1,5 +1,5 @@
 ---
-title: "Sturdy leather helmet"
+title: Sturdy leather helmet
 ---
 
 \> **look helmet**
@@ -11,3 +11,5 @@ low on your head, just above your eyebrows.
 \> **consider helmet**
 It is a sturdy leather helmet (satisfactory, new).
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

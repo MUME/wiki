@@ -1,5 +1,5 @@
 ---
-title: "Rivendell"
+title: Rivendell
 ---
 
 ## Rivendell
@@ -73,3 +73,5 @@ Path to Valley
 `                       |-----------------------------| `
 
 </pre>
+
+{% include Place.md %}

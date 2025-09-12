@@ -1,5 +1,5 @@
 ---
-title: "GBS"
+title: GBS
 ---
 
 1.  redirect [The great black

@@ -1,4 +1,4 @@
 ---
-title: "File:Mmapper2 2.png"
+title: File:Mmapper2 2.png
 ---
 

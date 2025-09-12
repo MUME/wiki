@@ -1,5 +1,5 @@
 ---
-title: "Shoot"
+title: Shoot
 ---
 
 'SHOOT' is the command used to fire a missile weapon. If you are

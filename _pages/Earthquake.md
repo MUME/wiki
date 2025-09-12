@@ -1,5 +1,5 @@
 ---
-title: "Earthquake"
+title: Earthquake
 ---
 
 <nowiki>g Syntax : cast 'earthquake' Type : Offensive, physical, area

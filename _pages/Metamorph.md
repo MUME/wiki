@@ -1,5 +1,5 @@
 ---
-title: "Metamorph"
+title: Metamorph
 ---
 
 Usage: METAMORPH <ANIMAL> RETURN \[to return to real form\]

@@ -1,5 +1,5 @@
 ---
-title: "Dreadful snake"
+title: Dreadful snake
 ---
 
 \> A large brown snake with black patches is coiled here.

@@ -1,5 +1,5 @@
 ---
-title: "Wound"
+title: Wound
 ---
 
 When fighting mobs or players in MUME there is a chance you may inflict

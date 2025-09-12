@@ -1,5 +1,5 @@
 ---
-title: "Ferocious warg"
+title: Ferocious warg
 ---
 
 ## Description

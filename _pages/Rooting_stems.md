@@ -1,5 +1,5 @@
 ---
-title: "Rooting stems"
+title: Rooting stems
 ---
 
 **Rooting stems** are aggressive, [evil](alignment "wikilink")

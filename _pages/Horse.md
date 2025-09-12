@@ -1,5 +1,5 @@
 ---
-title: "Horse"
+title: Horse
 ---
 
 **Horses** are [rideable](ride "wikilink") [level](level "wikilink") ?

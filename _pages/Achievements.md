@@ -1,5 +1,5 @@
 ---
-title: "Achievements"
+title: Achievements
 ---
 
 The **achievements** command will list various things your character has

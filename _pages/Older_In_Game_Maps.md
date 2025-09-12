@@ -1,5 +1,5 @@
 ---
-title: "Older In Game Maps"
+title: Older In Game Maps
 ---
 
 There are a few earlier in Game maps that are floating around.

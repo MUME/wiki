@@ -1,5 +1,5 @@
 ---
-title: "File:Freya Mume.png"
+title: File:Freya Mume.png
 ---
 
 Freya's excellent logo idea

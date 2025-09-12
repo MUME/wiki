@@ -1,5 +1,5 @@
 ---
-title: "Black metal wristband"
+title: Black metal wristband
 ---
 
 \> **examine wristband**
@@ -30,3 +30,5 @@ slightly more defence. [Dwarves](Dwarves "wikilink") are said to gain an
 even greater boost to OB when in berserk mood, compared to other
 [races](race "wikilink"), although the actual benefits of this are very
 limited.
+
+{% include Equipment.md %}

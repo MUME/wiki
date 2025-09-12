@@ -1,5 +1,5 @@
 ---
-title: "Rapier"
+title: Rapier
 ---
 
 \> **look rapier**
@@ -13,5 +13,7 @@ This piercing weapon can be wielded one-handed.
 It is poor while attacking and good while defending; its speed is very
 fast, and it inflicts little damage upon hitting.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Rapier](Category:_Piercing_weapons "wikilink")

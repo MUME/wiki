@@ -1,5 +1,5 @@
 ---
-title: "Summon"
+title: Summon
 ---
 
 **Summon** is a level 8 [cleric](cleric "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "LothlÃ³rien"
+title: LothlÃ³rien
 ---
 
 test

@@ -1,5 +1,5 @@
 ---
-title: "Black warg fur"
+title: Black warg fur
 ---
 
 ## Statistics

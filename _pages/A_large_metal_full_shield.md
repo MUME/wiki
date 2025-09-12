@@ -1,5 +1,5 @@
 ---
-title: "A large metal full shield"
+title: A large metal full shield
 ---
 
 1.  REDIRECT [Large metal full

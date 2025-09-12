@@ -1,5 +1,5 @@
 ---
-title: "Clump of roots"
+title: Clump of roots
 ---
 
 **Roots** are passive [level](level "wikilink") 12

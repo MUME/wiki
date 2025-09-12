@@ -1,5 +1,5 @@
 ---
-title: "Diminutive rogue"
+title: Diminutive rogue
 ---
 
 **Diminutive rogues** are aggressive [level](level "wikilink") ?

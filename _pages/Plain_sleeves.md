@@ -1,5 +1,5 @@
 ---
-title: "Plain sleeves"
+title: Plain sleeves
 ---
 
 **Plain sleeves** are a piece of cloth [equipment](equipment "wikilink")
@@ -15,6 +15,8 @@ worn on the [arms](arms "wikilink"). They are worth around 80
 `>`**`consider sleeves`**
 `They are a plain pair of sleeves.`
 `They weigh about one pound.`
+
+{% include Items.md %}
 
 [Category: Arms items](Category:_Arms_items "wikilink") [Category: Cloth
 equipment](Category:_Cloth_equipment "wikilink")

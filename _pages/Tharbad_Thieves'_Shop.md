@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Thieves' Shop"
+title: Tharbad Thieves' Shop
 ---
 
 A **grocer** tends to the **Thieves' Shop** in

@@ -1,5 +1,5 @@
 ---
-title: "Gem-inlaid knife"
+title: Gem-inlaid knife
 ---
 
 \> **look gem-inlaid**
@@ -14,5 +14,7 @@ It is poor while attacking and average while defending; its speed is
 very fast, and it inflicts very
 little damage upon hitting.
 It weighs a couple of ounces.
+
+{% include Equipment.md %}
 
 [Gem-inlaid knife](Category:_Piercing_weapons "wikilink")

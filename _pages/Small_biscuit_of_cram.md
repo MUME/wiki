@@ -1,5 +1,5 @@
 ---
-title: "Small biscuit of cram"
+title: Small biscuit of cram
 ---
 
 \> **look cram**
@@ -11,3 +11,5 @@ useful to carry on long journeys in the wilderness.
 \> **consider cram**
 It is a small biscuit of cram.
 It weighs about one pound.
+
+{% include Equipment.md %}

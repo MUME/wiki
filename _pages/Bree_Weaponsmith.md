@@ -1,5 +1,5 @@
 ---
-title: "Bree Weaponsmith"
+title: Bree Weaponsmith
 ---
 
 The **weaponsmith** tends to the **Weapon Shop** in

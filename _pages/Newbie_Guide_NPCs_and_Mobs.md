@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide NPCs and Mobs"
+title: Newbie Guide NPCs and Mobs
 ---
 
 Newbie Guide NPCs and Mobs

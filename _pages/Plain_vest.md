@@ -1,5 +1,5 @@
 ---
-title: "Plain vest"
+title: Plain vest
 ---
 
 \> **look vest**
@@ -11,5 +11,7 @@ It weighs a couple of pounds.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}
 
 [Plain vest](Category:_Cloth_equipment "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Sand viper"
+title: Sand viper
 ---
 
 **Sand vipers** are aggressive [level](level "wikilink") \<10

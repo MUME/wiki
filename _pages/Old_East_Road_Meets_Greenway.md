@@ -1,5 +1,5 @@
 ---
-title: "Old East Road Meets Greenway"
+title: Old East Road Meets Greenway
 ---
 
 This is an intersection of roads to the west of [Bree](Bree "wikilink").

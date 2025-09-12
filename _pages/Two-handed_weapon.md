@@ -1,5 +1,5 @@
 ---
-title: "Two-handed weapon"
+title: Two-handed weapon
 ---
 
 **[Two-handed weapons](Two-handed_weapons "wikilink")** are one of the

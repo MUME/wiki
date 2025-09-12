@@ -1,5 +1,5 @@
 ---
-title: "Hit"
+title: Hit
 ---
 
 This is a good way to start a fight. If you are fighting more than one

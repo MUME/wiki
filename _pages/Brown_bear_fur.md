@@ -1,5 +1,5 @@
 ---
-title: "Brown bear fur"
+title: Brown bear fur
 ---
 
 \> **look fur**
@@ -10,3 +10,5 @@ tied.
 \> **consider fur**
 It is a brown bear fur.
 It weighs one stone and seven pounds.
+
+{% include Equipment.md %}

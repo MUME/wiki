@@ -1,5 +1,5 @@
 ---
-title: "Black arm wrappings"
+title: Black arm wrappings
 ---
 
 \> **examine wrappings**
@@ -15,6 +15,8 @@ They weigh a few ounces.
 ## Other
 
 Provides some protection against poison.
+
+{% include Equipment.md %}
 
 [Pair of black arm wrappings](Category:_Cloth_equipment "wikilink")
 [Pair of black arm wrappings](Category:Arms_items "wikilink")

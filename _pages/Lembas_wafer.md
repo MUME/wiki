@@ -1,5 +1,5 @@
 ---
-title: "Lembas wafer"
+title: Lembas wafer
 ---
 
 ## Statistics

@@ -1,5 +1,5 @@
 ---
-title: "General"
+title: General
 ---
 
 **General [skills](skill "wikilink")** (also known as

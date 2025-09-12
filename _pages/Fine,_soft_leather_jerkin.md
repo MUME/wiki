@@ -1,5 +1,5 @@
 ---
-title: "Fine, soft leather jerkin"
+title: Fine, soft leather jerkin
 ---
 
 \> **look jerkin** This tightly fitting jerkin is constructed from thick
@@ -9,3 +9,5 @@ protection.
 
 \> **consider jerkin** It is a fine, soft leather jerkin. It weighs five
 pounds.
+
+{% include Equipment.md %}

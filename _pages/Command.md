@@ -1,5 +1,5 @@
 ---
-title: "Command"
+title: Command
 ---
 
 ## COMMAND

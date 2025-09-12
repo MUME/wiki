@@ -1,5 +1,5 @@
 ---
-title: "Rules Istari"
+title: Rules Istari
 ---
 
 Istari are expected not to cheat, and to promptly report bugs which

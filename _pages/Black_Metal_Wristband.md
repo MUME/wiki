@@ -1,5 +1,5 @@
 ---
-title: "Black Metal Wristband"
+title: Black Metal Wristband
 ---
 
 ## Statistics

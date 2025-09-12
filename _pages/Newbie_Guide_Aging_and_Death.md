@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Aging and Death"
+title: Newbie Guide Aging and Death
 ---
 
 **Newbie Guide Aging and Death**

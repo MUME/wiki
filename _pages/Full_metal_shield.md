@@ -1,5 +1,5 @@
 ---
-title: "Full metal shield"
+title: Full metal shield
 ---
 
 \> **look shield**
@@ -14,5 +14,7 @@ icons.
 \> **consider shield**
 It is a full metal shield.
 It weighs one stone and five pounds.
+
+{% include Equipment.md %}
 
 [Full metal shield](Category:_Shields "wikilink")

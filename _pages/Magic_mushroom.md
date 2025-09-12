@@ -1,5 +1,5 @@
 ---
-title: "Magic mushroom"
+title: Magic mushroom
 ---
 
 \*# Mana:Burning\>exa food A mushroom lies here, pale brown in colour.

@@ -1,5 +1,5 @@
 ---
-title: "Fine lion pelt"
+title: Fine lion pelt
 ---
 
 \> **look pelt**
@@ -10,3 +10,5 @@ cloak, but it won't keep you dry.
 \> **consider pelt**
 It is a fine lion pelt.
 It weighs seven pounds.
+
+{% include Equipment.md %}

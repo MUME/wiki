@@ -1,5 +1,5 @@
 ---
-title: "Grizzly bear"
+title: Grizzly bear
 ---
 
 \> **look bear**

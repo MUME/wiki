@@ -1,5 +1,5 @@
 ---
-title: "Ashen grey pants"
+title: Ashen grey pants
 ---
 
 \> **look pants**
@@ -13,3 +13,5 @@ They weigh a couple of pounds.
 This shirt is equipped automatically on any [Black
 Númenórean](Black_Númenórean "wikilink") after praying from the Hidden
 Island (if they're not already wearing something else).
+
+{% include Equipment.md %}

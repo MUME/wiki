@@ -1,5 +1,5 @@
 ---
-title: "Protection From Evil"
+title: Protection From Evil
 ---
 
 **Protection from Evil** is a level 4 [cleric](cleric "wikilink")

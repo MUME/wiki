@@ -1,5 +1,5 @@
 ---
-title: "Sturdy soft leather trousers"
+title: Sturdy soft leather trousers
 ---
 
 \> **look trousers**
@@ -13,3 +13,5 @@ flexibility.
 \> **consider trousers**
 They are a sturdy pair of soft leather trousers.
 They weigh four pounds.
+
+{% include Equipment.md %}

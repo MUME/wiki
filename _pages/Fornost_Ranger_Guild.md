@@ -1,5 +1,5 @@
 ---
-title: "Fornost Ranger Guild"
+title: Fornost Ranger Guild
 ---
 
 A **ranger** teaches at the **Ranger's Guild** in

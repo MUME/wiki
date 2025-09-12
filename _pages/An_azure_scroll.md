@@ -1,5 +1,5 @@
 ---
-title: "An azure scroll"
+title: An azure scroll
 ---
 
 \> **examine azure**
@@ -12,5 +12,7 @@ It weighs half a pound.
 ## Opinions
 
 The most common type of healing scroll, but also the least effective.
+
+{% include Equipment.md %}
 
 [Azure scroll](Category:_Miscellaneous_equipment "wikilink")

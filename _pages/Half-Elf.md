@@ -1,5 +1,5 @@
 ---
-title: "Half-Elf"
+title: Half-Elf
 ---
 
 Back in the First Age of the Sun, Lúthien Tinúviel, the daughter of the

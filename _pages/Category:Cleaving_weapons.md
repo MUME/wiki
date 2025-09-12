@@ -1,5 +1,5 @@
 ---
-title: "Category:Cleaving weapons"
+title: Category:Cleaving weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

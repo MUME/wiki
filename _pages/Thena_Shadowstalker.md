@@ -1,5 +1,5 @@
 ---
-title: "Thena Shadowstalker"
+title: Thena Shadowstalker
 ---
 
 **Thena Shadowstalker** is one of [Morthan

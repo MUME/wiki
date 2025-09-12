@@ -1,5 +1,5 @@
 ---
-title: "Time"
+title: Time
 ---
 
 Gives the approximate current 'game time'. This can only be guessed at

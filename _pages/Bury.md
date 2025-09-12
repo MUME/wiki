@@ -1,5 +1,5 @@
 ---
-title: "Bury"
+title: Bury
 ---
 
 Syntax: bury corpse

@@ -1,5 +1,5 @@
 ---
-title: "Shoes"
+title: Shoes
 ---
 
 \> **look shoes**

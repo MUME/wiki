@@ -1,5 +1,5 @@
 ---
-title: "Blackened pendant"
+title: Blackened pendant
 ---
 
 The **blackened pendant** can be worn around the neck. It loads on some

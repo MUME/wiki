@@ -1,5 +1,5 @@
 ---
-title: "Great mottled feline"
+title: Great mottled feline
 ---
 
 **Great mottled felines** are aggressive [level](level "wikilink")

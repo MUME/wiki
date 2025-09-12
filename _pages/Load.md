@@ -1,5 +1,5 @@
 ---
-title: "Load"
+title: Load
 ---
 
 If you have a [crossbow](crossbow "wikilink"), you can

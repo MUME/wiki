@@ -1,5 +1,5 @@
 ---
-title: "Pint"
+title: Pint
 ---
 
 \> **look at pint**
@@ -11,5 +11,7 @@ It weighs three pounds.
 ## Other
 
 Sold in many inns and taverns.
+
+{% include Equipment.md %}
 
 [Category:Containers](Category:Containers "wikilink")

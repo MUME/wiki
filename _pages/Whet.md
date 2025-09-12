@@ -1,5 +1,5 @@
 ---
-title: "Whet"
+title: Whet
 ---
 
 **Whetstones** are small hard stones used for sharpening your

@@ -1,5 +1,5 @@
 ---
-title: "Ranger"
+title: Ranger
 ---
 
 

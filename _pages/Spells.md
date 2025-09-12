@@ -1,5 +1,5 @@
 ---
-title: "Spells"
+title: Spells
 ---
 
 1.  redirect

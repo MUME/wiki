@@ -1,5 +1,5 @@
 ---
-title: "Harlond Baker"
+title: Harlond Baker
 ---
 
 The **elven baker** tends to the **Bakery** in

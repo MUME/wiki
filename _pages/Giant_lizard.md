@@ -1,5 +1,5 @@
 ---
-title: "Giant lizard"
+title: Giant lizard
 ---
 
 \> **look lizard**

@@ -1,5 +1,5 @@
 ---
-title: "Russet cloak"
+title: Russet cloak
 ---
 
 ## Statistics

@@ -1,5 +1,5 @@
 ---
-title: "Remove"
+title: Remove
 ---
 
 To remove equipment you are wearing, wielding or holding.

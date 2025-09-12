@@ -1,5 +1,5 @@
 ---
-title: "Rules Spam"
+title: Rules Spam
 ---
 
 Spamming is an abuse of communication commands since it fills other

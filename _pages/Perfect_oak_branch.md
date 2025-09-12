@@ -1,5 +1,5 @@
 ---
-title: "Perfect oak branch"
+title: Perfect oak branch
 ---
 
 The **perfect oak branch** is an [item](item "wikilink") used in the
@@ -21,6 +21,8 @@ few hours (real-time) in [inventory](inventory "wikilink").
 `>`**`consider branch`**
 `It is a perfect oak branch.`
 `It weighs one stone and three pounds.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Olly"
+title: Olly
 ---
 
 **Olly** is the owner of Olly's Tavern in [Fornost](Fornost "wikilink").

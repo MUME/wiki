@@ -1,5 +1,5 @@
 ---
-title: "Istar Quest"
+title: Istar Quest
 ---
 
 Any player above the level of 20, and with a sufficiently high

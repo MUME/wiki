@@ -1,5 +1,5 @@
 ---
-title: "Colour Spray"
+title: Colour Spray
 ---
 
 <nowiki>g Syntax : cast 'colour spray' \[victim\] Type : Offensive,

@@ -1,5 +1,5 @@
 ---
-title: "Fine metal boots"
+title: Fine metal boots
 ---
 
 \> **look boots**
@@ -11,3 +11,5 @@ makes out an extremely sturdy foot-wear for a warrior.
 \> **consider boots**
 They are a fine pair of metal boots.
 They weigh six pounds.
+
+{% include Equipment.md %}

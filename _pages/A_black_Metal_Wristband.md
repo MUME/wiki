@@ -1,5 +1,5 @@
 ---
-title: "A black Metal Wristband"
+title: A black Metal Wristband
 ---
 
 1.  REDIRECT [A black metal

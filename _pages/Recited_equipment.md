@@ -1,5 +1,5 @@
 ---
-title: "Recited equipment"
+title: Recited equipment
 ---
 
 1.  REDIRECT [Scrolls](Scrolls "wikilink")

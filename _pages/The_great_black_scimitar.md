@@ -1,5 +1,5 @@
 ---
-title: "The great black scimitar"
+title: The great black scimitar
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

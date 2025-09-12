@@ -1,5 +1,5 @@
 ---
-title: "Blue crystal"
+title: Blue crystal
 ---
 
 The **blue crystal** is an [item](item "wikilink") use for creating

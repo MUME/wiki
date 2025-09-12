@@ -1,5 +1,5 @@
 ---
-title: "Locate Magic"
+title: Locate Magic
 ---
 
 <nowiki>g Syntax : cast 'locate magic' good\|evil \[\] Type : Long range

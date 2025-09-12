@@ -1,5 +1,5 @@
 ---
-title: "Thief (mobile)"
+title: Thief (mobile)
 ---
 
 **Thieves** are passive level ? [mobiles](mobile "wikilink"), found in

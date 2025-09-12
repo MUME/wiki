@@ -1,5 +1,5 @@
 ---
-title: "Spam"
+title: Spam
 ---
 
 Usage: spam \[on\|off\]

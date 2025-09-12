@@ -1,5 +1,5 @@
 ---
-title: "Who"
+title: Who
 ---
 
 Lists the people currently in the game (although some people may choose

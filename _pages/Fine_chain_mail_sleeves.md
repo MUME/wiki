@@ -1,5 +1,5 @@
 ---
-title: "Fine chain mail sleeves"
+title: Fine chain mail sleeves
 ---
 
 **Fine chain mail sleeves** are a lightweight piece of mail equipment
@@ -16,6 +16,8 @@ armourers for around 2 [gold](gold "wikilink").
 `>`**`consider sleeves`**
 `They are a fine pair of chain mail sleeves.`
 `They weigh five pounds.`
+
+{% include Items.md %}
 
 [Category: Arms items](Category:_Arms_items "wikilink") [Category: Mail
 equipment](Category:_Mail_equipment "wikilink")

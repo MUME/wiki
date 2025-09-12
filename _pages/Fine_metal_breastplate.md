@@ -1,5 +1,5 @@
 ---
-title: "Fine metal breastplate"
+title: Fine metal breastplate
 ---
 
 \> **look breastplate**
@@ -9,3 +9,5 @@ It will protect its owner from all but the mightiest blows.
 \> **consider breastplate**
 It is a fine metal breastplate (well-maintained, new).
 It weighs one stone and two pounds.
+
+{% include Equipment.md %}

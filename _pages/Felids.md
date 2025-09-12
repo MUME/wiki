@@ -1,5 +1,5 @@
 ---
-title: "Felids"
+title: Felids
 ---
 
 Felids include members of the cat family found throughout Middle Earth.

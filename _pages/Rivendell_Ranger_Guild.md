@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Ranger Guild"
+title: Rivendell Ranger Guild
 ---
 
 A **ranger** teaches [ranger](general "wikilink")

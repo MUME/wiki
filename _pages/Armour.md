@@ -1,5 +1,5 @@
 ---
-title: "Armour"
+title: Armour
 ---
 
 **MUME Armours**

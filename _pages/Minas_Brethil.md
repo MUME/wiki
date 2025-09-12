@@ -1,5 +1,5 @@
 ---
-title: "Minas Brethil"
+title: Minas Brethil
 ---
 
 **Minas Brethil** is a castle just east of

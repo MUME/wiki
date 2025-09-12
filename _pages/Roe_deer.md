@@ -1,5 +1,5 @@
 ---
-title: "Roe deer"
+title: Roe deer
 ---
 
 **Roe deer** are passive [level](level "wikilink") ~1-2

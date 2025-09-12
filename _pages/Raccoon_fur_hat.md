@@ -1,5 +1,5 @@
 ---
-title: "Raccoon fur hat"
+title: Raccoon fur hat
 ---
 
 \> **look hat**
@@ -9,3 +9,5 @@ back of a furry grey cap.
 \> **consider hat**
 It is a raccoon fur hat.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

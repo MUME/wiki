@@ -1,5 +1,5 @@
 ---
-title: "Soft leather jerkin"
+title: Soft leather jerkin
 ---
 
 \> **look jerkin**
@@ -13,3 +13,5 @@ from the elements.
 \> **consider jerkin**
 It is a soft leather jerkin.
 It weighs five pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Rules Mappers"
+title: Rules Mappers
 ---
 
 Please note that while mappers are legal to use on MUME, that does not

@@ -1,4 +1,5 @@
 ---
-title: "Category:Items"
+title: Category:Items
 ---
 
+{% include Items.md %}

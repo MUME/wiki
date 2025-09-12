@@ -1,5 +1,5 @@
 ---
-title: "Kevlar the Armourer"
+title: Kevlar the Armourer
 ---
 
 **Kevlar the Armourer** tends to the **Kevlar's Fine Armour** shop in

@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Travel Points"
+title: Newbie Guide Travel Points
 ---
 
 **Newbie Guide Travel Points**

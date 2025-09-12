@@ -1,5 +1,5 @@
 ---
-title: "Food"
+title: Food
 ---
 
 Food and drink are necessary to survive in the long run. Even though one

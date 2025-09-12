@@ -1,5 +1,5 @@
 ---
-title: "Account"
+title: Account
 ---
 
 Players should have one master ACCOUNT, when logging into mume you can

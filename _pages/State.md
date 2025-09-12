@@ -1,5 +1,5 @@
 ---
-title: "State"
+title: State
 ---
 
 Item damage has internally been represented with two values Item state,

@@ -1,5 +1,5 @@
 ---
-title: "Forlond Cleric Guild"
+title: Forlond Cleric Guild
 ---
 
 An **elven priest** teaches [cleric](cleric "wikilink")

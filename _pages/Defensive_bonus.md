@@ -1,4 +1,4 @@
 ---
-title: "Defensive bonus"
+title: Defensive bonus
 ---
 

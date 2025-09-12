@@ -1,4 +1,5 @@
 ---
-title: "Location"
+title: Location
 ---
 
+{% include Place.md %}

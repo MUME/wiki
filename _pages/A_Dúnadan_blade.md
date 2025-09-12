@@ -1,5 +1,5 @@
 ---
-title: "A Dúnadan blade"
+title: A Dúnadan blade
 ---
 
 This slashing weapon can be wielded one-handed. It is excellent while

@@ -1,5 +1,5 @@
 ---
-title: "Rohirrim"
+title: Rohirrim
 ---
 
 The Rohirrim are the Horse Lords of Rohan. Their name for themselves is

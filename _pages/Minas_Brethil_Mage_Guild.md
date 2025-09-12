@@ -1,5 +1,5 @@
 ---
-title: "Minas Brethil Mage Guild"
+title: Minas Brethil Mage Guild
 ---
 
 A **sorcerer** teaches [mage](mage "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Swift buck"
+title: Swift buck
 ---
 
 **Swift bucks** are passive level ? mobs, common in the area near [Blue

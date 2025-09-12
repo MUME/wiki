@@ -1,5 +1,5 @@
 ---
-title: "Legend Home Prices"
+title: Legend Home Prices
 ---
 
 Legend homes may not be near entrances to cities and they cannot have

@@ -1,5 +1,5 @@
 ---
-title: "Crush"
+title: Crush
 ---
 
 Some plants can be **crushed** from their natural state to create a

@@ -1,5 +1,5 @@
 ---
-title: "Shield of Arthedain"
+title: Shield of Arthedain
 ---
 
 \> **look shield**
@@ -14,5 +14,7 @@ to break asunder.
 It is a shield of Arthedain.
 It weighs one stone and two pounds.
 It fits you well.
+
+{% include Equipment.md %}
 
 [Shield of Arthedain](Category:_Shields "wikilink")

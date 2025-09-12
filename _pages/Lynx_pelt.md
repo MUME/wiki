@@ -1,5 +1,5 @@
 ---
-title: "Lynx pelt"
+title: Lynx pelt
 ---
 
 \> **examine pelt**
@@ -17,6 +17,8 @@ It weighs four pounds.
 
 Obtained by [butchering](butcher "wikilink") [lynxes](lynx "wikilink").
 Has no use for players, but can be sold for about 9 silver.
+
+{% include Equipment.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

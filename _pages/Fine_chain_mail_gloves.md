@@ -1,5 +1,5 @@
 ---
-title: "Fine chain mail gloves"
+title: Fine chain mail gloves
 ---
 
 **Fine chain mail gloves** are a lightweight piece of mail equipment
@@ -16,6 +16,8 @@ armourers for around 1 [gold](gold "wikilink").
 `>`**`consider gloves`**
 `They are a fine pair of chain mail gloves.`
 `They weigh three pounds.`
+
+{% include Items.md %}
 
 [Category: Hands items](Category:_Hands_items "wikilink") [Category:
 Mail equipment](Category:_Mail_equipment "wikilink")

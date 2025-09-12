@@ -1,5 +1,5 @@
 ---
-title: "MUME I"
+title: MUME I
 ---
 
 MUME I was released onto an unexpecting Internet in January 1992 from

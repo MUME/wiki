@@ -1,5 +1,5 @@
 ---
-title: "Ingrove Ranger Guild"
+title: Ingrove Ranger Guild
 ---
 
 **Ilyne** teaches [ranger](ranger "wikilink") [skills](skill "wikilink")

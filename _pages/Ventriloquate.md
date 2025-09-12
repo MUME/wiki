@@ -1,5 +1,5 @@
 ---
-title: "Ventriloquate"
+title: Ventriloquate
 ---
 
 <nowiki>g Syntax : cast 'ventriloquate' Type : Miscellaneous

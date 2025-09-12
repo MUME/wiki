@@ -1,5 +1,5 @@
 ---
-title: "Category:Chain equipment"
+title: Category:Chain equipment
 ---
 
 1.  REDIRECT [:Category:Mail

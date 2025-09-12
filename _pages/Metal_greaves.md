@@ -1,5 +1,5 @@
 ---
-title: "Metal greaves"
+title: Metal greaves
 ---
 
 \> **examine greaves**
@@ -15,6 +15,7 @@ to other pieces of armour.
 \> **consider greaves**
 They are a pair of metal greaves.
 They weigh thirteen pounds.
+{% include Equipment.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Legs items](Category:_Legs_items "wikilink")

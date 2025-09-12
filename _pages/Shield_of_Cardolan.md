@@ -1,5 +1,5 @@
 ---
-title: "Shield of Cardolan"
+title: Shield of Cardolan
 ---
 
 The **shield of Cardolan** is a lightweight [shield](shield "wikilink")
@@ -15,5 +15,7 @@ armourers for around 7 [gold](gold "wikilink") and 16 silver.
 `>`**`consider cardolan`**
 `It is a shield of Cardolan.`
 `It weighs one stone and two pounds.`
+
+{% include Items.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

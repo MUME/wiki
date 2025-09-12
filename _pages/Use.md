@@ -1,5 +1,5 @@
 ---
-title: "Use"
+title: Use
 ---
 
 Syntax: **use** <Item> <Target>

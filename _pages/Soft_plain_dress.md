@@ -1,5 +1,5 @@
 ---
-title: "Soft plain dress"
+title: Soft plain dress
 ---
 
 \> **look dress**
@@ -13,3 +13,5 @@ It weighs about one pound.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}

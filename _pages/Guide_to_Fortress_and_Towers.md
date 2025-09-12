@@ -1,5 +1,5 @@
 ---
-title: "Guide to Fortress and Towers"
+title: Guide to Fortress and Towers
 ---
 
 **Guide to Fortress and Towers**

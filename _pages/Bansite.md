@@ -1,5 +1,5 @@
 ---
-title: "Bansite"
+title: Bansite
 ---
 
 The **bansite** command lists the currently banned sites. Players trying

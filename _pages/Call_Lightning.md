@@ -1,5 +1,5 @@
 ---
-title: "Call Lightning"
+title: Call Lightning
 ---
 
 <nowiki>g Syntax : cast 'call lightning' \[victim\] Type : Offensive,

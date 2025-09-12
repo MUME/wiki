@@ -1,5 +1,5 @@
 ---
-title: "Learn"
+title: Learn
 ---
 
 It is possible to learn a skill from another player if:

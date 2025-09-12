@@ -1,5 +1,5 @@
 ---
-title: "Noble stag"
+title: Noble stag
 ---
 
 \> A huge stag with a great span of antlers is warily browsing on the

@@ -1,5 +1,5 @@
 ---
-title: "Black runed dagger"
+title: Black runed dagger
 ---
 
 This piercing weapon can be wielded one-handed. It is good while

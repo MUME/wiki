@@ -1,5 +1,5 @@
 ---
-title: "An icy ring"
+title: An icy ring
 ---
 
 !# CW\>**examine icy**
@@ -30,5 +30,7 @@ mostly 'nifty to have' item, rather than an essential.
 shows that the ring in question has taken the first step down to
 dissolving - much like weapons and armour go from flawless to
 well-maintained.</small>
+
+{% include Equipment.md %}
 
 [Icy ring](Category:_Rings "wikilink")

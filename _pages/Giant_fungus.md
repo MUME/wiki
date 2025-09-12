@@ -1,5 +1,5 @@
 ---
-title: "Giant fungus"
+title: Giant fungus
 ---
 
 **Giant fungi** are passive [level](level "wikilink") \<10

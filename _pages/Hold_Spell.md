@@ -1,5 +1,5 @@
 ---
-title: "Hold Spell"
+title: Hold Spell
 ---
 
 <nowiki>g Syntax : cast 'hold' Type : Offensive, mental Accumulative: No

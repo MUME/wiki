@@ -1,5 +1,5 @@
 ---
-title: "Call"
+title: Call
 ---
 
 Most fortified towns on Arda close their gates at night. If you are a

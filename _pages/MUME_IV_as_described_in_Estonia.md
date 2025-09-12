@@ -1,5 +1,5 @@
 ---
-title: "MUME IV as described in Estonia"
+title: MUME IV as described in Estonia
 ---
 
 ## .exe Magazine - Issue 5 - July 1994

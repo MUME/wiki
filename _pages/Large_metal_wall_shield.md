@@ -1,5 +1,5 @@
 ---
-title: "Large metal wall shield"
+title: Large metal wall shield
 ---
 
 \*# C\>exa shield The sheer size of this huge shield affords you a wide

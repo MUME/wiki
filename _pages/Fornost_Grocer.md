@@ -1,5 +1,5 @@
 ---
-title: "Fornost Grocer"
+title: Fornost Grocer
 ---
 
 The **grocer** tends to the **Grocery** in

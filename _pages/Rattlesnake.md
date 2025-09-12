@@ -1,5 +1,5 @@
 ---
-title: "Rattlesnake"
+title: Rattlesnake
 ---
 
 \> A diamond-back rattlesnake is coiled here, ready to strike.

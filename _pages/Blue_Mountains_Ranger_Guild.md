@@ -1,5 +1,5 @@
 ---
-title: "Blue Mountains Ranger Guild"
+title: Blue Mountains Ranger Guild
 ---
 
 An **aged dwarf** teaches [ranger](general "wikilink")

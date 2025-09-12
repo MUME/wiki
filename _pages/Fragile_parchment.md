@@ -1,5 +1,5 @@
 ---
-title: "Fragile parchment"
+title: Fragile parchment
 ---
 
 ## Statistics

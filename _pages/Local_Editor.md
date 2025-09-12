@@ -1,5 +1,5 @@
 ---
-title: "Local Editor"
+title: Local Editor
 ---
 
 The MUME remote editing protocol is a mechanism that allows users to

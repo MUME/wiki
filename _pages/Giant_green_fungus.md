@@ -1,5 +1,5 @@
 ---
-title: "Giant green fungus"
+title: Giant green fungus
 ---
 
 **Giant green fungi** are aggressive, [evil](alignment "wikilink")

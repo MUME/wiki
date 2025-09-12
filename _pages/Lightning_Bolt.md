@@ -1,5 +1,5 @@
 ---
-title: "Lightning Bolt"
+title: Lightning Bolt
 ---
 
 <nowiki>g Syntax : cast 'lightning bolt' \[victim\] Type : Offensive,

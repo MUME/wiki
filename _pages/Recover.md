@@ -1,5 +1,5 @@
 ---
-title: "Recover"
+title: Recover
 ---
 
 While wearing a quiver, a bolt case or a pouch for slingstones, you can

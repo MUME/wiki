@@ -1,5 +1,5 @@
 ---
-title: "Castle key"
+title: Castle key
 ---
 
 The **castle key** can be used to unlock some [doors](door "wikilink")
@@ -16,5 +16,7 @@ guardpost south of the main gate, as well as
 `>`**`consider key`**
 `It is a castle key.`
 `It weighs a couple of pounds.`
+
+{% include Items.md %}
 
 [Category: Keys](Category:_Keys "wikilink")

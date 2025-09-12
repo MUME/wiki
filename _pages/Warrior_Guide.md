@@ -1,5 +1,5 @@
 ---
-title: "Warrior Guide"
+title: Warrior Guide
 ---
 
 Credits: Originally by Argor

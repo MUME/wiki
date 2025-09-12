@@ -1,5 +1,5 @@
 ---
-title: "Brown fox"
+title: Brown fox
 ---
 
 **Brown foxes** are passive [level](level "wikilink") ~1-2

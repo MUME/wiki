@@ -1,5 +1,5 @@
 ---
-title: "Curse"
+title: Curse
 ---
 
 <nowiki>g

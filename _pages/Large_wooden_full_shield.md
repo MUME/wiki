@@ -1,5 +1,5 @@
 ---
-title: "Large wooden full shield"
+title: Large wooden full shield
 ---
 
 \> **look shield**
@@ -11,3 +11,5 @@ metal.
 \> **consider shield**
 It is a large wooden full shield.
 It weighs one stone and two pounds.
+
+{% include Equipment.md %}

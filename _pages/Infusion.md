@@ -1,5 +1,5 @@
 ---
-title: "Infusion"
+title: Infusion
 ---
 
 An **infusion** is a potion that can cure some
@@ -16,5 +16,7 @@ be found inside the Great Smials in the [Shire](Shire "wikilink").
 `>`**`consider infusion`**
 `It is an infusion.`
 `It weighs half a pound.`
+
+{% include Equipment.md %}
 
 [Category: Consumables](Category:_Consumables "wikilink")

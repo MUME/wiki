@@ -1,4 +1,5 @@
 ---
-title: "Category:Playable races"
+title: Category:Playable races
 ---
 
+{% include ClassRace.md %}

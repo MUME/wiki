@@ -1,5 +1,5 @@
 ---
-title: "Bree Scout Guild"
+title: Bree Scout Guild
 ---
 
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")

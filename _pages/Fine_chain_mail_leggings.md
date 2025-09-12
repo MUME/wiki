@@ -1,5 +1,5 @@
 ---
-title: "Fine chain mail leggings"
+title: Fine chain mail leggings
 ---
 
 **Fine chain mail leggings** are a lightweight piece of mail equipment
@@ -15,6 +15,8 @@ armourers for around 2 [gold](gold "wikilink").
 `>`**`consider leggings`**
 `They are a fine pair of chain mail leggings.`
 `They weigh six pounds.`
+
+{% include Items.md %}
 
 [Category: Legs items](Category:_Legs_items "wikilink") [Category: Mail
 equipment](Category:_Mail_equipment "wikilink")

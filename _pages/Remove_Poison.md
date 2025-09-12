@@ -1,5 +1,5 @@
 ---
-title: "Remove Poison"
+title: Remove Poison
 ---
 
 **Remove poison** is a level 9 [cleric](cleric "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Harlond Grocer"
+title: Harlond Grocer
 ---
 
 The **elven grocer** tends to the **Grocery** in

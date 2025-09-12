@@ -1,5 +1,5 @@
 ---
-title: "Grey tunic"
+title: Grey tunic
 ---
 
 \> **examine tunic**
@@ -12,6 +12,8 @@ It weighs about one pound.
 
 Provides the best [dodge bonus](dodge_bonus "wikilink") of items worn on
 the body.
+
+{% include Equipment.md %}
 
 [Grey tunic](Category:_Cloth_equipment "wikilink") [Grey
 tunic](Category:_Body_items "wikilink")

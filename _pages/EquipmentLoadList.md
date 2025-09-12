@@ -1,5 +1,5 @@
 ---
-title: "EquipmentLoadList"
+title: EquipmentLoadList
 ---
 
 <spoilers>

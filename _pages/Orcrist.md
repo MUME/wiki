@@ -1,5 +1,5 @@
 ---
-title: "Orcrist"
+title: Orcrist
 ---
 
 1.  redirect [The slender Elven

@@ -1,5 +1,5 @@
 ---
-title: "Map Rooms"
+title: Map Rooms
 ---
 
 This command displays a small map of what you can see of your immediate

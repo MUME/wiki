@@ -1,5 +1,5 @@
 ---
-title: "Quaff"
+title: Quaff
 ---
 
 **Quaff** is used to drink a [potion](potion "wikilink"), and gain its

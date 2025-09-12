@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide to Suits of Armour and Shields"
+title: Newbie Guide to Suits of Armour and Shields
 ---
 
 Newbie Guide to Suits of Armour and Shields

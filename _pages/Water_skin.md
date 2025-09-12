@@ -1,5 +1,5 @@
 ---
-title: "Water skin"
+title: Water skin
 ---
 
 \> **look skin**
@@ -10,5 +10,7 @@ an opening which can be drawn shut and fastened with a lace.
 \> **consider skin**
 It is a water skin.
 It weighs four pounds.
+
+{% include Equipment.md %}
 
 [Category:Containers](Category:Containers "wikilink")

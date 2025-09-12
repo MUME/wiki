@@ -1,5 +1,5 @@
 ---
-title: "Chief thug"
+title: Chief thug
 ---
 
 \> A large rough-looking man walks towards you, eyeing you critically.

@@ -1,5 +1,5 @@
 ---
-title: "Bowl of salad"
+title: Bowl of salad
 ---
 
 \> **look salad**
@@ -9,5 +9,7 @@ and little tomatoes tossed into the mix to make a nutritious meal.
 \> **consider salad**
 They are some salad.
 They weigh a couple of pounds.
+
+{% include Equipment.md %}
 
 [Bowl of salad](Category:_Consumables "wikilink")

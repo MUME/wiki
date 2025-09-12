@@ -1,5 +1,5 @@
 ---
-title: "Small tangle of roots"
+title: Small tangle of roots
 ---
 
 **Small tangles of roots** are passive [level](level "wikilink") \<10

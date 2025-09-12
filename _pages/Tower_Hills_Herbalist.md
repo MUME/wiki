@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Herbalist"
+title: Tower Hills Herbalist
 ---
 
 An **elderly herbalist** tends to the **Herbal Store** in [Black

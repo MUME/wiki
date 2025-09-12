@@ -1,5 +1,5 @@
 ---
-title: "Cure Serious"
+title: Cure Serious
 ---
 
 **Cure Serious** is a level 5 [cleric](cleric "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Butcher knife"
+title: Butcher knife
 ---
 
 \> **look knife**
@@ -10,5 +10,7 @@ This piercing weapon can be wielded one-handed.
 It is poor while attacking and average while defending; its speed is
 very fast, and it inflicts very little damage upon hitting.
 It weighs a couple of ounces.
+
+{% include Equipment.md %}
 
 [Butcher knife](Category:_Piercing_weapons "wikilink")

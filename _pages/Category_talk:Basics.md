@@ -1,5 +1,5 @@
 ---
-title: "Category talk:Basics"
+title: Category talk:Basics
 ---
 
 Trying to make subcategories:

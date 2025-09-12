@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Grocer"
+title: Tharbad Grocer
 ---
 
 A [grocer](grocer "wikilink") tends to the **Grocery** in

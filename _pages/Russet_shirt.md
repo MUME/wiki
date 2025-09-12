@@ -1,5 +1,5 @@
 ---
-title: "Russet shirt"
+title: Russet shirt
 ---
 
 \> **look shirt**
@@ -8,5 +8,7 @@ front.
 \> **consider shirt**
 It is a russet shirt.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Russet shirt](Category:_Cloth_equipment "wikilink")

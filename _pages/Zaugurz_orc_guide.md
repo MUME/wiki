@@ -1,5 +1,5 @@
 ---
-title: "Zaugurz orc guide"
+title: Zaugurz orc guide
 ---
 
 ## Zaugurz Orc Information

@@ -1,5 +1,5 @@
 ---
-title: "Plain trousers"
+title: Plain trousers
 ---
 
 \> **look trousers**
@@ -15,6 +15,8 @@ They weigh three pounds.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}
 
 [Pair of plain trousers](Category:_Cloth_equipment "wikilink") [Pair of
 plain trousers](Category:Legs_items "wikilink")

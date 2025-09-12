@@ -1,5 +1,5 @@
 ---
-title: "Tail"
+title: Tail
 ---
 
 This allows you when reading a board to see only the last few messages,

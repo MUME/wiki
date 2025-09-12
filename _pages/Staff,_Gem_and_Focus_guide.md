@@ -1,5 +1,5 @@
 ---
-title: "Staff, Gem and Focus guide"
+title: Staff, Gem and Focus guide
 ---
 
 # Staff, Gem and Focus guide

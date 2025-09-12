@@ -1,5 +1,5 @@
 ---
-title: "Chain mail gloves"
+title: Chain mail gloves
 ---
 
 `A pair of chain mail gloves are lying here.`
@@ -11,6 +11,8 @@ title: "Chain mail gloves"
 `>`**`consider gloves`**
 `They are a pair of chain mail gloves.`
 `They weigh three pounds.`
+
+{% include Items.md %}
 
 [Category: Hands items](Category:_Hands_items "wikilink") [Category:
 Mail equipment](Category:_Mail_equipment "wikilink")

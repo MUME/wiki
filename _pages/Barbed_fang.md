@@ -1,5 +1,5 @@
 ---
-title: "Barbed fang"
+title: Barbed fang
 ---
 
 l fang; This wicked weapon is essentially a long and slender knife whose

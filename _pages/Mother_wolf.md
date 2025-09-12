@@ -1,5 +1,5 @@
 ---
-title: "Mother wolf"
+title: Mother wolf
 ---
 
 **Mother wolves** are aggressive [level](level "wikilink") ~7

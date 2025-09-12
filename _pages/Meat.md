@@ -1,5 +1,5 @@
 ---
-title: "Meat"
+title: Meat
 ---
 
 **Meat** can be acquired by [butchering](butcher "wikilink") the
@@ -12,5 +12,7 @@ cooking preserves the meat even better. Although the name of the object
 will be different depending on which animal it was gotten from (bear
 meat, venison, wolf meat, etc.), all kinds of meat are functionally
 identical.
+
+{% include Equipment.md %}
 
 [Category: Consumables](Category:_Consumables "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Malardil"
+title: Malardil
 ---
 
 **Malardil** is an aggressive [level](level "wikilink") ?

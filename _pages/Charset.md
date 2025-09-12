@@ -1,5 +1,5 @@
 ---
-title: "Charset"
+title: Charset
 ---
 
 MUME has two modes of displaying information to the players. Either it

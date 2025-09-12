@@ -1,5 +1,5 @@
 ---
-title: "Weathertop"
+title: Weathertop
 ---
 
 <nowiki>g

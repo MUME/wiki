@@ -1,5 +1,5 @@
 ---
-title: "Hero"
+title: Hero
 ---
 
 Upon achieving level 21, MUME characters are deemed

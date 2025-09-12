@@ -1,5 +1,5 @@
 ---
-title: "Skeletal warrior"
+title: Skeletal warrior
 ---
 
 **Skeletal warriors** are aggressive level ? mobs found in old

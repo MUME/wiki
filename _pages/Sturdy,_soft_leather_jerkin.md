@@ -1,5 +1,5 @@
 ---
-title: "Sturdy, soft leather jerkin"
+title: Sturdy, soft leather jerkin
 ---
 
 \> **look jerkin**
@@ -13,3 +13,5 @@ flexibility.
 \> **consider jerkin**
 It is a sturdy, soft leather jerkin.
 It weighs five pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "The Morgul blade"
+title: The Morgul blade
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

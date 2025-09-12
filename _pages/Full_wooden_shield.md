@@ -1,5 +1,5 @@
 ---
-title: "Full wooden shield"
+title: Full wooden shield
 ---
 
 \> **look shield**
@@ -10,5 +10,7 @@ reinforcement.
 \> **consider shield**
 It is a full wooden shield.
 It weighs one stone.
+
+{% include Equipment.md %}
 
 [Full wooden shield](Category:_Shields "wikilink")

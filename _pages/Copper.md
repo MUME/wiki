@@ -1,5 +1,5 @@
 ---
-title: "Copper"
+title: Copper
 ---
 
 ## Statistics

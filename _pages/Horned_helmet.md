@@ -1,5 +1,5 @@
 ---
-title: "Horned helmet"
+title: Horned helmet
 ---
 
 \> *look helmet**
@@ -15,6 +15,8 @@ It weighs five pounds.
 ## Other
 
 Increases offensive bonus and decreases dodge bonus slightly.
+
+{% include Equipment.md %}
 
 [Horned helmet](Category:_Metal_equipment "wikilink") [Horned
 helmet](Category:_Head_items "wikilink")

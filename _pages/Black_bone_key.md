@@ -1,5 +1,5 @@
 ---
-title: "Black bone key"
+title: Black bone key
 ---
 
 \> **examine key**

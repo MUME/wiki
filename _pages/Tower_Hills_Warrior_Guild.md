@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Warrior Guild"
+title: Tower Hills Warrior Guild
 ---
 
 A **retired warrior** teaches [warrior](warrior "wikilink")

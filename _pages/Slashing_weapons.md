@@ -1,5 +1,5 @@
 ---
-title: "Slashing weapons"
+title: Slashing weapons
 ---
 
 ## Slashing

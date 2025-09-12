@@ -1,5 +1,5 @@
 ---
-title: "File:The Mouth of Sauron.jpg"
+title: File:The Mouth of Sauron.jpg
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Return of the

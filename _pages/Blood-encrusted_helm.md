@@ -1,5 +1,5 @@
 ---
-title: "Blood-encrusted helm"
+title: Blood-encrusted helm
 ---
 
 \> **look helm**
@@ -8,6 +8,8 @@ covered with dried, brown blood, and a fresher layer covers that.
 \> **consider helm**
 It is a blood-encrusted helm.
 It weighs eight pounds.
+
+{% include Equipment.md %}
 
 [Blood-encrusted helm](Category:_Metal_equipment "wikilink")
 [Blood-encrusted helm](Category:_Head_items "wikilink")

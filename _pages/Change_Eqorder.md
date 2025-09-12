@@ -1,5 +1,5 @@
 ---
-title: "Change Eqorder"
+title: Change Eqorder
 ---
 
 To set your preferred order of getting your or others' equipment

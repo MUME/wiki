@@ -1,5 +1,5 @@
 ---
-title: "Effort"
+title: Effort
 ---
 
 Used in [hide](hide "wikilink"), [search](search "wikilink"),

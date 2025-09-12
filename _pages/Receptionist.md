@@ -1,5 +1,5 @@
 ---
-title: "Receptionist"
+title: Receptionist
 ---
 
 Inns are places where the weary traveller may rest while the innkeeper

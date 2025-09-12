@@ -1,5 +1,5 @@
 ---
-title: "Shire Warrior Guild"
+title: Shire Warrior Guild
 ---
 
 The **old Shirriff** teaches [warrior](warrior "wikilink")

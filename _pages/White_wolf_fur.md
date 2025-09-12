@@ -1,5 +1,5 @@
 ---
-title: "White wolf fur"
+title: White wolf fur
 ---
 
 \> **examine fur**
@@ -15,5 +15,7 @@ It weighs twelve pounds.
 ## Other
 
 Increases offensive bonus slightly.
+
+{% include Equipment.md %}
 
 [White wolf fur](Category:Cloaks "wikilink")

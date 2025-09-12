@@ -1,5 +1,5 @@
 ---
-title: "Tharbad"
+title: Tharbad
 ---
 
 ## Tharbad
@@ -29,3 +29,5 @@ When you are stopped by the locked gate at night, "call" and then "bribe
 x gold". He may just be persuaded to open for your group.)
 
 Know however that these are but rumours.
+
+{% include Place.md %}

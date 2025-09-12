@@ -1,4 +1,5 @@
 ---
-title: "Category:Cloaks"
+title: Category:Cloaks
 ---
 
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Sauron"
+title: Sauron
 ---
 
 The Dark Lord

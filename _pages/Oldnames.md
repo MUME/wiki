@@ -1,5 +1,5 @@
 ---
-title: "Oldnames"
+title: Oldnames
 ---
 
 Recent Namechanges of persons of some particular interest: <nowiki>g Old

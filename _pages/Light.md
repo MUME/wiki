@@ -1,5 +1,5 @@
 ---
-title: "Light"
+title: Light
 ---
 
 **Light** and **snuff** are commands that can be used to turn on and off

@@ -1,5 +1,5 @@
 ---
-title: "Experienced smuggler"
+title: Experienced smuggler
 ---
 
 Experienced **smugglers** are aggressive level ? [mobs](mob "wikilink")

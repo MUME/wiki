@@ -1,5 +1,5 @@
 ---
-title: "Reply"
+title: Reply
 ---
 
 This command is used to reply to a message on a bulletin board.

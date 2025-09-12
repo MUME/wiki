@@ -1,5 +1,5 @@
 ---
-title: "Mood"
+title: Mood
 ---
 
 The CHANGE MOOD command enables you to transfer bonus points between

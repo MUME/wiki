@@ -1,5 +1,5 @@
 ---
-title: "Berel"
+title: Berel
 ---
 
 **Berel** is a woman living in a small village southwest of

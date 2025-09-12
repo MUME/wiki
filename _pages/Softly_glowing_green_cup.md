@@ -1,5 +1,5 @@
 ---
-title: "Softly glowing green cup"
+title: Softly glowing green cup
 ---
 
 <nowiki>g CW\>exa cup The potion is full.

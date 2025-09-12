@@ -1,5 +1,5 @@
 ---
-title: "Rules Incharacter"
+title: Rules Incharacter
 ---
 
 Posting on the In-Character boards should be strictly as the name

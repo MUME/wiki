@@ -1,5 +1,5 @@
 ---
-title: "Mark"
+title: Mark
 ---
 
 This command can be used to mark a message on a bulletin board that you

@@ -1,5 +1,5 @@
 ---
-title: "An ornate, steel-shafted warhammer"
+title: An ornate, steel-shafted warhammer
 ---
 
 1.  REDIRECT [Ornate, steel-shafted

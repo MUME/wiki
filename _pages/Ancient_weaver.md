@@ -1,5 +1,5 @@
 ---
-title: "Ancient weaver"
+title: Ancient weaver
 ---
 
 The **ancient weaver** is a [level](level "wikilink") \<10

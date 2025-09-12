@@ -1,5 +1,5 @@
 ---
-title: "Fornost Tailor"
+title: Fornost Tailor
 ---
 
 The **old tailor** tends to the **Tailor's Shop** in

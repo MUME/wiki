@@ -1,5 +1,5 @@
 ---
-title: "Category:Piercing weapons"
+title: Category:Piercing weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

@@ -1,5 +1,5 @@
 ---
-title: "Rogue"
+title: Rogue
 ---
 
 **Rogues** are aggressive [level](level "wikilink") ?

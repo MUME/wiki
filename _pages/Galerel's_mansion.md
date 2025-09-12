@@ -1,5 +1,5 @@
 ---
-title: "Galerel's mansion"
+title: Galerel's mansion
 ---
 
 **Galerel's mansion** is an abandoned house located east of

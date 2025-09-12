@@ -1,5 +1,5 @@
 ---
-title: "Crown of Arnor Innkeeper"
+title: Crown of Arnor Innkeeper
 ---
 
 \>**examine innkeeper**

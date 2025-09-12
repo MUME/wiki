@@ -1,5 +1,5 @@
 ---
-title: "Sturdy hard leather trousers"
+title: Sturdy hard leather trousers
 ---
 
 \> **look trousers**
@@ -13,3 +13,5 @@ winter day, whilst be granted a great deal of flexibility.
 \> **consider trousers**
 They are a sturdy pair of hard leather trousers.
 They weigh five pounds.
+
+{% include Equipment.md %}

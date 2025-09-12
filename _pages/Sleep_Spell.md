@@ -1,5 +1,5 @@
 ---
-title: "Sleep Spell"
+title: Sleep Spell
 ---
 
 **Sleep** is a level 14 [mage](mage "wikilink")

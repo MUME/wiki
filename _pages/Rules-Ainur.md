@@ -1,5 +1,5 @@
 ---
-title: "Rules-Ainur"
+title: Rules-Ainur
 ---
 
 1.  REDIRECT [Rules Ainur](Rules_Ainur "wikilink")

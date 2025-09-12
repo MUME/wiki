@@ -1,5 +1,5 @@
 ---
-title: "Heavy wool coat"
+title: Heavy wool coat
 ---
 
 \> **look coat**
@@ -12,5 +12,7 @@ adventures. It is long, but not overly cumbersome.
 \> **consider coat**
 It is a heavy wool coat.
 It weighs five pounds.
+
+{% include Equipment.md %}
 
 [Heavy wool coat](Category:_Cloth_equipment "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "West"
+title: West
 ---
 
 1.  Redirect [Movement](Movement "wikilink")

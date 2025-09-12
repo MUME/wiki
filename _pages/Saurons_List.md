@@ -1,5 +1,5 @@
 ---
-title: "Saurons List"
+title: Saurons List
 ---
 
 The Dark Lord

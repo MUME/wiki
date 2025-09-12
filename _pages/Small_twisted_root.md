@@ -1,5 +1,5 @@
 ---
-title: "Small twisted root"
+title: Small twisted root
 ---
 
 The **small twisted root** is a [key](key "wikilink"). It loads on [Bill
@@ -17,5 +17,7 @@ to the east of the room where he spawns.
 `>`**`consider root`**
 `It is a small twisted root.`
 `It weighs about one pound.`
+
+{% include Equipment.md %}
 
 [Category: Keys](Category:_Keys "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Druid"
+title: Druid
 ---
 
 A **druid** teaches [cleric](cleric "wikilink")

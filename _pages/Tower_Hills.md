@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills"
+title: Tower Hills
 ---
 
 The **Tower Hills** are located between [Grey

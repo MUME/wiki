@@ -1,5 +1,5 @@
 ---
-title: "Retire"
+title: Retire
 ---
 
 There are two reasons for you to retire: to prevent auto deletion of

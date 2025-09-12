@@ -1,5 +1,5 @@
 ---
-title: "Minas Brethil Cleric Guild"
+title: Minas Brethil Cleric Guild
 ---
 
 A **priest** teaches [cleric](cleric "wikilink")

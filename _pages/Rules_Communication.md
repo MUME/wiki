@@ -1,5 +1,5 @@
 ---
-title: "Rules Communication"
+title: Rules Communication
 ---
 
 These rules regulate how you're expected to make yourself heard/seen in

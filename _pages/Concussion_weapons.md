@@ -1,5 +1,5 @@
 ---
-title: "Concussion weapons"
+title: Concussion weapons
 ---
 
 ## Concussion

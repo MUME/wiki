@@ -1,5 +1,5 @@
 ---
-title: "Help"
+title: Help
 ---
 
 The **help** command in [MUME](MUME "wikilink") can be used to view help

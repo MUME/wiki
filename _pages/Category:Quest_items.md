@@ -1,5 +1,5 @@
 ---
-title: "Category:Quest items"
+title: Category:Quest items
 ---
 
 Items that are needed for the completion of a quest.

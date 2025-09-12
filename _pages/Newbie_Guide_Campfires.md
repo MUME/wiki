@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Campfires"
+title: Newbie Guide Campfires
 ---
 
 **Guide Camping and Campfires in MUME**

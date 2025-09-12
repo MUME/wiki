@@ -1,5 +1,5 @@
 ---
-title: "Spiked metal helmet"
+title: Spiked metal helmet
 ---
 
 \> **look helmet**
@@ -15,6 +15,8 @@ It weighs seven pounds.
 ## Other
 
 Reduces [dodge bonus](dodge_bonus "wikilink") slightly.
+
+{% include Equipment.md %}
 
 [Spiked metal helmet](Category:_Metal_equipment "wikilink") [Spiked
 metal helmet](Category:_Head_items "wikilink")

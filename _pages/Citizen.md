@@ -1,5 +1,5 @@
 ---
-title: "Citizen"
+title: Citizen
 ---
 
 When you begin the game, if you're not an Orc, a Troll or a Black

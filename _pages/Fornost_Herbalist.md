@@ -1,5 +1,5 @@
 ---
-title: "Fornost Herbalist"
+title: Fornost Herbalist
 ---
 
 \>**examine herbalist**

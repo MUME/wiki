@@ -1,5 +1,5 @@
 ---
-title: "Copper ring"
+title: Copper ring
 ---
 
 !# CW\>**examine copper**
@@ -18,5 +18,6 @@ It weighs a few ounces.
 Copper rings are usually only utilized by caster types; they are
 rumoured to give a bonus to the character's spell casting and ability to
 resist magical attacks.
+{% include Equipment.md %}
 
 [Copper ring](Category:_Rings "wikilink")

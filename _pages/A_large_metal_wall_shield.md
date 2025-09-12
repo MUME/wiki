@@ -1,5 +1,5 @@
 ---
-title: "A large metal wall shield"
+title: A large metal wall shield
 ---
 
 1.  REDIRECT [Large metal wall

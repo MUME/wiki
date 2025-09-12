@@ -1,5 +1,5 @@
 ---
-title: "Rescue"
+title: Rescue
 ---
 
 ## Rescue

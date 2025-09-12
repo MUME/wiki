@@ -1,5 +1,5 @@
 ---
-title: "Grizzly cub"
+title: Grizzly cub
 ---
 
 **Grizzly cubs** are aggressive [level](level "wikilink") \<10

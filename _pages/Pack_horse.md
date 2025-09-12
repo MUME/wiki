@@ -1,5 +1,5 @@
 ---
-title: "Pack horse"
+title: Pack horse
 ---
 
 **Pack horses** are [level](level "wikilink") ?

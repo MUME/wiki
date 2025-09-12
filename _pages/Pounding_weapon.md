@@ -1,5 +1,5 @@
 ---
-title: "Pounding weapon"
+title: Pounding weapon
 ---
 
 1.  REDIRECT [Concussion weapon](Concussion_weapon "wikilink")

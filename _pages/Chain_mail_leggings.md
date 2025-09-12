@@ -1,5 +1,5 @@
 ---
-title: "Chain mail leggings"
+title: Chain mail leggings
 ---
 
 \> **look leggings**
@@ -10,3 +10,5 @@ quality.
 \> **consider leggings**
 They are a pair of chain mail leggings.
 They weigh six pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Tawny bear fur"
+title: Tawny bear fur
 ---
 
 \> **look fur**
@@ -17,3 +17,5 @@ It weighs one stone and five pounds.
 ## Other
 
 Increases offensive bonus by 2.
+
+{% include Equipment.md %}

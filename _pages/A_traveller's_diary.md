@@ -1,5 +1,5 @@
 ---
-title: "A traveller's diary"
+title: A traveller's diary
 ---
 
 \> **examine diary**
@@ -21,5 +21,7 @@ It weighs half a pound.
 ## Other
 
 Quest item for [Leaf-cake](Quest#Leaf-Cake "wikilink").
+
+{% include Equipment.md %}
 
 [Traveller's diary](Category:_Quest_items "wikilink")

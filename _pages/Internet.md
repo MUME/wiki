@@ -1,5 +1,5 @@
 ---
-title: "Internet"
+title: Internet
 ---
 
 For many years now, rumours about different kinds of network lag-attacks

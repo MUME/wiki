@@ -1,4 +1,4 @@
 ---
-title: "Parrying bonus"
+title: Parrying bonus
 ---
 

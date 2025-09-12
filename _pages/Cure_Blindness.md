@@ -1,5 +1,5 @@
 ---
-title: "Cure Blindness"
+title: Cure Blindness
 ---
 
 **Cure Blindness** is a level 4 [cleric](cleric "wikilink")

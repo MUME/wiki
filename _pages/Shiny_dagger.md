@@ -1,5 +1,5 @@
 ---
-title: "Shiny dagger"
+title: Shiny dagger
 ---
 
 \> **examine shiny**
@@ -12,5 +12,6 @@ This piercing weapon can be wielded one-handed.
 It is good while attacking and good while defending; its speed is very
 fast, and it inflicts average damage upon hitting.
 It weighs half a pound.
+{% include Equipment.md %}
 
 [Shiny dagger](Category:_Piercing_weapons "wikilink")

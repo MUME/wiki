@@ -1,5 +1,5 @@
 ---
-title: "Fourth Age"
+title: Fourth Age
 ---
 
 The Fourth Age and the ages that preceded it, are time periods from J.

@@ -1,5 +1,5 @@
 ---
-title: "Nagrorh"
+title: Nagrorh
 ---
 
 <nowiki>g Gaunt and skeletal in form. Nagrorh's eye sockets are black

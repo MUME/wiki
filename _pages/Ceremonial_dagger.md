@@ -1,5 +1,5 @@
 ---
-title: "Ceremonial dagger"
+title: Ceremonial dagger
 ---
 
 ## A ceremonial dagger

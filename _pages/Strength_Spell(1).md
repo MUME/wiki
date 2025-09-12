@@ -1,5 +1,5 @@
 ---
-title: "Strength Spell"
+title: Strength Spell
 ---
 
 A cleric spell giving the target heightened

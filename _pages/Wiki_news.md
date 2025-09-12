@@ -1,5 +1,5 @@
 ---
-title: "Wiki news"
+title: Wiki news
 ---
 
-1.  REDIRECT [Wiki news]({% include Wiki_news.md %})
+1.  REDIRECT [Template:Wiki news](Template:Wiki_news "wikilink")

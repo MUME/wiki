@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Ranger Guild"
+title: Tower Hills Ranger Guild
 ---
 
 A **crippled ranger** teaches [ranger](general "wikilink")

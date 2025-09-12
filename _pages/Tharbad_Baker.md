@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Baker"
+title: Tharbad Baker
 ---
 
 A [baker](baker "wikilink") tends to the **Bakery** in

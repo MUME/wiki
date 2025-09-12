@@ -1,5 +1,5 @@
 ---
-title: "Exit"
+title: Exit
 ---
 
 Gives you a list of the obvious exits from your location. Of course, the

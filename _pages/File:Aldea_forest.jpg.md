@@ -1,5 +1,5 @@
 ---
-title: "File:Aldea forest.jpg"
+title: File:Aldea forest.jpg
 ---
 
 Tolkien, gloomy, forest

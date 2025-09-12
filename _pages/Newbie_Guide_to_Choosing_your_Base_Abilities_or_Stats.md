@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide to Choosing your Base Abilities or Stats"
+title: Newbie Guide to Choosing your Base Abilities or Stats
 ---
 
 This is a basic and simplified guide to how and why you should choose

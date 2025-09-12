@@ -1,5 +1,5 @@
 ---
-title: "Mend"
+title: Mend
 ---
 
 After wear and tear, your equipment will probably begin to become less

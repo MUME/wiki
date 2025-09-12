@@ -1,5 +1,5 @@
 ---
-title: "Brown snake"
+title: Brown snake
 ---
 
 **Brown snakes** are aggressive, evil [level](level "wikilink") \<10

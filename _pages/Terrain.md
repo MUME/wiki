@@ -1,5 +1,5 @@
 ---
-title: "Terrain"
+title: Terrain
 ---
 
 Each place on Arda is characterized by a specific terrain type, which is

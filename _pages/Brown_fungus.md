@@ -1,5 +1,5 @@
 ---
-title: "Brown fungus"
+title: Brown fungus
 ---
 
 **Brown fungi** are passive, [evil](alignment "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Create Light"
+title: Create Light
 ---
 
 <nowiki>g Syntax : cast 'create light' Type : Miscellaneous

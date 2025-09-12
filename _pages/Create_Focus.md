@@ -1,5 +1,5 @@
 ---
-title: "Create Focus"
+title: Create Focus
 ---
 
 Syntax : cast 'create focus' <object> Type : Special Accumulative: No

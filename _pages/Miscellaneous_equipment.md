@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous equipment"
+title: Miscellaneous equipment
 ---
 
 Misc equipment covers **all** equipment which does not fall easily into

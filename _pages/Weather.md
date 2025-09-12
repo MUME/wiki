@@ -1,5 +1,5 @@
 ---
-title: "Weather"
+title: Weather
 ---
 
 Syntax: weather {local\|global\|fog}

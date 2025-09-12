@@ -1,5 +1,5 @@
 ---
-title: "Icy ring"
+title: Icy ring
 ---
 
 ## Statistics

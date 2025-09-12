@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Mage Guild"
+title: Rivendell Mage Guild
 ---
 
 A **grey-haired elf** teaches [mage](mage "wikilink")

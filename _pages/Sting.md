@@ -1,5 +1,5 @@
 ---
-title: "Sting"
+title: Sting
 ---
 
 1.  redirect [the Elven shortsword with a runic

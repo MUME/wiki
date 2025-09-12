@@ -1,5 +1,5 @@
 ---
-title: "Rules Channels"
+title: Rules Channels
 ---
 
 Each communication channel on MUME has a different purpose, please use

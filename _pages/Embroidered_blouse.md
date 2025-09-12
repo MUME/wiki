@@ -1,5 +1,5 @@
 ---
-title: "Embroidered blouse"
+title: Embroidered blouse
 ---
 
 \> **look blouse**
@@ -9,3 +9,5 @@ silver-white threads.
 \> **consider blouse**
 It is an embroidered blouse.
 It weighs about one pound.
+
+{% include Equipment.md %}

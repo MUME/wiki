@@ -1,5 +1,5 @@
 ---
-title: "A necklace"
+title: A necklace
 ---
 
 ## Statistics

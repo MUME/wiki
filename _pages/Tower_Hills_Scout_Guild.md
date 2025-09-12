@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Scout Guild"
+title: Tower Hills Scout Guild
 ---
 
 An **accomplished hunter** teaches [scout](thief "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Levels"
+title: Levels
 ---
 
 The **levels** command lists the [experience](experience "wikilink") and

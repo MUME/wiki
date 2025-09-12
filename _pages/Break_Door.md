@@ -1,5 +1,5 @@
 ---
-title: "Break Door"
+title: Break Door
 ---
 
 <nowiki>gSyntax : cast 'break door' Type : Miscellaneous Accumulative:

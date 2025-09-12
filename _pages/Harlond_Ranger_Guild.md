@@ -1,5 +1,5 @@
 ---
-title: "Harlond Ranger Guild"
+title: Harlond Ranger Guild
 ---
 
 A **ranger** teaches [ranger](ranger "wikilink")

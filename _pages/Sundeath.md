@@ -1,5 +1,5 @@
 ---
-title: "Sundeath"
+title: Sundeath
 ---
 
 Trolls can be instantly killed by the sun. Trolls sundie:

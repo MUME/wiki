@@ -1,5 +1,5 @@
 ---
-title: "A great helm"
+title: A great helm
 ---
 
 1.  REDIRECT [Great helm](Great_helm "wikilink")

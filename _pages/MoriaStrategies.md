@@ -1,5 +1,5 @@
 ---
-title: "MoriaStrategies"
+title: MoriaStrategies
 ---
 
 <spoiler>

@@ -1,5 +1,5 @@
 ---
-title: "Mass of vines"
+title: Mass of vines
 ---
 
 **Masses of vines** are aggressive, [evil](alignment "wikilink")

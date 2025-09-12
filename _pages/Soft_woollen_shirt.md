@@ -1,5 +1,5 @@
 ---
-title: "Soft woollen shirt"
+title: Soft woollen shirt
 ---
 
 \> **look shirt**
@@ -11,3 +11,5 @@ weave from unrolling as the material wears out.
 \> **consider shirt**
 It is a soft woollen shirt.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Rules Basics"
+title: Rules Basics
 ---
 
 Some of the illegal things on MUME:

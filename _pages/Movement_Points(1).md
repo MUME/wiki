@@ -1,5 +1,5 @@
 ---
-title: "Movement Points"
+title: Movement Points
 ---
 
 1.  REDIRECT [Movement points](Movement_points "wikilink")

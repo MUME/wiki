@@ -1,5 +1,5 @@
 ---
-title: "Statistic"
+title: Statistic
 ---
 
 "Statistics" are a set of numbers that describes your character.

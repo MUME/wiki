@@ -1,5 +1,5 @@
 ---
-title: "Put"
+title: Put
 ---
 
 For putting objects in containers. Note that the 'in', in the examples,

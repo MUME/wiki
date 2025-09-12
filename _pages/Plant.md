@@ -1,5 +1,5 @@
 ---
-title: "Plant"
+title: Plant
 ---
 
 *This article is about a type of mobile. For other plants, see

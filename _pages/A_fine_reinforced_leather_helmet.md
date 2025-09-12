@@ -1,5 +1,5 @@
 ---
-title: "A fine reinforced leather helmet"
+title: A fine reinforced leather helmet
 ---
 
 1.  REDIRECT [Fine reinforced leather

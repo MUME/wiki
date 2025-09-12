@@ -1,5 +1,5 @@
 ---
-title: "Hard leather trousers"
+title: Hard leather trousers
 ---
 
 \> **look trousers**
@@ -11,3 +11,5 @@ offer the wearer nice protection, whilst allowing some flexibility.
 \> **consider trousers**
 They are a pair of hard leather trousers.
 They weigh five pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Straw hat"
+title: Straw hat
 ---
 
 \> **look hat**
@@ -11,3 +11,5 @@ and a small, grey feather has been fixed to it.
 \> **consider hat**
 It is a straw hat (flawless, new).
 It weighs about one pound.
+
+{% include Equipment.md %}

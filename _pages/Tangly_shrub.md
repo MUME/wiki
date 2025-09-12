@@ -1,5 +1,5 @@
 ---
-title: "Tangly shrub"
+title: Tangly shrub
 ---
 
 **Tangly shrubs** are aggressive, [evil](alignment "wikilink")

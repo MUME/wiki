@@ -1,5 +1,5 @@
 ---
-title: "Stained dark shirt"
+title: Stained dark shirt
 ---
 
 \> **look shirt**
@@ -13,3 +13,5 @@ meals eaten by the wearer.
 \> **consider shirt**
 It is a stained dark shirt.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Corrupting"
+title: Corrupting
 ---
 
 If you are darkie and got some anti-evil item into your hands, then it's

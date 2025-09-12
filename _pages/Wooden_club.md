@@ -1,5 +1,5 @@
 ---
-title: "Wooden club"
+title: Wooden club
 ---
 
 \> **look club**
@@ -12,5 +12,7 @@ This crushing weapon can be wielded one-handed.
 It is awful while attacking and average while defending; its speed is
 average, and it inflicts very little damage upon hitting.
 It weighs three pounds.
+
+{% include Equipment.md %}
 
 [Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

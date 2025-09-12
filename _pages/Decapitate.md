@@ -1,5 +1,5 @@
 ---
-title: "Decapitate"
+title: Decapitate
 ---
 
 Syntax: decapitate corpse

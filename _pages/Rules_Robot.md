@@ -1,5 +1,5 @@
 ---
-title: "Rules Robot"
+title: Rules Robot
 ---
 
 Setting up scripts which act as ROBOTS are forbidden. You may not log

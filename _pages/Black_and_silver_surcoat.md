@@ -1,5 +1,5 @@
 ---
-title: "Black and silver surcoat"
+title: Black and silver surcoat
 ---
 
 The **black and silver surcoat** can be worn as a
@@ -17,5 +17,7 @@ tailors for around 19 silver.
 `>`**`consider surcoat`**
 `It is a black and silver surcoat.`
 `It weighs six pounds.`
+
+{% include Equipment.md %}
 
 [Category: Cloaks](Category:_Cloaks "wikilink")

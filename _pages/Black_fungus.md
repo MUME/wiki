@@ -1,5 +1,5 @@
 ---
-title: "Black fungus"
+title: Black fungus
 ---
 
 **Black fungi** are aggressive, [evil](alignment "wikilink")

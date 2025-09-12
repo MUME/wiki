@@ -1,5 +1,5 @@
 ---
-title: "Ride"
+title: Ride
 ---
 
 ## Ride

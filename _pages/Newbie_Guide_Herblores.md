@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Herblores"
+title: Newbie Guide Herblores
 ---
 
 Newbie Guide Herblores

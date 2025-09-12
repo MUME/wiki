@@ -1,5 +1,5 @@
 ---
-title: "Whetstone"
+title: Whetstone
 ---
 
 Whetstones are small hard stones used for sharpening your weapon. To use

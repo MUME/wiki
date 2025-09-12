@@ -1,5 +1,5 @@
 ---
-title: "Black wolf"
+title: Black wolf
 ---
 
 \> A black wolf pads restlessly, looking for its next prey.

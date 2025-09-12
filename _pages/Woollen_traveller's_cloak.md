@@ -1,5 +1,5 @@
 ---
-title: "Woollen traveller's cloak"
+title: Woollen traveller's cloak
 ---
 
 The **woollen traveller's cloak** is a [cloak](cloak "wikilink"). It is
@@ -17,5 +17,7 @@ worth around 7 [silver](gold "wikilink").
 `>`**`consider cloak`**
 `It is a woollen traveller's cloak.`
 `It weighs nine pounds.`
+
+{% include Items.md %}
 
 [Category: Cloaks](Category:_Cloaks "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "The Traveller's Shop"
+title: The Traveller's Shop
 ---
 
 The **grocer** tends to the **Traveller's Shop** in

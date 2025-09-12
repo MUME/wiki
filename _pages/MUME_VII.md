@@ -1,5 +1,5 @@
 ---
-title: "MUME VII"
+title: MUME VII
 ---
 
 # MUME VII: Summary of Changes

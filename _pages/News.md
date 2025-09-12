@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: News
 ---
 
 The **News** command allows you to see important information about the

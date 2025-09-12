@@ -1,5 +1,5 @@
 ---
-title: "Zmud Scripts"
+title: Zmud Scripts
 ---
 
 # Zmud Scripts

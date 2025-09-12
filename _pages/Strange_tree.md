@@ -1,5 +1,5 @@
 ---
-title: "Strange tree"
+title: Strange tree
 ---
 
 The **strange tree** is an [Ent](Ent "wikilink") living in

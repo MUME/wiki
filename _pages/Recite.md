@@ -1,5 +1,5 @@
 ---
-title: "Recite"
+title: Recite
 ---
 
 Syntax: **recite** <scroll> \[recipient\]

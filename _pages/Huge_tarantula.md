@@ -1,5 +1,5 @@
 ---
-title: "Huge tarantula"
+title: Huge tarantula
 ---
 
 **Huge tarantulas** are aggressive level ? [mobiles](mobile "wikilink"),

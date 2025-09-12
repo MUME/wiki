@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Leveling 1 to 12"
+title: Newbie Guide Leveling 1 to 12
 ---
 
 Newbie Guide Leveling 1 to 12

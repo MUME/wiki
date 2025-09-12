@@ -1,5 +1,5 @@
 ---
-title: "Thin parchment"
+title: Thin parchment
 ---
 
 The **thin parchment** can be [read](read "wikilink") to learn the
@@ -16,6 +16,8 @@ Captain](Super_Mobile#Wight_Captain "wikilink")'s crypt.
 `>`**`consider parchment`**
 `It is a thin parchment.`
 `It weighs a few ounces.`
+
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

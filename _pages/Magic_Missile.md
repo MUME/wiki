@@ -1,5 +1,5 @@
 ---
-title: "Magic Missile"
+title: Magic Missile
 ---
 
 <nowiki>g Syntax : cast 'magic missile' \[victim\] Type : Offensive

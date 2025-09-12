@@ -1,5 +1,5 @@
 ---
-title: "Backstab"
+title: Backstab
 ---
 
 ## Backstab

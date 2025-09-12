@@ -1,5 +1,5 @@
 ---
-title: "Wild dog"
+title: Wild dog
 ---
 
 \> A wild dog bares his yellow fangs at you.

@@ -1,5 +1,5 @@
 ---
-title: "The broad Elven blade"
+title: The broad Elven blade
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

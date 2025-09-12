@@ -1,5 +1,5 @@
 ---
-title: "Stabbing Weapon"
+title: Stabbing Weapon
 ---
 
 1.  REDIRECT [Stabbing weapon](Stabbing_weapon "wikilink")

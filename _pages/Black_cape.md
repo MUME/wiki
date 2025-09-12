@@ -1,5 +1,5 @@
 ---
-title: "Black cape"
+title: Black cape
 ---
 
 \> **examine cape**
@@ -19,5 +19,7 @@ It weighs three pounds.
 ## Other
 
 Increases [dodge bonus](dodge_bonus "wikilink").
+
+{% include Equipment.md %}
 
 [Black cape](Category:_Cloaks "wikilink")

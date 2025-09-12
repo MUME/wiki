@@ -1,5 +1,5 @@
 ---
-title: "Compare"
+title: Compare
 ---
 
 Syntax: **compare** \<object\|number\> \<object\|number\>

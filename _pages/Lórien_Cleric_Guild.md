@@ -1,5 +1,5 @@
 ---
-title: "Lórien Cleric Guild"
+title: Lórien Cleric Guild
 ---
 
 **Anarwen** teaches [cleric](cleric "wikilink")

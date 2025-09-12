@@ -1,5 +1,5 @@
 ---
-title: "Black bear"
+title: Black bear
 ---
 
 \> A bear is here, covered with coarse black fur.

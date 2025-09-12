@@ -1,5 +1,5 @@
 ---
-title: "Fletched arrow"
+title: Fletched arrow
 ---
 
 The base of this arrow contains feathered fletching. A silvery arrowhead

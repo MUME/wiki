@@ -1,5 +1,5 @@
 ---
-title: "Lórien Mage Guild"
+title: Lórien Mage Guild
 ---
 
 **Rumil** teaches [mage](mage "wikilink") [spells](spell "wikilink") at

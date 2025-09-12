@@ -1,5 +1,5 @@
 ---
-title: "Fine chain mail coif"
+title: Fine chain mail coif
 ---
 
 **Fine chain mail coifs** are worn on the [head](head "wikilink"). They
@@ -15,6 +15,8 @@ can be bought from some armourers for around 2 [gold](gold "wikilink").
 `It is a fine chain mail coif.`
 `It weighs four pounds.`
 `It fits you well.`
+
+{% include Items.md %}
 
 [Category: Head items](Category:_Head_items "wikilink") [Category: Chain
 equipment](Category:_Chain_equipment "wikilink")

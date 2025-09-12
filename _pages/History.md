@@ -1,5 +1,5 @@
 ---
-title: "History"
+title: History
 ---
 
 # A Short History of MUME

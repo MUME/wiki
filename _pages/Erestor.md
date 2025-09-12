@@ -1,5 +1,5 @@
 ---
-title: "Erestor"
+title: Erestor
 ---
 
 **Erestor** teaches [mage](mage "wikilink") [spells](spell "wikilink")

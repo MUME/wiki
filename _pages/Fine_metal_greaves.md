@@ -1,5 +1,5 @@
 ---
-title: "Fine metal greaves"
+title: Fine metal greaves
 ---
 
 \> **look greaves**
@@ -15,3 +15,5 @@ at the top allows attachment to other pieces of armour.
 \> **consider greaves**
 They are a fine pair of metal greaves.
 They weigh thirteen pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Tall Stag"
+title: Tall Stag
 ---
 
 \> **examine stag**

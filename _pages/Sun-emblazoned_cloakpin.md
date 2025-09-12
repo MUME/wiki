@@ -1,5 +1,5 @@
 ---
-title: "Sun-emblazoned cloakpin"
+title: Sun-emblazoned cloakpin
 ---
 
 \> **look cloakpin**
@@ -11,3 +11,5 @@ crafted to securely fasten to almost any cloak.
 \> **consider cloakpin**
 It is a sun-emblazoned cloakpin.
 It weighs a few ounces.
+
+{% include Equipment.md %}

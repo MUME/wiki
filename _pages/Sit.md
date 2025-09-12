@@ -1,5 +1,5 @@
 ---
-title: "Sit"
+title: Sit
 ---
 
 For changing your position. If you feel weary, it's probably a good idea

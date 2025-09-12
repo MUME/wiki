@@ -1,5 +1,5 @@
 ---
-title: "A sturdy pair of rigid leather sleeves"
+title: A sturdy pair of rigid leather sleeves
 ---
 
 1.  REDIRECT [Sturdy rigid leather

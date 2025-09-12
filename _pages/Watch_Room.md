@@ -1,5 +1,5 @@
 ---
-title: "Watch Room"
+title: Watch Room
 ---
 
 <nowiki>g Syntax : cast 'watch room' \[name\] Type : Long range

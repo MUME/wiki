@@ -1,5 +1,5 @@
 ---
-title: "Robber"
+title: Robber
 ---
 
 \> A mean-looking robber is here, demanding money from you.

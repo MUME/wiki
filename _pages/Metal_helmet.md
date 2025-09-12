@@ -1,5 +1,5 @@
 ---
-title: "Metal helmet"
+title: Metal helmet
 ---
 
 \> **look helmet**
@@ -18,6 +18,8 @@ It weighs seven pounds.
 
 Reduces [offensive bonus](offensive_bonus "wikilink") and [dodge
 bonus](dodge_bonus "wikilink") slightly.
+
+{% include Equipment.md %}
 
 [Metal helmet](Category:_Metal_equipment "wikilink") [Metal
 helmet](Category:_Head_items "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Rules Spies"
+title: Rules Spies
 ---
 
 It is unacceptable to use a "throw-away" character to scout out the

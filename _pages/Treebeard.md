@@ -1,5 +1,5 @@
 ---
-title: "Treebeard"
+title: Treebeard
 ---
 
 **Treebeard** is one of the oldest still-living [Ents](Ent "wikilink").

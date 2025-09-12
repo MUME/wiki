@@ -1,5 +1,5 @@
 ---
-title: "Flush"
+title: Flush
 ---
 
 Type flush <effort> (quickly, fast, normally, carefully, thoroughly) to

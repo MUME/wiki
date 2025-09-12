@@ -1,5 +1,5 @@
 ---
-title: "Category:Cities"
+title: Category:Cities
 ---
 
 Cities in [MUME](MUME "wikilink").

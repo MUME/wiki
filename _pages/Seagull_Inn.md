@@ -1,5 +1,5 @@
 ---
-title: "Seagull Inn"
+title: Seagull Inn
 ---
 
 The **Seagull Inn** is an [inn](inn "wikilink") in

@@ -1,5 +1,5 @@
 ---
-title: "Huge millipede"
+title: Huge millipede
 ---
 
 **Huge millipedes** are aggressive, [evil](alignment "wikilink")

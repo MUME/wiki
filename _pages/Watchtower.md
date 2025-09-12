@@ -1,5 +1,5 @@
 ---
-title: "Watchtower"
+title: Watchtower
 ---
 
 Some places in [Arda](Arda "wikilink") are considered being well suited

@@ -1,5 +1,5 @@
 ---
-title: "MUME:About"
+title: MUME:About
 ---
 
 What is MUME?

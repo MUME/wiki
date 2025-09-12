@@ -1,5 +1,5 @@
 ---
-title: "Create Food"
+title: Create Food
 ---
 
 **Create food** is a level 3 [cleric](cleric "wikilink")

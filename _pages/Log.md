@@ -1,5 +1,5 @@
 ---
-title: "Log"
+title: Log
 ---
 
 # External Links

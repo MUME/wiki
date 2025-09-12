@@ -1,5 +1,5 @@
 ---
-title: "Ansicodes"
+title: Ansicodes
 ---
 
 The ANSI CODES are listed below.

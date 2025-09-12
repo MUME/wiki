@@ -1,5 +1,5 @@
 ---
-title: "Blue Mountains Scout Guild"
+title: Blue Mountains Scout Guild
 ---
 
 **Vestri** teaches [scout](scout "wikilink") [skills](skill "wikilink")

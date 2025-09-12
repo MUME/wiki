@@ -1,5 +1,5 @@
 ---
-title: "Baker"
+title: Baker
 ---
 
 **Bakers** tend to the bakeries in [Bree Baker](Bree_Baker "wikilink"),

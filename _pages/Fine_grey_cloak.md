@@ -1,5 +1,5 @@
 ---
-title: "Fine grey cloak"
+title: Fine grey cloak
 ---
 
 ## Statistics

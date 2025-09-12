@@ -1,5 +1,5 @@
 ---
-title: "Quarterstaff"
+title: Quarterstaff
 ---
 
 \> **look staff**
@@ -11,5 +11,7 @@ This crushing weapon can be wielded two-handed.
 It is awful while attacking and excellent while defending; its speed is
 average, and it inflicts very little damage upon hitting.
 It weighs six pounds.
+
+{% include Equipment.md %}
 
 [Quarterstaff](Category:_Smiting_weapons "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Archive"
+title: Archive
 ---
 
 ## The Book of Lost Tales

@@ -1,5 +1,5 @@
 ---
-title: "Highwayman"
+title: Highwayman
 ---
 
 **Highwaymen** are level ? [mobiles](mobile "wikilink") who accompany

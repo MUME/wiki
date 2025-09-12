@@ -1,5 +1,5 @@
 ---
-title: "Worn on back"
+title: Worn on back
 ---
 
 1.  REDIRECT [Containers](Containers "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Imposing beech tree"
+title: Imposing beech tree
 ---
 
 **Imposing beech trees** are [level](level "wikilink") 19

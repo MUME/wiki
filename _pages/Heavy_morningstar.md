@@ -1,5 +1,5 @@
 ---
-title: "Heavy morningstar"
+title: Heavy morningstar
 ---
 
 This crushing weapon can be wielded one-handed. It is average while

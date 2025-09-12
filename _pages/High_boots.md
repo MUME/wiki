@@ -1,5 +1,5 @@
 ---
-title: "High boots"
+title: High boots
 ---
 
 \> *look boots* These boots are of calf-high length and have been

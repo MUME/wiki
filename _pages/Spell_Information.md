@@ -1,5 +1,5 @@
 ---
-title: "Spell Information"
+title: Spell Information
 ---
 
 If you want a list of all spells, visit this [Spell

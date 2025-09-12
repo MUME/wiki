@@ -1,5 +1,5 @@
 ---
-title: "Hit points"
+title: Hit points
 ---
 
 Hit points (hps) is a way of representing how much physical damage your

@@ -1,5 +1,5 @@
 ---
-title: "Lore"
+title: Lore
 ---
 
 # External Links

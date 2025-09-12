@@ -1,5 +1,5 @@
 ---
-title: "Slate blue shirt"
+title: Slate blue shirt
 ---
 
 \> **look shirt**
@@ -12,3 +12,5 @@ It is a slate blue shirt. It weighs a couple of pounds.
 This shirt is equipped on you automatically after your
 [pray](pray "wikilink") somewhere from the Halls of Mandos. It can't be
 sold, and will decay immediately if you drop it.
+
+{% include Equipment.md %}

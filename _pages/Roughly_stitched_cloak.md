@@ -1,5 +1,5 @@
 ---
-title: "Roughly stitched cloak"
+title: Roughly stitched cloak
 ---
 
 The cloak is partly made from a finely-woven fabric of a deep green

@@ -1,5 +1,5 @@
 ---
-title: "Olly of Fornost"
+title: Olly of Fornost
 ---
 
 ## About Olly

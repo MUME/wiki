@@ -1,5 +1,5 @@
 ---
-title: "Old Tailor in Fornost"
+title: Old Tailor in Fornost
 ---
 
 \>**examine tailor**

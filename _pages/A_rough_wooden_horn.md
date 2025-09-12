@@ -1,5 +1,5 @@
 ---
-title: "A rough wooden horn"
+title: A rough wooden horn
 ---
 
 \> **examine horn**
@@ -24,5 +24,7 @@ It weighs five pounds.
 
 Blowing the horn causes any roots that might be holding you to loosen
 their grip. 'use horn' to blow the horn.
+
+{% include Equipment.md %}
 
 [Rough wooden horn](Category:_Miscellaneous_equipment "wikilink")

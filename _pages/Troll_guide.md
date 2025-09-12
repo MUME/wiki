@@ -1,5 +1,5 @@
 ---
-title: "Troll guide"
+title: Troll guide
 ---
 
 test

@@ -1,5 +1,5 @@
 ---
-title: "Greenway"
+title: Greenway
 ---
 
 The Greenway is what remains of the old North-South road that originally

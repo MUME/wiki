@@ -1,5 +1,5 @@
 ---
-title: "Cure Light"
+title: Cure Light
 ---
 
 <nowiki>g

@@ -1,5 +1,5 @@
 ---
-title: "Ragged, blackened cloak"
+title: Ragged, blackened cloak
 ---
 
 \> **look cloak**
@@ -17,3 +17,5 @@ It weighs a couple of pounds.
 ## Other
 
 Increases dodge bonus by 5.
+
+{% include Equipment.md %}

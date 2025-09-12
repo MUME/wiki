@@ -1,5 +1,5 @@
 ---
-title: "Link"
+title: Link
 ---
 
 'Link' is a command which shows information about your connection. It

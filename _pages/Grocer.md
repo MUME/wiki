@@ -1,5 +1,5 @@
 ---
-title: "Grocer"
+title: Grocer
 ---
 
 **Grocers** tend to groceries and general stores in

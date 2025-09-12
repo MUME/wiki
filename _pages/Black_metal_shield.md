@@ -1,5 +1,5 @@
 ---
-title: "Black metal shield"
+title: Black metal shield
 ---
 
 \> **look shield**
@@ -11,5 +11,7 @@ red eye stares out at you.
 \> **consider shield**
 It is a black metal shield.
 It weighs one stone and one pound.
+
+{% include Equipment.md %}
 
 [Black metal shield](Category:_Shields "wikilink")

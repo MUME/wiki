@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Accessing Game Information"
+title: Newbie Guide Accessing Game Information
 ---
 
 **Newbie Guide Accessing Game Information**

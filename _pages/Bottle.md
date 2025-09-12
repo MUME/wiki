@@ -1,5 +1,5 @@
 ---
-title: "Bottle"
+title: Bottle
 ---
 
 The **bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
@@ -16,5 +16,7 @@ containing ale.
 `>`**`consider bottle`**
 `It is a bottle.`
 `It weighs about one pound.`
+
+{% include Items.md %}
 
 [Category: Containers](Category:_Containers "wikilink")

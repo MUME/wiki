@@ -1,5 +1,5 @@
 ---
-title: "Sturdy chain mail coif"
+title: Sturdy chain mail coif
 ---
 
 \>**look coif**
@@ -11,6 +11,7 @@ is less hampering than a helmet while it still offers good protection.
 \>**consider coif**
 It is a sturdy chain mail coif.
 It weighs four pounds.
+{% include Equipment.md %}
 
 [Sturdy chain mail coif](Category:_Chain_equipment "wikilink") [Sturdy
 chain mail coif](Category:Head_items "wikilink")

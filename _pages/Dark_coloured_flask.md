@@ -1,5 +1,5 @@
 ---
-title: "Dark coloured flask"
+title: Dark coloured flask
 ---
 
 \> **look flask**
@@ -15,5 +15,7 @@ It weighs a few ounces.
 ## Other
 
 Contains oil by default. Sold by most grocers.
+
+{% include Equipment.md %}
 
 [Category:Containers](Category:Containers "wikilink")

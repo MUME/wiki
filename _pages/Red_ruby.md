@@ -1,5 +1,5 @@
 ---
-title: "Red ruby"
+title: Red ruby
 ---
 
 \> **examine ruby**
@@ -19,6 +19,8 @@ It weighs a few ounces.
 ## Other
 
 Functions as a light source.
+
+{% include Equipment.md %}
 
 [Red ruby](Category:Neck_items "wikilink") [Red
 ruby](Category:Miscellaneous_equipment "wikilink")

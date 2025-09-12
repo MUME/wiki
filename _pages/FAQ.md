@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: FAQ
 ---
 
 Command **FAQ** allows you to read the FAQ [board](board "wikilink")

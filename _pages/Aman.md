@@ -1,5 +1,5 @@
 ---
-title: "Aman"
+title: Aman
 ---
 
 Aman ("Blessed Realm" or "Free from Evil" in Quenya, pron. \[ˈaman\]) is

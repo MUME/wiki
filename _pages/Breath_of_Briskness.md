@@ -1,5 +1,5 @@
 ---
-title: "Breath of Briskness"
+title: Breath of Briskness
 ---
 
 **Breath of Briskness** is a level 10 [cleric](cleric "wikilink")

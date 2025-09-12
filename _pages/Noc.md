@@ -1,5 +1,5 @@
 ---
-title: "Noc"
+title: Noc
 ---
 
 1.  REDIRECT [New Orc Caves](New_Orc_Caves "wikilink")

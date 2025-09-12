@@ -1,5 +1,5 @@
 ---
-title: "Pork-pie"
+title: Pork-pie
 ---
 
 \> **look pie** This pie is fully covered with dough, but exudes a
@@ -8,5 +8,7 @@ The meat of this pie is seasoned with salt and pepper, as well as other
 herbs and spices.
 
 \> **consider pie** It is a pork-pie. It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Pork-pie](Category:_Consumables "wikilink")

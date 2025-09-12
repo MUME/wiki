@@ -1,5 +1,5 @@
 ---
-title: "Advanced Charm Guide"
+title: Advanced Charm Guide
 ---
 
 This information comes from private wiki and Discord, collected by Dave,

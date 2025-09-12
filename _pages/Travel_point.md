@@ -1,5 +1,5 @@
 ---
-title: "Travel point"
+title: Travel point
 ---
 
 A feature unique to MUME, all players need to gain travel points (TPs)

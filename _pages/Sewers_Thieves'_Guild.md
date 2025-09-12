@@ -1,5 +1,5 @@
 ---
-title: "Sewers Thieves' Guild"
+title: Sewers Thieves' Guild
 ---
 
 A **wary man** teaches [thief](thief "wikilink")

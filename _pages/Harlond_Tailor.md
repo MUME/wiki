@@ -1,5 +1,5 @@
 ---
-title: "Harlond Tailor"
+title: Harlond Tailor
 ---
 
 The **elven tailor** tends to the **Tailor's Shop** in

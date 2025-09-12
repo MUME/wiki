@@ -1,5 +1,5 @@
 ---
-title: "Huge, black wolf"
+title: Huge, black wolf
 ---
 
 \> A huge, black wolf is here, ready to devour.

@@ -1,5 +1,5 @@
 ---
-title: "Hobbit"
+title: Hobbit
 ---
 
 The origin of hobbits is uncertain, though it's known that they existed

@@ -1,5 +1,5 @@
 ---
-title: "Shaman Guide"
+title: Shaman Guide
 ---
 
 Shaman Guide by Shaukr v0.9

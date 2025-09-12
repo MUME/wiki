@@ -1,5 +1,5 @@
 ---
-title: "Shortsword"
+title: Shortsword
 ---
 
 \> **look sword**
@@ -15,5 +15,7 @@ This piercing weapon can be wielded one-handed.
 It is poor while attacking and average while defending; its speed is
 very fast, and it inflicts little damage upon hitting.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Shortsword](Category:_Piercing_weapons "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Metal wall shield"
+title: Metal wall shield
 ---
 
 The **metal wall shield** is a rather heavy [shield](shield "wikilink")
@@ -14,5 +14,7 @@ that grants mediocre parry bonus.
 `>`**`conside shield`**
 `It is a metal wall shield.`
 `It weighs two stone and one pound.`
+
+{% include Equipment.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

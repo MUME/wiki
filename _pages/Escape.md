@@ -1,5 +1,5 @@
 ---
-title: "Escape"
+title: Escape
 ---
 
 ## Escape

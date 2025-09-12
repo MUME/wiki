@@ -1,5 +1,5 @@
 ---
-title: "Autoexit"
+title: Autoexit
 ---
 
 \[Toggle Command\]

@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide for Missile Weapons"
+title: Newbie Guide for Missile Weapons
 ---
 
 **Newbie Guide to Missile Weapons**

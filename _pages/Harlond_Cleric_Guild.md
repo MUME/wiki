@@ -1,5 +1,5 @@
 ---
-title: "Harlond Cleric Guild"
+title: Harlond Cleric Guild
 ---
 
 **Filatior** teaches at the **Small Temple** in

@@ -1,5 +1,5 @@
 ---
-title: "Knock"
+title: Knock
 ---
 
 Syntax: knock <doorname> \[direction\]

@@ -1,5 +1,5 @@
 ---
-title: "Sneak"
+title: Sneak
 ---
 
 ## Sneak

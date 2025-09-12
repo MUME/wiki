@@ -1,5 +1,5 @@
 ---
-title: "Small metal shield"
+title: Small metal shield
 ---
 
 \> **look shield**
@@ -9,5 +9,7 @@ is given to the wearer.
 \> **consider shield**
 It is a small metal shield.
 It weighs eight pounds.
+
+{% include Equipment.md %}
 
 [Small metal shield](Category:_Shields "wikilink")

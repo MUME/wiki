@@ -1,5 +1,5 @@
 ---
-title: "A sturdy pair of hard leather trousers"
+title: A sturdy pair of hard leather trousers
 ---
 
 1.  REDIRECT [Sturdy hard leather

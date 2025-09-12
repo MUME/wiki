@@ -1,5 +1,5 @@
 ---
-title: "Brief"
+title: Brief
 ---
 
 Usage: brief \[on\|off\]

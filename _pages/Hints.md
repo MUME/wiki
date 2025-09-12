@@ -1,5 +1,5 @@
 ---
-title: "Hints"
+title: Hints
 ---
 
 **Hints** for new players are displayed at logon for 'newbie'

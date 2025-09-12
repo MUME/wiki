@@ -1,5 +1,5 @@
 ---
-title: "Chain mail hauberk"
+title: Chain mail hauberk
 ---
 
 \> **look hauberk**
@@ -13,3 +13,5 @@ qualtity and time as well as cost to create this armour.
 \> **consider hauberk**
 It is a chain mail hauberk.
 It weighs eight pounds.
+
+{% include Equipment.md %}

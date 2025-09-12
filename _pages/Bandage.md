@@ -1,5 +1,5 @@
 ---
-title: "Bandage"
+title: Bandage
 ---
 
 ## Bandage

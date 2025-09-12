@@ -1,5 +1,5 @@
 ---
-title: "Rangers"
+title: Rangers
 ---
 
 Rangers are heroes of the free people of Arda who willingly help new

@@ -1,5 +1,5 @@
 ---
-title: "Basics"
+title: Basics
 ---
 
 1.  Redirect

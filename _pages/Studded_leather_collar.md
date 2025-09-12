@@ -1,5 +1,5 @@
 ---
-title: "Studded leather collar"
+title: Studded leather collar
 ---
 
 The **studded leather collar** can be worn around the neck. They load on
@@ -19,5 +19,7 @@ tailors for around 1 [silver](silver "wikilink").
 `>`**`consider collar`**
 `It is a studded leather collar.`
 `It weighs about one pound.`
+
+{% include Items.md %}
 
 [Category: Neck items](Category:_Neck_items "wikilink")

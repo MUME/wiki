@@ -1,5 +1,5 @@
 ---
-title: "Strange golden ring"
+title: Strange golden ring
 ---
 
 !# CW\>**examine golden**
@@ -17,5 +17,6 @@ and is enchanted to provide the wearer with some protection from fire in
 the [balrog](balrog "wikilink")'s mini zone. It is also not possible to
 rent or hide the ring.
 
+{% include Equipment.md %}
 
 [Strange golden ring](Category:_Rings "wikilink")

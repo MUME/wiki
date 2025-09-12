@@ -1,5 +1,5 @@
 ---
-title: "Armour Spell"
+title: Armour Spell
 ---
 
 Syntax : cast 'armour' \[self-only\] Type : Defensive Accumulative: No

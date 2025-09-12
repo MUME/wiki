@@ -1,5 +1,5 @@
 ---
-title: "Fallow deer"
+title: Fallow deer
 ---
 
 **Fallow deer** are passive level ~1-2 [mobiles](mobiles "wikilink"),

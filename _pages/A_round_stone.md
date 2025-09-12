@@ -1,5 +1,5 @@
 ---
-title: "A round stone"
+title: A round stone
 ---
 
 1.  REDIRECT [Round stone](Round_stone "wikilink")

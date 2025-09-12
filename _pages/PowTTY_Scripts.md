@@ -1,5 +1,5 @@
 ---
-title: "PowTTY Scripts"
+title: PowTTY Scripts
 ---
 
 # PowTTY

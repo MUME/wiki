@@ -1,5 +1,5 @@
 ---
-title: "Remove Curse"
+title: Remove Curse
 ---
 
 <nowiki>g Syntax : cast 'remove curse' Type : Healing Accumulative: N/A

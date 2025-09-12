@@ -1,5 +1,5 @@
 ---
-title: "Carved oak staff"
+title: Carved oak staff
 ---
 
 The **carved oak staff** is a [two-handed

@@ -1,5 +1,5 @@
 ---
-title: "Beorning"
+title: Beorning
 ---
 
 **Beornings**, also known as **Bears**, are a race of
@@ -40,3 +40,5 @@ they do not have [mana](mana "wikilink"), and are incapable of using
 weapons or spells. Many skills have no effect on the character in bear
 form. They use their paws and claws to fight, and their bulk to
 [bash](bash "wikilink").
+
+{% include ClassRace.md %}

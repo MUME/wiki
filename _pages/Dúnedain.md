@@ -1,5 +1,5 @@
 ---
-title: "Dúnedain"
+title: Dúnedain
 ---
 
 The Dúnedain are descenants of the Númenóreans who settled Middle Earth

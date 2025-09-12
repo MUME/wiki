@@ -1,5 +1,5 @@
 ---
-title: "Charging weapons"
+title: Charging weapons
 ---
 
 ## Charge

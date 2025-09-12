@@ -1,5 +1,5 @@
 ---
-title: "Category:Software"
+title: Category:Software
 ---
 
 - [Software](Software "wikilink")

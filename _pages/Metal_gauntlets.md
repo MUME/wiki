@@ -1,5 +1,5 @@
 ---
-title: "Metal gauntlets"
+title: Metal gauntlets
 ---
 
 \>**examine gauntlets** This pair of gauntlets is forged from several
@@ -10,6 +10,8 @@ clip allows closure of the gauntlet around the hand.
 
 \>**consider gauntlets** They are a pair of metal gauntlets. They weigh
 five pounds.
+
+{% include Equipment.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Hands items](Category:_Hands_items "wikilink")

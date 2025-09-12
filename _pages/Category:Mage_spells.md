@@ -1,5 +1,5 @@
 ---
-title: "Category:Mage spells"
+title: Category:Mage spells
 ---
 
 [Category: Spells](Category:_Spells "wikilink")

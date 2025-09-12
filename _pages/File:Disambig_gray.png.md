@@ -1,4 +1,4 @@
 ---
-title: "File:Disambig gray.png"
+title: File:Disambig gray.png
 ---
 

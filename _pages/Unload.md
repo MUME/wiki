@@ -1,5 +1,5 @@
 ---
-title: "Unload"
+title: Unload
 ---
 
 If you have a [crossbow](crossbow "wikilink"), you can

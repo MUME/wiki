@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Herbalist"
+title: Rivendell Herbalist
 ---
 
 An [elven herbalist](elven_herbalist "wikilink") tend to the

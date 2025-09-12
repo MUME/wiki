@@ -1,5 +1,5 @@
 ---
-title: "Kick"
+title: Kick
 ---
 
 ## Kick

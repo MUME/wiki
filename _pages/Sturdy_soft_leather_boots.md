@@ -1,5 +1,5 @@
 ---
-title: "Sturdy soft leather boots"
+title: Sturdy soft leather boots
 ---
 
 \> **look boots**
@@ -11,3 +11,5 @@ protection from the elements.
 \> **consider boots**
 They are a sturdy pair of soft leather boots.
 They weigh a couple of pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Read"
+title: Read
 ---
 
 Obviously, this is used for reading things.

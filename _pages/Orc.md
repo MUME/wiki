@@ -1,5 +1,5 @@
 ---
-title: "Orc"
+title: Orc
 ---
 
 Also known as Goblins, these foul creatures were created by Morgoth in

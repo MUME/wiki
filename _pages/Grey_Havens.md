@@ -1,5 +1,5 @@
 ---
-title: "Grey Havens"
+title: Grey Havens
 ---
 
 ## Grey Havens

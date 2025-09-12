@@ -1,5 +1,5 @@
 ---
-title: "Bree Herbalist"
+title: Bree Herbalist
 ---
 
 An **elderly herbalist** tends to the **Herb Shop** in

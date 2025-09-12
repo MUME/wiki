@@ -1,5 +1,5 @@
 ---
-title: "Mean brigand"
+title: Mean brigand
 ---
 
 \> A brigand, looking at your nice purse, is sneaking here.

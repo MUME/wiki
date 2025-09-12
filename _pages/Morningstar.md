@@ -1,5 +1,5 @@
 ---
-title: "Morningstar"
+title: Morningstar
 ---
 
 \> **examine morningstar**
@@ -11,5 +11,6 @@ This crushing weapon can be wielded one-handed.
 It is poor while attacking and poor while defending; its speed is
 average, and it inflicts little damage upon hitting.
 It weighs five pounds.
+{% include Equipment.md %}
 
 [Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

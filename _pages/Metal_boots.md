@@ -1,5 +1,5 @@
 ---
-title: "Metal boots"
+title: Metal boots
 ---
 
 \> **examine boots**
@@ -15,6 +15,7 @@ the foot. The toes of the boots have been steel-tipped.
 \> **consider boots**
 They are a pair of metal boots.
 They weigh six pounds.
+{% include Equipment.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Feet items](Category:_Feet_items "wikilink")

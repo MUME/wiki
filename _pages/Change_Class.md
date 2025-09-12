@@ -1,5 +1,5 @@
 ---
-title: "Change Class"
+title: Change Class
 ---
 
 In some other MUD, players are required to pick a "class" when they

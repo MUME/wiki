@@ -1,5 +1,5 @@
 ---
-title: "Rivendell Cleric Guild"
+title: Rivendell Cleric Guild
 ---
 
 An **elven priest** teaches [cleric](cleric "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Blue Mountains"
+title: Blue Mountains
 ---
 
 ## Blue Mountains
@@ -139,3 +139,5 @@ access by Thorin. The middle city is above and to the west, and is on
 another part of the map.
 
 </pre>
+
+{% include Place.md %}

@@ -1,4 +1,5 @@
 ---
-title: "Shaman"
+title: Shaman
 ---
 
+{% include ClassRace.md %}

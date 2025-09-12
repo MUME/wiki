@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Cities and Settlements"
+title: Newbie Guide Cities and Settlements
 ---
 
 **Guide Cities and Settlements**

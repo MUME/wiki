@@ -1,5 +1,5 @@
 ---
-title: "Eriadoran"
+title: Eriadoran
 ---
 
 The Eriadoran people are the common people of Northwest Middle Earth.

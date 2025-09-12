@@ -1,5 +1,5 @@
 ---
-title: "Forlond's Fine Jewelry"
+title: Forlond's Fine Jewelry
 ---
 
 An **elven shopkeeper** tends shop at [Forlond's Fine

@@ -1,5 +1,5 @@
 ---
-title: "Leadership"
+title: Leadership
 ---
 
 ## LEADERSHIP

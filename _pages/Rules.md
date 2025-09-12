@@ -1,5 +1,5 @@
 ---
-title: "Rules"
+title: Rules
 ---
 
 1.  Redirect

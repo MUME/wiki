@@ -1,5 +1,5 @@
 ---
-title: "Thumbs"
+title: Thumbs
 ---
 
 The thumbs command is like a normal social with a minor twist. You can

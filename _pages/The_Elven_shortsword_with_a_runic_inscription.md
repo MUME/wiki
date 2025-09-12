@@ -1,5 +1,5 @@
 ---
-title: "The Elven shortsword with a runic inscription"
+title: The Elven shortsword with a runic inscription
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Big John"
+title: Big John
 ---
 
 **Big John** is the leader of a group of

@@ -1,5 +1,5 @@
 ---
-title: "Sealed jug of dye"
+title: Sealed jug of dye
 ---
 
 The **sealed jug of dye** is the [item](item "wikilink") required to

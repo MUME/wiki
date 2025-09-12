@@ -1,5 +1,5 @@
 ---
-title: "Soft leather sleeves"
+title: Soft leather sleeves
 ---
 
 \> **look sleeves** These sleeves are made of soft leather, which will
@@ -10,3 +10,5 @@ scratches mar the leather, and the stitching does not look like quality
 work.
 \> **consider sleeves** They are a pair of soft leather sleeves.
 They weigh four pounds.
+
+{% include Equipment.md %}

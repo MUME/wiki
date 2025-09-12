@@ -1,5 +1,5 @@
 ---
-title: "Burn"
+title: Burn
 ---
 
 You can set fire to a corpse or corpses by using the command 'burn'. The

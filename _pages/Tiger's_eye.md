@@ -1,5 +1,5 @@
 ---
-title: "Tiger's eye"
+title: Tiger's eye
 ---
 
 `A polished tiger's eye lies discarded here.`
@@ -11,6 +11,8 @@ title: "Tiger's eye"
 `>`**`consider eye`**
 `It is a tiger's eye.`
 `It weighs a couple of ounces.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

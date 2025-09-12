@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Mage Guild"
+title: Tharbad Mage Guild
 ---
 
 The **Illusionist** teaches [mage](mage "wikilink")

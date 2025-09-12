@@ -1,5 +1,5 @@
 ---
-title: "Thick wool vest"
+title: Thick wool vest
 ---
 
 \> **look vest**
@@ -16,5 +16,7 @@ Perhaps that is where the sweater came from.
 \> **consider vest**
 It is a thick wool vest.
 It weighs four pounds.
+
+{% include Equipment.md %}
 
 [Thick wool vest](Category:_Cloth_equipment "wikilink")

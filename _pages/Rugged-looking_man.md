@@ -1,5 +1,5 @@
 ---
-title: "Rugged-looking man"
+title: Rugged-looking man
 ---
 
 \>**look man**

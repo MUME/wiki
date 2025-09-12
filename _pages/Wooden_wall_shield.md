@@ -1,5 +1,5 @@
 ---
-title: "Wooden wall shield"
+title: Wooden wall shield
 ---
 
 `A wooden wall shield rests on the ground.`
@@ -11,5 +11,7 @@ title: "Wooden wall shield"
 `>`**`consider shield`**
 `It is a wooden wall shield.`
 `It weighs one stone and eleven pounds.`
+
+{% include Items.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

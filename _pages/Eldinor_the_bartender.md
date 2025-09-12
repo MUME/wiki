@@ -1,5 +1,5 @@
 ---
-title: "Eldinor the bartender"
+title: Eldinor the bartender
 ---
 
 **Eldinor** tends bar at the [Seagull Inn](Seagull_Inn "wikilink") in

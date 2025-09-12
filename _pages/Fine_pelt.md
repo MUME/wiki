@@ -1,5 +1,5 @@
 ---
-title: "Fine pelt"
+title: Fine pelt
 ---
 
 \> **look pelt**
@@ -9,3 +9,5 @@ the touch.
 \> **consider pelt**
 It is a fine pelt.
 It weighs three pounds.
+
+{% include Equipment.md %}

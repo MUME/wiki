@@ -1,5 +1,5 @@
 ---
-title: "Butcher"
+title: Butcher
 ---
 
 Travelling in the wilderness can sometimes result in the poor explorer

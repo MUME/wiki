@@ -1,5 +1,5 @@
 ---
-title: "Aldereon"
+title: Aldereon
 ---
 
 **Aldereon** is a powerful elf living in an elven village east of [Grey

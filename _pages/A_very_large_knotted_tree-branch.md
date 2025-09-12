@@ -1,5 +1,5 @@
 ---
-title: "A very large knotted tree-branch"
+title: A very large knotted tree-branch
 ---
 
 1.  REDIRECT [Very large knotted

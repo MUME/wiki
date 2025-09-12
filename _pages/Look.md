@@ -1,5 +1,5 @@
 ---
-title: "Look"
+title: Look
 ---
 
 For studying your surroundings or looking at items, creatures etc.

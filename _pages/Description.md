@@ -1,5 +1,5 @@
 ---
-title: "Description"
+title: Description
 ---
 
 Use [Change Description](Change_Description "wikilink") to alter the

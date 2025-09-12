@@ -1,5 +1,5 @@
 ---
-title: "Silence"
+title: Silence
 ---
 
 <nowiki>g Syntax : cast 'silence' Type : Offensive, mental Accumulative:

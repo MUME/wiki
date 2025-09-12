@@ -1,5 +1,5 @@
 ---
-title: "Category:Deletion Candidates"
+title: Category:Deletion Candidates
 ---
 
 Read the discussion page before deletion!

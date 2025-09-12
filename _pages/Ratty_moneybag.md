@@ -1,5 +1,5 @@
 ---
-title: "Ratty moneybag"
+title: Ratty moneybag
 ---
 
 The **ratty moneybag** is an [item](item "wikilink") needed for the

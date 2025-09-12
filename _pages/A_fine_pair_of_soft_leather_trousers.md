@@ -1,5 +1,5 @@
 ---
-title: "A fine pair of soft leather trousers"
+title: A fine pair of soft leather trousers
 ---
 
 1.  REDIRECT [Fine soft leather

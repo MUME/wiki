@@ -1,5 +1,5 @@
 ---
-title: "A leather backpack"
+title: A leather backpack
 ---
 
 1.  REDIRECT [Leather backpack](Leather_backpack "wikilink")

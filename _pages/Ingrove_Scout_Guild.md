@@ -1,5 +1,5 @@
 ---
-title: "Ingrove Scout Guild"
+title: Ingrove Scout Guild
 ---
 
 **Katerine** teaches [scout](thief "wikilink")

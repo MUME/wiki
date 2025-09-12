@@ -1,5 +1,5 @@
 ---
-title: "Fireball"
+title: Fireball
 ---
 
 **Fireball** is a mid-level [mage](mage "wikilink")

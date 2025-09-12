@@ -1,5 +1,5 @@
 ---
-title: "Young ruffian"
+title: Young ruffian
 ---
 
 **Young ruffians** are aggressive [level](level "wikilink") ~2-3

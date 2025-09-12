@@ -1,5 +1,5 @@
 ---
-title: "Wield"
+title: Wield
 ---
 
 When you get tired of bashing monsters with your fists, you might

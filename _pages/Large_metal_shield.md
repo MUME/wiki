@@ -1,5 +1,5 @@
 ---
-title: "Large metal shield"
+title: Large metal shield
 ---
 
 \> **look shield**
@@ -11,5 +11,7 @@ broad leather strips that are affixed to the back.
 \> **consider shield**
 It is a large metal shield.
 It weighs twelve pounds.
+
+{% include Equipment.md %}
 
 [Large metal shield](Category:_Shields "wikilink")

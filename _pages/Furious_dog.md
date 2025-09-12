@@ -1,5 +1,5 @@
 ---
-title: "Furious dog"
+title: Furious dog
 ---
 
 **Furious dogs** are aggressive [level](level "wikilink") \<9

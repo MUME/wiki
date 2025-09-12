@@ -1,5 +1,5 @@
 ---
-title: "Elven names"
+title: Elven names
 ---
 
 ## Character names

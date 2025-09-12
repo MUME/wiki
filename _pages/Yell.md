@@ -1,5 +1,5 @@
 ---
-title: "Yell"
+title: Yell
 ---
 
 If you want all the players near you to hear something, yell it. Your

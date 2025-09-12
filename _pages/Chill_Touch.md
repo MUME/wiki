@@ -1,5 +1,5 @@
 ---
-title: "Chill Touch"
+title: Chill Touch
 ---
 
 <nowiki>g Syntax : cast 'chill touch' \[victim\] Type : Offensive,

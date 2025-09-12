@@ -1,5 +1,5 @@
 ---
-title: "Broomrape plant"
+title: Broomrape plant
 ---
 
 **Broomrape plants** are aggressive, [evil](evil "wikilink")

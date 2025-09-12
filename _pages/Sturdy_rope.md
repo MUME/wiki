@@ -1,5 +1,5 @@
 ---
-title: "Sturdy rope"
+title: Sturdy rope
 ---
 
 The **sturdy rope** is a [rope](rope "wikilink") that can be used to
@@ -14,6 +14,8 @@ grocers for around 1 [silver](silver "wikilink").
 `>`**`consider rope`**
 `It is a sturdy rope.`
 `It weighs seven pounds.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "A ragged, blackened cloak"
+title: A ragged, blackened cloak
 ---
 
 1.  REDIRECT [Ragged, blackened

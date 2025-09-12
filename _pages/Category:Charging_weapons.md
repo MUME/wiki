@@ -1,5 +1,5 @@
 ---
-title: "Category:Charging weapons"
+title: Category:Charging weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

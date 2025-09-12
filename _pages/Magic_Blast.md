@@ -1,5 +1,5 @@
 ---
-title: "Magic Blast"
+title: Magic Blast
 ---
 
 <nowiki>g Syntax : cast 'magic blast' Type : Meta magic, area

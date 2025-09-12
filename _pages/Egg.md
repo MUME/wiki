@@ -1,5 +1,5 @@
 ---
-title: "Egg"
+title: Egg
 ---
 
 \> **look egg**
@@ -9,5 +9,7 @@ the shell.
 \> **con egg**
 It is an egg.
 It weighs a couple of ounces.
+
+{% include Equipment.md %}
 
 [Egg](Category:Consumables "wikilink")

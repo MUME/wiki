@@ -1,5 +1,5 @@
 ---
-title: "Ghost of Galerel"
+title: Ghost of Galerel
 ---
 
 The **ghost of Galerel** is a spirit inhabiting the ruins of his former

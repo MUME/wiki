@@ -1,5 +1,5 @@
 ---
-title: "Haunt"
+title: Haunt
 ---
 
 \> A shadowy haunt floats here, oblivious to your presence.

@@ -1,5 +1,5 @@
 ---
-title: "Wimpy"
+title: Wimpy
 ---
 
 Usage: CHANGE WIMPY <value>

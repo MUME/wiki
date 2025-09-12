@@ -1,5 +1,5 @@
 ---
-title: "Black Númenórean"
+title: Black Númenórean
 ---
 
 The origin of the first **Black Númenóreans** is in the latter half of
@@ -64,3 +64,5 @@ spells will be slower than other races.
 But you must be cunning. You must be evil. You must be cruel. You must
 have the element of surprise. Your true power will be in your ability to
 trick your enemies. And most of all you must be ready for anything."
+
+{% include ClassRace.md %}

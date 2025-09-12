@@ -1,5 +1,5 @@
 ---
-title: "Sauron's List"
+title: Sauron's List
 ---
 
 **Sauron's list** is a list of people acknowledged by

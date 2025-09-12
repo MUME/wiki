@@ -1,5 +1,5 @@
 ---
-title: "Warrior"
+title: Warrior
 ---
 
 Warriors are known to have more strength than the average player. This

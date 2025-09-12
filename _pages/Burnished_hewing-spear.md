@@ -1,5 +1,5 @@
 ---
-title: "Burnished hewing-spear"
+title: Burnished hewing-spear
 ---
 
 The **burnished hewing-spear** is a magical [two-handed
@@ -21,5 +21,7 @@ it effective against undead. It is worth around 62
 `It is excellent while attacking and average while defending; its speed is very slow, and it inflicts`
 `massive damage upon hitting.`
 `It weighs nine pounds.`
+
+{% include Items.md %}
 
 [Category: Smiting weapons](Category:_Smiting_weapons "wikilink")

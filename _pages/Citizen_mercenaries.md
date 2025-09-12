@@ -1,5 +1,5 @@
 ---
-title: "Citizen mercenaries"
+title: Citizen mercenaries
 ---
 
 Citizen mercenaries are available for hire in [Bree](Bree "wikilink")

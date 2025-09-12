@@ -1,5 +1,5 @@
 ---
-title: "Jack Olby"
+title: Jack Olby
 ---
 
 **Jack Olby** guards the entrance to the [Guards' Training

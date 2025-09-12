@@ -1,5 +1,5 @@
 ---
-title: "Moneybag"
+title: Moneybag
 ---
 
 \> **look moneybag**
@@ -15,5 +15,7 @@ It weighs half a pound.
 ## Other
 
 Can only hold money and gems.
+
+{% include Equipment.md %}
 
 [Moneybag](Category:_Containers "wikilink")

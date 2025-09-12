@@ -1,5 +1,5 @@
 ---
-title: "PandoraMapper"
+title: PandoraMapper
 ---
 
 ## Information for Newcomers

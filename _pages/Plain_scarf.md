@@ -1,5 +1,5 @@
 ---
-title: "Plain scarf"
+title: Plain scarf
 ---
 
 \> **look scarf**
@@ -11,5 +11,7 @@ without being worn out.
 \> **consider scarf**
 It is a plain scarf.
 It weighs about one pound.
+
+{% include Equipment.md %}
 
 [Plain scarf](Category:_Cloth_equipment "wikilink")

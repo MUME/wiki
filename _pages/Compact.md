@@ -1,5 +1,5 @@
 ---
-title: "Compact"
+title: Compact
 ---
 
 Usage: compact \[on\|off\]

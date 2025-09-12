@@ -1,5 +1,5 @@
 ---
-title: "Soft leather trousers"
+title: Soft leather trousers
 ---
 
 \> **look trousers**
@@ -13,3 +13,5 @@ winter day, whilst be granted a great deal of flexibility.
 \> **consider trousers**
 They are a pair of soft leather trousers.
 They weigh four pounds.
+
+{% include Equipment.md %}

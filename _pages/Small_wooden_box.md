@@ -1,5 +1,5 @@
 ---
-title: "Small wooden box"
+title: Small wooden box
 ---
 
 ## Statistics

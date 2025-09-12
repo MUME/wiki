@@ -1,5 +1,5 @@
 ---
-title: "Steal"
+title: Steal
 ---
 
 ## Steal

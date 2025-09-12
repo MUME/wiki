@@ -1,5 +1,5 @@
 ---
-title: "Gypsy woman"
+title: Gypsy woman
 ---
 
 The **gypsy woman** is an aggressive [level](level "wikilink") ?

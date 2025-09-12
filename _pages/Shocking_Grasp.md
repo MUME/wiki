@@ -1,5 +1,5 @@
 ---
-title: "Shocking Grasp"
+title: Shocking Grasp
 ---
 
 <nowiki>g Syntax : cast 'shocking grasp' \[victim\] Type : Offensive,

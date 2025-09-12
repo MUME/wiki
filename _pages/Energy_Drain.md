@@ -1,5 +1,5 @@
 ---
-title: "Energy Drain"
+title: Energy Drain
 ---
 
 <nowiki>g Syntax : cast 'energy drain' Type : Offensive, special

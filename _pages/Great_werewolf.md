@@ -1,5 +1,5 @@
 ---
-title: "Great werewolf"
+title: Great werewolf
 ---
 
 \> **look wolf**

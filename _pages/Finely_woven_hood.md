@@ -1,5 +1,5 @@
 ---
-title: "Finely woven hood"
+title: Finely woven hood
 ---
 
 The **finely woven hood** is a piece of cloth
@@ -19,6 +19,8 @@ It grants higher [dodge bonus](dodge_bonus "wikilink") than other cloth
 `>`**`consider hood`**
 `It is a finely woven hood.`
 `It weighs a couple of ounces.`
+
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category: Head items](Category:_Head_items "wikilink")

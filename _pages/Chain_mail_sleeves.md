@@ -1,5 +1,5 @@
 ---
-title: "Chain mail sleeves"
+title: Chain mail sleeves
 ---
 
 \> **look sleeves**
@@ -11,3 +11,5 @@ quite some errors in the pattern can be spotted.
 \> **consider sleeves**
 They are a pair of chain mail sleeves.
 They weigh five pounds.
+
+{% include Equipment.md %}

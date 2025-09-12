@@ -1,5 +1,5 @@
 ---
-title: "Parry split"
+title: Parry split
 ---
 
 Parry splitting was perhaps first described in Petrel's book '[Newbie

@@ -1,5 +1,5 @@
 ---
-title: "Stabbing weapons"
+title: Stabbing weapons
 ---
 
 ## Stabbing Weapons

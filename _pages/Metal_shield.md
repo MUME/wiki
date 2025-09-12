@@ -9,3 +9,5 @@ large, cumbersome metal shield and a lighter, yet much smaller shield.
 \> **consider shield**
 It is a metal shield.
 It weighs ten pounds.
+
+{% include Equipment.md %}

@@ -1,5 +1,5 @@
 ---
-title: "Drag"
+title: Drag
 ---
 
 Syntax: 'drag corpse'

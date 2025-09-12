@@ -1,5 +1,5 @@
 ---
-title: "Detect Evil"
+title: Detect Evil
 ---
 
 **Detect evil** is a level 1 [cleric](cleric "wikilink")

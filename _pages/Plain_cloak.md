@@ -1,5 +1,5 @@
 ---
-title: "Plain cloak"
+title: Plain cloak
 ---
 
 \> **look cloak**
@@ -11,3 +11,5 @@ garment warm.
 \> **consider cloak**
 It is a plain cloak.
 It weighs three pounds.
+
+{% include Equipment.md %}

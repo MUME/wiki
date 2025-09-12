@@ -1,5 +1,5 @@
 ---
-title: "Animated skeleton"
+title: Animated skeleton
 ---
 
 \> **look skeleton**

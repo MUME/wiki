@@ -1,5 +1,5 @@
 ---
-title: "Doors"
+title: Doors
 ---
 
 Opens, closes, locks or unlocks (if you have an appropriate key) a door

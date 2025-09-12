@@ -1,5 +1,5 @@
 ---
-title: "FAQS"
+title: FAQS
 ---
 
 1.  Redirect

@@ -1,5 +1,5 @@
 ---
-title: "External links"
+title: External links
 ---
 
 Tolkien books and bibliography.

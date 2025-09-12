@@ -1,5 +1,5 @@
 ---
-title: "Guide to local editing with PowTTY"
+title: Guide to local editing with PowTTY
 ---
 
 This guide that will show you how to enable local editing in PowTTY.

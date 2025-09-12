@@ -1,5 +1,5 @@
 ---
-title: "Fine bottle"
+title: Fine bottle
 ---
 
 The **fine bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
@@ -16,5 +16,7 @@ most often containing wine.
 `>`**`consider bottle`**
 `It is a fine bottle.`
 `It weighs half a pound.`
+
+{% include Items.md %}
 
 [Category: Containers](Category:_Containers "wikilink")

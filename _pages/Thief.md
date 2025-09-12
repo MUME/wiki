@@ -1,5 +1,5 @@
 ---
-title: "Thief"
+title: Thief
 ---
 
 Thieves are known to have very special qualities, that no other class

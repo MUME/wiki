@@ -1,5 +1,5 @@
 ---
-title: "Warm blanket"
+title: Warm blanket
 ---
 
 \> **look blanket**
@@ -10,3 +10,5 @@ sleep.
 \> **consider blanket**
 It is a warm blanket.
 It weighs three pounds.
+
+{% include Equipment.md %}

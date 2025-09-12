@@ -1,5 +1,5 @@
 ---
-title: "Giant slug"
+title: Giant slug
 ---
 
 **Giant slugs** are aggressive, [evil](evil "wikilink")

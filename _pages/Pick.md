@@ -1,5 +1,5 @@
 ---
-title: "Pick"
+title: Pick
 ---
 
 ## Pick

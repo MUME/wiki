@@ -1,5 +1,5 @@
 ---
-title: "Charm"
+title: Charm
 ---
 
 **Charm** is a level 14 [mage](mage "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Weaponsmith"
+title: Tharbad Weaponsmith
 ---
 
 A **weaponsmith** tends to the **Weapon Shop** in

@@ -1,5 +1,5 @@
 ---
-title: "Broad silver belt"
+title: Broad silver belt
 ---
 
 The **broad silver belt** is a [belt](belt "wikilink") that increases

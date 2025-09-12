@@ -1,5 +1,5 @@
 ---
-title: "Grey wool hat"
+title: Grey wool hat
 ---
 
 \> **look hat**
@@ -12,3 +12,5 @@ tightly woven, guaranteed to keep out the elements of wind and cold.
 \*#\>con 4.hat
 It is a grey wool hat (used, seasoned).
 It weighs half a pound.
+
+{% include Equipment.md %}

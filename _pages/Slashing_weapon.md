@@ -1,5 +1,5 @@
 ---
-title: "Slashing weapon"
+title: Slashing weapon
 ---
 
 It is a falchion (satisfactory, new). This slashing weapon can be

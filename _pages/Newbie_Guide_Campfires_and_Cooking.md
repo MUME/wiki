@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Campfires and Cooking"
+title: Newbie Guide Campfires and Cooking
 ---
 
 **Guide Camping and Campfires and Cooking in MUME**

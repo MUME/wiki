@@ -1,5 +1,5 @@
 ---
-title: "Colour"
+title: Colour
 ---
 
 To get your favourite MUD in ANSI colour, use the "change colour"

@@ -1,5 +1,5 @@
 ---
-title: "Language"
+title: Language
 ---
 
 You can select which language you want to use when talking with other

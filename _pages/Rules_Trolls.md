@@ -1,5 +1,5 @@
 ---
-title: "Rules Trolls"
+title: Rules Trolls
 ---
 
 Some special rules apply to trolls:

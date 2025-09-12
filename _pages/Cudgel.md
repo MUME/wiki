@@ -1,5 +1,5 @@
 ---
-title: "Cudgel"
+title: Cudgel
 ---
 
 \> **look cudgel**
@@ -13,5 +13,7 @@ This crushing weapon can be wielded one-handed.
 It is awful while attacking and average while defending; its speed is
 average, and it inflicts very little damage upon hitting.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Cudgel](Category:_Concussion_weapons "wikilink")

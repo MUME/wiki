@@ -1,5 +1,5 @@
 ---
-title: "Piercing weapons"
+title: Piercing weapons
 ---
 
 ## Piercing

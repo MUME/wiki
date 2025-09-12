@@ -1,5 +1,5 @@
 ---
-title: "Shroud"
+title: Shroud
 ---
 
 **Shroud** is a level 5 [mage](mage "wikilink")

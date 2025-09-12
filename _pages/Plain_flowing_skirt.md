@@ -1,5 +1,5 @@
 ---
-title: "Plain flowing skirt"
+title: Plain flowing skirt
 ---
 
 \> **look skirt**
@@ -13,3 +13,5 @@ It weighs a couple of pounds.
 ## Other
 
 Can be [dyed](dye "wikilink") different colours.
+
+{% include Equipment.md %}

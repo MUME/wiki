@@ -1,5 +1,5 @@
 ---
-title: "Block Door"
+title: Block Door
 ---
 
 **Block [Door](Door "wikilink")** is a level 9 [mage](mage "wikilink")

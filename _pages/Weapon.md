@@ -1,5 +1,5 @@
 ---
-title: "Weapon"
+title: Weapon
 ---
 
 **MUME Weaponry**

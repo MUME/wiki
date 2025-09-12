@@ -1,5 +1,5 @@
 ---
-title: "Rooftop Thieves' Guild"
+title: Rooftop Thieves' Guild
 ---
 
 An **old gentleman** teaches [thief](thief "wikilink")

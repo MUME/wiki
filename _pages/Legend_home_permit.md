@@ -1,5 +1,5 @@
 ---
-title: "Legend home permit"
+title: Legend home permit
 ---
 
 ## How to Apply for a Legend Home Building Permit

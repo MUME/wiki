@@ -1,5 +1,5 @@
 ---
-title: "Ring of silver"
+title: Ring of silver
 ---
 
 \> **look ring**
@@ -11,3 +11,5 @@ fascinating mixture of both sturdiness and beauty.
 \> **consider ring**
 It is a ring of silver.
 It weighs a couple of ounces.
+
+{% include Equipment.md %}

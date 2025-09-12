@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide to Ranger Skills"
+title: Newbie Guide to Ranger Skills
 ---
 
 Newbie Guide to Ranger Skills

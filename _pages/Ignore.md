@@ -1,5 +1,5 @@
 ---
-title: "Ignore"
+title: Ignore
 ---
 
 The ignore command blocks the output of up to 20 other players. If you

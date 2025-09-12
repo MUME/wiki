@@ -1,5 +1,5 @@
 ---
-title: "Smooth, black boots"
+title: Smooth, black boots
 ---
 
 \> **look boots**
@@ -16,3 +16,5 @@ They weigh half a pound.
 
 Can be used as a [sheath](sheath "wikilink") for [piercing
 weapons](piercing_weapon "wikilink"). Reduces movement cost.
+
+{% include Equipment.md %}

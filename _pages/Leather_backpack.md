@@ -1,5 +1,5 @@
 ---
-title: "Leather backpack"
+title: Leather backpack
 ---
 
 \> **look backpack**
@@ -17,5 +17,7 @@ It weighs four pounds.
 ## Other
 
 Can contain up to 100 pounds of items.
+
+{% include Equipment.md %}
 
 [Category: Containers](Category:_Containers "wikilink")

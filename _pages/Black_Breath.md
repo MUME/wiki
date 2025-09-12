@@ -1,5 +1,5 @@
 ---
-title: "Black Breath"
+title: Black Breath
 ---
 
 <nowiki>g Syntax : cast 'black breath' Type : Offensive, special

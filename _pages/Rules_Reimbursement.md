@@ -1,5 +1,5 @@
 ---
-title: "Rules Reimbursement"
+title: Rules Reimbursement
 ---
 
 In general, reimbursements are not given on MUME. The only case in which

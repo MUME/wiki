@@ -1,5 +1,5 @@
 ---
-title: "Change"
+title: Change
 ---
 
 This is a general command to change one of your parameters.

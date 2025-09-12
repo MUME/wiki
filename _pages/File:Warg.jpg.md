@@ -1,5 +1,5 @@
 ---
-title: "File:Warg.jpg"
+title: File:Warg.jpg
 ---
 
 An warg in *[The Lord of the Rings: The Fellowship of the

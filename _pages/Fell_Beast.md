@@ -1,5 +1,5 @@
 ---
-title: "Fell Beast"
+title: Fell Beast
 ---
 
 Fell Beasts are the Darkie side analogon of the [Great

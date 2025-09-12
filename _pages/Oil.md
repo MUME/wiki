@@ -1,5 +1,5 @@
 ---
-title: "Oil"
+title: Oil
 ---
 
 **Oil** is used as fuel for [lanterns](lantern "wikilink"). Oil is

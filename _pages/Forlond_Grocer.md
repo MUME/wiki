@@ -1,5 +1,5 @@
 ---
-title: "Forlond Grocer"
+title: Forlond Grocer
 ---
 
 An [elven grocer](elven_grocer "wikilink") tends the **Grocery** in

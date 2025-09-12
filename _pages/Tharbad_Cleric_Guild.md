@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Cleric Guild"
+title: Tharbad Cleric Guild
 ---
 
 A **priest** teaches [cleric](cleric "wikilink")

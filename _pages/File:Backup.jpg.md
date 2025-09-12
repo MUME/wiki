@@ -1,4 +1,4 @@
 ---
-title: "File:Backup.jpg"
+title: File:Backup.jpg
 ---
 

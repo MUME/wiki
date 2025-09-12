@@ -1,5 +1,5 @@
 ---
-title: "River Otter"
+title: River Otter
 ---
 
 A cute, furry little guy found near the waters around

@@ -1,5 +1,5 @@
 ---
-title: "Soft leather boots"
+title: Soft leather boots
 ---
 
 \> **look boots**
@@ -8,3 +8,5 @@ lined
 with soft fur to add some comfort for the wearer.
 \> **consider boots**
 They are a pair of soft leather boots. They weigh a couple of pounds.
+
+{% include Equipment.md %}

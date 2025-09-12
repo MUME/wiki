@@ -1,5 +1,5 @@
 ---
-title: "Flee"
+title: Flee
 ---
 
 Usage: flee \[on\|off\|yes\|no\]

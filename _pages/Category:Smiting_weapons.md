@@ -1,5 +1,5 @@
 ---
-title: "Category:Smiting weapons"
+title: Category:Smiting weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

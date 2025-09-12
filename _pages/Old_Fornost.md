@@ -1,5 +1,5 @@
 ---
-title: "Old Fornost"
+title: Old Fornost
 ---
 
 **Old Fornost** is the western, ruined part of
@@ -35,5 +35,7 @@ that some [ghosts](ghost "wikilink") and [skeletal
 warriors](skeletal_warrior "wikilink") roam the halls. The
 [Kraken](Super_Mobile#The_Kraken "wikilink") makes its lair in the
 flooded cellar.
+
+{% include Place.md %}
 
 [Category: Locations](Category:_Locations "wikilink")

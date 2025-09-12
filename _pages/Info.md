@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: Info
 ---
 
 This command will give you large amounts of information about your

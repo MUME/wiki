@@ -1,5 +1,5 @@
 ---
-title: "NOIDEA"
+title: NOIDEA
 ---
 
 These are **ideas** which have been considered by the

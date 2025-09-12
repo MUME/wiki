@@ -1,5 +1,5 @@
 ---
-title: "Reveal"
+title: Reveal
 ---
 
 Syntax: reveal <object>, reveal <character>, reveal all or reveal

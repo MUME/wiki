@@ -1,5 +1,5 @@
 ---
-title: "Halamor's ghost"
+title: Halamor's ghost
 ---
 
 **Halamor's ghost** is a level ~17-18 [mobile](mobile "wikilink") found

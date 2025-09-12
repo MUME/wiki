@@ -1,5 +1,5 @@
 ---
-title: "Long and scaly snakeskin"
+title: Long and scaly snakeskin
 ---
 
 \>**examine snakeskin**
@@ -17,6 +17,8 @@ It weighs about one pound.
 
 Obtained by [butchering](butcher "wikilink")
 [rattlesnakes](rattlesnake "wikilink").
+
+{% include Equipment.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

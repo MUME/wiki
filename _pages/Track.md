@@ -1,5 +1,5 @@
 ---
-title: "Track"
+title: Track
 ---
 
 ## Track

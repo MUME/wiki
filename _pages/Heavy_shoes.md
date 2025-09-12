@@ -1,5 +1,5 @@
 ---
-title: "Heavy shoes"
+title: Heavy shoes
 ---
 
 \> **look shoes**
@@ -8,3 +8,5 @@ the feet.
 \> **consider shoes**
 They are a pair of heavy shoes.
 They weigh six pounds.
+
+{% include Equipment.md %}

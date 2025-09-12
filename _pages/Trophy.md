@@ -1,5 +1,5 @@
 ---
-title: "Trophy"
+title: Trophy
 ---
 
 Usage:

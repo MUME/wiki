@@ -1,5 +1,5 @@
 ---
-title: "Fine chain mail hauberk"
+title: Fine chain mail hauberk
 ---
 
 **Fine chain mail hauberks** are worn on the [body](body "wikilink").
@@ -16,6 +16,8 @@ They can be bought from some armourers for around 2
 `>`**`consider hauberk`**
 `It is a fine chain mail hauberk.`
 `It weighs eight pounds.`
+
+{% include Items.md %}
 
 [Category: Body items](Category:_Body_items "wikilink") [Category: Mail
 equipment](Category:_Mail_equipment "wikilink")

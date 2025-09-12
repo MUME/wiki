@@ -1,5 +1,5 @@
 ---
-title: "Very heavy branch"
+title: Very heavy branch
 ---
 
 It is a very heavy branch. This crushing weapon can be wielded

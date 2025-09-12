@@ -1,5 +1,5 @@
 ---
-title: "The gleaming broadsword"
+title: The gleaming broadsword
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Alignment"
+title: Alignment
 ---
 
 Your alignment is basically a way of measuring your morals. Good

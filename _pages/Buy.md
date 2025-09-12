@@ -1,5 +1,5 @@
 ---
-title: "Buy"
+title: Buy
 ---
 
 Use these commands in shops. 'Buy' can also be used in

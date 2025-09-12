@@ -1,5 +1,5 @@
 ---
-title: "Raise Dead"
+title: Raise Dead
 ---
 
 <nowiki>g Syntax : cast 'raise dead' Type : Miscellaneous Accumulative:

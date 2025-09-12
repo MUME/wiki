@@ -1,5 +1,5 @@
 ---
-title: "Black robe"
+title: Black robe
 ---
 
 \> **look robe**
@@ -13,5 +13,7 @@ cloth suggests that the robe has been washed many a time.
 \> **consider robe**
 It is a black robe.
 It weighs a couple of pounds.
+
+{% include Equipment.md %}
 
 [Black robe](Category:_Cloth_equipment "wikilink")

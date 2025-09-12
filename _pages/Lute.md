@@ -1,5 +1,5 @@
 ---
-title: "Lute"
+title: Lute
 ---
 
 \>**examine lute**

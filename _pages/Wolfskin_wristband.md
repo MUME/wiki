@@ -1,5 +1,5 @@
 ---
-title: "Wolfskin wristband"
+title: Wolfskin wristband
 ---
 
 \> **look wristband**
@@ -9,5 +9,7 @@ made by a craftsman of Old.
 \> **consider wristband**
 It is a wolfskin wristband.
 It weighs a couple of ounces.
+
+{% include Equipment.md %}
 
 [Wolfskin wristband](Category:Wrist_items "wikilink")

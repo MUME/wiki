@@ -1,5 +1,5 @@
 ---
-title: "The black many-tailed whip"
+title: The black many-tailed whip
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

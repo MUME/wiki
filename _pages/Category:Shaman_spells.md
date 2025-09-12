@@ -1,5 +1,5 @@
 ---
-title: "Category:Shaman spells"
+title: Category:Shaman spells
 ---
 
 [Category:Shaman](Category:Shaman "wikilink")

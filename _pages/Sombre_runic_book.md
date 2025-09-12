@@ -1,5 +1,5 @@
 ---
-title: "Sombre runic book"
+title: Sombre runic book
 ---
 
 \> **look book**
@@ -26,5 +26,7 @@ It weighs four pounds.
 ## Other
 
 Teaches the Shadows [herblore](herblore "wikilink").
+
+{% include Equipment.md %}
 
 [Sombre runic book](Category:_Miscellaneous_equipment "wikilink")

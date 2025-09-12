@@ -1,5 +1,5 @@
 ---
-title: "Guide to advanced character statistics"
+title: Guide to advanced character statistics
 ---
 
 **Introduction**

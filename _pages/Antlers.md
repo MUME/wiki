@@ -1,5 +1,5 @@
 ---
-title: "Antlers"
+title: Antlers
 ---
 
 \> **look antlers**
@@ -13,3 +13,5 @@ perfectly symmetrical in shape.
 \> **consider antlers**
 They are a pair of antlers.
 They weigh four stone and ten pounds.
+
+{% include Equipment.md %}

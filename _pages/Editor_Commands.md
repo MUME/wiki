@@ -1,5 +1,5 @@
 ---
-title: "Editor Commands"
+title: Editor Commands
 ---
 
 Syntax for the MUME line editor commands is this:

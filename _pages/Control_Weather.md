@@ -1,5 +1,5 @@
 ---
-title: "Control Weather"
+title: Control Weather
 ---
 
 <nowiki>g Syntax : cast 'control weather' Type : Miscellaneous

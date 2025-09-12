@@ -1,5 +1,5 @@
 ---
-title: "MClient"
+title: MClient
 ---
 
 mClient strives to be a modern, fully functional, and highly portable

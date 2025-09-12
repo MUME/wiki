@@ -1,5 +1,5 @@
 ---
-title: "Metal buckler"
+title: Metal buckler
 ---
 
 The **metal buckler** is a small [shield](shield "wikilink") that can be
@@ -17,5 +17,7 @@ Metal bucklers can be bought from most armourers for around 13
 `>`**`consider buckler`**
 `It is a metal buckler.`
 `It weighs eight pounds.`
+
+{% include Equipment.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

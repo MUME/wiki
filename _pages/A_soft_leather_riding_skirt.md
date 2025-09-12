@@ -1,5 +1,5 @@
 ---
-title: "A soft leather riding skirt"
+title: A soft leather riding skirt
 ---
 
 1.  REDIRECT [Soft leather riding

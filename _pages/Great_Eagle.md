@@ -1,5 +1,5 @@
 ---
-title: "Great Eagle"
+title: Great Eagle
 ---
 
 Once a character creates a [focus](Focus "wikilink") item they have the

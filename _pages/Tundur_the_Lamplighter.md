@@ -1,5 +1,5 @@
 ---
-title: "Tundur the Lamplighter"
+title: Tundur the Lamplighter
 ---
 
 \>**examine Tundur**

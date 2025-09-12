@@ -1,5 +1,5 @@
 ---
-title: "MUME V"
+title: MUME V
 ---
 
 MUME V was launched in August 1994, and included:

@@ -1,5 +1,5 @@
 ---
-title: "Night Vision"
+title: Night Vision
 ---
 
 <nowiki>g Syntax : cast 'enchant' \[weapon\] Type : Miscellaneous

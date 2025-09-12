@@ -1,5 +1,5 @@
 ---
-title: "Small termite"
+title: Small termite
 ---
 
 **Small termites** are aggressive [level](level "wikilink") ~1-2

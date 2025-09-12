@@ -1,5 +1,5 @@
 ---
-title: "Fear"
+title: Fear
 ---
 
 **Fear** is a level 15 [cleric](cleric "wikilink")

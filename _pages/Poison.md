@@ -1,5 +1,5 @@
 ---
-title: "Poison"
+title: Poison
 ---
 
 <nowiki>g Syntax : cast 'poison' \[victim\] \[type of poison\] Type :

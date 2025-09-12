@@ -1,5 +1,5 @@
 ---
-title: "Piece of cheese"
+title: Piece of cheese
 ---
 
 \> **look cheese**
@@ -10,3 +10,5 @@ sides.
 \> **consider cheese**
 It is a piece of cheese.
 It weighs half a pound.
+
+{% include Equipment.md %}

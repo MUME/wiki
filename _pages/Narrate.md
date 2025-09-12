@@ -1,5 +1,5 @@
 ---
-title: "Narrate"
+title: Narrate
 ---
 
 If you want to tell a tale to all the other players in the game, narrate

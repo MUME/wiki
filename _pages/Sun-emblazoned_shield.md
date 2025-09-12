@@ -1,5 +1,5 @@
 ---
-title: "Sun-emblazoned shield"
+title: Sun-emblazoned shield
 ---
 
 This large rounded metal shield looks able to protect almost the full

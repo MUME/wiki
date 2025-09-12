@@ -1,5 +1,5 @@
 ---
-title: "Say"
+title: Say
 ---
 
 If you consider communicating with other beings, you might be understood

@@ -1,5 +1,5 @@
 ---
-title: "S-rune helmet"
+title: S-rune helmet
 ---
 
 \> **look helmet**
@@ -8,6 +8,8 @@ metal.
 \> **consider helmet**
 It is an S-rune helmet.
 It weighs five pounds.
+
+{% include Equipment.md %}
 
 [S-rune helmet](Category:_Metal_equipment "wikilink") [S-rune
 helme](Category:_Head_items "wikilink")

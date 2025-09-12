@@ -1,5 +1,5 @@
 ---
-title: "Incognito"
+title: Incognito
 ---
 
 This lets you hide your title, class, and level for other players and

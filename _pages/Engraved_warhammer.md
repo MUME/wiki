@@ -1,5 +1,5 @@
 ---
-title: "Engraved warhammer"
+title: Engraved warhammer
 ---
 
 It is an engraved warhammer. This pounding weapon can be wielded

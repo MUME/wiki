@@ -1,5 +1,5 @@
 ---
-title: "Herb"
+title: Herb
 ---
 
 ## Herbs

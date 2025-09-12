@@ -1,5 +1,5 @@
 ---
-title: "Rules Sauron"
+title: Rules Sauron
 ---
 
 Sauron's list is a list of people acknowledged by Sauron as his

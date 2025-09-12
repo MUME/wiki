@@ -1,5 +1,5 @@
 ---
-title: "Herblore"
+title: Herblore
 ---
 
 ## Antidote

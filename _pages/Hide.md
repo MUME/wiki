@@ -1,5 +1,5 @@
 ---
-title: "Hide"
+title: Hide
 ---
 
 ## Hide

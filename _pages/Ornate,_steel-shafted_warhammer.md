@@ -1,5 +1,5 @@
 ---
-title: "Ornate, steel-shafted warhammer"
+title: Ornate, steel-shafted warhammer
 ---
 
 ## Statistics

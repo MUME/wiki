@@ -1,5 +1,5 @@
 ---
-title: "Gildor the blacksmith"
+title: Gildor the blacksmith
 ---
 
 **Gildor the blacksmith** tends to **Gildor's Fine Weapons and Armour**

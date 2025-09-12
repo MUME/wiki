@@ -1,5 +1,5 @@
 ---
-title: "Canoe"
+title: Canoe
 ---
 
 **Canoes** are the most common type of [boat](boat "wikilink"), often
@@ -16,5 +16,7 @@ somewhat rarer [light boat of reeds](light_boat_of_reeds "wikilink").
 `>`**`consider canoe`**
 `It is a canoe.`
 `It weighs two stone and seven pounds.`
+
+{% include Equipment.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

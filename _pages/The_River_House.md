@@ -1,5 +1,5 @@
 ---
-title: "The River House"
+title: The River House
 ---
 
 An [elven maid](elven_maid "wikilink") serves food and drinks at **The

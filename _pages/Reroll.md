@@ -1,5 +1,5 @@
 ---
-title: "Reroll"
+title: Reroll
 ---
 
 Policy for Rerolls:

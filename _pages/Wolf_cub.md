@@ -1,5 +1,5 @@
 ---
-title: "Wolf cub"
+title: Wolf cub
 ---
 
 **Wolf cubs** are passive [level](level "wikilink") ~1-2

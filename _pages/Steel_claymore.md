@@ -1,5 +1,5 @@
 ---
-title: "Steel claymore"
+title: Steel claymore
 ---
 
 This slashing weapon can be wielded either one- or two-handed. It is

@@ -1,5 +1,5 @@
 ---
-title: "A fine pair of rigid leather boots"
+title: A fine pair of rigid leather boots
 ---
 
 1.  REDIRECT [Fine rigid leather

@@ -1,5 +1,5 @@
 ---
-title: "Bar of iron"
+title: Bar of iron
 ---
 
 `A wide bar of iron, coated in black dust, lies here. `
@@ -10,6 +10,8 @@ title: "Bar of iron"
 `>`**`consider bar`**
 `It is a bar of iron.`
 `It weighs seven pounds.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

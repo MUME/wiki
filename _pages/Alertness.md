@@ -1,5 +1,5 @@
 ---
-title: "Alertness"
+title: Alertness
 ---
 
 Via the 'change alertness' command, you can decide how much attention

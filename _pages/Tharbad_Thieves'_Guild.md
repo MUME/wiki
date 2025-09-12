@@ -1,5 +1,5 @@
 ---
-title: "Tharbad Thieves' Guild"
+title: Tharbad Thieves' Guild
 ---
 
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")

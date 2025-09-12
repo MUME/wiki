@@ -1,4 +1,4 @@
 ---
-title: "Backpack"
+title: Backpack
 ---
 

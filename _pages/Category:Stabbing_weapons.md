@@ -1,5 +1,5 @@
 ---
-title: "Category:Stabbing weapons"
+title: Category:Stabbing weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

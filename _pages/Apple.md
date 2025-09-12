@@ -1,5 +1,5 @@
 ---
-title: "Apple"
+title: Apple
 ---
 
 \> **look apple**
@@ -14,5 +14,7 @@ It weighs half a pound.
 
 Can be found in various places around Arda, as well as in the Halls of
 Mandos. Not a very filling meal, but good for a light snack.
+
+{% include Equipment.md %}
 
 [Apple](Category:_Consumables "wikilink")

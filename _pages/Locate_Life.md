@@ -1,5 +1,5 @@
 ---
-title: "Locate Life"
+title: Locate Life
 ---
 
 <nowiki>g Syntax : cast 'locate life' Type : Long range Accumulative:

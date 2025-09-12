@@ -1,5 +1,5 @@
 ---
-title: "Warg fur"
+title: Warg fur
 ---
 
 \> **look fur**
@@ -14,3 +14,5 @@ It is a warg fur. It weighs seven pounds.
 ## Other
 
 Increases offensive bonus by 1.
+
+{% include Equipment.md %}

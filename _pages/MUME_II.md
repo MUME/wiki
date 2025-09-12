@@ -1,5 +1,5 @@
 ---
-title: "MUME II"
+title: MUME II
 ---
 
 MUME II was released in June 1992, and contained a truly horrid system

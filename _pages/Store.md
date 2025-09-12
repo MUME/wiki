@@ -1,5 +1,5 @@
 ---
-title: "Store"
+title: Store
 ---
 
 <nowiki>g Syntax : cast 'store' Type : Meta magic Accumulative: Special

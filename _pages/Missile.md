@@ -1,5 +1,5 @@
 ---
-title: "Missile"
+title: Missile
 ---
 
 1.  REDIRECT [Missile weapons](Missile_weapons "wikilink")

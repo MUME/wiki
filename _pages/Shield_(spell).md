@@ -1,5 +1,5 @@
 ---
-title: "Shield (spell)"
+title: Shield (spell)
 ---
 
 **Shield** is a level 13 [mage](mage "wikilink")

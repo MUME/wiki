@@ -1,5 +1,5 @@
 ---
-title: "Category:Concussion weapons"
+title: Category:Concussion weapons
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

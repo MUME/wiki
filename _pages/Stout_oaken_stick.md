@@ -1,5 +1,5 @@
 ---
-title: "Stout oaken stick"
+title: Stout oaken stick
 ---
 
 The **stout oaken stick** is the reward for completing
@@ -17,6 +17,8 @@ movement cost when carried.
 `>`**`consider stick`**
 `It is a stout oaken stick.`
 `It weighs about one pound.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

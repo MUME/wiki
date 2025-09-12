@@ -1,5 +1,5 @@
 ---
-title: "Plain hat"
+title: Plain hat
 ---
 
 \> **look hat**
@@ -13,5 +13,7 @@ crown and brim.
 \> **consider hat**
 It is a plain hat.
 It weighs half a pound.
+
+{% include Equipment.md %}
 
 [Plain hat](Category:_Cloth_equipment "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Light boat of reeds"
+title: Light boat of reeds
 ---
 
 **Light boats of reeds** are a common type of [boat](boat "wikilink"),
@@ -14,5 +14,7 @@ functionally identical to [canoes](canoe "wikilink").
 `>`**`consider boat`**
 `It is a light boat of reeds.`
 `It weighs two stone and seven pounds.`
+
+{% include Equipment.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

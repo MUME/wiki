@@ -1,5 +1,5 @@
 ---
-title: "Mountain lioness"
+title: Mountain lioness
 ---
 
 \> A mountain lioness pads quietly through the terrain.

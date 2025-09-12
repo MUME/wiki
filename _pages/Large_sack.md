@@ -1,5 +1,5 @@
 ---
-title: "Large sack"
+title: Large sack
 ---
 
 \> **look sack**
@@ -15,5 +15,7 @@ It weighs about one pound.
 ## Other
 
 Can contain up to 50 pounds of items.
+
+{% include Equipment.md %}
 
 [Large sack](Category:_Containers "wikilink")

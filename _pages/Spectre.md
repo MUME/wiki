@@ -1,5 +1,5 @@
 ---
-title: "Spectre"
+title: Spectre
 ---
 
 **Spectres** are aggressive level ? [mobs](mob "wikilink"). They are

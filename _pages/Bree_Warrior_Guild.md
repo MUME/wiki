@@ -1,5 +1,5 @@
 ---
-title: "Bree Warrior Guild"
+title: Bree Warrior Guild
 ---
 
 **Gathrain** teaches [warrior](warrior "wikilink")

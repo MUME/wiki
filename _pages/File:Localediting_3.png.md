@@ -1,4 +1,4 @@
 ---
-title: "File:Localediting 3.png"
+title: File:Localediting 3.png
 ---
 

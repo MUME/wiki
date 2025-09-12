@@ -1,5 +1,5 @@
 ---
-title: "Mana"
+title: Mana
 ---
 
 Mana is a character's capability of casting [spells](spells "wikilink"),

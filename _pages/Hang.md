@@ -1,5 +1,5 @@
 ---
-title: "Hang"
+title: Hang
 ---
 
 Syntax: hang corpse

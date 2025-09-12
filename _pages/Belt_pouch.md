@@ -1,5 +1,5 @@
 ---
-title: "Belt pouch"
+title: Belt pouch
 ---
 
 \> **look pouch**
@@ -16,5 +16,7 @@ It weighs about one pound.
 ## Other
 
 Can contain up to 25 pounds of items.
+
+{% include Equipment.md %}
 
 [Belt pouch](Category:_Containers "wikilink")

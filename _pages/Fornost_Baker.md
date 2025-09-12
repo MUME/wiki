@@ -1,5 +1,5 @@
 ---
-title: "Fornost Baker"
+title: Fornost Baker
 ---
 
 The **baker** tends to the **Bakery** in [Fornost](Fornost "wikilink").

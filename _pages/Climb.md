@@ -1,5 +1,5 @@
 ---
-title: "Climb"
+title: Climb
 ---
 
 ## CLIMB

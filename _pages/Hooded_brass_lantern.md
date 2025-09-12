@@ -1,5 +1,5 @@
 ---
-title: "Hooded brass lantern"
+title: Hooded brass lantern
 ---
 
 The **hooded brass lantern** is a [light
@@ -13,6 +13,8 @@ stores.
 `>`**`consider lantern`**
 `It is a hooded brass lantern.`
 `It weighs three pounds.`
+
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

@@ -1,5 +1,5 @@
 ---
-title: "Give"
+title: Give
 ---
 
 The **give** command transfers objects between characters and

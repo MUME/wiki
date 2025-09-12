@@ -1,5 +1,5 @@
 ---
-title: "Score"
+title: Score
 ---
 
 This command will show you basic information about the health of your

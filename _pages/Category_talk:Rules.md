@@ -1,5 +1,5 @@
 ---
-title: "Category talk:Rules"
+title: Category talk:Rules
 ---
 
 Am I forgetting any rules-file here? - Naga

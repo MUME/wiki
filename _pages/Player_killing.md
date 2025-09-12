@@ -1,5 +1,5 @@
 ---
-title: "Player killing"
+title: Player killing
 ---
 
 Player killing, or PK, means involving in combat and trying to kill

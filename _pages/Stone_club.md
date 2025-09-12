@@ -1,5 +1,5 @@
 ---
-title: "Stone club"
+title: Stone club
 ---
 
 It is a stone club. This crushing weapon can be wielded one-handed. It

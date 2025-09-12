@@ -1,5 +1,5 @@
 ---
-title: "A fine pair of soft leather gloves"
+title: A fine pair of soft leather gloves
 ---
 
 1.  REDIRECT [Fine soft leather

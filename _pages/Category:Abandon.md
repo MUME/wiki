@@ -1,5 +1,5 @@
 ---
-title: "Category:Abandon"
+title: Category:Abandon
 ---
 
 1.  REDIRECT [User talk:Bot and

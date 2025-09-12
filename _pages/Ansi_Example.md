@@ -1,5 +1,5 @@
 ---
-title: "Ansi Example"
+title: Ansi Example
 ---
 
 In MUME you can use the ANSI standard in room descriptions, keywords,

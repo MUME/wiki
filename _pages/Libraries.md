@@ -1,5 +1,5 @@
 ---
-title: "Libraries"
+title: Libraries
 ---
 
 Libraries can be found in most towns of Arda and in some other places of

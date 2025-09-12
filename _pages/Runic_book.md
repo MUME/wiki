@@ -1,5 +1,5 @@
 ---
-title: "Runic book"
+title: Runic book
 ---
 
 \> **look book**
@@ -30,5 +30,7 @@ It weighs four pounds.
 ## Other
 
 Teaches the Seeing [herblore](herblore "wikilink").
+
+{% include Equipment.md %}
 
 [Runic book](Category:_Miscellaneous_equipment "wikilink")

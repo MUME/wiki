@@ -1,5 +1,5 @@
 ---
-title: "Halls of Mandos"
+title: Halls of Mandos
 ---
 
 The **Halls of Mandos** is a special [room](room "wikilink") where all

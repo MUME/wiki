@@ -1,5 +1,5 @@
 ---
-title: "Justice"
+title: Justice
 ---
 
 Command 'justice' allows you to read the justice board where punishments

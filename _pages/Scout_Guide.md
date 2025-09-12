@@ -1,5 +1,5 @@
 ---
-title: "Scout Guide"
+title: Scout Guide
 ---
 
 Credits: Originally By Locram

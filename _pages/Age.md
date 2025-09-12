@@ -1,5 +1,5 @@
 ---
-title: "Age"
+title: Age
 ---
 
 Age affects a character's statistics according to the following table.

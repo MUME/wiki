@@ -1,5 +1,5 @@
 ---
-title: "Category:Main Page Templates"
+title: Category:Main Page Templates
 ---
 
 <div style="border: 1px solid; width: 96%; color: black; padding: 1em; float: left; background: #EFEFEF">

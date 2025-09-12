@@ -1,5 +1,5 @@
 ---
-title: "Twisted rock fragment"
+title: Twisted rock fragment
 ---
 
 ## Statistics

@@ -1,5 +1,5 @@
 ---
-title: "Harlond Herbalist"
+title: Harlond Herbalist
 ---
 
 The **elven herbalist** tends to the **Herbalist** shop in

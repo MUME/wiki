@@ -1,5 +1,5 @@
 ---
-title: "Chain mail coif"
+title: Chain mail coif
 ---
 
 \> **look coif**

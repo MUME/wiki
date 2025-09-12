@@ -1,5 +1,5 @@
 ---
-title: "Tower Hills Blacksmith"
+title: Tower Hills Blacksmith
 ---
 
 A **tall, muscular blacksmith** tends to the **Blacksmith's Workshop**

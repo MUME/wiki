@@ -1,5 +1,5 @@
 ---
-title: "Spicy Swordfish House"
+title: Spicy Swordfish House
 ---
 
 A **retired fisherman** sells food and drinks at the **Spicy Swordfish

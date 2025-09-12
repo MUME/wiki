@@ -1,5 +1,5 @@
 ---
-title: "A small wooden target shield"
+title: A small wooden target shield
 ---
 
 1.  REDIRECT [Small wooden target

@@ -1,5 +1,5 @@
 ---
-title: "Wooden shield"
+title: Wooden shield
 ---
 
 \> **look shield**
@@ -13,5 +13,7 @@ sides, reinforcing the shield and making it very strong.
 \> **consider shield**
 It is a wooden shield.
 It weighs seven pounds.
+
+{% include Equipment.md %}
 
 [Wooden shield](Category:_Shields "wikilink")

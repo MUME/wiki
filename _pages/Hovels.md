@@ -1,5 +1,5 @@
 ---
-title: "Hovels"
+title: Hovels
 ---
 
 For the moment, no new Orc Hovels will be installed. There is an ongoing

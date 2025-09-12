@@ -1,5 +1,5 @@
 ---
-title: "Sharp thorn"
+title: Sharp thorn
 ---
 
 \> **look thorn**
@@ -16,5 +16,7 @@ This piercing weapon can be wielded one-handed.
 It is poor while attacking and good while defending; its speed is very
 fast, and it inflicts little damage upon hitting.
 It weighs about one pound.
+
+{% include Equipment.md %}
 
 [Sharp thorn](Category:_Piercing_weapons "wikilink")

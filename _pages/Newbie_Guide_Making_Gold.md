@@ -1,5 +1,5 @@
 ---
-title: "Newbie Guide Making Gold"
+title: Newbie Guide Making Gold
 ---
 
 **Guides Newbie Making Gold**

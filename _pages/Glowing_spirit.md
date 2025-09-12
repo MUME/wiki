@@ -1,5 +1,5 @@
 ---
-title: "Glowing spirit"
+title: Glowing spirit
 ---
 
 *For another mob with the same name, see [spirit](spirit "wikilink").*

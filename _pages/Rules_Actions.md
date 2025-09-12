@@ -1,5 +1,5 @@
 ---
-title: "Rules Actions"
+title: Rules Actions
 ---
 
 An 'action' (or a 'trigger') is allowing a client to automatically react

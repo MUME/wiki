@@ -1,5 +1,5 @@
 ---
-title: "Listen"
+title: Listen
 ---
 
 You can choose to receive 'tales' and 'songs' from other players.

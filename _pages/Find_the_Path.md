@@ -1,5 +1,5 @@
 ---
-title: "Find the Path"
+title: Find the Path
 ---
 
 <nowiki>g Syntax : cast 'find the path' Type : Long range Accumulative:

@@ -1,5 +1,5 @@
 ---
-title: "Typo"
+title: Typo
 ---
 
 1.  REDIRECT [Bug](Bug "wikilink")

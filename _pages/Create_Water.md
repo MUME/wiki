@@ -1,5 +1,5 @@
 ---
-title: "Create Water"
+title: Create Water
 ---
 
 **Create water** is a level 2 [cleric](cleric "wikilink")

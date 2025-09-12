@@ -1,5 +1,5 @@
 ---
-title: "Concussion weapon"
+title: Concussion weapon
 ---
 
 **[Concussion weapons](Concussion_weapons "wikilink")** are one of the
