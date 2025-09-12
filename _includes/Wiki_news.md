@@ -4,15 +4,6 @@ title: Template:Wiki news
 
 <noinclude>
 
-<div style="border: 1px solid; width: 96%; color: black; padding: 1em; float: left; background: #EFEFEF">
-
-Admins:
-
-- After updating please \[ purge the cache of the Main Page\] so that
-  the updated version appears.
-
-</div>
-
 ## Current hooks
 
 <table>
@@ -43,9 +34,7 @@ players</a></strong></li>
 </tbody>
 </table>
 
-__NOTOC__ </noinclude>
-
-<noinclude> </noinclude>
+</noinclude>
 
 [](Category:Main_Page_Templates "wikilink")
 [](Category:Templates "wikilink")
