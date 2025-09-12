@@ -19,7 +19,7 @@ Númenórean](Black_Númenórean "wikilink") after praying from the Hidden
 Island (if they're not already wearing something else). It will decay
 immediately if dropped.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Ashen grey shirt](Category:_Cloth_equipment "wikilink") [Ashen grey
 shirt](Category:_Body_items "wikilink")

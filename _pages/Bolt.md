@@ -8,6 +8,6 @@ Its accuracy is poor, and it inflicts little damage upon hitting.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Bolt](Category:_Ammunition "wikilink")

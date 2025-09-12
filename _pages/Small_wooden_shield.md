@@ -15,6 +15,6 @@ It is a small wooden shield.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Small wooden shield](Category:_Shields "wikilink")

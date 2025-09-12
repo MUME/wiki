@@ -22,6 +22,6 @@ very fast, and it inflicts little damage upon hitting.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Dirk](Category:_Piercing_weapons "wikilink")

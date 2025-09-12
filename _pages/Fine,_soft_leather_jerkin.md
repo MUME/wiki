@@ -18,7 +18,7 @@ It is a fine, soft leather jerkin.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Fine, soft leather jerkin](Category:_Leather_equipment "wikilink")
 [Fine, soft leather jerkin](Category:_Body_items "wikilink")

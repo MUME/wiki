@@ -15,7 +15,7 @@ It is an embroidered blouse.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Embroidered blouse](Category:_Cloth_equipment "wikilink") [Embroidered
 blouse](Category:_Body_items "wikilink")

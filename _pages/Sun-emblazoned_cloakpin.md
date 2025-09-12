@@ -18,6 +18,6 @@ It is a sun-emblazoned cloakpin.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sun-emblazoned cloakpin](Category:Neck_items "wikilink")

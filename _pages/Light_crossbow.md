@@ -8,6 +8,6 @@ Its accuracy is good, its speed average, and it causes average damage.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Light crossbow](Category:_Missile_weapons "wikilink")

@@ -18,7 +18,7 @@ They are a fine pair of soft leather boots.
 
 They weigh a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Feet items](Category:Feet_items "wikilink")

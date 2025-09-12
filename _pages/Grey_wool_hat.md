@@ -18,7 +18,7 @@ It is a grey wool hat (used, seasoned).
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Grey wool hat](Category:_Cloth_equipment "wikilink") [Grey wool
 hat](Category:_Head_items "wikilink")

@@ -1,7 +1,3 @@
----
-title: Template:Did you know
----
-
 <noinclude>
 
 <div style="border: 1px solid; width: 96%; color: black; padding: 1em; float: left; background: #EFEFEF">

@@ -25,7 +25,7 @@ It is a thick wool vest.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Thick wool vest](Category:_Cloth_equipment "wikilink") [Thick wool
 vest](Category:_Body_items "wikilink")

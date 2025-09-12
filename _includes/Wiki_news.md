@@ -1,7 +1,3 @@
----
-title: Template:Wiki news
----
-
 <noinclude>
 
 ## Current hooks

@@ -23,7 +23,7 @@ It weighs five pounds.
 Increases [offensive bonus](offensive_bonus "wikilink") and decreases
 [dodge bonus](dodge_bonus "wikilink") slightly.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Horned helmet](Category:_Metal_equipment "wikilink") [Horned
 helmet](Category:_Head_items "wikilink")

@@ -28,6 +28,6 @@ It weighs about one pound.
 This kind of necklace is rumoured to give some kind of protection vs
 [spells](spells "wikilink") of a certain class.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Necklace](Category:Neck_items "wikilink")

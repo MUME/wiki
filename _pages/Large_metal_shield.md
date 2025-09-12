@@ -18,6 +18,6 @@ It is a large metal shield.
 
 It weighs twelve pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Large metal shield](Category:_Shields "wikilink")

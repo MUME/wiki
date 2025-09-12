@@ -21,7 +21,7 @@ It is a stained dark shirt.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Stained dark shirt](Category:_Cloth_equipment "wikilink") [Stained dark
 shirt](Category:_Body_items "wikilink")

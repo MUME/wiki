@@ -18,6 +18,6 @@ It is a small biscuit of cram.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Small biscuit of cram](Category:_Consumables "wikilink")

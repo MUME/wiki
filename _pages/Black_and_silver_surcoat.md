@@ -18,6 +18,6 @@ tailors for around 19 silver.
 `It is a black and silver surcoat.`
 `It weighs six pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloaks](Category:_Cloaks "wikilink")

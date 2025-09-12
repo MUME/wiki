@@ -26,6 +26,6 @@ fast, and it inflicts little damage upon hitting.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sharp thorn](Category:_Piercing_weapons "wikilink")

@@ -513,4 +513,4 @@ non-orcs</p></td>
 
 </spoiler>
 
-{% include Equipment.md %}
+{% include Items.md %}

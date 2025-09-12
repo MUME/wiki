@@ -14,6 +14,6 @@ title: Double-edged eket
 `It is poor while attacking and good while defending; its speed is very fast, and it inflicts little damage upon hitting.`
 `It weighs half a pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Double-edged eket](Category:_Piercing_weapons "wikilink")

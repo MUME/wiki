@@ -20,6 +20,6 @@ It is a warg fur. It weighs seven pounds.
 
 Increases [offensive bonus](offensive_bonus "wikilink") by 1.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Warg fur](Category:Cloaks "wikilink")

@@ -13,7 +13,7 @@ It weighs half a pound.
 
 The most common type of healing scroll, but also the least effective.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

@@ -37,6 +37,6 @@ more [strength](strength "wikilink"), this puts it within reach of most
 casters who practice the [strength](Strength_Spell "wikilink")
 [spell](spell "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Engraved broadsword](Category:_Slashing_weapons "wikilink")

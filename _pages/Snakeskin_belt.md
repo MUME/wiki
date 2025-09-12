@@ -18,6 +18,6 @@ quest.
 `It is a snakeskin belt.`
 `It weighs half a pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Belts](Category:Belts "wikilink")

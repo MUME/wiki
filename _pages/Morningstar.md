@@ -19,6 +19,6 @@ average, and it inflicts little damage upon hitting.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

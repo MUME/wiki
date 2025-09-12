@@ -1,7 +1,3 @@
----
-title: Template:ClassRace
----
-
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px
 solid \#a3b0bf; padding:0.2em 0.4em;" \| [Classes](Class "wikilink") and
 [Races](Race "wikilink") \|-

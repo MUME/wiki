@@ -24,6 +24,6 @@ Can only hold money and gems and can contain up to 100 gold coins.
 Putting your gold in a moneybag prevents it from being
 [stolen](steal "wikilink") by [mobiles](mobile "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Moneybag](Category:_Containers "wikilink")

@@ -14,6 +14,6 @@ bakeries for 6 [copper](gold "wikilink"). They are moderately filling -
 `It is a seed-cake.`
 `It weighs a couple of pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Seed-cake](Category:_Consumables "wikilink")

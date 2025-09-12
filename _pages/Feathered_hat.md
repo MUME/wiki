@@ -18,7 +18,7 @@ It is a feathered hat.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Feathered hat](Category:_Cloth_equipment "wikilink") [Feathered
 hat](Category:_Head_items "wikilink")

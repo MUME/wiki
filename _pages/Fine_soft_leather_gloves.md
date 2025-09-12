@@ -20,7 +20,7 @@ Loads in [Dunland](Dunland "wikilink") on a [mobile](mobile "wikilink")
 called Mab, they give an [offensive bonus](offensive_bonus "wikilink")
 slightly higher compared to other leather gloves.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Hands items](Category:Hands_items "wikilink")

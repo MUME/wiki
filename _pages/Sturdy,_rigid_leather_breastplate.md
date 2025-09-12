@@ -12,7 +12,7 @@ It is a sturdy, rigid leather breastplate.
 
 It weighs seven pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sturdy, rigid leather
 breastplate](Category:_Leather_equipment "wikilink") [Sturdy, rigid

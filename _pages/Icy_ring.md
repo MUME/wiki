@@ -32,6 +32,6 @@ shows that the ring in question has taken the first step down to
 dissolving - much like weapons and armour go from flawless to
 well-maintained.</small>
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Rings](Category:_Rings "wikilink")

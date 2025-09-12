@@ -25,7 +25,7 @@ It weighs half a pound.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain hood](Category:_Cloth_equipment "wikilink") [Plain
 hood](Category:_Head_items "wikilink")

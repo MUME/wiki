@@ -19,7 +19,7 @@ The same healing effect of a [blue scroll](A_blue_scroll "wikilink") but
 with a [strength spell](Strength_Spell "wikilink") included. Definitely
 the most difficult type of healing scroll to attain.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

@@ -16,6 +16,6 @@ bought from most armourers for about 9 [gold](gold "wikilink").
 `It is a metal wall shield.`
 `It weighs two stone and one pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

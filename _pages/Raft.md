@@ -18,6 +18,6 @@ preferable options.
 `It is a raft.`
 `It weighs five stone and thirteen pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

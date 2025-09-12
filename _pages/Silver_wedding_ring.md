@@ -12,6 +12,6 @@ It is a silver wedding ring.
 
 It weighs a couple of ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Silver wedding ring](Category:_Rings "wikilink")

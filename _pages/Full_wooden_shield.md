@@ -16,6 +16,6 @@ It is a full wooden shield.
 
 It weighs one stone.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Full wooden shield](Category:_Shields "wikilink")

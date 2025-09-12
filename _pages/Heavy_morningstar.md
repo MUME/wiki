@@ -13,6 +13,6 @@ slow, and it inflicts average damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Heavy morningstar](Category:_Concussion_weapons "wikilink")

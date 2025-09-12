@@ -20,6 +20,6 @@ quest and can also be bought from most weaponsmiths for around 8
 `damage upon hitting.`
 `It weighs three pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Stabbing weapons](Category:_Stabbing_weapons "wikilink")

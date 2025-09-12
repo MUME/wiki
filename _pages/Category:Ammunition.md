@@ -2,6 +2,6 @@
 title: Category:Ammunition
 ---
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Weapons](Category:_Weapons "wikilink")

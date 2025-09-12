@@ -23,7 +23,7 @@ It weighs a couple of pounds.
 Can be looted from [Nagrorh](Nagrorh "wikilink") and some other evil
 caster [mobs](mob "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category: Body items](Category:_Body_items "wikilink")

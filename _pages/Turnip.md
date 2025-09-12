@@ -16,6 +16,6 @@ It is a turnip.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Turnip](Category:_Consumables "wikilink")

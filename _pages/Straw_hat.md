@@ -16,6 +16,6 @@ from most tailors for around 20 [copper](copper "wikilink").
 `It is a straw hat.`
 `It weighs about one pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Straw hat](Category:_Head_items "wikilink")

@@ -15,7 +15,7 @@ They are a warm pair of wool gloves.
 
 They weigh about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Cloth equipment](Category:Cloth_equipment "wikilink")
 [Category:Hands items](Category:Hands_items "wikilink")

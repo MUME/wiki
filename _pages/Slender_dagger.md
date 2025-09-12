@@ -16,6 +16,6 @@ is very fast, and it inflicts average damage upon hitting.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Slender dagger](Category:_Piercing_weapons "wikilink")

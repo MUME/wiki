@@ -15,6 +15,6 @@ It is a loaf of bread.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Loaf of bread](Category:_Consumables "wikilink")

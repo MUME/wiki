@@ -11,6 +11,6 @@ average, and it inflicts little damage upon hitting.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sharp talon](Category:_Slashing_weapons "wikilink")

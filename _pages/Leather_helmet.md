@@ -15,7 +15,7 @@ The **leather helmet** is a piece of leather
 `It is a leather helmet.`
 `It weighs a couple of pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category: Head items](Category:_Head_items "wikilink")

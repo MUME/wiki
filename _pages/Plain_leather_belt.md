@@ -15,7 +15,7 @@ It is a plain leather belt.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain leather belt](Category:_Leather_equipment "wikilink") [Plain
 leather belt](Category:Belts "wikilink")

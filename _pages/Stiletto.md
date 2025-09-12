@@ -20,6 +20,6 @@ very fast, and it inflicts very little damage upon hitting.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Stiletto](Category:_Piercing_weapons "wikilink")

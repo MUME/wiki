@@ -18,6 +18,6 @@ The [recipe](Herblore#Baker "wikilink") for crafting delicious bannocks
 is taught by the [Lonely Giant](Quest#The_Lonely_Giant "wikilink") if
 you complete his quest. Bannocks are light, but very filling.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Delicious bannock](Category:Consumables "wikilink")

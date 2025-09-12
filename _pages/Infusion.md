@@ -17,6 +17,6 @@ be found inside the Great Smials in the [Shire](Shire "wikilink").
 `It is an infusion.`
 `It weighs half a pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Consumables](Category:_Consumables "wikilink")

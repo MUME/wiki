@@ -19,7 +19,7 @@ Númenórean](Black_Númenórean "wikilink") after praying from the [Hidden
 Island](Hidden_Island "wikilink") (if they're not already wearing
 something else). They will decay immediately if dropped.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category:Legs items](Category:Legs_items "wikilink")

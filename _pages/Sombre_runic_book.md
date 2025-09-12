@@ -23,6 +23,6 @@ can be [read](read "wikilink") to learn the
 `It is a sombre runic book.`
 `It weighs four pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sombre runic book](Category:_Miscellaneous_equipment "wikilink")

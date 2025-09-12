@@ -17,6 +17,6 @@ stag](noble_stag "wikilink").
 `They are a pair of antlers.`
 `They weigh four stone and ten pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Quest items](Category:_Quest_items "wikilink")

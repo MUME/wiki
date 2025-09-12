@@ -30,6 +30,6 @@ It weighs half a pound.
 
 Quest item for [Leaf-cake](Quest#Leaf-Cake "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Traveller's diary](Category:_Quest_items "wikilink")

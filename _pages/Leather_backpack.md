@@ -25,6 +25,6 @@ It weighs four pounds.
 
 Can contain up to 100 pounds of items.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Leather backpack](Category:_Containers "wikilink")

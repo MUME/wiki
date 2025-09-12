@@ -18,6 +18,6 @@ and it inflicts very little damage upon hitting.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Broad-bladed knife](Category:_Slashing_weapons "wikilink")

@@ -25,6 +25,6 @@ It weighs two stone and five pounds.
 A good alternative to the artifact shields, though it requires high
 [strength](strength "wikilink") to use effectively.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Large metal wall shield](Category:_Shields "wikilink")

@@ -22,7 +22,7 @@ It weighs a couple of pounds.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain shirt](Category:_Cloth_equipment "wikilink") [Plain
 shirt](Category:_Body_items "wikilink")

@@ -23,6 +23,6 @@ Its accuracy is awful, and it inflicts little damage upon hitting.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Fletched arrow](Category:_Ammunition "wikilink")

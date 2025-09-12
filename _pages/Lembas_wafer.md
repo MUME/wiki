@@ -17,6 +17,6 @@ The classic elven waybread, very filling even for those with hollow
 legs. Although they are relatively expensive, there are a few locations
 in Arda where they load for free.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Lembas wafer](Category:Consumables "wikilink")

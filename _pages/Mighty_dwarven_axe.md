@@ -24,6 +24,6 @@ It weighs six pounds.
 
 Very good damage and decent defence.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

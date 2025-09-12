@@ -17,6 +17,6 @@ armourers for around 5 [silver](silver "wikilink").
 `It is a small wooden target shield.`
 `It weighs four pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Small wooden target shield](Category:_Shields "wikilink")

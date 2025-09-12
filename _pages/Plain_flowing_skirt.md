@@ -19,7 +19,7 @@ It weighs a couple of pounds.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain flowing skirt](Category:_Cloth_equipment "wikilink") [Plain
 flowing skirt](Category:Legs_items "wikilink")

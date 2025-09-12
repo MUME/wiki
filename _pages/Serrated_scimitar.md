@@ -11,6 +11,6 @@ slow, and it inflicts average damage upon hitting.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Serrated scimitar](Category:_Slashing_weapons "wikilink")

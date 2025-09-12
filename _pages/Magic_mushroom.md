@@ -23,6 +23,6 @@ Food](Create_Food "wikilink"), usually one magic mushroom is enough to
 make you satisfied but at lower levels or when not practised enough you
 need two to get full.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Magic mushroom](Category:_Consumables "wikilink")

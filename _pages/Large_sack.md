@@ -22,6 +22,6 @@ It weighs about one pound.
 
 Can contain up to 50 pounds of items.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Large sack](Category:_Containers "wikilink")

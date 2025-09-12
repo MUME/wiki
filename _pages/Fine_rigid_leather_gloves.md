@@ -12,7 +12,7 @@ They are a fine pair of rigid leather gloves.
 
 They weigh a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Hands items](Category:Hands_items "wikilink")

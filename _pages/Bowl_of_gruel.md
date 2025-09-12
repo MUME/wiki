@@ -16,6 +16,6 @@ It is a bowl of gruel.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Bowl of gruel](Category:_Consumables "wikilink")

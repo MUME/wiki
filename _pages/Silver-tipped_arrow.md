@@ -12,6 +12,6 @@ It weighs about an ounce.
 
 Effective against undead.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Silver-tipped arrow](Category:_Ammunition "wikilink")

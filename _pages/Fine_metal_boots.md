@@ -18,7 +18,7 @@ They are a fine pair of metal boots.
 
 They weigh six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category:Feet items](Category:Feet_items "wikilink")

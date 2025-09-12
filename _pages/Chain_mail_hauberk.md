@@ -21,7 +21,7 @@ It is a chain mail hauberk.
 
 It weighs eight pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Chain mail hauberk](Category:Mail_equipment "wikilink") [Chain mail
 hauberk](Category:Body_items "wikilink")

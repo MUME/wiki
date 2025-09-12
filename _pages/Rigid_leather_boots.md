@@ -12,7 +12,7 @@ They are a pair of rigid leather boots.
 
 They weigh four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Feet items](Category:Feet_items "wikilink")

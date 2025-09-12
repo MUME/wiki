@@ -11,7 +11,7 @@ very slow, and it inflicts average damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Bastard sword](Category:_Slashing_weapons "wikilink") [Bastard
 sword](Category:_Smiting_weapons "wikilink")

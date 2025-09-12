@@ -21,7 +21,7 @@ It weighs five pounds.
 
 Increases [dodge bonus](dodge_bonus "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Buttoned cassock](Category:_Cloth_equipment "wikilink") [Buttoned
 cassock](Category:_Cloaks "wikilink")

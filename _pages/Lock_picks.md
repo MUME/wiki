@@ -117,7 +117,7 @@ hand.
 
 </spoiler>
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

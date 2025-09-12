@@ -12,7 +12,7 @@ It is a chequered shirt.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Chequered shirt](Category:_Cloth_equipment "wikilink") [Chequered
 shirt](Category:_Body_items "wikilink")

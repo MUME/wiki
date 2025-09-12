@@ -17,6 +17,6 @@ average, and it inflicts little damage upon hitting.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Warhammer](Category:_Concussion_weapons "wikilink")

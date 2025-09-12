@@ -14,6 +14,6 @@ It is a raccoon fur hat.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Raccoon fur hat](Category:_Head_items "wikilink")

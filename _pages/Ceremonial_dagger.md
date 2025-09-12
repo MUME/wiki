@@ -27,6 +27,6 @@ It weighs about one pound.
 
 Probably the dagger that gives most defence bonus.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Ceremonial dagger](Category:_Piercing_weapons "wikilink")

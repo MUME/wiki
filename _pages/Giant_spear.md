@@ -11,6 +11,6 @@ and it inflicts considerable damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Giant spear](Category:_Stabbing_weapons "wikilink")

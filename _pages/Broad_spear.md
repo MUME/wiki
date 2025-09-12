@@ -11,6 +11,6 @@ and it inflicts little damage upon hitting.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Broad spear](Category:_Stabbing_weapons "wikilink")

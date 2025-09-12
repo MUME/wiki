@@ -13,7 +13,7 @@ It is an S-rune helmet.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [S-rune helmet](Category:_Metal_equipment "wikilink") [S-rune
 helme](Category:_Head_items "wikilink")

@@ -2,6 +2,6 @@
 title: Category:Miscellaneous equipment
 ---
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Equipment](Category:_Equipment "wikilink")

@@ -11,6 +11,6 @@ slow, and it inflicts little damage upon hitting.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Elven hunting-spear](Category:_Stabbing_weapons "wikilink")

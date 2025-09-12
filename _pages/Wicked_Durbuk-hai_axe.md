@@ -30,6 +30,6 @@ average, and it inflicts average damage upon hitting.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

@@ -20,6 +20,6 @@ impossible to understand. For more information, read about being
 [drunk](drunk "wikilink"). Note that while the default liquid in a
 flagon will be mead, you can empty it and refill with anything you like.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Flagon](Category:Consumables "wikilink")

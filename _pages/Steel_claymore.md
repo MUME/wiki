@@ -11,7 +11,7 @@ is slow, and it inflicts considerable damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Steel claymore](Category:_Slashing_weapons "wikilink") [Steel
 claymore](Category:_Smiting_weapons "wikilink")

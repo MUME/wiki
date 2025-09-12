@@ -11,6 +11,6 @@ slow, and it inflicts little damage upon hitting.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Pike](Category:_Stabbing_weapons "wikilink")

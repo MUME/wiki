@@ -19,7 +19,7 @@ It is a heavy wool coat.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Heavy wool coat](Category:_Cloth_equipment "wikilink") [Heavy wool
 coat](Category:Cloaks "wikilink")

@@ -25,7 +25,7 @@ They weigh a couple of pounds.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category:Legs items](Category:Legs_items "wikilink")

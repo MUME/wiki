@@ -9,6 +9,6 @@ damage.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sling](Category:_Missile_weapons "wikilink")

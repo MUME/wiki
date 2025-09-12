@@ -31,7 +31,7 @@ It weighs twelve pounds.
 This item is needed to lift the large jar for the [Beechbone the
 Ent](Quest#Beechbone_the_Ent "wikilink") quest.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Very large knotted tree-branch](Category:_Smiting_weapons "wikilink")
 [Very large knotted tree-branch](Category:_Quest_items "wikilink")

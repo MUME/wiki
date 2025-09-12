@@ -21,6 +21,6 @@ silver.
 `It is a shield of Arthedain.`
 `It weighs one stone and two pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Shield of Arthedain](Category:_Shields "wikilink")

@@ -22,6 +22,6 @@ It weighs a few ounces.
 
 Contains [oil](oil "wikilink") by default. Sold by most grocers.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Containers](Category:Containers "wikilink")

@@ -17,6 +17,6 @@ It is a fine lion pelt.
 
 It weighs seven pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Fine lion pelt](Category:Cloaks "wikilink")

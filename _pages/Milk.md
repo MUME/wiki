@@ -10,7 +10,7 @@ clumsy, the cow might not appreciate it though.
 See also: [Butcher](Butcher "wikilink"), [Cook](Cook "wikilink"),
 [Scalp](Scalp "wikilink"), [Drain](Drain "wikilink")
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Milk](Category:Consumables "wikilink")
 [Milk](Category:Help_files "wikilink")

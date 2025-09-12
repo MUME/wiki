@@ -19,6 +19,6 @@ average, and it inflicts very little damage upon hitting.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Wooden club](Category:_Concussion_weapons "wikilink")

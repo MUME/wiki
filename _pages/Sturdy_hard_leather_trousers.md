@@ -19,7 +19,7 @@ They are a sturdy pair of hard leather trousers.
 
 They weigh five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Legs items](Category:Legs_items "wikilink")

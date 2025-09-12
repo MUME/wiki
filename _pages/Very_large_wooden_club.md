@@ -21,6 +21,6 @@ slow, and it inflicts considerable damage upon hitting.
 
 It weighs eleven pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Very large wooden club](Category:_Smiting_weapons "wikilink")

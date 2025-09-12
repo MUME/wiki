@@ -21,6 +21,6 @@ Can be found in various places around [Arda](Arda "wikilink"), as well
 as in the [Halls of Mandos](Halls_of_Mandos "wikilink"). Not a very
 filling meal, but good for a light snack.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Apple](Category:_Consumables "wikilink")

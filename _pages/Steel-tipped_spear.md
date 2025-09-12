@@ -29,6 +29,6 @@ to obtain, once [enchanted](enchant "wikilink") it is a firm rival to
 any [slashing weapon](slashing_weapon "wikilink") for all
 [classes](class "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Steel-tipped spear](Category:_Stabbing_weapons "wikilink")

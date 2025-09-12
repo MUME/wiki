@@ -13,6 +13,6 @@ They are a pair of heavy shoes.
 
 They weigh six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Feet items](Category:Feet_items "wikilink")

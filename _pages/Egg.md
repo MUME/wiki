@@ -15,6 +15,6 @@ It is an egg.
 
 It weighs a couple of ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Egg](Category:Consumables "wikilink")

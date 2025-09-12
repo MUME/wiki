@@ -31,6 +31,6 @@ bonus](parry_bonus "wikilink") when compared to a [bejewelled
 shield](a_bejewelled_shield "wikilink"), approx. 3pb less on a full
 metal dwarf warrior with 20 strength.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sun-emblazoned shield](Category:_Shields "wikilink")

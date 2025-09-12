@@ -1,7 +1,3 @@
----
-title: Template:Article
----
-
 <noinclude>
 
 ## Current hooks

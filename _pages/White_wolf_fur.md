@@ -22,6 +22,6 @@ It weighs twelve pounds.
 
 Increases [offensive bonus](offensive_bonus "wikilink") slightly.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [White wolf fur](Category:Cloaks "wikilink")

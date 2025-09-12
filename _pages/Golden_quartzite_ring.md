@@ -19,6 +19,6 @@ feels quite heavy for its size.
 
 Casts [bless](bless "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Golden quartzite ring](Category:_Rings "wikilink")

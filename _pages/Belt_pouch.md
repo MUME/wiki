@@ -23,6 +23,6 @@ It weighs about one pound.
 
 Can contain up to 25 pounds of items.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Belt pouch](Category:_Containers "wikilink")

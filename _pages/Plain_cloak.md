@@ -22,7 +22,7 @@ It weighs three pounds.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain cloak](Category:_Cloth_equipment "wikilink") [Plain
 cloak](Category:Cloaks "wikilink")

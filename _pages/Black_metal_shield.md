@@ -18,6 +18,6 @@ It is a black metal shield.
 
 It weighs one stone and one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Black metal shield](Category:_Shields "wikilink")

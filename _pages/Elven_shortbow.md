@@ -8,6 +8,6 @@ Its accuracy is poor, its speed very fast, and it causes average damage.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Elven shortbow](Category:_Missile_weapons "wikilink")

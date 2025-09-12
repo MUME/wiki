@@ -28,6 +28,6 @@ It weighs three pounds.
 
 Increases [dodge bonus](dodge_bonus "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Black cape](Category:_Cloaks "wikilink")

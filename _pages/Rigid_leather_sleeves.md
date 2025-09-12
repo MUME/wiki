@@ -12,7 +12,7 @@ They are a pair of rigid leather sleeves.
 
 They weigh five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Rigid leather sleeves](Category:_Leather_equipment "wikilink") [Rigid
 leather sleeves](Category:Arms_items "wikilink")

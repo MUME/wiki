@@ -16,6 +16,6 @@ It is a gold ring.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Gold ring](Category:_Rings "wikilink")

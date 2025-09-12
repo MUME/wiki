@@ -18,6 +18,6 @@ Metal bucklers can be bought from most armourers for around 13
 `It is a metal buckler.`
 `It weighs eight pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

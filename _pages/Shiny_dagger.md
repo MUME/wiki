@@ -18,6 +18,6 @@ some weaponsmiths for around 1 [gold](gold "wikilink") and 13
 `It is good while attacking and good while defending; its speed is very fast, and it inflicts average damage upon hitting.`
 `It weighs half a pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Shiny dagger](Category:_Piercing_weapons "wikilink")

@@ -259,7 +259,7 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 
 </spoiler>
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Weapons "wikilink")

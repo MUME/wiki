@@ -12,7 +12,7 @@ They are a sturdy pair of soft leather sleeves.
 
 They weigh four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sturdy soft leather sleeves](Category:_Leather_equipment "wikilink")
 [Sturdy soft leather sleeves](Category:Arms_items "wikilink")

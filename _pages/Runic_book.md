@@ -28,6 +28,6 @@ It weighs four pounds.
 Teaches the Seeing [herblore](herblore "wikilink"). Loads on the
 [witch](witch "wikilink") near [Fornost](Fornost "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Runic book](Category:_Miscellaneous_equipment "wikilink")

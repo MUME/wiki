@@ -14,6 +14,6 @@ sweeter than the smell of an ordinary apple.
 It is a large yellow apple.
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Large yellow apple](Category:_Consumables "wikilink")

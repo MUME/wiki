@@ -18,7 +18,7 @@ It is a sturdy chain mail coif.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sturdy chain mail coif](Category:_Mail_equipment "wikilink") [Sturdy
 chain mail coif](Category:Head_items "wikilink")

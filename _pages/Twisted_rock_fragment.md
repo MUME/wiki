@@ -25,7 +25,7 @@ traps or overkillers. If someone throws a rock, any other rock on any
 person in the same room has a chance of exploding, causing some damage
 to the person holding them.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

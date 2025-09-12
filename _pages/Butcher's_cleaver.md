@@ -11,6 +11,6 @@ and it inflicts very little damage upon hitting.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

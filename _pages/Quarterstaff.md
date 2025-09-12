@@ -19,6 +19,6 @@ average, and it inflicts very little damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Quarterstaff](Category:_Smiting_weapons "wikilink")

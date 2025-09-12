@@ -33,6 +33,6 @@ boost to OB when in berserk mood, compared to other
 [races](race "wikilink"), although the actual benefits of this are very
 limited.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category:Wrist items](Category:Wrist_items "wikilink")

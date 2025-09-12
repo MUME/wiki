@@ -17,7 +17,7 @@ It is a sturdy leather helmet.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Sturdy leather helmet](Category:_Leather_equipment "wikilink") [Sturdy
 leather helmet](Category:_Head_items "wikilink")

@@ -14,7 +14,7 @@ very fast if [dropped](drop "wikilink") on the ground.
 `It is a slate blue shirt.`
 `It weighs a couple of pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category: Body items](Category:_Body_items "wikilink")

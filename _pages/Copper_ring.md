@@ -25,6 +25,6 @@ Copper rings are usually only utilized by caster types; they are
 rumoured to give a bonus to the character's [spell](spell "wikilink")
 [casting](cast "wikilink") and ability to resist magical attacks.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Copper ring](Category:_Rings "wikilink")

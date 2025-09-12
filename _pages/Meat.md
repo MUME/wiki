@@ -13,6 +13,6 @@ will be different depending on which animal it was gotten from (bear
 meat, venison, wolf meat, etc.), all kinds of meat are functionally
 identical.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Consumables](Category:_Consumables "wikilink")

@@ -24,7 +24,7 @@ They are a fine pair of metal greaves.
 
 They weigh thirteen pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category:Legs items](Category:Legs_items "wikilink")

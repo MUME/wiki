@@ -12,7 +12,7 @@ It is a wolf fur vest.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Wolf fur vest](Category:_Cloth_equipment "wikilink") [Wolf fur
 vest](Category:_Body_items "wikilink")

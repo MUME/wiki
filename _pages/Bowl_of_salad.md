@@ -15,6 +15,6 @@ They are some salad.
 
 They weigh a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Bowl of salad](Category:_Consumables "wikilink")

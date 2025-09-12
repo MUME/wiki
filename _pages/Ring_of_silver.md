@@ -17,6 +17,6 @@ It is a ring of silver.
 
 It weighs a couple of ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Ring of silver](Category:_Rings "wikilink")

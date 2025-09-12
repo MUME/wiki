@@ -17,6 +17,6 @@ somewhat rarer [light boat of reeds](light_boat_of_reeds "wikilink").
 `It is a canoe.`
 `It weighs two stone and seven pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

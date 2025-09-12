@@ -21,6 +21,6 @@ is fast, and it inflicts little damage upon hitting.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Dark broadsword](Category:_Slashing_weapons "wikilink")

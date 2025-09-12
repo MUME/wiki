@@ -15,7 +15,7 @@ They are a pair of soft leather gloves.
 
 They weigh about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Hands items](Category:Hands_items "wikilink")

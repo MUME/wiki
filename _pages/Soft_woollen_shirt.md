@@ -18,7 +18,7 @@ It is a soft woollen shirt.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Soft woollen shirt](Category:_Cloth_equipment "wikilink") [Soft woollen
 shirt](Category:_Body_items "wikilink")

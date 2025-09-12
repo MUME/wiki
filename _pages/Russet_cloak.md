@@ -21,7 +21,7 @@ tailors for around 3 [gold](gold "wikilink").
 `It is a russet cloak.`
 `It weighs a couple of pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
 [Category:Cloaks](Category:Cloaks "wikilink")

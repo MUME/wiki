@@ -19,6 +19,6 @@ enchanted to provide the wearer with some protection from fire in the
 Balrog's mini zone. It is also not possible to [rent](rent "wikilink")
 or [hide](hide "wikilink") the ring.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Strange golden ring](Category:_Rings "wikilink")

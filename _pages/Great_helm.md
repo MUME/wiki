@@ -21,7 +21,7 @@ It is a great helm.
 
 It weighs seven pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Great helm](Category:_Metal_equipment "wikilink") [Great
 helm](Category:_Head_items "wikilink")

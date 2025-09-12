@@ -17,7 +17,7 @@ This item can be used to cure wounds, much like a [garnet
 ring](garnet_ring "wikilink") or the [cure
 critic](Cure_Critic "wikilink") spell.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Miscellaneous
 equipment](Category:_Miscellaneous_equipment "wikilink")

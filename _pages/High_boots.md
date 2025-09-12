@@ -16,7 +16,7 @@ protection from the elements.
 
 They are a pair of high boots. They weigh three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Leather equipment](Category:_Leather_equipment "wikilink")
 [Category:Feet items](Category:Feet_items "wikilink")

@@ -33,6 +33,6 @@ It weighs four pounds.
 When max enchanted this spear make most damage per time unit, more than
 [a giant spear](a_giant_spear "wikilink") for example.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Steel-shafted spear](Category:_Stabbing_weapons "wikilink")

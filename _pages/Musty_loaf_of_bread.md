@@ -15,6 +15,6 @@ It is a musty loaf of bread.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Musty loaf of bread](Category:_Consumables "wikilink")

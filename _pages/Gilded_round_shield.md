@@ -19,6 +19,6 @@ of Galerel](ghost_of_Galerel "wikilink").
 `It is a gilded round shield.`
 `It weighs one stone and three pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Gilded round shield](Category:_Shields "wikilink")

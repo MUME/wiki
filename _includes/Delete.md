@@ -1,7 +1,3 @@
----
-title: Template:Delete
----
-
 <div class="boilerplate metadata" id="stub" style="clear:both;">
 
 *This article is candidate for

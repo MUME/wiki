@@ -21,6 +21,6 @@ It radiates a magical aura.
 
 It weighs about one pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Black runed dagger](Category:_Piercing_weapons "wikilink")

@@ -11,6 +11,6 @@ slow, and it inflicts average damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Double-headed axe](Category:_Cleaving_weapons "wikilink")

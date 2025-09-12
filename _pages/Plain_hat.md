@@ -20,7 +20,7 @@ It is a plain hat.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain hat](Category:_Cloth_equipment "wikilink") [Plain
 hat](Category:_Head_items "wikilink")

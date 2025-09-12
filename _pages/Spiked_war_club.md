@@ -19,6 +19,6 @@ average, and it inflicts little damage upon hitting.
 
 It weighs four pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Spiked war club](Category:_Concussion_weapons "wikilink")

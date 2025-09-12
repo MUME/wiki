@@ -18,7 +18,7 @@ bonus](offensive_bonus "wikilink"). It is worth around 2
 `It is a metal helmet.`
 `It weighs seven pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Metal helmet](Category:_Metal_equipment "wikilink") [Metal
 helmet](Category:_Head_items "wikilink")

@@ -14,6 +14,6 @@ It is a juicy plum.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Juicy plum](Category:_Consumables "wikilink")

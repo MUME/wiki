@@ -13,6 +13,6 @@ slow, and it inflicts average damage upon hitting.
 
 It weighs six pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Engraved warhammer](Category:_Concussion_weapons "wikilink")

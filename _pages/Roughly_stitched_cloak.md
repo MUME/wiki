@@ -22,7 +22,7 @@ help your [movement points](movement_points "wikilink") regenerate.
 Compared to [a forest green cloak](a_forest_green_cloak "wikilink") it
 gives slightly more defence and less movement.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Roughly stitched cloak](Category:_Cloth_equipment "wikilink") [Roughly
 stitched cloak](Category:Cloaks "wikilink")

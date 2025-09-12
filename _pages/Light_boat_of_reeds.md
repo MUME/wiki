@@ -16,6 +16,6 @@ functionally identical to [canoes](canoe "wikilink").
 `It is a light boat of reeds.`
 `It weighs two stone and seven pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Boats](Category:_Boats "wikilink")

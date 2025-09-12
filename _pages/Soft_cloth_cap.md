@@ -21,7 +21,7 @@ It is a soft cloth cap'.
 
 It weighs a few ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Soft cloth cap](Category:_Cloth_equipment "wikilink") [Soft cloth
 cap](Category:_Head_items "wikilink")

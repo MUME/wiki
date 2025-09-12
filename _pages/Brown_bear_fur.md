@@ -16,6 +16,6 @@ or bought from some tailors for around 8 [silver](silver "wikilink").
 `It is a brown bear fur.`
 `It weighs one stone and seven pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Brown bear fur](Category:Cloaks "wikilink")

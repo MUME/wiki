@@ -16,7 +16,7 @@ from most armourers for around 1 [gold](gold "wikilink") 6 silver.
 `It is a pot helm.`
 `It weighs four pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Head items](Category:_Head_items "wikilink")

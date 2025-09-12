@@ -17,6 +17,6 @@ It is a large pumpkin.
 
 It weighs seven pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Large pumpkin](Category:_Consumables "wikilink")

@@ -14,6 +14,6 @@ This slashing weapon can be wielded one-handed. It is good while
 attacking and average while defending; its speed is average, and it
 inflicts average damage upon hitting. It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Jagged-edged scimitar](Category:_Slashing_weapons "wikilink")

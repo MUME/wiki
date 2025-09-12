@@ -15,6 +15,6 @@ It is a wolfskin wristband.
 
 It weighs a couple of ounces.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Wolfskin wristband](Category:Wrist_items "wikilink")

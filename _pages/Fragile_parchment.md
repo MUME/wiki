@@ -26,6 +26,6 @@ These pieces of parchment can be useful in defending yourself against
 lightning-based attacks, such as [call
 lightning](Call_Lightning "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Fragile parchment](Category:_Miscellaneous_equipment "wikilink")

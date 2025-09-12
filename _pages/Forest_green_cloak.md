@@ -24,7 +24,7 @@ A very standard cloak for all characters, regardless of
 wearer +5 [dodge bonus](dodge_bonus "wikilink") and is said to increase
 movement regeneration.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Forest green cloak](Category:_Cloth_equipment "wikilink") [Forest green
 cloak](Category:Cloaks "wikilink")

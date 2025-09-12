@@ -38,6 +38,6 @@ follows:
 `It weighs about one pound.`
 `It looks quite impossible to mend.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Dagger](Category:_Piercing_weapons "wikilink")

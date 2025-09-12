@@ -21,7 +21,7 @@ It is a black robe.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Black robe](Category:_Cloth_equipment "wikilink") [Black
 robe](Category:_Body_items "wikilink")

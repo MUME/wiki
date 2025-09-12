@@ -25,6 +25,6 @@ It weighs one stone and five pounds.
 
 Increases [offensive bonus](offensive_bonus "wikilink") by 2.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Tawny bear fur](Category:Cloaks "wikilink")

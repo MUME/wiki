@@ -20,7 +20,7 @@ It weighs three pounds.
 Obtained from [butchering](butcher "wikilink") various animals,
 including deer, elk, wolverines and otters.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

@@ -19,7 +19,7 @@ It weighs a couple of pounds.
 
 Can be [dyed](dye "wikilink") different colours.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Plain blouse](Category:_Cloth_equipment "wikilink") [Plain
 blouse](Category:_Body_items "wikilink")

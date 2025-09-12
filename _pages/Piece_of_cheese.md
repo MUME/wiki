@@ -15,6 +15,6 @@ It is a piece of cheese.
 
 It weighs half a pound.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Piece of cheese](Category:_Consumables "wikilink")

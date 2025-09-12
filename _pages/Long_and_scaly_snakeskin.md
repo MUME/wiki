@@ -25,7 +25,7 @@ It weighs about one pound.
 Obtained by [butchering](butcher "wikilink")
 [rattlesnakes](rattlesnake "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Uncategorized
 items](Category:_Uncategorized_items "wikilink")

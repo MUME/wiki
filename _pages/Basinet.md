@@ -16,7 +16,7 @@ It weighs five pounds.
 
 Reduces [offensive bonus](offensive_bonus "wikilink") slightly.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Basinet](Category:_Metal_equipment "wikilink")
 [Basinet](Category:_Head_items "wikilink")

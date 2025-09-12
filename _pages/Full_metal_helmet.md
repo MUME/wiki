@@ -20,7 +20,7 @@ It is worth around ~3 [gold](gold "wikilink").
 `It is a full metal helmet.`
 `It weighs seven pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Metal equipment](Category:_Metal_equipment "wikilink")
 [Category: Head items](Category:_Head_items "wikilink")

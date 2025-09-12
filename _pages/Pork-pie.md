@@ -18,6 +18,6 @@ It is a pork-pie.
 
 It weighs a couple of pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Pork-pie](Category:_Consumables "wikilink")

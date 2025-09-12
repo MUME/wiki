@@ -32,6 +32,6 @@ weapons](concussion_weapon "wikilink"), the ornate warhammer is a very
 common weapon in [PK](PK "wikilink") and rightly so - it is arguably the
 best weapon for PK in closables.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

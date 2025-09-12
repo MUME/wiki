@@ -19,6 +19,6 @@ Ferny](Bill_Ferny "wikilink") and can be used to
 `It is a small twisted root.`
 `It weighs about one pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Keys](Category:_Keys "wikilink")

@@ -32,6 +32,6 @@ It weighs six stone.
 [Quest](Quest "wikilink") item for [the Elven
 Chief](Quest#Elven_Chief "wikilink").
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Quest items](Category:_Quest_items "wikilink")

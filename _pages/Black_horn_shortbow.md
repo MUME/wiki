@@ -9,6 +9,6 @@ damage.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Black horn shortbow](Category:_Missile_weapons "wikilink")

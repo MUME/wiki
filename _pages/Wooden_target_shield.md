@@ -16,6 +16,6 @@ It is a wooden target shield.
 
 It weighs five pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Category: Shields](Category:_Shields "wikilink")

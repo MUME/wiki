@@ -17,6 +17,6 @@ It is an onion.
 
 It weighs about an ounce.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Onion](Category:_Consumables "wikilink")

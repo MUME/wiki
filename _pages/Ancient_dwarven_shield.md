@@ -34,6 +34,6 @@ other equipment that loads alongside it. This is certainly a powerful
 shield, but it becomes even more so in it's corrupted form: a [defiled
 dwarven shield](defiled_dwarven_shield "wikilink")
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Ancient dwarven shield](Category:_Shields "wikilink")

@@ -12,7 +12,7 @@ It is a fine reinforced leather helmet.
 
 It weighs three pounds.
 
-{% include Equipment.md %}
+{% include Items.md %}
 
 [Fine reinforced leather helmet](Category:_Leather_equipment "wikilink")
 [Fine reinforced leather helmet](Category:_Head_items "wikilink")
