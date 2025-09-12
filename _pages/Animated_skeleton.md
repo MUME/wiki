@@ -1,6 +1,5 @@
 ---
 title: "Animated skeleton"
-permalink: "/Animated_skeleton/"
 ---
 
 \> **look skeleton**

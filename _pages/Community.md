@@ -1,6 +1,5 @@
 ---
 title: "Community"
-permalink: "/Community/"
 ---
 
 The MUME community has accumulated, created, and creatively written a

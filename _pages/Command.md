@@ -1,6 +1,5 @@
 ---
 title: "Command"
-permalink: "/Command/"
 ---
 
 ## COMMAND

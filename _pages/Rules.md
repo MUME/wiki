@@ -1,6 +1,5 @@
 ---
 title: "Rules"
-permalink: "/Rules/"
 ---
 
 1.  Redirect

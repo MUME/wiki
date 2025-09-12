@@ -1,6 +1,5 @@
 ---
 title: "Fireball"
-permalink: "/Fireball/"
 ---
 
 **Fireball** is a mid-level [mage](mage "wikilink")

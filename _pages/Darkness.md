@@ -1,6 +1,5 @@
 ---
 title: "Darkness"
-permalink: "/Darkness/"
 ---
 
 <nowiki>g Syntax : cast 'darkness' Type : Miscellaneous Accumulative: No

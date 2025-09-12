@@ -1,6 +1,5 @@
 ---
 title: "Large sack"
-permalink: "/Large_sack/"
 ---
 
 \> **look sack**

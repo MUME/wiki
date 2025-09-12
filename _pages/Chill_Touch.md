@@ -1,6 +1,5 @@
 ---
 title: "Chill Touch"
-permalink: "/Chill_Touch/"
 ---
 
 <nowiki>g Syntax : cast 'chill touch' \[victim\] Type : Offensive,

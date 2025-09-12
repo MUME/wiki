@@ -1,6 +1,5 @@
 ---
 title: "Sewers Thieves' Guild"
-permalink: "/Sewers_Thieves'_Guild/"
 ---
 
 A **wary man** teaches [thief](thief "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: "Show"
-permalink: "/Show/"
 ---
 
 Use these commands in shops. 'Buy' can also be used in

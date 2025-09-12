@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Guilds and Practicing"
-permalink: "/Newbie_Guide_Guilds_and_Practicing/"
 ---
 
 **Newbie Guide Guilds and Practicing**

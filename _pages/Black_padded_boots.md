@@ -1,6 +1,5 @@
 ---
 title: "Black padded boots"
-permalink: "/Black_padded_boots/"
 ---
 
 **\>examine boots** The boots are made of a rough black leather. The

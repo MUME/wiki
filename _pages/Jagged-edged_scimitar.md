@@ -1,6 +1,5 @@
 ---
 title: "Jagged-edged scimitar"
-permalink: "/Jagged-edged_scimitar/"
 ---
 
 This slashing weapon can be wielded one-handed. It is good while

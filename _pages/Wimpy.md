@@ -1,6 +1,5 @@
 ---
 title: "Wimpy"
-permalink: "/Wimpy/"
 ---
 
 Usage: CHANGE WIMPY <value>

@@ -1,6 +1,5 @@
 ---
 title: "Enter"
-permalink: "/Enter/"
 ---
 
 If you type 'enter' while you are outdoors, you'll enter any nearby

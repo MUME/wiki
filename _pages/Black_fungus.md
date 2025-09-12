@@ -1,6 +1,5 @@
 ---
 title: "Black fungus"
-permalink: "/Black_fungus/"
 ---
 
 **Black fungi** are aggressive, [evil](alignment "wikilink")

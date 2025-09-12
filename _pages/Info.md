@@ -1,6 +1,5 @@
 ---
 title: "Info"
-permalink: "/Info/"
 ---
 
 This command will give you large amounts of information about your

@@ -1,6 +1,5 @@
 ---
 title: "Kevlar the Armourer"
-permalink: "/Kevlar_the_Armourer/"
 ---
 
 **Kevlar the Armourer** tends to the **Kevlar's Fine Armour** shop in

@@ -1,6 +1,5 @@
 ---
 title: "Shire Warrior Guild"
-permalink: "/Shire_Warrior_Guild/"
 ---
 
 The **old Shirriff** teaches [warrior](warrior "wikilink")

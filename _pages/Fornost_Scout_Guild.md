@@ -1,6 +1,5 @@
 ---
 title: "Fornost Scout Guild"
-permalink: "/Fornost_Scout_Guild/"
 ---
 
 A **veteran Dúnadan scout** teaches at the **Scout Training Room** in

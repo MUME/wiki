@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Casting and Spells"
-permalink: "/Newbie_Guide_Casting_and_Spells/"
 ---
 
 Newbie Guide Casting and Spells

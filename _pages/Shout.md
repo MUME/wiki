@@ -1,6 +1,5 @@
 ---
 title: "Shout"
-permalink: "/Shout/"
 ---
 
 You can use this command to give a message to everyone in the game,

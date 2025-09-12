@@ -1,6 +1,5 @@
 ---
 title: "Weapon"
-permalink: "/Weapon/"
 ---
 
 **MUME Weaponry**

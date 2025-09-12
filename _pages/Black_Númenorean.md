@@ -1,6 +1,5 @@
 ---
 title: "Black Númenorean"
-permalink: "/Black_Númenorean/"
 ---
 
 The origin of the first black Númenóreans is in the latter half of the

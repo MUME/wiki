@@ -1,6 +1,5 @@
 ---
 title: "Spell"
-permalink: "/Spell/"
 ---
 
 ## Cleric

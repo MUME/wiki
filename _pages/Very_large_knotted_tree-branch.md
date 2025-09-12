@@ -1,6 +1,5 @@
 ---
 title: "Very large knotted tree-branch"
-permalink: "/Very_large_knotted_tree-branch/"
 ---
 
 \> **examine branch**

@@ -1,6 +1,5 @@
 ---
 title: "Tower Hills"
-permalink: "/Tower_Hills/"
 ---
 
 The **Tower Hills** are located between [Grey

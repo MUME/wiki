@@ -1,6 +1,5 @@
 ---
 title: "Plain trousers"
-permalink: "/Plain_trousers/"
 ---
 
 \> **look trousers**

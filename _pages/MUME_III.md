@@ -1,6 +1,5 @@
 ---
 title: "MUME III"
-permalink: "/MUME_III/"
 ---
 
 MUME III was released in February 1993, and contained a number of new

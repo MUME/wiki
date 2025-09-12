@@ -1,6 +1,5 @@
 ---
 title: "Clump of roots"
-permalink: "/Clump_of_roots/"
 ---
 
 **Roots** are passive [level](level "wikilink") 12

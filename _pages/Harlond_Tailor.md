@@ -1,6 +1,5 @@
 ---
 title: "Harlond Tailor"
-permalink: "/Harlond_Tailor/"
 ---
 
 The **elven tailor** tends to the **Tailor's Shop** in

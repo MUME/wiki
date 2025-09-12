@@ -1,6 +1,5 @@
 ---
 title: "Black Metal Wristband"
-permalink: "/Black_Metal_Wristband/"
 ---
 
 ## Statistics

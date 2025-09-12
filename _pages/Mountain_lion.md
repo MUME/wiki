@@ -1,6 +1,5 @@
 ---
 title: "Mountain lion"
-permalink: "/Mountain_lion/"
 ---
 
 \> A mountain lion eyes you closely and prepares to pounce for his next

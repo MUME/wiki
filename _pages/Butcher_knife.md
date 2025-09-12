@@ -1,6 +1,5 @@
 ---
 title: "Butcher knife"
-permalink: "/Butcher_knife/"
 ---
 
 \> **look knife**

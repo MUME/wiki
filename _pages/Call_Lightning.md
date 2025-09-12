@@ -1,6 +1,5 @@
 ---
 title: "Call Lightning"
-permalink: "/Call_Lightning/"
 ---
 
 <nowiki>g Syntax : cast 'call lightning' \[victim\] Type : Offensive,

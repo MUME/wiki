@@ -1,6 +1,5 @@
 ---
 title: "Warsword"
-permalink: "/Warsword/"
 ---
 
 It is excellent while attacking and average while defending; its speed

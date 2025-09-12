@@ -1,6 +1,5 @@
 ---
 title: "Blue Mountains"
-permalink: "/Blue_Mountains/"
 ---
 
 ## Blue Mountains

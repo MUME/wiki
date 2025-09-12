@@ -1,6 +1,5 @@
 ---
 title: "Swim"
-permalink: "/Swim/"
 ---
 
 ## Swim

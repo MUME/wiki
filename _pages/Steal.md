@@ -1,6 +1,5 @@
 ---
 title: "Steal"
-permalink: "/Steal/"
 ---
 
 ## Steal

@@ -1,6 +1,5 @@
 ---
 title: "MUME VIII"
-permalink: "/MUME_VIII/"
 ---
 
 MUME VIII Summary

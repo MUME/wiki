@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Aging and Death"
-permalink: "/Newbie_Guide_Aging_and_Death/"
 ---
 
 **Newbie Guide Aging and Death**

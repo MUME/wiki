@@ -1,6 +1,5 @@
 ---
 title: "Dirk"
-permalink: "/Dirk/"
 ---
 
 \> **look dirk**

@@ -1,6 +1,5 @@
 ---
 title: "Age"
-permalink: "/Age/"
 ---
 
 Age affects a character's statistics according to the following table.

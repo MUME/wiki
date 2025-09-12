@@ -1,6 +1,5 @@
 ---
 title: "Ancient Maps"
-permalink: "/Ancient_Maps/"
 ---
 
 <div>

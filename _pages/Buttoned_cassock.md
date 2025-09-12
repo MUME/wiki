@@ -1,6 +1,5 @@
 ---
 title: "Buttoned cassock"
-permalink: "/Buttoned_cassock/"
 ---
 
 \> **look cassock**

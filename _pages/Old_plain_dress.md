@@ -1,6 +1,5 @@
 ---
 title: "Old plain dress"
-permalink: "/Old_plain_dress/"
 ---
 
 \> **look dress**

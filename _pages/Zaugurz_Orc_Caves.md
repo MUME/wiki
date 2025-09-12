@@ -1,6 +1,5 @@
 ---
 title: "Zaugurz Orc Caves"
-permalink: "/Zaugurz_Orc_Caves/"
 ---
 
 The [Zaugurz](Zaugurz "wikilink") have their base in the [Misty

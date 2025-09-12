@@ -1,6 +1,5 @@
 ---
 title: "Reset"
-permalink: "/Reset/"
 ---
 
 The **reset** command is used to clear your memories of a bulletin

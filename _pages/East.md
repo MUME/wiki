@@ -1,6 +1,5 @@
 ---
 title: "East"
-permalink: "/East/"
 ---
 
 1.  redirect [Movement](Movement "wikilink")

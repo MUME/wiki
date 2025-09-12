@@ -1,6 +1,5 @@
 ---
 title: "Flagon"
-permalink: "/Flagon/"
 ---
 
 The fragrant draught in the flagon has the scent of honey made of many

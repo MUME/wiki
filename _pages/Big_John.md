@@ -1,6 +1,5 @@
 ---
 title: "Big John"
-permalink: "/Big_John/"
 ---
 
 **Big John** is the leader of a group of

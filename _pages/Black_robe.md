@@ -1,6 +1,5 @@
 ---
 title: "Black robe"
-permalink: "/Black_robe/"
 ---
 
 \> **look robe**

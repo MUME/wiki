@@ -1,6 +1,5 @@
 ---
 title: "Blackened bolt"
-permalink: "/Blackened_bolt/"
 ---
 
 Its accuracy is poor, and it inflicts very little damage upon hitting.

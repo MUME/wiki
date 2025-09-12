@@ -1,6 +1,5 @@
 ---
 title: "Rules Abuse"
-permalink: "/Rules_Abuse/"
 ---
 
 In general, activities which take advantage of game features and the

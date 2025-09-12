@@ -1,6 +1,5 @@
 ---
 title: "Backstab"
-permalink: "/Backstab/"
 ---
 
 ## Backstab

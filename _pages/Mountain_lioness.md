@@ -1,6 +1,5 @@
 ---
 title: "Mountain lioness"
-permalink: "/Mountain_lioness/"
 ---
 
 \> A mountain lioness pads quietly through the terrain.

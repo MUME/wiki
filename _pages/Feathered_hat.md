@@ -1,6 +1,5 @@
 ---
 title: "Feathered hat"
-permalink: "/Feathered_hat/"
 ---
 
 \> **look hat**

@@ -1,6 +1,5 @@
 ---
 title: "Small wooden box"
-permalink: "/Small_wooden_box/"
 ---
 
 ## Statistics

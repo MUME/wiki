@@ -1,6 +1,5 @@
 ---
 title: "Track"
-permalink: "/Track/"
 ---
 
 ## Track

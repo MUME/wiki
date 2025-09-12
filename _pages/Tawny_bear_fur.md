@@ -1,6 +1,5 @@
 ---
 title: "Tawny bear fur"
-permalink: "/Tawny_bear_fur/"
 ---
 
 \> **look fur**

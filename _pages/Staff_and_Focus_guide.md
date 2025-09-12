@@ -1,6 +1,5 @@
 ---
 title: "Staff and Focus guide"
-permalink: "/Staff_and_Focus_guide/"
 ---
 
 # Staff, Gems and Focus guide

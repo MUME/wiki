@@ -1,6 +1,5 @@
 ---
 title: "Shire Ranger Guild"
-permalink: "/Shire_Ranger_Guild/"
 ---
 
 A **ranger** teaches [ranger](general "wikilink")

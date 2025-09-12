@@ -1,6 +1,5 @@
 ---
 title: "Description"
-permalink: "/Description/"
 ---
 
 Use [Change Description](Change_Description "wikilink") to alter the

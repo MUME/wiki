@@ -1,6 +1,5 @@
 ---
 title: "Escape"
-permalink: "/Escape/"
 ---
 
 ## Escape

@@ -1,5 +1,4 @@
 ---
 title: "Location"
-permalink: "/Location/"
 ---
 

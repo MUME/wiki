@@ -1,6 +1,5 @@
 ---
 title: "Copper ring"
-permalink: "/Copper_ring/"
 ---
 
 !# CW\>**examine copper**

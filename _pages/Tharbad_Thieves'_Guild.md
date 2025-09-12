@@ -1,6 +1,5 @@
 ---
 title: "Tharbad Thieves' Guild"
-permalink: "/Tharbad_Thieves'_Guild/"
 ---
 
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")

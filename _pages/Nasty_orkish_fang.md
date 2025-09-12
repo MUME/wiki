@@ -1,6 +1,5 @@
 ---
 title: "Nasty orkish fang"
-permalink: "/Nasty_orkish_fang/"
 ---
 
 This piercing weapon can be wielded one-handed. It is awful while

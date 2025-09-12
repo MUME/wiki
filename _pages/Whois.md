@@ -1,6 +1,5 @@
 ---
 title: "Whois"
-permalink: "/Whois/"
 ---
 
 This command gives you some information about a player. You can see his

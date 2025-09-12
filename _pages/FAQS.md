@@ -1,6 +1,5 @@
 ---
 title: "FAQS"
-permalink: "/FAQS/"
 ---
 
 1.  Redirect

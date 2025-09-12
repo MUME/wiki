@@ -1,6 +1,5 @@
 ---
 title: "Who"
-permalink: "/Who/"
 ---
 
 Lists the people currently in the game (although some people may choose

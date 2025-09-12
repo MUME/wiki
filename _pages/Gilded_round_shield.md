@@ -1,6 +1,5 @@
 ---
 title: "Gilded round shield"
-permalink: "/Gilded_round_shield/"
 ---
 
 \> **look shield**

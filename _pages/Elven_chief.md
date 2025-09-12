@@ -1,6 +1,5 @@
 ---
 title: "Elven chief"
-permalink: "/Elven_chief/"
 ---
 
 The **elven chief** is the chief of a small village near [Grey

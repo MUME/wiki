@@ -1,6 +1,5 @@
 ---
 title: "Rooftop Thieves' Guild"
-permalink: "/Rooftop_Thieves'_Guild/"
 ---
 
 An **old gentleman** teaches [thief](thief "wikilink")

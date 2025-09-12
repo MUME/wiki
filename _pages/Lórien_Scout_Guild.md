@@ -1,6 +1,5 @@
 ---
 title: "Lórien Scout Guild"
-permalink: "/Lórien_Scout_Guild/"
 ---
 
 **Celebrindal** teaches [scout](scout "wikilink")

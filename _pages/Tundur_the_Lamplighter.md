@@ -1,6 +1,5 @@
 ---
 title: "Tundur the Lamplighter"
-permalink: "/Tundur_the_Lamplighter/"
 ---
 
 \>**examine Tundur**

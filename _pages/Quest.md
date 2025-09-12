@@ -1,6 +1,5 @@
 ---
 title: "Quest"
-permalink: "/Quest/"
 ---
 
 ## Quests

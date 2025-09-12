@@ -1,6 +1,5 @@
 ---
 title: "Large metal wall shield"
-permalink: "/Large_metal_wall_shield/"
 ---
 
 \*# C\>exa shield The sheer size of this huge shield affords you a wide

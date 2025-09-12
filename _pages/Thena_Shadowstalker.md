@@ -1,6 +1,5 @@
 ---
 title: "Thena Shadowstalker"
-permalink: "/Thena_Shadowstalker/"
 ---
 
 **Thena Shadowstalker** is one of [Morthan

@@ -1,6 +1,5 @@
 ---
 title: "Magic mushroom"
-permalink: "/Magic_mushroom/"
 ---
 
 \*# Mana:Burning\>exa food A mushroom lies here, pale brown in colour.

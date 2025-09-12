@@ -1,6 +1,5 @@
 ---
 title: "Ceremonial dagger"
-permalink: "/Ceremonial_dagger/"
 ---
 
 ## A ceremonial dagger

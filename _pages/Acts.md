@@ -1,6 +1,5 @@
 ---
 title: "Acts"
-permalink: "/Acts/"
 ---
 
 With acts, you can tell others what you are up to at the moment. Usually

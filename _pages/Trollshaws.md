@@ -1,6 +1,5 @@
 ---
 title: "Trollshaws"
-permalink: "/Trollshaws/"
 ---
 
 Northwest of Rivendell lies the Home of the [Troll](Troll "wikilink")

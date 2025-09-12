@@ -1,6 +1,5 @@
 ---
 title: "Shadow"
-permalink: "/Shadow/"
 ---
 
 Some of the powerful beings wandering Arda nowadays may well leave a

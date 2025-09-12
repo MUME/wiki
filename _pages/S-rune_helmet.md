@@ -1,6 +1,5 @@
 ---
 title: "S-rune helmet"
-permalink: "/S-rune_helmet/"
 ---
 
 \> **look helmet**

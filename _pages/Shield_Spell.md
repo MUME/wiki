@@ -1,6 +1,5 @@
 ---
 title: "Shield Spell"
-permalink: "/Shield_Spell/"
 ---
 
 <nowiki>g Syntax : cast 'shield' \[self-only\] Type : Defensive

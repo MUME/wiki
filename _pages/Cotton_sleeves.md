@@ -1,6 +1,5 @@
 ---
 title: "Cotton sleeves"
-permalink: "/Cotton_sleeves/"
 ---
 
 **Cotton sleeves** are a piece of cloth

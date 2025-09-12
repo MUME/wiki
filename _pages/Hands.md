@@ -1,6 +1,5 @@
 ---
 title: "Hands"
-permalink: "/Hands/"
 ---
 
 # Metal

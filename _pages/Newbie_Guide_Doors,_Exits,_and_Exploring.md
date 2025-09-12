@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Doors, Exits, and Exploring"
-permalink: "/Newbie_Guide_Doors,_Exits,_and_Exploring/"
 ---
 
 Newbie Guide Doors, Exits, and Exploring

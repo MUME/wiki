@@ -1,6 +1,5 @@
 ---
 title: "FAQ4"
-permalink: "/FAQ4/"
 ---
 
 Q: "How do I hunt for food?"

@@ -1,6 +1,5 @@
 ---
 title: "Minas Brethil"
-permalink: "/Minas_Brethil/"
 ---
 
 **Minas Brethil** is a castle just east of

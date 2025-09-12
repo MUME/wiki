@@ -1,6 +1,5 @@
 ---
 title: "Empty"
-permalink: "/Empty/"
 ---
 
 If you wish to **empty** a [container](container "wikilink"), you can

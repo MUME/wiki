@@ -1,6 +1,5 @@
 ---
 title: "Legend Homes"
-permalink: "/Legend_Homes/"
 ---
 
 Legend homes may be bought by characters of level 30 or higher among the

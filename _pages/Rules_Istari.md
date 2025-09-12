@@ -1,6 +1,5 @@
 ---
 title: "Rules Istari"
-permalink: "/Rules_Istari/"
 ---
 
 Istari are expected not to cheat, and to promptly report bugs which

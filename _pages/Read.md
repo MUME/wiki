@@ -1,6 +1,5 @@
 ---
 title: "Read"
-permalink: "/Read/"
 ---
 
 Obviously, this is used for reading things.

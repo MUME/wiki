@@ -1,6 +1,5 @@
 ---
 title: "Piece of cheese"
-permalink: "/Piece_of_cheese/"
 ---
 
 \> **look cheese**

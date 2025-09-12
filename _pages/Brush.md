@@ -1,6 +1,5 @@
 ---
 title: "Brush"
-permalink: "/Brush/"
 ---
 
 The Brush is an area that lies between

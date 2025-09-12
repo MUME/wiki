@@ -1,6 +1,5 @@
 ---
 title: "Fallow deer"
-permalink: "/Fallow_deer/"
 ---
 
 **Fallow deer** are passive level ~1-2 [mobiles](mobiles "wikilink"),

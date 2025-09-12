@@ -1,6 +1,5 @@
 ---
 title: "Ansicodes"
-permalink: "/Ansicodes/"
 ---
 
 The ANSI CODES are listed below.

@@ -1,6 +1,5 @@
 ---
 title: "Hooded brass lantern"
-permalink: "/Hooded_brass_lantern/"
 ---
 
 The **hooded brass lantern** is a [light

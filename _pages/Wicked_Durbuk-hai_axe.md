@@ -1,6 +1,5 @@
 ---
 title: "Wicked Durbuk-hai axe"
-permalink: "/Wicked_Durbuk-hai_axe/"
 ---
 
 \> **examine axe**

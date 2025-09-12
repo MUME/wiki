@@ -1,6 +1,5 @@
 ---
 title: "Legend Home Valet"
-permalink: "/Legend_Home_Valet/"
 ---
 
 Currently there are two choices when deciding on which valet mob you

@@ -1,6 +1,5 @@
 ---
 title: "Tower Hills Warrior Guild"
-permalink: "/Tower_Hills_Warrior_Guild/"
 ---
 
 A **retired warrior** teaches [warrior](warrior "wikilink")

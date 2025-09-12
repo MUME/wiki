@@ -1,6 +1,5 @@
 ---
 title: "Haunt"
-permalink: "/Haunt/"
 ---
 
 \> A shadowy haunt floats here, oblivious to your presence.

@@ -1,6 +1,5 @@
 ---
 title: "Compare"
-permalink: "/Compare/"
 ---
 
 Syntax: **compare** \<object\|number\> \<object\|number\>

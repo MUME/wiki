@@ -1,6 +1,5 @@
 ---
 title: "Rules Actions"
-permalink: "/Rules_Actions/"
 ---
 
 An 'action' (or a 'trigger') is allowing a client to automatically react

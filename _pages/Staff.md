@@ -1,6 +1,5 @@
 ---
 title: "Staff"
-permalink: "/Staff/"
 ---
 
 Being a long and robust stick, a staff can be used both to strike down

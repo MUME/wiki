@@ -1,6 +1,5 @@
 ---
 title: "Misty Mountains"
-permalink: "/Misty_Mountains/"
 ---
 
 (S."Hithaeglir") The range of mountains running from Carn Dum in the

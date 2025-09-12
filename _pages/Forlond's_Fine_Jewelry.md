@@ -1,6 +1,5 @@
 ---
 title: "Forlond's Fine Jewelry"
-permalink: "/Forlond's_Fine_Jewelry/"
 ---
 
 An **elven shopkeeper** tends shop at [Forlond's Fine

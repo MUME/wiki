@@ -1,6 +1,5 @@
 ---
 title: "Embroidered blouse"
-permalink: "/Embroidered_blouse/"
 ---
 
 \> **look blouse**

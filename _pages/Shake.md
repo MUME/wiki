@@ -1,6 +1,5 @@
 ---
 title: "Shake"
-permalink: "/Shake/"
 ---
 
 The shake command is like a normal social with a minor twist. You can

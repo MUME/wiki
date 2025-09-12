@@ -1,6 +1,5 @@
 ---
 title: "Canoe"
-permalink: "/Canoe/"
 ---
 
 **Canoes** are the most common type of [boat](boat "wikilink"), often

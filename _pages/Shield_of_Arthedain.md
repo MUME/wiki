@@ -1,6 +1,5 @@
 ---
 title: "Shield of Arthedain"
-permalink: "/Shield_of_Arthedain/"
 ---
 
 \> **look shield**

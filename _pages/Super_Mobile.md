@@ -1,6 +1,5 @@
 ---
 title: "Super Mobile"
-permalink: "/Super_Mobile/"
 ---
 
 ## Supermobs

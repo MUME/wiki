@@ -1,6 +1,5 @@
 ---
 title: "Where"
-permalink: "/Where/"
 ---
 
 The **where** command is really two commands.

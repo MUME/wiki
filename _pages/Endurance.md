@@ -1,6 +1,5 @@
 ---
 title: "Endurance"
-permalink: "/Endurance/"
 ---
 
 ## Endurance

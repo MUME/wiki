@@ -1,6 +1,5 @@
 ---
 title: "Guide to local editing with PowTTY"
-permalink: "/Guide_to_local_editing_with_PowTTY/"
 ---
 
 This guide that will show you how to enable local editing in PowTTY.

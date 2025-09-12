@@ -1,6 +1,5 @@
 ---
 title: "Castle key"
-permalink: "/Castle_key/"
 ---
 
 The **castle key** can be used to unlock some [doors](door "wikilink")

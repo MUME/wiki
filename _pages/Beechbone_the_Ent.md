@@ -1,6 +1,5 @@
 ---
 title: "Beechbone the Ent"
-permalink: "/Beechbone_the_Ent/"
 ---
 
 **Beechbone** is an [Ent](Ent "wikilink") living in

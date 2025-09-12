@@ -1,6 +1,5 @@
 ---
 title: "Group"
-permalink: "/Group/"
 ---
 
 Syntax : group \[character \[add \| remove \| transfer\]\]

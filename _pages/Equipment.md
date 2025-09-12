@@ -1,6 +1,5 @@
 ---
 title: "Equipment"
-permalink: "/Equipment/"
 ---
 
 Edit up here please

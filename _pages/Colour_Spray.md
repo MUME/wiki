@@ -1,6 +1,5 @@
 ---
 title: "Colour Spray"
-permalink: "/Colour_Spray/"
 ---
 
 <nowiki>g Syntax : cast 'colour spray' \[victim\] Type : Offensive,

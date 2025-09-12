@@ -1,6 +1,5 @@
 ---
 title: "MUME:Wiki rules"
-permalink: "/MUME:Wiki_rules/"
 ---
 
 The wiki is now up on <http://mume.org/wiki>. It is totally

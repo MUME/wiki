@@ -1,6 +1,5 @@
 ---
 title: "Stabbing weapon"
-permalink: "/Stabbing_weapon/"
 ---
 
 # Offensive

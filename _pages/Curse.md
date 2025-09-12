@@ -1,6 +1,5 @@
 ---
 title: "Curse"
-permalink: "/Curse/"
 ---
 
 <nowiki>g

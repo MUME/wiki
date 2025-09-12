@@ -1,6 +1,5 @@
 ---
 title: "Pigeon"
-permalink: "/Pigeon/"
 ---
 
 If you wish to send a small item - usually a note - to someone else, you

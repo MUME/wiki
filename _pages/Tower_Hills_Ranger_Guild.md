@@ -1,6 +1,5 @@
 ---
 title: "Tower Hills Ranger Guild"
-permalink: "/Tower_Hills_Ranger_Guild/"
 ---
 
 A **crippled ranger** teaches [ranger](general "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: "Treebeard"
-permalink: "/Treebeard/"
 ---
 
 **Treebeard** is one of the oldest still-living [Ents](Ent "wikilink").

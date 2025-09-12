@@ -1,6 +1,5 @@
 ---
 title: "Pursue"
-permalink: "/Pursue/"
 ---
 
 If you find a track using the command '[track](track "wikilink")'

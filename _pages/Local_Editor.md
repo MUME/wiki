@@ -1,6 +1,5 @@
 ---
 title: "Local Editor"
-permalink: "/Local_Editor/"
 ---
 
 The MUME remote editing protocol is a mechanism that allows users to

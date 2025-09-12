@@ -1,6 +1,5 @@
 ---
 title: "Inn"
-permalink: "/Inn/"
 ---
 
 Inns are places where the weary traveller may rest while the innkeeper

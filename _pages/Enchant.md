@@ -1,6 +1,5 @@
 ---
 title: "Enchant"
-permalink: "/Enchant/"
 ---
 
 <nowiki>g Syntax : cast 'enchant' \[weapon\] Type : Miscellaneous

@@ -1,6 +1,5 @@
 ---
 title: "Scalp"
-permalink: "/Scalp/"
 ---
 
 Scalping is a way for members of the evil races to keep track of whom

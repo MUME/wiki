@@ -1,6 +1,5 @@
 ---
 title: "Ventriloquate"
-permalink: "/Ventriloquate/"
 ---
 
 <nowiki>g Syntax : cast 'ventriloquate' Type : Miscellaneous

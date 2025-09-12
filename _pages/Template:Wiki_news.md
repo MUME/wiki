@@ -1,6 +1,5 @@
 ---
 title: "Template:Wiki news"
-permalink: "/Template:Wiki_news/"
 ---
 
 <noinclude>

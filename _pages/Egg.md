@@ -1,6 +1,5 @@
 ---
 title: "Egg"
-permalink: "/Egg/"
 ---
 
 \> **look egg**

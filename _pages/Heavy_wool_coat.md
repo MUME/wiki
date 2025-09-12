@@ -1,6 +1,5 @@
 ---
 title: "Heavy wool coat"
-permalink: "/Heavy_wool_coat/"
 ---
 
 \> **look coat**

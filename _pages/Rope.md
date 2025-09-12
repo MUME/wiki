@@ -1,6 +1,5 @@
 ---
 title: "Rope"
-permalink: "/Rope/"
 ---
 
 Rope is useful for leading groups in areas that require the

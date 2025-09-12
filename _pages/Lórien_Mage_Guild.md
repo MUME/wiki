@@ -1,6 +1,5 @@
 ---
 title: "Lórien Mage Guild"
-permalink: "/Lórien_Mage_Guild/"
 ---
 
 **Rumil** teaches [mage](mage "wikilink") [spells](spell "wikilink") at

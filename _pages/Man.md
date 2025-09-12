@@ -1,6 +1,5 @@
 ---
 title: "Man"
-permalink: "/Man/"
 ---
 
 As with our own world, Man is the most varied of the races. While one

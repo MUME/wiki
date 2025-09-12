@@ -1,6 +1,5 @@
 ---
 title: "Spirit"
-permalink: "/Spirit/"
 ---
 
 \> A spirit floats towards you and howls with an evil laughter.

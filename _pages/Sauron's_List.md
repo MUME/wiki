@@ -1,6 +1,5 @@
 ---
 title: "Sauron's List"
-permalink: "/Sauron's_List/"
 ---
 
 **Sauron's list** is a list of people acknowledged by

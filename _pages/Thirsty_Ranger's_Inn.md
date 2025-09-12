@@ -1,6 +1,5 @@
 ---
 title: "Thirsty Ranger's Inn"
-permalink: "/Thirsty_Ranger's_Inn/"
 ---
 
 The **Thirsty Ranger's Inn** is a tavern in

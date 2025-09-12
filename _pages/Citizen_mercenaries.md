@@ -1,6 +1,5 @@
 ---
 title: "Citizen mercenaries"
-permalink: "/Citizen_mercenaries/"
 ---
 
 Citizen mercenaries are available for hire in [Bree](Bree "wikilink")

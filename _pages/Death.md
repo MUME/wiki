@@ -1,6 +1,5 @@
 ---
 title: "Death"
-permalink: "/Death/"
 ---
 
 Dying on MUME (except in the case of trolls turned to stone by the sun)

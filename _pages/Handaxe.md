@@ -1,6 +1,5 @@
 ---
 title: "Handaxe"
-permalink: "/Handaxe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is poor while

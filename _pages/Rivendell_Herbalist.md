@@ -1,6 +1,5 @@
 ---
 title: "Rivendell Herbalist"
-permalink: "/Rivendell_Herbalist/"
 ---
 
 An [elven herbalist](elven_herbalist "wikilink") tend to the

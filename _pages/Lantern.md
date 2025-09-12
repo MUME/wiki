@@ -1,6 +1,5 @@
 ---
 title: "Lantern"
-permalink: "/Lantern/"
 ---
 
 The **lantern** is a [light

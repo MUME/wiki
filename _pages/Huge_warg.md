@@ -1,6 +1,5 @@
 ---
 title: "Huge warg"
-permalink: "/Huge_warg/"
 ---
 
 \> **look warg**

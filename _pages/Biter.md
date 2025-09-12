@@ -1,6 +1,5 @@
 ---
 title: "Biter"
-permalink: "/Biter/"
 ---
 
 1.  redirect [The slender Elven

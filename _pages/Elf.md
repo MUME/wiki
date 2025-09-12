@@ -1,6 +1,5 @@
 ---
 title: "Elf"
-permalink: "/Elf/"
 ---
 
 The first people of Middle-Earth, created by Eru Ilúvatar. They are

@@ -1,6 +1,5 @@
 ---
 title: "Pull"
-permalink: "/Pull/"
 ---
 
 In some places there are things you can try to **push** and **pull**.

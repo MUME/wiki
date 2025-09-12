@@ -1,6 +1,5 @@
 ---
 title: "Elven hunting-spear"
-permalink: "/Elven_hunting-spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is poor while

@@ -1,6 +1,5 @@
 ---
 title: "Sun-emblazoned shield"
-permalink: "/Sun-emblazoned_shield/"
 ---
 
 This large rounded metal shield looks able to protect almost the full

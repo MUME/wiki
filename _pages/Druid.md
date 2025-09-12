@@ -1,6 +1,5 @@
 ---
 title: "Druid"
-permalink: "/Druid/"
 ---
 
 A **druid** teaches [cleric](cleric "wikilink")

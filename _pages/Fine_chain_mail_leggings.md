@@ -1,6 +1,5 @@
 ---
 title: "Fine chain mail leggings"
-permalink: "/Fine_chain_mail_leggings/"
 ---
 
 **Fine chain mail leggings** are a lightweight piece of mail equipment

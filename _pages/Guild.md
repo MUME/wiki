@@ -1,6 +1,5 @@
 ---
 title: "Guild"
-permalink: "/Guild/"
 ---
 
 The Guild is the place where mortals may go to escape the troubles and

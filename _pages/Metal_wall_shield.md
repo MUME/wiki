@@ -1,6 +1,5 @@
 ---
 title: "Metal wall shield"
-permalink: "/Metal_wall_shield/"
 ---
 
 The **metal wall shield** is a rather heavy [shield](shield "wikilink")

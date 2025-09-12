@@ -1,6 +1,5 @@
 ---
 title: "Chequered shirt"
-permalink: "/Chequered_shirt/"
 ---
 
 \> **look shirt**

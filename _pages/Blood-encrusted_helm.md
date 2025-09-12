@@ -1,6 +1,5 @@
 ---
 title: "Blood-encrusted helm"
-permalink: "/Blood-encrusted_helm/"
 ---
 
 \> **look helm**

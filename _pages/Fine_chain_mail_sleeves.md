@@ -1,6 +1,5 @@
 ---
 title: "Fine chain mail sleeves"
-permalink: "/Fine_chain_mail_sleeves/"
 ---
 
 **Fine chain mail sleeves** are a lightweight piece of mail equipment

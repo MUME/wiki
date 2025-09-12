@@ -1,6 +1,5 @@
 ---
 title: "Fine plain dress"
-permalink: "/Fine_plain_dress/"
 ---
 
 \> **look dress** This dress is woven together from fine cotton and has

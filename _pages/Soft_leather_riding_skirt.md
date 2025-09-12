@@ -1,6 +1,5 @@
 ---
 title: "Soft leather riding skirt"
-permalink: "/Soft_leather_riding_skirt/"
 ---
 
 \> **look skirt**

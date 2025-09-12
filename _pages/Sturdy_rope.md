@@ -1,6 +1,5 @@
 ---
 title: "Sturdy rope"
-permalink: "/Sturdy_rope/"
 ---
 
 The **sturdy rope** is a [rope](rope "wikilink") that can be used to

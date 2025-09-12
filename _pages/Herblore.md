@@ -1,6 +1,5 @@
 ---
 title: "Herblore"
-permalink: "/Herblore/"
 ---
 
 ## Antidote

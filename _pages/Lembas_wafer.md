@@ -1,6 +1,5 @@
 ---
 title: "Lembas wafer"
-permalink: "/Lembas_wafer/"
 ---
 
 ## Statistics

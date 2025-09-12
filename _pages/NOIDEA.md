@@ -1,6 +1,5 @@
 ---
 title: "NOIDEA"
-permalink: "/NOIDEA/"
 ---
 
 These are **ideas** which have been considered by the

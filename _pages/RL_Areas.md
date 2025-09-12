@@ -1,6 +1,5 @@
 ---
 title: "RL Areas"
-permalink: "/RL_Areas/"
 ---
 
 The following are obtained using the 'whois' command. This won't work on

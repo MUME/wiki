@@ -1,6 +1,5 @@
 ---
 title: "Great werewolf"
-permalink: "/Great_werewolf/"
 ---
 
 \> **look wolf**

@@ -1,6 +1,5 @@
 ---
 title: "Hometowns"
-permalink: "/Hometowns/"
 ---
 
 Certain aspects of the game depend on your hometown, such as calculating

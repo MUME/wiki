@@ -1,6 +1,5 @@
 ---
 title: "Metal vambraces"
-permalink: "/Metal_vambraces/"
 ---
 
 \> **examine vambraces**

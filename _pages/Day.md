@@ -1,6 +1,5 @@
 ---
 title: "Day"
-permalink: "/Day/"
 ---
 
 Day names: <nowiki>g

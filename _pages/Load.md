@@ -1,6 +1,5 @@
 ---
 title: "Load"
-permalink: "/Load/"
 ---
 
 If you have a [crossbow](crossbow "wikilink"), you can

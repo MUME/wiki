@@ -1,6 +1,5 @@
 ---
 title: "Death trap"
-permalink: "/Death_trap/"
 ---
 
 A death trap is a room where anyone who enters dies immediately.

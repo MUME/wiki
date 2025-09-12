@@ -1,6 +1,5 @@
 ---
 title: "Category talk:Basics"
-permalink: "/Category_talk:Basics/"
 ---
 
 Trying to make subcategories:

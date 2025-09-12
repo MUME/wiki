@@ -1,6 +1,5 @@
 ---
 title: "Shield of Cardolan"
-permalink: "/Shield_of_Cardolan/"
 ---
 
 The **shield of Cardolan** is a lightweight [shield](shield "wikilink")

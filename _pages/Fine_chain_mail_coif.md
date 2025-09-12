@@ -1,6 +1,5 @@
 ---
 title: "Fine chain mail coif"
-permalink: "/Fine_chain_mail_coif/"
 ---
 
 **Fine chain mail coifs** are worn on the [head](head "wikilink"). They

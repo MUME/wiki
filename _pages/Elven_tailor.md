@@ -1,6 +1,5 @@
 ---
 title: "Elven tailor"
-permalink: "/Elven_tailor/"
 ---
 
 **Elven tailors** tend the tailor's [shops](shop "wikilink") in

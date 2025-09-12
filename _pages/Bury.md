@@ -1,6 +1,5 @@
 ---
 title: "Bury"
-permalink: "/Bury/"
 ---
 
 Syntax: bury corpse

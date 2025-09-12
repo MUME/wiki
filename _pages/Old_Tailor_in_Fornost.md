@@ -1,6 +1,5 @@
 ---
 title: "Old Tailor in Fornost"
-permalink: "/Old_Tailor_in_Fornost/"
 ---
 
 \>**examine tailor**

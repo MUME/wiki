@@ -1,6 +1,5 @@
 ---
 title: "Softly glowing green cup"
-permalink: "/Softly_glowing_green_cup/"
 ---
 
 <nowiki>g CW\>exa cup The potion is full.

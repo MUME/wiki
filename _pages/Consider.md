@@ -1,6 +1,5 @@
 ---
 title: "Consider"
-permalink: "/Consider/"
 ---
 
 Syntax: consider \<mobile \| player \| object\>

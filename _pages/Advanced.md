@@ -1,6 +1,5 @@
 ---
 title: "Advanced"
-permalink: "/Advanced/"
 ---
 
 This text is mainly for players who have already played other muds, and

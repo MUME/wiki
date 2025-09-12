@@ -1,6 +1,5 @@
 ---
 title: "Light boat of reeds"
-permalink: "/Light_boat_of_reeds/"
 ---
 
 **Light boats of reeds** are a common type of [boat](boat "wikilink"),

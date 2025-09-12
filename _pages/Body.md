@@ -1,6 +1,5 @@
 ---
 title: "Body"
-permalink: "/Body/"
 ---
 
 # Metal

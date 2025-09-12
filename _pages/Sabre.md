@@ -1,6 +1,5 @@
 ---
 title: "Sabre"
-permalink: "/Sabre/"
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

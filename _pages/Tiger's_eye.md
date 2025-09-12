@@ -1,6 +1,5 @@
 ---
 title: "Tiger's eye"
-permalink: "/Tiger's_eye/"
 ---
 
 `A polished tiger's eye lies discarded here.`

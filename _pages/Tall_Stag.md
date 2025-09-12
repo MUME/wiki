@@ -1,6 +1,5 @@
 ---
 title: "Tall Stag"
-permalink: "/Tall_Stag/"
 ---
 
 \> **examine stag**

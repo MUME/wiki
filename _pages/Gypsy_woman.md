@@ -1,6 +1,5 @@
 ---
 title: "Gypsy woman"
-permalink: "/Gypsy_woman/"
 ---
 
 The **gypsy woman** is an aggressive [level](level "wikilink") ?

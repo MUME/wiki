@@ -1,6 +1,5 @@
 ---
 title: "Offensive bonus"
-permalink: "/Offensive_bonus/"
 ---
 
 The **offensive bonus** (OB%) improves the likelyhood of your attacks

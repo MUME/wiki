@@ -1,6 +1,5 @@
 ---
 title: "Broadsword"
-permalink: "/Broadsword/"
 ---
 
 This slashing weapon can be wielded one-handed. It is awful while

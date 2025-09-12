@@ -1,6 +1,5 @@
 ---
 title: "Change Editor"
-permalink: "/Change_Editor/"
 ---
 
 Using this command you select how you edit text in MUME.

@@ -1,6 +1,5 @@
 ---
 title: "Broad spear"
-permalink: "/Broad_spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is poor while

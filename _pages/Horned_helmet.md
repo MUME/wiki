@@ -1,6 +1,5 @@
 ---
 title: "Horned helmet"
-permalink: "/Horned_helmet/"
 ---
 
 \> *look helmet**

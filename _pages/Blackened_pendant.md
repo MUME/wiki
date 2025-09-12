@@ -1,6 +1,5 @@
 ---
 title: "Blackened pendant"
-permalink: "/Blackened_pendant/"
 ---
 
 The **blackened pendant** can be worn around the neck. It loads on some

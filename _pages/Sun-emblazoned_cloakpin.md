@@ -1,6 +1,5 @@
 ---
 title: "Sun-emblazoned cloakpin"
-permalink: "/Sun-emblazoned_cloakpin/"
 ---
 
 \> **look cloakpin**

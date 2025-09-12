@@ -1,6 +1,5 @@
 ---
 title: "Slate blue pants"
-permalink: "/Slate_blue_pants/"
 ---
 
 \> **look pants**

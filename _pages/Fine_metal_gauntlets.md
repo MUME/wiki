@@ -1,6 +1,5 @@
 ---
 title: "Fine metal gauntlets"
-permalink: "/Fine_metal_gauntlets/"
 ---
 
 \> **look gauntlets**

@@ -1,6 +1,5 @@
 ---
 title: "Sturdy rigid leather sleeves"
-permalink: "/Sturdy_rigid_leather_sleeves/"
 ---
 
 \> **look sleeves**

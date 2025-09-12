@@ -1,6 +1,5 @@
 ---
 title: "Arda"
-permalink: "/Arda/"
 ---
 
 The continent of Middle-earth was shaped at the most ancient days of

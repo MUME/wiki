@@ -1,6 +1,5 @@
 ---
 title: "Shire"
-permalink: "/Shire/"
 ---
 
 ## Shire

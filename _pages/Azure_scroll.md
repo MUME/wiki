@@ -1,6 +1,5 @@
 ---
 title: "Azure scroll"
-permalink: "/Azure_scroll/"
 ---
 
 ## Statistics

@@ -1,6 +1,5 @@
 ---
 title: "Dunlendings"
-permalink: "/Dunlendings/"
 ---
 
 (Dn."Daen Lintis") A rugged race of commen men who largely migrated out

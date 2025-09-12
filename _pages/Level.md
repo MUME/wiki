@@ -1,6 +1,5 @@
 ---
 title: "Level"
-permalink: "/Level/"
 ---
 
 With every new level, [practice](practice "wikilink") points become

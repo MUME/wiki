@@ -1,6 +1,5 @@
 ---
 title: "Furious dog"
-permalink: "/Furious_dog/"
 ---
 
 **Furious dogs** are aggressive [level](level "wikilink") \<9

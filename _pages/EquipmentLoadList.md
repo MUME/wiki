@@ -1,6 +1,5 @@
 ---
 title: "EquipmentLoadList"
-permalink: "/EquipmentLoadList/"
 ---
 
 <spoilers>

@@ -1,6 +1,5 @@
 ---
 title: "Detect Magic"
-permalink: "/Detect_Magic/"
 ---
 
 **Detect Magic** is a low level [mage](mage "wikilink")

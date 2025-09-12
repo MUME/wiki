@@ -1,6 +1,5 @@
 ---
 title: "External links"
-permalink: "/External_links/"
 ---
 
 Tolkien books and bibliography.

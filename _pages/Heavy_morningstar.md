@@ -1,6 +1,5 @@
 ---
 title: "Heavy morningstar"
-permalink: "/Heavy_morningstar/"
 ---
 
 This crushing weapon can be wielded one-handed. It is average while

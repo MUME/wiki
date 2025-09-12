@@ -1,6 +1,5 @@
 ---
 title: "Levels"
-permalink: "/Levels/"
 ---
 
 The **levels** command lists the [experience](experience "wikilink") and

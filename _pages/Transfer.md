@@ -1,6 +1,5 @@
 ---
 title: "Transfer"
-permalink: "/Transfer/"
 ---
 
 **Transfer** is a level 14 [cleric](cleric "wikilink")

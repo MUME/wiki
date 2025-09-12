@@ -1,6 +1,5 @@
 ---
 title: "Steel claymore"
-permalink: "/Steel_claymore/"
 ---
 
 This slashing weapon can be wielded either one- or two-handed. It is

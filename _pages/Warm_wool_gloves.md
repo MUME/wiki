@@ -1,6 +1,5 @@
 ---
 title: "Warm wool gloves"
-permalink: "/Warm_wool_gloves/"
 ---
 
 \> **examine gloves**

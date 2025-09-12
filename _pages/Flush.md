@@ -1,6 +1,5 @@
 ---
 title: "Flush"
-permalink: "/Flush/"
 ---
 
 Type flush <effort> (quickly, fast, normally, carefully, thoroughly) to

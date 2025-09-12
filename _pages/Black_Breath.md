@@ -1,6 +1,5 @@
 ---
 title: "Black Breath"
-permalink: "/Black_Breath/"
 ---
 
 <nowiki>g Syntax : cast 'black breath' Type : Offensive, special

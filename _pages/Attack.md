@@ -1,6 +1,5 @@
 ---
 title: "Attack"
-permalink: "/Attack/"
 ---
 
 ## Attack

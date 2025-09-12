@@ -1,6 +1,5 @@
 ---
 title: "River Otter"
-permalink: "/River_Otter/"
 ---
 
 A cute, furry little guy found near the waters around

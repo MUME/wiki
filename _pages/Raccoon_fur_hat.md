@@ -1,6 +1,5 @@
 ---
 title: "Raccoon fur hat"
-permalink: "/Raccoon_fur_hat/"
 ---
 
 \> **look hat**

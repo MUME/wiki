@@ -1,6 +1,5 @@
 ---
 title: "Password"
-permalink: "/Password/"
 ---
 
 There are two types of passwords on MUME: account passwords and

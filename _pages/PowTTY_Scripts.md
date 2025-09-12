@@ -1,6 +1,5 @@
 ---
 title: "PowTTY Scripts"
-permalink: "/PowTTY_Scripts/"
 ---
 
 # PowTTY

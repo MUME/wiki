@@ -1,6 +1,5 @@
 ---
 title: "Crown of Arnor Innkeeper"
-permalink: "/Crown_of_Arnor_Innkeeper/"
 ---
 
 \>**examine innkeeper**

@@ -1,6 +1,5 @@
 ---
 title: "Rattlesnake"
-permalink: "/Rattlesnake/"
 ---
 
 \> A diamond-back rattlesnake is coiled here, ready to strike.

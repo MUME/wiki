@@ -1,6 +1,5 @@
 ---
 title: "A small oaken barrel"
-permalink: "/A_small_oaken_barrel/"
 ---
 
 \> **examine barrel**

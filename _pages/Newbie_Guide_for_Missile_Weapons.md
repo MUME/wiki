@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide for Missile Weapons"
-permalink: "/Newbie_Guide_for_Missile_Weapons/"
 ---
 
 **Newbie Guide to Missile Weapons**

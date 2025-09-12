@@ -1,6 +1,5 @@
 ---
 title: "Cure Critic"
-permalink: "/Cure_Critic/"
 ---
 
 **Cure Critic** is a level 9 [cleric](cleric "wikilink")

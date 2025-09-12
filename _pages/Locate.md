@@ -1,6 +1,5 @@
 ---
 title: "Locate"
-permalink: "/Locate/"
 ---
 
 <nowiki>g Syntax : cast 'locate' \[<key>\] \[<max distance>\] Type :

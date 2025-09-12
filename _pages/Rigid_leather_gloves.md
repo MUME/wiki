@@ -1,6 +1,5 @@
 ---
 title: "Rigid leather gloves"
-permalink: "/Rigid_leather_gloves/"
 ---
 
 \> **look gloves**

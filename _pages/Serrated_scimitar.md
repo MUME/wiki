@@ -1,6 +1,5 @@
 ---
 title: "Serrated scimitar"
-permalink: "/Serrated_scimitar/"
 ---
 
 This slashing weapon can be wielded one-handed. It is poor while

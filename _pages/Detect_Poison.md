@@ -1,6 +1,5 @@
 ---
 title: "Detect Poison"
-permalink: "/Detect_Poison/"
 ---
 
 **Detect Poison** is a level 2 [cleric](cleric "wikilink")

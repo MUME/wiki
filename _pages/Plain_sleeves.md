@@ -1,6 +1,5 @@
 ---
 title: "Plain sleeves"
-permalink: "/Plain_sleeves/"
 ---
 
 **Plain sleeves** are a piece of cloth [equipment](equipment "wikilink")

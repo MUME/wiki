@@ -1,6 +1,5 @@
 ---
 title: "Noble stag"
-permalink: "/Noble_stag/"
 ---
 
 \> A huge stag with a great span of antlers is warily browsing on the

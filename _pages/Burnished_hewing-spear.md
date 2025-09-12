@@ -1,6 +1,5 @@
 ---
 title: "Burnished hewing-spear"
-permalink: "/Burnished_hewing-spear/"
 ---
 
 The **burnished hewing-spear** is a magical [two-handed

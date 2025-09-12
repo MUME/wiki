@@ -1,6 +1,5 @@
 ---
 title: "Cleaving weapons"
-permalink: "/Cleaving_weapons/"
 ---
 
 ## Cleaving

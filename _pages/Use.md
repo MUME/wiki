@@ -1,6 +1,5 @@
 ---
 title: "Use"
-permalink: "/Use/"
 ---
 
 Syntax: **use** <Item> <Target>

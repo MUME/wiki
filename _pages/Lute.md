@@ -1,6 +1,5 @@
 ---
 title: "Lute"
-permalink: "/Lute/"
 ---
 
 \>**examine lute**

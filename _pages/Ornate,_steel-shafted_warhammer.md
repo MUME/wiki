@@ -1,6 +1,5 @@
 ---
 title: "Ornate, steel-shafted warhammer"
-permalink: "/Ornate,_steel-shafted_warhammer/"
 ---
 
 ## Statistics

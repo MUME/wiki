@@ -1,6 +1,5 @@
 ---
 title: "Shortsword"
-permalink: "/Shortsword/"
 ---
 
 \> **look sword**

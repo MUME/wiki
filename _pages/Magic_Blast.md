@@ -1,6 +1,5 @@
 ---
 title: "Magic Blast"
-permalink: "/Magic_Blast/"
 ---
 
 <nowiki>g Syntax : cast 'magic blast' Type : Meta magic, area

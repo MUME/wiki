@@ -1,6 +1,5 @@
 ---
 title: "Fine chain mail hauberk"
-permalink: "/Fine_chain_mail_hauberk/"
 ---
 
 **Fine chain mail hauberks** are worn on the [body](body "wikilink").

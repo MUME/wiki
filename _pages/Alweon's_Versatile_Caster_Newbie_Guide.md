@@ -1,6 +1,5 @@
 ---
 title: "Alweon's Versatile Caster Newbie Guide"
-permalink: "/Alweon's_Versatile_Caster_Newbie_Guide/"
 ---
 
 ## Alweon’s Versatile Caster Newbie Guide

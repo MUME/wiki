@@ -1,6 +1,5 @@
 ---
 title: "Armour"
-permalink: "/Armour/"
 ---
 
 **MUME Armours**

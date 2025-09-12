@@ -1,6 +1,5 @@
 ---
 title: "Alignment"
-permalink: "/Alignment/"
 ---
 
 Your alignment is basically a way of measuring your morals. Good

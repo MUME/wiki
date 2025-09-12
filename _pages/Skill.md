@@ -1,6 +1,5 @@
 ---
 title: "Skill"
-permalink: "/Skill/"
 ---
 
 ## General

@@ -1,6 +1,5 @@
 ---
 title: "Soft cloth cap"
-permalink: "/Soft_cloth_cap/"
 ---
 
 \> **look cap**

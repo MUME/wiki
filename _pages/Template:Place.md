@@ -1,6 +1,5 @@
 ---
 title: "Template:Place"
-permalink: "/Template:Place/"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

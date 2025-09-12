@@ -1,6 +1,5 @@
 ---
 title: "Sauron"
-permalink: "/Sauron/"
 ---
 
 The Dark Lord

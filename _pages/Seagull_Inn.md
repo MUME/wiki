@@ -1,6 +1,5 @@
 ---
 title: "Seagull Inn"
-permalink: "/Seagull_Inn/"
 ---
 
 The **Seagull Inn** is an [inn](inn "wikilink") in

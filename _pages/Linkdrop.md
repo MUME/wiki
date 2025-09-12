@@ -1,6 +1,5 @@
 ---
 title: "Linkdrop"
-permalink: "/Linkdrop/"
 ---
 
 "Change linkdrop" sets an inactivity limit on a connection (in seconds).

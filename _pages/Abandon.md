@@ -1,6 +1,5 @@
 ---
 title: "Abandon"
-permalink: "/Abandon/"
 ---
 
 If you are leading a mount, this command will make it stop following

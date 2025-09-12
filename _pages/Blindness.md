@@ -1,6 +1,5 @@
 ---
 title: "Blindness"
-permalink: "/Blindness/"
 ---
 
 **Blindness** is a level 6 [cleric](cleric "wikilink")

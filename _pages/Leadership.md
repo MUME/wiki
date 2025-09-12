@@ -1,6 +1,5 @@
 ---
 title: "Leadership"
-permalink: "/Leadership/"
 ---
 
 ## LEADERSHIP

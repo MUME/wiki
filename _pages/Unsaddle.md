@@ -1,6 +1,5 @@
 ---
 title: "Unsaddle"
-permalink: "/Unsaddle/"
 ---
 
 **Unsaddle**

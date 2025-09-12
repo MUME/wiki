@@ -1,6 +1,5 @@
 ---
 title: "Seek"
-permalink: "/Seek/"
 ---
 
 The Last Homely Home of Elrond, also called Rivendell, is well hidden

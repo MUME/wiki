@@ -1,6 +1,5 @@
 ---
 title: "Sausage flavoured with savoury herbs"
-permalink: "/Sausage_flavoured_with_savoury_herbs/"
 ---
 
 \> **look sausage**

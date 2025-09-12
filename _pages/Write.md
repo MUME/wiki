@@ -1,6 +1,5 @@
 ---
 title: "Write"
-permalink: "/Write/"
 ---
 
 In order to write a note, you need a piece of blank paper (often

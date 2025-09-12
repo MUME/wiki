@@ -1,6 +1,5 @@
 ---
 title: "Thief"
-permalink: "/Thief/"
 ---
 
 Thieves are known to have very special qualities, that no other class

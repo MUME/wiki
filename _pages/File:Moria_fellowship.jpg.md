@@ -1,6 +1,5 @@
 ---
 title: "File:Moria fellowship.jpg"
-permalink: "/File:Moria_fellowship.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

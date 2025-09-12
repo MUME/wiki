@@ -1,6 +1,5 @@
 ---
 title: "White wolf fur"
-permalink: "/White_wolf_fur/"
 ---
 
 \> **examine fur**

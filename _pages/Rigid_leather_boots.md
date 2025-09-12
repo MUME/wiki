@@ -1,6 +1,5 @@
 ---
 title: "Rigid leather boots"
-permalink: "/Rigid_leather_boots/"
 ---
 
 \> **look boots**

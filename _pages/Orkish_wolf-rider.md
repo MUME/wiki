@@ -1,6 +1,5 @@
 ---
 title: "Orkish wolf-rider"
-permalink: "/Orkish_wolf-rider/"
 ---
 
 **Orkish wolf-riders** are [level](level "wikilink") ~12-13

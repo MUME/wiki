@@ -1,6 +1,5 @@
 ---
 title: "Rivendell Scout Guild"
-permalink: "/Rivendell_Scout_Guild/"
 ---
 
 An **elven hunter** teaches [scout](scout "wikilink")

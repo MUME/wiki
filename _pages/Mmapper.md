@@ -1,6 +1,5 @@
 ---
 title: "Mmapper"
-permalink: "/Mmapper/"
 ---
 
 ## Mmapper2

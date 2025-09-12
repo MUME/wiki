@@ -1,6 +1,5 @@
 ---
 title: "Envenom"
-permalink: "/Envenom/"
 ---
 
 ## Envenom

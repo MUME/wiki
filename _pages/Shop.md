@@ -1,6 +1,5 @@
 ---
 title: "Shop"
-permalink: "/Shop/"
 ---
 
 Shops

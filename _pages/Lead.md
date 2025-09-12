@@ -1,6 +1,5 @@
 ---
 title: "Lead"
-permalink: "/Lead/"
 ---
 
 To move indoors with your mount, or to pass heavy undergrowth for

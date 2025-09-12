@@ -1,6 +1,5 @@
 ---
 title: "Diminutive rogue"
-permalink: "/Diminutive_rogue/"
 ---
 
 **Diminutive rogues** are aggressive [level](level "wikilink") ?

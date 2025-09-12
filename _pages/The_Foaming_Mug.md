@@ -1,6 +1,5 @@
 ---
 title: "The Foaming Mug"
-permalink: "/The_Foaming_Mug/"
 ---
 
 The **Foaming Mug** is an [inn](inn "wikilink") in [Black

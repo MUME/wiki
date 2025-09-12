@@ -1,6 +1,5 @@
 ---
 title: "Pick"
-permalink: "/Pick/"
 ---
 
 ## Pick

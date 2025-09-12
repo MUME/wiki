@@ -1,6 +1,5 @@
 ---
 title: "Terrain"
-permalink: "/Terrain/"
 ---
 
 Each place on Arda is characterized by a specific terrain type, which is

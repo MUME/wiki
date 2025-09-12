@@ -1,6 +1,5 @@
 ---
 title: "Template:Stub"
-permalink: "/Template:Stub/"
 ---
 
 

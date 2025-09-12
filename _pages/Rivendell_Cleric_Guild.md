@@ -1,6 +1,5 @@
 ---
 title: "Rivendell Cleric Guild"
-permalink: "/Rivendell_Cleric_Guild/"
 ---
 
 An **elven priest** teaches [cleric](cleric "wikilink")

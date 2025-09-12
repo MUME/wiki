@@ -1,6 +1,5 @@
 ---
 title: "Spells"
-permalink: "/Spells/"
 ---
 
 1.  redirect

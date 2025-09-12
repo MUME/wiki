@@ -1,6 +1,5 @@
 ---
 title: "Bandit bodyguard"
-permalink: "/Bandit_bodyguard/"
 ---
 
 \> A sturdy bandit bodyguard stands here, eager to hack you to pieces.

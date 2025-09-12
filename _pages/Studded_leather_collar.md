@@ -1,6 +1,5 @@
 ---
 title: "Studded leather collar"
-permalink: "/Studded_leather_collar/"
 ---
 
 The **studded leather collar** can be worn around the neck. They load on

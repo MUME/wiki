@@ -1,6 +1,5 @@
 ---
 title: "Fine lion pelt"
-permalink: "/Fine_lion_pelt/"
 ---
 
 \> **look pelt**

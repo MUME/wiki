@@ -1,6 +1,5 @@
 ---
 title: "Ranger"
-permalink: "/Ranger/"
 ---
 
 

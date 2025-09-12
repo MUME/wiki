@@ -1,6 +1,5 @@
 ---
 title: "Tharbad Thieves' Shop"
-permalink: "/Tharbad_Thieves'_Shop/"
 ---
 
 A **grocer** tends to the **Thieves' Shop** in

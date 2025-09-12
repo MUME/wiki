@@ -1,6 +1,5 @@
 ---
 title: "Metal greaves"
-permalink: "/Metal_greaves/"
 ---
 
 \> **examine greaves**

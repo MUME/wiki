@@ -1,6 +1,5 @@
 ---
 title: "Forlond Mage Guild"
-permalink: "/Forlond_Mage_Guild/"
 ---
 
 A **grey haired elf** teaches [mage](mage "wikilink")

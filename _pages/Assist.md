@@ -1,6 +1,5 @@
 ---
 title: "Assist"
-permalink: "/Assist/"
 ---
 
 Assist lets you join somebody who is already fighting.

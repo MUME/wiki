@@ -1,6 +1,5 @@
 ---
 title: "Zmud Scripts"
-permalink: "/Zmud_Scripts/"
 ---
 
 # Zmud Scripts

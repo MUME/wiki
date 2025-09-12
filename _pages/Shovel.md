@@ -1,6 +1,5 @@
 ---
 title: "Shovel"
-permalink: "/Shovel/"
 ---
 
 \> **look shovel**

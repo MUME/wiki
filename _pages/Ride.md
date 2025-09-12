@@ -1,6 +1,5 @@
 ---
 title: "Ride"
-permalink: "/Ride/"
 ---
 
 ## Ride

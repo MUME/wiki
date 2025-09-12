@@ -1,6 +1,5 @@
 ---
 title: "Pack horse"
-permalink: "/Pack_horse/"
 ---
 
 **Pack horses** are [level](level "wikilink") ?

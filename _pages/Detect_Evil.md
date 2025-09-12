@@ -1,6 +1,5 @@
 ---
 title: "Detect Evil"
-permalink: "/Detect_Evil/"
 ---
 
 **Detect evil** is a level 1 [cleric](cleric "wikilink")

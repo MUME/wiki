@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide to Base Abilities"
-permalink: "/Newbie_Guide_to_Base_Abilities/"
 ---
 
 1.  REDIRECT [Newbie Guide to Choosing your Base Abilities or

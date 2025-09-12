@@ -1,6 +1,5 @@
 ---
 title: "Missile weapon"
-permalink: "/Missile_weapon/"
 ---
 
 # Powerful

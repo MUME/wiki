@@ -1,6 +1,5 @@
 ---
 title: "Short spear"
-permalink: "/Short_spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is awful while

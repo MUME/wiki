@@ -1,6 +1,5 @@
 ---
 title: "Herbal kit"
-permalink: "/Herbal_kit/"
 ---
 
 ## Upgrades

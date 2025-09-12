@@ -1,6 +1,5 @@
 ---
 title: "Dismount"
-permalink: "/Dismount/"
 ---
 
 Use this command to get down if you are riding something, like a horse,

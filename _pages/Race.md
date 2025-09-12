@@ -1,6 +1,5 @@
 ---
 title: "Race"
-permalink: "/Race/"
 ---
 
 There are nine different races you can play on MUME.

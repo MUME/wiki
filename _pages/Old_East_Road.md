@@ -1,6 +1,5 @@
 ---
 title: "Old East Road"
-permalink: "/Old_East_Road/"
 ---
 
 The Old East Road connects the [Grey Havens](Grey_Havens "wikilink") in

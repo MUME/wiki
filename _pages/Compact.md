@@ -1,6 +1,5 @@
 ---
 title: "Compact"
-permalink: "/Compact/"
 ---
 
 Usage: compact \[on\|off\]

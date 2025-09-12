@@ -1,6 +1,5 @@
 ---
 title: "Pot helm"
-permalink: "/Pot_helm/"
 ---
 
 \> **look helm**

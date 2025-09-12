@@ -1,6 +1,5 @@
 ---
 title: "Morningstar"
-permalink: "/Morningstar/"
 ---
 
 \> **examine morningstar**

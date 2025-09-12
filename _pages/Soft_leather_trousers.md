@@ -1,6 +1,5 @@
 ---
 title: "Soft leather trousers"
-permalink: "/Soft_leather_trousers/"
 ---
 
 \> **look trousers**

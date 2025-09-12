@@ -1,6 +1,5 @@
 ---
 title: "Head"
-permalink: "/Head/"
 ---
 
 # Metal

@@ -1,6 +1,5 @@
 ---
 title: "File:Legolas.jpg"
-permalink: "/File:Legolas.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

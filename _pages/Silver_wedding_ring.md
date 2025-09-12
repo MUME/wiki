@@ -1,6 +1,5 @@
 ---
 title: "Silver wedding ring"
-permalink: "/Silver_wedding_ring/"
 ---
 
 \> **look ring**

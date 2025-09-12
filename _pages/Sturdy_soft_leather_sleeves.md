@@ -1,6 +1,5 @@
 ---
 title: "Sturdy soft leather sleeves"
-permalink: "/Sturdy_soft_leather_sleeves/"
 ---
 
 \> **look sleeves** You see nothing special...

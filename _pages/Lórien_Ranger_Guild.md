@@ -1,6 +1,5 @@
 ---
 title: "Lórien Ranger Guild"
-permalink: "/Lórien_Ranger_Guild/"
 ---
 
 **Orophin** teaches [ranger](general "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: "Scout Guide"
-permalink: "/Scout_Guide/"
 ---
 
 Credits: Originally By Locram

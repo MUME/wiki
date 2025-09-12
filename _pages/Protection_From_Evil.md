@@ -1,6 +1,5 @@
 ---
 title: "Protection From Evil"
-permalink: "/Protection_From_Evil/"
 ---
 
 **Protection from Evil** is a level 4 [cleric](cleric "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: "Catchup"
-permalink: "/Catchup/"
 ---
 
 Syntax: **catchup** \[<number>\|<name>\]

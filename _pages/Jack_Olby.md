@@ -1,6 +1,5 @@
 ---
 title: "Jack Olby"
-permalink: "/Jack_Olby/"
 ---
 
 **Jack Olby** guards the entrance to the [Guards' Training

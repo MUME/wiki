@@ -1,5 +1,4 @@
 ---
 title: "Backpack"
-permalink: "/Backpack/"
 ---
 

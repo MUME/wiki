@@ -1,6 +1,5 @@
 ---
 title: "FAQ1"
-permalink: "/FAQ1/"
 ---
 
 Q: "I don't understand anything that's going on! Help!"

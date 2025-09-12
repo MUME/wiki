@@ -1,6 +1,5 @@
 ---
 title: "Elven grocer"
-permalink: "/Elven_grocer/"
 ---
 
 **Elven grocers** tend the grocery stores in

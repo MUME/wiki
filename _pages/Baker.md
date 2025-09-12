@@ -1,6 +1,5 @@
 ---
 title: "Baker"
-permalink: "/Baker/"
 ---
 
 **Bakers** tend to the bakeries in [Bree Baker](Bree_Baker "wikilink"),

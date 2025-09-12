@@ -1,6 +1,5 @@
 ---
 title: "Mood"
-permalink: "/Mood/"
 ---
 
 The CHANGE MOOD command enables you to transfer bonus points between

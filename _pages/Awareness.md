@@ -1,6 +1,5 @@
 ---
 title: "Awareness"
-permalink: "/Awareness/"
 ---
 
 ## Awareness

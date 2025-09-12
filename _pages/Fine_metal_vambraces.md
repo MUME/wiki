@@ -1,6 +1,5 @@
 ---
 title: "Fine metal vambraces"
-permalink: "/Fine_metal_vambraces/"
 ---
 
 \> **look vambraces**

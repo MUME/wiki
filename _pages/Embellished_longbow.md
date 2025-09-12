@@ -1,6 +1,5 @@
 ---
 title: "Embellished longbow"
-permalink: "/Embellished_longbow/"
 ---
 
 Its accuracy is excellent, its speed fast, and it causes massive damage.

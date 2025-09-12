@@ -1,6 +1,5 @@
 ---
 title: "Disengage"
-permalink: "/Disengage/"
 ---
 
 Allows you to stop the fight unless you are the character who is

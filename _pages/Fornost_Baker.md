@@ -1,6 +1,5 @@
 ---
 title: "Fornost Baker"
-permalink: "/Fornost_Baker/"
 ---
 
 The **baker** tends to the **Bakery** in [Fornost](Fornost "wikilink").

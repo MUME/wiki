@@ -1,6 +1,5 @@
 ---
 title: "Tangly shrub"
-permalink: "/Tangly_shrub/"
 ---
 
 **Tangly shrubs** are aggressive, [evil](alignment "wikilink")

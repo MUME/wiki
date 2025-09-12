@@ -1,6 +1,5 @@
 ---
 title: "Engraved warhammer"
-permalink: "/Engraved_warhammer/"
 ---
 
 It is an engraved warhammer. This pounding weapon can be wielded

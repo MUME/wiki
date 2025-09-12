@@ -1,6 +1,5 @@
 ---
 title: "Harlond Warrior Guild"
-permalink: "/Harlond_Warrior_Guild/"
 ---
 
 An **elven knight** teaches [warrior](warrior "wikilink")

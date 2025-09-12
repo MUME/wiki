@@ -1,6 +1,5 @@
 ---
 title: "Juicy plum"
-permalink: "/Juicy_plum/"
 ---
 
 \> **look plum**

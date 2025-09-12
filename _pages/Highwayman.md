@@ -1,6 +1,5 @@
 ---
 title: "Highwayman"
-permalink: "/Highwayman/"
 ---
 
 **Highwaymen** are level ? [mobiles](mobile "wikilink") who accompany

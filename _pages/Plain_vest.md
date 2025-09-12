@@ -1,6 +1,5 @@
 ---
 title: "Plain vest"
-permalink: "/Plain_vest/"
 ---
 
 \> **look vest**

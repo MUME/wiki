@@ -1,6 +1,5 @@
 ---
 title: "Runic book"
-permalink: "/Runic_book/"
 ---
 
 \> **look book**

@@ -1,6 +1,5 @@
 ---
 title: "Bowl of salad"
-permalink: "/Bowl_of_salad/"
 ---
 
 \> **look salad**

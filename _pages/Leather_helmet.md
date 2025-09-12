@@ -1,6 +1,5 @@
 ---
 title: "Leather helmet"
-permalink: "/Leather_helmet/"
 ---
 
 \> **look helmet**

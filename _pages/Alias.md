@@ -1,6 +1,5 @@
 ---
 title: "Alias"
-permalink: "/Alias/"
 ---
 
 This command allows you to define abbreviations for long commands

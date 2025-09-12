@@ -1,6 +1,5 @@
 ---
 title: "Feet"
-permalink: "/Feet/"
 ---
 
 # Metal

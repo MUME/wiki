@@ -1,6 +1,5 @@
 ---
 title: "Drop"
-permalink: "/Drop/"
 ---
 
 If you lose interest in a carried item, you can drop it on the ground.

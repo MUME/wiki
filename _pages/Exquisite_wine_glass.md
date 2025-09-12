@@ -1,6 +1,5 @@
 ---
 title: "Exquisite wine glass"
-permalink: "/Exquisite_wine_glass/"
 ---
 
 \> **look at glass**

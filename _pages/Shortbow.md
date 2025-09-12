@@ -1,6 +1,5 @@
 ---
 title: "Shortbow"
-permalink: "/Shortbow/"
 ---
 
 Its accuracy is poor, its speed very fast, and it causes little damage.

@@ -1,6 +1,5 @@
 ---
 title: "Weathertop"
-permalink: "/Weathertop/"
 ---
 
 <nowiki>g

@@ -1,6 +1,5 @@
 ---
 title: "FAQ5"
-permalink: "/FAQ5/"
 ---
 
 Q: "What is a bulletin board?" A: A bulletin board is an object that can

@@ -1,6 +1,5 @@
 ---
 title: "Rivendell Ranger Guild"
-permalink: "/Rivendell_Ranger_Guild/"
 ---
 
 A **ranger** teaches [ranger](general "wikilink")

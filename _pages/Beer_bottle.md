@@ -1,6 +1,5 @@
 ---
 title: "Beer bottle"
-permalink: "/Beer_bottle/"
 ---
 
 The **beer bottle** is a [drink](drink "wikilink")

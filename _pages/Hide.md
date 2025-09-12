@@ -1,6 +1,5 @@
 ---
 title: "Hide"
-permalink: "/Hide/"
 ---
 
 ## Hide

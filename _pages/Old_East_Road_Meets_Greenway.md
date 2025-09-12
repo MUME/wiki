@@ -1,6 +1,5 @@
 ---
 title: "Old East Road Meets Greenway"
-permalink: "/Old_East_Road_Meets_Greenway/"
 ---
 
 This is an intersection of roads to the west of [Bree](Bree "wikilink").

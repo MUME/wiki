@@ -1,6 +1,5 @@
 ---
 title: "Spicy Swordfish House"
-permalink: "/Spicy_Swordfish_House/"
 ---
 
 A **retired fisherman** sells food and drinks at the **Spicy Swordfish

@@ -1,6 +1,5 @@
 ---
 title: "Black scroll"
-permalink: "/Black_scroll/"
 ---
 
 ## Statistics

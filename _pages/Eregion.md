@@ -1,6 +1,5 @@
 ---
 title: "Eregion"
-permalink: "/Eregion/"
 ---
 
 Located East of [Tharbad](Tharbad "wikilink"), north of

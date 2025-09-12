@@ -1,6 +1,5 @@
 ---
 title: "Fine rigid leather sleeves"
-permalink: "/Fine_rigid_leather_sleeves/"
 ---
 
 \> **examine sleeves** You see nothing special...

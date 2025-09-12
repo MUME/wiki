@@ -1,6 +1,5 @@
 ---
 title: "Ingrove Ranger Guild"
-permalink: "/Ingrove_Ranger_Guild/"
 ---
 
 **Ilyne** teaches [ranger](ranger "wikilink") [skills](skill "wikilink")

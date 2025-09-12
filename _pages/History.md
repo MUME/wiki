@@ -1,6 +1,5 @@
 ---
 title: "History"
-permalink: "/History/"
 ---
 
 # A Short History of MUME

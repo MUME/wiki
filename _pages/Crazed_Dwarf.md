@@ -1,6 +1,5 @@
 ---
 title: "Crazed Dwarf"
-permalink: "/Crazed_Dwarf/"
 ---
 
 His beard has many years growth and is matted by constant drooling. His

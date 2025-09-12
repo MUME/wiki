@@ -1,6 +1,5 @@
 ---
 title: "Gildor the blacksmith"
-permalink: "/Gildor_the_blacksmith/"
 ---
 
 **Gildor the blacksmith** tends to **Gildor's Fine Weapons and Armour**

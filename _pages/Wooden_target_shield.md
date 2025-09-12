@@ -1,6 +1,5 @@
 ---
 title: "Wooden target shield"
-permalink: "/Wooden_target_shield/"
 ---
 
 \> **look shield**

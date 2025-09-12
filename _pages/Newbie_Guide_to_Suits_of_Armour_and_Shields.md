@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide to Suits of Armour and Shields"
-permalink: "/Newbie_Guide_to_Suits_of_Armour_and_Shields/"
 ---
 
 Newbie Guide to Suits of Armour and Shields

@@ -1,6 +1,5 @@
 ---
 title: "Climb"
-permalink: "/Climb/"
 ---
 
 ## CLIMB

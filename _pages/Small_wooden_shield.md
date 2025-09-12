@@ -1,6 +1,5 @@
 ---
 title: "Small wooden shield"
-permalink: "/Small_wooden_shield/"
 ---
 
 \> **look shield**

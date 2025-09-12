@@ -1,6 +1,5 @@
 ---
 title: "Plain silken sash"
-permalink: "/Plain_silken_sash/"
 ---
 
 \> **look sash**

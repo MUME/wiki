@@ -1,6 +1,5 @@
 ---
 title: "Elven names"
-permalink: "/Elven_names/"
 ---
 
 ## Character names

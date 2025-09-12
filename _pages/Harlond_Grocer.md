@@ -1,6 +1,5 @@
 ---
 title: "Harlond Grocer"
-permalink: "/Harlond_Grocer/"
 ---
 
 The **elven grocer** tends to the **Grocery** in

@@ -1,6 +1,5 @@
 ---
 title: "Fornost Ranger Guild"
-permalink: "/Fornost_Ranger_Guild/"
 ---
 
 A **ranger** teaches at the **Ranger's Guild** in

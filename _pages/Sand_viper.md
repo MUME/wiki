@@ -1,6 +1,5 @@
 ---
 title: "Sand viper"
-permalink: "/Sand_viper/"
 ---
 
 **Sand vipers** are aggressive [level](level "wikilink") \<10

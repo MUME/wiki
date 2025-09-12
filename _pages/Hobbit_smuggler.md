@@ -1,6 +1,5 @@
 ---
 title: "Hobbit smuggler"
-permalink: "/Hobbit_smuggler/"
 ---
 
 **Hobbit smugglers** are passive [level](level "wikilink") 5

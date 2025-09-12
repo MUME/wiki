@@ -1,6 +1,5 @@
 ---
 title: "Regeneration"
-permalink: "/Regeneration/"
 ---
 
 The rate of which your character regenerates hitpoints, mana and

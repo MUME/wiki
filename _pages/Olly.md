@@ -1,6 +1,5 @@
 ---
 title: "Olly"
-permalink: "/Olly/"
 ---
 
 **Olly** is the owner of Olly's Tavern in [Fornost](Fornost "wikilink").

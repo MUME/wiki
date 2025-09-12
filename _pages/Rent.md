@@ -1,6 +1,5 @@
 ---
 title: "Rent"
-permalink: "/Rent/"
 ---
 
 For use in inns. The command '[Offer](Offer "wikilink")' will make the

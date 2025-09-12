@@ -1,6 +1,5 @@
 ---
 title: "Harlond Cleric Guild"
-permalink: "/Harlond_Cleric_Guild/"
 ---
 
 **Filatior** teaches at the **Small Temple** in

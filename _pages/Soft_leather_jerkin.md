@@ -1,6 +1,5 @@
 ---
 title: "Soft leather jerkin"
-permalink: "/Soft_leather_jerkin/"
 ---
 
 \> **look jerkin**

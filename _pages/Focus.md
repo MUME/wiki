@@ -1,6 +1,5 @@
 ---
 title: "Focus"
-permalink: "/Focus/"
 ---
 
 A focus is an object imbued with powerful magic and bound to its owner.

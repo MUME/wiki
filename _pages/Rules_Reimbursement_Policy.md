@@ -1,6 +1,5 @@
 ---
 title: "Rules Reimbursement Policy"
-permalink: "/Rules_Reimbursement_Policy/"
 ---
 
 Here are some examples of former policies as guidelines when you want

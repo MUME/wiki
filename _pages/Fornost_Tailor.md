@@ -1,6 +1,5 @@
 ---
 title: "Fornost Tailor"
-permalink: "/Fornost_Tailor/"
 ---
 
 The **old tailor** tends to the **Tailor's Shop** in

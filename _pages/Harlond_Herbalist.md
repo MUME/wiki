@@ -1,6 +1,5 @@
 ---
 title: "Harlond Herbalist"
-permalink: "/Harlond_Herbalist/"
 ---
 
 The **elven herbalist** tends to the **Herbalist** shop in

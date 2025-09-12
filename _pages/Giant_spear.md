@@ -1,6 +1,5 @@
 ---
 title: "Giant spear"
-permalink: "/Giant_spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is good while

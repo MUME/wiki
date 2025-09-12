@@ -1,5 +1,4 @@
 ---
 title: "Shaman"
-permalink: "/Shaman/"
 ---
 

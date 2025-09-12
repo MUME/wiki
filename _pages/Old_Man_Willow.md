@@ -1,6 +1,5 @@
 ---
 title: "Old Man Willow"
-permalink: "/Old_Man_Willow/"
 ---
 
 Old Man Willow is a tree-beast, either an ent or a huorn, whose heart

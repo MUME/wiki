@@ -1,6 +1,5 @@
 ---
 title: "Strength Spell"
-permalink: "/Strength_Spell/"
 ---
 
 A cleric spell giving the target heightened

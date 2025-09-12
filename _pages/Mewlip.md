@@ -1,6 +1,5 @@
 ---
 title: "Mewlip"
-permalink: "/Mewlip/"
 ---
 
 Mewlips are minor spirits found old fens and swamps.

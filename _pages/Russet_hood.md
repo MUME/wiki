@@ -1,6 +1,5 @@
 ---
 title: "Russet hood"
-permalink: "/Russet_hood/"
 ---
 
 \> **examine hood** A well-made hood in a reddish-brown colour.

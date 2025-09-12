@@ -1,6 +1,5 @@
 ---
 title: "Reroll"
-permalink: "/Reroll/"
 ---
 
 Policy for Rerolls:

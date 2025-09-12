@@ -1,6 +1,5 @@
 ---
 title: "Wild dog"
-permalink: "/Wild_dog/"
 ---
 
 \> A wild dog bares his yellow fangs at you.

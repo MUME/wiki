@@ -1,6 +1,5 @@
 ---
 title: "Istar Quest"
-permalink: "/Istar_Quest/"
 ---
 
 Any player above the level of 20, and with a sufficiently high

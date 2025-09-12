@@ -1,6 +1,5 @@
 ---
 title: "Identify"
-permalink: "/Identify/"
 ---
 
 <nowiki>g Syntax : cast 'identify' // Type : Miscellaneous Accumulative:

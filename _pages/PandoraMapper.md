@@ -1,6 +1,5 @@
 ---
 title: "PandoraMapper"
-permalink: "/PandoraMapper/"
 ---
 
 ## Information for Newcomers

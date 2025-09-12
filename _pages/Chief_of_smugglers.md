@@ -1,6 +1,5 @@
 ---
 title: "Chief of smugglers"
-permalink: "/Chief_of_smugglers/"
 ---
 
 The **chief of smugglers** is an aggressive level ?

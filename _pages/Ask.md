@@ -1,6 +1,5 @@
 ---
 title: "Ask"
-permalink: "/Ask/"
 ---
 
 If you consider communicating with other beings, you might be understood

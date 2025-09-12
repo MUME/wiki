@@ -1,6 +1,5 @@
 ---
 title: "Backfire"
-permalink: "/Backfire/"
 ---
 
 A backfire will occur when you'll highly fail to cast a spell, the

@@ -1,6 +1,5 @@
 ---
 title: "Leave"
-permalink: "/Leave/"
 ---
 
 If you feel claustrophobic, typing 'leave' will make you use the nearest

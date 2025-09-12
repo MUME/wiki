@@ -1,6 +1,5 @@
 ---
 title: "Dwarven dye-maker"
-permalink: "/Dwarven_dye-maker/"
 ---
 
 The **dwarven dye-maker** is a [level](level "wikilink") ~11-12

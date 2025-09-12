@@ -1,6 +1,5 @@
 ---
 title: "File:Gimli.jpg"
-permalink: "/File:Gimli.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

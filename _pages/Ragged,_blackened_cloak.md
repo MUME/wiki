@@ -1,6 +1,5 @@
 ---
 title: "Ragged, blackened cloak"
-permalink: "/Ragged,_blackened_cloak/"
 ---
 
 \> **look cloak**

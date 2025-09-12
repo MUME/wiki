@@ -1,6 +1,5 @@
 ---
 title: "Category:Navigation Templates"
-permalink: "/Category:Navigation_Templates/"
 ---
 
 These templates are in charge of the Navigational Boxes. Do not edit

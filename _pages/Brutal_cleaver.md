@@ -1,6 +1,5 @@
 ---
 title: "Brutal cleaver"
-permalink: "/Brutal_cleaver/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is awful while

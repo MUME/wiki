@@ -1,6 +1,5 @@
 ---
 title: "Drag"
-permalink: "/Drag/"
 ---
 
 Syntax: 'drag corpse'

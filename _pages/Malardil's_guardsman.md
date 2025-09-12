@@ -1,6 +1,5 @@
 ---
 title: "Malardil's guardsman"
-permalink: "/Malardil's_guardsman/"
 ---
 
 **Malardil's guardsmen** are aggressive [level](level "wikilink") ?

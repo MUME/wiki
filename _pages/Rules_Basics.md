@@ -1,6 +1,5 @@
 ---
 title: "Rules Basics"
-permalink: "/Rules_Basics/"
 ---
 
 Some of the illegal things on MUME:

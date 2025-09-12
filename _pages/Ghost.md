@@ -1,6 +1,5 @@
 ---
 title: "Ghost"
-permalink: "/Ghost/"
 ---
 
 \> A moaning ghost advances towards you, shimmering with a pale light.

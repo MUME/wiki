@@ -1,6 +1,5 @@
 ---
 title: "Boards"
-permalink: "/Boards/"
 ---
 
 There are many boards about Arda. Each board has a different purpose, as

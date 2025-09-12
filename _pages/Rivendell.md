@@ -1,6 +1,5 @@
 ---
 title: "Rivendell"
-permalink: "/Rivendell/"
 ---
 
 ## Rivendell

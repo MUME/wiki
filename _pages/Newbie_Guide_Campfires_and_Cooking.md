@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Campfires and Cooking"
-permalink: "/Newbie_Guide_Campfires_and_Cooking/"
 ---
 
 **Guide Camping and Campfires and Cooking in MUME**

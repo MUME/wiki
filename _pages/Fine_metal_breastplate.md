@@ -1,6 +1,5 @@
 ---
 title: "Fine metal breastplate"
-permalink: "/Fine_metal_breastplate/"
 ---
 
 \> **look breastplate**

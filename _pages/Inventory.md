@@ -1,6 +1,5 @@
 ---
 title: "Inventory"
-permalink: "/Inventory/"
 ---
 
 This command is used to see what items you have in your direct

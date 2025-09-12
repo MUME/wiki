@@ -1,6 +1,5 @@
 ---
 title: "Hewer"
-permalink: "/Hewer/"
 ---
 
 1.  redirect [The great black

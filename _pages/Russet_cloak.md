@@ -1,6 +1,5 @@
 ---
 title: "Russet cloak"
-permalink: "/Russet_cloak/"
 ---
 
 ## Statistics

@@ -1,6 +1,5 @@
 ---
 title: "Huge, frothing bear"
-permalink: "/Huge,_frothing_bear/"
 ---
 
 **Huge, frothing bears** are aggressive [level](level "wikilink") ~14

@@ -1,6 +1,5 @@
 ---
 title: "Equipment Format"
-permalink: "/Equipment_Format/"
 ---
 
 To get your equipment in a custom order, you write \`equipment

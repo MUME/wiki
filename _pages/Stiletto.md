@@ -1,6 +1,5 @@
 ---
 title: "Stiletto"
-permalink: "/Stiletto/"
 ---
 
 \> **look stiletto**

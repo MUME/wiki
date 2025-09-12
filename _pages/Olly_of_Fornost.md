@@ -1,6 +1,5 @@
 ---
 title: "Olly of Fornost"
-permalink: "/Olly_of_Fornost/"
 ---
 
 ## About Olly

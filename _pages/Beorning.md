@@ -1,6 +1,5 @@
 ---
 title: "Beorning"
-permalink: "/Beorning/"
 ---
 
 **Beornings**, also known as **Bears**, are a race of

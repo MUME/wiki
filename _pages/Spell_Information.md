@@ -1,6 +1,5 @@
 ---
 title: "Spell Information"
-permalink: "/Spell_Information/"
 ---
 
 If you want a list of all spells, visit this [Spell

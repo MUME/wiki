@@ -1,6 +1,5 @@
 ---
 title: "Block Door"
-permalink: "/Block_Door/"
 ---
 
 **Block [Door](Door "wikilink")** is a level 9 [mage](mage "wikilink")

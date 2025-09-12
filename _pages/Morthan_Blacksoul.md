@@ -1,6 +1,5 @@
 ---
 title: "Morthan Blacksoul"
-permalink: "/Morthan_Blacksoul/"
 ---
 
 **Morthan Blacksoul** is a bandit who has set up an obstruction on the

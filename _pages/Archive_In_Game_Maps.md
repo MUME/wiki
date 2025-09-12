@@ -1,6 +1,5 @@
 ---
 title: "Archive In Game Maps"
-permalink: "/Archive_In_Game_Maps/"
 ---
 
 Archive of In Game MUME Maps

@@ -1,6 +1,5 @@
 ---
 title: "GBS"
-permalink: "/GBS/"
 ---
 
 1.  redirect [The great black

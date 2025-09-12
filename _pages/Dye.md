@@ -1,6 +1,5 @@
 ---
 title: "Dye"
-permalink: "/Dye/"
 ---
 
 Use these commands in shops. 'Buy' can also be used in

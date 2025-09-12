@@ -1,6 +1,5 @@
 ---
 title: "Recite"
-permalink: "/Recite/"
 ---
 
 Syntax: **recite** <scroll> \[recipient\]

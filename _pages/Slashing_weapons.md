@@ -1,6 +1,5 @@
 ---
 title: "Slashing weapons"
-permalink: "/Slashing_weapons/"
 ---
 
 ## Slashing

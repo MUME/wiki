@@ -1,6 +1,5 @@
 ---
 title: "Herb"
-permalink: "/Herb/"
 ---
 
 ## Herbs

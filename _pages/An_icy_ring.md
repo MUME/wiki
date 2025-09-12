@@ -1,6 +1,5 @@
 ---
 title: "An icy ring"
-permalink: "/An_icy_ring/"
 ---
 
 !# CW\>**examine icy**

@@ -1,6 +1,5 @@
 ---
 title: "Rescue"
-permalink: "/Rescue/"
 ---
 
 ## Rescue

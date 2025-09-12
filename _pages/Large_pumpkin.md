@@ -1,6 +1,5 @@
 ---
 title: "Large pumpkin"
-permalink: "/Large_pumpkin/"
 ---
 
 \> **look pumpkin** This is a huge orange pumpkin, covered with vertical

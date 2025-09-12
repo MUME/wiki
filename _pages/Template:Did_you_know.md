@@ -1,6 +1,5 @@
 ---
 title: "Template:Did you know"
-permalink: "/Template:Did_you_know/"
 ---
 
 <noinclude>

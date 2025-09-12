@@ -1,6 +1,5 @@
 ---
 title: "Bilbo Baggins"
-permalink: "/Bilbo_Baggins/"
 ---
 
 Bilbo Baggins was a Hobbit who lived in The Shire during the final years

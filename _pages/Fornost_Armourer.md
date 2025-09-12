@@ -1,6 +1,5 @@
 ---
 title: "Fornost Armourer"
-permalink: "/Fornost_Armourer/"
 ---
 
 \>**examine armourer**

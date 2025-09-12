@@ -1,6 +1,5 @@
 ---
 title: "Rules Spies"
-permalink: "/Rules_Spies/"
 ---
 
 It is unacceptable to use a "throw-away" character to scout out the

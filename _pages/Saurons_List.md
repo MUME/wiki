@@ -1,6 +1,5 @@
 ---
 title: "Saurons List"
-permalink: "/Saurons_List/"
 ---
 
 The Dark Lord

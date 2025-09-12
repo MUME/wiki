@@ -1,6 +1,5 @@
 ---
 title: "Slashing weapon"
-permalink: "/Slashing_weapon/"
 ---
 
 It is a falchion (satisfactory, new). This slashing weapon can be

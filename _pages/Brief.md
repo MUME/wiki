@@ -1,6 +1,5 @@
 ---
 title: "Brief"
-permalink: "/Brief/"
 ---
 
 Usage: brief \[on\|off\]

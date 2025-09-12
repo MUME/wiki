@@ -1,6 +1,5 @@
 ---
 title: "Great helm"
-permalink: "/Great_helm/"
 ---
 
 \> **look helm**

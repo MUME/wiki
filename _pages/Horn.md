@@ -1,6 +1,5 @@
 ---
 title: "Horn"
-permalink: "/Horn/"
 ---
 
 \> **look horn**

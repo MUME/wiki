@@ -1,6 +1,5 @@
 ---
 title: "Large metal shield"
-permalink: "/Large_metal_shield/"
 ---
 
 \> **look shield**

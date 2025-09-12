@@ -1,6 +1,5 @@
 ---
 title: "Sting"
-permalink: "/Sting/"
 ---
 
 1.  redirect [the Elven shortsword with a runic

@@ -1,6 +1,5 @@
 ---
 title: "Kill"
-permalink: "/Kill/"
 ---
 
 This is a good way to start a fight. If you are fighting more than one

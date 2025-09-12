@@ -1,6 +1,5 @@
 ---
 title: "Oil"
-permalink: "/Oil/"
 ---
 
 **Oil** is used as fuel for [lanterns](lantern "wikilink"). Oil is

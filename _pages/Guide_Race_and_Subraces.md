@@ -1,6 +1,5 @@
 ---
 title: "Guide Race and Subraces"
-permalink: "/Guide_Race_and_Subraces/"
 ---
 
 Guide Race and Subraces

@@ -1,6 +1,5 @@
 ---
 title: "File:Bear roar.jpg"
-permalink: "/File:Bear_roar.jpg/"
 ---
 
 Source: Dave Hurteau of Field & Stream magazine. [Photo

@@ -1,6 +1,5 @@
 ---
 title: "Rivendell Mage Guild"
-permalink: "/Rivendell_Mage_Guild/"
 ---
 
 A **grey-haired elf** teaches [mage](mage "wikilink")

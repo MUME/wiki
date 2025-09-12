@@ -1,6 +1,5 @@
 ---
 title: "Engraved broadsword"
-permalink: "/Engraved_broadsword/"
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

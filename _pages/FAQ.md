@@ -1,6 +1,5 @@
 ---
 title: "FAQ"
-permalink: "/FAQ/"
 ---
 
 Command **FAQ** allows you to read the FAQ [board](board "wikilink")

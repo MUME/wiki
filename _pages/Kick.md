@@ -1,6 +1,5 @@
 ---
 title: "Kick"
-permalink: "/Kick/"
 ---
 
 ## Kick

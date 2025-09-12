@@ -1,6 +1,5 @@
 ---
 title: "Pint"
-permalink: "/Pint/"
 ---
 
 \> **look at pint**

@@ -1,6 +1,5 @@
 ---
 title: "Fill"
-permalink: "/Fill/"
 ---
 
 **Fill** is used to fill your lantern with [oil](oil "wikilink") from a

@@ -1,6 +1,5 @@
 ---
 title: "Seed-cake"
-permalink: "/Seed-cake/"
 ---
 
 \> **look cake**

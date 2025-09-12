@@ -1,6 +1,5 @@
 ---
 title: "Sense Life"
-permalink: "/Sense_Life/"
 ---
 
 **Sense life** is a level 7 [cleric](cleric "wikilink")

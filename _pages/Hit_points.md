@@ -1,6 +1,5 @@
 ---
 title: "Hit points"
-permalink: "/Hit_points/"
 ---
 
 Hit points (hps) is a way of representing how much physical damage your

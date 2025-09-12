@@ -1,6 +1,5 @@
 ---
 title: "Twisted rock fragment"
-permalink: "/Twisted_rock_fragment/"
 ---
 
 ## Statistics

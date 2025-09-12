@@ -1,6 +1,5 @@
 ---
 title: "Sneak"
-permalink: "/Sneak/"
 ---
 
 ## Sneak

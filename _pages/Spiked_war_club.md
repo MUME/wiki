@@ -1,6 +1,5 @@
 ---
 title: "Spiked war club"
-permalink: "/Spiked_war_club/"
 ---
 
 It is a spiked war club. This crushing weapon can be wielded one-handed.

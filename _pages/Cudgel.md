@@ -1,6 +1,5 @@
 ---
 title: "Cudgel"
-permalink: "/Cudgel/"
 ---
 
 \> **look cudgel**

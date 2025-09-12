@@ -1,6 +1,5 @@
 ---
 title: "Brown snake"
-permalink: "/Brown_snake/"
 ---
 
 **Brown snakes** are aggressive, evil [level](level "wikilink") \<10

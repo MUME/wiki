@@ -1,6 +1,5 @@
 ---
 title: "Gem-inlaid knife"
-permalink: "/Gem-inlaid_knife/"
 ---
 
 \> **look gem-inlaid**

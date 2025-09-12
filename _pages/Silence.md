@@ -1,6 +1,5 @@
 ---
 title: "Silence"
-permalink: "/Silence/"
 ---
 
 <nowiki>g Syntax : cast 'silence' Type : Offensive, mental Accumulative:

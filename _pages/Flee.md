@@ -1,6 +1,5 @@
 ---
 title: "Flee"
-permalink: "/Flee/"
 ---
 
 Usage: flee \[on\|off\|yes\|no\]

@@ -1,6 +1,5 @@
 ---
 title: "Legend Home Equipment"
-permalink: "/Legend_Home_Equipment/"
 ---
 
 If you would like to have certain items of equipment loaded into your

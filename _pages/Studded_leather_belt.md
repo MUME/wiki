@@ -1,6 +1,5 @@
 ---
 title: "Studded leather belt"
-permalink: "/Studded_leather_belt/"
 ---
 
 \> **look belt**

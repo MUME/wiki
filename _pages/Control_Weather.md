@@ -1,6 +1,5 @@
 ---
 title: "Control Weather"
-permalink: "/Control_Weather/"
 ---
 
 <nowiki>g Syntax : cast 'control weather' Type : Miscellaneous

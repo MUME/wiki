@@ -1,6 +1,5 @@
 ---
 title: "Protect"
-permalink: "/Protect/"
 ---
 
 The \`protect' command is used to select a number of people (players or

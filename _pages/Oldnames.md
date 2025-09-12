@@ -1,6 +1,5 @@
 ---
 title: "Oldnames"
-permalink: "/Oldnames/"
 ---
 
 Recent Namechanges of persons of some particular interest: <nowiki>g Old

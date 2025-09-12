@@ -1,6 +1,5 @@
 ---
 title: "Rapier"
-permalink: "/Rapier/"
 ---
 
 \> **look rapier**

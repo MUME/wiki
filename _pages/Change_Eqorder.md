@@ -1,6 +1,5 @@
 ---
 title: "Change Eqorder"
-permalink: "/Change_Eqorder/"
 ---
 
 To set your preferred order of getting your or others' equipment

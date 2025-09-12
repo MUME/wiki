@@ -1,6 +1,5 @@
 ---
 title: "Energy Drain"
-permalink: "/Energy_Drain/"
 ---
 
 <nowiki>g Syntax : cast 'energy drain' Type : Offensive, special

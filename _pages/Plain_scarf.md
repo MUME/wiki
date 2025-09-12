@@ -1,6 +1,5 @@
 ---
 title: "Plain scarf"
-permalink: "/Plain_scarf/"
 ---
 
 \> **look scarf**

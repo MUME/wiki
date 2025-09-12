@@ -1,6 +1,5 @@
 ---
 title: "Barbed fang"
-permalink: "/Barbed_fang/"
 ---
 
 l fang; This wicked weapon is essentially a long and slender knife whose

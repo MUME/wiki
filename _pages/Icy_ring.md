@@ -1,6 +1,5 @@
 ---
 title: "Icy ring"
-permalink: "/Icy_ring/"
 ---
 
 ## Statistics

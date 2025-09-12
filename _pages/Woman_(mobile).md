@@ -1,6 +1,5 @@
 ---
 title: "Woman (mobile)"
-permalink: "/Woman_(mobile)/"
 ---
 
 **Women** are low-level [mobiles](mobile "wikilink") who wander around

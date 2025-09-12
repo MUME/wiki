@@ -1,6 +1,5 @@
 ---
 title: "Hang"
-permalink: "/Hang/"
 ---
 
 Syntax: hang corpse

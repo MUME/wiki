@@ -1,6 +1,5 @@
 ---
 title: "Change Pager"
-permalink: "/Change_Pager/"
 ---
 
 This setting affects how display from the "view" command is done.

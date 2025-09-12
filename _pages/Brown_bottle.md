@@ -1,6 +1,5 @@
 ---
 title: "Brown bottle"
-permalink: "/Brown_bottle/"
 ---
 
 \> **look bottle**

@@ -1,6 +1,5 @@
 ---
 title: "Fornost Herbalist"
-permalink: "/Fornost_Herbalist/"
 ---
 
 \>**examine herbalist**

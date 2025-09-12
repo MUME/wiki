@@ -1,6 +1,5 @@
 ---
 title: "Mapper"
-permalink: "/Mapper/"
 ---
 
 ## External Links

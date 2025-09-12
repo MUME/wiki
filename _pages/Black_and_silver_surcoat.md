@@ -1,6 +1,5 @@
 ---
 title: "Black and silver surcoat"
-permalink: "/Black_and_silver_surcoat/"
 ---
 
 The **black and silver surcoat** can be worn as a

@@ -1,6 +1,5 @@
 ---
 title: "Examine"
-permalink: "/Examine/"
 ---
 
 A command that may give some extra details about the object or creature.

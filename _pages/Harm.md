@@ -1,6 +1,5 @@
 ---
 title: "Harm"
-permalink: "/Harm/"
 ---
 
 **Harm** is a level 15 [cleric](cleric "wikilink")

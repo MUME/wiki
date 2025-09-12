@@ -1,6 +1,5 @@
 ---
 title: "Mace"
-permalink: "/Mace/"
 ---
 
 \> **look mace**

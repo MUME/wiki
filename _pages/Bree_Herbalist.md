@@ -1,6 +1,5 @@
 ---
 title: "Bree Herbalist"
-permalink: "/Bree_Herbalist/"
 ---
 
 An **elderly herbalist** tends to the **Herb Shop** in

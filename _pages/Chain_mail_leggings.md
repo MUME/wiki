@@ -1,6 +1,5 @@
 ---
 title: "Chain mail leggings"
-permalink: "/Chain_mail_leggings/"
 ---
 
 \> **look leggings**

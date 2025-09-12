@@ -1,6 +1,5 @@
 ---
 title: "Fangorn"
-permalink: "/Fangorn/"
 ---
 
 Fangorn is the home of the [Ents](Ent "wikilink"). It is close by

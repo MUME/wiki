@@ -1,6 +1,5 @@
 ---
 title: "Delayed"
-permalink: "/Delayed/"
 ---
 
 Certain commands need time to perform, such as spellcasting. This pause

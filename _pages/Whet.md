@@ -1,6 +1,5 @@
 ---
 title: "Whet"
-permalink: "/Whet/"
 ---
 
 **Whetstones** are small hard stones used for sharpening your

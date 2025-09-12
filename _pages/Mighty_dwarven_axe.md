@@ -1,6 +1,5 @@
 ---
 title: "Mighty dwarven axe"
-permalink: "/Mighty_dwarven_axe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is good while

@@ -1,6 +1,5 @@
 ---
 title: "!"
-permalink: "/exclamation_mark/"
 ---
 
 The '<b>!</b>' command repeats the last command typed.

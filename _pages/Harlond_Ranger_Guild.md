@@ -1,6 +1,5 @@
 ---
 title: "Harlond Ranger Guild"
-permalink: "/Harlond_Ranger_Guild/"
 ---
 
 A **ranger** teaches [ranger](ranger "wikilink")

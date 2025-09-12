@@ -1,6 +1,5 @@
 ---
 title: "Rules Titles"
-permalink: "/Rules_Titles/"
 ---
 
 [Hero](Heroes "wikilink") and [legend](legends "wikilink") on MUME can

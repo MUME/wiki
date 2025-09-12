@@ -1,6 +1,5 @@
 ---
 title: "Ratty moneybag"
-permalink: "/Ratty_moneybag/"
 ---
 
 The **ratty moneybag** is an [item](item "wikilink") needed for the

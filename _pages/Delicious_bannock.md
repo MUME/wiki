@@ -1,6 +1,5 @@
 ---
 title: "Delicious bannock"
-permalink: "/Delicious_bannock/"
 ---
 
 \> **look bannock**

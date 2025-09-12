@@ -1,6 +1,5 @@
 ---
 title: "Grey wool hat"
-permalink: "/Grey_wool_hat/"
 ---
 
 \> **look hat**

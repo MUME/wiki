@@ -1,6 +1,5 @@
 ---
 title: "Double-headed axe"
-permalink: "/Double-headed_axe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is average while

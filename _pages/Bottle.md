@@ -1,6 +1,5 @@
 ---
 title: "Bottle"
-permalink: "/Bottle/"
 ---
 
 The **bottle** is a [drink](Food_%26_Drink#Drink "wikilink")

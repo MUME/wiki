@@ -1,6 +1,5 @@
 ---
 title: "File:Balrog.jpg"
-permalink: "/File:Balrog.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

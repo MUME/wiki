@@ -1,6 +1,5 @@
 ---
 title: "Sulien's ghost"
-permalink: "/Sulien's_ghost/"
 ---
 
 **Sulien's ghost** is a level ~7-8 [mobile](mobile "wikilink") found in

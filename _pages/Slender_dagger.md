@@ -1,6 +1,5 @@
 ---
 title: "Slender dagger"
-permalink: "/Slender_dagger/"
 ---
 
 This piercing weapon can be wielded one-handed. It is excellent while

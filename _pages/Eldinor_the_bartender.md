@@ -1,6 +1,5 @@
 ---
 title: "Eldinor the bartender"
-permalink: "/Eldinor_the_bartender/"
 ---
 
 **Eldinor** tends bar at the [Seagull Inn](Seagull_Inn "wikilink") in

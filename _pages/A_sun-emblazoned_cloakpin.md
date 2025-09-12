@@ -1,6 +1,5 @@
 ---
 title: "A sun-emblazoned cloakpin"
-permalink: "/A_sun-emblazoned_cloakpin/"
 ---
 
 1.  REDIRECT [Sun-emblazoned

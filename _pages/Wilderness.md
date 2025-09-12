@@ -1,6 +1,5 @@
 ---
 title: "Wilderness"
-permalink: "/Wilderness/"
 ---
 
 ## Wilderness

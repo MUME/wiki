@@ -1,6 +1,5 @@
 ---
 title: "Sombre runic book"
-permalink: "/Sombre_runic_book/"
 ---
 
 \> **look book**

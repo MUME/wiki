@@ -1,6 +1,5 @@
 ---
 title: "Ingrove Warrior Guild"
-permalink: "/Ingrove_Warrior_Guild/"
 ---
 
 **Tymen** teaches [warrior](warrior "wikilink")

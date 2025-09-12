@@ -1,6 +1,5 @@
 ---
 title: "Shaman Guide"
-permalink: "/Shaman_Guide/"
 ---
 
 Shaman Guide by Shaukr v0.9

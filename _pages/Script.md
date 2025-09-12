@@ -1,6 +1,5 @@
 ---
 title: "Script"
-permalink: "/Script/"
 ---
 
 # Powwow

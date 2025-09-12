@@ -1,6 +1,5 @@
 ---
 title: "Wolf fur vest"
-permalink: "/Wolf_fur_vest/"
 ---
 
 \> **look vest**

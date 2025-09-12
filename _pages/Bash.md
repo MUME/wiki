@@ -1,6 +1,5 @@
 ---
 title: "Bash"
-permalink: "/Bash/"
 ---
 
 ## Bash

@@ -1,6 +1,5 @@
 ---
 title: "Fine, soft leather jerkin"
-permalink: "/Fine,_soft_leather_jerkin/"
 ---
 
 \> **look jerkin** This tightly fitting jerkin is constructed from thick

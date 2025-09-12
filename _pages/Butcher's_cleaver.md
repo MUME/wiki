@@ -1,6 +1,5 @@
 ---
 title: "Butcher's cleaver"
-permalink: "/Butcher's_cleaver/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is awful while

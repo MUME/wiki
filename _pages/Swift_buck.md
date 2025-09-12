@@ -1,6 +1,5 @@
 ---
 title: "Swift buck"
-permalink: "/Swift_buck/"
 ---
 
 **Swift bucks** are passive level ? mobs, common in the area near [Blue

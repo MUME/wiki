@@ -1,6 +1,5 @@
 ---
 title: "Fornost"
-permalink: "/Fornost/"
 ---
 
 ## Fornost

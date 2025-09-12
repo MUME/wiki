@@ -1,6 +1,5 @@
 ---
 title: "Disease"
-permalink: "/Disease/"
 ---
 
 It is possible to become diseased on Mume, either with a sickness

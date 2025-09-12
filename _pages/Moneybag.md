@@ -1,6 +1,5 @@
 ---
 title: "Moneybag"
-permalink: "/Moneybag/"
 ---
 
 \> **look moneybag**

@@ -1,6 +1,5 @@
 ---
 title: "Shop commands"
-permalink: "/Shop_commands/"
 ---
 
 Use these **commands** in [shops](shop "wikilink"). 'Buy' can also be

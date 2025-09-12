@@ -1,6 +1,5 @@
 ---
 title: "Dales-pony"
-permalink: "/Dales-pony/"
 ---
 
 **Dales-ponies** are [level](level "wikilink") ~7

@@ -1,6 +1,5 @@
 ---
 title: "Ghost of Galerel"
-permalink: "/Ghost_of_Galerel/"
 ---
 
 The **ghost of Galerel** is a spirit inhabiting the ruins of his former

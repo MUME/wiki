@@ -1,6 +1,5 @@
 ---
 title: "Editor"
-permalink: "/Editor/"
 ---
 
 When you want to write some text in MUME (for example a character

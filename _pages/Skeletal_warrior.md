@@ -1,6 +1,5 @@
 ---
 title: "Skeletal warrior"
-permalink: "/Skeletal_warrior/"
 ---
 
 **Skeletal warriors** are aggressive level ? mobs found in old

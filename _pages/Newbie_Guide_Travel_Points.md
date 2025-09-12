@@ -1,6 +1,5 @@
 ---
 title: "Newbie Guide Travel Points"
-permalink: "/Newbie_Guide_Travel_Points/"
 ---
 
 **Newbie Guide Travel Points**

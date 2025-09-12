@@ -1,6 +1,5 @@
 ---
 title: "Create Focus"
-permalink: "/Create_Focus/"
 ---
 
 Syntax : cast 'create focus' <object> Type : Special Accumulative: No

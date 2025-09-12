@@ -1,6 +1,5 @@
 ---
 title: "Piercing weapons"
-permalink: "/Piercing_weapons/"
 ---
 
 ## Piercing

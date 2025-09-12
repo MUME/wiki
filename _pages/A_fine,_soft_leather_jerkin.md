@@ -1,6 +1,5 @@
 ---
 title: "A fine, soft leather jerkin"
-permalink: "/A_fine,_soft_leather_jerkin/"
 ---
 
 1.  REDIRECT [Fine, soft leather

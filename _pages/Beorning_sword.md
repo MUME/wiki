@@ -1,6 +1,5 @@
 ---
 title: "Beorning sword"
-permalink: "/Beorning_sword/"
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

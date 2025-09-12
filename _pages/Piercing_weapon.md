@@ -1,6 +1,5 @@
 ---
 title: "Piercing weapon"
-permalink: "/Piercing_weapon/"
 ---
 
 **[Piercing weapons](Piercing_weapons "wikilink")** are one of the

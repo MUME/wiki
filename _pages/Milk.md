@@ -1,6 +1,5 @@
 ---
 title: "Milk"
-permalink: "/Milk/"
 ---
 
 Players who feel the farmer-blood in their veins can now exercise

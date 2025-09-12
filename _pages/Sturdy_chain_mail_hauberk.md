@@ -1,6 +1,5 @@
 ---
 title: "Sturdy chain mail hauberk"
-permalink: "/Sturdy_chain_mail_hauberk/"
 ---
 
 \> **examine hauberk**

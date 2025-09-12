@@ -1,6 +1,5 @@
 ---
 title: "Shield (spell)"
-permalink: "/Shield_(spell)/"
 ---
 
 **Shield** is a level 13 [mage](mage "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: "Pork-pie"
-permalink: "/Pork-pie/"
 ---
 
 \> **look pie** This pie is fully covered with dough, but exudes a

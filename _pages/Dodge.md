@@ -1,6 +1,5 @@
 ---
 title: "Dodge"
-permalink: "/Dodge/"
 ---
 
 ## Dodge

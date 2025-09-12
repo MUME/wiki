@@ -1,6 +1,5 @@
 ---
 title: "MUME VI"
-permalink: "/MUME_VI/"
 ---
 
 MUME VI, the best version so far, was launched in March 1996. It

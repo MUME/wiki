@@ -1,6 +1,5 @@
 ---
 title: "Mudller"
-permalink: "/Mudller/"
 ---
 
 `## ##   #   #     #           #   #  ###  #   # ####        ####  #   #  ###`

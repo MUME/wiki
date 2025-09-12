@@ -1,6 +1,5 @@
 ---
 title: "Black cape"
-permalink: "/Black_cape/"
 ---
 
 \> **examine cape**
