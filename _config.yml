@@ -2,6 +2,12 @@ title: MUME Wiki
 description: A community wiki and guide to surviving in Multi-Users in Middle-earth.
 theme: jekyll-theme-cayman
 
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "default"
+
 collections:
   pages:
     output: true
