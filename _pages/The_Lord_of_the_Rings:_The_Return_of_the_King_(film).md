@@ -1,5 +1,5 @@
 ---
-title: The Lord of the Rings: The Return of the King (film)
+title: "The Lord of the Rings: The Return of the King (film)"
 ---
 
 [Wikipedia

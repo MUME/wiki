@@ -9,7 +9,7 @@ nose of a wearer would all be left bare. It looks cheap but sturdy.
 It is a pot helm.
 It weighs four pounds.
 
-{{Equipment))
+{% include Equipment.md %}
 
 [Pot helm](Category:_Metal_equipment "wikilink") [Pot
 helm](Category:_Head_items "wikilink")
