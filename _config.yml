@@ -5,4 +5,3 @@ theme: jekyll-theme-cayman
 collections:
   pages:
     output: true
-    permalink: /:path/
