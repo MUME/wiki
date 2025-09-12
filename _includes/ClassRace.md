@@ -1,5 +1,5 @@
 ---
-title: "Template:ClassRace"
+title: "ClassRace"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

@@ -1,5 +1,5 @@
 ---
-title: "Template:Wiki news"
+title: "Wiki news"
 ---
 
 <noinclude>

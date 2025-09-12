@@ -1,5 +1,5 @@
 ---
-title: "Template:Place"
+title: "Place"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

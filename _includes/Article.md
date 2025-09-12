@@ -1,5 +1,5 @@
 ---
-title: "Template:Article"
+title: "Article"
 ---
 
 <noinclude>

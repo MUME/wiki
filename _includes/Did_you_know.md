@@ -1,5 +1,5 @@
 ---
-title: "Template:Did you know"
+title: "Did you know"
 ---
 
 <noinclude>

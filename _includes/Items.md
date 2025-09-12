@@ -1,5 +1,5 @@
 ---
-title: "Template:Items"
+title: "Items"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

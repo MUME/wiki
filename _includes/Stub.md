@@ -1,5 +1,5 @@
 ---
-title: "Template:Stub"
+title: "Stub"
 ---
 
 

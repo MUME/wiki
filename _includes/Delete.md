@@ -1,5 +1,5 @@
 ---
-title: "Template:Delete"
+title: "Delete"
 ---
 
 <div class="boilerplate metadata" id="stub" style="clear:both;">
