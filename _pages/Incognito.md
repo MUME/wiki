@@ -2,14 +2,24 @@
 title: Incognito
 ---
 
-This lets you hide your title, class, and level for other players and
-Maiar. Also, when somebody uses the 'who' or 'whois' commands they will
-not know if you are logged on or not.
+Use '[change](change "wikilink") <b>incognito</b>' to change various
+incognito settings.
 
-Example:
+To see your current settings:
 
-` > incog`
+` > change incog`
 
-See also: [Who](Who "wikilink"), [Whois](Whois "wikilink")
+To change a setting:
+
+` > change incog `<field>
+
+where <field> can be one of:
+
+` host     whether your host name will be visible`
+` level    whether your `[`level`](level "wikilink")` and `[`class`](class "wikilink")` will be visible in your `[`whois`](whois "wikilink")
+` where    whether you will show up on '`[`where`](where "wikilink")`'`
+` who      whether you will show up in '`[`who`](who "wikilink")`'`
+
+Your host will never be shown if you are incognito "who".
 
 [Category:Help files](Category:Help_files "wikilink")

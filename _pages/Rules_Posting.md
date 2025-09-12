@@ -51,7 +51,7 @@ section above.
 If in doubt about conflicting with one of these rules, you should ask
 someone if you are relatively new to posting and posting-etiquette.
 
-See also: [Board](Board "wikilink") , [Rules
+See also: [Board](Board "wikilink"), [Rules
 Incharacter](Rules_Incharacter "wikilink")
 
-[Category:Rules](Category:Rules "wikilink")
+[Posting](Category:Rules "wikilink")

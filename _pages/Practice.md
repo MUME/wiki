@@ -2,19 +2,21 @@
 title: Practice
 ---
 
-In order to progress in MUME, you will need to practice skills. When you
-begin the game you will be given a number of 'practice sessions,' which
-may be used in any [guild](guild "wikilink"). As you gain levels, you
+In order to progress in [MUME](MUME "wikilink"), you will need to
+**practice** skills. When you begin the game you will be given a number
+of 'practice sessions,' which may be used in any
+[guild](guild "wikilink"). As you gain [levels](level "wikilink"), you
 are also awarded more sessions.
 
-The results of practicing a skill will depend on your class. One session
-is always required to practice in any guild, however, the practices
-needed to further your knowledge of skills is slower when you practice
-skills not tied to your class. For example, if a thief with the same
-stats as a warrior practices the skill 'parry' once he will spend 1
-practice but gain around the half the knowledge the warrior would - to
-gain the same % knowledge as the warrior, the thief must spend 2
-practice sessions.
+The results of practicing a skill will depend on your
+[class](class "wikilink"). One session is always required to practice in
+any guild, however, the practices needed to further your knowledge of
+skills is slower when you practice skills not tied to your class. For
+example, if a [thief](thief "wikilink") with the same stats as a
+[warrior](warrior "wikilink") practices the skill
+'[parry](parry "wikilink")' once he will spend 1 practice but gain
+around the half the knowledge the warrior would - to gain the same %
+knowledge as the warrior, the thief must spend 2 practice sessions.
 
 Each time you practice a given skill, your efficiency (%) will increase.
 You can see your current efficiency as a percentage by using the
@@ -25,13 +27,15 @@ Some skills are easier or harder to learn than others in the same group
 (the % increase will be quicker or slower). The gain in knowledge in a
 skill per practice session is also related to your stats - note that
 only unmodified (natural) stats are considered for practicing purposes.
-That is, the stats unaffected by age, spells and equipment.
+That is, the stats unaffected by [age](age "wikilink"),
+[spells](spell "wikilink") and [equipment](equipment "wikilink").
 
-When you learn a skill outside your class, this skill will be less
-efficient than for a character of that class. For example, a level 20
-mage using backstab will be as proficient as a level 13 thief. Here is
-the correspondence table for effective levels used for skills: 1 -\>
-100%, 2 -\> 83%, 3 -\> 67%, 4 -\> 50%
+When you learn a skill outside your [class](class "wikilink"), this
+skill will be less efficient than for a character of that class. For
+example, a level 20 [mage](mage "wikilink") using
+[backstab](backstab "wikilink") will be as proficient as a level 13
+thief. Here is the correspondence table for effective levels used for
+skills: 1 -\> 100%, 2 -\> 83%, 3 -\> 67%, 4 -\> 50%
 
 Practice sessions are cumulative. If you don't want to learn any skills
 at a certain level, they will be carried on to the next level where you
@@ -55,7 +59,8 @@ days. "[retire](retire "wikilink")" will provide complete details.
 
 Examples:
 
-\> practice \> practice ride
+`> practice`
+`> practice `[`ride`](ride "wikilink")
 
-See also: [Guild](Guild "wikilink"), [Retire](Retire "wikilink"),
-[Train](Train "wikilink")
+[Category: Help files](Category:_Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

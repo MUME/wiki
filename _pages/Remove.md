@@ -2,24 +2,26 @@
 title: Remove
 ---
 
-To remove equipment you are wearing, wielding or holding.
+To **remove** [equipment](equipment "wikilink") you are
+[wearing](wear "wikilink"), [wielding](wield "wikilink") or
+[holding](hold "wikilink").
 
-Example: <nowiki>g
+Example:
 
-` > remove dagger`
-
-</pre>
+`> remove dagger`
 
 See also: [Wear](Wear "wikilink")
 
-Remove is also used to delete a message from a bulletin board. Unless
-you are one of the Ainur, you can only remove messages written by
+Remove is also used to delete a message from a bulletin
+[board](board "wikilink"). Unless you are one of the
+[Ainur](Ainur "wikilink"), you can only remove messages written by
 yourself.
 
-Example: <nowiki>g
+Example:
 
-` > remove 1046`
-
-</pre>
+`> remove 1046`
 
 See also: [Write](Write "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

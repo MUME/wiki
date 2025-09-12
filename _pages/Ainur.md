@@ -65,4 +65,4 @@ probably know the answer.
 There are Aratar without this precise job description too, but they have
 assignments and responsibilities (just not in plainsight for mortals).
 
-[Category:Ainur](Category:Ainur "wikilink")
+[Category:Help files](Category:Help_files "wikilink")

@@ -2,4 +2,4 @@
 title: Bejewelled oak staff
 ---
 
-1.  REDIRECT [Carved oak staff](Carved_oak_staff "wikilink")
+1.  REDIRECT [Carved oak staff#Focus](Carved_oak_staff#Focus "wikilink")

@@ -10,9 +10,11 @@ or narrating/singing "last narrate" just before a reboot.
 Thus: Let it be known that commands like '#100 close door' or '#12345
 sing' are NOT tolerated on Mume.
 
-Why? a) Unfair for those who have no client b) generates Spam and Mume
-CPU usage.
+Why?
+
+- Unfair for those who have no client
+- generates Spam and Mume CPU usage.
 
 Demotions will cool down the abusers.
 
-[Category:Rules](Category:Rules "wikilink")
+[Spam](Category:Rules "wikilink")

@@ -2,4 +2,4 @@
 title: Wake
 ---
 
-1.  Redict [Rest](Rest "wikilink")
+1.  Redirect [Sleep](Sleep "wikilink")

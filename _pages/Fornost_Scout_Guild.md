@@ -2,7 +2,8 @@
 title: Fornost Scout Guild
 ---
 
-A **veteran Dúnadan scout** teaches at the **Scout Training Room** in
+A **veteran Dúnadan scout** teaches [scout](thief "wikilink")
+[skills](skill "wikilink") at the **Scout Training Room** in
 [Fornost](Fornost "wikilink").
 
 `A Dúnadan stands here, dressed in the garb of a woodsman.`
@@ -14,10 +15,10 @@ A **veteran Dúnadan scout** teaches at the **Scout Training Room** in
 ## Skill list
 
 `         Sessions  Difficulty  `
-`dodge          14  Hard`
-`hide            6  Normal`
-`missile         9  Normal`
-`pick            1  Normal`
-`sneak          14  Hard`
+[`dodge`](dodge "wikilink")`          14  Hard`
+[`hide`](hide "wikilink")`            6  Normal`
+[`missile`](missile "wikilink")`         9  Normal`
+[`pick`](pick "wikilink")`            1  Normal`
+[`sneak`](sneak "wikilink")`          14  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

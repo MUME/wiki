@@ -2,14 +2,14 @@
 title: Hovels
 ---
 
-For the moment, no new Orc Hovels will be installed. There is an ongoing
-discussion among the management about the future of Orc Hovels. If you
-have any suggestions, feel free to mume mail the Arata of Zones. See
-HELP AINU LEVELS for information on who that currently is.
+For the moment, no new Orc Hovels will be installed. The future of Orc
+Hovels has not been decided. If you have any suggestions, feel free to
+mume mail the Arata of Zones. See our page about the
+[Ainur](Ainur "wikilink") for information on who that currently is.
 
-No amount of begging of spamming will change this fact. This is the
-current situation, and the only thing that will make it change is the
-Valar deciding on one of many ideas for Orkish Hovels.
+No amount of begging or spamming will change this fact. This is the
+current situation, and the only thing that will make it change is a few
+Really Good Ideas.
 
 See also: [Legend Homes](Legend_Homes "wikilink"), [Legend Home
 Equipment](Legend_Home_Equipment "wikilink"), [Legend Home

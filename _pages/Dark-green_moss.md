@@ -2,12 +2,13 @@
 title: Dark-green moss
 ---
 
-**Dark green moss** is used by the [dwarven
+**Dark-green moss** is used by the [dwarven
 dye-maker](dwarven_dye-maker "wikilink") to create the
-[dye](dye "wikilink") required for the [elven
-weaver](elven_weaver "wikilink")'s [quest](quest "wikilink"). It grows
-on an isolated ridge on the bank of the Nan Duin that can only be
-reached by [rope](rope "wikilink") bridge.
+[dye](sealed_jug_of_dye "wikilink") required for the [elven
+weaver](ancient_weaver "wikilink")'s
+[quest](Quest#The_Elven_Weaver "wikilink"). It grows on an isolated
+ridge on the bank of the Nan Duin that can only be reached by
+[rope](rope "wikilink") bridge.
 
 `A small patch of dark-green moss grows in the deepest shade.`
 `>`**`examine moss`**
@@ -19,5 +20,4 @@ reached by [rope](rope "wikilink") bridge.
 `It is some dark-green moss.`
 `It weighs a few ounces.`
 
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")
+[Category: Quest items](Category:_Quest_items "wikilink")

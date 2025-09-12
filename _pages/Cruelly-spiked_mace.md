@@ -2,15 +2,25 @@
 title: Cruelly-spiked mace
 ---
 
-**examine mace**
+\> **examine mace**
+
 It is large and heavy, and its head bears a dozen sharp, iron spikes.
-It appears as though it was made for the purpose of shredding metal
-and
+
+It appears as though it was made for the purpose of shredding metal and
+
 bone alike.
 
-**consider mace**
+\> **consider mace**
+
 It is a cruelly-spiked mace.
+
 This crushing weapon can be wielded one-handed.
+
 It is good while attacking and poor while defending; its speed is
 average, and it inflicts average damage upon hitting.
+
 It weighs four pounds.
+
+{% include Equipment.md %}
+
+[Cruelly-spiked mace](Category:_Concussion_weapons "wikilink")

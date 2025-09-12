@@ -2,8 +2,11 @@
 title: Rugged-looking man
 ---
 
-\>**look man**
+The **rugged-looking man** is a mobile found in
+[Fornost](Fornost "wikilink").
 
-\> He is a full-bearded fellow, dressed like someone who makes their
-living outdoors - possibly a hunter, farm-hand, or logger. He returns
-your gaze frankly and without fear. \> A man is in excellent condition.
+`> `**`look man`**
+`> He is a full-bearded fellow, dressed like someone who makes their living outdoors - possibly a hunter, farm-hand, or logger. `
+`He returns your gaze frankly and without fear.`
+
+[Category: Mobiles](Category:_Mobiles "wikilink")

@@ -2,6 +2,8 @@
 title: Woman (mobile)
 ---
 
+*For the playable race, see [man](man "wikilink").*
+
 **Women** are low-level [mobiles](mobile "wikilink") who wander around
 [Fornost](Fornost "wikilink"). They load with a dress, some shoes, a
 belt, a [ring](ring "wikilink") and a [lantern](lantern "wikilink").

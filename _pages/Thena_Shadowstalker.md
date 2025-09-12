@@ -4,8 +4,8 @@ title: Thena Shadowstalker
 
 **Thena Shadowstalker** is one of [Morthan
 Blacksoul](Morthan_Blacksoul "wikilink")'s accomplices. While not
-initially aggressive, if you attack her or her accomplices, she will
-remember it and attack the next time she sees you. She loads 8 silver, a
+initially aggressive, if you attack her or her allies, she will remember
+it and attack the next time she sees you. She loads 8 silver, a
 [shortsword](shortsword "wikilink"), a [full metal
 shield](full_metal_shield "wikilink"), an [embroidered
 blouse](embroidered_blouse "wikilink"), a [ragged, blackened

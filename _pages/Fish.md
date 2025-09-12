@@ -12,11 +12,9 @@ have cast your net into the water, you should let it sit a little while
 and then pull it in quickly! With any luck, some curious rudd or a stray
 grayling may have wandered into it's grasp and onto your supper plate.
 
-Example: <nowiki>g \> fish \> use net, get net
-
-</pre>
-
-See also: [Milk](Milk "wikilink"), [Butcher](Butcher "wikilink"),
-[Camp](Camp "wikilink"), [Cook](Cook "wikilink")
+Example: \> fish \> use net, get net See also: [Milk](Milk "wikilink"),
+[Butcher](Butcher "wikilink"), [Camp](Camp "wikilink"),
+[Cook](Cook "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

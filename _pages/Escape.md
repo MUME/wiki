@@ -2,40 +2,38 @@
 title: Escape
 ---
 
-## Escape
+**Escape** is a [thief](thief "wikilink") [skill](skill "wikilink") that
+allows you to exit a fight without [fleeing](flee "wikilink") if you are
+the [buffer](buffer "wikilink"). Escape offers the following advantages
+and disadvantages:
 
-(Thief Skill)
-
-If you are the buffer in a fight and you wish to stop fighting, you may
-ESCAPE instead of fleeing. Escape offers the following advantages:
-
-\- You can choose in which direction to move if you manage to escape:
-when you
-
-` flee, you run in a random direction.`
-
-\- You can escape even if there are no available exits. "Escape" with no
-
-` arguments will simply interrupt the fight.`
+- You can choose in which direction to move if you manage to escape:
+  when you flee, you run in a random direction.
+- You can escape even if there are no available exits. "Escape" with no
+  arguments will simply interrupt the fight.
+- Escape will not give you a temporary nosneak modifier (always happens
+  with flee)
+- Escape will not give you a temporary panic modifier (often happens
+  with flee)
+- Escape has a higher delay than flee. It will also not automatically
+  repeat on a failed attempt, so the player need to reissue the command.
 
 The chance of successfully escaping depends on your dexterity, on the
 number of your opponents, on the difference between your and your
-opponent's level and on how well you practiced this skill. Escaping
-automatically sets your mood to wimpy.
+opponent's level and on how well you [practiced](practice "wikilink")
+this skill. Escaping automatically sets your [mood](mood "wikilink") to
+wimpy.
 
-If nobody is attacking you, you should DISENGAGE instead of escaping.
+If nobody is attacking you, you should [disengage](disengage "wikilink")
+instead of escaping.
 
 Examples:
 
 ` > escape`
-
 ` > escape north`
 
-Knowing how to escape also makes it easier for your bodyguard (if you
-have one) to keep you out of trouble efficiently.
+Knowledge of the escape skill also makes it easier for others to
+[rescue](rescue "wikilink") and [protect](protect "wikilink") you.
 
-See also: [DISENGAGE](DISENGAGE "wikilink"), [FLEE](FLEE "wikilink"),
-[WIMPY](WIMPY "wikilink"), [RESCUE](RESCUE "wikilink"),
-[PROTECT](PROTECT "wikilink")
-
-[Back to skill list](Skill "wikilink")
+[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink")

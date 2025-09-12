@@ -2,4 +2,4 @@
 title: Rules-Sauron
 ---
 
-1.  REDIRECT [Rules Sauron](Rules_Sauron "wikilink")
+1.  REDIRECT [Sauron's List](Sauron's_List "wikilink")

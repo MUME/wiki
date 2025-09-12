@@ -2,8 +2,8 @@
 title: Broomrape plant
 ---
 
-**Broomrape plants** are aggressive, [evil](evil "wikilink")
-[level](level "wikilink") 8 [mobiles](mobile "wikilink") found in
+**Broomrape plants** are aggressive, [evil](alignment "wikilink")
+[level](level "wikilink") 8 [plants](plant "wikilink") found in
 [Fangorn](Fangorn "wikilink").
 
 `A spiky broomrape plant pokes its blooms out of the soil.`
@@ -12,4 +12,4 @@ title: Broomrape plant
 `in height. Its blooms resemble small white and violet bells, emitting a strange`
 `aroma into the air around it.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Plants](Category:_Plants "wikilink")

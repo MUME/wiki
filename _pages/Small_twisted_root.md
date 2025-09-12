@@ -3,8 +3,9 @@ title: Small twisted root
 ---
 
 The **small twisted root** is a [key](key "wikilink"). It loads on [Bill
-Ferny](Bill_Ferny "wikilink") and can be used to unlock the hidden wall
-to the east of the room where he spawns.
+Ferny](Bill_Ferny "wikilink") and can be used to
+[unlock](unlock "wikilink") the hidden wall to the east of the
+[room](room "wikilink") where he spawns.
 
 `A small twisted root is sticking out of the ground here.`
 `>`**`examine root`**

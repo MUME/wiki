@@ -2,7 +2,7 @@
 title: Huge, poisonous spider
 ---
 
-**Huge, poisonous spiders** are hostile level ?
+**Huge, poisonous spiders** are aggressive level ~11-12
 [mobiles](mobile "wikilink"), found in various places across
 [Arda](Arda "wikilink"). They have a poisonous bite that can afflict you
 with [Arachnia](Herblores#Arachnia "wikilink").

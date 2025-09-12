@@ -3,7 +3,7 @@ title: Treebeard
 ---
 
 **Treebeard** is one of the oldest still-living [Ents](Ent "wikilink").
-He lives in Wellinghall, located in a secluded glade at the eastern edge
+He lives in Wellinghall, located in a secluded glade at the western edge
 of [Fangorn](Fangorn "wikilink"), near the source of the Entwash.
 Bringing [Harle](Harle "wikilink") to meet Treebeard is the objective of
 the "[Harle and the Entwives](Quest#Harle_and_the_Entwives "wikilink")"
@@ -29,4 +29,4 @@ the forests, he led the Ents in an assault on
 [Isengard](Isengard "wikilink"), destroying and flooding most of the
 fortress aside from the central tower, where Saruman was trapped.
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Ents](Category:_Ents "wikilink")

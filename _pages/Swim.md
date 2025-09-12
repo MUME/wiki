@@ -2,16 +2,10 @@
 title: Swim
 ---
 
-## Swim
-
-SWIM
-
-(Ranger Skill) \[Toggle Command\]
-
-Usage: swim \[on\|off\]
-
-Swimming allows you to enter rivers and lakes without a boat and
-survive. It is also the only way to enter underwater places.
+**Swimming** is a [ranger](general "wikilink") [skill](skill "wikilink")
+that allows you to enter rivers and lakes without a
+[boat](boat "wikilink") and survive. It is also the only way to enter
+underwater places.
 
 Your swimming skill will be checked each time you enter the water, when
 you try to get back on the ground, when you move from a water room to
@@ -29,12 +23,10 @@ is turned off, you will not enter the water by moving, fleeing or
 following someone, unless you have a boat. It is possible, however, to
 teleport or to fall from a cliff into a river.
 
-Example:
+Example: \> swim Ok, from now you'll try to swim. W \> swim You won't
+try to swim anymore. \>
 
-\> swim Ok, from now you'll try to swim. W \> swim You won't try to swim
-anymore. \>
-
-See also: [Climb](Climb "wikilink"), [Prompt](Prompt "wikilink"),
-[DROWNING](DROWNING "wikilink"), [WATERWAYS](WATERWAYS "wikilink")
-
-[Back to skill list](Skill "wikilink")
+[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink") [Category:Help
+files](Category:Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

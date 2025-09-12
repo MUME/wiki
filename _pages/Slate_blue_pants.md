@@ -2,17 +2,20 @@
 title: Slate blue pants
 ---
 
-\> **look pants**
-The pair of thin trousers is made of soft, bluish grey cloth.
-\> **consider pants**
-They are a pair of slate blue pants.
-They weigh a couple of pounds.
+**Slate blue pants** are piece of cloth equipment worn on the
+[legs](legs "wikilink"). They load in the [Halls of
+Mandos](Halls_of_Mandos "wikilink"). They can't be sold, and will decay
+very fast if [dropped](drop "wikilink") on the ground.
 
-## Other
+`A pair of slate pants are on the ground.`
+`>`**`examine pants`**
+`The pair of thin trousers is made of soft, bluish grey cloth.`
 
-These pants are equipped on you automatically after your
-[pray](pray "wikilink") somewhere from the Halls of Mandos (if you're
-not already wearing something else). They can't be sold, and will decay
-immediately if you drop them.
+`> `**`consider pants`**
+`They are a pair of slate blue pants.`
+`They weigh a couple of pounds.`
 
-{% include Equipment.md %}
+{% include Items.md %}
+
+[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
+[Category:Legs items](Category:Legs_items "wikilink")

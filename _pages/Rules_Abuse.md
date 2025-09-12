@@ -31,4 +31,4 @@ unlikely things are illegal. For example:
 ` a person RL (phone, IM, etc.) in order to circumvent your current`
 ` inability to tell is patently illegal.`
 
-[Category:Rules](Category:Rules "wikilink")
+[Abuse](Category:Rules "wikilink")

@@ -2,12 +2,16 @@
 title: Wilderness
 ---
 
-## Wilderness
+**Wilderness** is a [ranger](general "wikilink")
+[skill](skill "wikilink") that allows one to survive better in the wild.
+It helps by reducing the amount of work one has to do to travel, thus
+reducing the need for food and beverages. The ease of learning
+Wilderness depends on the [Strength](Strength "wikilink") and
+[Willpower](Willpower "wikilink") stats.
 
-(Ranger skill)
+### See also
 
-If you know wilderness, you survive better in the wild. It helps you by
-reducing the amount of work you have to do to travel, thus reducing the
-need for food and beverages.
+[Mobility](Mobility "wikilink")
 
-[Back to skill list](Skill "wikilink")
+[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink")

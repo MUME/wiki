@@ -2,25 +2,25 @@
 title: Red ruby
 ---
 
-\> **examine ruby**
-This large ruby would fit nicely into your hand. It has been cut by some
-very
-skilled craftsman and its sides are perfectly symmetrical. The ruby
-glows in a
-mysterious red light; a closer look at the inside reveals a million
-small
-rays and sparks of red, which are reflected and broken more often than
-there
-are glowing sparks in a great fire.
-\> **consider ruby**
-It is a red ruby.
-It weighs a few ounces.
+The **red ruby** can be worn around the [neck](neck "wikilink") or on a
+[belt](belt "wikilink"). It functions as a light source that does not
+require fuel. Red rubies can be bought at jeweller's for around 52
+[gold](gold "wikilink").
 
-## Other
+`A large red gem lies on the ground, glowing strangely.`
+`> `**`examine ruby`**
+`This large ruby would fit nicely into your hand. It has been cut by some very`
+`skilled craftsman and its sides are perfectly symmetrical. The ruby glows in a`
+`mysterious red light; a closer look at the inside reveals a million small`
+`rays and sparks of red, which are reflected and broken more often than there`
+`are glowing sparks in a great fire.`
 
-Functions as a light source.
+`> `**`consider ruby`**
+`It is a red ruby.`
+`It weighs a few ounces.`
 
-{% include Equipment.md %}
+{% include Items.md %}
 
-[Red ruby](Category:Neck_items "wikilink") [Red
-ruby](Category:Miscellaneous_equipment "wikilink")
+[Category:Neck items](Category:Neck_items "wikilink")
+[Category:Miscellaneous
+equipment](Category:Miscellaneous_equipment "wikilink")

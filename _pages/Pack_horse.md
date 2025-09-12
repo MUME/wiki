@@ -2,7 +2,7 @@
 title: Pack horse
 ---
 
-**Pack horses** are [level](level "wikilink") ?
+**Pack horses** are [level](level "wikilink") 6
 [rideable](ride "wikilink") [mobs](mob "wikilink"), found in various
 places around [Arda](Arda "wikilink"). Pack horses are probably the most
 often used [mount](mount "wikilink") for the larger
@@ -17,5 +17,4 @@ available, stronger than [mules](mule "wikilink") or
 `yet strong, this pack horse is used on long hauls often carrying the`
 `weight of his master and his master's belongings.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink")

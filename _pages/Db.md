@@ -2,4 +2,4 @@
 title: Db
 ---
 
-1.  redirect [Dodging bonus](Dodging_bonus "wikilink")
+1.  redirect [Dodge bonus](Dodge_bonus "wikilink")

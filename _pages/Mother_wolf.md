@@ -2,7 +2,7 @@
 title: Mother wolf
 ---
 
-**Mother wolves** are aggressive [level](level "wikilink") ~7
+**Mother wolves** are aggressive [level](level "wikilink") 7
 [mobiles](mobile "wikilink"), found in various locations around
 [Arda](Arda "wikilink"). Unlike most other wolves, they do not
 [track](track "wikilink"). Their corpses can be

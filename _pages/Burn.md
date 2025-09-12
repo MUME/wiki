@@ -2,17 +2,18 @@
 title: Burn
 ---
 
-You can set fire to a corpse or corpses by using the command 'burn'. The
-corpses will be destroyed in the process and the equipment they contain
-will be lost. If there are many corpses in the room and you try to burn
-them all, all will be piled together before you start the bonfire... It
-is rumoured that searching among the ashes of a funeral pyre can yield
-some remains of the possessions of the burnt corpse.
+You can set fire to a [corpse](corpse "wikilink") or corpses by using
+the [command](commands "wikilink") "**burn**". The corpses will be
+destroyed in the process and the [equipment](equipment "wikilink") they
+contain will be lost. If there are many corpses in the room and you try
+to burn them all, all will be piled together before you start the
+bonfire. It is rumoured that searching among the ashes of a funeral pyre
+can yield some remains of the possessions of the burnt corpse.
 
 During the fire the room will be lit and warm.
 
 When you set fire, a message is seen in the adjacent rooms, like when a
-campfire is made.
+[campfire](camp "wikilink") is made.
 
 Example:
 
@@ -25,3 +26,4 @@ See also: [Bury](Bury "wikilink"), [Decapitate](Decapitate "wikilink"),
 [Hang](Hang "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

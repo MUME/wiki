@@ -3,7 +3,8 @@ title: Shire Warrior Guild
 ---
 
 The **old Shirriff** teaches [warrior](warrior "wikilink")
-[skills](skill "wikilink") at the **Shirriffs' Office** in Stock.
+[skills](skill "wikilink") at the **Shirriffs' Office** in Stock. The
+[guild](guild "wikilink") is open from 7am to 7pm.
 
 `An old, and slightly overweight Shirriff sits in a chair.`
 `>`**`examine shirriff`**

@@ -2,4 +2,4 @@
 title: Bow
 ---
 
-1.  Redirect [Missile](Missile "wikilink")
+1.  Redirect [Missile weapon](Missile_weapon "wikilink")

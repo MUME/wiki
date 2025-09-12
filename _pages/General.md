@@ -8,5 +8,11 @@ players can learn at a ranger [guild](guild "wikilink"). Despite the
 name, there is no ranger [class](class "wikilink"), and these skills can
 be practiced by any class without penalty.
 
+## See also
+
+- [Skills](Skill "wikilink")
+
+{% include ClassRace.md %}
+
 [\*](Category:_Ranger_skills "wikilink") [Category:
 Classes](Category:_Classes "wikilink")

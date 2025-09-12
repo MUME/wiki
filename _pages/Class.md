@@ -2,30 +2,47 @@
 title: Class
 ---
 
-In some other MUD, players are required to pick a "class" when they
-create a new character; the character's abilities depend on the class.
-MUME works in the opposite way: a character's class depends on whatever
-skills the character decided to learn.
+![](Moria_fellowship.jpg "Moria_fellowship.jpg") in
+[Moria](Moria "wikilink") in *[The Lord of the Rings: The Fellowship of
+the
+Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*\]\]
+The **class** system of [MUME](MUME "wikilink") is very flexible. You do
+not have to choose a class on [character](character "wikilink")
+creation - instead, you can shape it later by
+[practicing](practice "wikilink") [skills](skill "wikilink") or
+[spells](spell "wikilink") of a specific class. Even then, you are not
+restricted to skills (or spells) of only one class, but you can practice
+additional skills (or spells) from [guilds](guild "wikilink") other than
+that of your main profession.
 
-At any time, you can type 'change class' and see a list of titles that
-match your skills, race, alignment, history, and so on. 'Change class X'
-to choose a new class. Your choice only affects where you appear on 'who
-warr', 'who cleric'..., and your whois.
+Everybody starts out with the same class title - "Apprentice" - but they
+can change it to something more suitable (with the '[Change
+Class](Change_Class "wikilink")' command) later. The choice of class
+titles is limited by the skills, or the spells, you have practiced.
 
-When you practice new skills or you gain/lose levels, your class might
-be automatically changed, if the one you selected earlier doesn't fit
-you anymore.
+It should be noted, however, that some [stats](stats "wikilink") are
+more suitable for certain classes than others.
 
-For example: <nowiki>g \>change class You may choose among the following
-titles:
+## List of classes
 
-` Priest`
-` Scholar`
-` Rider`
-` Healer`
-` Master Healer`
-` ...`
+- **[Cleric](Cleric "wikilink")** - A supportive caster who excels in
+  healing
 
-\>change class healer Ok.
+<!-- -->
 
-</pre>
+- **[Mage](Mage "wikilink")** - A class who uses powerful volatile magic
+  to deal damage
+
+<!-- -->
+
+- **[Thief](Thief "wikilink")** - The furtive lone-wolf who deals damage
+  from the shadows
+
+<!-- -->
+
+- **[Warrior](Warrior "wikilink")** - The strongest of all the classes
+  and the best at hand-to-hand combat
+
+{% include ClassRace.md %}
+
+[\*](Category:Classes "wikilink")

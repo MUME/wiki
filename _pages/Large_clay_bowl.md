@@ -12,3 +12,8 @@ title: Large clay bowl
 `>`**`consider bowl`**
 `It is a large clay bowl.`
 `It weighs five pounds.`
+
+{% include Items.md %}
+
+[Category: Uncategorized
+items](Category:_Uncategorized_items "wikilink")

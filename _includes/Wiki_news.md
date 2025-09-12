@@ -1,5 +1,5 @@
 ---
-title: "Wiki news"
+title: Template:Wiki news
 ---
 
 <noinclude>
@@ -13,37 +13,39 @@ Admins:
 
 </div>
 
-</noinclude>
-
-<noinclude> __NOTOC__ <noinclude>
-
 ## Current hooks
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p></noinclude></p>
+<div style="padding:2px;">
 <p><img src="Main_Gandalf.png" title="Main_Gandalf.png"
-alt="Main_Gandalf.png" /> Any MUME player can edit this wiki, just log
-in with any of your MUME characters! Please read the <a
-href="Wiki_rules" title="wikilink">wiki rules</a> before modifying
-content.</p>
+alt="Main_Gandalf.png" /> <a href="MUME" title="wikilink">MUME</a> is a
+free multiplayer roleplaying game based upon <a href="Tolkien"
+title="wikilink">J.R.R. Tolkien</a>'s <a href="Middle_Earth"
+title="wikilink">Middle Earth</a> that has been continuously enhanced
+since the fall of '91.</p>
+<p>In MUME, players can explore and live in this meticulously crafted
+world during its late <a href="Third_Age" title="wikilink">Third
+Age</a>, and possibly join the epic War between the forces of the Dark
+Lord and the armies of the West.</p>
+<p>Any MUME player can edit this wiki, just log in with any of your MUME
+characters! Please read the <a href="Wiki_rules" title="wikilink">wiki
+rules</a> before modifying content.</p>
 <ul>
-<li><strong><a href="Newbie" title="wikilink">Help for new
+<li><strong><a href="https://mume.org/new">Help for new
 players</a></strong></li>
-<li><a href="Armour" title="wikilink">Armour</a></li>
-<li><a href="Weapon" title="wikilink">Weapons</a></li>
 </ul>
-<p>Write some content for: <a href="Skill" title="wikilink">Skills</a>
-<a href="Race" title="wikilink">Races</a> <a href="Statistic"
-title="wikilink">Statistics</a> <a href="Quest"
-title="wikilink">Quests</a> <a href="Herb" title="wikilink">Herbs</a> <a
-href="Herblore" title="wikilink">Herblores</a> <a href="Client"
-title="wikilink">Clients</a> <a href="Mapper"
-title="wikilink">Mappers</a></p>
+</div>
 <p><noinclude></p></td>
 </tr>
 </tbody>
 </table>
 
-</noinclude>
+__NOTOC__ </noinclude>
+
+<noinclude> </noinclude>
+
+[](Category:Main_Page_Templates "wikilink")
+[](Category:Templates "wikilink")

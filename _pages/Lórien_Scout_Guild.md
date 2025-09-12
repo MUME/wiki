@@ -2,7 +2,7 @@
 title: Lórien Scout Guild
 ---
 
-**Celebrindal** teaches [scout](scout "wikilink")
+**Celebrindal** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at [Caras
 Galadhon](Caras_Galadhon "wikilink"). She can be found wandering in the
 northern part of the city.

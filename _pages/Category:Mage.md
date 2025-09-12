@@ -2,4 +2,4 @@
 title: Category:Mage
 ---
 
-[Category: Classes](Category:_Classes "wikilink")
+[\*](Category:_Classes "wikilink")

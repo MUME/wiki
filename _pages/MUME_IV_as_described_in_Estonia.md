@@ -18,6 +18,14 @@ Estonian Mume players that followed after?
 Below is a translation of the article from the Estonian (by ChatGPT, so
 any Estonians please point out errors if you see them).
 
+Here's a link to the page that had a copy of the issue and a bit about
+the magazine itself, but the internal link to the magazine upload is
+missing now - [1](https://punktexe.ee/2015/09/16/exe-07-1994-58/)
+
+You can see it and hear some discussion with Mammoth about it on the
+Mume Podcast at around 9:00 here -
+[2](https://www.youtube.com/watch?v=UeKcevNDi2U&t=538s)
+
 ## MUD
 
 *Something more than just mud*
@@ -173,7 +181,7 @@ Now you’ll be asked one more thing: what is your attitude toward the
 peoples of the world – do you want to be on the good or evil side (how
 that’s useful will be explained later).
 
-## PÕHIPARAMEETRID: (CORE PARAMETERS)
+## CORE PARAMETERS
 
 **EXP** – the amount of experience you have gathered. With each kill you
 get some experience, and when it accumulates enough, you’ll gain a level
@@ -189,9 +197,13 @@ can be used to learn or improve skills and spells.
 **LEV** – the level of your character. The higher the level, the more
 experience is needed to reach the next level.
 
-**WARRIOR:** W = STR T = CON C = DEX **THIEF:** W = DEX T = CON C = STR
-**MAGIC USER:** W = INT T = WIS C = CON **CLERIC:** W = WIS T = CON C =
-INT
+**WARRIOR:** W = STR T = CON C = DEX
+
+**THIEF:** W = DEX T = CON C = STR
+
+**MAGIC USER:** W = INT T = WIS C = CON
+
+**CLERIC:** W = WIS T = CON C = INT
 
 ## SKILL (A skill, usually a command)
 
@@ -199,18 +211,20 @@ A list of skills opens using the skills command.
 
 Some basic combat-related skills:
 
-**KICK** – a basic attack command with the foot (useful when your weapon
-breaks or is taken from you).  **BASH** – (knock with the shield), can
-knock the opponent off balance and down (works well with strong races
-and heavy shields). ** RESCUE** – useful in groups – allows one to drag
-a fellow player out of combat.
+- **KICK** – a basic attack command with the foot (useful when your
+  weapon breaks or is taken from you). 
+- **BASH** – (knock with the shield), can knock the opponent off balance
+  and down (works well with strong races and heavy shields).
+- **RESCUE** – useful in groups – allows one to drag a fellow player out
+  of combat.
 
 There are also special attack types, divided into:
 
-**SLASHING WEAPONS** – i.e. slashing weapons, such as swords, sabers. 
-**PIERCING WEAPONS** – i.e. stabbing weapons, like spears, daggers. 
-**CONCUSSION WEAPONS** – i.e. blunt weapons, like clubs, flails, maces.
-**PARRY** – skill for using parrying.
+- **SLASHING WEAPONS** – i.e. slashing weapons, such as swords, sabers. 
+- **PIERCING WEAPONS** – i.e. stabbing weapons, like spears, daggers. 
+- **CONCUSSION WEAPONS** – i.e. blunt weapons, like clubs, flails,
+  maces.
+- **PARRY** – skill for using parrying.
 
 You cannot carry a hobbit and a sword at the same time. Keep in mind
 that there are bones in a troll’s foot – you can break both with one
@@ -219,45 +233,51 @@ opponents.
 
 ## THIEF:
 
-**BACKSTAB** – (stab-in-the-back trick), only works from hiding, only
-works with piercing weapons.  **SNEAK** – silent movement, hide, and
-then kill.  **HIDE** – hide yourself.  **STEAL** – stealing.  **DODGE**
-– dodging blows. ** ATTACK** – includes **violence** and **sneak
-attack** (like backstab), especially useful with piercing weapons.  All
-these must be practiced (using practice sessions), or else you can’t use
-them.
+- **BACKSTAB** – (stab-in-the-back trick), only works from hiding, only
+  works with piercing weapons.
+- **SNEAK** – silent movement, hide, and then kill.
+- **HIDE** – hide yourself. 
+- **STEAL** – stealing. 
+- **DODGE** – dodging blows.
+- ** ATTACK** – includes **violence** and **sneak attack** (like
+  backstab), especially useful with piercing weapons. 
+
+All these must be practiced (using practice sessions), or else you can’t
+use them.
 
 ## CLERIC:
 
 Cleric doesn’t cast damage-dealing spells, but their main spells are:
 
-`   •   `**`armour`**` (+10 dodge)`
-`   •   `**`blindness`**` (blinds the opponent)`
-`   •   `**`remove poison`**` (removes poison from the body)`
-`   •   `**`summon`**` (pulls a target to you)`
-`   •   `**`earthquake`**` (hurts all in the area)`
-`   •   `**`cure light wounds`**` (heals +10)`
-`   •   `**`heal`**` (+60, the best healing spell)`
-`   •   `**`bless`**` (improves hit and saving throw)`
-`   •   `**`sense life`**` (detects invisible beings)`
+- **armour** (+10 dodge)
+- **blindness** (blinds the opponent)
+- **remove poison** (removes poison from the body)
+- **summon** (pulls a target to you)
+- **earthquake** (hurts all in the area)
+- **cure light wounds** (heals +10)
+- **heal** (+60, the best healing spell)
+- **bless** (improves hit and saving throw)
+- **sense life** (detects invisible beings)
 
 ## MAGIC USER:
 
 Also has a number of powerful spells including:
 
-`   •   `**`invisibility`**` (makes you invisible)`
-`   •   `**`detect invisibility`**` (cancels invisibility)`
-`   •   `**`fireball`**` (throws fireball, ~100hp)`
-`   •   `**`cone of cold`**` (even stronger than fireball)`
-`   •   `**`teleport`**` (teleports you to a specific location)`
-`   •   `**`charm`**` (forces another to follow you)`
-`   •   `**`fly`**` (you fly over water and mountains)`
-`   •   `**`locate object`**` (finds a specific item)`
-`   •   `**`lightning bolt`**` (about the same power as fireball)`
+- **invisibility** (makes you invisible)
+- **detect invisibility** (cancels invisibility)
+- **fireball** (throws fireball, ~100hp)
+- **cone of cold** (even stronger than fireball)
+- **teleport** (teleports you to a specific location)
+- **charm** (forces another to follow you)
+- **fly** (you fly over water and mountains)
+- **locate object** (finds a specific item)
+- **lightning bolt** (about the same power as fireball)
 
 Spells are divided into levels; the higher your level, the more powerful
-spells you can use, but also the harder they are to learn.  Spell
-success depends on stats; failing a spell may hurt or even kill you.
+spells you can use, but also the harder they are to learn.
+
+Spell success depends on stats; failing a spell may hurt or even kill
+you.
 
 ## CORE TERMINOLOGY:
 
@@ -309,18 +329,20 @@ lie too long.
 
 The SCORE command shows your stats in detail. Here’s what matters:
 
-`   •   `**`STR`**` – Strength, affects how much you can carry and how much damage you do.`
-`   •   `**`CON`**` – Constitution, determines health and resistance.`
-`   •   `**`DEX`**` – Dexterity, affects agility, speed, and stealth.`
-`   •   `**`INT`**` – Intelligence, used for learning spells.`
-`   •   `**`WIS`**` – Wisdom, affects spellcasting and faith-based powers.`
-`   •   `**`CHA`**` – Charisma, affects how NPCs react to you (especially in shops).`
+- **STR** – Strength, affects how much you can carry and how much damage
+  you do.
+- **CON** – Constitution, determines health and resistance.
+- **DEX** – Dexterity, affects agility, speed, and stealth.
+- **INT** – Intelligence, used for learning spells.
+- **WIS** – Wisdom, affects spellcasting and faith-based powers.
+- **CHA** – Charisma, affects how NPCs react to you (especially in
+  shops).
 
 ## Magic and Movement:
 
-`   •   `**`MP`**` – movement points. Each room you walk into costs MP.`
-`   •   `**`TP`**` – travel points. Determines how far you can teleport.`
-`   •   `**`MANA`**` – magic energy used for spells.`
+- **MP** – movement points. Each room you walk into costs MP.
+- **TP** – travel points. Determines how far you can teleport.
+- **MANA** – magic energy used for spells.
 
 ## Equipment and weight:
 
@@ -329,41 +351,43 @@ Too much equipment can weigh you down. You may find that you can’t move
 
 ## Weapons fall into types:
 
-`   •   `**`SLASHING`**` (swords),`
-`   •   `**`PIERCING`**` (spears, knives),`
-`   •   `**`BLUNT/CONCUSSION`**` (clubs), and this affects how effective you are against different enemies.`
+- **SLASHING** (swords),
+- **PIERCING** (spears, knives),
+- **BLUNT/CONCUSSION** (clubs),
+
+And this affects how effective you are against different enemies.
 
 ## Basic Commands:
 
-`   •   `**`EXITS`**` – shows visible exits from the current room.`
-`   •   `**`NORTH, SOUTH, EAST, WEST`**` – moves you in that direction.`
-`   •   `**`LOOK`**` – observe surroundings or items.`
-`   •   `**`EQUIPMENT`**` – shows what you're wearing.`
-`   •   `**`INVENTORY`**` – what you're carrying.`
-`   •   `**`STATUS`**` – shows current HP, MP, etc.`
-`   •   `**`SCORE`**` – see all character details.`
-`   •   `**`CONSIDER`**` – assesses an enemy's strength.`
-`   •   `**`CAST "fireball" or "heal"`**` – cast a spell.`
-`   •   `**`DRINK, EAT`**` – for consuming items.`
-`   •   `**`SAY`**` – speak aloud to nearby players.`
-`   •   `**`SHOUT`**` – yell so everyone in the zone hears.`
-`   •   `**`EMOTE`**` – express an action (e.g. smile, nod).`
-`   •   `**`GIGGLE, NOD, SIGH, etc.`**` – predefined social emotes.`
-`   •   `**`SLEEP, WAKE, STAND, REST`**` – affect your state.`
-`   •   `**`BUY, SELL, LIST, WEAR, WIELD`**` – shop and equip items.`
+- **EXITS** – shows visible exits from the current room.
+- **NORTH, SOUTH, EAST, WEST** – moves you in that direction.
+- **LOOK** – observe surroundings or items.
+- **EQUIPMENT** – shows what you're wearing.
+- **INVENTORY** – what you're carrying.
+- **STATUS** – shows current HP, MP, etc.
+- **SCORE** – see all character details.
+- **CONSIDER** – assesses an enemy's strength.
+- **CAST "fireball" or "heal"** – cast a spell.
+- **DRINK, EAT** – for consuming items.
+- **SAY** – speak aloud to nearby players.
+- **SHOUT** – yell so everyone in the zone hears.
+- **EMOTE** – express an action (e.g. smile, nod).
+- **GIGGLE, NOD, SIGH, etc.** – predefined social emotes.
+- **SLEEP, WAKE, STAND, REST** – affect your state.
+- **BUY, SELL, LIST, WEAR, WIELD** – shop and equip items.
 
 ## Social interactions and expressions:
 
 Social emotes are used to show emotions. For instance:
 
-`   •   grin – grin evilly.`
-`   •   nod – nod.`
-`   •   giggle – giggle.`
-`   •   snicker – snicker mischievously.`
-`   •   hug – embrace.`
-`   •   poke – poke playfully.`
-`   •   say “hello” – greet others.`
-`   •   narrate – broadcasts to everyone.`
+- grin – grin evilly.
+- nod – nod.
+- giggle – giggle.
+- snicker – snicker mischievously.
+- hug – embrace.
+- poke – poke playfully.
+- say “hello” – greet others.
+- narrate – broadcasts to everyone.
 
 These help create atmosphere. For example:
 
@@ -375,29 +399,29 @@ narrate “The mighty warrior steps into the cave and growls...”
 
 ## Combat Communication Examples:
 
-`   •   `**`SAY`**` – says something nearby can hear.`
-`   •   `**`SHOUT`**` – is heard across a wide area.`
-`   •   `**`TELL [name]`**` – send private message.`
-`   •   `**`NARRATE`**` – dramatic broadcast.`
-`   •   `**`EMOTE`**` – "You grin wickedly."`
-`   •   `**`WHISPER`**` – secret to nearby player.`
-`   •   `**`GOSSIP`**` – public channel.`
-`   •   `**`AUCTION`**` – trade channel.`
-`   •   `**`GROUPSAY`**` – speak only to party.`
-`   •   `**`YELL`**` – urgent cry.`
-`   •   `**`LAUGH, CRY, SIGH, SMILE, DANCE`**` – predefined actions.`
+- **SAY** – says something nearby can hear.
+- **SHOUT** – is heard across a wide area.
+- **TELL \[name\]** – send private message.
+- **NARRATE** – dramatic broadcast.
+- **EMOTE** – "You grin wickedly."
+- **WHISPER** – secret to nearby player.
+- **GOSSIP** – public channel.
+- **AUCTION** – trade channel.
+- **GROUPSAY** – speak only to party.
+- **YELL** – urgent cry.
+- **LAUGH, CRY, SIGH, SMILE, DANCE** – predefined actions.
 
 ## Slang & Abbreviations:
 
-`   •   `**`AFK`**` – "Away From Keyboard"`
-`   •   `**`BRB`**` – "Be Right Back"`
-`   •   `**`FYI`**` – "For Your Information"`
-`   •   `**`IMHO`**` – "In My Humble Opinion"`
-`   •   `**`RL`**` – "Real Life"`
-`   •   `**`COOL`**` – "I agree"`
-`   •   `**`DT`**` – "Death Trap"`
-`   •   `**`NEWBIE KIT`**` – starter equipment for new players`
-`   •   “Can I have newbie kit please?” – typical new player request`
+- **AFK** – "Away From Keyboard"
+- **BRB** – "Be Right Back"
+- **FYI** – "For Your Information"
+- **IMHO** – "In My Humble Opinion"
+- **RL** – "Real Life"
+- **COOL** – "I agree"
+- **DT** – "Death Trap"
+- **NEWBIE KIT** – starter equipment for new players
+- “Can I have newbie kit please?” – typical new player request
 
 ## Closing Note:
 

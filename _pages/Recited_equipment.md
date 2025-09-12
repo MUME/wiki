@@ -2,4 +2,4 @@
 title: Recited equipment
 ---
 
-1.  REDIRECT [Scrolls](Scrolls "wikilink")
+1.  REDIRECT [Scroll](Scroll "wikilink")

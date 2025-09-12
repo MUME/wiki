@@ -2,4 +2,4 @@
 title: Twohanded
 ---
 
-1.  Redirect [Two_Handed_Weapons](Two_Handed_Weapons "wikilink")
+1.  Redirect [Two-handed weapons](Two-handed_weapons "wikilink")

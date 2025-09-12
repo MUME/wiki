@@ -1,5 +1,5 @@
 ---
-title: "Bot"
+title: Template:Bot
 ---
 
 <div style="text-align: justify; margin: 1em; padding: 0.2em; border-top: 3px double #cccccc; border-bottom: 3px double #cccccc;">
@@ -14,5 +14,4 @@ repetitive tasks on many pages quickly.*
 
 <noinclude> </noinclude><includeonly> </includeonly>
 
-[](Category:Templates "wikilink")
-[Category:Wikibots](Category:Wikibots "wikilink")
+[](Category:Templates "wikilink") [](Category:Wikibots "wikilink")

@@ -2,4 +2,4 @@
 title: Category:Shaman
 ---
 
-[Category: Classes](Category:_Classes "wikilink")
+[\*](Category:_Classes "wikilink")

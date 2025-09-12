@@ -2,7 +2,7 @@
 title: Offensive bonus
 ---
 
-The **offensive bonus** (OB%) improves the likelyhood of your attacks
+The **offensive bonus** (OB%) increases the likelihood of your attacks
 hitting a target. OB is heavily dependent on the
 [weapon](weapon "wikilink") you're using and your
 [skill](skill "wikilink") with that weapon, as well as your

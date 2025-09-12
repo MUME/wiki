@@ -5,7 +5,9 @@ title: Hobbit smuggler
 **Hobbit smugglers** are passive [level](level "wikilink") 5
 [mobiles](mobile "wikilink"), found in the [Pipeweed Smuggler's
 Hideout](Pipeweed_Smuggler's_Hideout "wikilink") in the
-[Shire](Shire "wikilink"). They can [sneak](sneak "wikilink").
+[Shire](Shire "wikilink"). They can [sneak](sneak "wikilink"). They load
+with a [stiletto](stiletto "wikilink"), a [ring](ring "wikilink") and
+some plain cloth equipment.
 
 `A suspicious-looking hobbit smuggler is here.`
 `>`**`examine smuggler`**

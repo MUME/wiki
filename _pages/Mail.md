@@ -2,8 +2,8 @@
 title: Mail
 ---
 
-The mail system lets you send a message to one or more recipients. Mail
-has a lifetime of 60 days if unread and 30 if read. Because mail is
+The **mail** system lets you send a message to one or more recipients.
+Mail has a lifetime of 60 days if unread and 30 if read. Because mail is
 persistent, it is used most often to communicate with someone who is not
 always easy to reach.
 
@@ -13,15 +13,27 @@ board where messages are addressed to one or many recipients.
 To send mail, use 'write (title) @(recipient 1) @(recipient 2), etc. The
 title is optional, but at least one recipient is needed.
 
-Example: <nowiki>g write Happy birthday @bilbo @frodo
+Example:
 
-look mail - lists mail addressed to you tail - lists the 20 last mails
-to you tail <number> - lists the <number> last mails to you read
-<number> - reads a specific mail look sent mail - lists mail you have
-sent read sent <number> - reads a mail you have sent reply <number> -
-reply to a mail forward <number> @dain - forward a mail to Dáin
+`write Happy birthday @bilbo @frodo`
 
-</pre>
+How it goes on depends on your editor. If you use the lineeditor, read
+[editor](editor "wikilink").
+
+------------------------------------------------------------------------
+
+Other commands:
+
+[`look`](look "wikilink")` mail - lists mail addressed to you`
+[`tail`](tail "wikilink")` - lists the 20 last mails to you`
+`tail `<number>` - lists the `<number>` last mails to you`
+[`read`](read "wikilink")` `<number>` - reads a specific mail`
+`look sent mail - lists mail you have sent`
+`read sent `<number>` - reads a mail you have sent`
+[`reply`](reply "wikilink")` `<number>` - reply to a mail`
+**`forward`**` `<number>` @dain - forward a mail to Dáin`
+`forward sent `<number>` @dain - forward a previously sent mail to Dįin`
+`forward sent `<number>` --retroactive-cc @dain - cc Dain on an existing mail`
 
 Messages you have already read are marked with a "+." A "+" next to a
 sent mail indicates it has been read by at least one person on the
@@ -40,3 +52,6 @@ should any of the recipients delete it from their mail box, it will be
 deleted from all of the others too.
 
 See also: [Write](Write "wikilink"), [Read](Read "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

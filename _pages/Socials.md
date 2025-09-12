@@ -27,3 +27,4 @@ See also: [Commands](Commands "wikilink"), [Emote](Emote "wikilink"),
 [Thumbs](Thumbs "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[\*](Category:Commands "wikilink")

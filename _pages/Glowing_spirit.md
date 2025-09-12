@@ -4,10 +4,11 @@ title: Glowing spirit
 
 *For another mob with the same name, see [spirit](spirit "wikilink").*
 
-Glowing **spirits** are aggressive level ? [mobiles](mobile "wikilink")
-found in [Old Fornost](Old_Fornost "wikilink"). They are permanently
-under the effect of the [Sanctuary](Sanctuary "wikilink") spell. They
-can cast [Colour Spray](Colour_Spray "wikilink").
+Glowing **spirits** are aggressive level ~15-16
+[mobiles](mobile "wikilink") found in [Old
+Fornost](Old_Fornost "wikilink"). They are permanently under the effect
+of the [Sanctuary](Sanctuary "wikilink") spell. They can cast [Colour
+Spray](Colour_Spray "wikilink").
 
 `A spirit floats around, making strange magical gestures (glowing).`
 `>`**`examine spirit`**
@@ -15,5 +16,4 @@ can cast [Colour Spray](Colour_Spray "wikilink").
 `spirit must have been a master of spells in its former life and still has some`
 `arcane powers left.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink")

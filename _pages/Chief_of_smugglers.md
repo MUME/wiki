@@ -8,7 +8,9 @@ south of [Bree](Bree "wikilink"). He loads 1 gold, a
 [falchion](falchion "wikilink"), a [fine, rigid leather
 breastplate](fine,_rigid_leather_breastplate "wikilink") and some common
 cloth equipment, as well as a [key](key "wikilink") that can open a
-secret door in his [room](room "wikilink").
+secret door in his [room](room "wikilink"), that leads to another room
+containing some coins and a [large metal full
+shield](large_metal_full_shield "wikilink").
 
 `The chief of smugglers is here, planning his next move.`
 `>`**`examine smuggler`**

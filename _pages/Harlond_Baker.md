@@ -10,6 +10,6 @@ The **elven baker** tends to the **Bakery** in
 `A tall, noble elf stands before you. His eyes are bright blue and his`
 `golden hair reaches his shoulders. His nose is narrow and his eyes`
 `are large. His arms are covered with flour, but it doesn't seem to`
+`become him. There is a faint glow about him.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

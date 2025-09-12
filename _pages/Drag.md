@@ -16,3 +16,4 @@ See also: [Burn](Burn "wikilink"), [Decapitate](Decapitate "wikilink"),
 [Bury](Bury "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

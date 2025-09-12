@@ -2,8 +2,9 @@
 title: Brown bear
 ---
 
-**Brown bears** are aggressive level ~10 [mobs](mob "wikilink") found in
-various places around [Arda](Arda "wikilink"), often
+**Brown bears** are aggressive, [evil](alignment "wikilink")
+[level](level "wikilink") 12 [mobs](mob "wikilink") found in various
+places around [Arda](Arda "wikilink"), often
 [hibernating](sleep "wikilink") in caves. Their
 [corpses](corpse "wikilink") can be [butchered](butcher "wikilink") to
 produce a [brown bear fur](brown_bear_fur "wikilink") and some

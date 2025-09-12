@@ -2,8 +2,8 @@
 title: Fell Beast
 ---
 
-Fell Beasts are the Darkie side analogon of the [Great
-Eagles](Great_Eagle "wikilink") to enable fast travelling of great
+Fell Beasts are the Darkie analog to the [Great
+Eagles](Great_Eagle "wikilink"), which enable fast travelling over great
 distances.
 
 Calling requires a black amulet instead of a [focus](focus "wikilink")

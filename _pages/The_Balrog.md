@@ -2,4 +2,4 @@
 title: The Balrog
 ---
 
-1.  REDIRECT [Balrog](Balrog "wikilink")
+1.  REDIRECT [Super Mobile](Super_Mobile "wikilink")

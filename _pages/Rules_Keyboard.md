@@ -14,10 +14,11 @@ computers are an exception to this rule, because the player may not know
 who used the same keyboard 15 minutes earlier. However, this is not a
 license to cheat. (Principle: When in doubt, wait.)
 
-Furthermore, [Rules Separation](Rules_Separation "wikilink") applies to
-any single computer or a computer lab.
+Furthermore, [Rules Character
+Separation](Rules_Character_Separation "wikilink") applies to any single
+computer or a computer lab.
 
-See also: [Rules Accounts](Rules_Accounts "wikilink"), [Rules
-Separation](Rules_Separation "wikilink")
+See also: [Rules Accounts](Rules_Accounts "wikilink"), [Rules Character
+Separation](Rules_Character_Separation "wikilink")
 
-[Category:Rules](Category:Rules "wikilink")
+[Keyboard](Category:Rules "wikilink")

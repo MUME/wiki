@@ -2,10 +2,12 @@
 title: Decapitate
 ---
 
-Syntax: decapitate corpse
+Syntax: **decapitate** corpse
 
-Orcs and Trolls can, with this command, behead a corpse, put the head on
-a pole and shove it in the ground. Works only with humanoid corpses.
+[Orcs](Orc "wikilink") and [Trolls](Troll "wikilink") can, with this
+[command](commands "wikilink"), behead a [corpse](corpse "wikilink"),
+put the head on a pole and shove it in the ground. Works only with
+humanoid corpses.
 
 Example:
 
@@ -16,3 +18,4 @@ See also: [Burn](Burn "wikilink"), [Bury](Bury "wikilink"),
 [Hang](Hang "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

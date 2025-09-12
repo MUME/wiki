@@ -2,7 +2,7 @@
 title: Rivendell Scout Guild
 ---
 
-An **elven hunter** teaches [scout](scout "wikilink")
+An **elven hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Guild** in
 [Rivendell](Rivendell "wikilink").
 

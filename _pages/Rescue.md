@@ -2,25 +2,29 @@
 title: Rescue
 ---
 
-## Rescue
+([Warrior](Warrior "wikilink") [Skill](Skill "wikilink")) \[Instant
+Command\]
 
-(Warrior Skill) \[Instant Command\]
+A **rescue** is an attempt to make an enemy or enemies hit you instead
+of the person being rescued. This is highly usable when playing in
+[groups](group "wikilink").
 
-A rescue is an attempt to make an enemy or enemies hit you instead of
-the person being rescued. This is highly usable when playing in groups.
-
-The chance to succeed depends on the how high you know the rescue skill.
-Typing rescue with no argument rescues the character that is buffering.
-The skill also controls how well you can protect people.
+The chance to succeed depends on how high your rescue skill is. Typing
+rescue with no argument rescues the character that is
+[buffering](buffer "wikilink"). The skill also controls how well you can
+[protect](protect "wikilink") people.
 
 NOTE: The rescued person will experience some dizzyness. Learning the
-escape skill has beneficial effects on the rescued person.
+[escape](escape "wikilink") skill has beneficial effects on the rescued
+person.
 
 Example:
 
 `  > rescue morwen`
 
-See also: [Bash](Bash "wikilink"), [Kick](Kick "wikilink"),
-[Protect](Protect "wikilink"), [Escape](Escape "wikilink")
+## See also:
 
-[Back to skill list](Skill "wikilink")
+- [Bash](Bash "wikilink"), [Kick](Kick "wikilink")
+
+[Category: Warrior skills](Category:_Warrior_skills "wikilink")
+[Category: Skills](Category:_Skills "wikilink")

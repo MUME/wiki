@@ -21,3 +21,6 @@ Example:
 See also: [Boards](Boards "wikilink"), [Mark](Mark "wikilink"),
 [Read](Read "wikilink"), [Reply](Reply "wikilink"),
 [Write](Write "wikilink")
+
+[Category: Commands](Category:_Commands "wikilink") [Category: Help
+files](Category:_Help_files "wikilink")

@@ -2,10 +2,19 @@
 title: Equipment
 ---
 
-Edit up here please
+Without any arguments, the **equipment** [command](commands "wikilink")
+simply tells you what [items](item "wikilink") you are
+[wearing](wear "wikilink"), [wielding](wield "wikilink") and
+[holding](hold "wikilink").
 
-# Test
+You can also use 'equipment <format>' to get your equipment in a certain
+order. See [Equipment Format](Equipment_Format "wikilink").
 
-This page tests the [equipment template](Template:equipment "wikilink").
+Often abbreviated to 'eq'.
 
-{% include Equipment.md %}
+See also: [Inventory](Inventory "wikilink"), [State](State "wikilink"),
+[Equipment Format](Equipment_Format "wikilink") {% include Items.md %}
+
+[\*](Category:Equipment "wikilink") [Category:Help
+files](Category:Help_files "wikilink")
+[Category:Basics](Category:Basics "wikilink")

@@ -12,7 +12,7 @@ An **elven priest** teaches [cleric](cleric "wikilink")
 `his confident, commanding manner and the great respect that other elves`
 `show him.`
 
-## Skill list
+## Spell list
 
 `                      Sessions  Difficulty`
 [`Bless`](Bless "wikilink")`                        3  Normal`
@@ -34,8 +34,9 @@ An **elven priest** teaches [cleric](cleric "wikilink")
 [`Protection From Evil`](Protection_From_Evil "wikilink")`         3  Normal`
 [`Remove Curse`](Remove_Curse "wikilink")`                 6  Normal`
 [`Remove Poison`](Remove_Poison "wikilink")`               12  Normal`
+[`Sanctuary`](Sanctuary "wikilink")`                   15  Very hard`
 [`Sense Life`](Sense_Life "wikilink")`                   3  Normal`
-[`Strength`](Strength "wikilink")`                    18  Hard`
+[`Strength`](Strength_Spell "wikilink")`                    18  Hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              12  Very hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

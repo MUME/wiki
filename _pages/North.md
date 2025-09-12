@@ -2,4 +2,4 @@
 title: North
 ---
 
-1.  Redirect [Movement](Movement "wikilink")
+1.  Redirect [Direction](Direction "wikilink")

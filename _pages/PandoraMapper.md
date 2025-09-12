@@ -14,6 +14,10 @@ heuristical tracking engine, based on a state machine with a tiny bit of
 scripting available. After XML support made all of the above obsolete,
 the non-XML mode was removed and replaced with an XML parser.
 
+|                                                           |
+|-----------------------------------------------------------|
+| [right](image:PandoraMapperScreenshot.png "wikilink")\]\] |
+
 ## Main features
 
 - Designed for speed and stability.
@@ -43,8 +47,9 @@ similar.
 
 ## Links
 
-[Official Site](http://code.google.com/p/pandoramapper/) [A little
-FAQ.](http://code.google.com/p/pandoramapper/wiki/FAQ/)
+[Official Site](http://code.google.com/p/pandoramapper/)
+
+[A short FAQ](http://code.google.com/p/pandoramapper/wiki/FAQ)
 
 [Category:Software](Category:Software "wikilink")
 [Category:Guides](Category:Guides "wikilink") [Category:Newbie

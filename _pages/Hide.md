@@ -2,20 +2,18 @@
 title: Hide
 ---
 
-## Hide
-
-(Thief Skill)
-
 Syntax: hide <effort>, one of quickly/fast/normally/carefully/thoroughly
 
-When you type hide there is a chance that you hide in the room. If
-hidden, nothing can be done to you until you are found, or you stop
-hiding. You stop hiding if you move; you can be found if someone
-searches for you, or if you perform most actions (for example if you
-speak). Other people may or may not notice that someone is hidden,
-depending on a number of different factors (skills, spells and
-attributes), but won't be able to do anything to you until you are found
-(area-wide attacks, like earthquake, are an exception).
+**Hide** is a [thief](thief "wikilink") [skill](skill "wikilink"). When
+you type hide there is a chance that you hide in the
+[room](room "wikilink"). If hidden, nothing can be done to you until you
+are found, or you stop hiding. You stop hiding if you move; you can be
+found if someone [searches](search "wikilink") for you, or if you
+perform most actions (for example if you speak). Other people may or may
+not notice that someone is hidden, depending on a number of different
+factors (skills, [spells](spell "wikilink") and attributes), but won't
+be able to do anything to you until you are found (area-wide attacks,
+like earthquake, are an exception).
 
 It is easier to hide in some places, e.g. forests. The more carefully
 you hide, the better your chances of success and the better you will be
@@ -43,11 +41,16 @@ Example:
 HIDE <object>
 
 You can try to hide an object in a room. This object will stay there
-unless discovered by another player. Hidden objects won't survive
-crashes and reboots. It is said that they can be stolen from time to
-time by evil spirits, but nobody knows for sure.
+unless [discovered](reveal "wikilink") by another player. Hidden objects
+won't survive crashes and reboots. It is said that they can be stolen
+from time to time by evil spirits, but nobody knows for sure.
 
-See also: [REVEAL](REVEAL "wikilink"), [SEARCH](SEARCH "wikilink"),
-[FLUSH](FLUSH "wikilink"), [BACKSTAB](BACKSTAB "wikilink")
+## See also
+
+- [Flush](Flush "wikilink")
+- [Backstab](Backstab "wikilink")
 
 [Back to skill list](Skill "wikilink")
+
+[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink")

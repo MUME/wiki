@@ -2,22 +2,16 @@
 title: Mood
 ---
 
-The CHANGE MOOD command enables you to transfer bonus points between
-your Offensive bonus and Parrying bonus, thus changing the way you want
-to behave in combat, mostly attacking or fighting more carefully.
+The [change](change "wikilink") **mood** command enables you to transfer
+bonus points between your [Offensive bonus](Offensive_bonus "wikilink")
+and [Parry bonus](Parry_bonus "wikilink"), thus changing the way you
+want to behave in combat, mostly attacking or fighting more carefully.
 
-Possible moods are:
-
-      Berserk                      (special - see below)
-      Aggressive
-      Brave
-      Normal
-      Prudent
-      Wimpy
-
-If you feel like going berserk, you will not be able to flee anymore,
-and if you start a fight in berserk mood, you cannot change mood while
-fighting. Also, your wimpy is set to zero in this mood, so remember to
+Possible moods are: Berserk (special - see below) Aggressive Brave
+Normal Prudent Wimpy If you feel like going berserk, you will not be
+able to [flee](flee "wikilink") anymore, and if you start a fight in
+berserk mood, you cannot change mood while fighting. Also, your
+[wimpy](wimpy "wikilink") is set to zero in this mood, so remember to
 reset it if you change mood later.
 
 If you change mood while fighting, it takes a little while for your
@@ -26,3 +20,5 @@ be aggressive on the moment you deal your blow, and wimpy a fraction of
 second later in order to parry the enemy's blow.
 
 See also: [Combat](Combat "wikilink"), [Change](Change "wikilink")
+
+[Category:Help files](Category:Help_files "wikilink")

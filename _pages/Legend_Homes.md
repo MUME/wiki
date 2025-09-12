@@ -16,25 +16,20 @@ pricing information.
 Payments must be made two installments. First a 50% deposit to file a
 building permit request, then the remaining balance. For more
 information on this process visit any town with a land office. Payments
-can be made to any willing Ms or higher immortal.
+can be made to any willing Ms or higher [immortal](Ainur "wikilink").
 
 Home owners can allow their friends to enter their home even when they
 are not home. To notify your guards of any changes, use the
 [Friend](Friend "wikilink") command.
 
-Additional Notes: <nowiki>g
-
-`(*) Minimum level 30 to build a home (and to pay for one).`
-`(*) No homes for Trolls or BNs. Orcs have hovels ("HELP HOVELS").`
-`(*) Add-ons can be bought after the building of the home. `
-`(*) Locks in legend homes will only lock people out, not in. `
-`(*) For more information visit the land office in the town you wish to build.`
-`    Land offices are often found near where you would apply for citizenship.`
-`(*) You have to be in a white-side-city to make your payment. `
-
-</pre>
-
-See also: [Legend Home Prices](Legend_Home_Prices "wikilink"),
+Additional Notes: (\*) Minimum level 30 to build a home (and to pay for
+one). (\*) No homes for Trolls or BNs. Orcs have hovels ("HELP HOVELS").
+(\*) Add-ons can be bought after the building of the home. (\*) Locks in
+legend homes will only lock people out, not in. (\*) For more
+information visit the land office in the town you wish to build. Land
+offices are often found near where you would apply for citizenship. (\*)
+You have to be in a white-side-city to make your payment. See also:
+[Legend Home Prices](Legend_Home_Prices "wikilink"),
 [Hovels](Hovels "wikilink"), [Legend Home
 Equipment](Legend_Home_Equipment "wikilink"), [Legend Home
 Valet](Legend_Home_Valet "wikilink"), [Friend](Friend "wikilink"),

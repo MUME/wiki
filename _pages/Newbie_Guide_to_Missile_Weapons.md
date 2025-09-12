@@ -15,7 +15,7 @@ JRRT, The Fellowship of the Ring
 This guide is about using bows, crossbows, and slings with the Missile
 skill.
 
-Many parts of this guild reference to the MUME help pages which can be
+Many parts of this guide reference to the MUME help pages which can be
 found at: <https://mume.org/help/help_index>
 
 **Bold** words can be looked up in the games help files. Like **help
@@ -78,6 +78,14 @@ This Thief guild skill helps increase your DB. For every 5% Dodge skill
 you practice your DB goes up by 1%. The more you **dodge** attacks, the
 more missile hits you can potentially get in.
 
+### **Sneak**
+
+This Thief guild skill can help you to avoid being hit while you sneak
+around. That also means you can very often get off a first shot while
+not being hit. This sneak attack surprises the target, often allowing
+you to hit first. Also, while trying to shoot, you do not reveal your
+sneaking position until you fire the shot.
+
 ### **Parry**
 
 This Warrior guild skill helps increase your PB. For every 5% Parry
@@ -137,6 +145,12 @@ rooms over others
 **escape**: this command can be used with the Escape skill to leave
 combat in what direction you wish without -panic
 
+`wear quiver belt, put all.war quiver`
+
+`load, east, shoot bear, escape west, load, east, shoot bear, escape west, load, east, shoot bear, recover`
+
+`follow `<tank>`, assist, shoot, shoot, shoot, shoot, recover`
+
 ## **Archery Targets**
 
 There are archery **target** in several cities or towns in the game. You
@@ -152,35 +166,38 @@ See **help targets**
 
 ## **Types of Missile Ammunition**
 
-Every type of missile weapon uses a specific ammunition. If you don't
-have the correct ammunition, you can't shoot using that missile weapon.
+Every type of missile weapon uses a specific **ammunition**. If you
+don't have the correct ammunition, you can't shoot using that missile
+weapon.
 
-slingstones: are used with slings. One cool feature with slings is that
-you can get free ammunition!! If you are using a sling, type reveal
-stone in some rooms for a chance to get find ammunition to use. It's the
-easiest **ammunition** to get in the game.
+\-**slingstones**: are used with slings. One cool feature with slings is
+that you can get free ammunition!! If you are using a sling, type
+**reveal stone** in some rooms for a chance to get find ammunition to
+use. It's the easiest **ammunition** to get in the game.
 
 - slingstones and round stone
 
-bolts: are used with crossbows. You can buy them in weapon shops. The
-metal-cased bolts can only be purchased in Blue Mountains, so try and
-find a nice dwarf and ask them.
+\-**bolts**: are used with crossbows. You can buy them in weapon shops.
+The metal-cased bolts can only be purchased in Blue Mountains, so try
+and find a nice dwarf and ask them.
 
 - bolts and metal-cased bolts
 
-arrows: are used with bows. You can buy them in weapon shops. They do
-load on a few mobs in the game, so check out a quiver if you kill
+\-**arrows**: are used with bows. You can buy them in weapon shops. They
+do load on a few mobs in the game, so check out a quiver if you kill
 something with one. War arrows can be purchased in Fornost, ash arrows
 in some elf towns like Rivendell or Lorien.
 
-- arrows, war arrows, ash arrows, leaf shaped arrows, fletched arrows,
-  silver-tipped arrows
+- arrows, war arrows, ash arrows, fletched arrows
 
-magical or enchanted: some arrows in the game are magical, all
-ammunition can be enchanted. If ammunition is magical OR enchanted it is
-considered NO BREAK. That means that the missile will never break no
-matter how many times you shoot with it. There is a quest in Bree from
-the fletcher to get a quiver of no break leaf-shapped arrows.
+\-**magical or enchanted ammunition**: some arrows in the game are
+magical, all ammunition can be enchanted. If ammunition is magical OR
+enchanted it is considered NO BREAK. That means that the missile will
+never break no matter how many times you shoot with it. There is a quest
+in Bree from the fletcher to get a quiver of no break leaf-shapped
+arrows.
+
+- leaf shaped arrows, silver-tipped arrows
 
 ## **Types of Missile Containers**
 
@@ -190,7 +207,7 @@ large sack. But it will only shoot correctly if put in the correct
 missile container. The missile containers only work with the commands if
 worn on your back or worn on your belt.
 
-You can also use missile containers to old other items as well, but it
+You can also use missile containers to hold other items as well, but it
 takes up space that you could be using with your missiles. So, sure you
 can put bread in our quiver, but doesn't really do you any good to do
 so.
@@ -199,6 +216,15 @@ It is fine to mix ammunition types in a missile container. For example
 you can have bolts and metal-cased bolts in a bolt case mixed in. Or ash
 arrows with war arrows or normal arrows.
 
+There is a limit the the maximum amount of ammunition any missile
+container can hold, and it can even vary on the type or types of
+missiles you have in it. It is based off the ammunition weight, so
+missile containers can over all hold more lighter ammunition then
+heavier ammunition. An example is an arrow quiver can hold more regular
+arrows then heavier war arrows, or a bolt case can hold more regular
+bolts the metal-cased bolts. You can try mixing and matching in game to
+see how much ammo any container can hold.
+
 You can wear more then one missile container, say 2 quivers, or a quiver
 and a bolt case. If you recover, it will put the appropriate missile
 into the correct container.
@@ -206,47 +232,56 @@ into the correct container.
 Your missile container is used with the command **recover**. You recover
 ammunition into your missile container the missile was fired from.
 
-leather pouch: used for slingstones with slings
+\-**leather pouch**: used for slingstones with slings
 
-bolt case: used with bolts for crossbows
+\-**bolt case**: used with bolts for crossbows
 
-quiver: used with arrows for bows
+\-**quiver**: used with arrows for bows
 
 ## **Types of Missile Weapons**
 
-All missile weapons use the same game commands and the same Missile
+All missile weapons use the same game commands and the same **Missile**
 skill. But there are reasons to choose some missile weapons over others.
 It could be shooting speed, weight, ease of getting ammunition, etc...
 
-slings: they are VERY affordable and cheap to use, and not very heavy.
-They also have the benefit of shooting at a very fast rate. They are
-also pretty light compared to other missile weapons. But the draw back
-here is they are low damage and low OB. A fine missile weapon to use at
-lower levels, or when you are broke. But might want to upgrade at later
-levels for improved damage and attacks.
+\-**slings**: they are VERY affordable and cheap to use, and not very
+heavy. They also have the benefit of shooting at a very fast rate. They
+are also pretty light compared to other missile weapons. But the draw
+back here is they are low damage and low OB. A fine missile weapon to
+use at lower levels, or when you are broke. But might want to upgrade at
+later levels for improved damage and attacks.
 
-crossbows: are heavy, the heaviest option of missile weapons to use. The
-bolt cases also do not hold as much ammunition as some other choices.
-They also shoot the slowest of all the missile weapons. But the damage
-is good. And another benefit, they come with an option that none of the
-other missile weapons do, loading. You can load a bolt for the first
-shot in a fight, and this first loaded shot shoots very fast. Making
-loaded crossbows one of the fastest missile weapons, for one shot only.
+\-**crossbows**: are heavy, the heaviest option of missile weapons to
+use. The bolt cases also do not hold as much ammunition as some other
+choices. They also shoot the slowest of all the missile weapons. But the
+damage is good. And another benefit, they come with an option that none
+of the other missile weapons do, loading. You can **load** a bolt for
+the first shot in a fight, and this first loaded shot shoots very fast.
+Making loaded crossbows one of the fastest missile weapons, for one shot
+only.
 
-bows: over all the most popular missile weapon, decent shooting speed,
-medium weight, can also deal out alot of damage. Quivers can also hold
-alot of arrows. Most of the types of arrows are fairly easy to get.
+\-**bows**: over all the most popular missile weapon, decent shooting
+speed, medium weight, can also deal out alot of damage. Quivers can also
+hold alot of arrows. Some types of arrows are fairly easy to get, like
+regular arrows or war arrows.
 
-## Which Missile Weapon to Use?
+# Which Missile Weapon to Use?
 
 Missile weapons have different values that may help you choose which one
 is right for you. It could be:
 
 -ease of getting ammunition, like buying more arrows after some break or
-reveal slingstones -weight, some are light, while crossbows are heavy
--shooting speed, shortbows are fast and loaded crossbows are fast -OB,
-longbows and crossbows tend to have higher OB -damage, longbows and
-crossbows tend to have higher damage
+reveal slingstones
+
+-weight, some are light weight like slings or shortbows, while crossbows
+are heavy
+
+-shooting speed, slings and shortbows are fast but crossbows are slow,
+loaded crossbows shoot very fast for the first shot
+
+-OB, longbows and crossbows tend to have higher OB
+
+-damage, longbows and crossbows tend to have higher damage
 
 ## Gear for Shooters
 
@@ -270,6 +305,11 @@ can get shots in between being hit.
 If you are assisting while someone else is tanking, you want more OB,
 like fine soft leather gloves, or golden mantle. And longer shoot speed
 weapons are good, like a longbow or a crossbow.
+
+However as a warning about OB gear, the bonus from gear to M_OB is LESS
+then it is to regular OB. You will notice that OB items still can give
+M_OB but at a reduced rate. It seems that the OB bonus granted is split
+between your OB and M_OB with items that grant that bonus.
 
 There is an item called an archer's wrist guard. This item is +5% M_OB
 but -1% PB. Pretty nice for any shooters.
@@ -335,10 +375,10 @@ you cannot attack while you quickly repair the missile weapon in combat
 enchanted or magical. This means occasionally having to resupply and
 stock up on more arrows to replace those that break. The chance to break
 increases if you have low missile practiced or against some types of
-mobs. Luckly most missile ammunition are fairly cheap to replace.
+mobs. Luckily most missile ammunition are fairly cheap to replace.
 
 -weight - you have to carry a missile weapon, ammunition, and a
-container. Seperate these items do not weight too much (except for very
+container. Separate, these items do not weight too much (except for very
 heavy crossbows), but by the time you add them all up it can be quite a
 bit of weight: weapon + pile of ammo + container
 
@@ -374,6 +414,14 @@ damage anyway.
 -missile weapons do not help with your Parry Bonus, and do not grant a
 weapon PB bonus like a sword might.
 
+-change mood does not affect your M_OB or PB - when using missile you
+cannot move your M_OB or PB up or down by changing your mood, it is
+somewhat like you are always aggressive while wielding a missile weapon
+
+-cannot inflict any wounds - with all missile weapons or ammunition, you
+can never give any targets a wound at any time. However, in between
+shots it is possible to punch a target and maybe leave a light wound
+
 ## Missile Related Quests
 
 - Grey Havens Elven Trapper
@@ -391,20 +439,22 @@ In the town of Bree north of the weapon shop is a fletcher who needs
 help with getting an order of archery supplies. The quest involves a
 trip to Fornost and northern Bree land. You can get a reward of a quiver
 with 20 leaf-shaped arrows. The great thing is that these arrows are
-magical and NO BREAK. A wonderful start for a lower or mid level
-character.
+magical, +10 M_OB, fairly light weight, and NO BREAK. A wonderful start
+for a lower or mid level character. They also sell for good pile of
+silver if you need some cash.
 
-# Advanced Missile Techniques
+# **Advanced Missile Techniques**
 
 ## Bash shoot
 
-Used by a few scouts and some defense warriors is the bash shoot
-technique. You bash a target, then immediately switch over to a missile
-weapon, shooting them 2 or 3 times while they are bashed. One reason why
-this works well, is while a target is bashed, they are not hitting you.
-Which means none of your shots will be interrupted. And missile attacks
-tend to do pretty good damage. This technique works well against solo
-mobs or targets.
+Used by a few combo war scouts and some defense warriors is the bash
+shoot technique. You bash a target, then immediately switch over to a
+missile weapon, shooting them 2 or 3 times while they are bashed. One
+reason why this works well, is while a target is bashed, they are not
+hitting you. Which means none of your shots will be interrupted. And
+missile attacks tend to do pretty good damage. This technique works well
+against solo mobs or targets. It can really up your damage compared to
+using your parrying, defense, slashing weapon.
 
 ## Blind shoot
 
@@ -413,7 +463,8 @@ leveling up. Once a target is blinded by the Blind spell, using a
 missile weapon against them makes for a really effective combo attack.
 Many clerics, cleric/mage combos, and shamans use this missile technique
 at one time or another. It can be a very efficient way to gain some
-levels for a class that can struggle with getting a fast xp rate.
+levels for a casting class that can struggle with getting a fast xp
+rate.
 
 ## Sneak shoot
 
@@ -443,3 +494,12 @@ You can use the Envenom skill on missile ammunition and shoot someone
 with a poisoned arrow. This mostly sees action in PK or PvP, and isn't
 really used that often with xping. A sneaky, poisoned, loaded crossbow
 bolt can be a nasty surprise from an Orc!
+
+------------------------------------------------------------------------
+
+Link back to the wiki guides:
+
+- [Guide](Guide "wikilink")
+
+[Category:Guides](Category:Guides "wikilink") [Category:Newbie
+Help](Category:Newbie_Help "wikilink")

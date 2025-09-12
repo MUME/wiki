@@ -2,13 +2,13 @@
 title: Black Breath
 ---
 
-<nowiki>g Syntax : cast 'black breath' Type : Offensive, special
-Accumulative: N/A Duration : No Casting : Very long Position : Standing
-Level : Level 16 Class : Cleric Min. Mana : 25
+Syntax : cast 'black breath' Type : Offensive, special Accumulative: N/A
+Duration : No Casting : Very long Position : Standing Level : Level 16
+Class : Shaman Min. Mana : 25 Example: \> cast 'black breath' dwarf
 
-</pre>
+## See also
 
-Example: \> cast 'black breath' dwarf
+- [Hold](Hold_Spell "wikilink"), [Raise Dead](Raise_Dead "wikilink")
 
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+[Category:Spells](Category:Spells "wikilink") [Category:Shaman
+spells](Category:Shaman_spells "wikilink")

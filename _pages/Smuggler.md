@@ -2,10 +2,12 @@
 title: Smuggler
 ---
 
-**Smugglers** are aggressive level ? [mobiles](mobile "wikilink"), found
-in various places around [Arda](Arda "wikilink"), especially common in
-the areas near [Tharbad](Tharbad "wikilink"). They load 15 silver and
-some common [equipment](equipment "wikilink").
+**Smugglers** are aggressive, [evil](alignment "wikilink")
+[level](level "wikilink") ~10 [mobiles](mobile "wikilink"), found in
+various places around [Arda](Arda "wikilink"), especially common in the
+areas near [Tharbad](Tharbad "wikilink"). They load 15 silver, a
+[weapon](weapon "wikilink"), usually a [shield](shield "wikilink") and
+some cloth [equipment](equipment "wikilink").
 
 `A smuggler is here, angry at having been seen.`
 `>`**`examine smuggler`**
@@ -13,5 +15,4 @@ some common [equipment](equipment "wikilink").
 `black, looks strong and lithe.  He looks quite dangerous, and you think he is`
 `on his way either to Tharbad or Bree with some goods, or money from a sale.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink")

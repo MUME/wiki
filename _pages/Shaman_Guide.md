@@ -4,11 +4,6 @@ title: Shaman Guide
 
 Shaman Guide by Shaukr v0.9
 
-## Contents
-
-• Introduction: Shamans • Quick Start Guide • Some Basic, Flexible Stats
-• Core Shaman Abilities • War Shaman, Pure Shaman, and Extensions
-
 ## Introduction: Shamans
 
 Orkish shamans are casters for the Tarkhnarb Orcs, a race which has the
@@ -55,7 +50,7 @@ interested in them, starting with something more basic (as presented
 here), figuring out what works, and then designing your own is the way
 to go.
 
-General Pros/Cons – Why Shaman?
+***General Pros/Cons – Why Shaman?***
 
 ------------------------------------------------------------------------
 
@@ -75,98 +70,120 @@ General Pros/Cons – Why Shaman?
   management.
 - The more spells you use, the more reliant you are on rare equipment.
 
+------------------------------------------------------------------------
+
 ### Quick Start Guide
 
 Read this section if you just want to get started and aren’t sure what
 to do and want directions. Make a Tarkhnarb Orc:
 
-- Use these stats: <nowiki>gStr: 15 Int: 15 Wis: 16 Dex: 11 Con: 15 Wil:
-  13 Per: 9.
-  </pre>
+- Use these stats: Str: 15 Int: 15 Wis: 16 Dex: 11 Con: 15 Wil: 13 Per:
+  9.
+  - *You’ll start at 2nd age, with +1 to Str, Int, Dex, Con, Wil, and
+    Per.*
+    - *Train improve strength, train neglect wis. You’ll want to let
+      your stats train until your strength shows as 18 when typing
+      “inf”, and you are able to wield an 18 strength weapon with no
+      warning that you are too weak. At this point, you can train
+      maintain strength, train maintain wis.*
 
-*You’ll start at 2nd age, with +1 to Str, Int, Dex, Con, Wil, and Per.*
-*Train improve strength, train neglect wis. You’ll want to let your
-stats train until your strength shows as 18 when typing “inf”, and you
-are able to wield an 18 strength weapon with no warning that you are too
-weak. At this point, you can train maintain strength, train maintain
-wis.* 1. Start your first levels by practicing a small amount of slash,
-endurance, and parry. You’ll be using slashing weapons as you don’t yet
-have the strength for bigger weapons, but you can change this later. A
-good starter weapon is a jagged-edged scimitar, which has +15 ob. You
-can kill small mobs around the New Orkish Caves (NOC), and by level 5
-you should have invested some points in ride, swim, climb, bandage, and
-pick. An alternative weapon option that provides more offense is to
-practice two handed weapons and obtain a halberd, which you’ll have the
-strength to use immediately. Using the at-bay feature of this weapon
-will allow you to solo XP slightly more effectively but leave you more
-fragile as you lack a shield.
+<!-- -->
 
-2\. At level 5, aim to have some basic armor (fine rigid leathers or
-fine chains), your sword, black padded boots, and a forest green cloak.
-Grab a warg and start exploring! Orkish TPs can be a pain, and you want
-to gather a ton while the cost of death is irrelevant. 20k is a good
-start, but it’s alright to stop earlier if you’re finding this hard or
-uninteresting. A good (and important) added objective on this quest is
-to save ~12 practices to level up wilderness at the Old Orkish Caves
-(OOC).
+- **1.** Start your first levels by practicing a small amount of slash,
+  endurance, and parry. You’ll be using slashing weapons as you don’t
+  yet have the strength for bigger weapons, but you can change this
+  later. A good starter weapon is a jagged-edged scimitar, which has +15
+  ob. You can kill small mobs around the New Orkish Caves (NOC), and by
+  level 5 you should have invested some points in ride, swim, climb,
+  bandage, and pick.
+  - An alternative weapon option that provides more offense is to
+    practice two handed weapons and obtain a halberd, which you’ll have
+    the strength to use immediately. Using the at-bay feature of this
+    weapon will allow you to solo XP slightly more effectively but leave
+    you more fragile as you lack a shield.
 
-3\. If possible, obtain the orkish draught lore (requires a gem – ask
-other players online) before your grand adventure, so that you can begin
-making your own draughts. Shamans should (and will) always have a stock
-of these to boost their mobility.
+<!-- -->
 
-4\. As you start to level up more diligently using your surplus of TPs,
-raise your slash/parry to 50%, endurance to 40%, and round out your
-ranger skills (70% climb, swim, and wilderness, max ride, and an early
-40% in bandage). XP your character like a weaker warrior, in a group
-whenever possible. Warrior and ranger skills can be leveled up as you
-level up, while caster skills (coming next) should generally be
-practiced all at once – a half-practiced spell is likely to simply
-backfire.
+- **2.** At level 5, aim to have some basic armor (fine rigid leathers
+  or fine chains), your sword, black padded boots, and a forest green
+  cloak. Grab a warg and start exploring! Orkish TPs can be a pain, and
+  you want to gather a ton while the cost of death is irrelevant. 20k is
+  a good start, but it’s alright to stop earlier if you’re finding this
+  hard or uninteresting. A good (and important) added objective on this
+  quest is to save ~12 practices to level up wilderness at the Old
+  Orkish Caves (OOC).
 
-5\. Once you have spare practice sessions beyond the basics listed, you
-can start picking up spells. armour (max), cure serious (6 practices),
-shocking Grasp (max), cure critic (4 practices), breath of briskness (12
-practices), remove poison (2 practices), and harm (max) is a simple
-order to get each skill, and will take you to hero level (21).
+<!-- -->
 
-*Why do I suggest certain spells or skills?* Read on to the war shaman
-and pure shaman guides for a more in-depth discussion of abilities in
-context. The suggestions here are presented unambiguously as something
-that will work, but you can easily train off skills and rearrange them
-as you discover what works best for you.
+- **3.** If possible, obtain the orkish draught lore (requires a gem –
+  ask other players online) before your grand adventure, so that you can
+  begin making your own draughts. Shamans should (and will) always have
+  a stock of these to boost their mobility.
 
-6\. As you level up, your equipment consists of a few basics: fine
-chainmail armour, a forest green cloak, black padded boots, and a good
-light shield (gilded round shield). You can swap out your jagged
-scimitar for an engraved broadsword, wightblade, or fell blade, if you
-get the chance.
+<!-- -->
 
-Combat at these levels is generally assisting a buffer and dealing hit
-damage in PvE, contributing cures to the buffer and nukes against larger
-mobs. Shock deals a decent punch of cheap damage, while harm is useful
-on large targets. When (not if) you get involved in PK, use quick shocks
-to hit your targets, while trying to avoid being targeted – as casters
-usually are. Keep an eye out for enemies that are bashed, as these are
-where you should aim a harm. Be proactive about refreshing your armor
-spell, especially against enemy casters.
+- **4.** As you start to level up more diligently using your surplus of
+  TPs, raise your slash/parry to 50%, endurance to 40%, and round out
+  your ranger skills (70% climb, swim, and wilderness, max ride, and an
+  early 40% in bandage). XP your character like a weaker warrior, in a
+  group whenever possible. Warrior and ranger skills can be leveled up
+  as you level up, while caster skills (coming next) should generally be
+  practiced all at once – a half-practiced spell is likely to simply
+  backfire.
+
+<!-- -->
+
+- **5.** Once you have spare practice sessions beyond the basics listed,
+  you can start picking up spells. armour (max), cure serious (6
+  practices), shocking Grasp (max), cure critic (4 practices), breath of
+  briskness (12 practices), remove poison (2 practices), and harm (max)
+  is a simple order to get each skill, and will take you to hero level
+  (21).
+  - *Why do I suggest certain spells or skills?* Read on to the war
+    shaman and pure shaman guides for a more in-depth discussion of
+    abilities in context. The suggestions here are presented
+    unambiguously as something that will work, but you can easily train
+    off skills and rearrange them as you discover what works best for
+    you.
+
+<!-- -->
+
+- **6.** As you level up, your equipment consists of a few basics: fine
+  chainmail armour, a forest green cloak, black padded boots, and a good
+  light shield (gilded round shield). You can swap out your jagged
+  scimitar for an engraved broadsword, wightblade, or fell blade, if you
+  get the chance.
+
+*NOTE:* Combat at these levels is generally assisting a buffer and
+dealing hit damage in PvE, contributing cures to the buffer and nukes
+against larger mobs. Shock deals a decent punch of cheap damage, while
+harm is useful on large targets. When (not if) you get involved in PK,
+use quick shocks to hit your targets, while trying to avoid being
+targeted – as casters usually are. Keep an eye out for enemies that are
+bashed, as these are where you should aim a harm. Be proactive about
+refreshing your armor spell, especially against enemy casters.
 
 At this point, you have a **decision** to make.
 
-*Do you want to be more like a warrior, and hence swap slashing for a
-more powerful weapon class with your trained-up strength?* If so, follow
-on to the war shaman guide. You’ll be practicing bash and the shield
-spell, leaning into trading hits directly and harming targets that
-you’ve bashed. *Alternatively, do you want to lean more into your
-magical abilities?* See the pure shaman guide. You’ll pick up blindness,
-raise dead and command, shield, and a few other utility spells from this
-point, using your summoned mobile to tie down foes for your magical
-attacks.
+***Do you want to be more like a warrior, and hence swap slashing for a
+more powerful weapon class with your trained-up strength?***
+
+- If so, follow on to the [War Shaman Guide](#War_Shaman "wikilink").
+  You’ll be practicing bash and the shield spell, leaning into trading
+  hits directly and harming targets that you’ve bashed.
+
+***Alternatively, do you want to lean more into your magical
+abilities?***
+
+- See the [Pure Shaman Section](#Pure_Shaman "wikilink"). You’ll pick up
+  blindness, raise dead and command, shield, and a few other utility
+  spells from this point, using your summoned mobile to tie down foes
+  for your magical attacks.
 
 Each guide will talk more about the details of each sub-class, and the
 **equipment**/**skill** choices to make.
 
-*Wait, Where Do I Practice?*
+***Wait, Where Do I Practice?***
 
 The shaman guildmasters are scattered around the map, and all of them
 have something useful:
@@ -194,6 +211,8 @@ balancing the effectiveness of many different skills which will make
 other skills harder to practice as well. Don’t expect to have any skills
 at superb!
 
+------------------------------------------------------------------------
+
 ### Benchmark Stats: Basic and Flexible
 
 Given the split of shamans into two somewhat distinct subclasses, the
@@ -201,10 +220,7 @@ first set of stats here is highly recommended as it can be practiced
 towards either a war shaman or a pure shaman. Each subsequent section
 will give examples of more specialized stats, but for a player who isn’t
 sure or wants variety, the below stats (used in the quick start) are
-effective: <nowiki>gStr: 15 Int: 15 Wis: 16 Dex: 11 Con: 15 Wil: 13 Per:
-9
-
-</pre>
+effective: Str: 15 Int: 15 Wis: 16 Dex: 11 Con: 15 Wil: 13 Per: 9
 
 - *Train +2str +1con -2wis (or +2str -1.x wis if staying purer)*
 
@@ -225,13 +241,11 @@ higher levels or with more experience playing orcs), trading some base
 constitution for more willpower is useful and adds even more
 flexibility:
 
-<nowiki>gStr: 15 Int: 15 Wis: 16 Dex: 10 Con: 14 Wil: 14 Per: 9
+Str: 15 Int: 15 Wis: 16 Dex: 10 Con: 14 Wil: 14 Per: 9
 
-</pre>
-
-''Similarly, train +2 strength and train down wisdom, training up
-constitution if you want. While slightly more fragile, the higher
-willpower gives more power for blind and raise dead.
+- ''Similarly, train +2 strength and train down wisdom, training up
+  constitution if you want. While slightly more fragile, the higher
+  willpower gives more power for blind and raise dead.
 
 Train down wisdom because the stat provides less mana than intelligence,
 and as a maxed stat you can get a lot of mileage reallocating it to
@@ -240,6 +254,8 @@ mana pool, but you should still aim for raising strength to use your
 chosen weapon. In general, suggested war shaman stats will involve
 higher base strength and constitution, while suggested pure shaman stats
 will trade off base constitution towards higher willpower.''
+
+------------------------------------------------------------------------
 
 ### Core Shaman Abilities and Some Basics
 
@@ -250,16 +266,10 @@ further.
 - Harm. This is the biggest attack spell orcs have, and without access
   to dispel evil or fireball, orcs are the ones who use it most. Harm is
   unique for two reasons.
-
-<!-- -->
-
-- - First, on top of the spell’s damage, it also inflicts a wound on the
+  - First, on top of the spell’s damage, it also inflicts a wound on the
     target, giving higher variance to the damage but tremendous
     potential as wounds can cut enemy max hp.
-
-<!-- -->
-
-- - Second, harm cannot reduce an enemy below 1hp – enemies will always
+  - Second, harm cannot reduce an enemy below 1hp – enemies will always
     survive with 1hp, and the spell will outright fail against a foe
     with 1hp. It will, however, kill incapacitated foes.
     - Harm’s power is also a newbie trap. The spell is very expensive
@@ -272,6 +282,8 @@ further.
       other races who have the mana pool to blast foes to death.
       Effective use of the spell will be discussed in subsequent
       sections.
+
+<!-- -->
 
 - Raise Dead. A truly unique spell to orcs, raise dead turns the corpse
   of a sapient creature into an enslaved shadow – a permanently-charmed
@@ -298,44 +310,55 @@ further.
     easier). Their moves are extremely good, and they are better suited
     to assisting/bashing than taking hits from enemies.
 
-Raise dead is a superb skill for both XP and PK and does not require
-many practices because the created mobiles don’t expire or scale with
-the spell. Raise can be cast at full mana and then you can spend time
-regenning mana when outside combat so long as the spell is workable
-(often 5-8 practices needed to get it under 100 mana, don’t waste
-practices raising this much higher). The pure shaman section of the
-guide will incorporate this ability more than the war shaman, but
-high-level war shamans can also pick up this skill. War Shaman, Pure
-Shaman, and Extensions War shamans and pure shamans are nearly distinct
-classes in practice, and so there is a separate guide for details on
-each. You should read on to the one (or both) that you’re most
-interested in playing at levels 21+. Finally, we should briefly touch on
-the fact that shaman pures and combos that don’t fit the above
-frameworks certainly exist. Caster-warriors, with non-max intelligence
-and wisdom and fewer spells in favor of more robust warrior skills and
-higher physical stats are one end of the spectrum. Thief shaman combos
-are another niche case, where the armour spell covers the weak equipment
-absorb and blindness makes backstab more effective. Playing the more
-standard combo setups will develop your sense of what you can fit in a
-character, what seems to work, what stats matter, and so on. Hence,
-starting with the basics listed here will help you get accustomed to
-shaman combos and let you design your own characters which suit your
-interests. Some examples: Piercing poison pure shaman:
-<http://elvenrunes.com/cgi-bin/logs/secure/log_65860,66525_start_30_omode__typ_whine_show.m>
+<!-- -->
+
+- Raise dead is a superb skill for both XP and PK and does not require
+  many practices because the created mobiles don’t expire or scale with
+  the spell. Raise can be cast at full mana and then you can spend time
+  regenning mana when outside combat so long as the spell is workable
+  (often 5-8 practices needed to get it under 100 mana, don’t waste
+  practices raising this much higher). The pure shaman section of the
+  guide will incorporate this ability more than the war shaman, but
+  high-level war shamans can also pick up this skill.
+
+------------------------------------------------------------------------
+
+### War Shaman, Pure Shaman, and Extensions
+
+War shamans and pure shamans are nearly distinct classes in practice,
+and so there is a separate guide for details on each. You should read on
+to the one (or both) that you’re most interested in playing at levels
+21+.
+
+Finally, we should briefly touch on the fact that shaman pures and
+combos that don’t fit the above frameworks certainly exist.
+Caster-warriors, with non-max intelligence and wisdom and fewer spells
+in favor of more robust warrior skills and higher physical stats are one
+end of the spectrum. Thief shaman combos are another niche case, where
+the armour spell covers the weak equipment absorb and blindness makes
+backstab more effective.
+
+Playing the more standard combo setups will develop your sense of what
+you can fit in a character, what seems to work, what stats matter, and
+so on. Hence, starting with the basics listed here will help you get
+accustomed to shaman combos and let you design your own characters which
+suit your interests.
+
+Some examples: Piercing poison pure shaman:
+[1](http://elvenrunes.com/cgi-bin/logs/secure/log_65860,66525_start_30_omode__typ_whine_show.m)
 Bolting war-combo:
-<http://elvenrunes.com/cgi-bin/logs/secure/show.m?log=60629,51757&mark=>
+[2](http://elvenrunes.com/cgi-bin/logs/secure/show.m?log=60629,51757&mark=)
+
+------------------------------------------------------------------------
 
 ## War Shaman
-
-Index • Introduction • Stats • Practicing • Leveling Up • Playstyle and
-Tactics • Extensions
-
-### Intro
 
 This guide follows the Shaman Basics guide, and assumes that you’ve
 either read it, or are familiar with the basics in your own right. If
 something seems unclear, check to see if the Basics Guide has mentioned
-it. War shaman is the more quintessential combo character of the shaman
+it.
+
+War shaman is the more quintessential combo character of the shaman
 family, incorporating robust hitting power with limited spells that are
 directly useful for offense/defense rather than support. You can hit and
 bash like a warrior and fling nukes like a caster – not as well as
@@ -343,35 +366,60 @@ either but finding synergies between the two. Whether it’s trading hits
 against a warrior while using armour spell to put you on top or landing
 a bash with two quick harms for an instant kill, war shaman has a number
 of useful and simple synergies that make it an effective character for
-PK and MUME in general. A Quick Overview: <nowiki>gPros: • Simple,
-flexible strategies for fights in closeables, in the open, and against a
-variety of enemies. • High solo lethality: bash-harm is satisfying and
-effective for securing kills. • Relatively low dependence on equipment.
-• Bash and nuke give useful tools for a PvE group. Cons: • Limited solo
-XP options except at very high level. • Combo ob/defense can perform
-poorly against pure warriors in a straight fight.
+PK and MUME in general.
 
-</pre>
+A Quick Overview:
 
-**Stats:** While the baseline stats above are perfectly usable for a war
-shaman, you can tune them in various ways if you don’t intend to
-re-practice the character. **Examples:** <nowiki>g Str: 16 Int:15 Wis:
-16 Dex: 9 Con:16 Wil: 12 Per: 9 \[base\]
+**Pros:**
 
-</pre>
+- Simple, flexible strategies for fights in closeables, in the open, and
+  against a variety of enemies.
 
-Train -2 Wis +1 Str +1 Con +2 Dex The above pushes your strength and
-constitution a little higher at the cost of dex and wil. Dex can be
-reclaimed by training, letting you settle at: <nowiki>gStr: 18 Int: 16
-Wis: 14 Dex: 12 Con: 18 Wil: 13 Per: 10 \[2nd age, train\]
+<!-- -->
 
-</pre>
+- High solo lethality: bash-harm is satisfying and effective for
+  securing kills.
+
+<!-- -->
+
+- Relatively low dependence on equipment.
+
+<!-- -->
+
+- Bash and nuke give useful tools for a PvE group.
+
+**Cons:**
+
+- Limited solo XP options except at very high level.
+
+<!-- -->
+
+- Combo ob/defense can perform poorly against pure warriors in a
+  straight fight.</nowiki>
+
+------------------------------------------------------------------------
+
+### Stats
+
+While the baseline stats above are perfectly usable for a war shaman,
+you can tune them in various ways if you don’t intend to re-practice the
+character.
+
+*Examples:* Str: 16 Int:15 Wis: 16 Dex: 9 Con:16 Wil: 12 Per: 9 \[base\]
+
+- Train -2 Wis +1 Str +1 Con +2 Dex
+
+The above pushes your strength and constitution a little higher at the
+cost of dex and wil. Dex can be reclaimed by training, letting you
+settle at: Str: 18 Int: 16 Wis: 14 Dex: 12 Con: 18 Wil: 13 Per: 10 \[2nd
+age, train\]
 
 At level 30, that looks like this:
 
-• 360 hits, 101 mana, 140 moves • OB: 144%, DB: 36%, PB: 14%, Armour:
-94% • EQ: Metals, ruby ring, warsword, gleaming belt • \*stats taken
-solo in orc caves in 2nd age
+- 360 **hits**, 101 **mana**, 140 **moves**
+- **OB:** 144%, **DB:** 36%, **PB:** 14%, **Armour:** 94%
+- **EQ:** Metals, ruby ring, warsword, gleaming belt
+  - stats taken solo in orc caves in 2nd age
 
 Ultimately, you should aim for having enough strength to use your
 weapons (i.e. 18) without access to strength spell or a strength ring,
@@ -380,6 +428,8 @@ start at 2nd age and should stay in the 2nd/3rd age brackets. A good
 time to reset age is when the +1 strength bonus from age is lost, as the
 added mana regen isn’t worth the loss of physical stats when going to
 4th age and above.
+
+------------------------------------------------------------------------
 
 ### Practices at Legend – Core Skills, Optional Skills
 
@@ -516,33 +566,36 @@ Armies of the West), cure serious/critic can work with fewer total
 practices invested, and they help counterweigh your warrior practices to
 keep spell% decent.
 
+------------------------------------------------------------------------
+
 ### Equipment and Weapon Choice
 
 Weapon choice is largely up to you, and you should feel free to try out
 what seems fun. Here are some considerations:
 
-- Smite: Ounce for ounce this is probably the strongest choice.
+- **Smite:** Ounce for ounce this is probably the strongest choice.
   Str-Con-Wil are your best weapon stats for getting a high skill %.
   Furthermore, as a combo your attacks are weaker, and so smite’s
   individually larger hits help compensate for that against linear
-  elements of armor reduction. \*\*Some of smite’s weaknesses such as
-  low defense are compensated somewhat by armour/shield. Additionally,
-  re-eq is comparatively simple – grab a mattock and go.
-  - - Legend EQ: burnished hewing-spear, war mattock, or great warsword.
+  elements of armor reduction.
+  - Some of smite’s weaknesses such as low defense are compensated
+    somewhat by armour/shield. Additionally, re-eq is comparatively
+    simple – grab a mattock and go.
+  - *Legend EQ:* burnished hewing-spear, war mattock, or great warsword.
 
 <!-- -->
 
-- Concussion: Just as good stat-wise as smite, concussion is amazing vs
-  metal targets (i.e. most targets in PK) and allows you to use a shield
-  to boost defense and spellsave. However, the best concussion weapon
-  (ornate, steel-shafted warhammer) is likely the most difficult weapon
-  to replace.
-  - Legend EQ: ornate warhammer, max-enchanted heavy morningstar, or
+- **Concussion:** Just as good stat-wise as smite, concussion is amazing
+  vs metal targets (i.e. most targets in PK) and allows you to use a
+  shield to boost defense and spellsave. However, the best concussion
+  weapon (ornate, steel-shafted warhammer) is likely the most difficult
+  weapon to replace.
+  - *Legend EQ:* ornate warhammer, max-enchanted heavy morningstar, or
     engraved warhammer.
 
 <!-- -->
 
-- Stabbing: Effective vs riding and at-bay make stabbing a good
+- **Stabbing:** Effective vs riding and at-bay make stabbing a good
   all-around choice, with less pure offensive power than smite but more
   balance overall. Awlpike is a powerful, quick weapon and unlike all
   other options on this list requires only 17 strength, letting you be
@@ -555,25 +608,25 @@ what seems fun. Here are some considerations:
 
 <!-- -->
 
-- Cleave: Darkened orkish axe is (relatively) easy to get and hits
+- **Cleave:** Darkened orkish axe is (relatively) easy to get and hits
   tremendously hard. However, you are locked to -5 ob versus other
   weapon classes (cleave weapons are +15OB), and without any of the
   other useful advantages said classes provide.
-  - Legend EQ: darkened orkish axe, mighty dwarven axe.
+  - *Legend EQ:* darkened orkish axe, mighty dwarven axe.
 
 <!-- -->
 
-- Slashing: Useful for defense, mediocre for offense. Steel claymore
+- **Slashing:** Useful for defense, mediocre for offense. Steel claymore
   hits hard, but if you want to hit things dead, use a bigger weapon. It
   can be useful to put in 2-5 practices for buffing if you’ve got
   another primary 1-handed weapon type.
-  - Legend EQ: steel claymore, engraved broadsword, fell blade,
+  - *Legend EQ:* steel claymore, engraved broadsword, fell blade,
     wightblade.
 
 <!-- -->
 
-- Pierce: No. Doesn’t fit your stats, isn’t a warrior skill, and has low
-  impact damage.
+- **Pierce:** No. Doesn’t fit your stats, isn’t a warrior skill, and has
+  low impact damage.
 
 Aside from weaponry, your basic equipment loadout looks like the
 following:
@@ -633,40 +686,35 @@ following:
   practices by not getting the spell yourself, but not needed to play
   the character.
 
-#### An example basic equipment loadout – with a legend weapon:
+#### Basic EQ + Legend Weapon
 
-<nowiki>g You are using: <wielded two-handed> a great warsword
-(flawless) <worn on forearm> a metal buckler (flawless) <worn on head> a
-great helm (flawless) <worn on body> a fine metal breastplate (flawless)
-<worn about body> a grisly, scorched fur (flawless) <worn on arms> a
-fine pair of metal vambraces (flawless) <worn on hands> a fine pair of
-metal gauntlets (flawless) <worn on legs> a fine pair of metal greaves
-(flawless) <worn on feet> a fine pair of metal boots (flawless)
-<worn on wrist> a keyring with a couple of keys and a set of lock picks
-<worn on finger> a ring <worn on back> a leather backpack <worn as belt>
-a leather belt <worn on belt> a butcher knife (flawless) <worn on belt>
-a water skin <worn on belt> a herbal kit <worn on belt> a stone
-
-</pre>
-
-An example max set, with some artifacts and rare items: <nowiki>g You
-are using: <wielded two-handed> a burnished hewing-spear (flawless)
-<worn on forearm> the black buckler (flawless) <worn on head> a crown of
-bones (flawless) <worn on body> a shining breastplate (flawless)
-<worn about body> an imposing, golden mantle (flawless) <worn on arms> a
-shining pair of vambraces (flawless) <worn on hands> a black pair of
-metal gauntlets (flawless) <worn on legs> a shining pair of greaves
-(flawless) <worn on feet> a black pair of metal boots (flawless)
-<worn around neck> an old length of iron chain <worn around neck> a
-black amulet <worn on wrist> a keyring with a couple of keys and a set
-of lock picks <worn on wrist> a slim silvery wristband (flawless)
-<worn on finger> a ruby ring <worn on finger> a root ring <worn on back>
-a silvan satchel <worn as belt> a gleaming belt <worn on belt> a
-gem-inlaid knife (flawless) <worn on belt> a sable pouch <worn on belt>
-a water skin <worn on belt> a stone <worn on belt> an enhanced herbal
-kit
-
-</pre>
+You are using: \<wielded two-handed\> a great warsword (flawless) \<worn
+on forearm\> a metal buckler (flawless) \<worn on head\> a great helm
+(flawless) \<worn on body\> a fine metal breastplate (flawless) \<worn
+about body\> a grisly, scorched fur (flawless) \<worn on arms\> a fine
+pair of metal vambraces (flawless) \<worn on hands\> a fine pair of
+metal gauntlets (flawless) \<worn on legs\> a fine pair of metal greaves
+(flawless) \<worn on feet\> a fine pair of metal boots (flawless) \<worn
+on wrist\> a keyring with a couple of keys and a set of lock picks
+\<worn on finger\> a ring \<worn on back\> a leather backpack \<worn as
+belt\> a leather belt \<worn on belt\> a butcher knife (flawless) \<worn
+on belt\> a water skin \<worn on belt\> a herbal kit \<worn on belt\> a
+stone *An example max set, with some artifacts and rare items:* You are
+using: \<wielded two-handed\> a burnished hewing-spear (flawless) \<worn
+on forearm\> the black buckler (flawless) \<worn on head\> a crown of
+bones (flawless) \<worn on body\> a shining breastplate (flawless)
+\<worn about body\> an imposing, golden mantle (flawless) \<worn on
+arms\> a shining pair of vambraces (flawless) \<worn on hands\> a black
+pair of metal gauntlets (flawless) \<worn on legs\> a shining pair of
+greaves (flawless) \<worn on feet\> a black pair of metal boots
+(flawless) \<worn around neck\> an old length of iron chain \<worn
+around neck\> a black amulet \<worn on wrist\> a keyring with a couple
+of keys and a set of lock picks \<worn on wrist\> a slim silvery
+wristband (flawless) \<worn on finger\> a ruby ring \<worn on finger\> a
+root ring \<worn on back\> a silvan satchel \<worn as belt\> a gleaming
+belt \<worn on belt\> a gem-inlaid knife (flawless) \<worn on belt\> a
+sable pouch \<worn on belt\> a water skin \<worn on belt\> a stone
+\<worn on belt\> an enhanced herbal kit
 
 #### Alternative items:
 
@@ -735,6 +783,8 @@ percentages to where you want them. Having harm maxed will give you more
 punch in case of PK, and so I would get this sooner rather than later.
 The penalty from sun is less pressing now, so you can gather more TPs
 for your higher levels.
+
+------------------------------------------------------------------------
 
 ### Playstyle and Tactics
 
@@ -836,10 +886,14 @@ it hard to damage them. In such cases, attempting to land a bash or
 going wimpy (if not a smiter) to cast spells more aggressively can
 provide options.
 
-Examples: • Vs caster with charmies:
-<http://elvenrunes.com/cgi-bin/logs/secure/log_65511,31796_start_30_omode__typ_pk_show.m>
-• Vs war-combo:
-<http://elvenrunes.com/cgi-bin/logs/secure/mumps?rou=show&log=62943,39153>
+*Examples:*
+
+- Vs caster with charmies:
+  [3](http://elvenrunes.com/cgi-bin/logs/secure/log_65511,31796_start_30_omode__typ_pk_show.m)
+- Vs war-combo:
+  [4](http://elvenrunes.com/cgi-bin/logs/secure/mumps?rou=show&log=62943,39153)
+
+------------------------------------------------------------------------
 
 ### High-level Extensions and Alternate Skills
 
@@ -896,14 +950,11 @@ add besides simply tuning up your warrior skills:
   to land it, which can diminish how effectively you are using your main
   skills as you commit to trying to roll the dice.
 
-Closing: Why are you still here? Go bash some elves dead.
+Closing: *Why are you still here? Go bash some elves dead.*
+
+------------------------------------------------------------------------
 
 ## Pure Shaman
-
-Index • Introduction • Stats • Practicing • Leveling Up • Playstyle and
-Tactics • Extensions
-
-### Introduction
 
 This guide follows the Shaman Basics and War Shaman guides, and assumes
 that you’ve either read them, or are familiar with the basics in your
@@ -954,6 +1005,8 @@ support skills and utilize your mana pool!
 - Often targeted in PK with weaker tools to directly hit back compared
   to a war shaman.
 
+------------------------------------------------------------------------
+
 ### Stats
 
 The primary difference between pure and war shaman is that willpower
@@ -961,9 +1014,7 @@ becomes much more of a feature, as it plays into skills such as
 blindness, command, and break door. By contrast, raw health is less
 important as your armour spell is stronger and you are no longer aiming
 to physically beat your foes to death. As such, one example of stats
-would be: <nowiki>gStr: 15 Int: 15 Wis: 16 Dex: 9 Con: 12 Wil: 15 Per: 9
-
-</pre>
+would be: Str: 15 Int: 15 Wis: 16 Dex: 9 Con: 12 Wil: 15 Per: 9
 
 - Train +2 strength from wisdom unless you plan on practicing the
   strength spell.
@@ -976,7 +1027,7 @@ pure shaman might practice is less specific, there isn’t as simple a
 look at what a legend-level shaman stats will look like, but one could
 expect:
 
-- 290 hits, 110 mana, 122 moves
+- 290 **hits**, 110 **mana**, 122 **moves**
 - **OB:** 130%, **DB:** 53%, **PB:** 31%, **Armour:** 75%
 - **EQ:** blackened spear, bejewelled shield, shining chain, mana ring,
   gleaming belt
@@ -992,11 +1043,7 @@ instead. This is viable but exacerbates the weaknesses of the class –
 without any hit power, losing your raised mobile dramatically decreases
 your ability to fight things unless you operate in a group.
 
-Example stats: <nowiki>gStr: 12 Int: 15 Wis: 16 Dex: 10 Con: 12 Wil: 16
-Per: 9
-
-</pre>
-
+*Example stats:* Str: 12 Int: 15 Wis: 16 Dex: 10 Con: 12 Wil: 16 Per: 9
 Limited or no training.
 
 Most of this section will discuss the former stats, with some mention of
@@ -1008,6 +1055,8 @@ of the +1 strength that 2nd and 3rd age provide. Hence, you may want to
 use both training and strength spell to be sure you have 18 strength at
 4th age in cases when you lack access to a strength ring, use lower-str
 weapons, or accept the partial penalty.
+
+------------------------------------------------------------------------
 
 ### Practices at Legend – Core Skills, Optional Skills
 
@@ -1100,11 +1149,11 @@ The core skills for a pure shaman are roughly:
   up to you. In general, using these practices on a melee weapon is more
   useful in more situations.
 
-As an aside, it is challenging to fit both bash and blind in the same
-orkish character, in part due to the diminished specialization on each
-(which reduces reliability), but also due to how many practices are
-needed. Additionally, it’s a bit more questionable how these synergize:
-if you’re supporting with blind, you can also bring a dreadful warg to
+*NOTE:* it is challenging to fit both bash and blind in the same orkish
+character, in part due to the diminished specialization on each (which
+reduces reliability), but also due to how many practices are needed.
+Additionally, it’s a bit more questionable how these synergize: if
+you’re supporting with blind, you can also bring a dreadful warg to
 bash, and if you’re the one bashing targets you’re probably better off
 hitting them with more OB, too. It is, however, possible – if you’re
 willing to give up some other spells – to obtain 70%+ weaponskill/bash
@@ -1182,16 +1231,13 @@ And some uncommon spell choices:
   highly variable in larger battles. If you practice it, aim for as
   close to 90%+ as possible. This usually means giving up other major
   spells.
-
-<!-- -->
-
-- **Breath of briskness:** is the easiest choice of spell to drop for
-  the practices needed, as black breath can be used in rooms with groups
-  of non-aggressive mobiles to top up your mana, at the cost of needing
-  to find said groups and losing group support. You might also decide to
-  drop harm, as black breath will become your choice of cast-on-bash
-  spell. You can pick up lightning bolt as an all-around attack spell
-  instead.
+  - **Breath of briskness:** is the easiest choice of spell to drop for
+    the practices needed, as black breath can be used in rooms with
+    groups of non-aggressive mobiles to top up your mana, at the cost of
+    needing to find said groups and losing group support. You might also
+    decide to drop harm, as black breath will become your choice of
+    cast-on-bash spell. You can pick up lightning bolt as an all-around
+    attack spell instead.
 
 <!-- -->
 
@@ -1202,6 +1248,8 @@ And some uncommon spell choices:
 
 Some spells (poison, hold, energy drain) are currently functionally
 useless and should not be practiced.
+
+------------------------------------------------------------------------
 
 ### Equipment and Weapon Choice
 
@@ -1251,20 +1299,19 @@ some alternative considerations to a few:
 
 - **Gilded round shield** or the best light shield you can find.
 
-An example of a simple set with a legend weapon: <nowiki>g You are
-using: <wielded> a narrow runed awlpike (flawless) <worn as shield> a
-gilded round shield (flawless) <worn on head> a fine chain mail coif
-(flawless) <worn on body> a coarse dusky robe (flawless)
-<worn about body> a ragged, blackened cloak (flawless) <worn on arms> a
-fine pair of chain mail sleeves (flawless) <worn on hands> a fine pair
-of metal gauntlets (flawless) <worn on legs> a fine pair of chain mail
-leggings (flawless) <worn on feet> a fine pair of metal boots (flawless)
-<worn on wrist> a keyring with a key and a set of lock picks
-<worn on finger> a ring <worn on back> a leather backpack <worn as belt>
-a leather belt <worn on belt> a butcher knife (flawless) <worn on belt>
-a water skin <worn on belt> a herbal kit <worn on belt> a stone
-
-</pre>
+*An example of a simple set with a legend weapon:* You are using:
+\<wielded\> a narrow runed awlpike (flawless) \<worn as shield\> a
+gilded round shield (flawless) \<worn on head\> a fine chain mail coif
+(flawless) \<worn on body\> a coarse dusky robe (flawless) \<worn about
+body\> a ragged, blackened cloak (flawless) \<worn on arms\> a fine pair
+of chain mail sleeves (flawless) \<worn on hands\> a fine pair of metal
+gauntlets (flawless) \<worn on legs\> a fine pair of chain mail leggings
+(flawless) \<worn on feet\> a fine pair of metal boots (flawless) \<worn
+on wrist\> a keyring with a key and a set of lock picks \<worn on
+finger\> a ring \<worn on back\> a leather backpack \<worn as belt\> a
+leather belt \<worn on belt\> a butcher knife (flawless) \<worn on
+belt\> a water skin \<worn on belt\> a herbal kit \<worn on belt\> a
+stone
 
 #### Legend EQ
 
@@ -1342,23 +1389,21 @@ For PvE, your character will still be functional without legend items,
 but you will notice a quick drop-off in blind effectiveness without the
 robe and crown.
 
-<nowiki>g An example legend equipment loadout: You are using: <wielded>
-a narrow runed awlpike (flawless) <worn as shield> a bejewelled shield
-(flawless) <worn on head> a twisted crown <worn on body> a coarse dusky
-robe (flawless) <worn about body> an imposing, golden mantle (flawless)
-<worn on arms> a shining pair of chain mail sleeves (flawless)
-<worn on hands> a fine pair of metal gauntlets (flawless) <worn on legs>
-a shining pair of chain mail leggings (flawless) <worn on feet> a fine
-pair of metal boots (flawless) <worn around neck> a black amulet
-<worn around neck> an old length of iron chain <worn on wrist> a keyring
-with a key and a set of lock picks <worn on wrist> a slim silvery
-wristband (flawless) <worn on finger> a ring <worn on finger> a golden
-ruby ring <worn on back> a leather backpack <worn as belt> a gleaming
-belt <worn on belt> a gem-inlaid knife (flawless) <worn on belt> a water
-skin <worn on belt> an enhanced herbal kit <worn on belt> a sable pouch
-<worn on belt> a stone
-
-</pre>
+''An example legend equipment loadout:'' You are using: \<wielded\> a
+narrow runed awlpike (flawless) \<worn as shield\> a bejewelled shield
+(flawless) \<worn on head\> a twisted crown \<worn on body\> a coarse
+dusky robe (flawless) \<worn about body\> an imposing, golden mantle
+(flawless) \<worn on arms\> a shining pair of chain mail sleeves
+(flawless) \<worn on hands\> a fine pair of metal gauntlets (flawless)
+\<worn on legs\> a shining pair of chain mail leggings (flawless) \<worn
+on feet\> a fine pair of metal boots (flawless) \<worn around neck\> a
+black amulet \<worn around neck\> an old length of iron chain \<worn on
+wrist\> a keyring with a key and a set of lock picks \<worn on wrist\> a
+slim silvery wristband (flawless) \<worn on finger\> a ring \<worn on
+finger\> a golden ruby ring \<worn on back\> a leather backpack \<worn
+as belt\> a gleaming belt \<worn on belt\> a gem-inlaid knife (flawless)
+\<worn on belt\> a water skin \<worn on belt\> an enhanced herbal kit
+\<worn on belt\> a sable pouch \<worn on belt\> a stone
 
 #### Alternative items
 
@@ -1392,6 +1437,8 @@ well in the latter case, since hits are rarely going to land on the few
 bits of armor you wear and the lower weight will help defense and
 mobility.
 
+------------------------------------------------------------------------
+
 ### Leveling up
 
 **Snaga.** This is mostly the same as with war shamans – you’ll want to
@@ -1416,27 +1463,37 @@ Mirkwood, Central Anduin, and Dol Guldur are easy areas to rip through
 with this setup, but you aren’t constrained and can go just about
 anywhere and XP well. If your setup is more defensive, you can use the
 dreadful warg to assist you and bash instead, but either way, you should
-be able to progress swiftly to legend and beyond. • It will be useful to
-learn which mobs are both level 21+ and easy to kill in various areas,
-in case you lose your raised mobile. Obvious choices around NOC are
-Thrakghash (dies in some harm-fleeing, doesn’t get you wanted in NOC) or
-olog-hai NW of crack behind crevices. Another tool – once your defense
-(especially armour spell) is fairly healthy – is to make use of
-earthquake. Areas such as the Dunland orkish caves can be cleared out by
-pre-casting earthquake as hostile packs of mobs chase you into the room.
-Usually, this doesn’t compare to using raise dead, but it’s another
-tool. Finally, at this point having access to raise and blind means you
-can freely kill any mob inside NOC. Shopkeepers, Guildmasters,
-Gatekeepers, Takhr, and the Great Goblin will banish you if you attack
-them but won’t do this if blind – meaning you can freely kill everyone,
-one mob at a time, reaping an easy harvest of experience and loot. Pure
-shamans often act as gold suppliers, being able to easily and freely
-raise money. • The Great Goblin won’t chase into Harkz’s legendhome (2E
-S E from GG), so if you fail a blind and he begins to chase, retreat
-here. • If you mess up and get wanted, someone has to kill the Great
-Goblin to reinstate your citizenship. Mobs will chase you throughout
-NOC, so don’t stick around too long. Alternative rent spots are
-available at DT (if dark) and OOC.
+be able to progress swiftly to legend and beyond.
+
+- It will be useful to learn which mobs are both level 21+ and easy to
+  kill in various areas, in case you lose your raised mobile. Obvious
+  choices around NOC are Thrakghash (dies in some harm-fleeing, doesn’t
+  get you wanted in NOC) or olog-hai NW of crack behind crevices.
+
+Another tool – once your defense (especially armour spell) is fairly
+healthy – is to make use of earthquake. Areas such as the Dunland orkish
+caves can be cleared out by pre-casting earthquake as hostile packs of
+mobs chase you into the room. Usually, this doesn’t compare to using
+raise dead, but it’s another tool.
+
+Finally, at this point having access to raise and blind means you can
+freely kill any mob inside NOC. Shopkeepers, Guildmasters, Gatekeepers,
+Takhr, and the Great Goblin will banish you if you attack them but won’t
+do this if blind – meaning you can freely kill everyone, one mob at a
+time, reaping an easy harvest of experience and loot. Pure shamans often
+act as gold suppliers, being able to easily and freely raise money.
+
+- The Great Goblin won’t chase into Harkz’s legendhome (2E S E from GG),
+  so if you fail a blind and he begins to chase, retreat here.
+
+<!-- -->
+
+- If you mess up and get wanted, someone has to kill the Great Goblin to
+  reinstate your citizenship. Mobs will chase you throughout NOC, so
+  don’t stick around too long. Alternative rent spots are available at
+  DT (if dark) and OOC.
+
+------------------------------------------------------------------------
 
 ### Playstyle and Tactics
 
@@ -1448,15 +1505,17 @@ disadvantage. In a group, your role is to stay alive (as you will often
 be targeted, so keep your armour up) and provide support, be that
 blinding charmies/enemy non-casters, spamming spells on enemy casters to
 keep them out of the picture, and/or landing offensive spells on the
-targeted enemy where possible. The choice between enslaved shadow and
-dreadful warg depends somewhat on playstyle. The shadow can rescue you,
-buffs much better, but has less offense. It’s often better for XP for
-this reason, but it has merits in PK where it can be used to tie down
-enemy charmies or warriors without immediate worries about it dying.
-Enemies engaged with the shadow are therefore vulnerable for you to cast
-on. The shadow leaves no tracks, and this allows additional tactical
-advantages: while everyone will know exactly what type of character you
-are when they see the dreadful warg tracks.
+targeted enemy where possible.
+
+The choice between enslaved shadow and dreadful warg depends somewhat on
+playstyle. The shadow can rescue you, buffs much better, but has less
+offense. It’s often better for XP for this reason, but it has merits in
+PK where it can be used to tie down enemy charmies or warriors without
+immediate worries about it dying. Enemies engaged with the shadow are
+therefore vulnerable for you to cast on. The shadow leaves no tracks,
+and this allows additional tactical advantages: while everyone will know
+exactly what type of character you are when they see the dreadful warg
+tracks.
 
 The warg, on the other hand, can hit substantially harder and bash
 enemies for nuking or tactical advantage (as players use the boar or
@@ -1506,28 +1565,31 @@ other hand, overenthusiastic quaking may lead to the caster being bashed
 regardless (especially in rooms with few exits where their flees may
 fail), opening them to your Harm spell.
 
-With the shadow, this is flipped – if the enemy is named, having the
-shadow hit so that you can assist or immediately start casting will
-absorb the enemy’s damage while allowing you to deal your own. This is
-more challenging if the enemy is not named (and hence cannot be targeted
-directly by your shadow) or is simply faster than you. At this point,
-the warg strategies (without blind and with less hitting power) apply. A
-small but relevant point to end on is spell casting speed. Quick spells,
-obviously, are fastest – at a lower spell level and 50% more mana. Quick
-is sometimes overkill where casting fast is effective, doing more damage
-and costing less, especially if using spells like shock against enemies
-that are using colour spray or dispel evil. It’s also a healthy middle
-ground for landing harms at a lower mana cost.
+With *Italic text*the shadow, this is flipped – if the enemy is named,
+having the shadow hit so that you can assist or immediately start
+casting will absorb the enemy’s damage while allowing you to deal your
+own. This is more challenging if the enemy is not named (and hence
+cannot be targeted directly by your shadow) or is simply faster than
+you. At this point, the warg strategies (without blind and with less
+hitting power) apply. A small but relevant point to end on is spell
+casting speed. Quick spells, obviously, are fastest – at a lower spell
+level and 50% more mana. Quick is sometimes overkill where casting fast
+is effective, doing more damage and costing less, especially if using
+spells like shock against enemies that are using colour spray or dispel
+evil. It’s also a healthy middle ground for landing harms at a lower
+mana cost.
 
-**Examples:**
+*Examples:*
 
 - Quake chaos without weapon skills:
-  [1](http://elvenrunes.com/cgi-bin/logs/secure/log_65927,79853_start_10_omode__typ_pk_show.m)
+  [5](http://elvenrunes.com/cgi-bin/logs/secure/log_65927,79853_start_10_omode__typ_pk_show.m)
 
 <!-- -->
 
 - Black breath in action:
-  [2](http://elvenrunes.com/cgi-bin/logs/secure/log_65846,10994_start_10_omode__typ_pk_show.m)
+  [6](http://elvenrunes.com/cgi-bin/logs/secure/log_65846,10994_start_10_omode__typ_pk_show.m)
+
+------------------------------------------------------------------------
 
 ## Highlevel Extensions
 
@@ -1553,4 +1615,6 @@ As pure shamans get to high levels, you have a few choices:
   additional tricks to your offensive power. If you happen to use black
   breath, pairing that with arachnia is an obvious move. Aim for 50%+.
 
-Closing Outros are for elves, snaga.
+Closing: *Outros are for elves, snaga.*
+
+[\*](Category:Guides "wikilink")

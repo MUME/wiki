@@ -3,10 +3,33 @@ title: Detect Evil
 ---
 
 **Detect evil** is a level 1 [cleric](cleric "wikilink")
-[spell](spell "wikilink"). It will tell you the
-[alignment](alignment "wikilink") of the creature that it is cast upon.
-This can be handy if you are unsure whether a creature has a good align
-and thus should not be attacked. Mostly, however, this is rather easy to
-tell and thus the spell is rather useless.
+[spell](spell "wikilink"). When cast, it will apply a long-lasting buff
+that shows you a red aura around [evil](alignment "wikilink") creatures.
+Though it can give you an idea which [mobiles](mobile "wikilink") you
+can kill to improve your alignment, it is overall not very useful.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+`Syntax      : cast 'detect evil' [self-only]`
+`Type        : Detection`
+`Accumulative: No`
+`Duration    : Yes`
+`Casting     : Normal`
+`Position    : Standing`
+`Level       : Level 1`
+`Class       : Cleric`
+`Min. Mana   : 5`
+
+`Example:`
+
+`  > cast 'detect evil'`
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`               8`
+[`Harlond Cleric Guild`](Harlond_Cleric_Guild "wikilink")`               5`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                8`
+[`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         8`
+[`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             8`
+
+[Category:Cleric spells](Category:Cleric_spells "wikilink")
+[Category:Spells](Category:Spells "wikilink")

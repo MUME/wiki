@@ -16,7 +16,7 @@ The **Illusionist** teaches [mage](mage "wikilink")
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                     12  Hard`
+[`Armour`](Armour_Spell "wikilink")`                     12  Hard`
 [`Burning Hands`](Burning_Hands "wikilink")`               6  Normal`
 [`Call Familiar`](Call_Familiar "wikilink")`              11  Normal`
 [`Charm`](Charm "wikilink")`                      16  Hard`
@@ -27,10 +27,10 @@ The **Illusionist** teaches [mage](mage "wikilink")
 [`Locate Life`](Locate_Life "wikilink")`                 3  Hard`
 [`Night Vision`](Night_Vision "wikilink")`                2  Normal`
 [`Scry`](Scry "wikilink")`                        5  Hard`
-[`Shield`](Shield "wikilink")`                     10  Hard`
+[`Shield`](Shield_Spell "wikilink")`                     10  Hard`
 [`Shocking Grasp`](Shocking_Grasp "wikilink")`              7  Normal`
 [`Shroud`](Shroud "wikilink")`                     16  Hard`
-[`Sleep`](Sleep "wikilink")`                      16  Hard`
+[`Sleep`](Sleep_Spell "wikilink")`                      16  Hard`
 [`Teleport`](Teleport "wikilink")`                    3  Hard`
 [`Ventriloquate`](Ventriloquate "wikilink")`               5  Very easy`
 

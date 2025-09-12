@@ -2,10 +2,11 @@
 title: Beechbone the Ent
 ---
 
-**Beechbone** is an [Ent](Ent "wikilink") living in
+**Beechbone** is a [good](alignment "wikilink")
+[level](level "wikilink") 28 [Ent](Ent "wikilink") living in
 [Fangorn](Fangorn "wikilink") forest. He might ask you for help in
 [retrieving](Quest#Beechbone_the_Ent "wikilink") a
-[bowl](a_large_clay_bowl "wikilink") from his ruined home.
+[bowl](large_clay_bowl "wikilink") from his ruined home.
 
 `A tall figure, like that of a fine-looking beech tree, is slumped sadly here.`
 `> `**`look at beechbone`**
@@ -23,4 +24,4 @@ Ent**.
 
 `A tall figure, like that of a fine-looking beech tree, rises here.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Ents](Category:_Ents "wikilink")

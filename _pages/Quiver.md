@@ -2,6 +2,4 @@
 title: Quiver
 ---
 
-{% include Equipment.md %}
-
-[Category:Equipment](Category:Equipment "wikilink")
+1.  REDIRECT [Container](Container "wikilink")

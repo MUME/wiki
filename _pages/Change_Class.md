@@ -9,25 +9,26 @@ skills the character decided to learn.
 
 At any time, you can type 'change class' and see a list of titles that
 match your skills, race, alignment, history, and so on. 'Change class X'
-to choose a new class. Your choice only affects where you appear on 'who
-warr', 'who cleric'..., and your whois.
+to choose a new class. Your choice only affects where you appear on
+'[who warr](who "wikilink")', '[who cleric](who "wikilink")'..., and
+your [whois](whois "wikilink").
 
-When you practice new skills or you gain/lose levels, your class might
-be automatically changed, if the one you selected earlier doesn't fit
-you anymore.
+When you practice new [skills](skill "wikilink") or you gain/lose
+[levels](level "wikilink"), your class might be automatically changed,
+if the one you selected earlier doesn't fit you anymore.
 
 For example:
 
-\>change class You may choose among the following titles:
-
-` Priest`
-` Scholar`
-` Rider`
-` Healer`
-` Master Healer`
-` ...`
-
-\>change class healer Ok.
+`>change class`
+`You may choose among the following titles:`
+`  Priest`
+`  Scholar`
+`  Rider`
+`  Healer`
+`  Master Healer`
+`  ...`
+`>change class healer`
+`Ok.`
 
 See Also: [Class](Class "wikilink")
 

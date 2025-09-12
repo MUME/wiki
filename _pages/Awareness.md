@@ -11,8 +11,15 @@ sense that you may find it harder to discern movement in a dense forest
 than in a cave.
 
 Mastering awareness at your ranger guild can help you see even in the
-poorest of conditions.
+poorest of conditions. (95% awareness allows night-vision)
 
-See also: [Backstab](Backstab "wikilink"), [Hide](Hide "wikilink"),
-[Sneak](Sneak "wikilink"), [Flush](Flush "wikilink"),
-[Search](Search "wikilink")
+## See also
+
+- [Backstab](Backstab "wikilink"), [Hide](Hide "wikilink"),
+  [Sneak](Sneak "wikilink"), [Flush](Flush "wikilink"),
+  [Search](Search "wikilink")
+
+[Back to skill list](Skill "wikilink")
+
+[Category: Skills](Category:_Skills "wikilink") [Category: Ranger
+skills](Category:_Ranger_skills "wikilink")

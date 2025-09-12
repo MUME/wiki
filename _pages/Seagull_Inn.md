@@ -10,7 +10,7 @@ the bottom floor, while an [elven innkeeper](elven_innkeeper "wikilink")
 
 ## Menu
 
-- [pastries](pastries "wikilink")
+- [pastries](pastry "wikilink")
 - [beer bottles](beer_bottle "wikilink") full of [beer](beer "wikilink")
 - [ceramic cups](ceramic_cup "wikilink") full of [tea](tea "wikilink")
 - [small bottles](small_bottle "wikilink") full of
@@ -18,4 +18,5 @@ the bottom floor, while an [elven innkeeper](elven_innkeeper "wikilink")
 
 The bar is open from 10am to 2pm and 5pm to 12am.
 
-[Category: Inns](Category:_Inns "wikilink")
+[Category: Inns](Category:_Inns "wikilink") [Category:
+Shops](Category:_Shops "wikilink")

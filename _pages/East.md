@@ -2,6 +2,6 @@
 title: East
 ---
 
-1.  redirect [Movement](Movement "wikilink")
+1.  redirect [Direction](Direction "wikilink")
 
 [Category:Basics](Category:Basics "wikilink")

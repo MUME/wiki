@@ -24,17 +24,14 @@ Example: bold(1) white text(37) on blue background(44) like this
 "<esc>" + "\[" + "1" + ";" + "3" + "7" + ";" + "4" + "4" + "m"
 
 Or you can just go balistic and make up funny little Christmas-trees
-like this <nowiki>g Norway beat Brazil 2-1 in the France -98 Soccer
-World Cup
-
-</pre>
-
+like this Norway beat Brazil 2-1 in the France -98 Soccer World Cup
 __________________________________WARNING__________________________________
 _________DO_NOT_USE_ANSI_TO_MESS_UP_THE_TERMINALS_OF_OTHER_PLAYERS_________
 ________________THIS CAN RESULT IN DEMOTION OF YOUR
 CHARACTER______________
 
-See also: [Ansi](Ansi "wikilink"), [Ansicodes](Ansicodes "wikilink"),
-[Changes](Changes "wikilink"), [Map](Map "wikilink")
+See also: [Colour](Colour "wikilink"),
+[Ansicodes](Ansicodes "wikilink"), [Change](Change "wikilink"),
+[Map](Map "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")

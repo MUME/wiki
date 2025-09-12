@@ -17,3 +17,4 @@ See also: [Bury](Bury "wikilink"), [Burn](Burn "wikilink"),
 [Hang](Hang "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

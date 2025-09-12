@@ -2,26 +2,25 @@
 title: Shire
 ---
 
-## Shire
-
-The Shire is a civilized place located in the old Kingdom of Arthedain.
-It is far from the great nations of the South, the nearest other place
-being Bree a few miles East. The Shire is divided into four main parts:
-the North, South, East and West Farthings. Located east of the Baranduin
-(Brandywine) is Buckland. Most Hobbits from the Farthings consider
-Bucklanders very queer, while Bucklanders think much the same of the
-others. Lying on the Eastern border of Buckland stretches the Old
-Forest; a place very few dare to enter.
+The **Shire** is a civilized place located in the old Kingdom of
+Arthedain. It is far from the great nations of the South, the nearest
+other place being [Bree](Bree "wikilink") a few miles East. The Shire is
+divided into four main parts: the North, South, East and West Farthings.
+Located east of the Baranduin (Brandywine) is Buckland. Most
+[Hobbits](Hobbit "wikilink") from the Farthings consider Bucklanders
+very queer, while Bucklanders think much the same of the others. Lying
+on the Eastern border of Buckland stretches the [Old
+Forest](Old_Forest "wikilink"); a place very few dare to enter.
 
 The Shire was first inhabited in 1601 by a few adventurous Hobbits from
 Bree, and since then has become the main home of Hobbits. There are no
-other races living in the Shire, but occasionally one might see a Dwarf,
-or two, and sadly many Elves passing through the South Farthing on their
-way West, never to return.
+other [races](race "wikilink") living in the Shire, but occasionally one
+might see a [Dwarf](Dwarf "wikilink"), or two, and sadly many
+[Elves](Elf "wikilink") passing through the South Farthing on their way
+West, never to return.
 
 ## Map
 
-<nowiki>g
 +-----------------------------------------------------------------------------+
 \| Legend: ) ~ \| \| A MAP OF THE SHIRE ) ) ) ~ \| \| /=+
 ________ Dwaling \| \| =/ The East Road ) / ) ))) X ~ ~ ~ ~ \|
@@ -48,6 +47,6 @@ Tuckborough Woodhall ~ \| ~ \| OLD \* \*\| \|==\\ /====/ ((\| \| / \*\*
 \* \*\* \* \|
 +-----------------------------------------------------------------------------+
 
-</pre>
-
 {% include Place.md %}
+
+[Category: Places](Category:_Places "wikilink")

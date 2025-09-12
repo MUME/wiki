@@ -2,13 +2,20 @@
 title: Dispel Magic
 ---
 
-<nowiki>g Syntax : cast 'dispel magic' Type : Offensive, meta magic
-Accumulative: No Duration : No Casting : Very long Position : Standing
-Level : Level 16 Class : Magic User Min. Mana : 35
+Syntax : cast 'dispel magic' \<victim \| object\> Type : Offensive, meta
+magic Accumulative: No Duration : No Casting : Very long Position :
+Standing Level : Level 16 Class : Magic User Min. Mana : 35 Example: \>
+cast 'dispel magic' eket
 
-</pre>
+This spell can be learned from:
 
-Example: \> cast 'dispel magic' eket
+`                     Sessions `
+[`Erestor`](Erestor "wikilink")`                    22`
+[`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`           5`
 
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+## See also
+
+- [Enchant](Enchant "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Mage
+spells](Category:Mage_spells "wikilink")

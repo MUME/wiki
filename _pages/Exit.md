@@ -2,10 +2,42 @@
 title: Exit
 ---
 
-Gives you a list of the obvious exits from your location. Of course, the
-less obvious ones won't show up here - you have to THINK in order to
-locate those. The names of the unhidden doors are also displayed.
+The "**exits**" command shows information about the currently visible
+exits out of your [room](room "wikilink"). Note that some exits may be
+hidden and will require you to use your wits to discover them.
 
-See also: [Autoexit](Autoexit "wikilink"), [Doors](Doors "wikilink")
+With "**change autoexits**" you can set whether to show (brief) exit
+information each time you enter a room.
 
-[Category:Basics](Category:Basics "wikilink")
+For both commands, the [direction](direction "wikilink") (north, east,
+...) will be surrounded by certain flags showing (a)
+[door](door "wikilink") information and (b)
+[terrain](terrain "wikilink") information.
+
+Door information can be one of the following:
+
+` [...]   - A closed 'doorname'`
+` (...)   - (doorname) Room Name        open door`
+` #...#   - (doorname) Room Name        broken door`
+` {...}   - Room Name                   `[`portal`](portal "wikilink")
+` /...\   - Room Name                   upward `[`climb`](climb "wikilink")
+` \.../   - Room Name                   downward climb`
+
+Terrain information can be one of the following:
+
+` =...=   - Room Name                   road leading that way`
+` -...-   - Room Name                   trail leading that way`
+` ~...~   - Room Name                   destination room requires `[`swimming`](swim "wikilink")
+
+` ^...^   - Room Name                   outdoors room (`[`Trolls`](Troll "wikilink")` only)`
+` *...*   - Room Name                   sunlit room (`[`Orcs`](Orc "wikilink")` and Trolls only)`
+
+Flags from the two categories can be combined; e.g., =#up#= is a road
+leading through a broken door.
+
+The autoexits mode will show information like this:
+
+` Exits: =(north)=, east, [west].`
+
+[Category: Commands](Category:_Commands "wikilink") [Category: Help
+files](Category:_Help_files "wikilink")

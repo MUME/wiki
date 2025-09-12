@@ -2,7 +2,8 @@
 title: Fornost Ranger Guild
 ---
 
-A **ranger** teaches at the **Ranger's Guild** in
+A **ranger** teaches [ranger](ranger "wikilink")
+[skills](skill "wikilink") at the **Ranger's Guild** in
 [Fornost](Fornost "wikilink").
 
 `A ranger stands quietly here, willing to teach his knowledge of woodcraft.`
@@ -14,14 +15,14 @@ A **ranger** teaches at the **Ranger's Guild** in
 ## Skill list
 
 `            Sessions  Difficulty`
-`awareness         22  Normal`
-`bandage           10  Easy`
-`climb              3  Very easy`
-`command            8  Normal`
-`leadership        27  Normal`
-`ride              13  Very easy`
-`swim               3  Very easy`
-`track             27  Normal`
-`wilderness        27  Normal     `
+[`awareness`](awareness "wikilink")`         22  Normal`
+[`bandage`](bandage "wikilink")`           10  Easy`
+[`climb`](climb "wikilink")`              3  Very easy`
+[`command`](command "wikilink")`            8  Normal`
+[`leadership`](leadership "wikilink")`        27  Normal`
+[`ride`](ride "wikilink")`              13  Very easy`
+[`swim`](swim "wikilink")`               3  Very easy`
+[`track`](track "wikilink")`             27  Normal`
+[`wilderness`](wilderness "wikilink")`        27  Normal     `
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

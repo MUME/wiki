@@ -1,32 +1,37 @@
 ---
-title: "Place"
+title: Template:Place
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px
-solid \#a3b0bf; padding:0.2em 0.4em;" \| [Cities](City "wikilink") and
-[Locations](Location "wikilink") \|-
+solid \#a3b0bf; padding:0.2em 0.4em;" \| [Map of
+Middle-Earth](Location "wikilink") \|-
 
-`| `[`Cities of the Free People`](City#Free_People "wikilink")
+`| `[`Cities of the Free People`](City#Pukes "wikilink")
 
-\| [Grey-Havens](Grey-Havens "wikilink") • [Blue
-Mountains](Blue_Mountains "wikilink") • [Fornost](Fornost "wikilink") •
-[Bree](Bree "wikilink") • [Tharbad](Tharbad "wikilink") •
-[Rivendell](Rivendell "wikilink") • [Lothlórien](Lothlórien "wikilink")
-• [Anduin Vale](Anduin_Vale "wikilink") \|-
+\| [Harlond/Forlond](Grey-Havens "wikilink") •
+[Belegost](Blue_Mountains#Belegost "wikilink") •
+[Fornost](Fornost "wikilink") • [Bree](Bree "wikilink") •
+[Tharbad](Tharbad "wikilink") • [Rivendell](Rivendell "wikilink") •
+[Caras Galadhon](Lothlórien#Caras_Galadhon "wikilink") •
+[Ingrove](Anduin_Vale#Ingrove "wikilink") \|-
 
-`| `[`Bastions of the Dark Lord`](City#Slaves_of_Sauron "wikilink")
+`| `[`Fortresses of the Dark Lord`](City#Darkies "wikilink")
 
-\| [Warrens](Warrens "wikilink") • [New Orc
-Caves](New_Orc_Caves "wikilink")  –  [Zaugurz Orc
-Caves](Zaugurz_Orc_Caves "wikilink") \|-
+\| [Warrens](Trollshaws#Warrens "wikilink") •
+[NOC](Goblin_Caves#New_Orc_Caves "wikilink")  – 
+[ZOC](Goblin_Caves#Zaugurz_Orc_Caves "wikilink") \|-
 
-`| `[`Locations`](Location "wikilink")
+`| `[`Locations in Mume`](Location "wikilink")
 
-\| [Shire](Shire "wikilink") • [Fangorn](Fangorn "wikilink") •
-[Dunland](Dunland "wikilink") • [Eregion](Eregion "wikilink") •
-[Moria](Moria "wikilink") • [Mirkwood](Mirkwood "wikilink") •
-[Rohan](Rohan "wikilink") • [Brush](Brush "wikilink") •
-[ABR](Ancient_brick_road "wikilink") • [Misty
-Mountains](Misty_Mountains "wikilink") \|} <noinclude> </noinclude>
+\| [Shire](Shire "wikilink") • [Tower Hills](Tower_Hills "wikilink") •
+[Fangorn](Fangorn "wikilink") • [Dunland](Dunland "wikilink") •
+[Eregion](Eregion "wikilink") • [Moria](Moria "wikilink") •
+[Mirkwood](Mirkwood "wikilink") • [Rohan](Rohan "wikilink") •
+[OER](Old_East_Road "wikilink") • [ABR](Ancient_Broken_Road "wikilink")
+• [Misty Mountains](Misty_Mountains "wikilink") \|} <noinclude>
+</noinclude>
+
+<noinclude> </noinclude>
 
 [](Category:Navigation_Templates "wikilink")
+[](Category:Templates "wikilink")

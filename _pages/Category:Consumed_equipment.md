@@ -2,4 +2,5 @@
 title: Category:Consumed equipment
 ---
 
-[Category: Equipment](Category:_Equipment "wikilink")
+[Category: Deletion
+Candidates](Category:_Deletion_Candidates "wikilink")

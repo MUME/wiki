@@ -2,82 +2,54 @@
 title: Slashing weapon
 ---
 
-It is a falchion (satisfactory, new). This slashing weapon can be
-wielded one-handed. It is poor while attacking and average while
-defending; its speed is slow, and it inflicts average damage upon
-hitting. It weighs five pounds.
+**[Slashing weapons](Slashing_weapons "wikilink")** are one of the
+[weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
+usually have moderate strength requirements.
 
-It is a scimitar (well-maintained, new). This slashing weapon can be
-wielded one-handed. It is average while attacking and average while
-defending; its speed is average, and it inflicts little damage upon
-hitting. It weighs four pounds.
+## Offensive
 
-It is a backsword (marred, new). This slashing weapon can be wielded
-one-handed. It is poor while attacking and average while defending; its
-speed is average, and it inflicts little damage upon hitting. It weighs
-three pounds.
+- [beorning sword](beorning_sword "wikilink")
+- [longsword](longsword "wikilink")
+- [bastard sword](bastard_sword "wikilink")
+- [jagged-edged scimitar](jagged-edged_scimitar "wikilink")
+- [scimitar](scimitar "wikilink")
+- [broad scimitar](broad_scimitar "wikilink")
+- [steel claymore](steel_claymore "wikilink")
+- [Dúnadan blade](Dúnadan_blade "wikilink")
+- [fell blade](fell_blade "wikilink")
+- [wightblade](wightblade "wikilink")
 
-It is a broadsword (satisfactory, new). This slashing weapon can be
-wielded one-handed. It is awful while attacking and good while
-defending; its speed is average, and it inflicts little damage upon
-hitting. It weighs four pounds.
+## Defensive
 
-It is a longsword (marred, new). This slashing weapon can be wielded
-one-handed. It is average while attacking and average while defending;
-its speed is slow, and it inflicts little damage upon hitting. It weighs
-five pounds.
+- [broadsword](broadsword "wikilink")
+- [dark broadsword](dark_broadsword "wikilink")
+- [engraved broadsword](engraved_broadsword "wikilink")(EBS)
 
-It is a jagged-edged scimitar (used, new). This slashing weapon can be
-wielded one-handed. It is good while attacking and average while
-defending; its speed is average, and it inflicts average damage upon
-hitting. It weighs five pounds.
+## Average
 
-It is a sabre (satisfactory, new). This slashing weapon can be wielded
-one-handed. It is average while attacking and average while defending;
-its speed is average, and it inflicts little damage upon hitting. It
-weighs a couple of pounds.
+- [backsword](backsword "wikilink")
+- [falchion](falchion "wikilink")
+- [sabre](sabre "wikilink")
+- [cutlass](cutlass "wikilink")
+- [sickle](sickle "wikilink")
+- [sharp talon](sharp_talon "wikilink")
+- [broad-bladed knife](broad-bladed_knife "wikilink")
+- [serrated scimitar](serrated_scimitar "wikilink")
 
-It is a bastard sword (well-maintained, new). This slashing weapon can
-be wielded either one- or two-handed. It is poor while attacking and
-average while defending; its speed is very slow, and it inflicts average
-damage upon hitting. It weighs six pounds.
+## Artefacts
 
-It is a cutlass (worn, new). This slashing weapon can be wielded
-one-handed. It is poor while attacking and average while defending; its
-speed is average, and it inflicts very little damage upon hitting. It
-weighs three pounds.
+- [Silvery broadsword](the_silvery_broadsword "wikilink") (Mithvegil)
+- [Broad elven blade](the_broad_Elven_blade "wikilink") (Glamdring,
+  Beater)
+- [Slender elven sword](the_slender_Elven_sword "wikilink") (Orcrist,
+  Biter)
+- [Great black scimitar](the_great_black_scimitar "wikilink") (GBS,
+  ElfHewer, Hewer)
+- [Gleaming broadsword](the_gleaming_broadsword "wikilink")
+- [Black sword](the_black_sword "wikilink")
+- [Morgul blade](the_Morgul_blade "wikilink")
+- [Black many-tailed whip](the_black_many-tailed_whip "wikilink")
 
-It is a sickle (worn, new). This slashing weapon can be wielded
-one-handed. It is poor while attacking and poor while defending; its
-speed is average, and it inflicts very little damage upon hitting. It
-weighs a couple of pounds.
+{% include Items.md %}
 
-It is a sharp talon (neglected, new). This slashing weapon can be
-wielded one-handed. It is awful while attacking and average while
-defending; its speed is average, and it inflicts little damage upon
-hitting. It weighs a couple of pounds.
-
-It is a broad scimitar (satisfactory, new). This slashing weapon can be
-wielded one-handed. It is average while attacking and poor while
-defending; its speed is slow, and it inflicts average damage upon
-hitting. It weighs six pounds.
-
-It is a broad-bladed knife (well-maintained, new). This slashing weapon
-can be wielded one-handed. It is awful while attacking and poor while
-defending; its speed is fast, and it inflicts very little damage upon
-hitting. It weighs a few ounces.
-
-It is a Beorning sword (marred, new). This slashing weapon can be
-wielded one-handed. It is average while attacking and average while
-defending; its speed is average, and it inflicts little damage upon
-hitting. It weighs three pounds.
-
-It is a serrated scimitar (flawless, new). This slashing weapon can be
-wielded one-handed. It is poor while attacking and average while
-defending; its speed is slow, and it inflicts average damage upon
-hitting. It weighs five pounds.
-
-It is a dark broadsword (marred, new). This slashing weapon can be
-wielded one-handed. It is average while attacking and excellent while
-defending; its speed is fast, and it inflicts little damage upon
-hitting. It weighs three pounds.
+[Category: Weapons](Category:_Weapons "wikilink")

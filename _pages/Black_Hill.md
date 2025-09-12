@@ -2,8 +2,8 @@
 title: Black Hill
 ---
 
-**Black Hill** is a small village located in the [Tower
-Hills](Tower_Hills "wikilink"), north of the road to [Grey
+**Black Hill** is a small village of [men](man "wikilink") located in
+the [Tower Hills](Tower_Hills "wikilink"), north of the road to [Grey
 Havens](Grey_Havens "wikilink").
 
 ## Guilds

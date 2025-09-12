@@ -1,12 +1,12 @@
 ---
-title: "Delete"
+title: Template:Delete
 ---
 
 <div class="boilerplate metadata" id="stub" style="clear:both;">
 
 *This article is candidate for
 [deletion](:Category:Deletion_Candidates "wikilink").
-<span class="plainlinks">\[ Dicuss\] if you want to keep it</span>.*
+<span class="plainlinks">\[ Discuss\] if you want to keep it</span>.*
 
 </div>
 

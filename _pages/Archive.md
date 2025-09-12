@@ -4,7 +4,7 @@ title: Archive
 
 ## The Book of Lost Tales
 
-In the Valaquenta and the Ainulindalie can be found the tale of MUME as
+In the Valaquenta and the Ainulindalë can be found the tale of MUME as
 passed down by the Valar and the Maiar, but what of the stories of
 mortals doomed to die?
 

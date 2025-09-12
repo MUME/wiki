@@ -10,6 +10,31 @@ can be poisoned by [envenomed](envenom "wikilink")
 animals such as some snakes and spiders. As some poisons can have very
 dangerous effects such as draining mana or even causing
 [death](death "wikilink"), this spell should be practiced by all
-casters.
+[casters](caster "wikilink").
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'remove poison' \<victim \| food \| drink\> Type : Healing
+Accumulative: N/A Duration : No Casting : Very long Position : Standing
+Level : Level 9 Class : Cleric Min. Mana : 5 Example: \> cast 'remove
+poison'
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Druid`](Druid "wikilink")`                              3`
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`               3`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`               12`
+[`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         1`
+[`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`            12`
+[`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               1`
+
+## See also
+
+- [Cure Blindness](Cure_Blindness "wikilink"), [Cure
+  Light](Cure_Light "wikilink"), [Cure Critic](Cure_Critic "wikilink"),
+  [Cure Disease](Cure_Disease "wikilink"), [Cure
+  Serious](Cure_Serious "wikilink"), [Envenom](Envenom "wikilink"),
+  [Heal](Heal "wikilink"), [Poison](Poison "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink") [Category:Shaman
+spells](Category:Shaman_spells "wikilink")

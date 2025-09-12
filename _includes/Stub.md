@@ -1,8 +1,6 @@
 ---
-title: "Stub"
+title: Template:Stub
 ---
-
-
 
 <div class="boilerplate metadata" id="stub" style="clear:both;">
 

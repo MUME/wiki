@@ -2,8 +2,8 @@
 title: Lynx
 ---
 
-**Lynxes** are passive level ? [mobs](mob "wikilink"), found in various
-locations around [Arda](Arda "wikilink"). They can
+**Lynxes** are passive level ~6-7 [mobiles](mobile "wikilink"), found in
+various locations around [Arda](Arda "wikilink"). They can
 [sneak](sneak "wikilink"). Their corpses can be butchered for a [lynx
 pelt](lynx_pelt "wikilink") and some [meat](meat "wikilink").
 
@@ -13,5 +13,4 @@ pelt](lynx_pelt "wikilink") and some [meat](meat "wikilink").
 `ears. It likes woodlands and heaths.`
 `A lynx is in an excellent condition.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink")

@@ -18,31 +18,35 @@ Galadhon](Caras_Galadhon "wikilink"). The guild is open from 6am to 6pm.
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                     16  Hard`
-[`Block door`](Block_door "wikilink")`                  5  Normal`
-[`Call familiar`](Call_familiar "wikilink")`               7  Normal`
+[`Armour`](Armour_Spell "wikilink")`                     16  Hard`
+[`Block Door`](Block_Door "wikilink")`                  5  Normal`
+[`Call Familiar`](Call_Familiar "wikilink")`               7  Normal`
 [`Charm`](Charm "wikilink")`                      12  Hard`
-[`Chill touch`](Chill_touch "wikilink")`                 5  Easy`
-[`Colour spray`](Colour_spray "wikilink")`               10  Hard`
-[`Control weather`](Control_weather "wikilink")`            16  Hard`
-[`Create light`](Create_light "wikilink")`                4  Easy`
-[`Detect invisibility`](Detect_invisibility "wikilink")`         3  Normal`
-[`Detect magic`](Detect_magic "wikilink")`                6  Easy`
+[`Chill Touch`](Chill_Touch "wikilink")`                 5  Easy`
+[`Colour Spray`](Colour_Spray "wikilink")`               10  Hard`
+[`Control Weather`](Control_Weather "wikilink")`            16  Hard`
+[`Create Light`](Create_Light "wikilink")`                4  Easy`
+[`Detect Invisibility`](Detect_Invisibility "wikilink")`         3  Normal`
+[`Detect Magic`](Detect_Magic "wikilink")`                6  Easy`
+[`Dispel Magic`](Dispel_Magic "wikilink")`                5  Very hard`
 [`Enchant`](Enchant "wikilink")`                    14  Very hard`
-[`Find the path`](Find_the_path "wikilink")`               6  Normal`
+[`Find the Path`](Find_the_Path "wikilink")`               6  Normal`
 [`Identify`](Identify "wikilink")`                    8  Hard`
-[`Lightning bolt`](Lightning_bolt "wikilink")`             10  Hard`
+[`Lightning Bolt`](Lightning_Bolt "wikilink")`             10  Hard`
 [`Locate`](Locate "wikilink")`                     12  Hard`
-[`Locate life`](Locate_life "wikilink")`                12  Hard`
-[`Locate magic`](Locate_magic "wikilink")`                8  Normal`
-[`Magic missile`](Magic_missile "wikilink")`               5  Easy`
-[`Night vision`](Night_vision "wikilink")`                8  Normal`
+[`Locate Life`](Locate_Life "wikilink")`                12  Hard`
+[`Locate Magic`](Locate_Magic "wikilink")`                8  Normal`
+[`Magic Missile`](Magic_Missile "wikilink")`               5  Easy`
+[`Night Vision`](Night_Vision "wikilink")`                8  Normal`
+[`Portal`](Portal "wikilink")`                     14  Very hard`
 [`Scry`](Scry "wikilink")`                        8  Hard`
-[`Shield`](Shield "wikilink")`                     16  Hard`
-[`Shocking grasp`](Shocking_grasp "wikilink")`              6  Normal`
+[`Shield`](Shield_Spell "wikilink")`                     16  Hard`
+[`Shocking Grasp`](Shocking_Grasp "wikilink")`              6  Normal`
 [`Shroud`](Shroud "wikilink")`                     16  Hard`
-[`Sleep`](Sleep "wikilink")`                      12  Hard`
+[`Silence`](Silence "wikilink")`                     4  Normal`
+[`Sleep`](Sleep_Spell "wikilink")`                      12  Hard`
 [`Store`](Store "wikilink")`                      10  Hard`
 [`Teleport`](Teleport "wikilink")`                   10  Hard`
+[`Watch Room`](Watch_Room "wikilink")`                  8  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

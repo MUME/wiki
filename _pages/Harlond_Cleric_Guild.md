@@ -2,7 +2,8 @@
 title: Harlond Cleric Guild
 ---
 
-**Filatior** teaches at the **Small Temple** in
+**Filatior** teaches [cleric](cleric "wikilink")
+[spells](spells "wikilink") at the **Small Temple** in
 [Harlond](Harlond "wikilink").
 
 `Filatior the elven acolyte is here performing sacred ceremonies.`

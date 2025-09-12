@@ -2,4 +2,4 @@
 title: Slashing
 ---
 
-1.  REDIRECT [Slashing_Weapons](Slashing_Weapons "wikilink")
+1.  REDIRECT [Slashing weapons](Slashing_weapons "wikilink")

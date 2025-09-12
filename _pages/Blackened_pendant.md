@@ -2,8 +2,9 @@
 title: Blackened pendant
 ---
 
-The **blackened pendant** can be worn around the neck. It loads on some
-uruk-hai [mobiles](mobile "wikilink"), and it can't be sold.
+The **blackened pendant** can be worn around the
+[neck](neck "wikilink"). It loads on some uruk-hai
+[mobiles](mobile "wikilink"), and it can't be sold.
 
 `A blackened pendant lies on the ground.`
 `>`**`examine pendant`**

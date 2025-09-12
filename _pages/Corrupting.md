@@ -3,11 +3,11 @@ title: Corrupting
 ---
 
 If you are darkie and got some anti-evil item into your hands, then it's
-not just crap anymore. You can corrupt them on black altar at ABR, or
-give to BN sage, and make them serve you as true servants on your evil
-paths.
+not just crap anymore. You can corrupt them on black altar at
+[ABR](ABR "wikilink"), or give to BN [sage](sage "wikilink"), and make
+them serve you as true servants on your evil paths.
 
-`   Original                Result                             Place`
+` Original                Result                             Place`
 ` white robe              black hooded cloak`
 ` grey tunic              black hooded cloak`
 ` sapphire ring           banded ring                        Altar`
@@ -19,3 +19,7 @@ paths.
 ` ancient dwarven shield  defiled dwarven shield`
 ` whitie legend staff     charred staff`
 ` dunadan blade           wightblade`
+
+## See also
+
+- [Curse](Curse "wikilink")

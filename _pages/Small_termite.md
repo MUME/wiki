@@ -2,7 +2,7 @@
 title: Small termite
 ---
 
-**Small termites** are aggressive [level](level "wikilink") ~1-2
+**Small termites** are aggressive [level](level "wikilink") 1
 [mobiles](mobile "wikilink") found in various locations around
 [Arda](Arda "wikilink"), often within hollowed-out trees.
 

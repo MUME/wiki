@@ -2,50 +2,35 @@
 title: Ammunition
 ---
 
-# Arrows
+There are various types of **ammunition** found in
+[MUME](MUME "wikilink").
 
-## silver-tipped arrow
+## Arrows
 
-Its accuracy is good, and it inflicts average damage upon hitting. It
-weighs about an ounce.
+Arrows are used by [bows](Missile_weapons#Longbow "wikilink").
 
-## ash arrow
+- [silver-tipped arrow](silver-tipped_arrow "wikilink") - Effective vs.
+  undead.
+- [ash arrow](ash_arrow "wikilink")
+- [war arrow](war_arrow "wikilink")
+- [arrow](arrow "wikilink")
+- [fletched arrow](fletched_arrow "wikilink")
 
-Its accuracy is poor, and it inflicts very little damage upon hitting.
-It weighs a couple of ounces.
+## Bolts
 
-## war arrow
+Bolts are used by [crossbows](Missile_weapons#Crossbows "wikilink").
 
-Its accuracy is awful, and it inflicts little damage upon hitting. It
-weighs a few ounces.
+- [blackened bolt](blackened_bolt "wikilink")
+- [bolt](bolt "wikilink")
+- [metal-cased bolt](metal-cased_bolt "wikilink")
 
-## arrow
+## Stones
 
-Its accuracy is awful, and it inflicts very little damage upon hitting.
-It weighs a couple of ounces.
+Stones are used by [slings](Missile_weapons#Slings "wikilink").
 
-# Bolts
+- [round stone](round_stone "wikilink")
 
-## blackened bolt
+{% include Items.md %}
 
-Its accuracy is poor, and it inflicts very little damage upon hitting.
-It weighs about an ounce.
-
-## bolt
-
-Its accuracy is poor, and it inflicts little damage upon hitting. It
-weighs a few ounces.
-
-## metal-cased bolt
-
-Its accuracy is poor, and it inflicts average damage upon hitting. It
-weighs a few ounces.
-
-# Stones
-
-## round stone
-
-Its accuracy is awful, and it inflicts very little damage upon hitting.
-It weighs about an ounce.
-
-{% include Equipment.md %}
+[Category: Weapons](Category:_Weapons "wikilink")
+[\*](Category:_Ammunition "wikilink")

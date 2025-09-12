@@ -29,7 +29,7 @@ corner of [Tharbad](Tharbad "wikilink").
 [`Remove Poison`](Remove_Poison "wikilink")`               1  Normal`
 [`Sense Life`](Sense_Life "wikilink")`                  9  Normal`
 [`Smother`](Smother "wikilink")`                     6  Easy`
-[`Strength`](Strength "wikilink")`                    3  Hard`
+[`Strength`](Strength_Spell "wikilink")`                    3  Hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              6  Very hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

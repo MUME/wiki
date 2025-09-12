@@ -2,6 +2,4 @@
 title: Category:Necklaces
 ---
 
-{% include Equipment.md %}
-
-[Category:Equipment](Category:Equipment "wikilink")
+[Category:Deletion Candidates](Category:Deletion_Candidates "wikilink")

@@ -2,72 +2,264 @@
 title: Weapon
 ---
 
-**MUME Weaponry**
+**Weapons** are items that can be wielded. While you can use the
+'[wield](wield "wikilink")' command on other types of items, only
+weapons will be shown on your equipment list as <wielded>. Other items
+will be shown as <held>. Types of weaponry in [MUME](MUME "wikilink")
+are: [missile](Missile_weapon "wikilink"),
+[piercing](Piercing_weapon "wikilink"),
+[charging](Charging_weapon "wikilink"),
+[cleaving](Cleaving_weapon "wikilink"),
+[concussion](Concussion_weapon "wikilink"),
+[slashing](Slashing_weapon "wikilink"),
+[stabbing](Stabbing_weapon "wikilink"), and
+[smiting](Two-handed_weapon "wikilink") (two-handed).
 
-Types of weaponry in MUME are: missile, piercing, charging, cleaving,
-concussion, slashing, stabbing, and smiting (two-handed).
+## Artefacts
 
-*Missile Weapons* - Bows, slings, and the like. Mostly used by thieves,
-though works quite well for cleric with blind. Need about 12 strength
-for the bigger ones. Good choices are embellished longbow, crossbow (not
-light crossbow), and black horn shortbow. Embellished and crossbow are
-very damaging, but slow (esp. crossbow), and black horn shortbow is very
-fast. Yew longbow and orkish/elven shortbow aren't too bad either. Good
-ammunition are ash arrows (accurate), war arrows (damaging), fletched
-arrows (even more damaging), and silver-tipped arrows (light and painful
-to undead) for bows and metal-cased bolts for crossbows.
+Artefacts are the most powerful weapons. However, there is only one copy
+of each and they are hard to get hold of. If you do get an artefact
+that's of your type of weaponry, it's probably better than anything else
+you've got.
 
-*Piercing Weapons* - Daggers and such. Mostly thieves use. Low strength
-requirement generally. Good choices are black runed dagger (good damage,
-some parry, good ob, and spellsave; best non-artifact), nasty orkish
-fang (damaging), enchanted double-edged eket (decent damage, some
-parry), ceremonial dagger (highest pb of piercers), and enchanted sharp
-thorn (same as eket, but damaging to undead).
+## Identified Gear
 
-*Charging Weapons* - Lances. Charge is a terrible skill. You should
-avoid it. If you decide to try it anyway... are eff vs. riding.
-Steel-tipped lance is better than lance in every way.
+<spoiler>
 
-*Cleaving Weapons* - Axes and the like. Really nice on dwarves, thanks
-to the ob bonus. Almost all are eff vs. wood. Mostly fairly high
-strength requirements. Good choices are mighty dwarven axe (damage),
-blackened dwarven axe (good vs. undead), brutal cleaver (good substitute
-if you can't get your hands on either of those), double-headed axe (high
-ob). Battle axe is decent if enchanted, but those others are much
-better.
+### Enchant
 
-*Concussion Weapons* - Hammers and clubs. Nice damage to opponents in
-metal armour. Need high strength. Ornate warhammer is best non-artifact.
-Heavy morningstar is good too if enchanted. Engraved warhammer's pretty
-nice as well.
+If weapon is neither Magic nor non-enchantable - list contains stats of
+MAXENCHANTED weapon (+10 OB, +2 damage).
 
-*Slashing Weapons* - Mostly swords. Tend to have good pb. Usually
-moderate strength requirement. Good choices are steel claymore (damaging
-and good ob, but need a fair bit of strength), broad scimitar (not quite
-as good as claymore), engraved broadsword (really nice pb), Dunadan
-blade (high ob and a bit of pb, good only), Wightblade (darkie's version
-of Dunadan), fell blade (decently damaging and still pretty fast),
-enchanted longsword (if can't get some nicer offensive blade), enchanted
-broadsword (if can't get better defensive blade), dark broadsword (if
-evil, not as damaging as ebs but just as good defensively).
+Enchanted arrows are non-breakable.
 
-*Stabbing Weapons* - Spears. Eff vs. riding. Moderate to high strength
-requirement. Attackers might be kept at bay and take damage. Good
-choices include steel-shafted spear (decent damage and no pb penalty),
-blackened spear (high ob), orkish battle-standard (decent pb), enchanted
-steel-tipped spear (decent substitute for blackened), giant spear
-(highest dam/hit).
+### Required Strength
 
-*Two-Handed Weapons* - Very high strength requirement. Can't wear
-shield, can only wear bucklers (wooden/metal target shield, small wooden
-target shield, buckler), but high high damage. Good choices are warsword
-(high ob, no pb penalty, highest dam), black metal staff (high pb),
-enchanted heavy warhammer (eff vs. metaled opponents last I checked),
-enchanted two-handed axe (eff vs. wood, still not bad), enchanted
-two-handed sword (higher ob than axe or hammer).
+Minimum STR needed to wield: for 1H - weight/15, for 2H - weight/22.5
 
-Of course, there are artifacts out there that are even more powerful
-than the best stuff listed here. However, there's only one copy of each,
-so it's pretty unlikely you'll get your hands on them unless you're a
-powerplayer. If you do get an artifact that's of your type of weaponry,
-it's probably better than anything you've got.
+### Effectiveness
+
+Eff vs adds 25% damage
+
+### Relative Damage
+
+Rel. - relative damage (damage per time = damage/delay\*100%)
+
+### Two Handed Weapons
+
+| Weapon                          | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                                                                 |
+|---------------------------------|--------|-----|-----|--------|---------|-------------|-------------------------------------------------------------------------------------------------------|
+| Great Black Scimitar (ElfHewer) | 175    | 20  | 0   | 14.7   | 110     | 13.4        | Magic, Anti-good, Eff vs elf/spell                                                                    |
+| Axe of Durin                    | 265    | 20  | 0   | 19.4   | 150     | 12.9        | Magic, Nosell, Eff vs spell                                                                           |
+| Huge, flaming sword             | 530    | 25  | -10 | 18.4   | 150     | 12.3        | Magic, Evil, Anti-good, Anti-neutral, Nosell, Eff vs cold/spell                                       |
+| Great warsword                  | 395    | 20  | 0   | 18.4   | 150     | 12.3        | Magic, Eff vs spell                                                                                   |
+| Steel claymore                  | 265    | 20  | 0   | 13.3   | 110     | 12.1        | Magic, Eff vs spell                                                                                   |
+| Black runed sceptre             | 175    | 10  | 25  | 12.5   | 110     | 11.4        | Magic, Eff vs metal/spell, Focus, Nosell, Mana regenetation +5, Saving Spell -20                      |
+| War mattock                     | 400    | 20  | -10 | 17     | 150     | 11.3        | Magic, Eff vs metal/spell                                                                             |
+| Burnished hewing-spear          | 395    | 20  | 0   | 15     | 135     | 11.1        | Magic, Eff vs spell/riding/spirit                                                                     |
+| Heavy warhammer                 | 390    | 15  | -10 | 15     | 135     | 11.1        | Eff vs metal                                                                                          |
+| Halberd                         | 350    | 15  | 5   | 14.5   | 130     | 11.1        | Eff vs riding                                                                                         |
+| Two-handed sword                | 350    | 20  | -5  | 14.5   | 130     | 11.1        |                                                                                                       |
+| Steel-shafted mattock           | 265    | 20  | -10 | 13     | 120     | 10.8        | Magic, Eff vs metal/spell                                                                             |
+| Two-handed axe                  | 395    | 15  | -10 | 16.3   | 150     | 10.8        |                                                                                                       |
+| Poleaxe                         | 405    | 15  | 0   | 15.3   | 150     | 10.2        |                                                                                                       |
+| Very large wooden club          | 485    | 15  | -15 | 15     | 150     | 10.0        | Eff vs metal/spirit                                                                                   |
+| Bastard sword                   | 265    | 20  | 0   | 12.2   | 125     | 9.8         |                                                                                                       |
+| Very large knotted branch       | 540    | 10  | -10 | 14     | 150     | 9.3         | Eff vs metal/spirit, Non-enchantable                                                                  |
+| Flail                           | 350    | 15  | 5   | 13     | 150     | 8.7         | Eff vs metal                                                                                          |
+| Istari wand                     | 1760   | 20  | 30  | 9      | 150     | 6.0         | Magic, Glow, Bless, Anti-evil, Anti-neutral, Nosell, Eff vs spell, Attack spell +20, Saving Spell -30 |
+| Quarterstaff                    | 265    | 10  | 10  | 6      | 100     | 6.0         | Eff vs spirit/metal                                                                                   |
+| Metal-shod staff                | 970    | 15  | 25  | 8      | 150     | 5.3         | Magic, Anti-good, Eff vs spirit/spell                                                                 |
+| Shovel                          | 220    | 15  | -10 | 8      | 150     | 5.3         | Eff vs metal                                                                                          |
+| Carved oak staff                | 485    | 5   | 10  | 7      | 150     | 4.7         | Magic, Nosell, (unchanted)                                                                            |
+| Carved oak staff                | 485    | 5   | 15  | 8      | 150     | 5.3         | Magic, Saving Spell -10, Nosell (enchanted)                                                           |
+| Rough staff                     | 485    | 5   | 15  | 8      | 150     | 5.3         | Eff vs spirit, Anti-evil/good, Saving Spell -10 (enchanted)                                           |
+| Black metal staff               | 220    | 10  | 25  | 5      | 100     | 5.0         | Magic, Eff vs spell                                                                                   |
+| Rough staff                     | 485    | 5   | 10  | 7      | 150     | 4.7         | Eff vs spirit (not enchanted)                                                                         |
+
+### Slashing Weapons
+
+| Weapon                                            | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                            |
+|---------------------------------------------------|--------|-----|-----|--------|---------|-------------|------------------------------------------------------------------|
+| Black Sword                                       | 132    | 40  | 0   | 20.4   | 100     | 20.4        | Magic, Eff vs spirit/light/spell, Humming                        |
+| Morgul blade                                      | 130    | 20  | 5   | 13.3   | 100     | 13.3        | Magic, Evil, Eff vs spell, Anti-good, Anti-neutral, Nosell       |
+| Great Black Scimitar (ElfHewer)                   | 175    | 20  | 0   | 14.7   | 120     | 12.3        | Magic, Anti-good, Eff vs spell/elf                               |
+| Broad Elven Blade (Beater, Glamdring, Foe-hammer) | 132    | 15  | 10  | 11.2   | 100     | 11.2        | Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell    |
+| Dark curved sword (Angmacil)                      | 132    | 10  | 15  | 9.2    | 85      | 10.8        | Magic, Anti-good, Eff vs spell                                   |
+| Fell blade                                        | 130    | 15  | 0   | 11.2   | 105     | 10.6        | Magic, Anti-good, Eff vs spell                                   |
+| Slender Elven Sword (Biter Orcrist)               | 120    | 20  | 10  | 10.2   | 100     | 10.2        | Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell    |
+| Gleaming Broadsword                               | 130    | 15  | 15  | 9.2    | 90      | 10.2        | Magic, Bless, Anti-evil, Nosell, Eff vs spell, Saving Spell -10  |
+| Steel claymore                                    | 265    | 20  | 0   | 13.3   | 130     | 10.2        | Magic, Eff vs spell                                              |
+| Broad scimitar                                    | 265    | 20  | -5  | 11.2   | 110     | 10.2        |                                                                  |
+| Falchion                                          | 220    | 15  | 0   | 11.2   | 110     | 10.2        |                                                                  |
+| Jagged-edged scimitar                             | 220    | 15  | 0   | 10.2   | 100     | 10.2        | Non-enchantable                                                  |
+| Engraved broadsword                               | 195    | 10  | 10  | 9.2    | 90      | 10.2        | Magic, Eff vs spirit/spell                                       |
+| Broadsword                                        | 175    | 10  | 5   | 9.1    | 90      | 10.1        |                                                                  |
+| Serrated scimitar                                 | 220    | 15  | 0   | 11.7   | 116     | 10.1        |                                                                  |
+| Dunadan blade                                     | 220    | 15  | 10  | 9.7    | 100     | 9.7         | Magic, Anti-evil, Anti-neutral, Eff vs spell                     |
+| Wightblade                                        | 220    | 20  | 5   | 10.2   | 110     | 9.3         | Magic, Anti-good, Anti-neutral, Eff vs spell                     |
+| Longsword                                         | 220    | 20  | 0   | 10.2   | 110     | 9.3         |                                                                  |
+| Beorning sword                                    | 130    | 20  | 0   | 9.2    | 100     | 9.2         |                                                                  |
+| Silvery Broadsword (Mithvegil)                    | 130    | 15  | 10  | 8.3    | 90      | 9.2         | Magic, Glow, Bless, Anti-evil, Nosell, Eff vs orc/spell          |
+| Scimitar                                          | 175    | 20  | 0   | 9.1    | 100     | 9.1         |                                                                  |
+| Backsword                                         | 135    | 15  | 0   | 9.1    | 100     | 9.1         |                                                                  |
+| Bastard sword                                     | 265    | 15  | 0   | 12.2   | 135     | 9.0         |                                                                  |
+| Sabre                                             | 90     | 20  | 0   | 8.1    | 90      | 9.0         |                                                                  |
+| ashen blade                                       | 173    | 10  | 5   | 8.7    | 100     | 8.7         | Magic, Anti-good, Eff vs spell, +5 Spell Power, -10 Saving Spell |
+| Dark broadsword                                   | 130    | 10  | 10  | 7.1    | 85      | 8.3         | Magic, Anti-good, Eff vs spell                                   |
+| Sharp talon (claw)                                | 90     | 10  | 0   | 8.1    | 100     | 8.1         |                                                                  |
+| Cutlass                                           | 165    | 15  | 0   | 7.1    | 90      | 7.9         |                                                                  |
+| Broad-bladed knife                                | 15     | 10  | -5  | 5.1    | 70      | 7.3         |                                                                  |
+| Sickle                                            | 90     | 15  | -5  | 6.1    | 100     | 6.1         |                                                                  |
+
+### Cleaving Weapons
+
+| Weapon                | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                               |
+|-----------------------|--------|-----|-----|--------|---------|-------------|-----------------------------------------------------|
+| Axe of Durin          | 265    | 20  | 0   | 17.7   | 140     | 12.6        | Magic, Nosell, Eff vs spell                         |
+| Mighty dwarven axe    | 265    | 15  | -5  | 13.7   | 110     | 12.5        | Magic, Eff vs spell                                 |
+| Wicked Durbuk-hai axe | 220    | 15  | -5  | 10.8   | 90      | 12.0        |                                                     |
+| Darkened orkish axe   | 265    | 15  | -5  | 14.1   | 120     | 11.8        | Magic, Anti-good, Anti-neutral, Eff vs spell        |
+| Blackened dwarven axe | 265    | 15  | -5  | 12.6   | 110     | 11.5        | Magic, Anti-evil, Anti-neutral, Eff vs spirit/spell |
+| Double-headed axe     | 255    | 20  | -5  | 11.4   | 110     | 10.4        |                                                     |
+| Brutal cleaver        | 220    | 10  | 0   | 12.5   | 120     | 10.4        | non-enchantable                                     |
+| Battle axe            | 220    | 15  | 0   | 11.4   | 110     | 10.4        |                                                     |
+| Black waraxe          | 130    | 15  | 0   | 10.3   | 100     | 10.3        |                                                     |
+| Woodsman axe          | 175    | 10  | -5  | 10.3   | 100     | 10.3        |                                                     |
+| Handaxe               | 130    | 15  | 0   | 8.2    | 90      | 9.1         |                                                     |
+| Hatchet               | 130    | 15  | -5  | 7.2    | 90      | 8.0         |                                                     |
+| Butcher's cleaver     | 45     | -5  | -5  | 5.2    | 80      | 6.5         | Non-enchantable                                     |
+
+### Crushing Weapons
+
+| Weapon                           | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                                            |
+|----------------------------------|--------|-----|-----|--------|---------|-------------|----------------------------------------------------------------------------------|
+| Hammer of Belegost               | 265    | 20  | 0   | 13.8   | 120     | 11.5        | Magic, Eff vs metal                                                              |
+| Huge, black mace                 | 265    | 20  | -5  | 13.7   | 120     | 11.4        | Magic, Anti-good, Anti-neutral, Eff vs dwarf/metal/spell                         |
+| Fine Silvery Morningstar         | 265    | 20  | 0   | 12.5   | 110     | 11.4        | Magic, Anti-evil, Anti-neutral, Eff vs troll/metal/spell                         |
+| Black runed sceptre              | 175    | 20  | 0   | 11.9   | 110     | 10.8        | Magic, Eff vs metal/spell, Focus, Nosell, Mana regenetation +5, Saving Spell -20 |
+| Ornate warhammer                 | 265    | 20  | -5  | 12.7   | 120     | 10.6        | Magic, Eff vs metal/spell                                                        |
+| Heavy morningstar                | 265    | 20  | -10 | 11.5   | 110     | 10.5        | Eff vs metal                                                                     |
+| Morningstar                      | 220    | 15  | -5  | 10.0   | 100     | 10.0        | Eff vs metal                                                                     |
+| Engraved warhammer (Bonecrusher) | 265    | 20  | -5  | 11.7   | 120     | 9.8         | Magic, Eff vs metal/spell                                                        |
+| Large warhammer                  | 220    | 15  | -5  | 10.7   | 110     | 9.7         | Eff vs metal                                                                     |
+| Warhammer                        | 135    | 15  | -5  | 9.6    | 100     | 9.6         | Eff vs metal                                                                     |
+| Spiked war club                  | 175    | 15  | -5  | 9.6    | 100     | 9.6         | Eff vs metal                                                                     |
+| Gnarled wooden club              | 310    | 15  | -5  | 9.6    | 100     | 9.6         | Eff vs metal/spirit                                                              |
+| Huge spiked club                 | 351    | 15  | -5  | 10.4   | 110     | 9.5         | Eff vs metal, Non-enchantable                                                    |
+| Stone club                       | 350    | 10  | -5  | 10.4   | 110     | 9.5         | Eff vs metal, Non-enchantable                                                    |
+| Steel-shafted mattock            | 265    | 20  | -5  | 12.3   | 135     | 9.1         | Magic, Eff vs metal/spell                                                        |
+| Iron-shod mace                   | 220    | 20  | -5  | 9.6    | 105     | 9.1         | Eff vs metal                                                                     |
+| Cruelly-spiked mace              | 175    | 15  | -5  | 9      | 100     | 9.0         | Eff vs metal, Non-enchantable                                                    |
+| Mace                             | 175    | 15  | 0   | 8.7    | 100     | 8.7         | Eff vs metal                                                                     |
+| Very heavy branch                | 350    | 20  | 0   | 9.5    | 120     | 7.9         | Eff vs metal/spirit, Non-enchantable                                             |
+| Maul                             | 90     | 15  | 0   | 7.7    | 100     | 7.7         | Eff vs metal/spirit                                                              |
+| Wooden club                      | 130    | 10  | 0   | 7.7    | 100     | 7.7         | Eff vs metal/spirit                                                              |
+| Cudgel                           | 90     | 5   | 0   | 5.8    | 100     | 5.8         | Eff vs metal/spirit                                                              |
+| Hammer                           | 27     | 5   | -15 | 5.8    | 100     | 5.8         | Eff vs metal                                                                     |
+| Pry-bar                          | 175    | 5   | -10 | 4.9    | 100     | 4.9         | Eff vs metal, Nosell, key for Amon Othar tombstone                               |
+| Pick                             | 90     | 0   | -5  | 4.8    | 100     | 4.8         | Eff vs metal, Non-enchantable                                                    |
+
+### Piercing Weapons
+
+| Weapon                                           | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                         |
+|--------------------------------------------------|--------|-----|-----|--------|---------|-------------|---------------------------------------------------------------|
+| Elven shortsword with a runic incription (Sting) | 90     | 15  | 10  | 8      | 100     | 8.0         | Glow, Magic, Bless, Anti-evil, Nosell, Eff vs orc/troll/spell |
+| Nimble blade                                     | 25     | 15  | -5  | 7      | 70      | 10.0        | Magic                                                         |
+| Engraved silvery knife                           | 36     | 10  | 10  | 8      | 100     | 8.0         | Magic, Eff vs spell, Saving Spell -10                         |
+| Black runed dagger                               | 45     | 15  | 5   | 8      | 100     | 8.0         | Magic, Eff vs spell, Saving Spell -20                         |
+| Dirk                                             | 90     | 15  | 0   | 6      | 70      | 8.6         |                                                               |
+| Elven dagger                                     | 45     | 10  | 0   | 8      | 100     | 8.0         | Anti-neutral                                                  |
+| Nasty orcish fang                                | 90     | 10  | 0   | 8      | 100     | 8.0         |                                                               |
+| Spider's fang                                    | 90     | 10  | 0   | 8      | 100     | 8.0         | Magic, Anti-good                                              |
+| Slender dagger                                   | 45     | 20  | 0   | 7      | 100     | 7.0         | Magic, Eff vs spell                                           |
+| Barbed fang                                      | 90     | 17  | 0   | 7      | 100     | 7.0         | Evil magic, Eff vs spell                                      |
+| Double edged eket                                | 30     | 15  | 5   | 7      | 100     | 7.0         |                                                               |
+| Sharp thorn                                      | 45     | 15  | 5   | 7      | 100     | 7.0         | Eff vs spirit                                                 |
+| Shortsword                                       | 90     | 15  | 0   | 7      | 100     | 7.0         |                                                               |
+| Brown thorn                                      | 45     | 15  | 0   | 7      | 100     | 7.0         | Eff vs spirit                                                 |
+| Severed spider's fang                            | 90     | 10  | 0   | 7      | 100     | 7.0         | Enchanted                                                     |
+| Long, wicked knife                               | 45     | 20  | 0   | 6      | 100     | 6.0         | Evil                                                          |
+| Shiny dagger                                     | 30     | 15  | 0   | 6      | 100     | 6.0         | Pre-enchanted (10 OB, 1 damage)                               |
+| Sacrificial knife                                | 30     | 15  | 0   | 6      | 100     | 6.0         | Pre-evil-enchanted (10 OB, 1 damage)                          |
+| Rapier                                           | 90     | 15  | 5   | 6      | 100     | 6.0         |                                                               |
+| Ceremonial dagger                                | 45     | 10  | 10  | 6      | 100     | 6.0         | Magic, Anti-evil, Eff vs spirit/spell                         |
+| Horn                                             | 130    | 10  | -5  | 6      | 100     | 6.0         |                                                               |
+| Stiletto                                         | 36     | 10  | 0   | 5      | 100     | 5.0         |                                                               |
+| Dagger                                           | 45     | 15  | 0   | 5      | 100     | 5.0         |                                                               |
+| Gem-inlaid knife                                 | 30     | 15  | 0   | 5      | 100     | 5.0         |                                                               |
+| Small spade                                      | 90     | 10  | 0   | 5      | 100     | 5.0         |                                                               |
+| Butcher knife                                    | 6      | 5   | 0   | 3      | 100     | 3.0         | Non-enchantable                                               |
+| Hunting knife                                    | 6      | 0   | -5  | 3      | 100     | 3.0         | Non-enchantable                                               |
+
+### Stabbing Weapons
+
+| Weapon                 | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                     |
+|------------------------|--------|-----|-----|--------|---------|-------------|-------------------------------------------|
+| Narrow runed awlpike   | 248    | 20  | 0   | 12.5   | 105     | 11.6        | Eff vs riding, Magic, Eff vs spell        |
+| Blackened spear        | 265    | 20  | -5  | 12.8   | 120     | 10.7        | Eff vs riding, Magic, Eff vs spirit/spell |
+| Steel-shafted spear    | 175    | 10  | 0   | 11.7   | 115     | 10.2        | Eff vs riding                             |
+| Steel-tipped spear     | 132    | 20  | -5  | 11.3   | 115     | 9.8         | Eff vs riding                             |
+| Giant spear            | 265    | 15  | -5  | 12.3   | 125     | 9.8         | Eff vs riding, Non-enchantable            |
+| Elven hunting spear    | 130    | 15  | 0   | 10.6   | 110     | 9.6         | Eff vs riding, Anti-evil                  |
+| Pike                   | 195    | 20  | -5  | 10.6   | 115     | 9.2         | Eff vs riding                             |
+| Broad spear            | 175    | 15  | -5  | 10.6   | 115     | 9.2         | Eff vs riding                             |
+| Short spear            | 90     | 10  | 0   | 9.3    | 103     | 9.0         | Eff vs riding                             |
+| Twisted spear          | 90     | 10  | 0   | 9.3    | 103     | 9.0         | Eff vs riding                             |
+| Longspear              | 130    | 20  | -5  | 9.3    | 115     | 8.1         | Eff vs riding                             |
+| Pitchfork              | 130    | 10  | -10 | 8.1    | 110     | 7.3         | Eff vs riding                             |
+| Orkish battle-standard | 130    | 15  | 5   | 7.1    | 100     | 7.1         | Eff vs riding, Evil, Anti-good, Nosell    |
+
+### Charging Weapons
+
+| Weapon             | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other         |
+|--------------------|--------|-----|-----|--------|---------|-------------|---------------|
+| Steel-tipped lance | 130    | 17  | -3  | 7      | 100     | 7.0         | Eff vs riding |
+| Lance              | 220    | 10  | -5  | 6      | 100     | 6.0         | Eff vs riding |
+
+### Other Melee Weapons
+
+| Weapon                 | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                      |
+|------------------------|--------|-----|-----|--------|---------|-------------|------------------------------------------------------------|
+| Black many-tailed whip | 220    | 30  | -10 | 5      | 75      | 6.7         | Magic, Evil, Anti-good, Anti-neutral, Eff vs spell, Nosell |
+| Scourge                | 90     | 25  | -10 | 5      | 80      | 6.3         |                                                            |
+| Whip                   | 90     | 25  | -10 | 4      | 75      | 5.3         |                                                            |
+
+### Missile Weapons
+
+| Weapon                        | Weight | OB  | Delay % | Rel. Damage | Other               |
+|-------------------------------|--------|-----|---------|-------------|---------------------|
+| Embellished longbow (Alrehir) | 175    | 30  | 75      | dmg\*2.0    | Magic, Eff vs spell |
+| Crossbow                      | 440    | 30  | 120     | dmg\*2.0 +2 | Eff vs metal        |
+| Elven longbow                 | 132    | 30  | 70      | dmg\*1.9    | Magic, Eff vs spell |
+| Yew longbow                   | 130    | 30  | 75      | dmg\*1.7 +2 |                     |
+| Black horn shortbow           | 130    | 10  | 60      | dmg\*1.6 +2 |                     |
+| Longbow                       | 175    | 25  | 80      | dmg\*1.5 +2 |                     |
+| Light crossbow                | 265    | 20  | 90      | dmg\*1.5 +2 |                     |
+| Elven shortbow                | 130    | 10  | 62      | dmg\*1.4 +2 |                     |
+| Orcish shortbow               | 130    | 10  | 65      | dmg\*1.4 +2 |                     |
+| Shortbow                      | 130    | 10  | 60      | dmg\*1.1 +2 |                     |
+| Sling                         | 20     | 5   | 40      | dmg\*1.0 +2 |                     |
+
+### Missiles
+
+| Weapon               | Weight | OB  | Damage | Other                                     |
+|----------------------|--------|-----|--------|-------------------------------------------|
+| Metal-cased bolt     | 11     | 15  | 10     | Eff vs metal                              |
+| Quarrel bolt         | 8      | 15  | 9      | Eff vs metal                              |
+| Fletched arrow       | 11     | 12  | 9      |                                           |
+| War arrow            | 11     | 10  | 9      |                                           |
+| Ash arrow            | 5      | 15  | 8      |                                           |
+| Silver-tipped arrow  | 2      | 10  | 8      | Magic                                     |
+| Slender barbed arrow | 11     | 10  | 8      | Magic, Enchanted, Anti-good, Anti-neutral |
+| Arrow                | 5      | 10  | 8      |                                           |
+| Blackened bolt       | 3      | 15  | 7      | Eff vs spirit/dwarf/elf                   |
+| Slingstone           | 5      | 10  | 5      |                                           |
+| Round stone          | 3      | 5   | 4      |                                           |
+
+</spoiler>
+
+{% include Equipment.md %}
+
+[Category:Equipment](Category:Equipment "wikilink")
+[\*](Category:Weapons "wikilink")

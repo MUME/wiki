@@ -2,7 +2,7 @@
 title: Shire Scout Guild
 ---
 
-A **well-travelled hobbit** teaches [scout](scout "wikilink")
+A **well-travelled hobbit** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") in the [Shire](Shire "wikilink"). He can be
 usually be found wandering around in Hobbiton and the fields nearby.
 

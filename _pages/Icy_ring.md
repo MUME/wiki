@@ -2,9 +2,7 @@
 title: Icy ring
 ---
 
-## Statistics
-
-!# CW\>**examine icy**
+\>**examine icy**
 The ring, covered by a thinning layer of ice, is made of a silvery metal
 and
 elegantly engraved. While many of the details of the engraving are not
@@ -15,13 +13,12 @@ all
 uniformly covering the ring, except the top layer which shows some
 irregular
 signs of melting.<sup>\*</sup>
-
-!# CW\>**consider icy**
+\>**consider icy**
 It is an icy ring.
 It radiates a magical aura.
 It weighs a couple of ounces.
 
-## Opinions
+## Other
 
 Although somewhat difficult to attain, icy rings are not terribly
 powerful and certainly not of vital importance to any character. It is
@@ -33,8 +30,8 @@ mostly 'nifty to have' item, rather than an essential.
 'damage' the ring has taken, the line in this particular description
 shows that the ring in question has taken the first step down to
 dissolving - much like weapons and armour go from flawless to
-well-maintained.
+well-maintained.</small>
 
-------------------------------------------------------------------------
+{% include Equipment.md %}
 
-[Equipment](Equipment "wikilink") - [Visible category](LINK "wikilink")
+[Category: Rings](Category:_Rings "wikilink")

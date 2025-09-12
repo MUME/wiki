@@ -2,64 +2,46 @@
 title: Cleaving weapon
 ---
 
-# Offensive
+**[Cleaving weapons](Cleaving_weapons "wikilink")** are one of the
+[weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Most
+are efficient vs. wood and have high [strength](strength "wikilink")
+requirements. Axes are especially useful for [dwarves](dwarf "wikilink")
+thanks to the +5 offensive bonus they receive when standing with their
+feet firm on the ground.
 
-## mighty dwarven axe
+## Offensive
 
-This cleaving weapon can be wielded one-handed. It is good while
-attacking and poor while defending; its speed is slow, and it inflicts
-considerable damage upon hitting. It weighs six pounds.
+- [darkened orkish axe](darkened_orkish_axe "wikilink") (DOA) - good
+  offensive axe for evil aligned characters
+- [mighty dwarven axe](mighty_dwarven_axe "wikilink") (MDA) - good
+  offensive axe, favoured by many cleaving warriors
+- [blackened dwarven axe](blackened_dwarven_axe "wikilink") (BDA) - good
+  offensive axe. Especially effective against spirits, ghosts, and
+  wraiths.
+- [double-headed axe](double-headed_axe "wikilink") - High OB, but
+  generally less favoured than MDA.
 
-## double-headed axe
+## Defensive
 
-This cleaving weapon can be wielded one-handed. It is average while
-attacking and poor while defending; its speed is slow, and it inflicts
-average damage upon hitting. It weighs six pounds.
+- [battle axe](battle_axe "wikilink") - good defensive axe
+- [black waraxe](black_waraxe "wikilink") - good defensive axe, much
+  lighter than battle axe
+- [handaxe](handaxe "wikilink") - the fastest defensive axe, but
+  generally inferior to the ones mentioned above
 
-# Defensive
+## Average
 
-## battle axe
+- [brutal cleaver](brutal_cleaver "wikilink")
+- [woodsman's axe](woodsman's_axe "wikilink")
+- [hatchet](hatchet "wikilink")
+- [butcher's cleaver](butcher's_cleaver "wikilink")
+- [wicked Durbuk-hai axe](wicked_Durbuk-hai_axe "wikilink")
 
-This cleaving weapon can be wielded one-handed. It is poor while
-attacking and average while defending; its speed is slow, and it
-inflicts average damage upon hitting. It weighs five pounds.
+# Artefact
 
-# Average
+- [the Axe of Durin](the_Axe_of_Durin "wikilink")
 
-## butcher's cleaver
+{% include Items.md %}
 
-This cleaving weapon can be wielded one-handed. It is awful while
-attacking and poor while defending; its speed is fast, and it inflicts
-very little damage upon hitting. It weighs about one pound.
-
-## brutal cleaver
-
-This cleaving weapon can be wielded one-handed. It is average while
-attacking and average while defending; its speed is slow, and it
-inflicts considerable damage upon hitting. It weighs five pounds.
-
-## woodsman's axe
-
-This cleaving weapon can be wielded one-handed. It is awful while
-attacking and poor while defending; its speed is average, and it
-inflicts little damage upon hitting. It weighs four pounds.
-
-## black waraxe
-
-This cleaving weapon can be wielded one-handed. It is poor while
-attacking and average while defending; its speed is average, and it
-inflicts little damage upon hitting. It weighs three pounds.
-
-## handaxe
-
-This cleaving weapon can be wielded one-handed. It is poor while
-attacking and average while defending; its speed is average, and it
-inflicts little damage upon hitting. It weighs three pounds.
-
-## hatchet
-
-This cleaving weapon can be wielded one-handed. It is poor while
-attacking and poor while defending; its speed is average, and it
-inflicts very little damage upon hitting. It weighs three pounds.
-
-{% include Equipment.md %}
+[Category: Weapons](Category:_Weapons "wikilink")
+[\*](Category:_Cleaving_weapons "wikilink")

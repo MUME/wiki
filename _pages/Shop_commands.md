@@ -73,3 +73,4 @@ See also: [Shop](Shop "wikilink"), [Mend](Mend "wikilink"),
 [Citizen](Citizen "wikilink")
 
 [Category: Help files](Category:_Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

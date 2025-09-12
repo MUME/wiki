@@ -112,19 +112,26 @@ your playstyle. Experiment to your liking!
 
 ##### Ranger Skills
 
-Climb - 66% Command - \*\*\* only train if you want to charm pets
-(described in more detail below) Ride - 85% Swim - 66% Track - 85% (if
-you aren’t into player-killing) or 96%+ (if you are) Wilderness - 33%
+- Climb - 66%
+- Command - \*\*\* only train if you want to charm pets (described in
+  more detail below)
+- Ride - 85%
+- Swim - 66%
+- Track - 85% (if you aren’t into player-killing) or 96%+ (if you are)
+- Wilderness - 33%
 
 ##### Warrior Skills
 
-Endurance - 1 practice Parry - 1 practice Slashing - 1 practice
+- Endurance - 1 practice
+- Parry - 1 practice
+- Slashing - 1 practice
 
 ##### Thief Skills
 
-Attack - 1 practice (this helps us flee a bit better) Picking - 25%
-(find some lockpicks and try to upgrade them a bit for improved picking)
-Missile - 35% (optional for Cleric builds with blind spell)
+- Attack - 1 practice (this helps us flee a bit better)
+- Picking - 25% (find some lockpicks and try to upgrade them a bit for
+  improved picking)
+- Missile - 35% (optional for Cleric builds with blind spell)
 
 Now let’s take a look at four newbie-friendly builds you might want to
 try.
@@ -149,24 +156,28 @@ Stat training recommendation (compare to your base stats by typing ‘inf
 
 ##### Mage Spells
 
-Max - Armour, Block Door, Burning Hands, Colour Spray, Earthquake,
-Enchant (optional - see Focus Staff section), Fireball, Lightning Bolt,
-Portal, Shield, Sleep (optional), Store, Teleport (optional)
-
-Around 80% - Locate Life, Scry (optional), Watch Room (optional)
-
-Around 40% - Detect Magic, Shroud
+- Max - Armour, Block Door, Burning Hands, Colour Spray, Earthquake,
+  Enchant (optional - see Focus Staff section), Fireball, Lightning
+  Bolt, Portal, Shield, Sleep (optional), Store, Teleport (optional)
+- Around 80% - Locate Life, Scry (optional), Watch Room (optional)
+- Around 40% - Detect Magic, Shroud
 
 ##### Cleric Spells
 
-Max - Sanctuary/Break Door (optional level 45+)
+- Max - Sanctuary/Break Door (optional level 45+)
 
-Around 85% - Breath of Briskness
+<!-- -->
 
-Around 75% - Cure Serious
+- Around 85% - Breath of Briskness
 
-Around 40% - Bless, Create Food, Create Water, Cure Critic, Remove
-Poison, Sense Life (optional)
+<!-- -->
+
+- Around 75% - Cure Serious
+
+<!-- -->
+
+- Around 40% - Bless, Create Food, Create Water, Cure Critic, Remove
+  Poison, Sense Life (optional)
 
 #### Charming Mage
 
@@ -192,14 +203,18 @@ leveling up or supermobbing so willpower is important.
 
 ##### Mage Spells
 
-Max - Armour, Block Door, Burning Hands, Charm, Colour Spray,
-Earthquake, Enchant (optional), Fireball, Lightning Bolt, Shield,
-Silence (optional), Sleep, Store, Teleport (optional)
+- Max - Armour, Block Door, Burning Hands, Charm, Colour Spray,
+  Earthquake, Enchant (optional), Fireball, Lightning Bolt, Shield,
+  Silence (optional), Sleep, Store, Teleport (optional)
 
-Around 75% - Locate Life (optional), Scry (optional), Watch Room
-(optional)
+<!-- -->
 
-Around 40% - Detect Magic, Shroud
+- Around 75% - Locate Life (optional), Scry (optional), Watch Room
+  (optional)
+
+<!-- -->
+
+- Around 40% - Detect Magic, Shroud
 
 ##### Cleric Spells
 
@@ -224,22 +239,31 @@ the evil minions of Sauron gain the upper hand.
 
 ##### Cleric Spells
 
-Max - Blind, Break Door, Breath of Briskness, Cure Serious (optional),
-Dispel Evil, Fear (optional), Harm (optional), Heal, Sanctuary, Strength
+- Max - Blind, Break Door, Breath of Briskness, Cure Serious (optional),
+  Dispel Evil, Fear (optional), Harm (optional), Heal, Sanctuary,
+  Strength
 
-Around 75% - Cure Critic, Protection from Evil (optional), Sense Life
-(optional), Summon (optional), Word of Recall
+<!-- -->
 
-Around 50% - Bless, Create Food, Create Water, Cure Blindness
-(optional), Remove Poison
+- Around 75% - Cure Critic, Protection from Evil (optional), Sense Life
+  (optional), Summon (optional), Word of Recall
+
+<!-- -->
+
+- Around 50% - Bless, Create Food, Create Water, Cure Blindness
+  (optional), Remove Poison
 
 ##### Mage Spells
 
-Max - Armour, Shield
+- Max - Armour, Shield
 
-Around 80% - Block Door, Enchant (only for focus staff then train off)
+<!-- -->
 
-Around 50% - Detect Magic, Shroud (optional)
+- Around 80% - Block Door, Enchant (only for focus staff then train off)
+
+<!-- -->
+
+- Around 50% - Detect Magic, Shroud (optional)
 
 #### Charming Cleric
 
@@ -259,23 +283,31 @@ versatile...
 
 ##### Cleric Spells
 
-Max - Blind, Break Door, Breath of Briskness, Cure Serious (optional),
-Dispel Evil, Heal, Sanctuary, Strength
+- Max - Blind, Break Door, Breath of Briskness, Cure Serious (optional),
+  Dispel Evil, Heal, Sanctuary, Strength
 
-Around 75% - Cure Critic, Protection from Evil, Sense Life (optional),
-Word of Recall
+<!-- -->
 
-Around 50% - Bless, Create Food, Create Water, Cure Blindness
-(optional), Remove Poison
+- Around 75% - Cure Critic, Protection from Evil, Sense Life (optional),
+  Word of Recall
+
+<!-- -->
+
+- Around 50% - Bless, Create Food, Create Water, Cure Blindness
+  (optional), Remove Poison
 
 ##### Mage Spells
 
-Max - Armour, Shield, Charm, Store (optional), Earthquake (optional)
+- Max - Armour, Shield, Charm, Store (optional), Earthquake (optional)
 
-Around 80% - Block Door, Enchant (only needed to make a focus staff, can
-train off after)
+<!-- -->
 
-Around 50% - Detect Magic, Shroud (optional)
+- Around 80% - Block Door, Enchant (only needed to make a focus staff,
+  can train off after)
+
+<!-- -->
+
+- Around 50% - Detect Magic, Shroud (optional)
 
 ### Focus Staff
 
@@ -313,17 +345,18 @@ faster with the right leader.
 
 #### Levels 1-11
 
-Pick up the ride, swim, and climb skills to gather as many travel points
-as you can before focusing too much on gaining experience. I would then
-grab the missile skill (thief) and train more like a melee character in
-the early levels. Find a light shield with a decent parry bonus. Focus
-on small creatures for the early levels. Don’t forget to narrate and ask
-for help if you need it! Grouping will also be a huge benefit as you can
-chat and learn more about the game while you gain experience. Special
-tips: Aldereon’s Quest is a great one to start at early levels (check
-out Faine’s Guide) as you will gain some travel points along the way.
-Also use MMapper to look for areas off the beaten path or behind secret
-doors for bonus travel points.
+PRAY FOR A NEWBIE KIT! ;) Pick up the ride, swim, and climb skills
+(Ranger) to gather as many travel points as you can before focusing too
+much on gaining experience. I would then grab the missile skill (thief)
+and train more like a melee character in the early levels. Find a light
+shield with a decent parry bonus. Focus on small creatures for the early
+levels. Don’t forget to narrate and ask for help if you need it!
+Grouping will also be a huge benefit as you can chat and learn more
+about the game while you gain experience. Special tips: Aldereon’s Quest
+is a great one to start at early levels (check out Faine’s Guide) as you
+will gain some travel points along the way. Also use MMapper to look for
+areas off the beaten path or behind secret doors for bonus travel
+points.
 
 #### Levels 11-20
 
@@ -349,6 +382,90 @@ caster so far...
 Pick any of the core builds and have fun! I personally enjoy using a
 build with charm because it allows me to solo when I want and group when
 groups are available but it’s totally up to you. Good luck!
+
+### Equipment Progression Guide
+
+As you will soon find out, there are many pieces of equipment that can
+be worn in MUME. I will offer some suggestions on how to progress from a
+basic set to a full set in this section. Equipment impacts our offensive
+bonus, defensive bonus, parry bonus, physical armour absorption,
+movement regeneration, mana regeneration, health regeneration, spell
+power, spell save, spell speed, spell cost, etc. That might seem like a
+lot to worry about as a newbie -- because it is! But worry not, you will
+slowly learn about these things as you play the game, ask questions, and
+do research on the Wiki or resources like Faine's guide. By the time you
+are Legend Level, you will understand many of these concepts. Even if it
+takes longer, gaining knowledge about the deep complexities of MUME is
+half the fun in my opinion!
+
+**Levels 1-10**
+
+Pray for your newbie kit and start saving gold for the following items
+(there are lots of things you can sell at shops, including equipment,
+herbs, furs and pelts, and even boats):
+
+I would aim to wear a fine rigid leather armour set (just upgrade one
+piece at a time). Try to find a broadsword (defensive) or beorning sword
+(offensive) and ask someone to enchant it for you (while we must enchant
+our own staff, others can enchant our swords, bows, and arrows).
+Enchanting increases the damage and offensive bonus of a weapon. An
+enchanted longbow is a great basic bow (upgrade to yew, elven, or
+embellished as you level up to Legend as a Cleric) and aim for war
+arrows or ash arrows (normal arrows are fine until you find better
+ones). Silver-tipped arrows are the best, but you won't get those at low
+levels unless someone is feeling generous. A plain cloak (less dodge
+bonus) or forest green cloak (better dodge bonus and offers movement
+regeneration) are suggested. FYI - the russet cloak and blackened,
+ragged cloak offer the same bonuses as a forest green cloak. The
+progression for shields at this level would be large wooden \< full
+wooden \< full metal \< cardolan \< arthedain \< gilded. Upgrade shields
+as you can afford them.
+
+**Basic Set**
+
+This is the basic set you want to work toward from levels 21-26+. If you
+die with better gear and are unable to recover it, this would be a good
+set to use to start earning the better gear again.
+
+- Sword - broadsword or beorning sword (enchanted)
+- Bow (if you blind) - longbow (enchanted) or yew
+- Arrows (if you blind) - ash/war arrows and a basic quiver
+- Shield - focus staff with parry embeds or cardolan/arthedain/gilded
+  shield until you make a staff
+- Armour (option 1) - fine chain set, fine metal/black, padded
+  boots/fine rigid boots
+- Armour (option 2) - fine metal set, great helm
+- Cloak - forest green/russet/ragged blackened or roughly stitched
+- Belt - plain
+- Other - basic lockpicks
+
+**Full Set**
+
+This is what I would consider to be a full set - the best of the best
+you can strive for.
+
+- Sword - engraved broadsword or one of the artifact swords from Wight
+  Captain, Bill Bert and Tom, or Dragon
+- Bow - elven or embellished longbow
+- Arrows - silver-tipped and laced quiver
+- Shield - focus staff with recommended embeds
+- Armour (option 1) - shining mail mixed with fine mail, mithril
+  circlet, fine metal/black, padded boots
+- Armour (option 2) - shining plate mixed with fine metal, mithril
+  circlet/great helm
+- Armour (option 3) - coarse, dusky robe (from Magus for Clerics trying
+  to maximize fear/blind)
+- Cloak - fine grey cloak
+- Belt - gleaming or broad silver belt
+- Ring - golden ruby or copper and icy or root
+- Wrist - archaic copper (if armour option 1), archer's (if using bow -
+  must remove chain sleeves)
+- Neck - necklace and pale blue stone (from Guardian)
+- Other - upgraded lockpicks
+
+In addition to gear you wear, you can also collect herbs for herblores,
+scrolls, rocks, and other items that can be used in various scenarios
+while you play.
 
 ### Tips and Tricks
 
@@ -393,19 +510,6 @@ groups are available but it’s totally up to you. Good luck!
 
 <!-- -->
 
-- Magus (supermob) in Dol Goldur loads a fancy robe that offers +20
-  spellpower for blind, which is amazing for Clerics, especially those
-  who want to reliably blind in PvP. You can keep it in your backpack
-  and swap when needed.
-
-<!-- -->
-
-- If you really want a reliable PK blind, you may also want to boost
-  willpower by +1 through training in addition to acquiring the Magus
-  robe.
-
-<!-- -->
-
 - Use metal armour for quake-xping, fine/shining mail for PvP (gives you
   some absorb when your armour spell drops), and plain clothes if you
   want to be quick and agile (be warned you will take a lot of melee
@@ -440,6 +544,19 @@ groups are available but it’s totally up to you. Good luck!
 - You can not bring most pets into cities or friendly towers without the
   guards attacking them. This could get you wanted by the justice
   system. Instead, rest or sleep the pets outside.
+
+<!-- -->
+
+- LEGEND TIP - The Magus (supermob) in Dol Goldur loads a fancy robe
+  that offers +20 spellpower for blind/fear, which is amazing for
+  Clerics, especially those who want to reliably blind in PvP. You can
+  keep it in your backpack and swap when needed.
+
+<!-- -->
+
+- LEGEND TIP - If you really want a reliable PK blind, you may also want
+  to boost willpower by +1 through training in addition to acquiring the
+  Magus robe.
 
 ### Player Feedback
 

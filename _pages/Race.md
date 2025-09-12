@@ -2,53 +2,63 @@
 title: Race
 ---
 
-There are nine different races you can play on MUME.
+![](Fellowship.jpg "Fellowship.jpg") in *[The Lord of the Rings: The
+Fellowship of the
+Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*\]\]
+There are nine different **races** you can play on MUME.
 
 Five of these belong to the good side (a.k.a. "whities"). They are Men,
 Elves, Half-elves, Hobbits, and Dwarves. There are also Bears, which are
 not a separate race but shapechanged Beorning Men.
 
 Three are the evil races (a.k.a. "darkies"); they are Tarkhnarb Orcs,
-Trolls, and Black Númenoreans.
+Trolls, and Black Númenóreans.
 
-The last race is the Zaugurz Orcs, forming a side of its own.
+The last race is the Zaugurz Orcs, forming a side of its own. { \|
+valign="top" style="width:50%; text-align:left;"\|
 
-Different races have different effects on their basic statistics, as you
-can see in the table below.
+## The Free People
 
-`         STR   CON   DEX   PER   INT   WIS   WIL   AGE`
+- [Men](Man "wikilink")
 
-------------------------------------------------------------------------
+<!-- -->
 
-Man -- -- -- -- -- -- --
+- [Elves](Elf "wikilink")
 
-` Dúnadan                                           1.5`
-` Other                                             1.0`
+<!-- -->
 
-Elf -1 -1 +1 +1 +1 -- -1
+- [Half-Elves](Half-Elf "wikilink")
 
-` Noldo                                             3.5`
-` Sinda                                             3.0`
-` Silvan                                            2.5`
+<!-- -->
 
-Half-Elf -1 -- -- -- -- +1 -- 2.0 Dwarf +1 +1 -1 -1 -- -1 +1 2.0 Hobbit
--2 +1 +1 -- -1 -- +1 1.5
+- [Dwarves](Dwarf "wikilink")
 
-------------------------------------------------------------------------
+<!-- -->
 
-Bear +4 +2 +3 +2 -4 -2 -4 1.0
+- [Hobbits](Hobbit "wikilink")
 
-------------------------------------------------------------------------
+\| valign="top" style="width:50%; text-align:left;"\|
 
-Orc (\*) +2 +2 -- -- -3 -2 -2 2.0 Troll +7 +4 -3 -2 -3 -3 -3 2.0
-Númenorean -- -- -- -- -- -1 -2 1.5
+## Slaves of Sauron
 
-------------------------------------------------------------------------
+- [Black Númenóreans](Black_Númenórean "wikilink")
 
-- ) Both Tarkhnarb and Zaugurz
+<!-- -->
 
-Age is how slow members of this race age compared to Men. I.e., an Elf
-ages 3 times slower, and a Hobbit 1.5 times slower.
+- [Orcs](Orc "wikilink")
+  - [Tarkhnarb tribe](Tarkhnarb_Orc "wikilink")
+  - [Zaugurz tribe](Zaugurz_Orc "wikilink")
 
-Other than these, there are effects on height and weight and a variety
-of other areas.
+<!-- -->
+
+- [Trolls](Troll "wikilink")
+
+\|}
+
+## See also
+
+- [Racial stats](Stats#Racial_Stats "wikilink")
+
+{% include ClassRace.md %}
+
+[\*](Category:_Playable_races "wikilink")

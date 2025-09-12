@@ -32,12 +32,11 @@ health, especially if what you yelled is true.
 You can use a pet or a charmed mobile to narrate, but you should be very
 careful not to cause spam.
 
-Examples: - Bilbo buys ten dogs and makes them narrate 'Woof!'. This is
-bad. - Bilbo charms Lobelia (unlikely :\>) and commands her to sing,
-once,
+Examples:
 
-` "happy birthday dear Bilbo". No problem.                                 `
-`                                                                          `
+- Bilbo buys ten dogs and makes them narrate 'Woof!'. This is bad.
+- Bilbo charms Lobelia (unlikely :\>) and commands her to sing,
+  once,"*'happy birthday dear Bilbo*". No problem.
 
 See also: [Rules Spam](Rules_Spam "wikilink"),
 [Narrate](Narrate "wikilink"), [Say](Say "wikilink"),
@@ -45,4 +44,4 @@ See also: [Rules Spam](Rules_Spam "wikilink"),
 [Whisper](Whisper "wikilink"), [Pray](Pray "wikilink") and
 [Listen](Listen "wikilink").
 
-[Category:Rules](Category:Rules "wikilink")
+[Channels](Category:Rules "wikilink")

@@ -11,10 +11,11 @@ and 'levels'.
 Top management here favors role-play and encourages it, though we do not
 require it. Commands that will help you roleplay include:
 
-CHA DESC - lets you describe your physical appearance, what people will
-see when they look at you. CHA WHOIS - edits what people will see when
-they type 'whois <your name>'. This could include what is generally
-known about you: your reputation and recent exploits.
+- CHANGE DESCRIPTION - lets you describe your physical appearance, what
+  people will see when they look at you.
+- CHANGE WHOIS - edits what people will see when they type 'whois
+  <your name>'. This could include what is generally known about you:
+  your reputation and recent exploits.
 
 There are some books on roleplaying in some of the libraries.
 Roleplaying cannot be imposed on players by management - at least, we
@@ -25,8 +26,8 @@ can expect that their alignment will suffer strongly and maybe some
 protectors of good will deal harshly with them. We also will require
 your characters to act as separate characters (not helping each other
 with equipment, arranging ambushes together, etc.) - see the different
-[RULE](Rules "wikilink") headings for this (e.g. [Rules
-Separation](Rules_Separation "wikilink")).
+[RULE](Rules "wikilink") headings for this (e.g. [Rules Character
+Separation](Rules_Character_Separation "wikilink")).
 
 Beyond this, we would hope that players who enjoy role-playing will come
 together for mutual enjoyment. Please use the [Idea](Idea "wikilink")

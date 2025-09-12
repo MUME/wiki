@@ -14,8 +14,30 @@ able to see the [room](room "wikilink") descriptions. Its success rate
 depends primarily on the willpower of the opponent. The effects of the
 spell last a few minutes and can be removed with the [Cure
 Blindness](Cure_Blindness "wikilink") spell.
+
 It is one of the most important cleric spells and should be learned to
 the maximum possible. The Druid which lives northwest of
 [Bree](Bree "wikilink") is known to be highly skilled in this spell.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'blindness' \<victim\> Type : Offensive, mental
+Accumulative: No Duration : Yes Casting : Long Position : Standing,
+fighting Level : Level 6 Class : Cleric Min. Mana : 10 Example: \> cast
+'blind' troll
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Druid`](Druid "wikilink")`                             18`
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`               3`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                4`
+[`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         1`
+[`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             3`
+[`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`              18`
+
+## See also
+
+- [Cure Blindness](Cure_Blindness "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink") [Category:Shaman
+spells](Category:Shaman_spells "wikilink")

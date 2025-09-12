@@ -3,8 +3,9 @@ title: Wolf cub
 ---
 
 **Wolf cubs** are passive [level](level "wikilink") ~1-2
-[mobiles](mobile "wikilink"). They will attempt to flee when low on
-health.
+[mobiles](mobile "wikilink"), found in various locations around
+[Arda](Arda "wikilink"). They will attempt to [flee](flee "wikilink")
+when low on health.
 
 `A wolf cub happily plays here.`
 `>`**`examine wolf`**

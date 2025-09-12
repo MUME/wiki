@@ -10,4 +10,4 @@ to imagine, with regard to the war. Further, this rule does not apply
 solely to newbies - it applies to any obvious "throw-away" character. If
 in any doubt whether this applies to your case - don't do it.
 
-[Category:Rules](Category:Rules "wikilink")
+[Spies](Category:Rules "wikilink")

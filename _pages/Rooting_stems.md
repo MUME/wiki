@@ -3,7 +3,7 @@ title: Rooting stems
 ---
 
 **Rooting stems** are aggressive, [evil](alignment "wikilink")
-[level](level "wikilink") 8 [mobiles](mobile "wikilink") found in
+[level](level "wikilink") 8 [plants](plant "wikilink") found in
 [Fangorn](Fangorn "wikilink").
 
 `A rooting heap of stems is here, smothering the smaller plants.`
@@ -13,4 +13,4 @@ title: Rooting stems
 `to the cones on the stems, wavering at the edge of breaking upon a rougher`
 `touch.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Plants](Category:_Plants "wikilink")

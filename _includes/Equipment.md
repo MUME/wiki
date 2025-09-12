@@ -1,5 +1,5 @@
 ---
-title: "Equipment"
+title: Template:Equipment
 ---
 
-1.  REDIRECT {% include Items.md %}
+1.  REDIRECT [Template:Items](Template:Items "wikilink")

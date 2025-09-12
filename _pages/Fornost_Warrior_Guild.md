@@ -2,7 +2,8 @@
 title: Fornost Warrior Guild
 ---
 
-**Huor of Dor-lómin** teaches at the **Guild of Warriors** in
+**Huor of Dor-lómin** teaches [warrior](warrior "wikilink")
+[skills](skill "wikilink") at the **Guild of Warriors** in
 [Fornost](Fornost "wikilink").
 
 `Huor of Dor-lómin is standing here, ready to teach his arts.`
@@ -15,16 +16,16 @@ title: Fornost Warrior Guild
 ## Skill list
 
 `                   Sessions  Difficulty  `
-`bash                    43   Hard       `
-`charge                  29   Normal     `
-`cleaving weapons        29   Normal     `
-`concussion weapons      29   Normal     `
-`endurance               58   Very hard   `
-`kick                    29   Normal      `
-`parry                   29   Normal     `
-`rescue                  21   Easy        `
-`slashing weapons        29   Normal      `
-`stabbing weapons        29   Normal      `
-`two handed weapons      29   Normal      `
+[`bash`](bash "wikilink")`                    43   Hard       `
+[`charge`](charge "wikilink")`                  29   Normal     `
+[`cleaving weapons`](cleaving_weapons "wikilink")`        29   Normal     `
+[`concussion weapons`](concussion_weapons "wikilink")`      29   Normal     `
+[`endurance`](endurance "wikilink")`               58   Very hard   `
+[`kick`](kick "wikilink")`                    29   Normal      `
+[`parry`](parry "wikilink")`                   29   Normal     `
+[`rescue`](rescue "wikilink")`                  21   Easy        `
+[`slashing weapons`](slashing_weapons "wikilink")`        29   Normal      `
+[`stabbing weapons`](stabbing_weapons "wikilink")`        29   Normal      `
+[`two-handed weapons`](two-handed_weapons "wikilink")`      29   Normal      `
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

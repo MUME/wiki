@@ -2,13 +2,19 @@
 title: Break Door
 ---
 
-<nowiki>gSyntax : cast 'break door' Type : Miscellaneous Accumulative:
-No Duration : Yes Casting : Long Position : Standing Level : Level 17
-Class : Cleric Min. Mana : 50
+Syntax : cast 'break door' Type : Miscellaneous Accumulative: No
+Duration : Yes Casting : Long Position : Standing Level : Level 17 Class
+: Cleric Min. Mana : 50 Example: \> cast 'break door' woodendoor
 
-</pre>
+This spell can be learned from:
 
-Example: \> cast 'break door' woodendoor
+`                            Sessions `
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`              12`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                6`
 
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+## See also
+
+- [Bash](Bash "wikilink"), [Block Door](Block_Door "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink")

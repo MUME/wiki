@@ -3,11 +3,16 @@ title: Black wolf fur
 ---
 
 \>**examine fur**
+
 A heavy fur with long black outer hairs and a softer, black undercoat.
 This
+
 wolf fur looks as if it could keep someone warm in the cold.
+
 \>**consider fur**
+
 It is a black wolf fur.
+
 It weighs one stone.
 
 ## Other

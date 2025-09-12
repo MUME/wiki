@@ -2,31 +2,26 @@
 title: Russet cloak
 ---
 
-## Statistics
+The **russet cloak** is a [cloak](cloak "wikilink") that grants some
+[dodge bonus](dodge_bonus "wikilink") and slightly increases move
+[regeneration](regeneration "wikilink"), similar to a [forest green
+cloak](forest_green_cloak "wikilink"). It loads on the [gypsy
+woman](gypsy_woman "wikilink") in [Malardil's
+castle](Malardil's_castle "wikilink"), and can be bought from some
+tailors for around 3 [gold](gold "wikilink").
 
-!# CW\>**examine cloak**
-The cloak is made from a finely-woven fabric of a deep reddish-brown
-colour.
-Thin strands of darker browns, and minute flecks of silver-grey lend to
-the
-fabric a richer look, which complements the superior workmanship and
-subtle
-styling of the garment.
+`A fine piece of red-brown cloth has been folded neatly here.`
+`>`**`examine cloak`**
+`The cloak is made from a finely-woven fabric of a deep reddish-brown colour.`
+`Thin strands of darker browns, and minute flecks of silver-grey lend to the`
+`fabric a richer look, which complements the superior workmanship and subtle`
+`styling of the garment.`
 
-!# CW\>**consider cloak**
-It is a russet cloak (satisfactory, fresh).
-It weighs a couple of pounds.
-It fits you well.
+`>`**`consider cloak`**
+`It is a russet cloak.`
+`It weighs a couple of pounds.`
 
-## Opinions
+{% include Equipment.md %}
 
-The cloak is identical to [a forest green
-cloak](a_forest_green_cloak "wikilink") (FGC) in all important aspects
-(most obviously the +5db), but is a less commonly seen item because it
-is rather more difficult to obtain than an FGC for low level
-characters.
-
-------------------------------------------------------------------------
-
-[Equipment](Equipment "wikilink") - [Other Equipment -
-Cloaks](Cloak "wikilink")
+[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
+[Category:Cloaks](Category:Cloaks "wikilink")

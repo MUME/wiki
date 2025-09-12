@@ -2,16 +2,14 @@
 title: Dreadful snake
 ---
 
-\> A large brown snake with black patches is coiled here.
-\> **look snake**
-The snake is huge, and could easily swallow an entire person. Its long
-fangs
-suggest that this beast is of the poisonous variety.
+**Dreadful snakes** are aggressive [level](level "wikilink") ~10
+[mobiles](mobile "wikilink") found in various locations around
+[Arda](Arda "wikilink"), notably in the [Grey
+Havens](Grey_Havens "wikilink") area.
 
-## Info
-
-Level: ~10-13
-Dreadful snakes are hostile.
-Loot: None
+`A large brown snake with black patches is coiled here.`
+`>`**`examine snake`**
+`The snake is huge, and could easily swallow an entire person. Its long fangs`
+`suggest that this beast is of the poisonous variety.`
 
 [Category: Mobiles](Category:_Mobiles "wikilink")

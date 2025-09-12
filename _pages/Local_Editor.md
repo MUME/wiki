@@ -33,6 +33,7 @@ The source code for the powwow client contains the defacto reference
 implementation protocol; the powwow source is available for download on
 the MUME website.
 
-See also: [Change Editor](Change_Editor "wikilink")
+See also: [Change Editor](Change_Editor "wikilink"), [Guide to local
+editing with PowTTY‎](Guide_to_local_editing_with_PowTTY‎ "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")

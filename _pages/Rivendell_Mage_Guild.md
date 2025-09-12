@@ -16,7 +16,7 @@ A **grey-haired elf** teaches [mage](mage "wikilink")
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                     12  Hard`
+[`Armour`](Armour_Spell "wikilink")`                     12  Hard`
 [`Burning Hands`](Burning_Hands "wikilink")`              11  Normal`
 [`Call Lightning`](Call_Lightning "wikilink")`              8  Hard`
 [`Colour Spray`](Colour_Spray "wikilink")`               16  Hard`
@@ -30,10 +30,10 @@ A **grey-haired elf** teaches [mage](mage "wikilink")
 [`Magic Missile`](Magic_Missile "wikilink")`               8  Easy`
 [`Night Vision`](Night_Vision "wikilink")`               11  Normal`
 [`Scry`](Scry "wikilink")`                        5  Hard`
-[`Shield`](Shield "wikilink")`                     12  Hard`
+[`Shield`](Shield_Spell "wikilink")`                     12  Hard`
 [`Shocking Grasp`](Shocking_Grasp "wikilink")`             11  Normal`
 [`Shroud`](Shroud "wikilink")`                      3  Hard`
-[`Sleep`](Sleep "wikilink")`                       3  Hard`
+[`Sleep`](Sleep_Spell "wikilink")`                       3  Hard`
 [`Teleport`](Teleport "wikilink")`                   16  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

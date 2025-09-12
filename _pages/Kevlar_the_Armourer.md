@@ -7,10 +7,9 @@ title: Kevlar the Armourer
 9pm.
 
 `> Kevlar the elven armourer is here polishing items he has on display.`
-`> `**`look kevlar`**
+`> `**`look Kevlar`**
 `Skilled in his craft of making armour, and always polite to his customers,`
 `this is a most respectable citizen of Grey Havens. He is sweaty and sooty, but`
 `his cheerful smile is warmer than any furnace.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

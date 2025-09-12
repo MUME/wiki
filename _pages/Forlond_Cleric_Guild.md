@@ -12,7 +12,7 @@ An **elven priest** teaches [cleric](cleric "wikilink")
 `his confident, commanding manner and the great respect that other elves`
 `show him.`
 
-## Skill list
+## Spell list
 
 `                     Sessions  Difficulty`
 [`Bless`](Bless "wikilink")`                       12  Normal`

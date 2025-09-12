@@ -7,8 +7,7 @@ title: Portal
 from one location to another by opening a portal from one
 [room](room "wikilink") to another. In order to cast portal, you need to
 use [Locate Life](Locate_Life "wikilink") to locate someone in the
-target room to get the [magical key](magical_key "wikilink") and then
-to:
+target room to get the magical key and then to:
 
 
 \> cast 'portal' <direction> <magical key>
@@ -41,4 +40,16 @@ room that may be quite far away from the target room. A [Black
 Númenorean](Black_Númenorean "wikilink") may misportal into a room that
 Black Númenoreans cannot [Teleport](Teleport "wikilink") or portal from.
 
-[Category: Mage spells](Category:_Mage_spells "wikilink")
+Syntax : cast 'portal' \<direction\> \<room key\> Type : Long range
+Accumulative: No Duration : Yes Casting : Extremely long Position :
+Standing Level : Level 18 Class : Magic User Min. Mana : 90 Example: \>
+cast 'portal' up yaleque
+
+This spell can be learned from:
+
+`                     Sessions `
+[`Erestor`](Erestor "wikilink")`                    22`
+[`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`          14`
+
+[Category:Mage spells](Category:Mage_spells "wikilink")
+[Category:Spells](Category:Spells "wikilink")

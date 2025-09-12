@@ -11,36 +11,64 @@ CHANGE LANGUAGE.
 
 Several languages are spoken in the realm of Middle Earth:
 
-`- Westron is the most common language, that of `[`men`](Man "wikilink")`.`
+- Westron is the most common language, that of [men](Man "wikilink").
 
-`- Khuzdul is a `[`Dwarven`](Dwarf "wikilink")` language, only a few people speak it seriously.`
+<!-- -->
 
-`- Adûnaic was the language spoken in Numenor and by some descendants.`
+- Khuzdul is a [Dwarven](Dwarf "wikilink") language, only a few people
+  speak it seriously.
 
-`- Quenya is the language of the High `[`Elves`](Elf "wikilink")`. It is old and now almost`
-`  forgotten.`
+<!-- -->
 
-`- Sindarin is the common tongue of all `[`Elves`](Elf "wikilink")`. `
+- Adûnaic was the language spoken in Númenór and by some descendants.
 
-`- Morbeth is the black speech, spoken by all the evil servants of Morgoth.`
+<!-- -->
 
-`- Orkish is the language of the `[`Orcs`](Orc "wikilink")`.`
+- Quenya is the language of the High [Elves](Elf "wikilink"). It is old
+  and now almost forgotten.
 
-`- Animal is not really a language, it allows communication with some`
-`  creatures.`
+<!-- -->
 
-`- Dunnish is the language of the Dunlendings.`
+- Sindarin is the common tongue of all [Elves](Elf "wikilink").
 
-`- Beorning is the language of the `[`Beornings`](Beorning "wikilink")`.`
+<!-- -->
 
-`- Rohirric is the language of the Rohirrim.`
+- Morbeth is the black speech, spoken by all the evil servants of
+  Morgoth.
 
-`- Entish is the language of the Ents.`
+<!-- -->
 
-`- Arcanes is the language of the immortals, understood by all.`
+- Orkish is the language of the [Orcs](Orc "wikilink").
+
+<!-- -->
+
+- Animal is not really a language, it allows communication with some
+  creatures.
+
+<!-- -->
+
+- Dunnish is the language of the Dunlendings.
+
+<!-- -->
+
+- Beorning is the language of the [Beornings](Beorning "wikilink").
+
+<!-- -->
+
+- Rohirric is the language of the Rohirrim.
+
+<!-- -->
+
+- Entish is the language of the Ents.
+
+<!-- -->
+
+- Arcanes is the language of the immortals, understood by all.
 
 Depending on your race, you will start the game with varying knowledge
 of all these languages. You acquire (or improve) other tongues by
 hearing better speakers, at a rate which varies with your intelligence.
+
+See Also: [Change](Change "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")

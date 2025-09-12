@@ -2,11 +2,19 @@
 title: Sabre
 ---
 
-This slashing weapon can be wielded one-handed. It is average while
-attacking and average while defending; its speed is average, and it
-inflicts little damage upon hitting. It weighs a couple of pounds.
+The **sabre** is a [slashing weapon](slashing_weapon "wikilink"). It is
+worth around 15 [silver](silver "wikilink"), and is sold by most
+weaponsmiths.
 
-{% include Equipment.md %}
+`A sabre is on the ground.`
+`>`**`examine sabre`**
+`A long straight sword, but with only one sharp edge. `
 
-[Category: Weapons](Category:_Weapons "wikilink") [Category: Slashing
-weapons](Category:_Slashing_weapons "wikilink")
+`>`**`consider sabre`**
+`This slashing weapon can be wielded one-handed.`
+`It is average while attacking and average while defending; its speed is average, and it inflicts little damage upon hitting.`
+`It weighs a couple of pounds.`
+
+{% include Items.md %}
+
+[Sabre](Category:_Slashing_weapons "wikilink")

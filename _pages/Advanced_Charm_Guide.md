@@ -2,6 +2,70 @@
 title: Advanced Charm Guide
 ---
 
+## General
+
+**Movement**
+
+- There does not seem to be any racial terrain modifiers to movement for
+  mobs (e.g., player Orcs have a move penalty in forests, but mob Orcs
+  do not seem to)
+
+**Equipment**
+
+- Testing seems to indicate that mobs do not benefit from wearing boots
+  (i.e., no measureable movereduction)
+- Mobs do not appear to benefit from wearing +moveregen equipment (e.g.
+  FGC)
+
+## List of Useful Charm-able Mobs
+
+### Comparison of Mob Stats and Skills
+
+**Notes**
+
+- Relative MPs are compared to those of a mother eagle, and represent
+  "distance until mob runs out of moves (distance until mob rests)"
+- Relative HPs are compared to those of a mother eagle
+- Attack and defense flags are not a complete list for each mob, but
+  rather ones relevant to use as a charmie in PvP or PvE
+
+| Mob              | Level | Relative MPs | Relative HPs | Sanc cap | OB     | M_OB | Dodge    | Parry | Attack flags | Defense flags                      | Automatic skills | Can order      | Can cast               |
+|------------------|-------|--------------|--------------|----------|--------|------|----------|-------|--------------|------------------------------------|------------------|----------------|------------------------|
+| A mountain troll | 20    |              |              |          |        |      |          |       |              |                                    |                  |                |                        |
+| A mother eagle   | 19    | 100%         | 100%         |          | Superb | \-   | Poor     | Poor  |              |                                    | climb swim       |                |                        |
+| A dark wraith    | 16    | 26%          |              |          | Superb | Fair | Bad      | Bad   | SPIRIT       | SPIRIT NOSLEEP NOBASH (w/o shield) | sneak            | rescue protect | smother lightning bolt |
+| A great werewolf | 15    | 163% (68%)   |              |          | Fair   | \-   | Awful    | Poor  | SPIRIT       | SPIRIT                             |                  |                |                        |
+| A huge queen bee | 13    | 168%         |              |          | Good   | \-   | Very Bad | Poor  |              |                                    | climb poison     |                |                        |
+
+### Notes on Individual Mobs
+
+- For load spots please use publicly available mapped files(for example
+  <http://faine.epizy.com/?i=1>), CTRL+F, filter all (or filter contents
+  is probably better) and search for the mob's long description
+  (included below). For example mountain troll's long desc is "A
+  grey-skinned mountain troll stands here."
+
+#### Level 20 Mobs
+
+**A mountain troll**
+
+A grey-skinned mountain troll stands here. (19 map locations with 32
+total mobs)
+
+- Positives: Can wield weapons
+- Negatives: Sundeath
+
+#### Level 19 Mobs
+
+**A mother eagle**
+
+A mother eagle flies high above looking for prey. (9 map locations with
+9 total mobs)
+
+- Positives: Doesn't leave tracks
+
+### Information to Update
+
 This information comes from private wiki and Discord, collected by Dave,
 Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
 
@@ -107,3 +171,7 @@ Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
     levelling, need "average" command
 - malardil gypsy woman
   - sancs herself
+
+## Charm Strategies for PvE
+
+## Charm Strategies for PvP

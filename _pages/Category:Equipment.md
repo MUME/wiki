@@ -2,4 +2,6 @@
 title: Category:Equipment
 ---
 
-{% include Equipment.md %}
+{% include Items.md %}
+
+[Category: Items](Category:_Items "wikilink")

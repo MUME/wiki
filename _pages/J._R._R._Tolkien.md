@@ -2,4 +2,4 @@
 title: J. R. R. Tolkien
 ---
 
-[Wikipedia article](http://en.wikipedia.org/wiki/Jrr_tolkien)
+[Wikipedia article](wikipedia:en:J._R._R._Tolkien "wikilink")

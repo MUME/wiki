@@ -4,9 +4,9 @@ title: File:Uruk-hai.jpg
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of
 the Ring (film), an adaptation of J. R. R. Tolkien's The Lord of the
-Rings, depicting a cave troll in Moria.
+Rings, depicting an uruk-hai attacking the Fellowship.
 
-Rationale for the fair use of this image in Troll (Middle-earth):
+Rationale for the fair use of this image in Uruk-hai.jpg:
 
 `  * The image is used to demonstrate the film's distinctive graphical style`
 `  * The image is being used in an informative way and should not detract from the film`

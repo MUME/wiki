@@ -25,6 +25,6 @@ An **elven knight** teaches [warrior](warrior "wikilink")
 [`rescue`](rescue "wikilink")`                    13  Easy`
 [`slashing weapons`](slashing_weapons "wikilink")`          14  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          18  Normal`
-[`two handed weapons`](two_handed_weapons "wikilink")`        14  Normal`
+[`two-handed weapons`](two-handed_weapons "wikilink")`        14  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

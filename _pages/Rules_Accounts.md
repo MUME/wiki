@@ -18,4 +18,4 @@ N.b. If you have accidentally made more than one account, please stop
 playing all of them except one. Then contact an Arata and ask for your
 other accounts to be merged together.
 
-[Category:Rules](Category:Rules "wikilink")
+[Accounts](Category:Rules "wikilink")

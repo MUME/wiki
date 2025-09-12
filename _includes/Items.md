@@ -1,5 +1,5 @@
 ---
-title: "Items"
+title: Template:Items
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px
@@ -23,7 +23,8 @@ solid \#a3b0bf; padding:0.2em 0.4em;" \| [Items](Item "wikilink") \|-
 [Smiting](Two-handed_weapon "wikilink") •
 [Stabbing](Stabbing_weapon "wikilink")  – 
 [Missile](Missile_weapon "wikilink") •
-[Ammunition](Ammunition "wikilink") \|-
+[Ammunition](Ammunition "wikilink") • [Staff Embeds](Embed "wikilink")
+\|-
 
 `| `[`Other`](Other_equipment "wikilink")
 

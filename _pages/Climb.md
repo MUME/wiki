@@ -2,23 +2,22 @@
 title: Climb
 ---
 
-## CLIMB
-
-(Ranger Skill) \[Toggle Command\] \[Movement Command\]
-
 Usage: climb \[<direction>\|on\|off\|safe\|always\]
 
+**Climb** is a [ranger](general "wikilink") [skill](skill "wikilink").
 The "climb" command switches on and off your ability to climb. When
 "climb" is turned off, you will not enter any areas which you need to be
-climbing to access by moving, fleeing or following someone. It is
-possible, however, to teleport to such an area.
+climbing to access by moving, [fleeing](flee "wikilink") or
+[following](follow "wikilink") someone. It is possible, however, to
+[teleport](teleport "wikilink") to such an area.
 
-You can choose to "climb always" (shown as "C" in your prompt): when
-faced with a climb exit, you will always attempt it, regardless of its
-difficulty or the potential damage. As an alternative, you can "climb
-safe" (shown as "c" in your prompt) and climb only when the climb is
-easy, when falling wouldn't hurt you much, or when (due to the presence
-of a tied rope) you are safe from falling.
+You can choose to "climb always" (shown as "C" in your
+[prompt](prompt "wikilink")): when faced with a climb exit, you will
+always attempt it, regardless of its difficulty or the potential damage.
+As an alternative, you can "climb safe" (shown as "c" in your prompt)
+and climb only when the climb is easy, when falling wouldn't hurt you
+much, or when (due to the presence of a tied [rope](rope "wikilink"))
+you are safe from falling.
 
 Examples:
 
@@ -32,8 +31,8 @@ Examples:
 `   You will try to climb even under unsafe conditions.`
 
 When attempting to negotiate a hard climb, unless you have chosen to
-"climb always", MUME requires you to confirm it by using the "climb"
-command. For example:
+"climb always", [MUME](MUME "wikilink") requires you to confirm it by
+using the "climb" command. For example:
 
 `   c > up`
 `   The ascent ahead seems quite difficult to climb, while falling down might`
@@ -66,5 +65,11 @@ example,
 Please note that difficulty and damage messages are relative to your
 current skill and hit points.
 
-See also: [Swim](Swim "wikilink"), [Prompt](Prompt "wikilink"),
-[Rope](Rope "wikilink")
+## See also
+
+- [Swim](Swim "wikilink")
+
+[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink") [Category:Help
+files](Category:Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

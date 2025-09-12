@@ -2,13 +2,17 @@
 title: Scry
 ---
 
-<nowiki>g Syntax : cast 'scry' \[\] Type : Long range Accumulative: N/A
-Duration : No Casting : Very long Position : Standing Level : Level 13
-Class : Magic User Min. Mana : 20
+Syntax : cast 'scry' \[\<room key\>\] Type : Long range Accumulative:
+N/A Duration : No Casting : Very long Position : Standing Level : Level
+13 Class : Magic User Min. Mana : 20 Example: \> cast 'scry' zoquewhiya
 
-</pre>
+This spell can be learned from:
 
-Example: \> cast 'scry' zoquewhiya
+`                          Sessions `
+[`Forlond Mage Guild`](Forlond_Mage_Guild "wikilink")`              16`
+[`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`                8`
+[`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`             5`
+[`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               5`
 
 [Category:Mage spells](Category:Mage_spells "wikilink")
 [Category:Spells](Category:Spells "wikilink")

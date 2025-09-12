@@ -2,19 +2,21 @@
 title: Smooth, black boots
 ---
 
-\> **look boots**
-These boots are dark black and smooth on the surface. One of them has a
-small
-sheath sewn on the outer side, serving as a holder for a dagger or
-another
-equally small weapon.
-\> **consider boots**
-They are a pair of smooth, black boots.
-They weigh half a pound.
+The **smooth black boots** are worn on the [feet](feet "wikilink"). They
+considerably reduce movement cost, but provide no damage absorption.
+They can be used as a sheath for [piercing
+weapons](piercing_weapon "wikilink").
 
-## Other
+`A pair of smooth boots lie on the ground.`
+`>`**`look boots`**
+`These boots are dark black and smooth on the surface. One of them has a small`
+`sheath sewn on the outer side, serving as a holder for a dagger or another`
+`equally small weapon.`
 
-Can be used as a [sheath](sheath "wikilink") for [piercing
-weapons](piercing_weapon "wikilink"). Reduces movement cost.
+`>`**`consider boots`**
+`They are a pair of smooth, black boots.`
+`They weigh half a pound.`
 
-{% include Equipment.md %}
+{% include Items.md %}
+
+[Category:Feet items](Category:Feet_items "wikilink")

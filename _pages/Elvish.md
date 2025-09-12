@@ -26,4 +26,6 @@ and Elf-Lords".
 Direct quotes are from appendices E and F in the *[The Return of the
 King](wikipedia:en:The_Return_of_the_King "wikilink")*.
 
+See also: [Elven names](Elven_names "wikilink")
+
 [Category:Help files](Category:Help_files "wikilink")

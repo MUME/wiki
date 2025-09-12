@@ -14,28 +14,34 @@ Gandalf, JRRT, Return of the King
 
 This guide is all about aging in MUME and different types of death.
 
+Dying is a part of the game and helps keep it challenging. Many players
+have died before you... some of them dozens of times, a few over 100
+times. Coming back from death will help you learn alot about the game
+and get better at it.
+
 Many parts of this guild reference to the MUME help pages which can be
 found at: <https://mume.org/help/help_index>
 
 **Bold** words can be looked up in the games help files. Like **help
 age**.
 
-# **Aging**
+# **Age and Aging**
 
 I strongly suggest you read the help file about how age affects your
-character: help age
+character: **help age**
 
 All characters get older in MUME, it has several game effects, and might
 make your character more difficult to play at some point. There are also
-ways to reset your age. This guide will be going over age effects ways
-to deal with it.
+ways to reset your age.
+
+This guide will be going over age effects and ways to deal with it.
 
 All classes are playable at any age, but you may notice some classes
 have small advantages at some age ranges over others.
 
-Some age ranges are better for some classes, like warriors and thiefs
-tend to favor young to middle ages. You tend to have better physical
-stats (Str, Dex, Con) at those ages.
+Some age ranges are better for some classes, like warrior, thief, and
+scout tend to favor young to middle ages. You tend to have better
+physical stats (Str, Dex, Con) at those ages.
 
 But casters, like mages and clerics, do well middle age, and a little
 older. You tend to have better mental stats (Int, Wis) at those ages.
@@ -48,12 +54,13 @@ There are a few different ways to reset your age in the game.
 ### Mob Death
 
 The easiest method is to mob die. Have a mob kill you, and it resets
-your character back to newbie/starting age.
+your character back to newbie/starting age. But.... you also lose a
+level. Not a really great deal.
 
 ### Retirement
 
-Next is a age reset from retirement. You must retire your character. If
-you are level 25 and below, you can get an agereset in 1 real life
+Next is a age reset from **retirement**. You must retire your character.
+If you are level 25 and below, you can get an agereset in 1 real life
 month. If you are level 26 or above, you can get an agereset in 6 RL
 months. Check your information in your account menu to see if you are
 ready for an age reset yet.
@@ -112,24 +119,31 @@ Anytime you die in MUME the following happens:
 
 There are also some things that will not kill your character in MUME.
 You cannot die from any of the following conditions, but they will make
-you much weaker and more challenging to play:
+you much weaker and more challenging to play. Many of these conditions
+can lead to your death from how much they will weaken you.
 
-starvation - regens go down, takes much longer to recover dehydration -
-regens go down, takes much longer to recover old age - regens and some
-stats go down, but won't kill you, just weakens you diseases - can
-reduce your regens and stats, but won't kill you, just weakens you
+- starvation - regens go down, takes much longer to recover
+- dehydration - regens go down, takes much longer to recover
+- old age - regens and some stats go down, but won't kill you, just
+  weakens you
+- diseases - can reduce your regens and stats, but won't kill you, just
+  weakens you
 
 ### Mob Death
 
 If you die to a mob, that is a mob death. Like dying to a cavebear, some
-roots, or being backstabed by an assassin. You get have the following
+roots, or being backstabed by an assassin. You have the following
 penalties from dying that way.
 
 - lose xp, usually enough to drop you one level, the amount can vary
   from the level of mob that killed you
-- your age is reset back to newbie/starting age
+- your age is reset back to newbie/starting age (it's a free age reset,
+  other then the... well dying part)
 
 ### PK or PvP Death
+
+This is when another player kills you, for example an \*orc\* or
+\*troll\*. Not a mob death.
 
 - lose xp, but often much less then a mob death, sometimes will not drop
   you a level
@@ -138,49 +152,55 @@ penalties from dying that way.
 - does not reset age to newbie/starting age
 - leaves your corpse more at risk of being looted by other players
 
-### Deathtrap
+### Death trap
 
-These are traps or rooms that are designed to kill you off.
+These are traps or rooms that are designed to kill you off, usually
+instantly. The vast majority of death traps will have a clue that it is
+very dangerous to go there in the room description OR of you look in a
+direction.
 
 - you lose tps if dying in a deathtrap
 - does not reset age to newbie/starting age
-- your corpse and gear is very likely gone forever, only a few
-  deathtraps have a place to recover the body
+- your corpse and gear is very likely gone forever, only a few **death
+  traps** have a place to recover the body
 
 ### Exploring Death
 
 These deaths can happen from several following exampls:
 
-- falling down a cliff or a bad climb and taking too much damage
-- drowning in water or underwater
-- dying to some damage traps, like a wall collasping or cave in that
+- falling down a cliff, falling off a horse, or a bad climb and taking
+  too much damage
+- drowning in surface water or underwater
+- dying to some damage traps, like a wall collapsing or cave in that
   falls and crushes you
 - does not reset age to newbie/starting age
 
-Some ways to avoid these exploration deaths are to practice Climb and
-Swim. 50% Climb and Swim are not bad for 'general exploring.' But if you
-want to try some more challenging areas, you may want over 80% Swim and
-Climb or higher.
+Some ways to avoid these exploration deaths are to practice **Climb**
+and **Swim**. 50% Climb and Swim are not bad for 'general exploring.'
+But if you want to try some more challenging areas, you may want over
+80% Swim and Climb or higher.
 
 ### Dying from Affected By
 
+Also often called a bloodlack death.
+
 This type of death can happen if you get a very life threatening wound
 or exposed to some very powerful poisons (such as a rattlesnake). You
-might make it back to town.. or the main road... but still end up
-bleeding out or subcumming to the poison.
+might make it back to town... or the main road... but still end up
+bleeding out from a **wound** or succumbing to the **poison**.
 
 - does not reset age to newbie/starting age
 - one of the least risky ways to die
 
 ## **Level Loss**
 
-If you lose enough experience to lose a level, you might notice a few
-changes from the level loss:
+If you lose enough **experience** to lose a level, you might notice a
+few changes from the level loss:
 
-- your hit points will go down slightly
-- your spells may have a little higher mana cost
+- your **hit points** will go down slightly
+- your spells may have a little higher **mana** cost
 - you might backfire some spells a little more often
-- you have negative practicies total (this will correct if you re-level)
+- you have negative practices total (this will correct if you re-level)
 - your OB may go down slightly
 
 As long as you go out and earn more XP, from defeating mobs or finishing
@@ -218,6 +238,8 @@ guide at the town square. They might ask to show you around the city,
 and give you a tour of what services are available. You will need to
 follow them for an informative tour.
 
+`pray, pray tower hills, pray grey havens, pray shire`
+
 ### New Players
 
 New players should probably pray to the Tower Hills. That area is
@@ -230,18 +252,21 @@ The Introduction Gandalf quest will gain you access to Tower Hills.
 ### Races and Praying
 
 Different cities and towns may be more welcoming to some races then
-others. Over all these are the best places for newer players to rent for
-each **race**.
+others. Over all these are the best places for newer players to **pray**
+for each **race**.
 
-Dwarves: Blue Mountains Elves: Grey Havens Half-elves: Grey Havens
-Hobbits: Shire Men: Bree or Fornost Beornings: Anduin Vale (the town is
-called Ingrove)
+- Dwarves: Blue Mountains
+- Elves: Grey Havens
+- Half-elves: Grey Havens
+- Hobbits: Shire
+- Men: Bree or Fornost
+- Beornings: Anduin Vale (the town is called Ingrove)
 
 There are possibly more places you can pray too, but as a new player
 they might not be the best spot to start in.
 
-If you are in Mandos, you can just type pray to get a list of anywhere
-you can currently pray too.
+If you are in Mandos, you can just type **pray** to get a list of
+anywhere you can currently pray too.
 
 To gain more access to different towns to pray to, you will need to get
 a citizenship there.
@@ -264,7 +289,8 @@ would be dwarves, elves, men, hobbits, orcs, trolls.
 Shadows protect the corpse and all of the gear on it. You cannot loot a
 corpse if a shadow is guarding it, UNLESS it is your YOUR corpse. You
 can always loot your own corpse. But if you do loot it, the shadow will
-fade away and disappear.
+fade away and disappear. You also cannot **drag** a corpse with a shadow
+guarding it.
 
 Shadows have very high defenses, especially extremely high dodge, making
 them difficult to hit. For a solo player, they can be very difficult to
@@ -299,6 +325,8 @@ and then cure light, bandage, or rest there... the zone can repop on
 you, and BOOM! the room is full of aggressive mobs again. Walk a couple
 of rooms away THEN cure light, bandage, make a **campfire**, etc...
 
+`flee, change mood wimpy, change wimpy, bandage, camp`
+
 ## **Checking Your Corpse**
 
 When you die, there are actually now 2 copies of you. One alive (and
@@ -313,6 +341,18 @@ You can revisit your corpse, and get any remaining items left on it. You
 have 1 hour or 60 minutes until your corpse will decay and rot away to
 nothing. If any of your gear is left on that corpse when it decays, it
 is gone as well. Best to hurry and try to get your stuff back.
+
+One trick to looting your corpse faster, especially if there are OTHER
+corpses in the room is to use your character name with it. Just put your
+character name a dash and the word corpse. It would look something like
+this:
+
+`get all baca-corpse`
+
+You can even set an alias for looting your own corpse faster. It might
+look something like this, I'm setting for 'my corpse'.
+
+`al mc get all baca-corpse`
 
 Warning: by the time you make it back the area with your corpse, the
 zone could have repoped. That means any mobs that were dead, or doors
@@ -334,36 +374,54 @@ get your gear... like at the bottom of a cliff or canyon. Or washed down
 stream from some water trap. But most deathtraps means you can't get
 your gear or corpse back.
 
-## **Sauron's Minions and Death**
+`exam corpse, get all.leather corpse, get all corpse`
+
+# **Sauron's Minions and Death**
 
 As a player of a Minion of Sauron you will have much more limited
 options of where to pray too.
 
-Trolls can only pray to one area in the game, the Troll Warrens.
+Trolls cannot pray and always start in a cave in the Troll Warrens.
 
-Zaugurz orcs can only pray to the Zaugurz orc caves.
+Zaugurz orcs cannot pray and always start in the frozen north and must
+enter a mining cart to get to the **Zaugurz** orc caves.
 
-The Tarkhnarb and Morruhk Orcs can only pray to the Goblin Caves. But
-Morruhk orcs have their own very difficult starting cave area at first
-level.
+The Tarkhnarb Orcs and citizen Morruhk **Orcs** cannot pray and start in
+the Hall of Orcs below the Goblin Caves (also called New Orc Caves).
 
-Black Númenóreans show up in a mysterious area that will pray you to a
-random room on the map, possibly spread out over a dozen different
-zones. You will always be surprised praying as a BN, and might show up
-next to a pack of hungry wolves.
+But Morruhk orcs have their own **VERY** difficult starting cave area at
+first level, be prepared it's challenging and scary!!!
+
+**Black Númenóreans** show up in a mysterious area that will **pray**
+you to a random room on the map, possibly spread out over a dozen
+different zones. You will always be surprised praying as a BN, and might
+show up next to a pack of hungry wolves...
 
 ## **Sundeath (Trolls only)**
 
-This is a very special type of death that is for the troll races ONLY.
-No other races in the game are effected by this special death.
+This is a very special type of death that is for the **troll** races
+ONLY. No other races in the game are effected by this special death.
 
-Trolls can Sundie if they are ever exposed to the sun. The sun magically
-turns you into a statue of stone. This type of death resets your
-character back to newbie/starting age and back to LEVEL ONE. No matter
-what level you were before the sundeath. You do gain an achievement of
-sundeath, and it keeps track of how many times you sundied.
+Trolls have **sundeath** if they are ever exposed to the sun. The sun
+magically turns you into a statue of stone. This type of death resets
+your character back to newbie/starting age and back to LEVEL ONE. No
+matter what level you were before the **sundeath**. You do gain an
+achievement of sundeath, and it keeps track of how many times you
+sundied.
+
+Think about the Hobbit when Gandalf helped keep the trolls busy until
+the sun came up, making 3 statues.
 
 You also have the option as a troll to reset your trophy and xp after
 you sundie. At level 7 or 8, sundeath isn't really a big deal... After
 level 26, it can be very frustrating. Trolls gain many other benefits
 due to this very scary type of death in the game.
+
+------------------------------------------------------------------------
+
+Link back to the wiki guides:
+
+- [Guide](Guide "wikilink")
+
+[Category:Guides](Category:Guides "wikilink") [Category:Newbie
+Help](Category:Newbie_Help "wikilink")

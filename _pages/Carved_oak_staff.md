@@ -25,6 +25,8 @@ crystal](blue_crystal "wikilink") to [focus](focus "wikilink") it.
 
 ## Focus
 
+`Atop the staff, a bronze claw holds a large blue crystal, which glows faintly.`
+
 A focused [staff](staff "wikilink") functions as a light source and
 decreases the chance for enemies to resist your
 [spells](spell "wikilink"). Some [items](item "wikilink") can be
@@ -32,7 +34,7 @@ decreases the chance for enemies to resist your
 list of items is as follows:
 
 **`Item`**`                   `**`Effect`**`              `**`Description when embedded`**
-[`Iron bar`](Iron_bar "wikilink")`               +`[`ob`](offensive_bonus "wikilink")` and `[`pb`](parry_bonus "wikilink")`          its foot is shod with iron`
+[`Iron bar`](Bar_of_iron "wikilink")`               +`[`ob`](offensive_bonus "wikilink")` and `[`pb`](parry_bonus "wikilink")`          its foot is shod with iron`
 [`Huge silver bracer`](Huge_silver_bracer "wikilink")`     +ob and pb          silvery bands encircle it from top to bottom`
 [`Chunk of metal`](Chunk_of_metal "wikilink")`         +ob and pb          an orb of black metal surrounds its tip`
 [`Lustrous opal`](Lustrous_opal "wikilink")`          +attack spell power lustrous fire opal has been inlaid in it`
@@ -45,4 +47,6 @@ embedded item can't be removed. Depending on what items are embedded,
 the name of the staff changes to **reinforced oak staff** (if more metal
 than gems) or **bejewelled oak staff** (if more gems than metal).
 
-[Category: Two-handed weapons](Category:_Two-handed_weapons "wikilink")
+{% include Items.md %}
+
+[Category: Smiting weapons](Category:_Smiting_weapons "wikilink")

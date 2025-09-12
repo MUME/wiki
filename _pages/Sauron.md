@@ -2,8 +2,6 @@
 title: Sauron
 ---
 
-The Dark Lord
-
 In his origin he was a Maia created, as all were, by Iluvatar. He was
 corrupted by the proud and evil Melkor (Morgoth), and became his
 lieutenant in the war which followed, against the Elves and Men.

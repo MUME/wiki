@@ -15,7 +15,7 @@ Brethil](Minas_Brethil "wikilink").
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                      1  Hard`
+[`Armour`](Armour_Spell "wikilink")`                      1  Hard`
 [`Burning Hands`](Burning_Hands "wikilink")`               4  Normal`
 [`Chill Touch`](Chill_Touch "wikilink")`                 3  Easy`
 [`Create Light`](Create_Light "wikilink")`                1  Easy`

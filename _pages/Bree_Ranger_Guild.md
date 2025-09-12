@@ -15,14 +15,14 @@ A **ranger** teaches [ranger](general "wikilink")
 ## Skill list
 
 `            Sessions  Difficulty`
-`awareness          3  Normal    `
-`bandage            3  Easy      `
-`climb              2  Very easy `
-`command            2  Normal    `
-`leadership         4  Normal    `
-`ride               3  Very easy `
-`swim               3  Very easy `
-`track              3  Normal    `
-`wilderness         7  Normal  `
+[`awareness`](awareness "wikilink")`          3  Normal    `
+[`bandage`](bandage "wikilink")`            3  Easy      `
+[`climb`](climb "wikilink")`              2  Very easy `
+[`command`](command "wikilink")`            2  Normal    `
+[`leadership`](leadership "wikilink")`         4  Normal    `
+[`ride`](ride "wikilink")`               3  Very easy `
+[`swim`](swim "wikilink")`               3  Very easy `
+[`track`](track "wikilink")`              3  Normal    `
+[`wilderness`](wilderness "wikilink")`         7  Normal  `
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

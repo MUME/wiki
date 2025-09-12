@@ -4,6 +4,88 @@ title: History
 
 # A Short History of MUME
 
+## Valaquenta (Account of the Valar)
+
+Some relevant additions to MUME's engine:
+
+- **[MUME I](MUME_I "wikilink")**, January 1992
+  - Starting point at the Swiss Federal Institute of Technology in
+    Lausanne, Database lab.
+  - Lost tales (we didn't keep track of the modifications). Among them,
+    Trophy system and Cross class practicing.
+
+<!-- -->
+
+- **[MUME II](MUME_II "wikilink")**, June 1992
+  - Special procedure system (that predates mudlle, awful hacks that
+    allowed some 'inline' behaviour of mobs) and the non AD&D fight
+    system.
+  - Foci and Istari
+  - Orc race. The War between the Red Eye and the Free People of Arda
+    begins..
+
+<!-- -->
+
+- **[MUME III](MUME_III "wikilink")**, February 1993
+  - Mudlle, MUME's online programming language
+  - Weather system
+  - Shops
+  - 1-100 playable levels (after level 25 there is little gain in power)
+  - MUME Protocol for clients (allowing remote editing).
+  - Diseases
+  - Justice system
+  - Troll race
+  - Travel points
+
+<!-- -->
+
+- **[MUME IV](MUME_IV "wikilink")**, February 1994
+  - End of the special procedure system (all was converted in mudlle)
+  - New Istari
+  - Mounts
+  - Mudlle compiler for sparc (was interpreted earlier)
+  - Black Numenorean race
+
+<!-- -->
+
+- **[MUME V](MUME_V "wikilink")**, August 1994
+  - War points.
+  - MUME is ported to Linux
+  - Servers are created to reduce MUME bandwidth usage
+  - MUME moves from the Database lab to the Math department
+  - Critical hits
+  - Orc Shamans
+  - Tracking system
+  - Line of Sight
+
+<!-- -->
+
+- **[MUME VI](MUME_VI "wikilink")**, March 1996
+  - New practice system
+  - ANSI colours
+  - New zones allowing more than 100 rooms
+  - Perception
+  - MUME is ported to Solaris
+  - New hide/sneak/backstab system
+  - MUME is now hosted by the FIRE in Norway (January 98).
+  - The third arm (holding the lantern) was amputated
+  - New focus system
+
+<!-- -->
+
+- **[MUME VII](MUME_VII "wikilink")**, April 1999
+  - Chosen Statistics
+  - Easy Char Generation
+  - Dynamic Classes
+  - Continuous Regeneration
+  - Subraces
+
+<!-- -->
+
+- **[MUME VIII](MUME_VIII "wikilink")**, January 2002
+  - A third side of the war
+  - Beorning shapechangers
+
 ## Ainulindalë (The Music of the Ainur)
 
 There was Eru, the One, who in Arda is called Illuvatar; and he made
@@ -59,78 +141,6 @@ languages in general and in C hacks in particular, was lured on MUME.
 As a last note we would like to thank all the people that helped and
 help us to build MUME.
 
-## Valaquenta (Account of the Valar)
-
-Some relevant additions to MUME's engine:
-
-- **[MUME I](MUME_I "wikilink")**, January 1992
-
-`** Starting point at the Swiss Federal Institute of Technology in Lausanne, Database lab.`
-`** Lost tales (we didn't keep track of the modifications). Among them, Trophy system and Cross class practicing. `
-
-- **[MUME II](MUME_II "wikilink")**, June 1992
-
-`** Special procedure system (that predates mudlle, awful hacks that allowed some 'inline' behaviour of mobs) and the non AD&D fight system.`
-`** Foci and Istari`
-`** Orc race. The War between the Red Eye and the Free People of Arda begins.. `
-
-- **[MUME III](MUME_III "wikilink")**, February 1993
-
-`** Mudlle, MUME's online programming language`
-`** Weather system`
-`** Shops`
-`** 1-100 playable levels (after level 25 there is little gain in power)`
-`** MUME Protocol for clients (allowing remote editing).`
-`** Diseases`
-`** Justice system`
-`** Troll race`
-`** Travel points `
-
-- **[MUME IV](MUME_IV "wikilink")**, February 1994
-
-`** End of the special procedure system (all was converted in mudlle)`
-`** New Istari`
-`** Mounts`
-`** Mudlle compiler for sparc (was interpreted earlier)`
-`** Black Numenorean race `
-
-- **[MUME V](MUME_V "wikilink")**, August 1994
-
-`** War points.`
-`** MUME is ported to Linux`
-`** Servers are created to reduce MUME bandwidth usage`
-`** MUME moves from the Database lab to the Math department`
-`** Critical hits`
-`** Orc Shamans`
-`** Tracking system`
-`** Line of Sight `
-
-- **[MUME VI](MUME_VI "wikilink")**, March 1996
-
-`** New practice system`
-`** ANSI colours`
-`** New zones allowing more than 100 rooms`
-`** Perception`
-`** MUME is ported to Solaris`
-`** New hide/sneak/backstab system`
-`** MUME is now hosted by the FIRE in Norway (January 98).`
-`** The third arm (holding the lantern) was amputated`
-`** New focus system `
-
-- **[MUME VII](MUME_VII "wikilink")**, April 1999
-
-`** Chosen Statistics`
-`** Easy Char Generation`
-`** Dynamic Classes`
-`** Continuous Regeneration`
-`** Subraces`
-`** See also the MUME VII page `
-
-- **[MUME VIII](MUME_VIII "wikilink")**, January 2002
-
-`** A third side of the war`
-`** Beorning shapechangers `
-
 ## Other Facts
 
 At the same time that the MUME core has been coded in C, dozen of
@@ -141,3 +151,9 @@ Also, around 70 builders have added 'known' locations (and the zones in
 between) in Eriador; like the Grey Havens, Fornost, Tharbad, the Old
 Forest, the Goblin Gate in the Misty Mountains and Moria (which is 1400
 rooms by itself!).
+
+## The Book of Lost Tales
+
+Research and articles about the history of Mume.
+
+[Archive](Archive "wikilink")

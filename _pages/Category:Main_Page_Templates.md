@@ -7,3 +7,5 @@ title: Category:Main Page Templates
 **Do NOT alter these pages unless you know what you are doing.**
 
 </div>
+
+[\*](Category:Templates "wikilink")

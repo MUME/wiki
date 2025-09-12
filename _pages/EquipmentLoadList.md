@@ -2,7 +2,7 @@
 title: EquipmentLoadList
 ---
 
-<spoilers>
+<spoiler>
 
 ###### Special Equipment
 
@@ -1198,4 +1198,4 @@ do this."//
 
 `  *Part of Oakscar quest`
 
-</spoilers>
+</spoiler>

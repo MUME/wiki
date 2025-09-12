@@ -3,9 +3,16 @@ title: Cotton pants
 ---
 
 \> **look pants**
-These are plain dark pants, made of some rough-looking material.
+
+The pants are delicately made of cotton.
+
 \> **consider pants**
-They are a pair of guardsman's pants.
+
+They are a pair of cotton pants.
+
 They weigh a couple of pounds.
 
 {% include Equipment.md %}
+
+[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
+[Category:Legs items](Category:Legs_items "wikilink")

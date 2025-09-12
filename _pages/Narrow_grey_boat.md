@@ -18,4 +18,6 @@ title: Narrow grey boat
 `It is a narrow grey boat.`
 `It weighs one stone and twelve pounds.`
 
+{% include Items.md %}
+
 [Category: Boats](Category:_Boats "wikilink")

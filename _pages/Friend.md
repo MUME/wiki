@@ -2,13 +2,13 @@
 title: Friend
 ---
 
-The master of a house can instruct his guards and gatekeeper about which
-other people are to be welcomed into the house. This is done via the
-FRIENDS command.
+Using the **friends** command, the master of a
+[house](Legend_Homes "wikilink") can instruct his guards and gatekeeper
+about which other people are to be welcomed into the house.
 
-friends list - Display current friends friends add <name1> <name2> ... -
-Give someone free access to the house friends remove <name1> <name2>
-... - Remove the welcome status
+`friends list                       - Display current friends`
+`friends add `<name1>` `<name2>` ...    - Give someone free access to the house`
+`friends remove `<name1>` `<name2>` ... - Remove the welcome status`
 
 These commands must be used while in the same room as your valet or
 guards.
@@ -26,3 +26,4 @@ Doors](Legend_Home_Doors "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
 [Category:Legend_homes](Category:Legend_homes "wikilink")
+[Category:Commands](Category:Commands "wikilink")

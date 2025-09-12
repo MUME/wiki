@@ -2,24 +2,26 @@
 title: Teleport
 ---
 
-<nowiki>gSyntax : cast 'teleport' <location> Type : Long range
-Accumulative: N/A Duration : No Casting : Very long Position : Standing,
-Fighting Level : Level 8 Class : Magic User Min. Mana : 35
+**Teleport** is a [level](level "wikilink") 8 [mage](mage "wikilink")
+[spell](spell "wikilink") that allows the caster to instantly transport
+themselves to a target [room](room "wikilink"). To use teleport you need
+to aquire magical keys for rooms. The keys are obtained by either using
+the [Locate Life](Locate_Life "wikilink") spell or the
+[Locate](Locate "wikilink") spell.
 
-</pre>
+Syntax : cast 'teleport' \<location\> Type : Long range Accumulative:
+N/A Duration : No Casting : Very long Position : Standing, Fighting
+Level : Level 8 Class : Magic User Min. Mana : 35 Example: \> cast
+'teleport' whiqueboza This spell can be learned from:
 
-NOTE: To use teleport you need to aquire magical keys for rooms. The
-keys are obtained by either using the LOCATE LIFE spell or the LOCATE
-spell.
+`                          Sessions `
+[`Forlond Mage Guild`](Forlond_Mage_Guild "wikilink")`               8`
+[`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`               10`
+[`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`            16`
+[`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               3`
 
-Example: <nowiki>g
+See also: [Portal](Portal "wikilink")
 
-` > cast 'teleport' whiqueboza`
-
-</pre>
-
-See also: [Portal](Portal "wikilink"), [Locate](Locate "wikilink"),
-[Locate Life](Locate_Life "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Mage_Spells](Category:Mage_Spells "wikilink")
+[Category:Help files](Category:Help_files "wikilink") [Category:Mage
+spells](Category:Mage_spells "wikilink")
+[Category:Spells](Category:Spells "wikilink")

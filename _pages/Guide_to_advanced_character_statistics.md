@@ -16,32 +16,46 @@ mechanics.
 However, training can also be (ab)used with new characters to improve
 practice percentages! Read the following from HELP TRAIN:
 
-`   NOTE: Unlike rerolls, training does not affect your practice percentages. The`
-`   percentage to which you can practice a skill is only based on your reference`
-`   abilities.`
+`   Note: Unlike rerolls, training does not affect your practice percentages. The`
+`   percentage to which you can practice a skill is only based on your base abilities.`
 
 This means that characters can be created with "unplayable" base
 abilities that result in higher practice percentages can then be
 adjusted into something even more powerful through training! All it
 takes is the careful application of what certain statistics do and
 whether or not they are required in the final result of the character.
-After deciding what to slowly train/neglect skills it takes about a
-months worth of time for the character to reach the limit of the reroll.
+After deciding what abilities ('stats') to slowly train/neglect it takes
+about a month's worth of time for the character to reach the limit of
+the reroll.
+
+A small aside: this kind of tweaking is fun for some people. But if you
+just want to play, don't worry too much about stats more than what is
+mentioned in the [Newbie Base
+Abilities](Newbie_Base_Abilities "wikilink") guide. You'll still be
+nearly as potentially powerful as other players.
 
 **Statistic Effects**
 
 The following table provides exactly what each stat helps with; if you
-want to see what stats do with practice percents I suggest you look at a
-[stat generator](http://nschimme.googlepages.com/stats.htm).
+want to see how max practice percentages vary with what stats, I suggest
+you look at a [stat
+generator](http://sites.google.com/site/jaharamume/index/stat-generator).
 
-<nowiki>g Strength: Wieldable Weapons, Carrying Capacity/Fleeing,
-Offensive Bonus Intelligence: Maximum Mana, Armour Spell, (Herblore?)
-Wisdom: Maximum Mana, Herblore, (Sanctuary Absorb?) Dexterity: Natural
-Dodge Bonus, Fleeing Rate, Maximum Moves Constitution: Maximum
-Hit/Movement points, Movement Regen Will: Resisting/Casting Influence of
-Hostile Magic, Regeneration Perception: Detection, Line of Sight
-
-</pre>
+- Strength: Wieldable [Weapons](Weapon "wikilink"), Carrying
+  Capacity/[Fleeing](Flee "wikilink"), [Offensive
+  Bonus](Offensive_Bonus "wikilink")
+- Intelligence: Maximum [Mana](Mana "wikilink"),
+  [Armour](Armour "wikilink") Spell, (Herblore?)
+- Wisdom: Maximum Mana, Herblore, ([Sanctuary](Sanctuary "wikilink")
+  Absorb?)
+- Dexterity: Natural [Dodge](Dodge "wikilink") Bonus, Fleeing Rate,
+  Maximum Moves
+- Constitution: Maximum Hit/Movement points, Movement Regeneration
+- Will: Resisting/Casting Influence of Hostile Magic, Regeneration,
+  (Sanctuary Absorb?)
+- Perception: Detecting hidden things (also enhanced by
+  [Awareness](Awareness "wikilink")), Taking aim, [Line of
+  Sight](Line_of_Sight "wikilink")
 
 Generally training is primarily useful for improving strength; dexterity
 and constitution are also useful, but the best really depends on a
@@ -57,10 +71,7 @@ and tracking warriors.
 Say we take a powerful cleaving dwarf that has absolutely no chance of
 tracking (63% according to the statgen).
 
-<nowiki>gStr:19 Int: 9 Wis: 7 Dex:15 Con:19 Wil:16 Per: 7. (Dwarf: Pure
-Warrior)
-
-</pre>
+Str:19 Int: 9 Wis: 7 Dex:15 Con:19 Wil:16 Per: 7. (Dwarf: Pure Warrior)
 
 By adjusting the stats slightly we are able to take away from Wil and
 Dex and boost Int and Per giving us 85% track. This is better
@@ -68,10 +79,8 @@ considering the amount of stat points spent and the resulting practice
 percentages. The character that we would therefore create and start
 leveling would be using the following stats:
 
-<nowiki>gStr:19 Int:12 Wis: 7 Dex:14 Con:19 Wil:15 Per:10. (Dwarf:
-Untrained Tracking Warrior)
-
-</pre>
+Str:19 Int:12 Wis: 7 Dex:14 Con:19 Wil:15 Per:10. (Dwarf: Untrained
+Tracking Warrior)
 
 After creating the character we can then train neglect Int and Per and
 train improve Dex and Wil back up to the values in the previous stats.
@@ -85,10 +94,8 @@ This technique is far more effective with combo classes where we boost
 the two main class skills at the cost of survivability. Here is an
 example of a bolting thief with 100% thief and 98% mage skills:
 
-<nowiki>gStr:13 Int:16 Wis:14 Dex:19 Con:13 Wil:11 Per:14. (Elf:
-Unplayable Thief-mage)
-
-</pre>
+Str:13 Int:16 Wis:14 Dex:19 Con:13 Wil:11 Per:14. (Elf: Unplayable
+Thief-mage)
 
 This is mediocre overall, if not impossible to play. Instead of trying
 to placate both basic physical and mental abilities we will instead
@@ -97,10 +104,8 @@ reduce constitution and strength (the stats that benefit the most from
 training). After the modification of the previous model, this character
 will have 104% thief skills from the 17 perception:
 
-<nowiki>gStr:11 Int:16 Wis:14 Dex:19 Con:12 Wil:11 Per:17. (Elf:
-Untrained Thief-mage)
-
-</pre>
+Str:11 Int:16 Wis:14 Dex:19 Con:12 Wil:11 Per:17. (Elf: Untrained
+Thief-mage)
 
 The next step then is creating the character where we then train down
 perception and then train up Con/Str for better physical stats so that
@@ -108,3 +113,5 @@ he can take more punishment and wield better bows while still retaining
 the thief percentages of 17 perception!
 
 Ripped from [thread](http://mume.org/forum/viewtopic.php?f=2&t=12)
+
+[Category: Guides](Category:_Guides "wikilink")

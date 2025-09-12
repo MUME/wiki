@@ -2,4 +2,4 @@
 title: Stabbing
 ---
 
-1.  redirect [Stabbing_Weapons](Stabbing_Weapons "wikilink")
+1.  redirect [Stabbing weapons](Stabbing_weapons "wikilink")

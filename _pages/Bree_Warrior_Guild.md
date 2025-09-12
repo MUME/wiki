@@ -3,10 +3,11 @@ title: Bree Warrior Guild
 ---
 
 **Gathrain** teaches [warrior](warrior "wikilink")
-[skills](skill "wikilink") at the Guard's Training Room in
-[Bree](Bree "wikilink"). The guild is located upstairs from the Mayor's
-Office; to enter, one must pay 1 [silver](gold "wikilink") to [Jack
-Olby](Jack_Olby "wikilink").
+[skills](skill "wikilink") at the **Guard's Training Room** in
+[Bree](Bree "wikilink"). The training room is located upstairs from the
+Mayor's Office; to enter, one must pay 1 [silver](gold "wikilink") to
+[Jack Olby](Jack_Olby "wikilink"), which will give access to the guild
+for 2 hours.
 
 `Gathrain, a retired Bree guard lives here, looking for pupils to train.`
 `>`**`examine Gathrain`**
@@ -27,6 +28,6 @@ Olby](Jack_Olby "wikilink").
 [`rescue`](rescue "wikilink")`                     8  Easy`
 [`slashing weapons`](slashing_weapons "wikilink")`           7  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          11  Normal`
-[`two handed weapons`](two_handed_weapons "wikilink")`         7  Normal`
+[`two-handed weapons`](two-handed_weapons "wikilink")`         7  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

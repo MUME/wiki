@@ -2,24 +2,27 @@
 title: MUME VIII
 ---
 
-MUME VIII Summary
+In addition to recent additions, this new version of
+[MUME](MUME "wikilink") introduces a new side to the war and two new
+races.
 
-In addition to recent additions, this new version of MUME introduces a
-new side to the war and two new races. Zaugurz Orcs
+**Zaugurz Orcs**
 
 A fierce tribe of Orcs from the frozen North, the Zaugurz used to be
 allies of the Uruk-Tarkhnarb. Not long ago, the Tarkhnarb expelled the
 Zaugurz from Goblin Gate; the Zaugurz retaliated with a surprise attack
 on the western portion of the Tarkhnarb caves. Now the Zaugurz are back
 in force, ready to carve their place into the rich Southern lands...
-Beorning Shapeshifters
+
+**Beorning Shapeshifters**
 
 It is said that denizens of the northern Vale of Anduin have the power
 of changing their shape from that of a man to that of a huge bear.
 Whether they descend from great mountain bears, or from the first Men
 who lived in this part of Arda, nobody knows; however, nobody can deny
-their valour and their implacable hatred towards Orcs and Wargs. Zaugurz
-Orcs
+their valour and their implacable hatred towards Orcs and Wargs.
+
+# Zaugurz Orcs
 
 As has been reported earlier, the politics around Goblin Gate has been
 less than stable lately. The Zaugurz Orcs, having migrated southwards
@@ -46,7 +49,9 @@ Warlords list. Since the Zaugurz are at a tribal war with the other
 races under the Dark Lord's shadow, any kills in that war will make the
 winner gain fame. However, such tribal fights will not affect the
 balance between the Armies of the West and the Forces of the Dark Lord
-(i.e., in view war). Beornings and Bears
+(i.e., in view war).
+
+# Beornings and Bears
 
 Beornings can now shapechange to bear form. Bears cannot cast spells,
 and they have severe restrictions on what equipment they can use. On the
@@ -84,4 +89,6 @@ about it. As a consequence of changing race, you will lose your
 citizenship in Anduin Vale (if any) and you will forget most of the
 languages you have learned.
 
-MUME VIII planners and coders: Dáin, Gothmog, Frór, and Manwë.
+*MUME VIII planners and coders: Dáin, Gothmog, Frór, and Manwë.*
+
+[MUME 8](Category:MUME_Versions "wikilink")

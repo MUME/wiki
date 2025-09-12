@@ -2,4 +2,4 @@
 title: Quenya
 ---
 
-1.  redirect [Language](Language "wikilink")
+1.  redirect [Elvish](Elvish "wikilink")

@@ -2,15 +2,27 @@
 title: Night Vision
 ---
 
-<nowiki>g Syntax : cast 'enchant' \[weapon\] Type : Miscellaneous
-Accumulative: No Duration : Permanent Casting : Extremely long Position
-: Standing Level : Level 12 Class : Magic User Min. Mana : 90
+**Night Vision** is a [level](level "wikilink") 7
+[mage](mage "wikilink") [spell](spell "wikilink"). It allows the caster
+to see the names of creatures in dark areas for a period of time. Syntax
+: cast 'night vision' Type : Detection Accumulative: No Duration : Yes
+Casting : Normal Position : Standing Level : Level 7 Class : Magic User
+Min. Mana : 25 Example: \> cast 'night vision'
 
-</pre>
+This spell can be learned from:
 
-NOTE: Not all weapons can be enchanted.
+`                          Sessions `
+[`Forlond Mage Guild`](Forlond_Mage_Guild "wikilink")`               3`
+[`Harlond Mage Guild`](Harlond_Mage_Guild "wikilink")`               1`
+[`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`                8`
+[`Minas Brethil Mage Guild`](Minas_Brethil_Mage_Guild "wikilink")`         1`
+[`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`            11`
+[`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               3`
 
-Example: \> cast 'enchant' longsword
+## See also
 
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+- [Detect Invisibility](Detect_Invisibility "wikilink"), [Detect
+  Magic](Detect_Magic "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Mage
+spells](Category:Mage_spells "wikilink")

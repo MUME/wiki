@@ -4,7 +4,7 @@ title: Ingrove Warrior Guild
 
 **Tymen** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Home of a Hardened Warrior** in
-[Ingrove](Ingrove "wikilink").
+[Ingrove](Anduin_Vale#Ingrove "wikilink").
 
 `A battle-hardened man stands alert.`
 `>`**`examine tymen`**
@@ -25,6 +25,6 @@ title: Ingrove Warrior Guild
 [`rescue`](rescue "wikilink")`                     5  Easy`
 [`slashing weapons`](slashing_weapons "wikilink")`          25  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          21  Normal`
-[`two handed weapons`](two_handed_weapons "wikilink")`        15  Normal`
+[`two-handed weapons`](two-handed_weapons "wikilink")`        15  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

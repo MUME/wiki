@@ -2,6 +2,10 @@
 title: Herbal kit
 ---
 
+Herbal kits can be used to make [herblores](Herblore "wikilink") if you
+have acquired the lore and have the [items](Herb "wikilink") specified
+in the instructions.
+
 ## Upgrades
 
 Certain herbalists or individuals offer to improve your herbal kit as a
@@ -45,7 +49,7 @@ Antidote, Arachnia and better will.
 
 ### Grobb (Zaugurz orcs only)
 
-**Price:** ?
+**Price:** Any magic scroll
 **Description:** A mortar and pestle of smooth, white marble.
 
 ### Sabb

@@ -3,10 +3,10 @@ title: News
 ---
 
 The **News** command allows you to see important information about the
-game. It can be read on special news boards available in every
-[city](city "wikilink") but it can also be checked from anywhere on
-[Arda](Arda "wikilink"). For reading news away from boards use the
-following commands:
+game. It can be read on special news [boards](board "wikilink")
+available in every [city](city "wikilink") but it can also be checked
+from anywhere on [Arda](Arda "wikilink"). For reading news away from
+boards use the following commands:
 
 `Syntax: news [all|whole|next|[tail] `<number>`]`
 
@@ -38,3 +38,6 @@ News are archived after a RL year: these entries will not be listed in
 You can also receive the latest news via the [RSS](RSS "wikilink") feed.
 
 See also: [Read](Read "wikilink"), [View](View "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

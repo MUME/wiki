@@ -2,16 +2,19 @@
 title: Piercing weapons
 ---
 
-## Piercing
+**Piercing weapons** is a [thief](thief "wikilink")
+[skill](skill "wikilink") and [weapon](weapon "wikilink") class that
+applies to all kinds of daggers, knives and similar - if they are
+wielded in one hand only.
 
-(Thief Skill) (Weapon Class)
+## See also
 
-The piercing weapons skill applies to all kinds of daggers, knives and
-similar - if they are wielded in one hand only.
+- [Charge](Charge "wikilink"), [Cleaving](Cleaving "wikilink"),
+  [Concussion](Concussion "wikilink"), [Missile](Missile "wikilink"),
+  [Stabbing](Stabbing "wikilink"), [Slashing](Slashing "wikilink"),
+  [Two-handed](Two-handed "wikilink")
+- [Piercing weapon](Piercing_weapon "wikilink") for a list of weapons
+  belonging to this class.
 
-See also: [ATTACK](ATTACK "wikilink"), [BACKSTAB](BACKSTAB "wikilink"),
-[CHARGE](CHARGE "wikilink"), [CLEAVING](CLEAVING "wikilink"),
-[CONCUSSION](CONCUSSION "wikilink"), [STABBING](STABBING "wikilink"),
-[SLASHING](SLASHING "wikilink"), [TWOHANDED](TWOHANDED "wikilink")
-
-[Back to skill list](Skill "wikilink")
+[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink")

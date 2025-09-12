@@ -2,46 +2,35 @@
 title: Account
 ---
 
-Players should have one master ACCOUNT, when logging into mume you can
-choose to login into a specific CHARACTER or your master account that
-allows you to see info on all the characters you own.
+You have one **account** from which you can log in with your characters.
+If you log in with your account name, you start the game in the menu.
+You can "create" (for example: "create Bilbo") new characters from here
+or play any of your existing characters.
 
-Some frequently asked questions ( Assume that you have the account
-"Martin" and the characters "Frodo" and "Bilbo")
+You can see your account menu when logging into your account and typing
+"list" or when typing' the command "account" anytime you play. Below
+that list of your characters you will also see if one of your characters
+has unread [mails](mail "wikilink").
 
-<nowiki>g Q: How do I get to the account menu?
+You can also sort the characters by: side, [race](race "wikilink"),
+[level](level "wikilink"), alphabetic, or logon. Just type "account
+<field>" to do so.
 
-A: Log in with your ACCOUNT name (ie in this case Martin) instead of a
-character name.
+You can change your account [password](password "wikilink") with the
+"pass" command from the account menu.
 
-Q: How to add characters to my account?
+You can also log your characters directly, without logging into the
+account first. If the account and the character have the same name, you
+can simply prepend a ! to the name ("!Bilbo").
 
-A: use the ADD command in the account menu. (example: add frodo)
+In case you still have old characters before accounts were introduced to
+[MUME](MUME "wikilink"), you can add them via the "add" command
+(example: "add Frodo").
 
-Q: How to change the account password?
+You can show information about characters in your account using "account
+[info](info "wikilink") <character>" while playing, or using "info
+<character>" from the account menu.
 
-A: Use the PASS command from the account menu.
-
-Q: How to make a new character?
-
-A: Use the CREATE command from the account menu. (example: create Bilbo)
-
-Q: Is it possible to log in characters and type only ONE password?
-
-A: Yes, change your character password to nothing, and you will only be
-asked for account password on login. (To do this: While logged in with
-your char, type "change password", and hit enter twice when asked for
-new password)
-
-Q: How do I play my character directly, without logging on the account?
-
-A: If your character name is different from the account name, as we
-recommend, just type the character name and account password (and
-possibly character password). If your character and account have the
-same name, you can prepend a ! to the name. (example: !martin)
-
-</pre>
-
-See Also: [Rules Account](Rules_Account "wikilink")
+See Also: [Rules Accounts](Rules_Accounts "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")

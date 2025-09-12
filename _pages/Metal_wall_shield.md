@@ -3,7 +3,8 @@ title: Metal wall shield
 ---
 
 The **metal wall shield** is a rather heavy [shield](shield "wikilink")
-that grants mediocre parry bonus.
+that grants mediocre [parry bonus](parry_bonus "wikilink"). It can be
+bought from most armourers for about 9 [gold](gold "wikilink").
 
 `A metal wall shield rests on the ground.`
 `>`**`examine shield`**

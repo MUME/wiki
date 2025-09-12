@@ -3,8 +3,16 @@ title: Fine metal vambraces
 ---
 
 \> **look vambraces**
+
 You see nothing special...
-\> **consider vambraces** They are a fine pair of metal vambraces.
+
+\> **consider vambraces**
+
+They are a fine pair of metal vambraces.
+
 They weigh twelve pounds.
 
 {% include Equipment.md %}
+
+[Fine metal vambraces](Category:_Metal_equipment "wikilink") [Fine metal
+vambraces](Category:Arms_items "wikilink")

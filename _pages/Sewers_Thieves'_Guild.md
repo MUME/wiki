@@ -22,4 +22,5 @@ somewhere behind a red door in the Sewers of
 [`piercing weapons`](piercing_weapons "wikilink")`        16  Normal`
 [`sneak`](sneak "wikilink")`                   23  Hard`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
+Guildmasters](Category:_Guildmasters "wikilink")

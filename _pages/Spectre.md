@@ -14,4 +14,5 @@ he's alive.
 `away to become totally transparent near the feet, making the ghost`
 `float softly above the ground.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
+with unknown level](Category:_Mobiles_with_unknown_level "wikilink")

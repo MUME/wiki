@@ -16,7 +16,7 @@ A **grey haired elf** teaches [mage](mage "wikilink")
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                      8  Hard`
+[`Armour`](Armour_Spell "wikilink")`                      8  Hard`
 [`Burning Hands`](Burning_Hands "wikilink")`               6  Normal`
 [`Call Familiar`](Call_Familiar "wikilink")`               4  Normal`
 [`Call Lightning`](Call_Lightning "wikilink")`             16  Hard`
@@ -33,7 +33,7 @@ A **grey haired elf** teaches [mage](mage "wikilink")
 [`Magic Missile`](Magic_Missile "wikilink")`               4  Easy`
 [`Night Vision`](Night_Vision "wikilink")`                3  Normal`
 [`Scry`](Scry "wikilink")`                       16  Hard`
-[`Shield`](Shield "wikilink")`                      6  Hard`
+[`Shield`](Shield_Spell "wikilink")`                      6  Hard`
 [`Shocking Grasp`](Shocking_Grasp "wikilink")`              6  Normal`
 [`Shroud`](Shroud "wikilink")`                      7  Hard`
 [`Teleport`](Teleport "wikilink")`                    8  Hard`

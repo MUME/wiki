@@ -17,3 +17,5 @@ Some cancelable delayed commands are:
   [reveal](reveal "wikilink"), [search](search "wikilink"), [pick
   lock](pick "wikilink"), [escape](escape "wikilink"),
   [steal](steal "wikilink"), [cast](cast "wikilink").
+
+[Category: Help files](Category:_Help_files "wikilink")

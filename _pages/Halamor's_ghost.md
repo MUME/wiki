@@ -4,8 +4,8 @@ title: Halamor's ghost
 
 **Halamor's ghost** is a level ~17-18 [mobile](mobile "wikilink") found
 in a ruined village east of [Bree](Bree "wikilink"). He can
-[sneak](sneak "wikilink") and cast [lightning
-bolt](lightning_bolt "wikilink"). He is accompanied by [Sulien's
+[sneak](sneak "wikilink") and cast [Lightning
+Bolt](Lightning_Bolt "wikilink"). He is accompanied by [Sulien's
 ghost](Sulien's_ghost "wikilink"), who will disappear if he is killed.
 He loads a [rapier](rapier "wikilink") and a [ring](ring "wikilink").
 

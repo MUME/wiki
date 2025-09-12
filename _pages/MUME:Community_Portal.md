@@ -2,4 +2,4 @@
 title: MUME:Community Portal
 ---
 
-1.  REDIRECT \[\[Wiki rules
+1.  REDIRECT [MUME:Wiki rules](MUME:Wiki_rules "wikilink")

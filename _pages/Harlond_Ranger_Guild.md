@@ -3,7 +3,7 @@ title: Harlond Ranger Guild
 ---
 
 A **ranger** teaches [ranger](ranger "wikilink")
-[skills](skills "wikilink") at the **Ranger's Guild** in
+[skills](skill "wikilink") at the **Ranger's Home** in
 [Harlond](Harlond "wikilink").
 
 `A ranger stands quietly here, willing to teach his knowledge of woodcraft.`

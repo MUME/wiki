@@ -2,19 +2,19 @@
 title: Change
 ---
 
-This is a general command to change one of your parameters.
+This is a general command to **change** one of your parameters.
 
-Use CHANGE <parameter>, where <parameter> is one of the following:
+Use 'change <parameter>', where <parameter> is one of the following:
 
 `   `[`ALERTNESS`](Change_Alertness "wikilink")`      changes how much attention you pay to hidden people`
 `   ANSIFILTER     turns removal of special characters in whoises on and off`
 `   `[`CHARSET`](Charset "wikilink")`        selects which character set your terminal supports`
-`   `[`CLASS`](Class "wikilink")`          changes your class`
+`   `[`CLASS`](Change_Class "wikilink")`          changes your class`
 `   `[`COLOUR`](Colour "wikilink")`         highlights certain text in color to make it more noticeable`
 `   `[`DESCRIPTION`](Description "wikilink")`    changes the description others see when they look at you`
 `   `[`EDITOR`](Change_Editor "wikilink")`         selects your editor for writing text`
 `   `[`EQORDER`](Change_Eqorder "wikilink")`        customise equipment display order`
-`   HEIGHT         sets the number of lines before a page break for PAGER`
+`   HEIGHT         sets the number of lines before a page break for `[`PAGER`](Change_Pager "wikilink")
 `   HTML           toggle to use the WWW-connection (disabled)`
 `   `[`LANGUAGE`](Language "wikilink")`       selects another language to speak*`
 `   `[`LINKDROP`](Linkdrop "wikilink")`       determines your connection's inactivity timeout`
@@ -31,22 +31,17 @@ Use CHANGE <parameter>, where <parameter> is one of the following:
 `   `[`XML`](XML "wikilink")`            toggles XML-output on/off`
 
 - Remember to use one of the "standard languages" (whiteside: Westron)
-  if you
+  if you want to be understood by all players when using the Forgotten
+  Tales (also known as [narrating](narrate "wikilink")).
 
-` want to be understood by all players when using the Forgotten Tales (also`
-` known as narrating).`
+<!-- -->
 
-- - Note that you can not change your title while suffering Mandos
-    Sleep.
+- Note that you can not change your title while suffering Mandos Sleep.
 
-More parameters might be available, type "change" to have a complete
+More parameters might be available, type 'change' to have a complete
 list. Ainu see /help change.
 
-Example: <nowiki>g
-
-` > change colour fight`
-` > change language westron`
-
-</pre>
+Example: \> change colour fight \> change language westron
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

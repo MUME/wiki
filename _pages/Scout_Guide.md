@@ -3,24 +3,18 @@ title: Scout Guide
 ---
 
 Credits: Originally By Locram
-([source](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970))
-
-Starting a scout you'll want to know a couple of things:
-
-- What are scouts in mume like?
-- What race should i play?
-- What stats should i have?
-- How do i level/prac my scout?
-- What equipment is good?
+([source](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970)).
+Please edit, update, and improve!
 
 ### Scouts in Mume
 
-Scouts in mume are distinct from other classes since they have the
-ability to sneak. Sneaking makes you practically invisible to other
-players and mobs, as long as you enter their room and not the other way
-around. In order for sneak (and all skills that require you to sneak) to
-work you need to have SUPERB sneaking, that is over 101% sneak
-(percentages are visible when typing practice at a guild master).
+Scouts in mume are distinct from other classes in their ability to
+[sneak](sneak "wikilink") and [backstab](backstab "wikilink"). Sneaking
+makes you practically invisible to other players and mobs, as long as
+you enter their room and not the other way around. In order for sneak
+(and all skills that require you to sneak) to work you need to have
+SUPERB sneaking, that is over 101% sneak (percentages are visible when
+typing practice at a guild master).
 
 It is possible to sneak with less than 101%, but you will fail up to a
 third of your sneak attempts if you have 99% or less. The other thing is
@@ -30,40 +24,41 @@ to lose some weight.
 
 ### Race Options
 
-What race you want to play depends largely on what kind of stats you
-want, and what stats you want largely depends on what scout you wish to
-play later. However, all scouts skills, except envenom and attack are
-DEX and PER based, in that order, and you need above 101% in order to
-have a working scout. Dwarves do not make great scouts not only due to
+All scouts skills, except envenom and attack are
+[DEX](Statistic "wikilink") and [PER](Statistic "wikilink") based, in
+that order, and you need above 101% in order to have a working scout.
+[Dwarves](Dwarves "wikilink") do not make great scouts not only due to
 bad stats, but they also get a severe malus to sneak, which makes them
 an overall bad choice.
 
-There is no reason statwise to play a half elf scout, so that leaves us
-with the choice of man, elf or hobbit. Elves it seems, make the best
-scouts, since they get high bonuses to DEX and PER. However elves get a
-malus in str, con and wil and lower move point regen. Elves get a free
-citizenship in lorien and cannot become sick in MUME.
+There is no reason statwise to play a [half-elf](half-elf "wikilink")
+scout, so that leaves us with the choice of [man](man "wikilink"),
+[elf](elf "wikilink") or [hobbit](hobbit "wikilink"). Elves it seems,
+make the best scouts, since they get high bonuses to DEX and PER.
+However elves get a malus in str, con and wil and lower [move point
+regen](Movement_points "wikilink"). Elves get a free citizenship in
+[lorien](lorien "wikilink") and cannot become sick in MUME.
 
 Hobbits get bonuses to dex, con and wil, but malus to str and int.
 Hobbits also get a bonus to backstabbing (higher sucess rate) if they
 remove their shoes. Trolls do 33% more damage against hobbits, and
-hobbits cannot ride big horses (warhorse, horse of the rohirrim, pack
-horse, docile horse).
+hobbits cannot ride big [horses](Mount "wikilink") (warhorse, horse of
+the rohirrim, pack horse, docile horse).
 
 Men get no bonus or malus to stats. This leaves you with low scout
-percentages and less room to get none scout skills, such as bash or high
-endurance, but gives you a higher stregnth that allows you to carry
-more.
+percentages and less room to get none scout skills, such as
+[bash](bash "wikilink") or high [endurance](endurance "wikilink"), but
+gives you a higher stregnth that allows you to carry more.
 
 ### Stats
 
-About stats and percentages: Having a given stat gives you a certain max
-percentage when practicing a skill. This percentage is augumented or
-worsened by your other skills, depending on their class. This means that
-if you practice sneak for instance, and get 106%, then you put 10 pracs
-in endurance your sneak will become lower. This also affects other
-aspects of your character, such as OB/HP/DB/PB. Raising any warrior
-skill will increase hp and ob, and also raise all other warrior skills.
+Having a given stat gives you a certain max percentage when practicing a
+skill. This percentage is augumented or worsened by your other skills,
+depending on their class. This means that if you practice sneak for
+instance, and get 106%, then you put 10 pracs in endurance your sneak
+will become lower. This also affects other aspects of your character,
+such as OB/HP/DB/PB. Raising any [warrior](warrior "wikilink") skill
+will increase hp and ob, and also raise all other warrior skills.
 Raising any scout skill will increase db, lower hp and ob and also give
 you higher scout skills. Ranger pracs do not affect any stats or other
 skills.
@@ -123,24 +118,25 @@ mume.
 
 If you are an elf you should start by getting a torch in mandos and
 praying to lorien. In lorien spam around until you have enough travel
-points for level 10 or so. After that pray to Grey Havens. At level 1-15
-you level by shooting, and after that by backstabbing.
+points for level 10 or so. After that pray to [Grey
+Havens](Grey_Havens "wikilink"). At level 1-15 you level by shooting,
+and after that by backstabbing.
 
-Both shoot and backstab are delayed commands that are interrupted if you
-get hit while trying. In order to shoot something you need a bow
-(longbow is better for xp), a quiver with arrows and preferably the
-missile skill. Shooting from sneak also helps both aiming, damage and
-reliability of your shots, so get max sneak as soon as you can. When a
-scout (or anyone else) flees from combat, they will get nosneak, which
-is a temporary effect that lasts for about four seconds, you will see
-that your prompt will have a smaller 's' instead of the normal capital
-'S', and that means that you have sneak on, but you have nosneak. There
-is a skill to counter this however - the escape skill. Escape lets you
-flee in a chosen direction, and lets you keep sneaking afterwards,
-however it takes time to escape and escape can also fail (chances are
-higher with many mobs/players hitting you). Max missile is 16 pracs, and
-is taught in lorien. Max sneak and escape is taught in tharbad. Sneak is
-23 pracs, escape is 16.
+Both [shoot](shoot "wikilink") and backstab are delayed commands that
+are interrupted if you get hit while trying. In order to shoot something
+you need a [bow](bow "wikilink") (longbow is better for xp), a quiver
+with arrows and preferably the missile skill. Shooting from sneak also
+helps both aiming, damage and reliability of your shots, so get max
+sneak as soon as you can. When a scout (or anyone else) flees from
+combat, they will get nosneak, which is a temporary effect that lasts
+for about four seconds, you will see that your prompt will have a
+smaller 's' instead of the normal capital 'S', and that means that you
+have sneak on, but you have nosneak. There is a skill to counter this
+however - the escape skill. Escape lets you flee in a chosen direction,
+and lets you keep sneaking afterwards, however it takes time to escape
+and escape can also fail (chances are higher with many mobs/players
+hitting you). Max missile is 16 pracs, and is taught in lorien. Max
+sneak and escape is taught in tharbad. Sneak is 23 pracs, escape is 16.
 
 Scouts have most of their guildmasters in the city of Tharbad. This is a
 dangerous place for low level newbies, since the town accepts black
@@ -243,8 +239,6 @@ all the time. 2-3 lembas wafers, a small water container, a light source
 and a butcher knife should be your only excess equipment. Having a pale
 blue stone, preferably a focused one, and having the traveling lore
 and/or orkish draught will aid you greatly when pking at legend.
-
-__NOTOC__
 
 [\*](Category:Guides "wikilink") [Category:Newbie
 Help](Category:Newbie_Help "wikilink")

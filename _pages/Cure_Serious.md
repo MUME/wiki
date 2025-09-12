@@ -9,4 +9,28 @@ primary healing spell for clerics. By [mages](mage "wikilink") and also
 some [warriors](warrior "wikilink") and [scouts](scout "wikilink") it is
 used as the highest healing spell.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'cure serious' \[victim\] Type : Healing Accumulative: N/A
+Duration : No Casting : Long Position : Standing, fighting Level : Level
+5 Class : Cleric Min. Mana : 15 Example: \> cast 'cure serious'
+mercenary
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Druid`](Druid "wikilink")`                              8`
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`               8`
+[`Harlond Cleric Guild`](Harlond_Cleric_Guild "wikilink")`               5`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`               12`
+[`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`            12`
+[`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               5`
+
+## See also
+
+- [Cure Blindness](Cure_Blindness "wikilink"), [Cure
+  Light](Cure_Light "wikilink"), [Cure Critic](Cure_Critic "wikilink"),
+  [Cure Disease](Cure_Disease "wikilink"), [Remove
+  Poison](Remove_Poison "wikilink"), [Heal](Heal "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink") [Category:Shaman
+spells](Category:Shaman_spells "wikilink")

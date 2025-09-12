@@ -1,5 +1,5 @@
 ---
-title: "Did you know"
+title: Template:Did you know
 ---
 
 <noinclude>
@@ -20,7 +20,12 @@ Admins:
 <tr class="odd">
 <td><p></noinclude></p>
 <ul>
-<li>Gothmog unretired to improve smob fights</li>
+<li>Want to <em>help</em>? Not sure where to start? Look at the <a
+href=":Category:Stubs" title="wikilink">stubs</a> that need
+expanding!</li>
+<li>There is now a <a href="Wikibot" title="wikilink">Wikibot</a> here
+to help you. Write requests <a href="User_Talk:Mandomstest"
+title="wikilink">here</a> if you need help with repetitive tasks.</li>
 <li>Consult the <a
 href="http://meta.wikimedia.org/wiki/Help:Contents">User's Guide</a> for
 information on how to edit using wiki software.</li>
@@ -31,3 +36,8 @@ information on how to edit using wiki software.</li>
 </table>
 
 __NOTOC__ </noinclude>
+
+<noinclude> </noinclude>
+
+[](Category:Main_Page_Templates "wikilink")
+[](Category:Templates "wikilink")

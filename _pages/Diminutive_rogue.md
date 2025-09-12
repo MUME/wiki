@@ -5,8 +5,8 @@ title: Diminutive rogue
 **Diminutive rogues** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's
 Castle](Malardil's_Castle "wikilink"). They can
-[sneak](sneak "wikilink"). They load with a [piercing
-weapon](piercing_weapon "wikilink"), a
+[sneak](sneak "wikilink"). They load with 8 [silver](silver "wikilink"),
+a [piercing weapon](piercing_weapon "wikilink"), a
 [buckler](Shield#Buckler "wikilink"), a
 [belt](plain_leather_belt "wikilink"), [lantern](lantern "wikilink"),
 [ring](ring "wikilink") and some basic cloth equipment.

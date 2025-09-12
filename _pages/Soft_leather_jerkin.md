@@ -3,15 +3,25 @@ title: Soft leather jerkin
 ---
 
 \> **look jerkin**
+
 This snugly fitting jerkin is fashioned from thin pieces of softened
 leather,
+
 carefully stitched together using brown twine. The jerkin is constructed
 in a
+
 manner that allows the wearer flexibility at the cost of protection,
 save maybe
+
 from the elements.
+
 \> **consider jerkin**
+
 It is a soft leather jerkin.
+
 It weighs five pounds.
 
 {% include Equipment.md %}
+
+[Soft leather jerkin](Category:_Leather_equipment "wikilink") [Soft
+leather jerkin](Category:_Body_items "wikilink")

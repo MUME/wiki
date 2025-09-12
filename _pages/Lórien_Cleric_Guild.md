@@ -8,7 +8,7 @@ title: Lórien Cleric Guild
 The guild is open from 8am to 6pm.
 
 `A dark-haired, grey-eyed elven lady is standing here, clad all in white.`
-`>exa elf`
+`>`**`examine Anarwen`**
 `Her countenance serene, her movements calm and gracious, her clothes of white`
 `as bright as the snow on the highest mountain peaks, Anarwen is a perfect`
 `image of a healer. One of the survivors of the ruin of Eregion, she was one of`
@@ -22,6 +22,7 @@ The guild is open from 8am to 6pm.
 `                      Sessions  Difficulty`
 [`Bless`](Bless "wikilink")`                        3  Normal`
 [`Blindness`](Blindness "wikilink")`                    4  Hard`
+[`Break Door`](Break_Door "wikilink")`                   6  Normal`
 [`Breath of Briskness`](Breath_of_Briskness "wikilink")`         10  Hard`
 [`Create Food`](Create_Food "wikilink")`                  3  Normal`
 [`Create Water`](Create_Water "wikilink")`                 5  Normal`
@@ -38,8 +39,9 @@ The guild is open from 8am to 6pm.
 [`Protection From Evil`](Protection_From_Evil "wikilink")`        12  Normal`
 [`Remove Curse`](Remove_Curse "wikilink")`                10  Normal`
 [`Remove Poison`](Remove_Poison "wikilink")`               12  Normal`
+[`Sanctuary`](Sanctuary "wikilink")`                   25  Very hard`
 [`Sense Life`](Sense_Life "wikilink")`                   3  Normal`
-[`Strength`](Strength "wikilink")`                    10  Hard`
+[`Strength`](Strength_Spell "wikilink")`                    10  Hard`
 [`Summon`](Summon "wikilink")`                      10  Hard`
 [`Transfer`](Transfer "wikilink")`                    14  Very hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              10  Very hard`

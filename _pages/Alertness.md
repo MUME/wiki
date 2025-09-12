@@ -11,3 +11,5 @@ A high alertness setting will also improve your peripheral vision when
 you are involved in a thick melee.
 
 See also: [Awareness](Awareness "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink")

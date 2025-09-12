@@ -2,4 +2,5 @@
 title: Category:Shaman spells
 ---
 
-[Category:Shaman](Category:Shaman "wikilink")
+[Spells, Shaman](Category:Shaman "wikilink") [\*Shaman
+spells](Category:Spells "wikilink")

@@ -2,4 +2,4 @@
 title: LothlÃ³rien
 ---
 
-test
+1.  REDIRECT [Lothlórien](Lothlórien "wikilink")

@@ -2,16 +2,15 @@
 title: Charging weapon
 ---
 
-## steel-tipped lance
+**[Charging weapons](Charging_weapons "wikilink")** are one of the
+weapon types found in [MUME](MUME "wikilink"). These weapons are
+efficient vs. riding enemies, but they are mostly considered useless.
 
-This charging weapon can be wielded one-handed. It is poor while
-attacking and poor while defending; its speed is average, and it
-inflicts very little damage upon hitting. It weighs three pounds.
+- [steel-tipped lance](steel-tipped_lance "wikilink") - the "best"
+  charging weapon
+- [lance](lance "wikilink") - the worst charging weapon
 
-## lance
+{% include Items.md %}
 
-This charging weapon can be wielded one-handed. It is awful while
-attacking and poor while defending; its speed is average, and it
-inflicts very little damage upon hitting. It weighs five pounds.
-
-{% include Equipment.md %}
+[Category: Weapons](Category:_Weapons "wikilink")
+[\*](Category:_Charging_weapons "wikilink")

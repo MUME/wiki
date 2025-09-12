@@ -12,4 +12,20 @@ Wearing a [ring](ring "wikilink") (or collar for shape-shifting
 [bears](bear "wikilink")) can protect against being transfered
 involuntarily.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'transfer' \<recipient\> Type : Long range Accumulative:
+N/A Duration : No Casting : Extremely long Position : Standing Level :
+Level 14 Class : Cleric Min. Mana : 50 Example: \> cast 'transfer'
+Aschit
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`              23`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`               14`
+
+## See also
+
+- [Summon](Summon "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink")

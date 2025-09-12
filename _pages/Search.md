@@ -2,12 +2,9 @@
 title: Search
 ---
 
-## Search
-
-(Thief Skill) \[Delayed Command\]
-
-This skill enables you to search for otherwise hidden people, exits and
-objects in the room.
+**Search** is a [thief](thief "wikilink") [skill](skill "wikilink") that
+allows you to search for otherwise [hidden](hide "wikilink") people,
+exits and objects in the [room](room "wikilink").
 
 With a given direction, you search for a secret door in that way. The
 better you are, the more likely you will find something (if there is
@@ -26,8 +23,5 @@ Examples:
 `  > search               searches for hidden items`
 `  > search q             searches quickly for hidden beings in the room`
 
-See also: [HIDE](HIDE "wikilink"), [FLUSH](FLUSH "wikilink"),
-[SNEAK](SNEAK "wikilink"), [REVEAL](REVEAL "wikilink"),
-[WATCHTOWERS](WATCHTOWERS "wikilink")
-
-[Back to skill list](Skill "wikilink")
+[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
+Skills](Category:_Skills "wikilink")

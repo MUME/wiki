@@ -4,7 +4,8 @@ title: Rooftop Thieves' Guild
 
 An **old gentleman** teaches [thief](thief "wikilink")
 [skills](skill "wikilink") in a **Humble Workshop** on the roof of the
-Thirsty Ranger's Inn in [Tharbad](Tharbad "wikilink").
+[Thirsty Ranger's Inn](Thirsty_Ranger's_Inn "wikilink") in
+[Tharbad](Tharbad "wikilink").
 
 `An old gentleman is here, watching you.`
 `>`**`examine man`**

@@ -2,4 +2,4 @@
 title: Silver
 ---
 
-1.  REDIRECT Gold
+1.  REDIRECT [Gold](Gold "wikilink")

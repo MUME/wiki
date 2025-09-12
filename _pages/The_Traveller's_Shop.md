@@ -13,5 +13,4 @@ and stocks a variety of tools, containers and other items, as well as
 `Meeting your stare back dispassionately, his only concern is whether you`
 `have a ware to sell, or something to buy.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

@@ -2,21 +2,22 @@
 title: Map
 ---
 
-If you want a map of a portion of MUME, you have to draw it yourself. We
-want to encourage people to explore the game. A few pre-drawn maps of
-trivial areas (such as Bree, the Shire) exist in ASCII and can be bought
-at a local grocery or travellers shop.
+If you want a **map** of a portion of [MUME](MUME "wikilink"), you have
+to draw it yourself. We want to encourage people to explore the game. A
+few pre-drawn maps of trivial areas (such as [Bree](Bree "wikilink"),
+the [Shire](Shire "wikilink")) exist in ASCII and can be bought at a
+local grocery or travellers shop.
 
-The MAP command is used to view your nearby surrounding areas. Several
-options exist in order to view specific things:
+The **map** command is used to view your nearby surrounding areas.
+Several options exist in order to view specific things:
 
-MAP ROOMS: Displays your surroundings, only works with good visibility.
-MAP WEATHER: Displays the nearby weather, see HELP WEATHER for details.
-MAP FOG: Shows fog in the nearby zones.
+- 'map [rooms](room "wikilink")' displays your surroundings, only works
+  with good visibility.
+- 'map weather' displays the nearby weather, see
+  [weather](weather "wikilink") for details.
+- 'map fog' shows fog in the nearby zones.
 
 These maps have the following key:
-
-<div>
 
 ` A  Ingrove                      T  Tharbad`
 ` B  Bree                         W  Troll Warrens`
@@ -32,11 +33,8 @@ These maps have the following key:
 ` O  Orc Caves                    ~  Hills`
 ` R  Rivendell`
 
-</div>
-
-MAP DARKNESS: Shows the influence of Sauron in nearby zones.
-
-<div>
+'map darkness' shows the influence of [Sauron](Sauron "wikilink") in
+nearby zones.
 
 This map has the following key:
 
@@ -46,23 +44,25 @@ This map has the following key:
 ` =   Zone under the influence of Sauron's Darkness (treated as`
 `     an evil zone, until the darkness dissolves)`
 
-</div>
-
 Notes:
 
-`* All map commands may be abbreviated.`
-
-`* The GLOBAL option can be used in all commands except MAP ROOMS to view the`
-`  entire map of Arda for the specified command.`
+- All map commands may be abbreviated.
+- The 'global' option can be used in all map commands except 'map rooms'
+  to view the entire map of [Arda](Arda "wikilink") for the specified
+  command.
 
 Examples:
 
-\> map r Map rooms. \> map g d Shows a global map of Sauron's influence.
-\> map g w Shows a global map of the weather on Arda.
+`> map r       Map rooms.`
+`> map g d     Shows a global map of Sauron's influence.`
+`> map g w     Shows a global map of the weather on Arda.`
 
 There are also external client applications (called 'mapper') that can
-help you in creating maps. HELP MAPPERS and RULES MAPPERS for further
-details.
+help you in creating maps. See [mappers](mapper "wikilink") and [Rules
+Mappers](Rules_Mappers "wikilink") for further details.
 
 See also: [Map Rooms](Map_Rooms "wikilink"),
-[Weather](Weather "wikilink"), [Mappers](Mapper "wikilink")
+[Weather](Weather "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

@@ -3,15 +3,25 @@ title: Great helm
 ---
 
 \> **look helm**
+
 This helm is reinforced with an additional layer of darker metal in the
 form of
+
 a cross which covers a large part of the sides and face. Two square
 slots for
+
 the eyes and some holes for breathing are surrounded by some simple,
 decorative
+
 runes.
+
 \> **consider helm**
-It is a great helm (well-maintained, fresh).
+
+It is a great helm.
+
 It weighs seven pounds.
 
 {% include Equipment.md %}
+
+[Great helm](Category:_Metal_equipment "wikilink") [Great
+helm](Category:_Head_items "wikilink")

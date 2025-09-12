@@ -40,3 +40,4 @@ See also: [Camp](Camp "wikilink"), [Inn](Inn "wikilink"),
 [Link](Link "wikilink"), [Hometowns](Hometowns "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

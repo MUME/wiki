@@ -2,8 +2,9 @@
 title: Ingrove Ranger Guild
 ---
 
-**Ilyne** teaches [ranger](ranger "wikilink") [skills](skill "wikilink")
-at the **Traveller's Hut** in [Ingrove](Ingrove "wikilink").
+**Ilyne** teaches [ranger](general "wikilink")
+[skills](skill "wikilink") at the **Traveller's Hut** in
+[Ingrove](Anduin_Vale#Ingrove "wikilink").
 
 `A well-tanned woman watches you with caution.`
 `>`**`examine ilyne`**

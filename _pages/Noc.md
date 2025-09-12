@@ -2,4 +2,5 @@
 title: Noc
 ---
 
-1.  REDIRECT [New Orc Caves](New_Orc_Caves "wikilink")
+1.  REDIRECT [Goblin Caves#New Orc
+    Caves](Goblin_Caves#New_Orc_Caves "wikilink")

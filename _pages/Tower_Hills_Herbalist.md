@@ -3,9 +3,9 @@ title: Tower Hills Herbalist
 ---
 
 An **elderly herbalist** tends to the **Herbal Store** in [Black
-Hill](Black_Hill "wikilink"). The store is open ?am - ?pm. The herbalist
-is looking for someone to help him locate some rare medicinal
-[herbs](herb "wikilink").
+Hill](Black_Hill "wikilink"). The store is open 4am - 12pm and 1pm -
+12am. The herbalist needs [help](Quest#Tower_Hills_Herbalist "wikilink")
+retrieving some rare medicinal [herbs](herb "wikilink").
 
 `An elderly herbalist is here, surrounded by a cloud of spice.`
 `>`**`examine herbalist`**

@@ -11,20 +11,12 @@ From time to time, nonmagical missiles will break. This is likely to
 happen if you shoot a hard-to-hit target, or when your shot kills the
 opponent.
 
-Currently implemented missile weapons are:
-
-WEAPON MISSILE QUIVER
-
-------------------------------------------------------------------------
-
-Bow Arrows Quiver Crossbow Bolts Bolt-case \<- Crossbows can be winched
-and loaded before use Sling Pebbles Pouch \<- Pebbles may be searched
-for on the ground, if
-
-`                               you are using a sling: use REVEAL STONE.`
-
-See also: [Missile](Missile "wikilink"), [Schoot](Schoot "wikilink"),
-[Recover](Recover "wikilink"), [Load](Load "wikilink"), [Target
-Schooting](Target_Schooting "wikilink")
+Currently implemented missile weapons are: WEAPON MISSILE QUIVER
+------------------------ Bow Arrows Quiver Crossbow Bolts Bolt-case \<-
+Crossbows can be winched and loaded before use Sling Pebbles Pouch \<-
+Pebbles may be searched for on the ground, if you are using a sling: use
+REVEAL STONE. See also: [Missile](Missile "wikilink"),
+[Shoot](Shoot "wikilink"), [Recover](Recover "wikilink"),
+[Load](Load "wikilink"), [Target Shooting](Target_Shooting "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")

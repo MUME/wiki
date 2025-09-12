@@ -2,4 +2,4 @@
 title: Quartzite
 ---
 
-It's a magical ring and casts bless.
+1.  Redirect [Golden quartzite ring](Golden_quartzite_ring "wikilink")

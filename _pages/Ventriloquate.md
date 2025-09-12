@@ -2,13 +2,15 @@
 title: Ventriloquate
 ---
 
-<nowiki>g Syntax : cast 'ventriloquate' Type : Miscellaneous
-Accumulative: N/A Duration : No Casting : Very short Position : Standing
-Level : Level 1 Class : Magic User Min. Mana : 5
+Syntax : cast 'ventriloquate' Type : Miscellaneous Accumulative: N/A
+Duration : No Casting : Very short Position : Standing Level : Level 1
+Class : Magic User Min. Mana : 5 Example: \> cast 'ventriloquate' bill I
+hate you Bert!
 
-</pre>
+This spell can be learned from:
 
-Example: \> cast 'ventriloquate' bill I hate you Bert!
+`                          Sessions `
+[`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               5`
 
 [Category:Mage spells](Category:Mage_spells "wikilink")
 [Category:Spells](Category:Spells "wikilink")

@@ -2,9 +2,7 @@
 title: Trophy
 ---
 
-Usage:
-
-`  trophy [string]`
+Usage: **trophy** \[string\]
 
 With this command you can see your trophy list, which contains the
 number of times you have killed each kind of monster and player. The
@@ -22,8 +20,9 @@ through the entire trophy list.
 Also, you can specify a string to only display entries whose names
 contain that string. For example:
 
-` trophy wolf`
-` trophy elrond`
-` trophy #      <- display all killed player characters`
+`trophy wolf`
+`trophy elrond`
+`trophy #      <- display all killed player characters`
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

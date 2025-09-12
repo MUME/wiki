@@ -2,22 +2,27 @@
 title: Charging weapons
 ---
 
-## Charge
-
-(Warrior skill) (Weapon Class) \[Delayed Command\]
-
-To charge successfully, you need good riding skill, a horse and a lance.
-Charging only works outdoors on flat terrain, and a successful charge
-will inflict major damage on the victim; it will do more damage if you
-charge for a longer distance. You can not charge once you are already
-engaged in combat.
+**Charge** is a [warrior](warrior "wikilink") [skill](skill "wikilink")
+and [weapon](weapon "wikilink") class. To charge successfully, you need
+good [riding](ride "wikilink") skill, a horse and a lance. Charging only
+works outdoors on flat [terrain](terrain "wikilink"), and a successful
+charge will inflict major damage on the victim; it will do more damage
+if you charge for a longer distance. You can not charge once you are
+already engaged in combat.
 
 Example:
 
-`  > charge morthan`
+\> **charge morthan**
 
-See also: [Concussion](Concussion "wikilink"),
-[Piercing](Piercing "wikilink"), [Slashing](Slashing "wikilink"),
-[Stabbing](Stabbing "wikilink"), [Twohanded](Twohanded "wikilink")
+NOTE: This skill is considered useless.
 
-[Back to skill list](Skill "wikilink")
+## See also
+
+- [Concussion](Concussion "wikilink"), [Cleaving](Cleaving "wikilink"),
+  [Missile](Missile "wikilink"), [Piercing](Piercing "wikilink"),
+  [Slashing](Slashing "wikilink"), [Stabbing](Stabbing "wikilink"),
+  [Two-handed](Two-handed "wikilink")
+
+[Category: Warrior skills](Category:_Warrior_skills "wikilink")
+[Category: Skills](Category:_Skills "wikilink") [Category:
+Commands](Category:_Commands "wikilink")

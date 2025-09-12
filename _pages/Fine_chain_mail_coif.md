@@ -2,8 +2,10 @@
 title: Fine chain mail coif
 ---
 
-**Fine chain mail coifs** are worn on the [head](head "wikilink"). They
-can be bought from some armourers for around 2 [gold](gold "wikilink").
+The **fine chain mail coif** is a lightweight piece of chain mail armour
+worn on the [head](head "wikilink"). It provides a considerable amount
+of damage absorption. It is worth around 1 [gold](gold "wikilink") and
+15 silver.
 
 `A fine chain mail coif lies here.`
 `>`**`examine coif`**
@@ -18,5 +20,5 @@ can be bought from some armourers for around 2 [gold](gold "wikilink").
 
 {% include Items.md %}
 
-[Category: Head items](Category:_Head_items "wikilink") [Category: Chain
-equipment](Category:_Chain_equipment "wikilink")
+[Category: Head items](Category:_Head_items "wikilink") [Category: Mail
+equipment](Category:_Mail_equipment "wikilink")

@@ -2,8 +2,6 @@
 title: MUME VII
 ---
 
-# MUME VII: Summary of Changes
-
 After more than one year of development, when many thought it was just
 but a myth, the 7th version of MUME has finally been released! Designing
 a new game system can be hard. Designing a new system that is compatible
@@ -14,18 +12,6 @@ base, but tried at the same time to lessen the re-learning curve of the
 game. It is too early to say if we have completely succeeded, but the
 first reactions of the players are really encouraging. What are the most
 important changes from MUME VI to MUMEVII?
-
-- Chosen Statistics
-- Inexperienced Players
-- Dynamic Classes
-- Changing Class
-- Skills & Spells
-- Legends
-- Alertness
-- Subraces
-- Continuous Regeneration
-- Delayed Actions
-- More Info?
 
 ## Chosen Statistics
 
@@ -137,6 +123,63 @@ Continuous Regeneration
 
 ## More Info?
 
-`   See the posts 1286 and following on the News Board.`
+Welcome to MUME VII ! The following are the most important changes from
+MUME VI to MUME VII. They will be better discussed in further news and
+in the help files. \* Chosen statistics. As you should have seen when
+logging on, statistics like strength and wisdom are not random anymore:
+you get to choose them while creating your character. Raising a stat
+from 17 to 18 costs much more than raising it from 8 to 9 - so, if you
+want three exceptional stats the other four will be quite bad. The
+stat-choice process can be hard for real newbies, so an easier interface
+has been written for them, suggesting stat-sets that have proven to be
+easy-to-play and successful. \* Dynamic classes. Characters do not
+choose a class at level one, either. Instead, your class is determined
+by what you practice. If you concentrate on weapon skills, your combat
+skill and endurance will increase. If you instead concentrate on spells,
+you will become able to learn and use difficult incantations. And
+lastly, if you try to become a jack of all trades, you will not be able
+to master any of them. \* Change class. At any time, you can type
+'change class' and see a list of titles that match your skills, race,
+alignment, history, and so on. 'change class X' to choose a new class.
+Your choice only affects where you appear on 'who warr', 'who
+cleric'..., and your whois. \* Continuous regeneration. You will no more
+gain a certain amount of hp, mana and moves once every rl minute.
+Instead, you will recover health, concentration and stamina at a more or
+less steady rate - say, one point of mana every few seconds. \* Delayed
+actions will now (hopefully) stop as soon as the end condition that is
+necessary for the action to complete is no longer valid. For example, if
+you cast a spell at someone and he walks out of the room, the casting
+will be interrupted. If you try to backstab someone and they start
+fighting you, you'll stop the backstab attempt etc. \* During the
+character generation process, you are asked if you are an experienced
+player or not. If you are not, you are not asked stats directly; you are
+instead asked questions about your character, and your answers will
+select an 'easy to play' set of stats. New "easy" stat sets are simple
+to add: if you find some particularly good statsets you wish to share,
+put them on "idea". \* 'Who newbie' shows the characters who said they
+are not expert. \* Willpower and perception are much more important than
+in MUME VI. Willpower influences your total mana and mana regen rate,
+and affects some more spells; perception affects several warrior and
+thief skills. \* Hit points and OB depend on your skills - they improve
+by learning warrior skills, they worsen when you learn spells. \* A new
+warrior skill, endurance, will improve your hit point total and your
+hit/move regen. \* Your effective level slowly increases even when
+you're a legend. This affects the casting level of spells, OB, and so
+on. \* You can choose what skills to refresh and what skills to forget
+via the 'train' command. \* Practicing and spellcasting have undergone
+several important changes, discussed in the following posts. The
+important thing to remember is that your efficiency in a skill/spell
+depends not only on your knowledge in the skill/spell (learned %) but
+also on your proficiency in related skills/spells. \* Some spells have
+undergone changes (shield, armour, sanctuary). \* Casting level
+(determined by your level, your efficiency in the spell and your casting
+success) detemines mana usage and spell effect. \* Spells don't fail
+anymore but can sometimes backfire when your casting level is not high
+enough. \* Spells can be cast at different speeds, which affects their
+mana usage and their efficiency. \* Subraces have been introduced. For
+now, they only affect the knowledge of languages, but some other small
+effects will be added in a foreseeable future.
 
 *The MUME 7 Hack^H^H^H^H Development Team.*
+
+[MUME 7](Category:MUME_Versions "wikilink")

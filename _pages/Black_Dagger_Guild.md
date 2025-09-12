@@ -2,13 +2,25 @@
 title: Black Dagger Guild
 ---
 
-The Black Dagger Guild?
+A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
+at the **Black Dagger Guild** in [Old Fornost](Old_Fornost "wikilink").
 
-I don't think anyone has ever heard of the Black Dagger Guild. A
-[thief's guild](thief "wikilink") in [Fornost](Fornost "wikilink"), you
-say? I don't know about that...
+`A thief is waiting here to teach his art.`
+`>`**`examine thief`**
+`He is a thief who has specialized in killing others as effectively as possible,`
+`using all sorts of weapons.  His superior knowledge of how and where to use`
+`them combined with his extraordinary stealth makes him a deadly opponent.`
 
-Maybe you should ask around [Olly's Tavern](Olly's_Tavern "wikilink") in
-[Fornost](Fornost "wikilink") if you really want to search for such
-things. The people who frequent that tavern are likely to be the shady
-sort with whom you obviously interact...
+## Skill list
+
+`                  Sessions  Difficulty`
+[`attack`](attack "wikilink")`                  11  Normal`
+[`dodge`](dodge "wikilink")`                    5  Hard`
+[`hide`](hide "wikilink")`                    11  Normal`
+[`missile`](missile "wikilink")`                 11  Normal`
+[`pick`](pick "wikilink")`                     1  Normal`
+[`piercing weapons`](piercing_weapons "wikilink")`        12  Normal`
+[`search`](search "wikilink")`                  16  Normal`
+[`steal`](steal "wikilink")`                    3  Normal`
+
+[Category: Guildmasters](Category:_Guildmasters "wikilink")

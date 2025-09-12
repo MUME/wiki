@@ -12,6 +12,20 @@ title: Tiger's eye
 `It is a tiger's eye.`
 `It weighs a couple of ounces.`
 
+### Embed Affects
+
+<spoiler>
+
+| Race     | Mana Regen | HP Regen |
+|----------|------------|----------|
+| Dwarf    | +2         | +1       |
+| Elf      | +1         | +2       |
+| Half-Elf | +1         | +2       |
+| Hobbit   | +3         |          |
+| Men      | +2         | +1       |
+
+</spoiler>
+
 {% include Items.md %}
 
 [Category: Uncategorized

@@ -2,4 +2,4 @@
 title: Concussion
 ---
 
-1.  REDIRECT [Concussion_Weapons](Concussion_Weapons "wikilink")
+1.  REDIRECT [Concussion weapons](Concussion_weapons "wikilink")

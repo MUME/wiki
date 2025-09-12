@@ -7,7 +7,8 @@ title: Big John
 between [Bree](Bree "wikilink") and [Tharbad](Tharbad "wikilink"). He is
 an aggressive level ? [mob](mob "wikilink"). He can
 [sneak](sneak "wikilink"). He loads 1 [gold](gold "wikilink"), a
-[lute](lute "wikilink"), and some common equipment.
+[woodsman's axe](woodsman's_axe "wikilink"), a [lute](lute "wikilink"),
+and some leather equipment.
 
 `Big John is swiftly moving around, hiding in the shadows.`
 `>`**`examine John`**

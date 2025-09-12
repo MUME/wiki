@@ -13,5 +13,4 @@ title: Faldor the weaponsmith
 `item is a beautiful one, and he is just as skilled in decorating his works as`
 `making them sharp.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

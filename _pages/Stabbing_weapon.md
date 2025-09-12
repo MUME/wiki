@@ -2,63 +2,34 @@
 title: Stabbing weapon
 ---
 
-# Offensive
+**[Stabbing weapons](Stabbing_weapons "wikilink")** are one of the
+[weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
+are effective vs. [riding](ride "wikilink") enemies and have moderate to
+high strength requirements. Stabbing weapons can be used to keep
+attackers at bay.
 
-## giant spear
+## Offensive
 
-This stabbing weapon can be wielded one-handed. It is good while
-attacking and poor while defending; its speed is slow, and it inflicts
-considerable damage upon hitting. It weighs six pounds.
+- [blackened Spear](blackened_Spear "wikilink")
+- [giant spear](giant_spear "wikilink")
+- [steel-tipped spear](steel-tipped_spear "wikilink")
+- [pike](pike "wikilink")
+- [longspear](longspear "wikilink")
 
-## steel-tipped spear
+## Defensive
 
-This stabbing weapon can be wielded one-handed. It is average while
-attacking and poor while defending; its speed is slow, and it inflicts
-average damage upon hitting. It weighs three pounds.
+- [elven hunting-spear](elven_hunting-spear "wikilink")
+- [steel-shafted spear](steel-shafted_spear "wikilink")
+- [orkish battle-standard](orkish_battle-standard "wikilink")
 
-## pike
+## Average
 
-This stabbing weapon can be wielded one-handed. It is average while
-attacking and poor while defending; its speed is slow, and it inflicts
-little damage upon hitting. It weighs four pounds.
+- [short spear](short_spear "wikilink")
+- [broad spear](broad_spear "wikilink")
+- [pitchfork](pitchfork "wikilink")
+- [twisted spear](twisted_spear "wikilink")
 
-## longspear
+{% include Items.md %}
 
-This stabbing weapon can be wielded one-handed. It is average while
-attacking and poor while defending; its speed is slow, and it inflicts
-little damage upon hitting. It weighs three pounds.
-
-# Defensive
-
-## elven hunting-spear
-
-This stabbing weapon can be wielded one-handed. It is poor while
-attacking and average while defending; its speed is slow, and it
-inflicts little damage upon hitting. It weighs three pounds.
-
-## steel-shafted spear
-
-This stabbing weapon can be wielded one-handed. It is awful while
-attacking and average while defending; its speed is slow, and it
-inflicts average damage upon hitting. It weighs four pounds.
-
-# Average
-
-==short spear= This stabbing weapon can be wielded one-handed. It is
-awful while attacking and average while defending; its speed is average,
-and it inflicts little damage upon hitting. It weighs a couple of
-pounds.
-
-## broad spear
-
-This stabbing weapon can be wielded one-handed. It is poor while
-attacking and poor while defending; its speed is slow, and it inflicts
-little damage upon hitting. It weighs four pounds.
-
-## pitchfork
-
-This stabbing weapon can be wielded one-handed. It is awful while
-attacking and awful while defending; its speed is slow, and it inflicts
-little damage upon hitting. It weighs three pounds.
-
-{% include Equipment.md %}
+[Category: Weapons](Category:_Weapons "wikilink")
+[\*](Category:_Stabbing_weapons "wikilink")

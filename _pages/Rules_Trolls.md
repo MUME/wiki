@@ -2,21 +2,21 @@
 title: Rules Trolls
 ---
 
-Some special rules apply to trolls:
+Some special rules apply to [trolls](trolls "wikilink"):
 
-- Trolls are not allowed to make a career of killing other darkies
-  (including
+- Trolls are not allowed to make a career of killing other
+  [darkies](darkies "wikilink") (including trolls) in or near
+  [Warrens](Warrens "wikilink"), due to abuse of how easy it is to do
+  so.
 
-` trolls) in or near Warrens, due to abuse of how easy it is to do so.`
-
-To clarify this, the Zaugurz Orcs do not count as darkies in this
-context. They have declared war on the Tarkhnarb and their allies, so it
-is allowed - even encouraged - for trolls to kill them (at any time and
-location).
+To clarify this, the [Zaugurz](Zaugurz "wikilink") Orcs do not count as
+darkies in this context. They have declared war on the Tarkhnarb and
+their allies, so it is allowed - even encouraged - for trolls to kill
+them (at any time and location).
 
 As you can now see time from the account menu, it is no longer allowed
 to logon a level 1 troll to check time after linkloss or crash.
 
-See also: [Rules-Interrace](Rules-Interrace "wikilink")
+See also: [Rules Interrace](Rules_Interrace "wikilink")
 
-[Category:Rules](Category:Rules "wikilink")
+[Trolls](Category:Rules "wikilink")

@@ -20,4 +20,4 @@ moderated.
 
 See also: [Rules Posting](Rules_Posting "wikilink")
 
-[Category:Rules](Category:Rules "wikilink")
+[Incharacter](Category:Rules "wikilink")

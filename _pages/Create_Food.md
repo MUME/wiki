@@ -10,4 +10,19 @@ to carry several day rations around. Thus, most casters (both clerics
 and [mages](mage "wikilink")) like to spend a few practice sessions on
 it.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'create food' Type : Miscellaneous Accumulative: N/A
+Duration : No Casting : Long Position : Standing Level : Level 3 Class :
+Cleric Min. Mana : 5 Example: \> cast 'create food'
+
+`                            Sessions `
+[`Druid`](Druid "wikilink")`                             12`
+[`Harlond Cleric Guild`](Harlond_Cleric_Guild "wikilink")`               2`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                3`
+
+## See also
+
+- [Create Water](Create_Water "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink") [Category:Shaman
+spells](Category:Shaman_spells "wikilink")

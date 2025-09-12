@@ -32,10 +32,10 @@ Rule created on Dec 21 2000, Manwë. Last modified, Sep. 5 2004, Manwë.
 Furthermore, it is illegal to trigger other people's actions on purpose
 by the use of emotes, says, etc.
 
-See Also: [Rules-Robot](Rules-Robot "wikilink")
+See Also: [Rules Robot](Rules_Robot "wikilink")
 
 (By Justice Post 35:) All actions in a PK SITUATION, which ENHANCE a
 player's tactical advantage over another player are illegal. If you are
 in doubt, DISABLE all actions in PK situations.
 
-[Category:Rules](Category:Rules "wikilink")
+[Actions](Category:Rules "wikilink")

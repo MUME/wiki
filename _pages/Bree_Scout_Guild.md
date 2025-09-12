@@ -14,14 +14,14 @@ at the **Freebooters' Society** in [Bree](Bree "wikilink").
 ## Skill list
 
 `                  Sessions  Difficulty  `
-`attack                   2  Normal      `
-`dodge                    3  Hard        `
-`hide                     3  Normal      `
-`missile                  3  Normal      `
-`pick                     1  Normal      `
-`piercing weapons         6  Normal      `
-`search                   1  Normal      `
-`sneak                    3  Hard        `
-`steal                    3  Normal`
+[`attack`](attack "wikilink")`                   2  Normal      `
+[`dodge`](dodge "wikilink")`                    3  Hard        `
+[`hide`](hide "wikilink")`                     3  Normal      `
+[`missile`](missile "wikilink")`                  3  Normal      `
+[`pick`](pick "wikilink")`                     1  Normal      `
+[`piercing weapons`](piercing_weapons "wikilink")`         6  Normal      `
+[`search`](search "wikilink")`                   1  Normal      `
+[`sneak`](sneak "wikilink")`                    3  Hard        `
+[`steal`](steal "wikilink")`                    3  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

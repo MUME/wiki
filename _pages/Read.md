@@ -11,8 +11,9 @@ can't see its contents, try to "catchup" (see "help board").
 To read the contents of a book or of a note, you might have to hold it
 in your hands.
 
-See also: [Board](Board "wikilink"), [Write](Write "wikilink"),
+See also: [Boards](Boards "wikilink"), [Write](Write "wikilink"),
 [Mail](Mail "wikilink"), [Tail](Tail "wikilink"),
 [Libraries](Libraries "wikilink"), [Mark](Mark "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

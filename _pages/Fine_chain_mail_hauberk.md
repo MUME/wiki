@@ -2,9 +2,11 @@
 title: Fine chain mail hauberk
 ---
 
-**Fine chain mail hauberks** are worn on the [body](body "wikilink").
-They can be bought from some armourers for around 2
-[gold](gold "wikilink").
+The **fine chain mail hauberk** is a lightweight piece of chain mail
+armour worn on the [body](body "wikilink"). It provides a considerable
+amount of damage absorption and slightly decreases [offensive
+bonus](offensive_bonus "wikilink"). It is worth around 2
+[gold](gold "wikilink") and 10 silver.
 
 `A fine chain mail hauberk is on the ground.`
 `>`**`examine hauberk`**

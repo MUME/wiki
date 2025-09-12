@@ -2,9 +2,16 @@
 title: Silver-tipped arrow
 ---
 
-Its accuracy is good, and it inflicts average damage upon hitting. It
-weighs about an ounce.
+\> **consider arrow**
+
+Its accuracy is good, and it inflicts average damage upon hitting.
+
+It weighs about an ounce.
+
+## Other
+
+Effective against undead.
 
 {% include Equipment.md %}
 
-[Category: Ammunition](Category:_Ammunition "wikilink")
+[Silver-tipped arrow](Category:_Ammunition "wikilink")

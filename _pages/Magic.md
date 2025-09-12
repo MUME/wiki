@@ -2,4 +2,6 @@
 title: Magic
 ---
 
-1.  Redirect [Spells](Spells "wikilink")
+1.  Redirect
+
+[Category:Spells](Category:Spells "wikilink")

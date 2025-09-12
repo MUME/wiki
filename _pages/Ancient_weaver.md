@@ -3,7 +3,8 @@ title: Ancient weaver
 ---
 
 The **ancient weaver** is a [level](level "wikilink") \<10
-[mobile](mobile "wikilink"). She is looking for someone to
+[mobile](mobile "wikilink"), located in a house southwest of the gates
+of [Harlond](Harlond "wikilink"). She is looking for someone to
 [help](Quest#The_Elven_Weaver "wikilink") her replenish the supplies of
 dye she uses for making [cloaks](forest_green_cloak "wikilink").
 

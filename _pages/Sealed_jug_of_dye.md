@@ -17,5 +17,4 @@ complete the [ancient weaver](ancient_weaver "wikilink")'s
 `It is a sealed jug of dye.`
 `It weighs eight pounds.`
 
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")
+[Category: Quest items](Category:_Quest_items "wikilink")

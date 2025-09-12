@@ -400,3 +400,5 @@ legend clerics with sanc; 1 mage with dispel to get rings. Hard but
 possible to have just 2 clerics (pbs's needed in such case).
 
 </spoiler>
+
+[\*](Category:Guides "wikilink")

@@ -2,4 +2,4 @@
 title: Lock
 ---
 
-1.  Redirect [Open](Open "wikilink")
+1.  Redirect [Door](Door "wikilink")

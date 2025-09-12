@@ -2,8 +2,8 @@
 title: Buckthorn
 ---
 
-**Buckthorns** are aggressive, [evil](evil "wikilink")
-[level](level "wikilink") 7 [mobiles](mobile "wikilink") found in
+**Buckthorns** are aggressive, [evil](alignment "wikilink")
+[level](level "wikilink") 7 [plants](plant "wikilink") found in
 [Fangorn](Fangorn "wikilink").
 
 `A mass of low-spreading shrub quivers on the ground.`
@@ -13,4 +13,4 @@ title: Buckthorn
 `thorned ends, sharp enough to tangle into bare skin or clothes. The elliptic`
 `leaves also appear sticky upon touching.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink")
+[Category: Plants](Category:_Plants "wikilink")

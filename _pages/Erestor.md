@@ -23,6 +23,8 @@ at **The Great Library** in [Rivendell](Rivendell "wikilink").
 [`Identify`](Identify "wikilink")`            16  Hard`
 [`Locate`](Locate "wikilink")`               3  Hard`
 [`Locate Magic`](Locate_Magic "wikilink")`        12  Normal`
+[`Portal`](Portal "wikilink")`              22  Very hard`
+[`Silence`](Silence "wikilink")`             11  Normal`
 [`Store`](Store "wikilink")`               16  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

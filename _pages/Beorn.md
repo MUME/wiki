@@ -2,4 +2,4 @@
 title: Beorn
 ---
 
-1.  redirect [Super_Mobile](Super_Mobile "wikilink")
+1.  redirect [Super_Mobile#Beorn](Super_Mobile#Beorn "wikilink")

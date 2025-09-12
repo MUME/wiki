@@ -2,18 +2,16 @@
 title: Examine
 ---
 
-A command that may give some extra details about the object or creature.
-Examine <container> will show in detail the object's contents, as
-opposed to the more concise 'look in <container>'.
+**Examine** is a command that may give some extra details about an
+object or creature. Examine \<[container](container "wikilink")\> will
+show in detail the object's contents, as opposed to the more concise
+'[look](look "wikilink") in <container>'.
 
-<nowiki>g Examples: \>exa pouch pouch (used) : a wooden pipe some
-sweet-smelling dried mauve petals some sweet-smelling dried mauve petals
-
-\>look in pouch pouch (used) : two piles of sweet-smelling dried mauve
-petals a wooden pipe
-
-</pre>
-
-See also: [Look](Look "wikilink")
+Examples: \>exa pouch pouch (used) : a wooden pipe some sweet-smelling
+dried mauve petals some sweet-smelling dried mauve petals \>look in
+pouch pouch (used) : two piles of sweet-smelling dried mauve petals a
+wooden pipe
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Basics](Category:Basics "wikilink")
+[Category:Commands](Category:Commands "wikilink")

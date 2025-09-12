@@ -2,11 +2,11 @@
 title: Beer bottle
 ---
 
-The **beer bottle** is a [drink](drink "wikilink")
+The **beer bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain a bit over 2 pounds
-worth of liquid. It is worth around 50 busc. Beer bottles are sold at
-many general stores and taverns, most often containing
-[beer](beer "wikilink").
+worth of liquid. It is worth around 50 [copper](copper "wikilink"). Beer
+bottles are sold at many general stores and taverns, most often
+containing beer.
 
 `A beer bottle has been left here.`
 `>`**`look at bottle`**

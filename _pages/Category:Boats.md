@@ -2,4 +2,6 @@
 title: Category:Boats
 ---
 
-[Category: Equipment](Category:_Equipment "wikilink")
+{% include Items.md %}
+
+[Category: Items](Category:_Items "wikilink")

@@ -3,7 +3,8 @@ title: Elven grocer
 ---
 
 **Elven grocers** tend the grocery stores in
-[Harlond](Harlond "wikilink") and [Forlond](Forlond "wikilink").
+[Harlond](Harlond_Grocer "wikilink") and
+[Forlond](Forlond_Grocer "wikilink").
 
 `> An elven grocer is standing here, quietly humming to herself.`
 `> `**`look grocer`**

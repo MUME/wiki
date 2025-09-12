@@ -3,7 +3,7 @@ title: Minas Brethil Cleric Guild
 ---
 
 A **priest** teaches [cleric](cleric "wikilink")
-[spells](spell "wikilink") at the **Western Tower** in [Minas
+[spells](spell "wikilink") at the **Top of the Western Tower** in [Minas
 Brethil](Minas_Brethil "wikilink").
 
 `A haggard man dressed in tattered robes is here, willing to teach his art.`
@@ -29,6 +29,6 @@ Brethil](Minas_Brethil "wikilink").
 [`Remove Poison`](Remove_Poison "wikilink")`                1  Normal`
 [`Sense Life`](Sense_Life "wikilink")`                   1  Normal`
 [`Smother`](Smother "wikilink")`                      3  Easy`
-[`Strength`](Strength "wikilink")`                     2  Hard`
+[`Strength`](Strength_Spell "wikilink")`                     2  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

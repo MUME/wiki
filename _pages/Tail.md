@@ -14,3 +14,4 @@ See also: [Boards](Boards "wikilink"), [Read](Read "wikilink"),
 [Mail](Mail "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

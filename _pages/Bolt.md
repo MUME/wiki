@@ -2,9 +2,12 @@
 title: Bolt
 ---
 
-Its accuracy is poor, and it inflicts little damage upon hitting. It
-weighs a few ounces.
+\> **consider bolt**
+
+Its accuracy is poor, and it inflicts little damage upon hitting.
+
+It weighs a few ounces.
 
 {% include Equipment.md %}
 
-[Category: Ammunition](Category:_Ammunition "wikilink")
+[Bolt](Category:_Ammunition "wikilink")

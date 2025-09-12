@@ -15,3 +15,4 @@ See also: [Burn](Burn "wikilink"), [Bury](Bury "wikilink"),
 [Drain](Drain "wikilink")
 
 [Category:Help files](Category:Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

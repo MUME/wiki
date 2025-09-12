@@ -2,10 +2,7 @@
 title: Ancient Maps
 ---
 
-<div>
-
-`                 Map of Arda before the Change of the World`
-
+Map of Arda before the Change of the World
 +-----------------------------------------------------------------------------+
 \|..............................____________...............................
 \| \|................. _____...___/ ^ Ag ^ \\_............. A:
@@ -26,9 +23,7 @@ T\|_E..............\\ ^ Earth \|. M: Mordor \| \|.../
 \|.......................................................... N
 ............ \|
 +-----------------------------------------------------------------------------+
-
-`            Map of Beleriand before its Ruin (now under the sea)`
-
+Map of Beleriand before its Ruin (now under the sea)
 +-----------------------------------------------------------------------------+
 \| /\\ (Angband is in the north) \| \| N /\\ x ...: sea \| \|
 /\\\\\\\\\\ /\YYYYYYYYYYYYYYYYYYY /\\\\ YYY: forest \| \|\\\\
@@ -47,9 +42,7 @@ forces of Morgoth \| \|...\\S_ / \|___/YY/\\ ^ at the end of the \|
 \|.......\\ YYYYYYYYYYYYYYYYYYYYYYYY / Y/\\ N first Age of Sun. \|
 \|........\\ YYYYYYYYYYYYYYYYYYYYYYYYYY / /\\ \|
 +-----------------------------------------------------------------------------+
-
-`    Map of Eriador, Rhovanion, northern Mordor & Gondor`
-
+Map of Eriador, Rhovanion, northern Mordor & Gondor
 +-------------------------------------------------------------+ \|./ /\\
 \<- Blue Mts. / /\\\\ \\ YYYYY Lonely \| B: Bree \|/ /\\ / /\\ \\
 \\______ /\\ \<- Mt. \| E: Esgaroth \| /\\ Eriador ^ \| /\\ \|
@@ -66,4 +59,6 @@ road \|..........\\/.\\ O YFY \\ \| \| \|..............\| Rohan E-Gondor
 /\\\\\\\\\\ \| / : river \|..............\| W-Gondor /\\\\ \| /\\ Mordor
 \| \\ +-------------------------------------------------------------+
 
-</div>
+## See also:
+
+- [Arda](Arda "wikilink")

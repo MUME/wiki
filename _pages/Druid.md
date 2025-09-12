@@ -4,7 +4,12 @@ title: Druid
 
 A **druid** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") in his home northwest of
-[Bree](Bree "wikilink").
+[Bree](Bree "wikilink"). He is a [good](alignment "wikilink")
+[level](level "wikilink") 18 [mobile](mobile "wikilink"), and he is
+permanently under the effects of the [sanctuary](sanctuary "wikilink")
+spell.
+
+Room Name: Library
 
 `An old wise druid is standing here. He looks very clever and savant (glowing).`
 `>`**`examine druid`**

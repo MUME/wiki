@@ -12,8 +12,8 @@ interference (in PK-situations). Management will make no difference
 between an illegal action performed by a client or by a mapper!
 
 The abuse and possible features of mappers are too many to list here,
-but as example serves NEWS 2210, which outlines the use of
-door-databases.
+but as example serves [NEWS 2210](http://mume.org/Import/News/2210.php),
+which outlines the use of door-databases.
 
 As a rule of thumb you could say that if your mapper just displays
 information it is legal but anything beyond this (setting aliases,
@@ -24,7 +24,7 @@ Please note that it is your responsibility to make sure your
 mapping-program, if you decide to use one, is configured according to
 this rule.
 
-See Also: [Rules Actions](Rules_Actions "wikilink")
+See Also: [Rules Actions](Rules_Actions "wikilink"),
 [Mappers](Mapper "wikilink")
 
-[Category:Rules](Category:Rules "wikilink")
+[Mappers](Category:Rules "wikilink")

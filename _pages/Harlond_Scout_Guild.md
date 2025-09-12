@@ -15,9 +15,14 @@ An **elven hunter** teaches [scout](thief "wikilink")
 
 ## Skill list
 
-`                 Sessions  Difficulty`
-
-attack 2 Normal dodge 6 Hard hide 6 Normal missile 9 Normal pick 1
-Normal piercing weapons 6 Normal search 3 Normal sneak 6 Hard
+`                  Sessions  Difficulty`
+[`attack`](attack "wikilink")`                   2  Normal`
+[`dodge`](dodge "wikilink")`                    6  Hard`
+[`hide`](hide "wikilink")`                     6  Normal`
+[`missile`](missile "wikilink")`                  9  Normal`
+[`pick`](pick "wikilink")`                     1  Normal`
+[`piercing weapons`](piercing_weapons "wikilink")`         6  Normal`
+[`search`](search "wikilink")`                   3  Normal`
+[`sneak`](sneak "wikilink")`                    6  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,15 +1,15 @@
 ---
-title: "Disambig"
+title: Template:Disambig
 ---
 
 <div style="text-align: justify; margin: 1em; padding: 0.2em; border-top: 3px double #cccccc; border-bottom: 3px double #cccccc;">
 
 <img src="Disambig_gray.png" title="Disambig_gray.png" width="52"
-alt="Disambig_gray.png" /> *Det här är en
-[disambiguation](:Category:Disambiguation "wikilink"), som består av en
-lista av olika betydelser av artikelnamnet. Om du kom hit via en
-wikilänk i en annan artikel, gå gärna tillbaka dit och korrigera länken
-så den pekar direkt på den sida som avses.*
+alt="Disambig_gray.png" /> *This page is a
+[disambiguation](:Category:Disambiguation "wikilink") page, which
+consists of a list of articles which may have the same names. If you got
+here by a wikilink in an article, please go back and change that link to
+point to the correct article and not here.*
 
 </div>
 

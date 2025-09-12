@@ -2,9 +2,10 @@
 title: Giant slug
 ---
 
-**Giant slugs** are aggressive, [evil](evil "wikilink")
+**Giant slugs** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 9 [mobiles](mobile "wikilink"), found in
-various locations around [Arda](Arda "wikilink").
+various locations around [Arda](Arda "wikilink"). They have an acid
+attack that can [damage](state "wikilink") equipment.
 
 `A giant slug is here, oozing around.`
 `>`**`examine slug`**

@@ -26,6 +26,6 @@ Galadhon](Caras_Galadhon "wikilink").
 [`rescue`](rescue "wikilink")`                    12  Easy`
 [`slashing weapons`](slashing_weapons "wikilink")`          29  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          29  Normal`
-[`two handed weapons`](two_handed_weapons "wikilink")`         9  Normal`
+[`two-handed weapons`](two-handed_weapons "wikilink")`         9  Normal`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

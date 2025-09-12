@@ -2,4 +2,4 @@
 title: Missile
 ---
 
-1.  REDIRECT [Missile weapons](Missile_weapons "wikilink")
+1.  REDIRECT [Missile Weapons Usage](Missile_Weapons_Usage "wikilink")

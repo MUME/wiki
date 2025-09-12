@@ -6,7 +6,7 @@ PC is sometimes used as a short form of Player Character, which simply
 means a player.
 
 A [mobile](mobile "wikilink"), or mob for short, is often referred to as
-a Non-Player-Character, or NPC. These are all monsters in the game.
+a Non-Player-Character, or **NPC**. These are all monsters in the game.
 
 Some mobiles in the game will speak with you, providing information. In
 order to address them, just ASK them something, or WHISPER; you can also
@@ -21,3 +21,4 @@ If you are alone in a room with a mobile and speak, of course, the mob
 will assume you're speaking to him.
 
 [Category:Help files](Category:Help_files "wikilink")
+[\*](Category:Mobiles "wikilink")

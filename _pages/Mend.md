@@ -2,13 +2,14 @@
 title: Mend
 ---
 
-After wear and tear, your equipment will probably begin to become less
-effective. For instance, your prize enchanted longsword becomes dented.
-To restore it to its former glory, simply go to a shop that would sell
-such an object (e.g. a weaponsmith for a sword) and the shopkeeper will
-mend it for a small charge. The shopkeepers can also make your
-over/undersized equipment fit you (See [Resize](Resize "wikilink")). It
-is not possible to mend a brand new or already completely fixed
+After wear and tear, your [equipment](equipment "wikilink") will
+probably begin to become less effective. For instance, your prize
+enchanted [longsword](longsword "wikilink") becomes dented. To restore
+it to its former glory, simply go to a [shop](shop "wikilink") that
+would sell such an object (e.g. a weaponsmith for a sword) and the
+shopkeeper will **mend** it for a small charge. The shopkeepers can also
+[resize](resize "wikilink") your over/undersized equipment to fit you.
+It is not possible to mend brand new or already completely fixed
 equipment.
 
 Mending works like this:
@@ -25,8 +26,8 @@ Mending works like this:
 `- You automatically get the item when you enter the shop, or if you`
 `  are in the shop, when it is done.`
 `- If you don't trust your link - STAY IN THE ROOM.`
-`- If you rent and come back, you will not get back the item.`
-`- If you are sneaking, hidden, or shrouded, or if there is some other`
+`- If you `[`rent`](rent "wikilink")` and come back, you will not get back the item.`
+`- If you are `[`sneaking`](sneak "wikilink")`, `[`hidden`](hide "wikilink")`, or `[`shrouded`](shroud "wikilink")`, or if there is some other`
 `  reason he cannot see you, you will not get back the item.`
 `- If the game crashes or reboots, you will lose your item.`
 
@@ -34,10 +35,13 @@ The shopkeeper continues mending even after the shop is closed, so you
 should not wait until morning before coming back (then it might be too
 late).
 
-Old receipts will be served until futher notice.
+Old receipts will be served until further notice.
 
 Some people may be able to mend equipment themselves, if they have the
 necessary tools to do so.
 
 See also: [Shop](Shop "wikilink"), [Whetstone](Whetstone "wikilink"),
-[Resize](Resize "wikilink"), [States](States "wikilink")
+[State](State "wikilink")
+
+[Category: Help files](Category:_Help_files "wikilink")
+[Category:Commands](Category:Commands "wikilink")

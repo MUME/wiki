@@ -2,4 +2,4 @@
 title: Zaugurz
 ---
 
-1.  Redirect [Uruk-Zaugurz](Uruk-Zaugurz "wikilink")
+1.  Redirect [Zaugurz_Orc](Zaugurz_Orc "wikilink")

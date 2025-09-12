@@ -2,7 +2,7 @@
 title: Use
 ---
 
-Syntax: **use** <Item> <Target>
+Syntax: **use** <item> <target>
 
 In general, items that you can 'use' must be [held](hold "wikilink")
 before usage.

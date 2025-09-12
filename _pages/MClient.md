@@ -2,6 +2,8 @@
 title: MClient
 ---
 
+## Description
+
 mClient strives to be a modern, fully functional, and highly portable
 mud client by replacing powwow's mostly Linux-only code with Qt
 libraries thereby allowing it to run on any operating system supported
@@ -12,7 +14,7 @@ between the client and graphical interface. The wrapper also overtakes
 the job as the proxy in MMapper2, essentially behaving as a pre-parser
 that handles all the data extraction needed by the mapper.
 
-Features
+## Features
 
 - Javascript Scripting
 - Highly Modular Plugin-based Design
@@ -21,5 +23,10 @@ Features
 - Mapper and Group Manager similar to MMapper2/Pandora
 - Possibly Powwow Scripting and Remote Editing
 
-[<http://code.google.com/p/mclient-mume/>](mClient "wikilink") homepage
-at Google Code.
+The client is currently in beta.
+
+## Links
+
+[Official site](http://code.google.com/p/mclient-mume/)
+
+[Category:Software](Category:Software "wikilink")

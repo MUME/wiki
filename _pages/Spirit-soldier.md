@@ -2,9 +2,10 @@
 title: Spirit-soldier
 ---
 
-**Spirit-soldiers** are aggressive level ? [mobs](mob "wikilink") found
-in [Old Fornost](Old_Fornost "wikilink"). They are incorporeal. They
-load with a weapon, and will also pick up items from ground.
+**Spirit-soldiers** are aggressive level ~14
+[mobiles](mobile "wikilink") found in [Old
+Fornost](Old_Fornost "wikilink"). They are incorporeal. They load with a
+[weapon](weapon "wikilink"), and will also pick up items from ground.
 
 `An ancient spirit, dressed in the arms of a soldier, challenges you.`
 `>`**`examine spirit`**
@@ -13,5 +14,4 @@ load with a weapon, and will also pick up items from ground.
 `His ancient and grizzled face seems full of unquenchable hunger...hunger`
 `for death, hunger for life, hunger for vengeance.`
 
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+[Category: Mobiles](Category:_Mobiles "wikilink")

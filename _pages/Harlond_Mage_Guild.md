@@ -14,7 +14,7 @@ at the **Home of the Old Elven Mage** in [Harlond](Harlond "wikilink")
 ## Spell list
 
 `                     Sessions  Difficulty`
-[`Armour`](Armour "wikilink")`                      3  Hard `
+[`Armour`](Armour_Spell "wikilink")`                      3  Hard `
 [`Burning Hands`](Burning_Hands "wikilink")`               3  Normal`
 [`Chill Touch`](Chill_Touch "wikilink")`                 7  Easy`
 [`Create Light`](Create_Light "wikilink")`                2  Easy`
@@ -22,7 +22,7 @@ at the **Home of the Old Elven Mage** in [Harlond](Harlond "wikilink")
 [`Lightning Bolt`](Lightning_Bolt "wikilink")`              9  Hard`
 [`Magic Missile`](Magic_Missile "wikilink")`               7  Easy`
 [`Night Vision`](Night_Vision "wikilink")`                1  Normal`
-[`Shield`](Shield "wikilink")`                      3  Hard`
+[`Shield`](Shield_Spell "wikilink")`                      3  Hard`
 [`Shroud`](Shroud "wikilink")`                      4  Hard`
 
 [Category: Guildmasters](Category:_Guildmasters "wikilink")

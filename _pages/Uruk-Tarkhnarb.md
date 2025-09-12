@@ -2,4 +2,4 @@
 title: Uruk-Tarkhnarb
 ---
 
-1.  redirect [Tarkhnarb Orc](Tarkhnarb_Orc "wikilink")
+1.  redirect [Orc](Orc "wikilink")

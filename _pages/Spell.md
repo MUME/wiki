@@ -2,150 +2,154 @@
 title: Spell
 ---
 
-## Cleric
+Magic on MUME is fairly complex, but also represented in a fairly simple
+way. There are many spells, and it takes a long time before a new mage
+can master all spells, learn all their uses and so forth. Unlike
+[skills](skill "wikilink"), spells are [cast](cast "wikilink") and
+consume [mana](mana "wikilink").
 
-Detect Evil
+# Spell List
 
-Cure Light
+{ \| valign="top" style="width:33%; text-align:left;"\|
 
-Create Water
+## [Cleric](Cleric "wikilink")
 
-Detect Poison
+Pain
 
-Create Food
+- [Dispel Evil](Dispel_Evil "wikilink")
+- [Energy Drain](Energy_Drain "wikilink")
+- [Harm](Harm "wikilink")
+- [Smother](Smother "wikilink")
 
-Smother
+Will
 
-Cure Blindness
+- [Curse](Curse "wikilink")
+- [Blindness](Blindness "wikilink")
+- [Fear](Fear "wikilink")
+- [Poison](Poison "wikilink")
+- [Break Door](Break_Door "wikilink")
 
-Protection From Evil
+Refreshment
 
-Bless
-
-Cure Serious
-
-Blindness
-
-Cure Diseas
-
-Strength
-
-Sense Life
-
-Summon
-
-Poison
-
-Cure Critic
-
-Remove Poison
-
-Breath of Briskness
-
-Curse
-
-Divination
-
-Word of Recall
-
-Dispel Evil
-
-Remove Curs
-
-Energy Drain
-
-Darkness
+- [Breath of Briskness](Breath_of_Briskness "wikilink")
+- [Create Food](Create_Food "wikilink")
+- [Create Water](Create_Water "wikilink")
 
 Heal
 
-Transfer
+- [Cure Blindness](Cure_Blindness "wikilink")
+- [Cure Critic](Cure_Critic "wikilink")
+- [Cure Disease](Cure_Disease "wikilink")
+- [Cure Light](Cure_Light "wikilink")
+- [Cure Serious](Cure_Serious "wikilink")
+- [Heal](Heal "wikilink")
+- [Remove Curse](Remove_Curse "wikilink")
+- [Remove Poison](Remove_Poison "wikilink")
 
-Fear
+Blessings
 
-Har
+- [Bless](Bless "wikilink")
+- [Darkness](Darkness "wikilink")
+- [Protection From Evil](Protection_From_Evil "wikilink")
+- [Sanctuary](Sanctuary "wikilink")
+- [Strength](Strength_Spell "wikilink")
 
-Black Breath
+Clairvoyance
 
-Break Door
+- [Detect Evil](Detect_Evil "wikilink")
+- [Detect Poison](Detect_Poison "wikilink")
+- [Divination](Divination "wikilink")
+- [Sense Life](Sense_Life "wikilink")
 
-Hold
+Displacement
 
-Raise Dead
+- [Summon](Summon "wikilink")
+- [Transfer](Transfer "wikilink")
+- [Word of Recall](Word_of_Recall "wikilink")
 
-Sanctuary
+\| valign="top" style="width:33%; text-align:left;"\|
 
-## Mage
+## [Mage](Mage "wikilink")
 
-Magic Missile
+Destruction
 
-Ventriloquate
+- [Burning Hands](Burning_Hands "wikilink")
+- [Call Lightning](Call_Lightning "wikilink")
+- [Chill Touch](Chill_Touch "wikilink")
+- [Colour Spray](Colour_Spray "wikilink")
+- [Earthquake](Earthquake "wikilink")
+- [Dispel Magic](Dispel_Magic "wikilink")
+- [Fireball](Fireball "wikilink")
+- [Lightning Bolt](Lightning_Bolt "wikilink")
+- [Magic Blast](Magic_Blast "wikilink") (BN)
+- [Magic Missile](Magic_Missile "wikilink")
+- [Shocking Grasp](Shocking_Grasp "wikilink")
 
-Detect Magic
+Guile
 
-Detect Invisibility
+- [Charm](Charm "wikilink")
+- [Silence](Silence "wikilink")
+- [Sleep](Sleep_Spell "wikilink")
+- [Ventriloquate](Ventriloquate "wikilink")
 
-Chill Touch
+Enchantment
 
-Armour
+- [Call Familiar](Call_Familiar "wikilink")
+- [Block Door](Block_Door "wikilink")
+- [Control Weather](Control_Weather "wikilink")
+- [Create Light](Create_Light "wikilink")
+- [Enchant](Enchant "wikilink")
+- [Night Vision](Night_Vision "wikilink")
+- [Store](Store "wikilink")
 
-Create Light
+Protection
 
-Locate Magic
+- [Armour](Armour_Spell "wikilink")
+- [Shield](Shield_Spell "wikilink")
+- [Shroud](Shroud "wikilink")
 
-Burning Hands
+Detection
 
-Shroud
+- [Detect Invisibility](Detect_Invisibility "wikilink")
+- [Detect Magic](Detect_Magic "wikilink")
+- [Locate](Locate "wikilink")
+- [Locate Life](Locate_Life "wikilink")
+- [Locate Magic](Locate_Magic "wikilink")
+- [Identify](Identify "wikilink")
 
-Locate
+Teleportation
 
-Find the Path
+- [Find the Path](Find_the_Path "wikilink")
+- [Teleport](Teleport "wikilink")
+- [Portal](Portal "wikilink")
+- [Scry](Scry "wikilink")
+- [Watch Room](Watch_Room "wikilink")
 
-Night Vision
+\| valign="top" style="width:33%; text-align:left;"\|
 
-Shocking Grasp
+## [Shaman](Shaman "wikilink")
 
-Call Familiar
+Paralysis
 
-Teleport
+- [Black Breath](Black_Breath "wikilink")
+- [Hold](Hold_Spell "wikilink")
 
-Earthquake
+Necromancy
 
-Lightning Bolt
+- [Raise Dead](Raise_Dead "wikilink")
 
-Block Door
+## Special
 
-Control Weather
+- [Create Focus](Create_Focus "wikilink")
 
-Store
+\|}
 
-Colour Spray
+## See also:
 
-Locate Life
+- [Skills](Skill "wikilink")
 
-Call Lightning
+__NOEDITSECTION__ __NOTOC__
 
-Enchant
-
-Shield
-
-Scry
-
-Charm
-
-Sleep
-
-Fireball
-
-Identify
-
-Dispel Magic
-
-Watch Room
-
-Silence
-
-Portal
-
-Magic Blast
-
-## Shaman
+[\*](Category:Spells "wikilink") [\*](Category:Mage_spells "wikilink")
+[\*](Category:Cleric_spells "wikilink")
+[\*](Category:Shaman_spells "wikilink")

@@ -8,4 +8,4 @@ replaced by mudlle).
 
 Istari and foci were added, as were Orcs, causing the War to begin.
 
-[Category:MUME Versions](Category:MUME_Versions "wikilink")
+[MUME 2](Category:MUME_Versions "wikilink")

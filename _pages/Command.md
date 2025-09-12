@@ -2,12 +2,20 @@
 title: Command
 ---
 
-## COMMAND
+*For a list of commands useable in the game, see
+[commands](commands "wikilink").*
 
-(Ranger Skill)
+**Command** is a [ranger](general "wikilink") [skill](skill "wikilink").
+This skill defines your ability to impose your will on a
+[pet](pet "wikilink") or a [charmed](charm "wikilink") person or
+monster, that is, how well you are able to [order](order "wikilink") it
+to do something (fight, for instance) at your command.
 
-This skill defines your ability to impose your will on a pet or a
-charmed person or monster, that is, how well you are able to order it to
-do something (fight, for instance) at your command.
+## See also
 
-See also: [Order](Order "wikilink"), [Charm](Charm "wikilink")
+- [Call Familiar](Call_Familiar "wikilink"), [Charm](Charm "wikilink"),
+  [Order](Order "wikilink"), [Pet](Pet "wikilink"), [Raise
+  Dead](Raise_Dead "wikilink")
+
+[Category: Skills](Category:_Skills "wikilink") [Category: Ranger
+skills](Category:_Ranger_skills "wikilink")

@@ -2,6 +2,6 @@
 title: Category:Consumables
 ---
 
-{% include Equipment.md %}
+{% include Items.md %}
 
-[Category: Equipment](Category:_Equipment "wikilink")
+[Category: Items](Category:_Items "wikilink")

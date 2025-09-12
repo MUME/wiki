@@ -2,9 +2,9 @@
 title: Baker
 ---
 
-**Bakers** tend to the bakeries in [Bree Baker](Bree_Baker "wikilink"),
-[Fornost Baker](Fornost_Baker "wikilink") and [Tharbad
-Baker](Tharbad_Baker "wikilink").
+**Bakers** tend to the bakeries in [Bree](Bree_Baker "wikilink"),
+[Fornost](Fornost_Baker "wikilink") and
+[Tharbad](Tharbad_Baker "wikilink").
 
 `The baker looks at you calmly, wiping flour from his face with one hand.`
 `>`**`examine baker`**

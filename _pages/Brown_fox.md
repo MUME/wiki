@@ -2,7 +2,7 @@
 title: Brown fox
 ---
 
-**Brown foxes** are passive [level](level "wikilink") ~1-2
+**Brown foxes** are passive [level](level "wikilink") 2
 [mobiles](mobile "wikilink") found in various locations around
 [Arda](Arda "wikilink"). Their [corpses](corpse "wikilink") can be
 [butchered](butcher "wikilink") to produce some [meat](meat "wikilink").

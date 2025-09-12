@@ -5,13 +5,13 @@ title: Thirsty Ranger's Inn
 The **Thirsty Ranger's Inn** is a tavern in
 [Tharbad](Tharbad "wikilink"), located on Old Tower Street, with a
 backdoor leading into Chapman's Lane. A
-[Bartender](Bartender "wikilink") serves food and drinks there. The
-[Rooftop Thieves' Guild](Rooftop_Thieves'_Guild "wikilink") is
-accessible through a hidden grate in the main room, while a hidden
-trapdoor leads from the cellar to the
-[Sewers](Sewers_Thieves'_Guild "wikilink"). As can be expected, a few
-[thieves](thief_(mobile) "wikilink") are usually lurking in the tavern,
-so one would be wise to keep a close eye on their money.
+[Bartender](Bartender "wikilink") serves food and drinks there and the
+bar is open from 7am to 12am. The [Rooftop Thieves'
+Guild](Rooftop_Thieves'_Guild "wikilink") is accessible through a hidden
+grate in the main room, while a hidden trapdoor leads from the cellar to
+the [Sewers](Sewers_Thieves'_Guild "wikilink"). As can be expected, a
+few [thieves](thief_(mobile) "wikilink") are usually lurking in the
+tavern, so one would be wise to keep a close eye on their money.
 
 ## Menu
 

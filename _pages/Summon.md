@@ -14,4 +14,19 @@ Wearing a [ring](ring "wikilink") (or collar for shape-shifting
 [bears](bear "wikilink")) can protect against being summoned
 involuntarily.
 
-[Category: Cleric spells](Category:_Cleric_spells "wikilink")
+Syntax : cast 'summon' \<victim\> Type : Long range Accumulative: N/A
+Duration : No Casting : Extremely long Position : Standing Level : Level
+8 Class : Cleric Min. Mana : 50 Example: \> cast 'summon' carihr
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`              18`
+[`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`               10`
+
+## See also
+
+- [Transfer](Transfer "wikilink")
+
+[Category:Spells](Category:Spells "wikilink") [Category:Cleric
+spells](Category:Cleric_spells "wikilink")

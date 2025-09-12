@@ -2,11 +2,9 @@
 title: Endurance
 ---
 
-## Endurance
+**Endurance** is a [warrior](warrior "wikilink")
+[skill](skill "wikilink") that makes you hardier, giving you a higher
+hit point total and making you heal faster.
 
-(Warrior Skill)
-
-The endurance skill makes you hardier, giving you a higher hit point
-total and making you heal faster.
-
-[Back to skill list](Skill "wikilink")
+[Category: Warrior skills](Category:_Warrior_skills "wikilink")
+[Category: Skills](Category:_Skills "wikilink")

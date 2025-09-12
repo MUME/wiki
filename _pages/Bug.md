@@ -24,19 +24,41 @@ announcement.
 These commands are valuable to the gods, and a few basic guidelines
 should be observed when using them:
 
-`* Make your comments `*`concise`*` and `*`clear`*`. There are often pages of messages containing these reports, and to read more than a few paragraphs is simply out of the question. Simply state your point, but be thorough. If you can, include a short log, for example:`
+- Make your comments *concise* and *clear*. There are often pages of
+  messages containing these reports, and to read more than a few
+  paragraphs is simply out of the question. Simply state your point, but
+  be thorough. If you can, include a short log, for example:
+
 `> say open the gate`
 `The gatekeeper says 'does it seem I work here?'`
 
-`* There is no need to state whereabouts in `[`Arda`](Arda "wikilink")` the `[`room`](room "wikilink")` is you are posting from. That is recorded and displayed in your post automatically.`
+- There is no need to state whereabouts in [Arda](Arda "wikilink") the
+  [room](room "wikilink") is you are posting from. That is recorded and
+  displayed in your post automatically.
 
-`* Use a subject. Type in the subject, in a few words, after the command. It makes it easier to read. E.g. 'bug orkish chieftain isn't aggressive to whities'`
+<!-- -->
 
-`* Use the correct command! Any 'bug' which only involves the wrong form of text being output is a typo. And if it is confidential, it is a 'report'. Please remember this :)`
+- Use a subject. Type in the subject, in a few words, after the command.
+  It makes it easier to read. E.g. 'bug orkish chieftain isn't
+  aggressive to whities'
 
-`* MUME is based on `[`Tolkien`](Tolkien "wikilink")`'s (British) English. Some words, like recognised, may seem strange to American English speakers, but are not typos. Check `[`http://www.m-w.com`](http://www.m-w.com)` if you are in doubt.`
+<!-- -->
 
-`* Do not repeat your report. If the bug or typo is still remaining after a few days, there's no need to rewrite it. It will be fixed.`
+- Use the correct command! Any 'bug' which only involves the wrong form
+  of text being output is a typo. And if it is confidential, it is a
+  'report'. Please remember this :)
+
+<!-- -->
+
+- MUME is based on [Tolkien](Tolkien "wikilink")'s (British) English.
+  Some words, like recognised, may seem strange to American English
+  speakers, but are not typos. Check <http://www.m-w.com> if you are in
+  doubt.
+
+<!-- -->
+
+- Do not repeat your report. If the bug or typo is still remaining after
+  a few days, there's no need to rewrite it. It will be fixed.
 
 Example for reporting: 1. Type the command followed by the title of your
 report, e.g.

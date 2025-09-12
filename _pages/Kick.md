@@ -2,10 +2,7 @@
 title: Kick
 ---
 
-## Kick
-
-(Warrior Skill) \[Delayed Command\]
-
+**Kick** is a [warrior](warrior "wikilink") [skill](skill "wikilink").
 The success of a kick depends upon how well you learned the 'kick'
 skill. The better you are at kicking, the harder you kick.
 
@@ -13,6 +10,7 @@ Example:
 
 `  > kick verminaard`
 
-See also : [Rescue](Rescue "wikilink"), [Bash](Bash "wikilink")
-
 [Back to skill list](Skill "wikilink")
+
+[Category: Warrior skills](Category:_Warrior_skills "wikilink")
+[Category: Skills](Category:_Skills "wikilink")
