@@ -1,6 +1,6 @@
 ---
-title: Glowing spirit
-permalink: /Glowing_spirit/
+title: "Glowing spirit"
+permalink: "/Glowing_spirit/"
 ---
 
 *For another mob with the same name, see [spirit](spirit "wikilink").*

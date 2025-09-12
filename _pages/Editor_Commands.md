@@ -1,6 +1,6 @@
 ---
-title: Editor Commands
-permalink: /Editor_Commands/
+title: "Editor Commands"
+permalink: "/Editor_Commands/"
 ---
 
 Syntax for the MUME line editor commands is this:

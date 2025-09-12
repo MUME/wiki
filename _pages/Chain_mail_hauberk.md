@@ -1,6 +1,6 @@
 ---
-title: Chain mail hauberk
-permalink: /Chain_mail_hauberk/
+title: "Chain mail hauberk"
+permalink: "/Chain_mail_hauberk/"
 ---
 
 \> **look hauberk**

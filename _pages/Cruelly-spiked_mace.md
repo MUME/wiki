@@ -1,6 +1,6 @@
 ---
-title: Cruelly-spiked mace
-permalink: /Cruelly-spiked_mace/
+title: "Cruelly-spiked mace"
+permalink: "/Cruelly-spiked_mace/"
 ---
 
 **examine mace**

@@ -1,6 +1,6 @@
 ---
-title: Tick
-permalink: /Tick/
+title: "Tick"
+permalink: "/Tick/"
 ---
 
 The **tick** is the standard unit of [time](time "wikilink") on the

@@ -1,6 +1,6 @@
 ---
-title: Large yellow apple
-permalink: /Large_yellow_apple/
+title: "Large yellow apple"
+permalink: "/Large_yellow_apple/"
 ---
 
 ## Statistics

@@ -1,6 +1,6 @@
 ---
-title: Zaugurz orc guide
-permalink: /Zaugurz_orc_guide/
+title: "Zaugurz orc guide"
+permalink: "/Zaugurz_orc_guide/"
 ---
 
 ## Zaugurz Orc Information

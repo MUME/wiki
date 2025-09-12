@@ -1,6 +1,6 @@
 ---
-title: Small twisted root
-permalink: /Small_twisted_root/
+title: "Small twisted root"
+permalink: "/Small_twisted_root/"
 ---
 
 The **small twisted root** is a [key](key "wikilink"). It loads on [Bill

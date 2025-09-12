@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Disease, Poison, and Wounds
-permalink: /Newbie_Guide_Disease,_Poison,_and_Wounds/
+title: "Newbie Guide Disease, Poison, and Wounds"
+permalink: "/Newbie_Guide_Disease,_Poison,_and_Wounds/"
 ---
 
 **Newbie Guide Disease, Poison, and Wounds**

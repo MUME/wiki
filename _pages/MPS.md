@@ -1,6 +1,6 @@
 ---
-title: MPS
-permalink: /MPS/
+title: "MPS"
+permalink: "/MPS/"
 ---
 
 All players have a limited number of movement points which varies with

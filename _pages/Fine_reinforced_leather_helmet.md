@@ -1,6 +1,6 @@
 ---
-title: Fine reinforced leather helmet
-permalink: /Fine_reinforced_leather_helmet/
+title: "Fine reinforced leather helmet"
+permalink: "/Fine_reinforced_leather_helmet/"
 ---
 
 \> **look helmet**

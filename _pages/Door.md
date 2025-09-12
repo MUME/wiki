@@ -1,6 +1,6 @@
 ---
-title: Door
-permalink: /Door/
+title: "Door"
+permalink: "/Door/"
 ---
 
 1.  redirect [Open](Open "wikilink")

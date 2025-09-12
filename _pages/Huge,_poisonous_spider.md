@@ -1,6 +1,6 @@
 ---
-title: Huge, poisonous spider
-permalink: /Huge,_poisonous_spider/
+title: "Huge, poisonous spider"
+permalink: "/Huge,_poisonous_spider/"
 ---
 
 **Huge, poisonous spiders** are hostile level ?

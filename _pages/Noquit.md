@@ -1,6 +1,6 @@
 ---
-title: Noquit
-permalink: /Noquit/
+title: "Noquit"
+permalink: "/Noquit/"
 ---
 
 When you attack someone else, or are attacked by someone else, or you

@@ -1,6 +1,6 @@
 ---
-title: Template:Bot
-permalink: /Template:Bot/
+title: "Template:Bot"
+permalink: "/Template:Bot/"
 ---
 
 <div style="text-align: justify; margin: 1em; padding: 0.2em; border-top: 3px double #cccccc; border-bottom: 3px double #cccccc;">

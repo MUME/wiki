@@ -1,6 +1,6 @@
 ---
-title: Travel point
-permalink: /Travel_point/
+title: "Travel point"
+permalink: "/Travel_point/"
 ---
 
 A feature unique to MUME, all players need to gain travel points (TPs)

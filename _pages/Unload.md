@@ -1,6 +1,6 @@
 ---
-title: Unload
-permalink: /Unload/
+title: "Unload"
+permalink: "/Unload/"
 ---
 
 If you have a [crossbow](crossbow "wikilink"), you can

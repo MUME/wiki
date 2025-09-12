@@ -1,6 +1,6 @@
 ---
-title: Fine chain mail gloves
-permalink: /Fine_chain_mail_gloves/
+title: "Fine chain mail gloves"
+permalink: "/Fine_chain_mail_gloves/"
 ---
 
 **Fine chain mail gloves** are a lightweight piece of mail equipment

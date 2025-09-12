@@ -1,6 +1,6 @@
 ---
-title: MUME II
-permalink: /MUME_II/
+title: "MUME II"
+permalink: "/MUME_II/"
 ---
 
 MUME II was released in June 1992, and contained a truly horrid system

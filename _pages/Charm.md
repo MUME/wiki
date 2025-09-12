@@ -1,6 +1,6 @@
 ---
-title: Charm
-permalink: /Charm/
+title: "Charm"
+permalink: "/Charm/"
 ---
 
 **Charm** is a level 14 [mage](mage "wikilink")

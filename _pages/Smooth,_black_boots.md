@@ -1,6 +1,6 @@
 ---
-title: Smooth, black boots
-permalink: /Smooth,_black_boots/
+title: "Smooth, black boots"
+permalink: "/Smooth,_black_boots/"
 ---
 
 \> **look boots**

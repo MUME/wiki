@@ -1,6 +1,6 @@
 ---
-title: Metal boots
-permalink: /Metal_boots/
+title: "Metal boots"
+permalink: "/Metal_boots/"
 ---
 
 \> **examine boots**

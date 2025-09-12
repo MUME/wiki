@@ -1,6 +1,6 @@
 ---
-title: Yew longbow
-permalink: /Yew_longbow/
+title: "Yew longbow"
+permalink: "/Yew_longbow/"
 ---
 
 Its accuracy is excellent, its speed fast, and it causes considerable

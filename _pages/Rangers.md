@@ -1,6 +1,6 @@
 ---
-title: Rangers
-permalink: /Rangers/
+title: "Rangers"
+permalink: "/Rangers/"
 ---
 
 Rangers are heroes of the free people of Arda who willingly help new

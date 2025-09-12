@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Accessing Game Information
-permalink: /Newbie_Guide_Accessing_Game_Information/
+title: "Newbie Guide Accessing Game Information"
+permalink: "/Newbie_Guide_Accessing_Game_Information/"
 ---
 
 **Newbie Guide Accessing Game Information**

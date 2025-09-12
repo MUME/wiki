@@ -1,6 +1,6 @@
 ---
-title: Assassin
-permalink: /Assassin/
+title: "Assassin"
+permalink: "/Assassin/"
 ---
 
 **Assassins** are aggressive level ? mobs, found in various place around

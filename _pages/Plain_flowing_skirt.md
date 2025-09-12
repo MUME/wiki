@@ -1,6 +1,6 @@
 ---
-title: Plain flowing skirt
-permalink: /Plain_flowing_skirt/
+title: "Plain flowing skirt"
+permalink: "/Plain_flowing_skirt/"
 ---
 
 \> **look skirt**

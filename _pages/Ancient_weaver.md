@@ -1,6 +1,6 @@
 ---
-title: Ancient weaver
-permalink: /Ancient_weaver/
+title: "Ancient weaver"
+permalink: "/Ancient_weaver/"
 ---
 
 The **ancient weaver** is a [level](level "wikilink") \<10

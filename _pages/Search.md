@@ -1,6 +1,6 @@
 ---
-title: Search
-permalink: /Search/
+title: "Search"
+permalink: "/Search/"
 ---
 
 ## Search

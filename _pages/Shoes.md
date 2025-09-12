@@ -1,6 +1,6 @@
 ---
-title: Shoes
-permalink: /Shoes/
+title: "Shoes"
+permalink: "/Shoes/"
 ---
 
 \> **look shoes**

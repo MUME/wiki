@@ -1,6 +1,6 @@
 ---
-title: Account
-permalink: /Account/
+title: "Account"
+permalink: "/Account/"
 ---
 
 Players should have one master ACCOUNT, when logging into mume you can

@@ -1,6 +1,6 @@
 ---
-title: Sharp talon
-permalink: /Sharp_talon/
+title: "Sharp talon"
+permalink: "/Sharp_talon/"
 ---
 
 This slashing weapon can be wielded one-handed. It is awful while

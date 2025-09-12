@@ -1,6 +1,6 @@
 ---
-title: Black wolf
-permalink: /Black_wolf/
+title: "Black wolf"
+permalink: "/Black_wolf/"
 ---
 
 \> A black wolf pads restlessly, looking for its next prey.

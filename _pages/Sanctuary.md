@@ -1,6 +1,6 @@
 ---
-title: Sanctuary
-permalink: /Sanctuary/
+title: "Sanctuary"
+permalink: "/Sanctuary/"
 ---
 
 **Sanctuary** (often abbreviated *sanc*) is a level 18

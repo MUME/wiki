@@ -1,6 +1,6 @@
 ---
-title: Template:ClassRace
-permalink: /Template:ClassRace/
+title: "Template:ClassRace"
+permalink: "/Template:ClassRace/"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

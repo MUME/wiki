@@ -1,6 +1,6 @@
 ---
-title: Carved oak staff
-permalink: /Carved_oak_staff/
+title: "Carved oak staff"
+permalink: "/Carved_oak_staff/"
 ---
 
 The **carved oak staff** is a [two-handed

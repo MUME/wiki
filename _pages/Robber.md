@@ -1,6 +1,6 @@
 ---
-title: Robber
-permalink: /Robber/
+title: "Robber"
+permalink: "/Robber/"
 ---
 
 \> A mean-looking robber is here, demanding money from you.

@@ -1,6 +1,6 @@
 ---
-title: Fletched arrow
-permalink: /Fletched_arrow/
+title: "Fletched arrow"
+permalink: "/Fletched_arrow/"
 ---
 
 The base of this arrow contains feathered fletching. A silvery arrowhead

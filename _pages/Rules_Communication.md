@@ -1,6 +1,6 @@
 ---
-title: Rules Communication
-permalink: /Rules_Communication/
+title: "Rules Communication"
+permalink: "/Rules_Communication/"
 ---
 
 These rules regulate how you're expected to make yourself heard/seen in

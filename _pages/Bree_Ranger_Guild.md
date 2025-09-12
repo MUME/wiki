@@ -1,6 +1,6 @@
 ---
-title: Bree Ranger Guild
-permalink: /Bree_Ranger_Guild/
+title: "Bree Ranger Guild"
+permalink: "/Bree_Ranger_Guild/"
 ---
 
 A **ranger** teaches [ranger](general "wikilink")

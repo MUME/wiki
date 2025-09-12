@@ -1,6 +1,6 @@
 ---
-title: Earthquake
-permalink: /Earthquake/
+title: "Earthquake"
+permalink: "/Earthquake/"
 ---
 
 <nowiki>g Syntax : cast 'earthquake' Type : Offensive, physical, area

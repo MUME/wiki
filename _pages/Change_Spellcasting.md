@@ -1,6 +1,6 @@
 ---
-title: Change Spellcasting
-permalink: /Change_Spellcasting/
+title: "Change Spellcasting"
+permalink: "/Change_Spellcasting/"
 ---
 
 With this command you can set or show the default speed for your spells.

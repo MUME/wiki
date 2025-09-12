@@ -1,6 +1,6 @@
 ---
-title: Minas Brethil Mage Guild
-permalink: /Minas_Brethil_Mage_Guild/
+title: "Minas Brethil Mage Guild"
+permalink: "/Minas_Brethil_Mage_Guild/"
 ---
 
 A **sorcerer** teaches [mage](mage "wikilink")

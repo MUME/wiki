@@ -1,6 +1,6 @@
 ---
-title: Libraries
-permalink: /Libraries/
+title: "Libraries"
+permalink: "/Libraries/"
 ---
 
 Libraries can be found in most towns of Arda and in some other places of

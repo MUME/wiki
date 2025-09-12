@@ -1,6 +1,6 @@
 ---
-title: War arrow
-permalink: /War_arrow/
+title: "War arrow"
+permalink: "/War_arrow/"
 ---
 
 Its accuracy is awful, and it inflicts little damage upon hitting. It

@@ -1,6 +1,6 @@
 ---
-title: Metal gauntlets
-permalink: /Metal_gauntlets/
+title: "Metal gauntlets"
+permalink: "/Metal_gauntlets/"
 ---
 
 \>**examine gauntlets** This pair of gauntlets is forged from several

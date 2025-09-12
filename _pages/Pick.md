@@ -1,6 +1,6 @@
 ---
-title: Pick
-permalink: /Pick/
+title: "Pick"
+permalink: "/Pick/"
 ---
 
 ## Pick

@@ -1,6 +1,6 @@
 ---
-title: Fornost Grocer
-permalink: /Fornost_Grocer/
+title: "Fornost Grocer"
+permalink: "/Fornost_Grocer/"
 ---
 
 The **grocer** tends to the **Grocery** in

@@ -1,6 +1,6 @@
 ---
-title: Category:Stabbing weapons
-permalink: /Category:Stabbing_weapons/
+title: "Category:Stabbing weapons"
+permalink: "/Category:Stabbing_weapons/"
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

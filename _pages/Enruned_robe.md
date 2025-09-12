@@ -1,6 +1,6 @@
 ---
-title: Enruned robe
-permalink: /Enruned_robe/
+title: "Enruned robe"
+permalink: "/Enruned_robe/"
 ---
 
 \> **examine robe**

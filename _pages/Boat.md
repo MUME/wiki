@@ -1,6 +1,6 @@
 ---
-title: Boat
-permalink: /Boat/
+title: "Boat"
+permalink: "/Boat/"
 ---
 
 Arda has a number of rivers, streams and other bodies of water that can

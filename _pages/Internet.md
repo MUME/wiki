@@ -1,6 +1,6 @@
 ---
-title: Internet
-permalink: /Internet/
+title: "Internet"
+permalink: "/Internet/"
 ---
 
 For many years now, rumours about different kinds of network lag-attacks

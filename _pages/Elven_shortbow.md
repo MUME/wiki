@@ -1,6 +1,6 @@
 ---
-title: Elven shortbow
-permalink: /Elven_shortbow/
+title: "Elven shortbow"
+permalink: "/Elven_shortbow/"
 ---
 
 Its accuracy is poor, its speed very fast, and it causes average damage.

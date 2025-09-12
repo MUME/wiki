@@ -1,6 +1,6 @@
 ---
-title: Black waraxe
-permalink: /Black_waraxe/
+title: "Black waraxe"
+permalink: "/Black_waraxe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is poor while

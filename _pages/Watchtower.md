@@ -1,6 +1,6 @@
 ---
-title: Watchtower
-permalink: /Watchtower/
+title: "Watchtower"
+permalink: "/Watchtower/"
 ---
 
 Some places in [Arda](Arda "wikilink") are considered being well suited

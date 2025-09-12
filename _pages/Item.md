@@ -1,6 +1,6 @@
 ---
-title: Item
-permalink: /Item/
+title: "Item"
+permalink: "/Item/"
 ---
 
 **Items** in [MUME](MUME "wikilink") are objects that can be carried in

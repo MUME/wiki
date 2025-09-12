@@ -1,6 +1,6 @@
 ---
-title: Archery
-permalink: /Archery/
+title: "Archery"
+permalink: "/Archery/"
 ---
 
 In order to use missile weapons, you need to wield the weapon, wear the

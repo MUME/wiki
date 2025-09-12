@@ -1,6 +1,6 @@
 ---
-title: Ferry
-permalink: /Ferry/
+title: "Ferry"
+permalink: "/Ferry/"
 ---
 
 Ferries are a comfortable way of crossing a body of water when a bridge

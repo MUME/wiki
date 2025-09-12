@@ -1,6 +1,6 @@
 ---
-title: Target Shooting
-permalink: /Target_Shooting/
+title: "Target Shooting"
+permalink: "/Target_Shooting/"
 ---
 
 In some places where archery is practiced, targets are placed for

@@ -1,6 +1,6 @@
 ---
-title: Warm blanket
-permalink: /Warm_blanket/
+title: "Warm blanket"
+permalink: "/Warm_blanket/"
 ---
 
 \> **look blanket**

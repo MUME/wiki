@@ -1,6 +1,6 @@
 ---
-title: Detect Invisibility
-permalink: /Detect_Invisibility/
+title: "Detect Invisibility"
+permalink: "/Detect_Invisibility/"
 ---
 
 <nowiki>g Syntax : cast 'detect invisibility' Type : Detection

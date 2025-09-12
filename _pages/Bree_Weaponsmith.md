@@ -1,6 +1,6 @@
 ---
-title: Bree Weaponsmith
-permalink: /Bree_Weaponsmith/
+title: "Bree Weaponsmith"
+permalink: "/Bree_Weaponsmith/"
 ---
 
 The **weaponsmith** tends to the **Weapon Shop** in

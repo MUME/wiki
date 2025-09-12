@@ -1,6 +1,6 @@
 ---
-title: Halls of Mandos
-permalink: /Halls_of_Mandos/
+title: "Halls of Mandos"
+permalink: "/Halls_of_Mandos/"
 ---
 
 The **Halls of Mandos** is a special [room](room "wikilink") where all

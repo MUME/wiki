@@ -1,6 +1,6 @@
 ---
-title: Wooden shield
-permalink: /Wooden_shield/
+title: "Wooden shield"
+permalink: "/Wooden_shield/"
 ---
 
 \> **look shield**

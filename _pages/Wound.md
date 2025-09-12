@@ -1,6 +1,6 @@
 ---
-title: Wound
-permalink: /Wound/
+title: "Wound"
+permalink: "/Wound/"
 ---
 
 When fighting mobs or players in MUME there is a chance you may inflict

@@ -1,6 +1,6 @@
 ---
-title: Double-edged eket
-permalink: /Double-edged_eket/
+title: "Double-edged eket"
+permalink: "/Double-edged_eket/"
 ---
 
 This piercing weapon can be wielded one-handed. It is poor while

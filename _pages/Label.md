@@ -1,6 +1,6 @@
 ---
-title: Label
-permalink: /Label/
+title: "Label"
+permalink: "/Label/"
 ---
 
 With the **label** command, you can attach labels to characters or

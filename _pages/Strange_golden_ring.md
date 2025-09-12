@@ -1,6 +1,6 @@
 ---
-title: Strange golden ring
-permalink: /Strange_golden_ring/
+title: "Strange golden ring"
+permalink: "/Strange_golden_ring/"
 ---
 
 !# CW\>**examine golden**

@@ -1,6 +1,6 @@
 ---
-title: Legend home permit
-permalink: /Legend_home_permit/
+title: "Legend home permit"
+permalink: "/Legend_home_permit/"
 ---
 
 ## How to Apply for a Legend Home Building Permit

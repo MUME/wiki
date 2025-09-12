@@ -1,6 +1,6 @@
 ---
-title: Black bear
-permalink: /Black_bear/
+title: "Black bear"
+permalink: "/Black_bear/"
 ---
 
 \> A bear is here, covered with coarse black fur.

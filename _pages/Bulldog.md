@@ -1,6 +1,6 @@
 ---
-title: Bulldog
-permalink: /Bulldog/
+title: "Bulldog"
+permalink: "/Bulldog/"
 ---
 
 **Bulldogs** are aggressive [level](level "wikilink") ?

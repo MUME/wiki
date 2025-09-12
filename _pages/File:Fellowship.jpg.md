@@ -1,6 +1,6 @@
 ---
-title: File:Fellowship.jpg
-permalink: /File:Fellowship.jpg/
+title: "File:Fellowship.jpg"
+permalink: "/File:Fellowship.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

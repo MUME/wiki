@@ -1,6 +1,6 @@
 ---
-title: Trophy
-permalink: /Trophy/
+title: "Trophy"
+permalink: "/Trophy/"
 ---
 
 Usage:

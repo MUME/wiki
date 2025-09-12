@@ -1,6 +1,6 @@
 ---
-title: Movement points
-permalink: /Movement_points/
+title: "Movement points"
+permalink: "/Movement_points/"
 ---
 
 All players have a limited number of movement points which varies with

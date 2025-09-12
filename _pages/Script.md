@@ -1,6 +1,6 @@
 ---
-title: Script
-permalink: /Script/
+title: "Script"
+permalink: "/Script/"
 ---
 
 # Powwow

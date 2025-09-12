@@ -1,6 +1,6 @@
 ---
-title: Sturdy chain mail coif
-permalink: /Sturdy_chain_mail_coif/
+title: "Sturdy chain mail coif"
+permalink: "/Sturdy_chain_mail_coif/"
 ---
 
 \>**look coif**

@@ -1,6 +1,6 @@
 ---
-title: Parry split
-permalink: /Parry_split/
+title: "Parry split"
+permalink: "/Parry_split/"
 ---
 
 Parry splitting was perhaps first described in Petrel's book '[Newbie

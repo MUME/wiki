@@ -1,6 +1,6 @@
 ---
-title: Ainur
-permalink: /Ainur/
+title: "Ainur"
+permalink: "/Ainur/"
 ---
 
 The **Ainur** are the immortals of [MUME](MUME "wikilink"). They do not

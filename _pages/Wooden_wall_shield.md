@@ -1,6 +1,6 @@
 ---
-title: Wooden wall shield
-permalink: /Wooden_wall_shield/
+title: "Wooden wall shield"
+permalink: "/Wooden_wall_shield/"
 ---
 
 `A wooden wall shield rests on the ground.`

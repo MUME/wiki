@@ -1,6 +1,6 @@
 ---
-title: FAQ3
-permalink: /FAQ3/
+title: "FAQ3"
+permalink: "/FAQ3/"
 ---
 
 Q: "How do I hold my weapon?"

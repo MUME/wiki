@@ -1,6 +1,6 @@
 ---
-title: Awareness
-permalink: /Awareness/
+title: "Awareness"
+permalink: "/Awareness/"
 ---
 
 ## Awareness

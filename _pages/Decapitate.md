@@ -1,6 +1,6 @@
 ---
-title: Decapitate
-permalink: /Decapitate/
+title: "Decapitate"
+permalink: "/Decapitate/"
 ---
 
 Syntax: decapitate corpse

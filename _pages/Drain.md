@@ -1,6 +1,6 @@
 ---
-title: Drain
-permalink: /Drain/
+title: "Drain"
+permalink: "/Drain/"
 ---
 
 Orcs and Trolls can fill their skin, or any drink container they have,

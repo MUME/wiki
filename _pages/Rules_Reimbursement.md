@@ -1,6 +1,6 @@
 ---
-title: Rules Reimbursement
-permalink: /Rules_Reimbursement/
+title: "Rules Reimbursement"
+permalink: "/Rules_Reimbursement/"
 ---
 
 In general, reimbursements are not given on MUME. The only case in which

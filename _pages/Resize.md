@@ -1,6 +1,6 @@
 ---
-title: Resize
-permalink: /Resize/
+title: "Resize"
+permalink: "/Resize/"
 ---
 
 Use these commands in shops. 'Buy' can also be used in

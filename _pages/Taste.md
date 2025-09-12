@@ -1,6 +1,6 @@
 ---
-title: Taste
-permalink: /Taste/
+title: "Taste"
+permalink: "/Taste/"
 ---
 
 When you're hungry or thirsty, if you don't consume any food or drink,

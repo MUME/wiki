@@ -1,6 +1,6 @@
 ---
-title: Tharbad Weaponsmith
-permalink: /Tharbad_Weaponsmith/
+title: "Tharbad Weaponsmith"
+permalink: "/Tharbad_Weaponsmith/"
 ---
 
 A **weaponsmith** tends to the **Weapon Shop** in

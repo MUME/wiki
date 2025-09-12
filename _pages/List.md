@@ -1,6 +1,6 @@
 ---
-title: List
-permalink: /List/
+title: "List"
+permalink: "/List/"
 ---
 
 Use these commands in shops. 'Buy' can also be used in

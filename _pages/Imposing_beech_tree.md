@@ -1,6 +1,6 @@
 ---
-title: Imposing beech tree
-permalink: /Imposing_beech_tree/
+title: "Imposing beech tree"
+permalink: "/Imposing_beech_tree/"
 ---
 
 **Imposing beech trees** are [level](level "wikilink") 19

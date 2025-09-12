@@ -1,6 +1,6 @@
 ---
-title: Thick tangle of vines
-permalink: /Thick_tangle_of_vines/
+title: "Thick tangle of vines"
+permalink: "/Thick_tangle_of_vines/"
 ---
 
 \> Some thick writhing vines whip all around you.

@@ -1,6 +1,6 @@
 ---
-title: Corrupting
-permalink: /Corrupting/
+title: "Corrupting"
+permalink: "/Corrupting/"
 ---
 
 If you are darkie and got some anti-evil item into your hands, then it's

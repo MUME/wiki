@@ -1,6 +1,6 @@
 ---
-title: Category:Piercing weapons
-permalink: /Category:Piercing_weapons/
+title: "Category:Piercing weapons"
+permalink: "/Category:Piercing_weapons/"
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

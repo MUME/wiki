@@ -1,6 +1,6 @@
 ---
-title: Turnip
-permalink: /Turnip/
+title: "Turnip"
+permalink: "/Turnip/"
 ---
 
 \> **look turnip** This nicely shaped round turnip is quite large. While

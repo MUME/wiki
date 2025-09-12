@@ -1,6 +1,6 @@
 ---
-title: Infusion
-permalink: /Infusion/
+title: "Infusion"
+permalink: "/Infusion/"
 ---
 
 An **infusion** is a potion that can cure some

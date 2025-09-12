@@ -1,6 +1,6 @@
 ---
-title: Dark coloured flask
-permalink: /Dark_coloured_flask/
+title: "Dark coloured flask"
+permalink: "/Dark_coloured_flask/"
 ---
 
 \> **look flask**

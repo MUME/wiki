@@ -1,6 +1,6 @@
 ---
-title: Embed
-permalink: /Embed/
+title: "Embed"
+permalink: "/Embed/"
 ---
 
 Some artisans all around Arda are able to EMBED items into staves.

@@ -1,6 +1,6 @@
 ---
-title: Category:Abandon
-permalink: /Category:Abandon/
+title: "Category:Abandon"
+permalink: "/Category:Abandon/"
 ---
 
 1.  REDIRECT [User talk:Bot and

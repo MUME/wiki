@@ -1,5 +1,5 @@
 ---
-title: Category:Hands items
-permalink: /Category:Hands_items/
+title: "Category:Hands items"
+permalink: "/Category:Hands_items/"
 ---
 

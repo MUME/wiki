@@ -1,6 +1,6 @@
 ---
-title: Raise Dead
-permalink: /Raise_Dead/
+title: "Raise Dead"
+permalink: "/Raise_Dead/"
 ---
 
 <nowiki>g Syntax : cast 'raise dead' Type : Miscellaneous Accumulative:

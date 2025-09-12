@@ -1,6 +1,6 @@
 ---
-title: Halamor's ghost
-permalink: /Halamor's_ghost/
+title: "Halamor's ghost"
+permalink: "/Halamor's_ghost/"
 ---
 
 **Halamor's ghost** is a level ~17-18 [mobile](mobile "wikilink") found

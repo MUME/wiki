@@ -1,6 +1,6 @@
 ---
-title: Tower Hills Blacksmith
-permalink: /Tower_Hills_Blacksmith/
+title: "Tower Hills Blacksmith"
+permalink: "/Tower_Hills_Blacksmith/"
 ---
 
 A **tall, muscular blacksmith** tends to the **Blacksmith's Workshop**

@@ -1,6 +1,6 @@
 ---
-title: Category:Software
-permalink: /Category:Software/
+title: "Category:Software"
+permalink: "/Category:Software/"
 ---
 
 - [Software](Software "wikilink")

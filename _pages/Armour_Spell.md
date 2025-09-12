@@ -1,6 +1,6 @@
 ---
-title: Armour Spell
-permalink: /Armour_Spell/
+title: "Armour Spell"
+permalink: "/Armour_Spell/"
 ---
 
 Syntax : cast 'armour' \[self-only\] Type : Defensive Accumulative: No

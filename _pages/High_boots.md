@@ -1,6 +1,6 @@
 ---
-title: High boots
-permalink: /High_boots/
+title: "High boots"
+permalink: "/High_boots/"
 ---
 
 \> *look boots* These boots are of calf-high length and have been

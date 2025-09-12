@@ -1,6 +1,6 @@
 ---
-title: File:The Mouth of Sauron.jpg
-permalink: /File:The_Mouth_of_Sauron.jpg/
+title: "File:The Mouth of Sauron.jpg"
+permalink: "/File:The_Mouth_of_Sauron.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Return of the

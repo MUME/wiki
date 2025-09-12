@@ -1,6 +1,6 @@
 ---
-title: Container
-permalink: /Container/
+title: "Container"
+permalink: "/Container/"
 ---
 
 [Category:Equipment](Category:Equipment "wikilink")

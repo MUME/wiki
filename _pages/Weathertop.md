@@ -1,6 +1,6 @@
 ---
-title: Weathertop
-permalink: /Weathertop/
+title: "Weathertop"
+permalink: "/Weathertop/"
 ---
 
 <nowiki>g

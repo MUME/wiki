@@ -1,6 +1,6 @@
 ---
-title: Great mottled feline
-permalink: /Great_mottled_feline/
+title: "Great mottled feline"
+permalink: "/Great_mottled_feline/"
 ---
 
 **Great mottled felines** are aggressive [level](level "wikilink")

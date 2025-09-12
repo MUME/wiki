@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Mounts, Riding, and Pets
-permalink: /Newbie_Guide_Mounts,_Riding,_and_Pets/
+title: "Newbie Guide Mounts, Riding, and Pets"
+permalink: "/Newbie_Guide_Mounts,_Riding,_and_Pets/"
 ---
 
 **Newbie Guide Mounts, Riding, and Pets**

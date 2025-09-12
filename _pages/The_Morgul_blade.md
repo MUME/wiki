@@ -1,6 +1,6 @@
 ---
-title: The Morgul blade
-permalink: /The_Morgul_blade/
+title: "The Morgul blade"
+permalink: "/The_Morgul_blade/"
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

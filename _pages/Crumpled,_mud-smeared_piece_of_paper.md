@@ -1,6 +1,6 @@
 ---
-title: Crumpled, mud-smeared piece of paper
-permalink: /Crumpled,_mud-smeared_piece_of_paper/
+title: "Crumpled, mud-smeared piece of paper"
+permalink: "/Crumpled,_mud-smeared_piece_of_paper/"
 ---
 
 The **crumpled, mud-smeared piece of paper** is an

@@ -1,6 +1,6 @@
 ---
-title: Pray
-permalink: /Pray/
+title: "Pray"
+permalink: "/Pray/"
 ---
 
 In the Halls of Mandos, this command is used to transport yourself to

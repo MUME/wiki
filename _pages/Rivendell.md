@@ -1,6 +1,6 @@
 ---
-title: Rivendell
-permalink: /Rivendell/
+title: "Rivendell"
+permalink: "/Rivendell/"
 ---
 
 ## Rivendell

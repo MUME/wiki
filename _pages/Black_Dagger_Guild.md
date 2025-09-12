@@ -1,6 +1,6 @@
 ---
-title: Black Dagger Guild
-permalink: /Black_Dagger_Guild/
+title: "Black Dagger Guild"
+permalink: "/Black_Dagger_Guild/"
 ---
 
 The Black Dagger Guild?

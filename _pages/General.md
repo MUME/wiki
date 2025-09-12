@@ -1,6 +1,6 @@
 ---
-title: General
-permalink: /General/
+title: "General"
+permalink: "/General/"
 ---
 
 **General [skills](skill "wikilink")** (also known as

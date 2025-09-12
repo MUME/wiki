@@ -1,6 +1,6 @@
 ---
-title: Morningstar
-permalink: /Morningstar/
+title: "Morningstar"
+permalink: "/Morningstar/"
 ---
 
 \> **examine morningstar**

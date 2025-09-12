@@ -1,6 +1,6 @@
 ---
-title: Command
-permalink: /Command/
+title: "Command"
+permalink: "/Command/"
 ---
 
 ## COMMAND

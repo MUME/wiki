@@ -1,6 +1,6 @@
 ---
-title: Alertness
-permalink: /Alertness/
+title: "Alertness"
+permalink: "/Alertness/"
 ---
 
 Via the 'change alertness' command, you can decide how much attention

@@ -1,6 +1,6 @@
 ---
-title: Armourer
-permalink: /Armourer/
+title: "Armourer"
+permalink: "/Armourer/"
 ---
 
 **Armourers** tend the armour [shops](shop "wikilink") in

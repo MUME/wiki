@@ -1,6 +1,6 @@
 ---
-title: Eriadoran
-permalink: /Eriadoran/
+title: "Eriadoran"
+permalink: "/Eriadoran/"
 ---
 
 The Eriadoran people are the common people of Northwest Middle Earth.

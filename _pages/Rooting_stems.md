@@ -1,6 +1,6 @@
 ---
-title: Rooting stems
-permalink: /Rooting_stems/
+title: "Rooting stems"
+permalink: "/Rooting_stems/"
 ---
 
 **Rooting stems** are aggressive, [evil](alignment "wikilink")

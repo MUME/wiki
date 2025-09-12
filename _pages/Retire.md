@@ -1,6 +1,6 @@
 ---
-title: Retire
-permalink: /Retire/
+title: "Retire"
+permalink: "/Retire/"
 ---
 
 There are two reasons for you to retire: to prevent auto deletion of

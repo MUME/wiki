@@ -1,5 +1,5 @@
 ---
-title: Category:Head items
-permalink: /Category:Head_items/
+title: "Category:Head items"
+permalink: "/Category:Head_items/"
 ---
 

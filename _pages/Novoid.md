@@ -1,6 +1,6 @@
 ---
-title: Novoid
-permalink: /Novoid/
+title: "Novoid"
+permalink: "/Novoid/"
 ---
 
 MUME characters have linkless protection: if your link drops, you soon

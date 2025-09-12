@@ -1,6 +1,6 @@
 ---
-title: Spells
-permalink: /Spells/
+title: "Spells"
+permalink: "/Spells/"
 ---
 
 1.  redirect

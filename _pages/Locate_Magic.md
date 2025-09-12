@@ -1,6 +1,6 @@
 ---
-title: Locate Magic
-permalink: /Locate_Magic/
+title: "Locate Magic"
+permalink: "/Locate_Magic/"
 ---
 
 <nowiki>g Syntax : cast 'locate magic' good\|evil \[\] Type : Long range

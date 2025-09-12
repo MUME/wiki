@@ -1,6 +1,6 @@
 ---
-title: Pastry
-permalink: /Pastry/
+title: "Pastry"
+permalink: "/Pastry/"
 ---
 
 **Pastries** are a [food](food "wikilink") [item](item "wikilink"),

@@ -1,6 +1,6 @@
 ---
-title: Wolf cub
-permalink: /Wolf_cub/
+title: "Wolf cub"
+permalink: "/Wolf_cub/"
 ---
 
 **Wolf cubs** are passive [level](level "wikilink") ~1-2

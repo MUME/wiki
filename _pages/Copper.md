@@ -1,6 +1,6 @@
 ---
-title: Copper
-permalink: /Copper/
+title: "Copper"
+permalink: "/Copper/"
 ---
 
 ## Statistics

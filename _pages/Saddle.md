@@ -1,6 +1,6 @@
 ---
-title: Saddle
-permalink: /Saddle/
+title: "Saddle"
+permalink: "/Saddle/"
 ---
 
 If you want to sit more securely on your mount, you can buy yourself a

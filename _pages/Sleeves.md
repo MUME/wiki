@@ -1,6 +1,6 @@
 ---
-title: Sleeves
-permalink: /Sleeves/
+title: "Sleeves"
+permalink: "/Sleeves/"
 ---
 
 1.  REDIRECT [Arms](Arms "wikilink")

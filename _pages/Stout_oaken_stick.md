@@ -1,6 +1,6 @@
 ---
-title: Stout oaken stick
-permalink: /Stout_oaken_stick/
+title: "Stout oaken stick"
+permalink: "/Stout_oaken_stick/"
 ---
 
 The **stout oaken stick** is the reward for completing

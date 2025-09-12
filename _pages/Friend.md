@@ -1,6 +1,6 @@
 ---
-title: Friend
-permalink: /Friend/
+title: "Friend"
+permalink: "/Friend/"
 ---
 
 The master of a house can instruct his guards and gatekeeper about which

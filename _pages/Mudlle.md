@@ -1,6 +1,6 @@
 ---
-title: Mudlle
-permalink: /Mudlle/
+title: "Mudlle"
+permalink: "/Mudlle/"
 ---
 
 Mudlle (MUD Language for Little Extensions) is the online programming

@@ -1,6 +1,6 @@
 ---
-title: Red ruby
-permalink: /Red_ruby/
+title: "Red ruby"
+permalink: "/Red_ruby/"
 ---
 
 \> **examine ruby**

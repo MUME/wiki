@@ -1,6 +1,6 @@
 ---
-title: Super Mobile
-permalink: /Super_Mobile/
+title: "Super Mobile"
+permalink: "/Super_Mobile/"
 ---
 
 ## Supermobs

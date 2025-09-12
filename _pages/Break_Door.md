@@ -1,6 +1,6 @@
 ---
-title: Break Door
-permalink: /Break_Door/
+title: "Break Door"
+permalink: "/Break_Door/"
 ---
 
 <nowiki>gSyntax : cast 'break door' Type : Miscellaneous Accumulative:

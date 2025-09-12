@@ -1,6 +1,6 @@
 ---
-title: Perfect oak branch
-permalink: /Perfect_oak_branch/
+title: "Perfect oak branch"
+permalink: "/Perfect_oak_branch/"
 ---
 
 The **perfect oak branch** is an [item](item "wikilink") used in the

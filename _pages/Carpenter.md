@@ -1,6 +1,6 @@
 ---
-title: Carpenter
-permalink: /Carpenter/
+title: "Carpenter"
+permalink: "/Carpenter/"
 ---
 
 The **carpenter** is a [good](alignment "wikilink")

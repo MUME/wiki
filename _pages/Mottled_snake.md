@@ -1,6 +1,6 @@
 ---
-title: Mottled snake
-permalink: /Mottled_snake/
+title: "Mottled snake"
+permalink: "/Mottled_snake/"
 ---
 
 \> A mottled snake is sneaking here, ready to sink its fangs into

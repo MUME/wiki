@@ -1,6 +1,6 @@
 ---
-title: Fine tunic
-permalink: /Fine_tunic/
+title: "Fine tunic"
+permalink: "/Fine_tunic/"
 ---
 
 \> **look tunic**

@@ -1,6 +1,6 @@
 ---
-title: Nagrorh
-permalink: /Nagrorh/
+title: "Nagrorh"
+permalink: "/Nagrorh/"
 ---
 
 <nowiki>g Gaunt and skeletal in form. Nagrorh's eye sockets are black

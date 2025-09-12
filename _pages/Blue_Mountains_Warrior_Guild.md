@@ -1,6 +1,6 @@
 ---
-title: Blue Mountains Warrior Guild
-permalink: /Blue_Mountains_Warrior_Guild/
+title: "Blue Mountains Warrior Guild"
+permalink: "/Blue_Mountains_Warrior_Guild/"
 ---
 
 **Frag** teaches [warrior](warrior "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Long and scaly snakeskin
-permalink: /Long_and_scaly_snakeskin/
+title: "Long and scaly snakeskin"
+permalink: "/Long_and_scaly_snakeskin/"
 ---
 
 \>**examine snakeskin**

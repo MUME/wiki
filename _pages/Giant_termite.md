@@ -1,6 +1,6 @@
 ---
-title: Giant termite
-permalink: /Giant_termite/
+title: "Giant termite"
+permalink: "/Giant_termite/"
 ---
 
 \> A giant termite is here, crushing skulls and bones.

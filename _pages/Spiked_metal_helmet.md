@@ -1,6 +1,6 @@
 ---
-title: Spiked metal helmet
-permalink: /Spiked_metal_helmet/
+title: "Spiked metal helmet"
+permalink: "/Spiked_metal_helmet/"
 ---
 
 \> **look helmet**

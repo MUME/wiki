@@ -1,6 +1,6 @@
 ---
-title: Corpse
-permalink: /Corpse/
+title: "Corpse"
+permalink: "/Corpse/"
 ---
 
 When a living creature dies, it leaves a body which contains the wordly

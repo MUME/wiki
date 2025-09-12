@@ -1,6 +1,6 @@
 ---
-title: Spectre
-permalink: /Spectre/
+title: "Spectre"
+permalink: "/Spectre/"
 ---
 
 **Spectres** are aggressive level ? [mobs](mob "wikilink"). They are

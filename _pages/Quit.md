@@ -1,6 +1,6 @@
 ---
-title: Quit
-permalink: /Quit/
+title: "Quit"
+permalink: "/Quit/"
 ---
 
 When you get tired of playing, you can leave the game by typing \`quit'.

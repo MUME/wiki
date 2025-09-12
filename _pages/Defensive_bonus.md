@@ -1,5 +1,5 @@
 ---
-title: Defensive bonus
-permalink: /Defensive_bonus/
+title: "Defensive bonus"
+permalink: "/Defensive_bonus/"
 ---
 

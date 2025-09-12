@@ -1,6 +1,6 @@
 ---
-title: Justice
-permalink: /Justice/
+title: "Justice"
+permalink: "/Justice/"
 ---
 
 Command 'justice' allows you to read the justice board where punishments

@@ -1,6 +1,6 @@
 ---
-title: Tharbad Mage Guild
-permalink: /Tharbad_Mage_Guild/
+title: "Tharbad Mage Guild"
+permalink: "/Tharbad_Mage_Guild/"
 ---
 
 The **Illusionist** teaches [mage](mage "wikilink")

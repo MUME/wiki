@@ -1,6 +1,6 @@
 ---
-title: Troll
-permalink: /Troll/
+title: "Troll"
+permalink: "/Troll/"
 ---
 
 Of all Sauron's servants, trolls have the greatest physical might. These

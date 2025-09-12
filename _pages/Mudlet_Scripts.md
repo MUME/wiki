@@ -1,6 +1,6 @@
 ---
-title: Mudlet Scripts
-permalink: /Mudlet_Scripts/
+title: "Mudlet Scripts"
+permalink: "/Mudlet_Scripts/"
 ---
 
 # Mudlet

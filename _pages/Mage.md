@@ -1,6 +1,6 @@
 ---
-title: Mage
-permalink: /Mage/
+title: "Mage"
+permalink: "/Mage/"
 ---
 
 This is a class of powerful and violent magic, however the Magic User

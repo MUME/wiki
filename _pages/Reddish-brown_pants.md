@@ -1,6 +1,6 @@
 ---
-title: Reddish-brown pants
-permalink: /Reddish-brown_pants/
+title: "Reddish-brown pants"
+permalink: "/Reddish-brown_pants/"
 ---
 
 \> **examine pants**

@@ -1,6 +1,6 @@
 ---
-title: Half-Elf
-permalink: /Half-Elf/
+title: "Half-Elf"
+permalink: "/Half-Elf/"
 ---
 
 Back in the First Age of the Sun, Lúthien Tinúviel, the daughter of the

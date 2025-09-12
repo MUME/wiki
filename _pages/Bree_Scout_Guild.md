@@ -1,6 +1,6 @@
 ---
-title: Bree Scout Guild
-permalink: /Bree_Scout_Guild/
+title: "Bree Scout Guild"
+permalink: "/Bree_Scout_Guild/"
 ---
 
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Grizzly cub
-permalink: /Grizzly_cub/
+title: "Grizzly cub"
+permalink: "/Grizzly_cub/"
 ---
 
 **Grizzly cubs** are aggressive [level](level "wikilink") \<10

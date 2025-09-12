@@ -1,6 +1,6 @@
 ---
-title: Endurance
-permalink: /Endurance/
+title: "Endurance"
+permalink: "/Endurance/"
 ---
 
 ## Endurance

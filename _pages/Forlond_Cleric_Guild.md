@@ -1,6 +1,6 @@
 ---
-title: Forlond Cleric Guild
-permalink: /Forlond_Cleric_Guild/
+title: "Forlond Cleric Guild"
+permalink: "/Forlond_Cleric_Guild/"
 ---
 
 An **elven priest** teaches [cleric](cleric "wikilink")

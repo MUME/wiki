@@ -1,6 +1,6 @@
 ---
-title: Achievements
-permalink: /Achievements/
+title: "Achievements"
+permalink: "/Achievements/"
 ---
 
 The **achievements** command will list various things your character has

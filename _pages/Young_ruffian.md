@@ -1,6 +1,6 @@
 ---
-title: Young ruffian
-permalink: /Young_ruffian/
+title: "Young ruffian"
+permalink: "/Young_ruffian/"
 ---
 
 **Young ruffians** are aggressive [level](level "wikilink") ~2-3

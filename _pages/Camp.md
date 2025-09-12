@@ -1,6 +1,6 @@
 ---
-title: Camp
-permalink: /Camp/
+title: "Camp"
+permalink: "/Camp/"
 ---
 
 \[Delayed Command\]

@@ -1,6 +1,6 @@
 ---
-title: Bastard sword
-permalink: /Bastard_sword/
+title: "Bastard sword"
+permalink: "/Bastard_sword/"
 ---
 
 This slashing weapon can be wielded either one- or two-handed. It is

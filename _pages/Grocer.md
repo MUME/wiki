@@ -1,6 +1,6 @@
 ---
-title: Grocer
-permalink: /Grocer/
+title: "Grocer"
+permalink: "/Grocer/"
 ---
 
 **Grocers** tend to groceries and general stores in

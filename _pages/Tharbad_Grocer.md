@@ -1,6 +1,6 @@
 ---
-title: Tharbad Grocer
-permalink: /Tharbad_Grocer/
+title: "Tharbad Grocer"
+permalink: "/Tharbad_Grocer/"
 ---
 
 A [grocer](grocer "wikilink") tends to the **Grocery** in

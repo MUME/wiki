@@ -1,6 +1,6 @@
 ---
-title: Shroud
-permalink: /Shroud/
+title: "Shroud"
+permalink: "/Shroud/"
 ---
 
 **Shroud** is a level 5 [mage](mage "wikilink")

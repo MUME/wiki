@@ -1,6 +1,6 @@
 ---
-title: Beorn
-permalink: /Beorn/
+title: "Beorn"
+permalink: "/Beorn/"
 ---
 
 1.  redirect [Super_Mobile](Super_Mobile "wikilink")

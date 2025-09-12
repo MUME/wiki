@@ -1,6 +1,6 @@
 ---
-title: Bree Armourer
-permalink: /Bree_Armourer/
+title: "Bree Armourer"
+permalink: "/Bree_Armourer/"
 ---
 
 The **armourer** tends to the **Armoury** in Bree. The store is open 7am

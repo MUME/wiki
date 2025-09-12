@@ -1,6 +1,6 @@
 ---
-title: Help
-permalink: /Help/
+title: "Help"
+permalink: "/Help/"
 ---
 
 The **help** command in [MUME](MUME "wikilink") can be used to view help

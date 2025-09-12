@@ -1,6 +1,6 @@
 ---
-title: Battle axe
-permalink: /Battle_axe/
+title: "Battle axe"
+permalink: "/Battle_axe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is poor while

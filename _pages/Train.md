@@ -1,6 +1,6 @@
 ---
-title: Train
-permalink: /Train/
+title: "Train"
+permalink: "/Train/"
 ---
 
 The 'train' command has three different purposes.

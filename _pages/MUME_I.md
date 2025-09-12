@@ -1,6 +1,6 @@
 ---
-title: MUME I
-permalink: /MUME_I/
+title: "MUME I"
+permalink: "/MUME_I/"
 ---
 
 MUME I was released onto an unexpecting Internet in January 1992 from

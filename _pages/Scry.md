@@ -1,6 +1,6 @@
 ---
-title: Scry
-permalink: /Scry/
+title: "Scry"
+permalink: "/Scry/"
 ---
 
 <nowiki>g Syntax : cast 'scry' \[\] Type : Long range Accumulative: N/A

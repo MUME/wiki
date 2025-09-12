@@ -1,6 +1,6 @@
 ---
-title: Steel-shafted spear
-permalink: /Steel-shafted_spear/
+title: "Steel-shafted spear"
+permalink: "/Steel-shafted_spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is awful while

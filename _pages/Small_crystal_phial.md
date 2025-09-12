@@ -1,6 +1,6 @@
 ---
-title: Small crystal phial
-permalink: /Small_crystal_phial/
+title: "Small crystal phial"
+permalink: "/Small_crystal_phial/"
 ---
 
 Sun Phial

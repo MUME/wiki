@@ -1,6 +1,6 @@
 ---
-title: Exit
-permalink: /Exit/
+title: "Exit"
+permalink: "/Exit/"
 ---
 
 Gives you a list of the obvious exits from your location. Of course, the

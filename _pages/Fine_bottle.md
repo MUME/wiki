@@ -1,6 +1,6 @@
 ---
-title: Fine bottle
-permalink: /Fine_bottle/
+title: "Fine bottle"
+permalink: "/Fine_bottle/"
 ---
 
 The **fine bottle** is a [drink](Food_%26_Drink#Drink "wikilink")

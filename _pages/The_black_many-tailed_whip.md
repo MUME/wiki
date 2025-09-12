@@ -1,6 +1,6 @@
 ---
-title: The black many-tailed whip
-permalink: /The_black_many-tailed_whip/
+title: "The black many-tailed whip"
+permalink: "/The_black_many-tailed_whip/"
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

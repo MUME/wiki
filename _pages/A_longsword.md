@@ -1,6 +1,6 @@
 ---
-title: A longsword
-permalink: /A_longsword/
+title: "A longsword"
+permalink: "/A_longsword/"
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

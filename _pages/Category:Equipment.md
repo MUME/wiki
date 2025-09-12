@@ -1,5 +1,5 @@
 ---
-title: Category:Equipment
-permalink: /Category:Equipment/
+title: "Category:Equipment"
+permalink: "/Category:Equipment/"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Hints
-permalink: /Hints/
+title: "Hints"
+permalink: "/Hints/"
 ---
 
 **Hints** for new players are displayed at logon for 'newbie'

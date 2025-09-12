@@ -1,6 +1,6 @@
 ---
-title: Complain
-permalink: /Complain/
+title: "Complain"
+permalink: "/Complain/"
 ---
 
 1.  redirect [Justice](Justice "wikilink")

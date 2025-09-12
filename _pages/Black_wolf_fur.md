@@ -1,6 +1,6 @@
 ---
-title: Black wolf fur
-permalink: /Black_wolf_fur/
+title: "Black wolf fur"
+permalink: "/Black_wolf_fur/"
 ---
 
 \>**examine fur**

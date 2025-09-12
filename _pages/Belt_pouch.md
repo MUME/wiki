@@ -1,6 +1,6 @@
 ---
-title: Belt pouch
-permalink: /Belt_pouch/
+title: "Belt pouch"
+permalink: "/Belt_pouch/"
 ---
 
 \> **look pouch**

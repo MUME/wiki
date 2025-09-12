@@ -1,6 +1,6 @@
 ---
-title: A fine pair of rigid leather sleeves
-permalink: /A_fine_pair_of_rigid_leather_sleeves/
+title: "A fine pair of rigid leather sleeves"
+permalink: "/A_fine_pair_of_rigid_leather_sleeves/"
 ---
 
 1.  REDIRECT [Fine pair of rigid leather

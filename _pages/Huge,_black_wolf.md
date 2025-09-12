@@ -1,6 +1,6 @@
 ---
-title: Huge, black wolf
-permalink: /Huge,_black_wolf/
+title: "Huge, black wolf"
+permalink: "/Huge,_black_wolf/"
 ---
 
 \> A huge, black wolf is here, ready to devour.

@@ -1,6 +1,6 @@
 ---
-title: Keyring
-permalink: /Keyring/
+title: "Keyring"
+permalink: "/Keyring/"
 ---
 
 Instead of keeping plenty of keys in your pockets, you can place them on

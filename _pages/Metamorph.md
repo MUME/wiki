@@ -1,6 +1,6 @@
 ---
-title: Metamorph
-permalink: /Metamorph/
+title: "Metamorph"
+permalink: "/Metamorph/"
 ---
 
 Usage: METAMORPH <ANIMAL> RETURN \[to return to real form\]

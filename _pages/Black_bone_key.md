@@ -1,6 +1,6 @@
 ---
-title: Black bone key
-permalink: /Black_bone_key/
+title: "Black bone key"
+permalink: "/Black_bone_key/"
 ---
 
 \> **examine key**

@@ -1,6 +1,6 @@
 ---
-title: Shoot
-permalink: /Shoot/
+title: "Shoot"
+permalink: "/Shoot/"
 ---
 
 'SHOOT' is the command used to fire a missile weapon. If you are

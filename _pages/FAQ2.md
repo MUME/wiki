@@ -1,6 +1,6 @@
 ---
-title: FAQ2
-permalink: /FAQ2/
+title: "FAQ2"
+permalink: "/FAQ2/"
 ---
 
 Q: "I have to go. How do I keep my stuff?" A: You have to find an Inn,

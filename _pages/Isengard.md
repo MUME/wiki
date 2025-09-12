@@ -1,6 +1,6 @@
 ---
-title: Isengard
-permalink: /Isengard/
+title: "Isengard"
+permalink: "/Isengard/"
 ---
 
 [Category:Locations](Category:Locations "wikilink")

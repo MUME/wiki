@@ -1,6 +1,6 @@
 ---
-title: Offer
-permalink: /Offer/
+title: "Offer"
+permalink: "/Offer/"
 ---
 
 For use in inns. The command '[offer](offer "wikilink")' will make the

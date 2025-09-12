@@ -1,6 +1,6 @@
 ---
-title: Lórien Cleric Guild
-permalink: /Lórien_Cleric_Guild/
+title: "Lórien Cleric Guild"
+permalink: "/Lórien_Cleric_Guild/"
 ---
 
 **Anarwen** teaches [cleric](cleric "wikilink")

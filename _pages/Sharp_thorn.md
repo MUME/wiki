@@ -1,6 +1,6 @@
 ---
-title: Sharp thorn
-permalink: /Sharp_thorn/
+title: "Sharp thorn"
+permalink: "/Sharp_thorn/"
 ---
 
 \> **look thorn**

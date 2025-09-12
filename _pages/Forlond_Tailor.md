@@ -1,6 +1,6 @@
 ---
-title: Forlond Tailor
-permalink: /Forlond_Tailor/
+title: "Forlond Tailor"
+permalink: "/Forlond_Tailor/"
 ---
 
 An [elven tailor](elven_tailor "wikilink") tends the **Tailor's Shop**

@@ -1,6 +1,6 @@
 ---
-title: File:Cave troll.jpg
-permalink: /File:Cave_troll.jpg/
+title: "File:Cave troll.jpg"
+permalink: "/File:Cave_troll.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

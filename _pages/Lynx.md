@@ -1,6 +1,6 @@
 ---
-title: Lynx
-permalink: /Lynx/
+title: "Lynx"
+permalink: "/Lynx/"
 ---
 
 **Lynxes** are passive level ? [mobs](mob "wikilink"), found in various

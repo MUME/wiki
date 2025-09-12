@@ -1,6 +1,6 @@
 ---
-title: Mirkwood
-permalink: /Mirkwood/
+title: "Mirkwood"
+permalink: "/Mirkwood/"
 ---
 
 Mirkwood is located north in the [Anduin Vale](Anduin_Vale "wikilink").

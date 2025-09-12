@@ -1,6 +1,6 @@
 ---
-title: Mean brigand
-permalink: /Mean_brigand/
+title: "Mean brigand"
+permalink: "/Mean_brigand/"
 ---
 
 \> A brigand, looking at your nice purse, is sneaking here.

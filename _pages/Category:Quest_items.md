@@ -1,6 +1,6 @@
 ---
-title: Category:Quest items
-permalink: /Category:Quest_items/
+title: "Category:Quest items"
+permalink: "/Category:Quest_items/"
 ---
 
 Items that are needed for the completion of a quest.

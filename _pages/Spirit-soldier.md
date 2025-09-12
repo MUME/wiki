@@ -1,6 +1,6 @@
 ---
-title: Spirit-soldier
-permalink: /Spirit-soldier/
+title: "Spirit-soldier"
+permalink: "/Spirit-soldier/"
 ---
 
 **Spirit-soldiers** are aggressive level ? [mobs](mob "wikilink") found

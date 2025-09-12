@@ -1,6 +1,6 @@
 ---
-title: Hero
-permalink: /Hero/
+title: "Hero"
+permalink: "/Hero/"
 ---
 
 Upon achieving level 21, MUME characters are deemed

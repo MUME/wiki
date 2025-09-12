@@ -1,6 +1,6 @@
 ---
-title: Money
-permalink: /Money/
+title: "Money"
+permalink: "/Money/"
 ---
 
 1.  REDIRECT [Gold](Gold "wikilink")

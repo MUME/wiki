@@ -1,6 +1,6 @@
 ---
-title: Title
-permalink: /Title/
+title: "Title"
+permalink: "/Title/"
 ---
 
 Starting on level 21, characters on MUME can choose their own title.

@@ -1,6 +1,6 @@
 ---
-title: Rules Banking
-permalink: /Rules_Banking/
+title: "Rules Banking"
+permalink: "/Rules_Banking/"
 ---
 
 Banking is storing items and gold so that you may have a source of new

@@ -1,6 +1,6 @@
 ---
-title: Fine rigid leather gloves
-permalink: /Fine_rigid_leather_gloves/
+title: "Fine rigid leather gloves"
+permalink: "/Fine_rigid_leather_gloves/"
 ---
 
 \> **look gloves**

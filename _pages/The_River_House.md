@@ -1,6 +1,6 @@
 ---
-title: The River House
-permalink: /The_River_House/
+title: "The River House"
+permalink: "/The_River_House/"
 ---
 
 An [elven maid](elven_maid "wikilink") serves food and drinks at **The

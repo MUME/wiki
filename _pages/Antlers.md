@@ -1,6 +1,6 @@
 ---
-title: Antlers
-permalink: /Antlers/
+title: "Antlers"
+permalink: "/Antlers/"
 ---
 
 \> **look antlers**

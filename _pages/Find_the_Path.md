@@ -1,6 +1,6 @@
 ---
-title: Find the Path
-permalink: /Find_the_Path/
+title: "Find the Path"
+permalink: "/Find_the_Path/"
 ---
 
 <nowiki>g Syntax : cast 'find the path' Type : Long range Accumulative:

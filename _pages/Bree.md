@@ -1,6 +1,6 @@
 ---
-title: Bree
-permalink: /Bree/
+title: "Bree"
+permalink: "/Bree/"
 ---
 
 ## Bree

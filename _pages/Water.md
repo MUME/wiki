@@ -1,6 +1,6 @@
 ---
-title: Water
-permalink: /Water/
+title: "Water"
+permalink: "/Water/"
 ---
 
 [Water](Water "wikilink"), the most common thirst-quencher, can be found

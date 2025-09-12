@@ -1,6 +1,6 @@
 ---
-title: Rogue
-permalink: /Rogue/
+title: "Rogue"
+permalink: "/Rogue/"
 ---
 
 **Rogues** are aggressive [level](level "wikilink") ?

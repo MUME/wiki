@@ -1,6 +1,6 @@
 ---
-title: Snuff
-permalink: /Snuff/
+title: "Snuff"
+permalink: "/Snuff/"
 ---
 
 1.  REDIRECT [Light](Light "wikilink")

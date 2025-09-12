@@ -1,6 +1,6 @@
 ---
-title: Template:Items
-permalink: /Template:Items/
+title: "Template:Items"
+permalink: "/Template:Items/"
 ---
 
 { \|- ! colspan = "2" style="margin:0; background:#cedff2; border:1px

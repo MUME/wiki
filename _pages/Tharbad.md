@@ -1,6 +1,6 @@
 ---
-title: Tharbad
-permalink: /Tharbad/
+title: "Tharbad"
+permalink: "/Tharbad/"
 ---
 
 ## Tharbad

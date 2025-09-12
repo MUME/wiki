@@ -1,6 +1,6 @@
 ---
-title: Summon
-permalink: /Summon/
+title: "Summon"
+permalink: "/Summon/"
 ---
 
 **Summon** is a level 8 [cleric](cleric "wikilink")

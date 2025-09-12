@@ -1,6 +1,6 @@
 ---
-title: Magic Missile
-permalink: /Magic_Missile/
+title: "Magic Missile"
+permalink: "/Magic_Missile/"
 ---
 
 <nowiki>g Syntax : cast 'magic missile' \[victim\] Type : Offensive

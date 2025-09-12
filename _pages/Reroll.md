@@ -1,6 +1,6 @@
 ---
-title: Reroll
-permalink: /Reroll/
+title: "Reroll"
+permalink: "/Reroll/"
 ---
 
 Policy for Rerolls:

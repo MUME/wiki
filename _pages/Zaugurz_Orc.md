@@ -1,6 +1,6 @@
 ---
-title: Zaugurz Orc
-permalink: /Zaugurz_Orc/
+title: "Zaugurz Orc"
+permalink: "/Zaugurz_Orc/"
 ---
 
 The Uruk-Zaugurz is a tribe on the rise from far north in the Misty

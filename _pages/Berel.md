@@ -1,6 +1,6 @@
 ---
-title: Berel
-permalink: /Berel/
+title: "Berel"
+permalink: "/Berel/"
 ---
 
 **Berel** is a woman living in a small village southwest of

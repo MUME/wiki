@@ -1,6 +1,6 @@
 ---
-title: Mend
-permalink: /Mend/
+title: "Mend"
+permalink: "/Mend/"
 ---
 
 After wear and tear, your equipment will probably begin to become less

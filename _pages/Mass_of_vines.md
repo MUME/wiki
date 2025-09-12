@@ -1,6 +1,6 @@
 ---
-title: Mass of vines
-permalink: /Mass_of_vines/
+title: "Mass of vines"
+permalink: "/Mass_of_vines/"
 ---
 
 **Masses of vines** are aggressive, [evil](alignment "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Meat
-permalink: /Meat/
+title: "Meat"
+permalink: "/Meat/"
 ---
 
 **Meat** can be acquired by [butchering](butcher "wikilink") the

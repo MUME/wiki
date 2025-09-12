@@ -1,6 +1,6 @@
 ---
-title: Down
-permalink: /Down/
+title: "Down"
+permalink: "/Down/"
 ---
 
 1.  Redirect [Movement](Movement "wikilink")

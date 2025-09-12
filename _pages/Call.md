@@ -1,6 +1,6 @@
 ---
-title: Call
-permalink: /Call/
+title: "Call"
+permalink: "/Call/"
 ---
 
 Most fortified towns on Arda close their gates at night. If you are a

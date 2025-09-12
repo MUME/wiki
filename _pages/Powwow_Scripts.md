@@ -1,6 +1,6 @@
 ---
-title: Powwow Scripts
-permalink: /Powwow_Scripts/
+title: "Powwow Scripts"
+permalink: "/Powwow_Scripts/"
 ---
 
 # Powwow

@@ -1,6 +1,6 @@
 ---
-title: Raise
-permalink: /Raise/
+title: "Raise"
+permalink: "/Raise/"
 ---
 
 The raise command is like a normal social with a minor twist. You can

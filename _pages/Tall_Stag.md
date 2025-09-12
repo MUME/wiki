@@ -1,6 +1,6 @@
 ---
-title: Tall Stag
-permalink: /Tall_Stag/
+title: "Tall Stag"
+permalink: "/Tall_Stag/"
 ---
 
 \> **examine stag**

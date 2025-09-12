@@ -1,6 +1,6 @@
 ---
-title: Depression
-permalink: /Depression/
+title: "Depression"
+permalink: "/Depression/"
 ---
 
 When Black Númenóreans backfire a spell, they suffer from depression for

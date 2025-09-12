@@ -1,6 +1,6 @@
 ---
-title: Giant slug
-permalink: /Giant_slug/
+title: "Giant slug"
+permalink: "/Giant_slug/"
 ---
 
 **Giant slugs** are aggressive, [evil](evil "wikilink")

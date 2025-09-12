@@ -1,6 +1,6 @@
 ---
-title: EquipmentLoadList
-permalink: /EquipmentLoadList/
+title: "EquipmentLoadList"
+permalink: "/EquipmentLoadList/"
 ---
 
 <spoilers>

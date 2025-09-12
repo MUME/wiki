@@ -1,5 +1,5 @@
 ---
-title: Category:Items
-permalink: /Category:Items/
+title: "Category:Items"
+permalink: "/Category:Items/"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Forlond Grocer
-permalink: /Forlond_Grocer/
+title: "Forlond Grocer"
+permalink: "/Forlond_Grocer/"
 ---
 
 An [elven grocer](elven_grocer "wikilink") tends the **Grocery** in

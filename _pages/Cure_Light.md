@@ -1,6 +1,6 @@
 ---
-title: Cure Light
-permalink: /Cure_Light/
+title: "Cure Light"
+permalink: "/Cure_Light/"
 ---
 
 <nowiki>g

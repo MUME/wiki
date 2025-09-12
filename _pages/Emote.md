@@ -1,6 +1,6 @@
 ---
-title: Emote
-permalink: /Emote/
+title: "Emote"
+permalink: "/Emote/"
 ---
 
 This command is used to show emotions or actions. For example, if Bilbo

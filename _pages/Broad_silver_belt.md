@@ -1,6 +1,6 @@
 ---
-title: Broad silver belt
-permalink: /Broad_silver_belt/
+title: "Broad silver belt"
+permalink: "/Broad_silver_belt/"
 ---
 
 The **broad silver belt** is a [belt](belt "wikilink") that increases

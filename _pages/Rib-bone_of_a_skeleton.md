@@ -1,6 +1,6 @@
 ---
-title: Rib-bone of a skeleton
-permalink: /Rib-bone_of_a_skeleton/
+title: "Rib-bone of a skeleton"
+permalink: "/Rib-bone_of_a_skeleton/"
 ---
 
 \>**examine bone**

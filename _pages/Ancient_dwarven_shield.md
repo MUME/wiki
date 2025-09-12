@@ -1,6 +1,6 @@
 ---
-title: Ancient dwarven shield
-permalink: /Ancient_dwarven_shield/
+title: "Ancient dwarven shield"
+permalink: "/Ancient_dwarven_shield/"
 ---
 
 ## Statistics

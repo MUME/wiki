@@ -1,6 +1,6 @@
 ---
-title: Rest
-permalink: /Rest/
+title: "Rest"
+permalink: "/Rest/"
 ---
 
 For changing your position. If you feel weary, it's probably a good idea

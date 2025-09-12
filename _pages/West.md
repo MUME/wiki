@@ -1,6 +1,6 @@
 ---
-title: West
-permalink: /West/
+title: "West"
+permalink: "/West/"
 ---
 
 1.  Redirect [Movement](Movement "wikilink")

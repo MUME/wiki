@@ -1,6 +1,6 @@
 ---
-title: Fine soft leather trousers
-permalink: /Fine_soft_leather_trousers/
+title: "Fine soft leather trousers"
+permalink: "/Fine_soft_leather_trousers/"
 ---
 
 \> **look trousers**

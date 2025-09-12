@@ -1,5 +1,5 @@
 ---
-title: Category:Keys
-permalink: /Category:Keys/
+title: "Category:Keys"
+permalink: "/Category:Keys/"
 ---
 

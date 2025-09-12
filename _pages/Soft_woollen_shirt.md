@@ -1,6 +1,6 @@
 ---
-title: Soft woollen shirt
-permalink: /Soft_woollen_shirt/
+title: "Soft woollen shirt"
+permalink: "/Soft_woollen_shirt/"
 ---
 
 \> **look shirt**

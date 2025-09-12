@@ -1,6 +1,6 @@
 ---
-title: Other equipment
-permalink: /Other_equipment/
+title: "Other equipment"
+permalink: "/Other_equipment/"
 ---
 
 # Cloaks

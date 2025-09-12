@@ -1,6 +1,6 @@
 ---
-title: Map
-permalink: /Map/
+title: "Map"
+permalink: "/Map/"
 ---
 
 If you want a map of a portion of MUME, you have to draw it yourself. We

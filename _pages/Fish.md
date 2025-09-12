@@ -1,6 +1,6 @@
 ---
-title: Fish
-permalink: /Fish/
+title: "Fish"
+permalink: "/Fish/"
 ---
 
 With the right equipment and some time on one's hands, one can fish the

@@ -1,6 +1,6 @@
 ---
-title: Ammunition
-permalink: /Ammunition/
+title: "Ammunition"
+permalink: "/Ammunition/"
 ---
 
 # Arrows

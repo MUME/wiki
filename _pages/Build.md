@@ -1,6 +1,6 @@
 ---
-title: Build
-permalink: /Build/
+title: "Build"
+permalink: "/Build/"
 ---
 
 These commands are used by M level maiar or lower to manipulate the

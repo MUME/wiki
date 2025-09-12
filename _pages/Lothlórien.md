@@ -1,6 +1,6 @@
 ---
-title: Lothlórien
-permalink: /Lothlórien/
+title: "Lothlórien"
+permalink: "/Lothlórien/"
 ---
 
 ## Lothlorien

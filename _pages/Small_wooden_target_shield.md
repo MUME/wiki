@@ -1,6 +1,6 @@
 ---
-title: Small wooden target shield
-permalink: /Small_wooden_target_shield/
+title: "Small wooden target shield"
+permalink: "/Small_wooden_target_shield/"
 ---
 
 \> **look shield**

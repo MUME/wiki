@@ -1,6 +1,6 @@
 ---
-title: Dwarf
-permalink: /Dwarf/
+title: "Dwarf"
+permalink: "/Dwarf/"
 ---
 
 A tough and sturdy people, the creation of Mahal, the Vala Aulë. They

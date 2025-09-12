@@ -1,6 +1,6 @@
 ---
-title: Trade
-permalink: /Trade/
+title: "Trade"
+permalink: "/Trade/"
 ---
 
 1.  Redirect [Offer](Offer "wikilink")

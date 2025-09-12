@@ -1,6 +1,6 @@
 ---
-title: Divination
-permalink: /Divination/
+title: "Divination"
+permalink: "/Divination/"
 ---
 
 <nowiki>g Syntax : cast 'divination' Type : Miscellaneous Accumulative:

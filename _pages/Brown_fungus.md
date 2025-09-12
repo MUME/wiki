@@ -1,6 +1,6 @@
 ---
-title: Brown fungus
-permalink: /Brown_fungus/
+title: "Brown fungus"
+permalink: "/Brown_fungus/"
 ---
 
 **Brown fungi** are passive, [evil](alignment "wikilink")

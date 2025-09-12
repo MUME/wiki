@@ -1,6 +1,6 @@
 ---
-title: Change Class
-permalink: /Change_Class/
+title: "Change Class"
+permalink: "/Change_Class/"
 ---
 
 In some other MUD, players are required to pick a "class" when they

@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Cities and Settlements
-permalink: /Newbie_Guide_Cities_and_Settlements/
+title: "Newbie Guide Cities and Settlements"
+permalink: "/Newbie_Guide_Cities_and_Settlements/"
 ---
 
 **Guide Cities and Settlements**

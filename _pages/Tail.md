@@ -1,6 +1,6 @@
 ---
-title: Tail
-permalink: /Tail/
+title: "Tail"
+permalink: "/Tail/"
 ---
 
 This allows you when reading a board to see only the last few messages,

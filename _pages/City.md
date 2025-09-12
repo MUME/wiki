@@ -1,6 +1,6 @@
 ---
-title: City
-permalink: /City/
+title: "City"
+permalink: "/City/"
 ---
 
 1.  Redirect

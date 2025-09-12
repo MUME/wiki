@@ -1,6 +1,6 @@
 ---
-title: Anduin Vale
-permalink: /Anduin_Vale/
+title: "Anduin Vale"
+permalink: "/Anduin_Vale/"
 ---
 
 ## Anduin Vale

@@ -1,6 +1,6 @@
 ---
-title: Dark-green moss
-permalink: /Dark-green_moss/
+title: "Dark-green moss"
+permalink: "/Dark-green_moss/"
 ---
 
 **Dark green moss** is used by the [dwarven

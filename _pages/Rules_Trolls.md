@@ -1,6 +1,6 @@
 ---
-title: Rules Trolls
-permalink: /Rules_Trolls/
+title: "Rules Trolls"
+permalink: "/Rules_Trolls/"
 ---
 
 Some special rules apply to trolls:

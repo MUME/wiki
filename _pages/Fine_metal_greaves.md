@@ -1,6 +1,6 @@
 ---
-title: Fine metal greaves
-permalink: /Fine_metal_greaves/
+title: "Fine metal greaves"
+permalink: "/Fine_metal_greaves/"
 ---
 
 \> **look greaves**

@@ -1,6 +1,6 @@
 ---
-title: Mobile
-permalink: /Mobile/
+title: "Mobile"
+permalink: "/Mobile/"
 ---
 
 PC is sometimes used as a short form of Player Character, which simply

@@ -1,6 +1,6 @@
 ---
-title: Latin1
-permalink: /Latin1/
+title: "Latin1"
+permalink: "/Latin1/"
 ---
 
 The following table displays the characters in ISO 8859-1 (also known as

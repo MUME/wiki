@@ -1,6 +1,6 @@
 ---
-title: Practice
-permalink: /Practice/
+title: "Practice"
+permalink: "/Practice/"
 ---
 
 In order to progress in MUME, you will need to practice skills. When you

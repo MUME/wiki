@@ -1,6 +1,6 @@
 ---
-title: Harlond Scout Guild
-permalink: /Harlond_Scout_Guild/
+title: "Harlond Scout Guild"
+permalink: "/Harlond_Scout_Guild/"
 ---
 
 An **elven hunter** teaches [scout](thief "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: News
-permalink: /News/
+title: "News"
+permalink: "/News/"
 ---
 
 The **News** command allows you to see important information about the

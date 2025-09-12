@@ -1,6 +1,6 @@
 ---
-title: Oermg
-permalink: /Oermg/
+title: "Oermg"
+permalink: "/Oermg/"
 ---
 
 1.  redirect [Old East Road Meets

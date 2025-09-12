@@ -1,6 +1,6 @@
 ---
-title: Charging weapons
-permalink: /Charging_weapons/
+title: "Charging weapons"
+permalink: "/Charging_weapons/"
 ---
 
 ## Charge

@@ -1,6 +1,6 @@
 ---
-title: Compare
-permalink: /Compare/
+title: "Compare"
+permalink: "/Compare/"
 ---
 
 Syntax: **compare** \<object\|number\> \<object\|number\>

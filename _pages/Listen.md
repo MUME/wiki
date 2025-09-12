@@ -1,6 +1,6 @@
 ---
-title: Listen
-permalink: /Listen/
+title: "Listen"
+permalink: "/Listen/"
 ---
 
 You can choose to receive 'tales' and 'songs' from other players.

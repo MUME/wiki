@@ -1,6 +1,6 @@
 ---
-title: Small tangle of roots
-permalink: /Small_tangle_of_roots/
+title: "Small tangle of roots"
+permalink: "/Small_tangle_of_roots/"
 ---
 
 **Small tangles of roots** are passive [level](level "wikilink") \<10

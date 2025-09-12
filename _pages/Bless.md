@@ -1,6 +1,6 @@
 ---
-title: Bless
-permalink: /Bless/
+title: "Bless"
+permalink: "/Bless/"
 ---
 
 <nowiki>g Syntax : cast 'bless' Type : Miscellaneous Accumulative: No

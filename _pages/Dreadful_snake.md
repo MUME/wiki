@@ -1,6 +1,6 @@
 ---
-title: Dreadful snake
-permalink: /Dreadful_snake/
+title: "Dreadful snake"
+permalink: "/Dreadful_snake/"
 ---
 
 \> A large brown snake with black patches is coiled here.

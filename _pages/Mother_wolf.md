@@ -1,6 +1,6 @@
 ---
-title: Mother wolf
-permalink: /Mother_wolf/
+title: "Mother wolf"
+permalink: "/Mother_wolf/"
 ---
 
 **Mother wolves** are aggressive [level](level "wikilink") ~7

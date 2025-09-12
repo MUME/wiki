@@ -1,6 +1,6 @@
 ---
-title: Pet
-permalink: /Pet/
+title: "Pet"
+permalink: "/Pet/"
 ---
 
 In certain towns and home areas one may purchase animals. A common

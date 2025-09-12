@@ -1,6 +1,6 @@
 ---
-title: Combat
-permalink: /Combat/
+title: "Combat"
+permalink: "/Combat/"
 ---
 
 `/----------------------------------------------------------------------------\`

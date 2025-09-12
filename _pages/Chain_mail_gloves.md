@@ -1,6 +1,6 @@
 ---
-title: Chain mail gloves
-permalink: /Chain_mail_gloves/
+title: "Chain mail gloves"
+permalink: "/Chain_mail_gloves/"
 ---
 
 `A pair of chain mail gloves are lying here.`

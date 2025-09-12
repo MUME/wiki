@@ -1,6 +1,6 @@
 ---
-title: Rules
-permalink: /Rules/
+title: "Rules"
+permalink: "/Rules/"
 ---
 
 1.  Redirect

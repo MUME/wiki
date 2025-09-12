@@ -1,6 +1,6 @@
 ---
-title: Black runed dagger
-permalink: /Black_runed_dagger/
+title: "Black runed dagger"
+permalink: "/Black_runed_dagger/"
 ---
 
 This piercing weapon can be wielded one-handed. It is good while

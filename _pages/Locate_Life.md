@@ -1,6 +1,6 @@
 ---
-title: Locate Life
-permalink: /Locate_Life/
+title: "Locate Life"
+permalink: "/Locate_Life/"
 ---
 
 <nowiki>g Syntax : cast 'locate life' Type : Long range Accumulative:

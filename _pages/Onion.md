@@ -1,6 +1,6 @@
 ---
-title: Onion
-permalink: /Onion/
+title: "Onion"
+permalink: "/Onion/"
 ---
 
 \> **look onion** The surface of this onion is coloured light brown.

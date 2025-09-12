@@ -1,6 +1,6 @@
 ---
-title: A rough wooden horn
-permalink: /A_rough_wooden_horn/
+title: "A rough wooden horn"
+permalink: "/A_rough_wooden_horn/"
 ---
 
 \> **examine horn**

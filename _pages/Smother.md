@@ -1,6 +1,6 @@
 ---
-title: Smother
-permalink: /Smother/
+title: "Smother"
+permalink: "/Smother/"
 ---
 
 <nowiki>g Syntax : cast 'smother' \[victim\] Type : Offensive, physical

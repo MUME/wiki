@@ -1,6 +1,6 @@
 ---
-title: Raft
-permalink: /Raft/
+title: "Raft"
+permalink: "/Raft/"
 ---
 
 **Rafts** are a common type of [boat](boat "wikilink"), often found near

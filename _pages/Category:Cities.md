@@ -1,6 +1,6 @@
 ---
-title: Category:Cities
-permalink: /Category:Cities/
+title: "Category:Cities"
+permalink: "/Category:Cities/"
 ---
 
 Cities in [MUME](MUME "wikilink").

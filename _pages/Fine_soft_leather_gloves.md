@@ -1,6 +1,6 @@
 ---
-title: Fine soft leather gloves
-permalink: /Fine_soft_leather_gloves/
+title: "Fine soft leather gloves"
+permalink: "/Fine_soft_leather_gloves/"
 ---
 
 CW\>**examine** gloves

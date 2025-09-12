@@ -1,6 +1,6 @@
 ---
-title: Small termite
-permalink: /Small_termite/
+title: "Small termite"
+permalink: "/Small_termite/"
 ---
 
 **Small termites** are aggressive [level](level "wikilink") ~1-2

@@ -1,6 +1,6 @@
 ---
-title: Store
-permalink: /Store/
+title: "Store"
+permalink: "/Store/"
 ---
 
 <nowiki>g Syntax : cast 'store' Type : Meta magic Accumulative: Special

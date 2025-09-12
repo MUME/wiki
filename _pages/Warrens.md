@@ -1,6 +1,6 @@
 ---
-title: Warrens
-permalink: /Warrens/
+title: "Warrens"
+permalink: "/Warrens/"
 ---
 
 1.  REDIRECT [Trollshaws](Trollshaws "wikilink")

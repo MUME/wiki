@@ -1,6 +1,6 @@
 ---
-title: Shire Scout Guild
-permalink: /Shire_Scout_Guild/
+title: "Shire Scout Guild"
+permalink: "/Shire_Scout_Guild/"
 ---
 
 A **well-travelled hobbit** teaches [scout](scout "wikilink")

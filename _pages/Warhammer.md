@@ -1,6 +1,6 @@
 ---
-title: Warhammer
-permalink: /Warhammer/
+title: "Warhammer"
+permalink: "/Warhammer/"
 ---
 
 \> **look hammer**

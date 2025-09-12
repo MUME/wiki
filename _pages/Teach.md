@@ -1,6 +1,6 @@
 ---
-title: Teach
-permalink: /Teach/
+title: "Teach"
+permalink: "/Teach/"
 ---
 
 1.  REDIRECT [Learn](Learn "wikilink")

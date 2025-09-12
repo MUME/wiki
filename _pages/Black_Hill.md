@@ -1,6 +1,6 @@
 ---
-title: Black Hill
-permalink: /Black_Hill/
+title: "Black Hill"
+permalink: "/Black_Hill/"
 ---
 
 **Black Hill** is a small village located in the [Tower

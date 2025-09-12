@@ -1,6 +1,6 @@
 ---
-title: Abbreviations
-permalink: /Abbreviations/
+title: "Abbreviations"
+permalink: "/Abbreviations/"
 ---
 
 <nowiki>g A : an Arata (a type of god) A+ : an Arata or higher (gods!)

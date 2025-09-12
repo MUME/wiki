@@ -1,6 +1,6 @@
 ---
-title: Chief thug
-permalink: /Chief_thug/
+title: "Chief thug"
+permalink: "/Chief_thug/"
 ---
 
 \> A large rough-looking man walks towards you, eyeing you critically.

@@ -1,6 +1,6 @@
 ---
-title: Elvish
-permalink: /Elvish/
+title: "Elvish"
+permalink: "/Elvish/"
 ---
 
 

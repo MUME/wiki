@@ -1,6 +1,6 @@
 ---
-title: Harlond Mage Guild
-permalink: /Harlond_Mage_Guild/
+title: "Harlond Mage Guild"
+permalink: "/Harlond_Mage_Guild/"
 ---
 
 **Malindon** teaches [mage](mage "wikilink") [spells](spells "wikilink")

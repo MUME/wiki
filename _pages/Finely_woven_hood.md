@@ -1,6 +1,6 @@
 ---
-title: Finely woven hood
-permalink: /Finely_woven_hood/
+title: "Finely woven hood"
+permalink: "/Finely_woven_hood/"
 ---
 
 The **finely woven hood** is a piece of cloth

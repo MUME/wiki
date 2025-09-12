@@ -1,6 +1,6 @@
 ---
-title: Pitchfork
-permalink: /Pitchfork/
+title: "Pitchfork"
+permalink: "/Pitchfork/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is awful while

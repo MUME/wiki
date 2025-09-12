@@ -1,6 +1,6 @@
 ---
-title: Category:Ammunition
-permalink: /Category:Ammunition/
+title: "Category:Ammunition"
+permalink: "/Category:Ammunition/"
 ---
 
 [Category: Equipment](Category:_Equipment "wikilink") [Category:

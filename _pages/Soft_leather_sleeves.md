@@ -1,6 +1,6 @@
 ---
-title: Soft leather sleeves
-permalink: /Soft_leather_sleeves/
+title: "Soft leather sleeves"
+permalink: "/Soft_leather_sleeves/"
 ---
 
 \> **look sleeves** These sleeves are made of soft leather, which will

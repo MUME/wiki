@@ -1,6 +1,6 @@
 ---
-title: Stabbing weapons
-permalink: /Stabbing_weapons/
+title: "Stabbing weapons"
+permalink: "/Stabbing_weapons/"
 ---
 
 ## Stabbing Weapons

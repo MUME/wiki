@@ -1,6 +1,6 @@
 ---
-title: Rules Spam
-permalink: /Rules_Spam/
+title: "Rules Spam"
+permalink: "/Rules_Spam/"
 ---
 
 Spamming is an abuse of communication commands since it fills other

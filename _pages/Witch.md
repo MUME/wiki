@@ -1,6 +1,6 @@
 ---
-title: Witch
-permalink: /Witch/
+title: "Witch"
+permalink: "/Witch/"
 ---
 
 The **witch** is a hostile level ? [mob](mob "wikilink") located in a

@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Campfires
-permalink: /Newbie_Guide_Campfires/
+title: "Newbie Guide Campfires"
+permalink: "/Newbie_Guide_Campfires/"
 ---
 
 **Guide Camping and Campfires in MUME**

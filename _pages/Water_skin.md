@@ -1,6 +1,6 @@
 ---
-title: Water skin
-permalink: /Water_skin/
+title: "Water skin"
+permalink: "/Water_skin/"
 ---
 
 \> **look skin**

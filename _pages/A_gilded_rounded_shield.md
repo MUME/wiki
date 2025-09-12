@@ -1,6 +1,6 @@
 ---
-title: A gilded rounded shield
-permalink: /A_gilded_rounded_shield/
+title: "A gilded rounded shield"
+permalink: "/A_gilded_rounded_shield/"
 ---
 
 Examine shield: It is made from a light metal, yet seems hard and

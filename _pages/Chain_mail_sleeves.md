@@ -1,6 +1,6 @@
 ---
-title: Chain mail sleeves
-permalink: /Chain_mail_sleeves/
+title: "Chain mail sleeves"
+permalink: "/Chain_mail_sleeves/"
 ---
 
 \> **look sleeves**

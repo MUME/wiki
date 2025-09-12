@@ -1,6 +1,6 @@
 ---
-title: A lance
-permalink: /A_lance/
+title: "A lance"
+permalink: "/A_lance/"
 ---
 
 1.  REDIRECT [Lance](Lance "wikilink")

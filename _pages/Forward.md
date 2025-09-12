@@ -1,6 +1,6 @@
 ---
-title: Forward
-permalink: /Forward/
+title: "Forward"
+permalink: "/Forward/"
 ---
 
 1.  REDIRECT [Mail](Mail "wikilink")

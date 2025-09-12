@@ -1,6 +1,6 @@
 ---
-title: Practice Penalty
-permalink: /Practice_Penalty/
+title: "Practice Penalty"
+permalink: "/Practice_Penalty/"
 ---
 
 Practicing skills from classes outside your main class will result in a

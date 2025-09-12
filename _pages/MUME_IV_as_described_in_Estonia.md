@@ -1,6 +1,6 @@
 ---
-title: MUME IV as described in Estonia
-permalink: /MUME_IV_as_described_in_Estonia/
+title: "MUME IV as described in Estonia"
+permalink: "/MUME_IV_as_described_in_Estonia/"
 ---
 
 ## .exe Magazine - Issue 5 - July 1994

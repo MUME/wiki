@@ -1,6 +1,6 @@
 ---
-title: Heavy shoes
-permalink: /Heavy_shoes/
+title: "Heavy shoes"
+permalink: "/Heavy_shoes/"
 ---
 
 \> **look shoes**

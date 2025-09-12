@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Leveling 1 to 12
-permalink: /Newbie_Guide_Leveling_1_to_12/
+title: "Newbie Guide Leveling 1 to 12"
+permalink: "/Newbie_Guide_Leveling_1_to_12/"
 ---
 
 Newbie Guide Leveling 1 to 12

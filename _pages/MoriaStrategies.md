@@ -1,6 +1,6 @@
 ---
-title: MoriaStrategies
-permalink: /MoriaStrategies/
+title: "MoriaStrategies"
+permalink: "/MoriaStrategies/"
 ---
 
 <spoiler>

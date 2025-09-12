@@ -1,6 +1,6 @@
 ---
-title: Cure Disease
-permalink: /Cure_Disease/
+title: "Cure Disease"
+permalink: "/Cure_Disease/"
 ---
 
 <nowiki>g Syntax : cast 'cure disease' Type : Healing Accumulative: N/A

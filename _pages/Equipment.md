@@ -1,6 +1,6 @@
 ---
-title: Equipment
-permalink: /Equipment/
+title: "Equipment"
+permalink: "/Equipment/"
 ---
 
 Edit up here please

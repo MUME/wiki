@@ -1,6 +1,6 @@
 ---
-title: Old Fornost
-permalink: /Old_Fornost/
+title: "Old Fornost"
+permalink: "/Old_Fornost/"
 ---
 
 **Old Fornost** is the western, ruined part of

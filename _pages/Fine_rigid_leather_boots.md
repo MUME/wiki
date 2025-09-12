@@ -1,6 +1,6 @@
 ---
-title: Fine rigid leather boots
-permalink: /Fine_rigid_leather_boots/
+title: "Fine rigid leather boots"
+permalink: "/Fine_rigid_leather_boots/"
 ---
 
 \> **look boots**

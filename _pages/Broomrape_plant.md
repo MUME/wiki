@@ -1,6 +1,6 @@
 ---
-title: Broomrape plant
-permalink: /Broomrape_plant/
+title: "Broomrape plant"
+permalink: "/Broomrape_plant/"
 ---
 
 **Broomrape plants** are aggressive, [evil](evil "wikilink")

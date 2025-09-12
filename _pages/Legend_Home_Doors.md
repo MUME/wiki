@@ -1,6 +1,6 @@
 ---
-title: Legend Home Doors
-permalink: /Legend_Home_Doors/
+title: "Legend Home Doors"
+permalink: "/Legend_Home_Doors/"
 ---
 
 When creating your legend home you will be able to decide certain

@@ -1,6 +1,6 @@
 ---
-title: Learn
-permalink: /Learn/
+title: "Learn"
+permalink: "/Learn/"
 ---
 
 It is possible to learn a skill from another player if:

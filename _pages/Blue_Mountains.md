@@ -1,6 +1,6 @@
 ---
-title: Blue Mountains
-permalink: /Blue_Mountains/
+title: "Blue Mountains"
+permalink: "/Blue_Mountains/"
 ---
 
 ## Blue Mountains

@@ -1,6 +1,6 @@
 ---
-title: Felids
-permalink: /Felids/
+title: "Felids"
+permalink: "/Felids/"
 ---
 
 Felids include members of the cat family found throughout Middle Earth.

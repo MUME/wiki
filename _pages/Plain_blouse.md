@@ -1,6 +1,6 @@
 ---
-title: Plain blouse
-permalink: /Plain_blouse/
+title: "Plain blouse"
+permalink: "/Plain_blouse/"
 ---
 
 \> **look blouse**

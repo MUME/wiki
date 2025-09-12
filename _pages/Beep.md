@@ -1,6 +1,6 @@
 ---
-title: Beep
-permalink: /Beep/
+title: "Beep"
+permalink: "/Beep/"
 ---
 
 The **beep** command lets you catch the attention of a player even if he

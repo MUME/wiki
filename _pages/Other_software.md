@@ -1,6 +1,6 @@
 ---
-title: Other software
-permalink: /Other_software/
+title: "Other software"
+permalink: "/Other_software/"
 ---
 
 # External Links

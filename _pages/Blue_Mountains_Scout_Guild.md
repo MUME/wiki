@@ -1,6 +1,6 @@
 ---
-title: Blue Mountains Scout Guild
-permalink: /Blue_Mountains_Scout_Guild/
+title: "Blue Mountains Scout Guild"
+permalink: "/Blue_Mountains_Scout_Guild/"
 ---
 
 **Vestri** teaches [scout](scout "wikilink") [skills](skill "wikilink")

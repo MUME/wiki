@@ -1,6 +1,6 @@
 ---
-title: Template:!
-permalink: /Template:!/
+title: "Template:!"
+permalink: "/Template:!/"
 ---
 
 \|<noinclude> </noinclude>

@@ -1,6 +1,6 @@
 ---
-title: Jail
-permalink: /Jail/
+title: "Jail"
+permalink: "/Jail/"
 ---
 
 In the well organized towns of the Free People of Arda, criminals are

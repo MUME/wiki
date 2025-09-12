@@ -1,6 +1,6 @@
 ---
-title: Thumbs
-permalink: /Thumbs/
+title: "Thumbs"
+permalink: "/Thumbs/"
 ---
 
 The thumbs command is like a normal social with a minor twist. You can

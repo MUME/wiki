@@ -1,6 +1,6 @@
 ---
-title: Brown fox
-permalink: /Brown_fox/
+title: "Brown fox"
+permalink: "/Brown_fox/"
 ---
 
 **Brown foxes** are passive [level](level "wikilink") ~1-2

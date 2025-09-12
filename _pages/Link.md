@@ -1,6 +1,6 @@
 ---
-title: Link
-permalink: /Link/
+title: "Link"
+permalink: "/Link/"
 ---
 
 'Link' is a command which shows information about your connection. It

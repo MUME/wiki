@@ -1,6 +1,6 @@
 ---
-title: Stiletto
-permalink: /Stiletto/
+title: "Stiletto"
+permalink: "/Stiletto/"
 ---
 
 \> **look stiletto**

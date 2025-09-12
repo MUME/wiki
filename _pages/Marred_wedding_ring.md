@@ -1,6 +1,6 @@
 ---
-title: Marred wedding ring
-permalink: /Marred_wedding_ring/
+title: "Marred wedding ring"
+permalink: "/Marred_wedding_ring/"
 ---
 
 The **marred wedding ring** is an [item](item "wikilink") needed for the

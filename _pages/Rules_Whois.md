@@ -1,6 +1,6 @@
 ---
-title: Rules Whois
-permalink: /Rules_Whois/
+title: "Rules Whois"
+permalink: "/Rules_Whois/"
 ---
 
 `* Your whois must NOT emulate any game output, or in any other way act as`

@@ -1,6 +1,6 @@
 ---
-title: Suggest
-permalink: /Suggest/
+title: "Suggest"
+permalink: "/Suggest/"
 ---
 
 Several functions can be reached through the **suggest** command;

@@ -1,6 +1,6 @@
 ---
-title: An azure scroll
-permalink: /An_azure_scroll/
+title: "An azure scroll"
+permalink: "/An_azure_scroll/"
 ---
 
 \> **examine azure**

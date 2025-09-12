@@ -1,6 +1,6 @@
 ---
-title: Black Numenorean
-permalink: /Black_Numenorean/
+title: "Black Numenorean"
+permalink: "/Black_Numenorean/"
 ---
 
 1.  1.  Redirect

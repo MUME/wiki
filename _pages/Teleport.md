@@ -1,6 +1,6 @@
 ---
-title: Teleport
-permalink: /Teleport/
+title: "Teleport"
+permalink: "/Teleport/"
 ---
 
 <nowiki>gSyntax : cast 'teleport' <location> Type : Long range

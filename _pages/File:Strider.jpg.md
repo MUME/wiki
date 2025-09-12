@@ -1,6 +1,6 @@
 ---
-title: File:Strider.jpg
-permalink: /File:Strider.jpg/
+title: "File:Strider.jpg"
+permalink: "/File:Strider.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

@@ -1,6 +1,6 @@
 ---
-title: Word of Recall
-permalink: /Word_of_Recall/
+title: "Word of Recall"
+permalink: "/Word_of_Recall/"
 ---
 
 **Word of Recall** is a level 11 [cleric](cleric "wikilink")

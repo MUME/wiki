@@ -1,6 +1,6 @@
 ---
-title: Giant fungus
-permalink: /Giant_fungus/
+title: "Giant fungus"
+permalink: "/Giant_fungus/"
 ---
 
 **Giant fungi** are passive [level](level "wikilink") \<10

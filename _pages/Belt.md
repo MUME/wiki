@@ -1,6 +1,6 @@
 ---
-title: Belt
-permalink: /Belt/
+title: "Belt"
+permalink: "/Belt/"
 ---
 
 [Category:Equipment](Category:Equipment "wikilink")

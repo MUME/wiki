@@ -1,6 +1,6 @@
 ---
-title: Pike
-permalink: /Pike/
+title: "Pike"
+permalink: "/Pike/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is average while

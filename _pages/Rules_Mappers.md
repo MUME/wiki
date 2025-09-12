@@ -1,6 +1,6 @@
 ---
-title: Rules Mappers
-permalink: /Rules_Mappers/
+title: "Rules Mappers"
+permalink: "/Rules_Mappers/"
 ---
 
 Please note that while mappers are legal to use on MUME, that does not

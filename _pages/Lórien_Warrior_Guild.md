@@ -1,6 +1,6 @@
 ---
-title: Lórien Warrior Guild
-permalink: /Lórien_Warrior_Guild/
+title: "Lórien Warrior Guild"
+permalink: "/Lórien_Warrior_Guild/"
 ---
 
 **Haldir** teaches [warrior](warrior "wikilink")

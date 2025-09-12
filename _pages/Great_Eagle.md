@@ -1,6 +1,6 @@
 ---
-title: Great Eagle
-permalink: /Great_Eagle/
+title: "Great Eagle"
+permalink: "/Great_Eagle/"
 ---
 
 Once a character creates a [focus](Focus "wikilink") item they have the

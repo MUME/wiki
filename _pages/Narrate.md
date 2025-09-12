@@ -1,6 +1,6 @@
 ---
-title: Narrate
-permalink: /Narrate/
+title: "Narrate"
+permalink: "/Narrate/"
 ---
 
 If you want to tell a tale to all the other players in the game, narrate

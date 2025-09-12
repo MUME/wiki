@@ -1,6 +1,6 @@
 ---
-title: Cleric
-permalink: /Cleric/
+title: "Cleric"
+permalink: "/Cleric/"
 ---
 
 The cleric is the more supportive spell caster. The spells of wisdom

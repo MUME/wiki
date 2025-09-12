@@ -1,6 +1,6 @@
 ---
-title: MUME:About
-permalink: /MUME:About/
+title: "MUME:About"
+permalink: "/MUME:About/"
 ---
 
 What is MUME?

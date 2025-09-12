@@ -1,6 +1,6 @@
 ---
-title: Very large wooden club
-permalink: /Very_large_wooden_club/
+title: "Very large wooden club"
+permalink: "/Very_large_wooden_club/"
 ---
 
 \> **look club**

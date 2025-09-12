@@ -1,6 +1,6 @@
 ---
-title: Minas Brethil Cleric Guild
-permalink: /Minas_Brethil_Cleric_Guild/
+title: "Minas Brethil Cleric Guild"
+permalink: "/Minas_Brethil_Cleric_Guild/"
 ---
 
 A **priest** teaches [cleric](cleric "wikilink")

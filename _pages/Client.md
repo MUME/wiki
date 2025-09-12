@@ -1,6 +1,6 @@
 ---
-title: Client
-permalink: /Client/
+title: "Client"
+permalink: "/Client/"
 ---
 
 You can connect to MUME using plain telnet. It should be already

@@ -1,6 +1,6 @@
 ---
-title: Ceramic cup
-permalink: /Ceramic_cup/
+title: "Ceramic cup"
+permalink: "/Ceramic_cup/"
 ---
 
 The **ceramic cup** is a [drink](Food_%26_Drink#Drink "wikilink")

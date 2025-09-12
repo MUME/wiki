@@ -1,6 +1,6 @@
 ---
-title: Lance
-permalink: /Lance/
+title: "Lance"
+permalink: "/Lance/"
 ---
 
 This charging weapon can be wielded one-handed. It is awful while

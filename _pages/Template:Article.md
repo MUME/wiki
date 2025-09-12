@@ -1,6 +1,6 @@
 ---
-title: Template:Article
-permalink: /Template:Article/
+title: "Template:Article"
+permalink: "/Template:Article/"
 ---
 
 <noinclude>

@@ -1,6 +1,6 @@
 ---
-title: Category:Stubs
-permalink: /Category:Stubs/
+title: "Category:Stubs"
+permalink: "/Category:Stubs/"
 ---
 
 This is a list of all articles with the {{stub}} tag.

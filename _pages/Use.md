@@ -1,6 +1,6 @@
 ---
-title: Use
-permalink: /Use/
+title: "Use"
+permalink: "/Use/"
 ---
 
 Syntax: **use** <Item> <Target>

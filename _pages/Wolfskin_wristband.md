@@ -1,6 +1,6 @@
 ---
-title: Wolfskin wristband
-permalink: /Wolfskin_wristband/
+title: "Wolfskin wristband"
+permalink: "/Wolfskin_wristband/"
 ---
 
 \> **look wristband**

@@ -1,6 +1,6 @@
 ---
-title: Scout Guide
-permalink: /Scout_Guide/
+title: "Scout Guide"
+permalink: "/Scout_Guide/"
 ---
 
 Credits: Originally By Locram

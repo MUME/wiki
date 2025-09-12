@@ -1,6 +1,6 @@
 ---
-title: Leadership
-permalink: /Leadership/
+title: "Leadership"
+permalink: "/Leadership/"
 ---
 
 ## LEADERSHIP

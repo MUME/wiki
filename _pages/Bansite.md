@@ -1,6 +1,6 @@
 ---
-title: Bansite
-permalink: /Bansite/
+title: "Bansite"
+permalink: "/Bansite/"
 ---
 
 The **bansite** command lists the currently banned sites. Players trying

@@ -1,5 +1,5 @@
 ---
-title: Category:Cloaks
-permalink: /Category:Cloaks/
+title: "Category:Cloaks"
+permalink: "/Category:Cloaks/"
 ---
 

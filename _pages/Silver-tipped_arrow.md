@@ -1,6 +1,6 @@
 ---
-title: Silver-tipped arrow
-permalink: /Silver-tipped_arrow/
+title: "Silver-tipped arrow"
+permalink: "/Silver-tipped_arrow/"
 ---
 
 Its accuracy is good, and it inflicts average damage upon hitting. It

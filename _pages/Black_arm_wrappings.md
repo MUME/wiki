@@ -1,6 +1,6 @@
 ---
-title: Black arm wrappings
-permalink: /Black_arm_wrappings/
+title: "Black arm wrappings"
+permalink: "/Black_arm_wrappings/"
 ---
 
 \> **examine wrappings**

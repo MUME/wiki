@@ -1,6 +1,6 @@
 ---
-title: Plain hood
-permalink: /Plain_hood/
+title: "Plain hood"
+permalink: "/Plain_hood/"
 ---
 
 \> **look hood**

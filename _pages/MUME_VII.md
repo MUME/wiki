@@ -1,6 +1,6 @@
 ---
-title: MUME VII
-permalink: /MUME_VII/
+title: "MUME VII"
+permalink: "/MUME_VII/"
 ---
 
 # MUME VII: Summary of Changes

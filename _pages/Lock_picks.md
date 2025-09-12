@@ -1,6 +1,6 @@
 ---
-title: Lock picks
-permalink: /Lock_picks/
+title: "Lock picks"
+permalink: "/Lock_picks/"
 ---
 
 Lockpicks <nowiki>gThere is a variety of tools, including slim, flat

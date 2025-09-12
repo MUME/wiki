@@ -1,6 +1,6 @@
 ---
-title: Weaponsmith
-permalink: /Weaponsmith/
+title: "Weaponsmith"
+permalink: "/Weaponsmith/"
 ---
 
 **Weaponsmiths** tend to the weapon shops in

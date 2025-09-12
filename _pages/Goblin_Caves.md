@@ -1,6 +1,6 @@
 ---
-title: Goblin Caves
-permalink: /Goblin_Caves/
+title: "Goblin Caves"
+permalink: "/Goblin_Caves/"
 ---
 
 Home of the [Tarkhnarb Orcs](Orc "wikilink"), in the [Misty

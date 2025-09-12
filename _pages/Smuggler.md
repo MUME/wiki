@@ -1,6 +1,6 @@
 ---
-title: Smuggler
-permalink: /Smuggler/
+title: "Smuggler"
+permalink: "/Smuggler/"
 ---
 
 **Smugglers** are aggressive level ? [mobiles](mobile "wikilink"), found

@@ -1,6 +1,6 @@
 ---
-title: Huge millipede
-permalink: /Huge_millipede/
+title: "Huge millipede"
+permalink: "/Huge_millipede/"
 ---
 
 **Huge millipedes** are aggressive, [evil](alignment "wikilink")

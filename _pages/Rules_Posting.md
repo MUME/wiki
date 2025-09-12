@@ -1,6 +1,6 @@
 ---
-title: Rules Posting
-permalink: /Rules_Posting/
+title: "Rules Posting"
+permalink: "/Rules_Posting/"
 ---
 
 These are very simple rules to follow on all mortal boards. If you fail

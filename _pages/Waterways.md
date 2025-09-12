@@ -1,6 +1,6 @@
 ---
-title: Waterways
-permalink: /Waterways/
+title: "Waterways"
+permalink: "/Waterways/"
 ---
 
 Arda has a number of rivers, streams and other bodies of water that can

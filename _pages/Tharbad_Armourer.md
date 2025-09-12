@@ -1,6 +1,6 @@
 ---
-title: Tharbad Armourer
-permalink: /Tharbad_Armourer/
+title: "Tharbad Armourer"
+permalink: "/Tharbad_Armourer/"
 ---
 
 An [armourer](armourer "wikilink") tends to the **Armoury** in

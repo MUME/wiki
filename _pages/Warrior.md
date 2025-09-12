@@ -1,6 +1,6 @@
 ---
-title: Warrior
-permalink: /Warrior/
+title: "Warrior"
+permalink: "/Warrior/"
 ---
 
 Warriors are known to have more strength than the average player. This

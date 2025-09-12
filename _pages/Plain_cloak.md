@@ -1,6 +1,6 @@
 ---
-title: Plain cloak
-permalink: /Plain_cloak/
+title: "Plain cloak"
+permalink: "/Plain_cloak/"
 ---
 
 \> **look cloak**

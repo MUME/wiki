@@ -1,6 +1,6 @@
 ---
-title: Reveal
-permalink: /Reveal/
+title: "Reveal"
+permalink: "/Reveal/"
 ---
 
 Syntax: reveal <object>, reveal <character>, reveal all or reveal

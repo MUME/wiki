@@ -1,6 +1,6 @@
 ---
-title: Tharbad Cleric Guild
-permalink: /Tharbad_Cleric_Guild/
+title: "Tharbad Cleric Guild"
+permalink: "/Tharbad_Cleric_Guild/"
 ---
 
 A **priest** teaches [cleric](cleric "wikilink")

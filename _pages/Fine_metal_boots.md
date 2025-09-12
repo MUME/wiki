@@ -1,6 +1,6 @@
 ---
-title: Fine metal boots
-permalink: /Fine_metal_boots/
+title: "Fine metal boots"
+permalink: "/Fine_metal_boots/"
 ---
 
 \> **look boots**

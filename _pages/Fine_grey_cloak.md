@@ -1,6 +1,6 @@
 ---
-title: Fine grey cloak
-permalink: /Fine_grey_cloak/
+title: "Fine grey cloak"
+permalink: "/Fine_grey_cloak/"
 ---
 
 ## Statistics

@@ -1,6 +1,6 @@
 ---
-title: Grey Havens
-permalink: /Grey_Havens/
+title: "Grey Havens"
+permalink: "/Grey_Havens/"
 ---
 
 ## Grey Havens

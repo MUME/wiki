@@ -1,6 +1,6 @@
 ---
-title: Recover
-permalink: /Recover/
+title: "Recover"
+permalink: "/Recover/"
 ---
 
 While wearing a quiver, a bolt case or a pouch for slingstones, you can

@@ -1,6 +1,6 @@
 ---
-title: Track
-permalink: /Track/
+title: "Track"
+permalink: "/Track/"
 ---
 
 ## Track

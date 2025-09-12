@@ -1,6 +1,6 @@
 ---
-title: A traveller's diary
-permalink: /A_traveller's_diary/
+title: "A traveller's diary"
+permalink: "/A_traveller's_diary/"
 ---
 
 \> **examine diary**

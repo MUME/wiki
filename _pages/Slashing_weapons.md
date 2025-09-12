@@ -1,6 +1,6 @@
 ---
-title: Slashing weapons
-permalink: /Slashing_weapons/
+title: "Slashing weapons"
+permalink: "/Slashing_weapons/"
 ---
 
 ## Slashing

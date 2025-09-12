@@ -1,6 +1,6 @@
 ---
-title: Ranger
-permalink: /Ranger/
+title: "Ranger"
+permalink: "/Ranger/"
 ---
 
 

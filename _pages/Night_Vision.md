@@ -1,6 +1,6 @@
 ---
-title: Night Vision
-permalink: /Night_Vision/
+title: "Night Vision"
+permalink: "/Night_Vision/"
 ---
 
 <nowiki>g Syntax : cast 'enchant' \[weapon\] Type : Miscellaneous

@@ -1,6 +1,6 @@
 ---
-title: Panic
-permalink: /Panic/
+title: "Panic"
+permalink: "/Panic/"
 ---
 
 If you flee out of combat (as opposed to making an ordered retreat via

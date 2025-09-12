@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Herblores
-permalink: /Newbie_Guide_Herblores/
+title: "Newbie Guide Herblores"
+permalink: "/Newbie_Guide_Herblores/"
 ---
 
 Newbie Guide Herblores

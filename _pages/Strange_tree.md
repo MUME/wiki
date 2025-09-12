@@ -1,6 +1,6 @@
 ---
-title: Strange tree
-permalink: /Strange_tree/
+title: "Strange tree"
+permalink: "/Strange_tree/"
 ---
 
 The **strange tree** is an [Ent](Ent "wikilink") living in

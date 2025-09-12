@@ -1,6 +1,6 @@
 ---
-title: Orc
-permalink: /Orc/
+title: "Orc"
+permalink: "/Orc/"
 ---
 
 Also known as Goblins, these foul creatures were created by Morgoth in

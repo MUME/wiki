@@ -1,6 +1,6 @@
 ---
-title: Wear
-permalink: /Wear/
+title: "Wear"
+permalink: "/Wear/"
 ---
 
 This command is used for wearing some clothes, armour or the like. If a

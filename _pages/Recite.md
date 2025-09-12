@@ -1,6 +1,6 @@
 ---
-title: Recite
-permalink: /Recite/
+title: "Recite"
+permalink: "/Recite/"
 ---
 
 Syntax: **recite** <scroll> \[recipient\]

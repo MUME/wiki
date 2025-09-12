@@ -1,6 +1,6 @@
 ---
-title: Mail
-permalink: /Mail/
+title: "Mail"
+permalink: "/Mail/"
 ---
 
 The mail system lets you send a message to one or more recipients. Mail

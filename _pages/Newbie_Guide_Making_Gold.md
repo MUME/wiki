@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide Making Gold
-permalink: /Newbie_Guide_Making_Gold/
+title: "Newbie Guide Making Gold"
+permalink: "/Newbie_Guide_Making_Gold/"
 ---
 
 **Guides Newbie Making Gold**

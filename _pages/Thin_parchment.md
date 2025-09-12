@@ -1,6 +1,6 @@
 ---
-title: Thin parchment
-permalink: /Thin_parchment/
+title: "Thin parchment"
+permalink: "/Thin_parchment/"
 ---
 
 The **thin parchment** can be [read](read "wikilink") to learn the

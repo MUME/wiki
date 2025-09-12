@@ -1,6 +1,6 @@
 ---
-title: Woollen traveller's cloak
-permalink: /Woollen_traveller's_cloak/
+title: "Woollen traveller's cloak"
+permalink: "/Woollen_traveller's_cloak/"
 ---
 
 The **woollen traveller's cloak** is a [cloak](cloak "wikilink"). It is

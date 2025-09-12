@@ -1,6 +1,6 @@
 ---
-title: Concussion weapons
-permalink: /Concussion_weapons/
+title: "Concussion weapons"
+permalink: "/Concussion_weapons/"
 ---
 
 ## Concussion

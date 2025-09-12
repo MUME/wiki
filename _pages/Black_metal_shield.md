@@ -1,6 +1,6 @@
 ---
-title: Black metal shield
-permalink: /Black_metal_shield/
+title: "Black metal shield"
+permalink: "/Black_metal_shield/"
 ---
 
 \> **look shield**

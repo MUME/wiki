@@ -1,6 +1,6 @@
 ---
-title: Burning Hands
-permalink: /Burning_Hands/
+title: "Burning Hands"
+permalink: "/Burning_Hands/"
 ---
 
 "BURNING HANDS"

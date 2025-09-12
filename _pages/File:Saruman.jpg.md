@@ -1,6 +1,6 @@
 ---
-title: File:Saruman.jpg
-permalink: /File:Saruman.jpg/
+title: "File:Saruman.jpg"
+permalink: "/File:Saruman.jpg/"
 ---
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of

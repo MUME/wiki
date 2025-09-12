@@ -1,6 +1,6 @@
 ---
-title: Rules Keyboard
-permalink: /Rules_Keyboard/
+title: "Rules Keyboard"
+permalink: "/Rules_Keyboard/"
 ---
 
 It is forbidden for more than one person to use the same keyboard at the

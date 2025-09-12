@@ -1,6 +1,6 @@
 ---
-title: Value
-permalink: /Value/
+title: "Value"
+permalink: "/Value/"
 ---
 
 Use these commands in shops. 'Buy' can also be used in

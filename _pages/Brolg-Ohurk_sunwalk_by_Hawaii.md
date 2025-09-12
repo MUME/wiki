@@ -1,6 +1,6 @@
 ---
-title: Brolg-Ohurk sunwalk by Hawaii
-permalink: /Brolg-Ohurk_sunwalk_by_Hawaii/
+title: "Brolg-Ohurk sunwalk by Hawaii"
+permalink: "/Brolg-Ohurk_sunwalk_by_Hawaii/"
 ---
 
 `Date: 27 apr 2008. `

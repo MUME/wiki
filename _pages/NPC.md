@@ -1,6 +1,6 @@
 ---
-title: NPC
-permalink: /NPC/
+title: "NPC"
+permalink: "/NPC/"
 ---
 
 Non playable Character, those who are controlled by the computer through

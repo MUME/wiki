@@ -1,6 +1,6 @@
 ---
-title: Rules Channels
-permalink: /Rules_Channels/
+title: "Rules Channels"
+permalink: "/Rules_Channels/"
 ---
 
 Each communication channel on MUME has a different purpose, please use

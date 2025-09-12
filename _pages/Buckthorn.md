@@ -1,6 +1,6 @@
 ---
-title: Buckthorn
-permalink: /Buckthorn/
+title: "Buckthorn"
+permalink: "/Buckthorn/"
 ---
 
 **Buckthorns** are aggressive, [evil](evil "wikilink")

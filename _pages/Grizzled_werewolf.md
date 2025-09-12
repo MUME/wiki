@@ -1,6 +1,6 @@
 ---
-title: Grizzled werewolf
-permalink: /Grizzled_werewolf/
+title: "Grizzled werewolf"
+permalink: "/Grizzled_werewolf/"
 ---
 
 \> An iron-grey wolf stands here, grizzled from countless hunts.

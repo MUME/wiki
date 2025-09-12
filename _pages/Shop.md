@@ -1,6 +1,6 @@
 ---
-title: Shop
-permalink: /Shop/
+title: "Shop"
+permalink: "/Shop/"
 ---
 
 Shops

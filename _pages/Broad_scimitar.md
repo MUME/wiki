@@ -1,6 +1,6 @@
 ---
-title: Broad scimitar
-permalink: /Broad_scimitar/
+title: "Broad scimitar"
+permalink: "/Broad_scimitar/"
 ---
 
 This slashing weapon can be wielded one-handed. It is average while

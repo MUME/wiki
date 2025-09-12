@@ -1,6 +1,6 @@
 ---
-title: Two-handed weapon
-permalink: /Two-handed_weapon/
+title: "Two-handed weapon"
+permalink: "/Two-handed_weapon/"
 ---
 
 **[Two-handed weapons](Two-handed_weapons "wikilink")** are one of the

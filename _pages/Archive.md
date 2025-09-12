@@ -1,6 +1,6 @@
 ---
-title: Archive
-permalink: /Archive/
+title: "Archive"
+permalink: "/Archive/"
 ---
 
 ## The Book of Lost Tales

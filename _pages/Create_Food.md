@@ -1,6 +1,6 @@
 ---
-title: Create Food
-permalink: /Create_Food/
+title: "Create Food"
+permalink: "/Create_Food/"
 ---
 
 **Create food** is a level 3 [cleric](cleric "wikilink")

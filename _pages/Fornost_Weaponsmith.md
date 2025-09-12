@@ -1,6 +1,6 @@
 ---
-title: Fornost Weaponsmith
-permalink: /Fornost_Weaponsmith/
+title: "Fornost Weaponsmith"
+permalink: "/Fornost_Weaponsmith/"
 ---
 
 \>**examine weaponsmith**

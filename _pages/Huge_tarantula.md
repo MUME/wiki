@@ -1,6 +1,6 @@
 ---
-title: Huge tarantula
-permalink: /Huge_tarantula/
+title: "Huge tarantula"
+permalink: "/Huge_tarantula/"
 ---
 
 **Huge tarantulas** are aggressive level ? [mobiles](mobile "wikilink"),

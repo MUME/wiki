@@ -1,6 +1,6 @@
 ---
-title: Rules Sauron
-permalink: /Rules_Sauron/
+title: "Rules Sauron"
+permalink: "/Rules_Sauron/"
 ---
 
 Sauron's list is a list of people acknowledged by Sauron as his

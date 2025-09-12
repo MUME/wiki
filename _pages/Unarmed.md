@@ -1,6 +1,6 @@
 ---
-title: Unarmed
-permalink: /Unarmed/
+title: "Unarmed"
+permalink: "/Unarmed/"
 ---
 
 ## Unarmed

@@ -1,6 +1,6 @@
 ---
-title: Warrior Guide
-permalink: /Warrior_Guide/
+title: "Warrior Guide"
+permalink: "/Warrior_Guide/"
 ---
 
 Credits: Originally by Argor

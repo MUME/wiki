@@ -1,6 +1,6 @@
 ---
-title: Giant rat
-permalink: /Giant_rat/
+title: "Giant rat"
+permalink: "/Giant_rat/"
 ---
 
 **Giant rats** are aggressive [level](level "wikilink") 2

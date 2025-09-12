@@ -1,6 +1,6 @@
 ---
-title: Template:Disambig
-permalink: /Template:Disambig/
+title: "Template:Disambig"
+permalink: "/Template:Disambig/"
 ---
 
 <div style="text-align: justify; margin: 1em; padding: 0.2em; border-top: 3px double #cccccc; border-bottom: 3px double #cccccc;">

@@ -1,6 +1,6 @@
 ---
-title: Ring of silver
-permalink: /Ring_of_silver/
+title: "Ring of silver"
+permalink: "/Ring_of_silver/"
 ---
 
 \> **look ring**

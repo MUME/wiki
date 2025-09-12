@@ -1,6 +1,6 @@
 ---
-title: Dagger
-permalink: /Dagger/
+title: "Dagger"
+permalink: "/Dagger/"
 ---
 
 \> **look dagger**

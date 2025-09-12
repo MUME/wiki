@@ -1,6 +1,6 @@
 ---
-title: Poison
-permalink: /Poison/
+title: "Poison"
+permalink: "/Poison/"
 ---
 
 <nowiki>g Syntax : cast 'poison' \[victim\] \[type of poison\] Type :

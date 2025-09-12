@@ -1,6 +1,6 @@
 ---
-title: Shiny dagger
-permalink: /Shiny_dagger/
+title: "Shiny dagger"
+permalink: "/Shiny_dagger/"
 ---
 
 \> **examine shiny**

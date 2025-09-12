@@ -1,6 +1,6 @@
 ---
-title: Dispel Magic
-permalink: /Dispel_Magic/
+title: "Dispel Magic"
+permalink: "/Dispel_Magic/"
 ---
 
 <nowiki>g Syntax : cast 'dispel magic' Type : Offensive, meta magic

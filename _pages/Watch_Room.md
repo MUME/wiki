@@ -1,6 +1,6 @@
 ---
-title: Watch Room
-permalink: /Watch_Room/
+title: "Watch Room"
+permalink: "/Watch_Room/"
 ---
 
 <nowiki>g Syntax : cast 'watch room' \[name\] Type : Long range

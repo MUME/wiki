@@ -1,6 +1,6 @@
 ---
-title: Spam
-permalink: /Spam/
+title: "Spam"
+permalink: "/Spam/"
 ---
 
 Usage: spam \[on\|off\]

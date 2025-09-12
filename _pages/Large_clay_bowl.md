@@ -1,6 +1,6 @@
 ---
-title: Large clay bowl
-permalink: /Large_clay_bowl/
+title: "Large clay bowl"
+permalink: "/Large_clay_bowl/"
 ---
 
 `A very large drinking bowl made of well-worn clay is here.`

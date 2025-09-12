@@ -1,6 +1,6 @@
 ---
-title: Races
-permalink: /Races/
+title: "Races"
+permalink: "/Races/"
 ---
 
 1.  Redirect [Race](Race "wikilink")

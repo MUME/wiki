@@ -1,6 +1,6 @@
 ---
-title: Suggest name
-permalink: /Suggest_name/
+title: "Suggest name"
+permalink: "/Suggest_name/"
 ---
 
 Syntax: **suggest** (a) **name** (for) (a) <gender> <race>

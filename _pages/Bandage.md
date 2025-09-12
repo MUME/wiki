@@ -1,6 +1,6 @@
 ---
-title: Bandage
-permalink: /Bandage/
+title: "Bandage"
+permalink: "/Bandage/"
 ---
 
 ## Bandage

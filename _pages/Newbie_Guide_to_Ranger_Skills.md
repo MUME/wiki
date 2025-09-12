@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide to Ranger Skills
-permalink: /Newbie_Guide_to_Ranger_Skills/
+title: "Newbie Guide to Ranger Skills"
+permalink: "/Newbie_Guide_to_Ranger_Skills/"
 ---
 
 Newbie Guide to Ranger Skills

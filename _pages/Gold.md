@@ -1,6 +1,6 @@
 ---
-title: Gold
-permalink: /Gold/
+title: "Gold"
+permalink: "/Gold/"
 ---
 
 One gold coin = twenty silver pennies = two thousand copper pennies.

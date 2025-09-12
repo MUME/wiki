@@ -1,6 +1,6 @@
 ---
-title: Cast
-permalink: /Cast/
+title: "Cast"
+permalink: "/Cast/"
 ---
 
 cast \[<effort>\] 'spell name' \[<parameters>\]

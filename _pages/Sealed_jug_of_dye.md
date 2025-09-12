@@ -1,6 +1,6 @@
 ---
-title: Sealed jug of dye
-permalink: /Sealed_jug_of_dye/
+title: "Sealed jug of dye"
+permalink: "/Sealed_jug_of_dye/"
 ---
 
 The **sealed jug of dye** is the [item](item "wikilink") required to

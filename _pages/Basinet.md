@@ -1,6 +1,6 @@
 ---
-title: Basinet
-permalink: /Basinet/
+title: "Basinet"
+permalink: "/Basinet/"
 ---
 
 \> **look basinet**

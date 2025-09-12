@@ -1,6 +1,6 @@
 ---
-title: Prompt
-permalink: /Prompt/
+title: "Prompt"
+permalink: "/Prompt/"
 ---
 
 This command must be followed by one of the arguments below for mortals:

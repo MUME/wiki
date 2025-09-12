@@ -1,6 +1,6 @@
 ---
-title: Month
-permalink: /Month/
+title: "Month"
+permalink: "/Month/"
 ---
 
 The names of the months in Westron and Sindarin are detailed below,

@@ -1,6 +1,6 @@
 ---
-title: Lore
-permalink: /Lore/
+title: "Lore"
+permalink: "/Lore/"
 ---
 
 # External Links

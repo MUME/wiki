@@ -1,6 +1,6 @@
 ---
-title: Escape
-permalink: /Escape/
+title: "Escape"
+permalink: "/Escape/"
 ---
 
 ## Escape

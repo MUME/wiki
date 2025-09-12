@@ -1,6 +1,6 @@
 ---
-title: Lockpicks
-permalink: /Lockpicks/
+title: "Lockpicks"
+permalink: "/Lockpicks/"
 ---
 
 Lockpicks can be bought from locksmiths and from somewhat more shady

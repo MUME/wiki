@@ -1,6 +1,6 @@
 ---
-title: Reborn
-permalink: /Reborn/
+title: "Reborn"
+permalink: "/Reborn/"
 ---
 
 Trolls who sundie can choose whether to have their

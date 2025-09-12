@@ -1,6 +1,6 @@
 ---
-title: Good races
-permalink: /Good_races/
+title: "Good races"
+permalink: "/Good_races/"
 ---
 
 The good races are the Free Peoples of Arda. They consist of:

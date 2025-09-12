@@ -1,6 +1,6 @@
 ---
-title: Bolt
-permalink: /Bolt/
+title: "Bolt"
+permalink: "/Bolt/"
 ---
 
 Its accuracy is poor, and it inflicts little damage upon hitting. It

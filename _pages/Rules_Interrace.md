@@ -1,6 +1,6 @@
 ---
-title: Rules Interrace
-permalink: /Rules_Interrace/
+title: "Rules Interrace"
+permalink: "/Rules_Interrace/"
 ---
 
 MUME characters belong either to the good races;

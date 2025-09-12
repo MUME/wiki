@@ -1,6 +1,6 @@
 ---
-title: Stained dark shirt
-permalink: /Stained_dark_shirt/
+title: "Stained dark shirt"
+permalink: "/Stained_dark_shirt/"
 ---
 
 \> **look shirt**

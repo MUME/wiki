@@ -1,6 +1,6 @@
 ---
-title: Tell
-permalink: /Tell/
+title: "Tell"
+permalink: "/Tell/"
 ---
 
 If you consider communicating with other beings, you might be understood

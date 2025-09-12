@@ -1,6 +1,6 @@
 ---
-title: Day
-permalink: /Day/
+title: "Day"
+permalink: "/Day/"
 ---
 
 Day names: <nowiki>g

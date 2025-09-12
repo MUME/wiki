@@ -1,6 +1,6 @@
 ---
-title: Rivendell Warrior Guild
-permalink: /Rivendell_Warrior_Guild/
+title: "Rivendell Warrior Guild"
+permalink: "/Rivendell_Warrior_Guild/"
 ---
 
 An **elven knight** teaches [warrior](warrior "wikilink")

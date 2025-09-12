@@ -1,6 +1,6 @@
 ---
-title: Breath of Briskness
-permalink: /Breath_of_Briskness/
+title: "Breath of Briskness"
+permalink: "/Breath_of_Briskness/"
 ---
 
 **Breath of Briskness** is a level 10 [cleric](cleric "wikilink")

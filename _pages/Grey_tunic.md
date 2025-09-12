@@ -1,6 +1,6 @@
 ---
-title: Grey tunic
-permalink: /Grey_tunic/
+title: "Grey tunic"
+permalink: "/Grey_tunic/"
 ---
 
 \> **examine tunic**

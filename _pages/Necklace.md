@@ -1,6 +1,6 @@
 ---
-title: Necklace
-permalink: /Necklace/
+title: "Necklace"
+permalink: "/Necklace/"
 ---
 
 1.  REDIRECT [Neck](Neck "wikilink")

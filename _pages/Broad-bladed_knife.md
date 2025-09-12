@@ -1,6 +1,6 @@
 ---
-title: Broad-bladed knife
-permalink: /Broad-bladed_knife/
+title: "Broad-bladed knife"
+permalink: "/Broad-bladed_knife/"
 ---
 
 This slashing weapon can be wielded one-handed. It is awful while

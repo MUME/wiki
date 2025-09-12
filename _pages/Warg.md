@@ -1,6 +1,6 @@
 ---
-title: Warg
-permalink: /Warg/
+title: "Warg"
+permalink: "/Warg/"
 ---
 
 Wargs are large evil semi-intelligent wolf-hounds. They are probably

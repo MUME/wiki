@@ -1,6 +1,6 @@
 ---
-title: Rules Robot
-permalink: /Rules_Robot/
+title: "Rules Robot"
+permalink: "/Rules_Robot/"
 ---
 
 Setting up scripts which act as ROBOTS are forbidden. You may not log

@@ -1,6 +1,6 @@
 ---
-title: Follow
-permalink: /Follow/
+title: "Follow"
+permalink: "/Follow/"
 ---
 
 Makes you follow a person, so whenever he or she leaves a room, you

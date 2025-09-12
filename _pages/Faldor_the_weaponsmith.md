@@ -1,6 +1,6 @@
 ---
-title: Faldor the weaponsmith
-permalink: /Faldor_the_weaponsmith/
+title: "Faldor the weaponsmith"
+permalink: "/Faldor_the_weaponsmith/"
 ---
 
 **Faldor the weaponsmith** tends to **Faldor's Fine Weapons** in

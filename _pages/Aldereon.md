@@ -1,6 +1,6 @@
 ---
-title: Aldereon
-permalink: /Aldereon/
+title: "Aldereon"
+permalink: "/Aldereon/"
 ---
 
 **Aldereon** is a powerful elf living in an elven village east of [Grey

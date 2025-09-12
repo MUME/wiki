@@ -1,6 +1,6 @@
 ---
-title: Pint
-permalink: /Pint/
+title: "Pint"
+permalink: "/Pint/"
 ---
 
 \> **look at pint**

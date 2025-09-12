@@ -1,6 +1,6 @@
 ---
-title: Very heavy branch
-permalink: /Very_heavy_branch/
+title: "Very heavy branch"
+permalink: "/Very_heavy_branch/"
 ---
 
 It is a very heavy branch. This crushing weapon can be wielded

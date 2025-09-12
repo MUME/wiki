@@ -1,6 +1,6 @@
 ---
-title: The gleaming broadsword
-permalink: /The_gleaming_broadsword/
+title: "The gleaming broadsword"
+permalink: "/The_gleaming_broadsword/"
 ---
 
 [Category: Weapons](Category:_Weapons "wikilink")

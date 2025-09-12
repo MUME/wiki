@@ -1,6 +1,6 @@
 ---
-title: Rabbit fur shoes
-permalink: /Rabbit_fur_shoes/
+title: "Rabbit fur shoes"
+permalink: "/Rabbit_fur_shoes/"
 ---
 
 \> **look shoes**

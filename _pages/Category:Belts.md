@@ -1,5 +1,5 @@
 ---
-title: Category:Belts
-permalink: /Category:Belts/
+title: "Category:Belts"
+permalink: "/Category:Belts/"
 ---
 

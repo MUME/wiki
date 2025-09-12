@@ -1,6 +1,6 @@
 ---
-title: Plain leather belt
-permalink: /Plain_leather_belt/
+title: "Plain leather belt"
+permalink: "/Plain_leather_belt/"
 ---
 
 \> **look belt**

@@ -1,6 +1,6 @@
 ---
-title: Sturdy soft leather gloves
-permalink: /Sturdy_soft_leather_gloves/
+title: "Sturdy soft leather gloves"
+permalink: "/Sturdy_soft_leather_gloves/"
 ---
 
 \> **look gloves**

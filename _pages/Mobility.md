@@ -1,6 +1,6 @@
 ---
-title: Mobility
-permalink: /Mobility/
+title: "Mobility"
+permalink: "/Mobility/"
 ---
 
 Mobility is the ability of a character to move without tiring and having

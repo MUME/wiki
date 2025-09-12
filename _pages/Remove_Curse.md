@@ -1,6 +1,6 @@
 ---
-title: Remove Curse
-permalink: /Remove_Curse/
+title: "Remove Curse"
+permalink: "/Remove_Curse/"
 ---
 
 <nowiki>g Syntax : cast 'remove curse' Type : Healing Accumulative: N/A

@@ -1,6 +1,6 @@
 ---
-title: Statistic
-permalink: /Statistic/
+title: "Statistic"
+permalink: "/Statistic/"
 ---
 
 "Statistics" are a set of numbers that describes your character.

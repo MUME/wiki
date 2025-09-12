@@ -1,6 +1,6 @@
 ---
-title: Slate blue shirt
-permalink: /Slate_blue_shirt/
+title: "Slate blue shirt"
+permalink: "/Slate_blue_shirt/"
 ---
 
 \> **look shirt**

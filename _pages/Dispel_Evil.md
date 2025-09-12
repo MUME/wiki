@@ -1,6 +1,6 @@
 ---
-title: Dispel Evil
-permalink: /Dispel_Evil/
+title: "Dispel Evil"
+permalink: "/Dispel_Evil/"
 ---
 
 **Dispel Evil** is a level 12 [cleric](cleric "wikilink")

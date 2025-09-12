@@ -1,6 +1,6 @@
 ---
-title: Roleplay
-permalink: /Roleplay/
+title: "Roleplay"
+permalink: "/Roleplay/"
 ---
 
 "Roleplaying" means attempting to play your character as if he/she were

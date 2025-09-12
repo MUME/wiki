@@ -1,6 +1,6 @@
 ---
-title: Fellowship
-permalink: /Fellowship/
+title: "Fellowship"
+permalink: "/Fellowship/"
 ---
 
 1.  REDIRECT

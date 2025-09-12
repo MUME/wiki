@@ -1,6 +1,6 @@
 ---
-title: Rules Names
-permalink: /Rules_Names/
+title: "Rules Names"
+permalink: "/Rules_Names/"
 ---
 
 MUME's management strongly encourages in-game role-play, though we do

@@ -1,6 +1,6 @@
 ---
-title: Dark wraith
-permalink: /Dark_wraith/
+title: "Dark wraith"
+permalink: "/Dark_wraith/"
 ---
 
 \> **look wraith**

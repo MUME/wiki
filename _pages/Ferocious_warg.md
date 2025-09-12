@@ -1,6 +1,6 @@
 ---
-title: Ferocious warg
-permalink: /Ferocious_warg/
+title: "Ferocious warg"
+permalink: "/Ferocious_warg/"
 ---
 
 ## Description

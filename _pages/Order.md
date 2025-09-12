@@ -1,6 +1,6 @@
 ---
-title: Order
-permalink: /Order/
+title: "Order"
+permalink: "/Order/"
 ---
 
 To order a pet or a charmed person to do something. Example:

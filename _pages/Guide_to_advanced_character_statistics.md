@@ -1,6 +1,6 @@
 ---
-title: Guide to advanced character statistics
-permalink: /Guide_to_advanced_character_statistics/
+title: "Guide to advanced character statistics"
+permalink: "/Guide_to_advanced_character_statistics/"
 ---
 
 **Introduction**

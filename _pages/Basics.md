@@ -1,6 +1,6 @@
 ---
-title: Basics
-permalink: /Basics/
+title: "Basics"
+permalink: "/Basics/"
 ---
 
 1.  Redirect

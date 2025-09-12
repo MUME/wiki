@@ -1,6 +1,6 @@
 ---
-title: Small biscuit of cram
-permalink: /Small_biscuit_of_cram/
+title: "Small biscuit of cram"
+permalink: "/Small_biscuit_of_cram/"
 ---
 
 \> **look cram**

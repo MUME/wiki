@@ -1,6 +1,6 @@
 ---
-title: Thief (mobile)
-permalink: /Thief_(mobile)/
+title: "Thief (mobile)"
+permalink: "/Thief_(mobile)/"
 ---
 
 **Thieves** are passive level ? [mobiles](mobile "wikilink"), found in

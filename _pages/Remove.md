@@ -1,6 +1,6 @@
 ---
-title: Remove
-permalink: /Remove/
+title: "Remove"
+permalink: "/Remove/"
 ---
 
 To remove equipment you are wearing, wielding or holding.

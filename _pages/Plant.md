@@ -1,6 +1,6 @@
 ---
-title: Plant
-permalink: /Plant/
+title: "Plant"
+permalink: "/Plant/"
 ---
 
 *This article is about a type of mobile. For other plants, see

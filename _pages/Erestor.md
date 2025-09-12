@@ -1,6 +1,6 @@
 ---
-title: Erestor
-permalink: /Erestor/
+title: "Erestor"
+permalink: "/Erestor/"
 ---
 
 **Erestor** teaches [mage](mage "wikilink") [spells](spell "wikilink")

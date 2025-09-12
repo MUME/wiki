@@ -1,6 +1,6 @@
 ---
-title: Coach
-permalink: /Coach/
+title: "Coach"
+permalink: "/Coach/"
 ---
 
 Coaches are a fairly safe, comfortable means of transportation between

@@ -1,6 +1,6 @@
 ---
-title: Draw
-permalink: /Draw/
+title: "Draw"
+permalink: "/Draw/"
 ---
 
 Walking about a town with your weapon drawn might draw unwanted

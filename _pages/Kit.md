@@ -1,6 +1,6 @@
 ---
-title: Kit
-permalink: /Kit/
+title: "Kit"
+permalink: "/Kit/"
 ---
 
 Newbie kits consist of helpful items for young adventurers just starting

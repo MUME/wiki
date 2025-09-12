@@ -1,6 +1,6 @@
 ---
-title: Sturdy soft leather trousers
-permalink: /Sturdy_soft_leather_trousers/
+title: "Sturdy soft leather trousers"
+permalink: "/Sturdy_soft_leather_trousers/"
 ---
 
 \> **look trousers**

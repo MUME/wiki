@@ -1,6 +1,6 @@
 ---
-title: Straw hat
-permalink: /Straw_hat/
+title: "Straw hat"
+permalink: "/Straw_hat/"
 ---
 
 \> **look hat**

@@ -1,6 +1,6 @@
 ---
-title: Giant green fungus
-permalink: /Giant_green_fungus/
+title: "Giant green fungus"
+permalink: "/Giant_green_fungus/"
 ---
 
 **Giant green fungi** are aggressive, [evil](alignment "wikilink")

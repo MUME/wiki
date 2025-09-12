@@ -1,6 +1,6 @@
 ---
-title: Log
-permalink: /Log/
+title: "Log"
+permalink: "/Log/"
 ---
 
 # External Links

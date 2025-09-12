@@ -1,6 +1,6 @@
 ---
-title: Dúnadan Soldier
-permalink: /Dúnadan_Soldier/
+title: "Dúnadan Soldier"
+permalink: "/Dúnadan_Soldier/"
 ---
 
 \>**examine soldier**

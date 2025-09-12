@@ -1,6 +1,6 @@
 ---
-title: Wimpy
-permalink: /Wimpy/
+title: "Wimpy"
+permalink: "/Wimpy/"
 ---
 
 Usage: CHANGE WIMPY <value>

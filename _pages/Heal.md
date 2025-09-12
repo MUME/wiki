@@ -1,6 +1,6 @@
 ---
-title: Heal
-permalink: /Heal/
+title: "Heal"
+permalink: "/Heal/"
 ---
 
 **Heal** is a level 14 [cleric](cleric "wikilink")

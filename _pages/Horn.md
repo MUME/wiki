@@ -1,6 +1,6 @@
 ---
-title: Horn
-permalink: /Horn/
+title: "Horn"
+permalink: "/Horn/"
 ---
 
 \> **look horn**

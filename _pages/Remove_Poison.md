@@ -1,6 +1,6 @@
 ---
-title: Remove Poison
-permalink: /Remove_Poison/
+title: "Remove Poison"
+permalink: "/Remove_Poison/"
 ---
 
 **Remove poison** is a level 9 [cleric](cleric "wikilink")

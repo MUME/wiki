@@ -1,6 +1,6 @@
 ---
-title: Apple
-permalink: /Apple/
+title: "Apple"
+permalink: "/Apple/"
 ---
 
 \> **look apple**

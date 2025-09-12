@@ -1,6 +1,6 @@
 ---
-title: Cooking
-permalink: /Cooking/
+title: "Cooking"
+permalink: "/Cooking/"
 ---
 
 Most meat found in the wild will be raw. It is possible to increase both

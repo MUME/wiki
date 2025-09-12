@@ -1,6 +1,6 @@
 ---
-title: Black metal wristband
-permalink: /Black_metal_wristband/
+title: "Black metal wristband"
+permalink: "/Black_metal_wristband/"
 ---
 
 \> **examine wristband**

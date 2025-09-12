@@ -1,6 +1,6 @@
 ---
-title: Wield
-permalink: /Wield/
+title: "Wield"
+permalink: "/Wield/"
 ---
 
 When you get tired of bashing monsters with your fists, you might

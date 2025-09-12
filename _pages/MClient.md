@@ -1,6 +1,6 @@
 ---
-title: MClient
-permalink: /MClient/
+title: "MClient"
+permalink: "/MClient/"
 ---
 
 mClient strives to be a modern, fully functional, and highly portable

@@ -1,6 +1,6 @@
 ---
-title: Mana
-permalink: /Mana/
+title: "Mana"
+permalink: "/Mana/"
 ---
 
 Mana is a character's capability of casting [spells](spells "wikilink"),

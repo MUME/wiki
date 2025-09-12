@@ -1,6 +1,6 @@
 ---
-title: Zaugurz orcs
-permalink: /Zaugurz_orcs/
+title: "Zaugurz orcs"
+permalink: "/Zaugurz_orcs/"
 ---
 
 1.  REDIRECT [Zaugurz orc](Zaugurz_orc "wikilink")

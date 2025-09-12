@@ -1,6 +1,6 @@
 ---
-title: Aman
-permalink: /Aman/
+title: "Aman"
+permalink: "/Aman/"
 ---
 
 Aman ("Blessed Realm" or "Free from Evil" in Quenya, pron. \[ˈaman\]) is

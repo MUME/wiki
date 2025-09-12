@@ -1,6 +1,6 @@
 ---
-title: Lynx pelt
-permalink: /Lynx_pelt/
+title: "Lynx pelt"
+permalink: "/Lynx_pelt/"
 ---
 
 \> **examine pelt**

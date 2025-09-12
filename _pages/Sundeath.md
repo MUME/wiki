@@ -1,6 +1,6 @@
 ---
-title: Sundeath
-permalink: /Sundeath/
+title: "Sundeath"
+permalink: "/Sundeath/"
 ---
 
 Trolls can be instantly killed by the sun. Trolls sundie:

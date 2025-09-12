@@ -1,6 +1,6 @@
 ---
-title: Key
-permalink: /Key/
+title: "Key"
+permalink: "/Key/"
 ---
 
 **Keys** are [items](item "wikilink") that can be used to

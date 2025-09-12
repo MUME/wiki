@@ -1,6 +1,6 @@
 ---
-title: MUME VIII
-permalink: /MUME_VIII/
+title: "MUME VIII"
+permalink: "/MUME_VIII/"
 ---
 
 MUME VIII Summary

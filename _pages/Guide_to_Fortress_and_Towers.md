@@ -1,6 +1,6 @@
 ---
-title: Guide to Fortress and Towers
-permalink: /Guide_to_Fortress_and_Towers/
+title: "Guide to Fortress and Towers"
+permalink: "/Guide_to_Fortress_and_Towers/"
 ---
 
 **Guide to Fortress and Towers**

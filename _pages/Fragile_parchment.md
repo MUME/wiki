@@ -1,6 +1,6 @@
 ---
-title: Fragile parchment
-permalink: /Fragile_parchment/
+title: "Fragile parchment"
+permalink: "/Fragile_parchment/"
 ---
 
 ## Statistics

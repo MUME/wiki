@@ -1,6 +1,6 @@
 ---
-title: Legend
-permalink: /Legend/
+title: "Legend"
+permalink: "/Legend/"
 ---
 
 Upon achieving level 21, MUME characters are deemed

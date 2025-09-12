@@ -1,6 +1,6 @@
 ---
-title: A necklace
-permalink: /A_necklace/
+title: "A necklace"
+permalink: "/A_necklace/"
 ---
 
 ## Statistics

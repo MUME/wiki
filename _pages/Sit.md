@@ -1,6 +1,6 @@
 ---
-title: Sit
-permalink: /Sit/
+title: "Sit"
+permalink: "/Sit/"
 ---
 
 For changing your position. If you feel weary, it's probably a good idea

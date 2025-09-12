@@ -1,6 +1,6 @@
 ---
-title: Cleaving weapon
-permalink: /Cleaving_weapon/
+title: "Cleaving weapon"
+permalink: "/Cleaving_weapon/"
 ---
 
 # Offensive

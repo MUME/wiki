@@ -1,6 +1,6 @@
 ---
-title: Steel-tipped spear
-permalink: /Steel-tipped_spear/
+title: "Steel-tipped spear"
+permalink: "/Steel-tipped_spear/"
 ---
 
 This stabbing weapon can be wielded one-handed. It is average while

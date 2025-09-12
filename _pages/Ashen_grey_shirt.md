@@ -1,6 +1,6 @@
 ---
-title: Ashen grey shirt
-permalink: /Ashen_grey_shirt/
+title: "Ashen grey shirt"
+permalink: "/Ashen_grey_shirt/"
 ---
 
 \> **look shirt**

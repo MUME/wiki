@@ -1,6 +1,6 @@
 ---
-title: Sheathe
-permalink: /Sheathe/
+title: "Sheathe"
+permalink: "/Sheathe/"
 ---
 
 1.  REDIRECT [Draw](Draw "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Portal
-permalink: /Portal/
+title: "Portal"
+permalink: "/Portal/"
 ---
 
 **Portal** is a [mage](mage "wikilink") [spell](spell "wikilink") with

@@ -1,6 +1,6 @@
 ---
-title: Sneak
-permalink: /Sneak/
+title: "Sneak"
+permalink: "/Sneak/"
 ---
 
 ## Sneak

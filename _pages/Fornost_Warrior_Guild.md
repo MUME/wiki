@@ -1,6 +1,6 @@
 ---
-title: Fornost Warrior Guild
-permalink: /Fornost_Warrior_Guild/
+title: "Fornost Warrior Guild"
+permalink: "/Fornost_Warrior_Guild/"
 ---
 
 **Huor of Dor-lómin** teaches at the **Guild of Warriors** in

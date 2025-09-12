@@ -1,6 +1,6 @@
 ---
-title: Autoexit
-permalink: /Autoexit/
+title: "Autoexit"
+permalink: "/Autoexit/"
 ---
 
 \[Toggle Command\]

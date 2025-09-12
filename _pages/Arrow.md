@@ -1,6 +1,6 @@
 ---
-title: Arrow
-permalink: /Arrow/
+title: "Arrow"
+permalink: "/Arrow/"
 ---
 
 Its accuracy is awful, and it inflicts very little damage upon hitting.

@@ -1,6 +1,6 @@
 ---
-title: Troll guide
-permalink: /Troll_guide/
+title: "Troll guide"
+permalink: "/Troll_guide/"
 ---
 
 test

@@ -1,6 +1,6 @@
 ---
-title: Ingrove Scout Guild
-permalink: /Ingrove_Scout_Guild/
+title: "Ingrove Scout Guild"
+permalink: "/Ingrove_Scout_Guild/"
 ---
 
 **Katerine** teaches [scout](thief "wikilink")

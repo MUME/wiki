@@ -1,6 +1,6 @@
 ---
-title: Flip
-permalink: /Flip/
+title: "Flip"
+permalink: "/Flip/"
 ---
 
 If you feel particularly happy, you can flip head over heels, or flip

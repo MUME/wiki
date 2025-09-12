@@ -1,6 +1,6 @@
 ---
-title: Ignore
-permalink: /Ignore/
+title: "Ignore"
+permalink: "/Ignore/"
 ---
 
 The ignore command blocks the output of up to 20 other players. If you

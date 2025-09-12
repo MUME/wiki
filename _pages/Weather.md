@@ -1,6 +1,6 @@
 ---
-title: Weather
-permalink: /Weather/
+title: "Weather"
+permalink: "/Weather/"
 ---
 
 Syntax: weather {local\|global\|fog}

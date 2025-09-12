@@ -1,6 +1,6 @@
 ---
-title: Bowl of gruel
-permalink: /Bowl_of_gruel/
+title: "Bowl of gruel"
+permalink: "/Bowl_of_gruel/"
 ---
 
 \> **look gruel**

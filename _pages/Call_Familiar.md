@@ -1,6 +1,6 @@
 ---
-title: Call Familiar
-permalink: /Call_Familiar/
+title: "Call Familiar"
+permalink: "/Call_Familiar/"
 ---
 
 <nowiki>g Syntax : cast 'call familiar' Type : Miscellaneous

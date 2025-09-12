@@ -1,6 +1,6 @@
 ---
-title: Older In Game Maps
-permalink: /Older_In_Game_Maps/
+title: "Older In Game Maps"
+permalink: "/Older_In_Game_Maps/"
 ---
 
 There are a few earlier in Game maps that are floating around.

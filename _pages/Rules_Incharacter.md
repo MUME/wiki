@@ -1,6 +1,6 @@
 ---
-title: Rules Incharacter
-permalink: /Rules_Incharacter/
+title: "Rules Incharacter"
+permalink: "/Rules_Incharacter/"
 ---
 
 Posting on the In-Character boards should be strictly as the name

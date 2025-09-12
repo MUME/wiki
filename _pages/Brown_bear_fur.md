@@ -1,6 +1,6 @@
 ---
-title: Brown bear fur
-permalink: /Brown_bear_fur/
+title: "Brown bear fur"
+permalink: "/Brown_bear_fur/"
 ---
 
 \> **look fur**

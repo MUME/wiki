@@ -1,6 +1,6 @@
 ---
-title: Give
-permalink: /Give/
+title: "Give"
+permalink: "/Give/"
 ---
 
 The **give** command transfers objects between characters and

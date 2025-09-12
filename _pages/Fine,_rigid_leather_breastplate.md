@@ -1,6 +1,6 @@
 ---
-title: Fine, rigid leather breastplate
-permalink: /Fine,_rigid_leather_breastplate/
+title: "Fine, rigid leather breastplate"
+permalink: "/Fine,_rigid_leather_breastplate/"
 ---
 
 \> **look breastplate**

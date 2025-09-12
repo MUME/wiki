@@ -1,6 +1,6 @@
 ---
-title: Jeraton
-permalink: /Jeraton/
+title: "Jeraton"
+permalink: "/Jeraton/"
 ---
 
 **Jeraton** is a woodcutter living in a small village southwest of

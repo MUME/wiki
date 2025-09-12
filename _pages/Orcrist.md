@@ -1,6 +1,6 @@
 ---
-title: Orcrist
-permalink: /Orcrist/
+title: "Orcrist"
+permalink: "/Orcrist/"
 ---
 
 1.  redirect [The slender Elven

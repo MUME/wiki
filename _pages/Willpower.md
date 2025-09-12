@@ -1,6 +1,6 @@
 ---
-title: Willpower
-permalink: /Willpower/
+title: "Willpower"
+permalink: "/Willpower/"
 ---
 
 1.  REDIRECT [Statistic](Statistic "wikilink")

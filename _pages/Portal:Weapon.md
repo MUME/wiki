@@ -1,6 +1,6 @@
 ---
-title: Portal:Weapon
-permalink: /Portal:Weapon/
+title: "Portal:Weapon"
+permalink: "/Portal:Weapon/"
 ---
 
 1.  REDIRECT [Weapon](Weapon "wikilink")

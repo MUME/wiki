@@ -1,6 +1,6 @@
 ---
-title: Bug
-permalink: /Bug/
+title: "Bug"
+permalink: "/Bug/"
 ---
 
 **Bug**, **idea**, **typo** and **report** are commands for making

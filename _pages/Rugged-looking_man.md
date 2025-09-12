@@ -1,6 +1,6 @@
 ---
-title: Rugged-looking man
-permalink: /Rugged-looking_man/
+title: "Rugged-looking man"
+permalink: "/Rugged-looking_man/"
 ---
 
 \>**look man**

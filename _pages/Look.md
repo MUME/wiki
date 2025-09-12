@@ -1,6 +1,6 @@
 ---
-title: Look
-permalink: /Look/
+title: "Look"
+permalink: "/Look/"
 ---
 
 For studying your surroundings or looking at items, creatures etc.

@@ -1,6 +1,6 @@
 ---
-title: Knock
-permalink: /Knock/
+title: "Knock"
+permalink: "/Knock/"
 ---
 
 Syntax: knock <doorname> \[direction\]

@@ -1,6 +1,6 @@
 ---
-title: Create Water
-permalink: /Create_Water/
+title: "Create Water"
+permalink: "/Create_Water/"
 ---
 
 **Create water** is a level 2 [cleric](cleric "wikilink")

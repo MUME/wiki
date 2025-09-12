@@ -1,6 +1,6 @@
 ---
-title: Rules Ainur
-permalink: /Rules_Ainur/
+title: "Rules Ainur"
+permalink: "/Rules_Ainur/"
 ---
 
 1\. Ainur should be visible if they are handing out punishments.

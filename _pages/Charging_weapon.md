@@ -1,6 +1,6 @@
 ---
-title: Charging weapon
-permalink: /Charging_weapon/
+title: "Charging weapon"
+permalink: "/Charging_weapon/"
 ---
 
 ## steel-tipped lance

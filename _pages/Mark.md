@@ -1,6 +1,6 @@
 ---
-title: Mark
-permalink: /Mark/
+title: "Mark"
+permalink: "/Mark/"
 ---
 
 This command can be used to mark a message on a bulletin board that you

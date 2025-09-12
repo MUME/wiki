@@ -1,6 +1,6 @@
 ---
-title: Shocking Grasp
-permalink: /Shocking_Grasp/
+title: "Shocking Grasp"
+permalink: "/Shocking_Grasp/"
 ---
 
 <nowiki>g Syntax : cast 'shocking grasp' \[victim\] Type : Offensive,

@@ -1,6 +1,6 @@
 ---
-title: Hunting knife
-permalink: /Hunting_knife/
+title: "Hunting knife"
+permalink: "/Hunting_knife/"
 ---
 
 \> **look knife**

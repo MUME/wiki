@@ -1,6 +1,6 @@
 ---
-title: State
-permalink: /State/
+title: "State"
+permalink: "/State/"
 ---
 
 Item damage has internally been represented with two values Item state,

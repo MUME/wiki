@@ -1,6 +1,6 @@
 ---
-title: Blue crystal
-permalink: /Blue_crystal/
+title: "Blue crystal"
+permalink: "/Blue_crystal/"
 ---
 
 The **blue crystal** is an [item](item "wikilink") use for creating

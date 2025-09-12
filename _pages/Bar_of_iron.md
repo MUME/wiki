@@ -1,6 +1,6 @@
 ---
-title: Bar of iron
-permalink: /Bar_of_iron/
+title: "Bar of iron"
+permalink: "/Bar_of_iron/"
 ---
 
 `A wide bar of iron, coated in black dust, lies here. `

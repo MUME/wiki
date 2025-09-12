@@ -1,6 +1,6 @@
 ---
-title: Tower Hills Scout Guild
-permalink: /Tower_Hills_Scout_Guild/
+title: "Tower Hills Scout Guild"
+permalink: "/Tower_Hills_Scout_Guild/"
 ---
 
 An **accomplished hunter** teaches [scout](thief "wikilink")

@@ -1,6 +1,6 @@
 ---
-title: Sturdy leather helmet
-permalink: /Sturdy_leather_helmet/
+title: "Sturdy leather helmet"
+permalink: "/Sturdy_leather_helmet/"
 ---
 
 \> **look helmet**

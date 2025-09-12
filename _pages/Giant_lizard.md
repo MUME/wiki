@@ -1,6 +1,6 @@
 ---
-title: Giant lizard
-permalink: /Giant_lizard/
+title: "Giant lizard"
+permalink: "/Giant_lizard/"
 ---
 
 \> **look lizard**

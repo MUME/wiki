@@ -1,5 +1,5 @@
 ---
-title: Parrying bonus
-permalink: /Parrying_bonus/
+title: "Parrying bonus"
+permalink: "/Parrying_bonus/"
 ---
 

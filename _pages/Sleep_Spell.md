@@ -1,6 +1,6 @@
 ---
-title: Sleep Spell
-permalink: /Sleep_Spell/
+title: "Sleep Spell"
+permalink: "/Sleep_Spell/"
 ---
 
 **Sleep** is a level 14 [mage](mage "wikilink")

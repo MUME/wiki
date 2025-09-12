@@ -1,6 +1,6 @@
 ---
-title: Ash arrow
-permalink: /Ash_arrow/
+title: "Ash arrow"
+permalink: "/Ash_arrow/"
 ---
 
 Its accuracy is poor, and it inflicts very little damage upon hitting.

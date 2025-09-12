@@ -1,6 +1,6 @@
 ---
-title: Fornost Armourer
-permalink: /Fornost_Armourer/
+title: "Fornost Armourer"
+permalink: "/Fornost_Armourer/"
 ---
 
 \>**examine armourer**

@@ -1,6 +1,6 @@
 ---
-title: Lightning Bolt
-permalink: /Lightning_Bolt/
+title: "Lightning Bolt"
+permalink: "/Lightning_Bolt/"
 ---
 
 <nowiki>g Syntax : cast 'lightning bolt' \[victim\] Type : Offensive,

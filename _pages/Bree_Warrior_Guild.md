@@ -1,6 +1,6 @@
 ---
-title: Bree Warrior Guild
-permalink: /Bree_Warrior_Guild/
+title: "Bree Warrior Guild"
+permalink: "/Bree_Warrior_Guild/"
 ---
 
 **Gathrain** teaches [warrior](warrior "wikilink")

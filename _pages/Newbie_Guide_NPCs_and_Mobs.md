@@ -1,6 +1,6 @@
 ---
-title: Newbie Guide NPCs and Mobs
-permalink: /Newbie_Guide_NPCs_and_Mobs/
+title: "Newbie Guide NPCs and Mobs"
+permalink: "/Newbie_Guide_NPCs_and_Mobs/"
 ---
 
 Newbie Guide NPCs and Mobs

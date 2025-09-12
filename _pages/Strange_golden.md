@@ -1,6 +1,6 @@
 ---
-title: Strange golden
-permalink: /Strange_golden/
+title: "Strange golden"
+permalink: "/Strange_golden/"
 ---
 
 ## Statistics

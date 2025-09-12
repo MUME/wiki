@@ -1,6 +1,6 @@
 ---
-title: Whisper
-permalink: /Whisper/
+title: "Whisper"
+permalink: "/Whisper/"
 ---
 
 If you consider communicating with other beings, you might be understood

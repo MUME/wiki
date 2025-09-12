@@ -1,6 +1,6 @@
 ---
-title: Template:Stub
-permalink: /Template:Stub/
+title: "Template:Stub"
+permalink: "/Template:Stub/"
 ---
 
 

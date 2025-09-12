@@ -1,5 +1,5 @@
 ---
-title: Category:Arms items
-permalink: /Category:Arms_items/
+title: "Category:Arms items"
+permalink: "/Category:Arms_items/"
 ---
 

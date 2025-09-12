@@ -1,6 +1,6 @@
 ---
-title: Cure Blindness
-permalink: /Cure_Blindness/
+title: "Cure Blindness"
+permalink: "/Cure_Blindness/"
 ---
 
 **Cure Blindness** is a level 4 [cleric](cleric "wikilink")

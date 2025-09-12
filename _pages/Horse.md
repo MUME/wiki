@@ -1,6 +1,6 @@
 ---
-title: Horse
-permalink: /Horse/
+title: "Horse"
+permalink: "/Horse/"
 ---
 
 **Horses** are [rideable](ride "wikilink") [level](level "wikilink") ?

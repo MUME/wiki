@@ -1,6 +1,6 @@
 ---
-title: Names
-permalink: /Names/
+title: "Names"
+permalink: "/Names/"
 ---
 
 MUME's management strongly encourages in-game role-play, though we do

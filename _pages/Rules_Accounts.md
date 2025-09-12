@@ -1,6 +1,6 @@
 ---
-title: Rules Accounts
-permalink: /Rules_Accounts/
+title: "Rules Accounts"
+permalink: "/Rules_Accounts/"
 ---
 
 1\. Players can only have _ONE_ account.

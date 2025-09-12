@@ -1,6 +1,6 @@
 ---
-title: Metal buckler
-permalink: /Metal_buckler/
+title: "Metal buckler"
+permalink: "/Metal_buckler/"
 ---
 
 The **metal buckler** is a small [shield](shield "wikilink") that can be

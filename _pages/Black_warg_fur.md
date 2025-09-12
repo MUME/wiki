@@ -1,6 +1,6 @@
 ---
-title: Black warg fur
-permalink: /Black_warg_fur/
+title: "Black warg fur"
+permalink: "/Black_warg_fur/"
 ---
 
 ## Statistics

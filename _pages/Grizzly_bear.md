@@ -1,6 +1,6 @@
 ---
-title: Grizzly bear
-permalink: /Grizzly_bear/
+title: "Grizzly bear"
+permalink: "/Grizzly_bear/"
 ---
 
 \> **look bear**

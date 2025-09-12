@@ -1,6 +1,6 @@
 ---
-title: Armour
-permalink: /Armour/
+title: "Armour"
+permalink: "/Armour/"
 ---
 
 **MUME Armours**

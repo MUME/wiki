@@ -1,6 +1,6 @@
 ---
-title: Istari
-permalink: /Istari/
+title: "Istari"
+permalink: "/Istari/"
 ---
 
 When the power of Sauron began to grow again in the Third Age, five

@@ -1,6 +1,6 @@
 ---
-title: XP
-permalink: /XP/
+title: "XP"
+permalink: "/XP/"
 ---
 
 Whenever you kill a monster or a player, you earn experience points.

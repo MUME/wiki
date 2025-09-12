@@ -1,6 +1,6 @@
 ---
-title: File:Middle-earth.png
-permalink: /File:Middle-earth.png/
+title: "File:Middle-earth.png"
+permalink: "/File:Middle-earth.png/"
 ---
 
 A map of the western part of Middle-earth. It is itself an unauthorized

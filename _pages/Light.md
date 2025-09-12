@@ -1,6 +1,6 @@
 ---
-title: Light
-permalink: /Light/
+title: "Light"
+permalink: "/Light/"
 ---
 
 **Light** and **snuff** are commands that can be used to turn on and off

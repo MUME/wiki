@@ -1,6 +1,6 @@
 ---
-title: Steel-tipped lance
-permalink: /Steel-tipped_lance/
+title: "Steel-tipped lance"
+permalink: "/Steel-tipped_lance/"
 ---
 
 This charging weapon can be wielded one-handed. It is poor while

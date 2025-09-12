@@ -1,6 +1,6 @@
 ---
-title: Experienced smuggler
-permalink: /Experienced_smuggler/
+title: "Experienced smuggler"
+permalink: "/Experienced_smuggler/"
 ---
 
 Experienced **smugglers** are aggressive level ? [mobs](mob "wikilink")

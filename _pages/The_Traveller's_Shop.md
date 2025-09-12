@@ -1,6 +1,6 @@
 ---
-title: The Traveller's Shop
-permalink: /The_Traveller's_Shop/
+title: "The Traveller's Shop"
+permalink: "/The_Traveller's_Shop/"
 ---
 
 The **grocer** tends to the **Traveller's Shop** in

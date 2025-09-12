@@ -1,6 +1,6 @@
 ---
-title: Dirk
-permalink: /Dirk/
+title: "Dirk"
+permalink: "/Dirk/"
 ---
 
 \> **look dirk**

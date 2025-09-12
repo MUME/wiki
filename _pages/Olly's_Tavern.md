@@ -1,6 +1,6 @@
 ---
-title: Olly's Tavern
-permalink: /Olly's_Tavern/
+title: "Olly's Tavern"
+permalink: "/Olly's_Tavern/"
 ---
 
 ## About Olly's Tavern

@@ -1,6 +1,6 @@
 ---
-title: Rules Character Separation
-permalink: /Rules_Character_Separation/
+title: "Rules Character Separation"
+permalink: "/Rules_Character_Separation/"
 ---
 
 1\. Character [separation](Rules_Separation "wikilink"):

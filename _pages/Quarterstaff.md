@@ -1,6 +1,6 @@
 ---
-title: Quarterstaff
-permalink: /Quarterstaff/
+title: "Quarterstaff"
+permalink: "/Quarterstaff/"
 ---
 
 \> **look staff**

@@ -1,6 +1,6 @@
 ---
-title: Rules PK
-permalink: /Rules_PK/
+title: "Rules PK"
+permalink: "/Rules_PK/"
 ---
 
 1\. Player killing between the good and evil races is allowed on MUME.

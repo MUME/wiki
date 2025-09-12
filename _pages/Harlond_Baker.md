@@ -1,6 +1,6 @@
 ---
-title: Harlond Baker
-permalink: /Harlond_Baker/
+title: "Harlond Baker"
+permalink: "/Harlond_Baker/"
 ---
 
 The **elven baker** tends to the **Bakery** in

@@ -1,6 +1,6 @@
 ---
-title: Curse
-permalink: /Curse/
+title: "Curse"
+permalink: "/Curse/"
 ---
 
 <nowiki>g

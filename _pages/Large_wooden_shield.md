@@ -1,6 +1,6 @@
 ---
-title: Large wooden shield
-permalink: /Large_wooden_shield/
+title: "Large wooden shield"
+permalink: "/Large_wooden_shield/"
 ---
 
 \> **look shield**

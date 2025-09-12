@@ -1,6 +1,6 @@
 ---
-title: Cover
-permalink: /Cover/
+title: "Cover"
+permalink: "/Cover/"
 ---
 
 **Cover** is a command used to temporarily block the light from a light

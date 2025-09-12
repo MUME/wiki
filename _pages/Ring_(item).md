@@ -1,6 +1,6 @@
 ---
-title: Ring (item)
-permalink: /Ring_(item)/
+title: "Ring (item)"
+permalink: "/Ring_(item)/"
 ---
 
 \> **look ring**

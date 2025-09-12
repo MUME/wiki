@@ -1,6 +1,6 @@
 ---
-title: Score
-permalink: /Score/
+title: "Score"
+permalink: "/Score/"
 ---
 
 This command will show you basic information about the health of your

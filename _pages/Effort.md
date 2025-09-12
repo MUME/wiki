@@ -1,6 +1,6 @@
 ---
-title: Effort
-permalink: /Effort/
+title: "Effort"
+permalink: "/Effort/"
 ---
 
 Used in [hide](hide "wikilink"), [search](search "wikilink"),

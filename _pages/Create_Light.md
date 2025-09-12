@@ -1,6 +1,6 @@
 ---
-title: Create Light
-permalink: /Create_Light/
+title: "Create Light"
+permalink: "/Create_Light/"
 ---
 
 <nowiki>g Syntax : cast 'create light' Type : Miscellaneous

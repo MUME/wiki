@@ -1,6 +1,6 @@
 ---
-title: Parry
-permalink: /Parry/
+title: "Parry"
+permalink: "/Parry/"
 ---
 
 ## Parry

@@ -1,6 +1,6 @@
 ---
-title: Idle
-permalink: /Idle/
+title: "Idle"
+permalink: "/Idle/"
 ---
 
 When a player has been away from the game for a long enough time they

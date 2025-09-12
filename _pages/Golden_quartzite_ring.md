@@ -1,6 +1,6 @@
 ---
-title: Golden quartzite ring
-permalink: /Golden_quartzite_ring/
+title: "Golden quartzite ring"
+permalink: "/Golden_quartzite_ring/"
 ---
 
 This plain ring is made of gold. The band has been tarnished lightly by

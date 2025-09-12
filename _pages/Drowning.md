@@ -1,6 +1,6 @@
 ---
-title: Drowning
-permalink: /Drowning/
+title: "Drowning"
+permalink: "/Drowning/"
 ---
 
 If you are trying to swim on a body of water, and you become too tired

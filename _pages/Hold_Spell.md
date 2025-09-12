@@ -1,6 +1,6 @@
 ---
-title: Hold Spell
-permalink: /Hold_Spell/
+title: "Hold Spell"
+permalink: "/Hold_Spell/"
 ---
 
 <nowiki>g Syntax : cast 'hold' Type : Offensive, mental Accumulative: No

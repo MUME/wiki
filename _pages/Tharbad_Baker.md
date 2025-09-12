@@ -1,6 +1,6 @@
 ---
-title: Tharbad Baker
-permalink: /Tharbad_Baker/
+title: "Tharbad Baker"
+permalink: "/Tharbad_Baker/"
 ---
 
 A [baker](baker "wikilink") tends to the **Bakery** in

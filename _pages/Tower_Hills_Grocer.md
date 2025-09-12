@@ -1,6 +1,6 @@
 ---
-title: Tower Hills Grocer
-permalink: /Tower_Hills_Grocer/
+title: "Tower Hills Grocer"
+permalink: "/Tower_Hills_Grocer/"
 ---
 
 A [grocer](grocer "wikilink") tends to the **Traveller's Shop** in

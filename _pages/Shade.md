@@ -1,6 +1,6 @@
 ---
-title: Shade
-permalink: /Shade/
+title: "Shade"
+permalink: "/Shade/"
 ---
 
 **Shades** are aggressive level ? [mobs](mob "wikilink"). They are

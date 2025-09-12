@@ -1,6 +1,6 @@
 ---
-title: Stone club
-permalink: /Stone_club/
+title: "Stone club"
+permalink: "/Stone_club/"
 ---
 
 It is a stone club. This crushing weapon can be wielded one-handed. It

@@ -1,6 +1,6 @@
 ---
-title: Woodsman's axe
-permalink: /Woodsman's_axe/
+title: "Woodsman's axe"
+permalink: "/Woodsman's_axe/"
 ---
 
 This cleaving weapon can be wielded one-handed. It is average while

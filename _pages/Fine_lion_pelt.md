@@ -1,6 +1,6 @@
 ---
-title: Fine lion pelt
-permalink: /Fine_lion_pelt/
+title: "Fine lion pelt"
+permalink: "/Fine_lion_pelt/"
 ---
 
 \> **look pelt**
