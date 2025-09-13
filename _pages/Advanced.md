@@ -1,7 +1,7 @@
 ---
 title: Advanced
+tags: ["Help_files"]
 ---
-
 This text lists some **advanced** commands and terms, mainly for players
 who have already played other muds, and want to skip some of the basic
 help text. However, since many [MUME](MUME "wikilink") characteristics
@@ -76,5 +76,3 @@ See also: [Newbie](Newbie "wikilink"), [Basics](Basics "wikilink"),
 [FAQ3](FAQ3 "wikilink"), [FAQ4](FAQ4 "wikilink"),
 [FAQ5](FAQ5 "wikilink"), [Features](Features "wikilink"),
 [Rules](Rules "wikilink")
-
-[Category:Help_files](Category:Help_files "wikilink")

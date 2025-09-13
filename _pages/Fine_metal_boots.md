@@ -1,7 +1,7 @@
 ---
 title: Fine metal boots
+tags: ["Metal equipment", "Feet items"]
 ---
-
 \> **look boots**
 
 Made from thick metal these boots offer great protection, yet are quite
@@ -19,6 +19,3 @@ They are a fine pair of metal boots.
 They weigh six pounds.
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

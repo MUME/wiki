@@ -1,7 +1,7 @@
 ---
 title: Feet
+tags: ["Equipment"]
 ---
-
 A list of equipment worn on the **feet**.
 
 # Metal
@@ -33,5 +33,4 @@ A list of equipment worn on the **feet**.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Feet_items "wikilink")

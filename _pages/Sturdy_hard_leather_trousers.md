@@ -1,7 +1,7 @@
 ---
 title: Sturdy hard leather trousers
+tags: ["Leather equipment", "Legs items"]
 ---
-
 \> **look trousers**
 
 The thigh and shin guards of these trousers-come-greaves have been
@@ -20,6 +20,3 @@ They are a sturdy pair of hard leather trousers.
 They weigh five pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

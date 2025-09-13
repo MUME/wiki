@@ -1,7 +1,7 @@
 ---
 title: Metal greaves
+tags: ["Metal equipment", "Legs items"]
 ---
-
 **Metal greaves** are worn on the [legs](legs "wikilink"). They provide
 a large amount of damage absorption and slightly decrease [dodge
 bonus](dodge_bonus "wikilink"). They are worth around 6
@@ -19,6 +19,3 @@ bonus](dodge_bonus "wikilink"). They are worth around 6
 `They weigh thirteen pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Legs items](Category:_Legs_items "wikilink")

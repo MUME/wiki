@@ -1,7 +1,7 @@
 ---
 title: Belt
+tags: ["Equipment"]
 ---
-
 All **belts** in [MUME](MUME "wikilink") have the same amount of space,
 and don't affect armour absorption. They are most useful for hanging
 items on, such as a [water skin](water_skin "wikilink") or
@@ -27,5 +27,4 @@ therefore everything you might carry on it.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Belts "wikilink")

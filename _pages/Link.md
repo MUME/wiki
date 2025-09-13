@@ -1,7 +1,7 @@
 ---
 title: Link
+tags: ["Help files"]
 ---
-
 **Link** is a command which shows information about your connection. It
 will show round-trip time (best guess), and what options are active on
 your connection.
@@ -48,5 +48,3 @@ delay considerably longer.
 See also: [Internet](Internet "wikilink"), [Rent](Rent "wikilink"),
 [Quit](Quit "wikilink"), [Noquit](Noquit "wikilink"),
 [Novoid](Novoid "wikilink"), [Linkdrop](Linkdrop "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

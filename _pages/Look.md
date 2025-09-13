@@ -1,7 +1,7 @@
 ---
 title: Look
+tags: ["Help files", "Basics", "Commands"]
 ---
-
 **Look** is a command for studying your surroundings or looking at
 items, creatures etc.
 
@@ -26,7 +26,3 @@ Important: 'look at [corpse](corpse "wikilink")' will not show the
 light or smoke.
 
 See Also: [Read](Read "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Basics](Category:Basics "wikilink")
-[Category:Commands](Category:Commands "wikilink")

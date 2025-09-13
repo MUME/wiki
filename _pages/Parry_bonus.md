@@ -1,7 +1,7 @@
 ---
 title: Parry bonus
+tags: ["Statistics"]
 ---
-
 The **parry bonus** (PB%) is a defensive bonus. It is similar to your
 [dodge bonus](dodge_bonus "wikilink") (DB%). There are some notable
 differences though.
@@ -28,5 +28,3 @@ weapons](concussion_weapon "wikilink"), and
 [spears](stabbing_weapon "wikilink") will provide moderate bonuses, and
 [two-handed weapons](two-handed_weapon "wikilink") will provide the
 least parry bonus.
-
-[Category: Statistics](Category:_Statistics "wikilink")

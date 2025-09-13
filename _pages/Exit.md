@@ -1,7 +1,7 @@
 ---
 title: Exit
+tags: ["Commands", "Help files"]
 ---
-
 The "**exits**" command shows information about the currently visible
 exits out of your [room](room "wikilink"). Note that some exits may be
 hidden and will require you to use your wits to discover them.
@@ -38,6 +38,4 @@ leading through a broken door.
 The autoexits mode will show information like this:
 
 ` Exits: =(north)=, east, [west].`
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

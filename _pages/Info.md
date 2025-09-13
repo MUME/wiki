@@ -1,7 +1,7 @@
 ---
 title: Info
+tags: ["Help_files", "Commands"]
 ---
-
 The **info** command will give you large amounts of information about
 your character. If you want only limited information
 [score](score "wikilink") or [stat](stat "wikilink") is much better
@@ -13,6 +13,3 @@ information see '[Info Format](Info_Format "wikilink")'
 
 see also: [Score](Score "wikilink"), [Stat](Stat "wikilink"),
 [Reroll](Reroll "wikilink")
-
-[Category:Help_files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

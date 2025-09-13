@@ -1,7 +1,7 @@
 ---
 title: Shout
+tags: ["Help files", "Commands"]
 ---
-
 The **shout** command can be used to give a message to everyone in the
 game, regardless of whether they want to hear it or not. This should be
 a very rarely used command, and abuse of it will probably lead to many
@@ -26,6 +26,3 @@ Example:
 See also: [Tell](Tell "wikilink"), [Yell](Yell "wikilink"),
 [Narrate](Narrate "wikilink"), [Sing](Sing "wikilink"),
 [Pray](Pray "wikilink"), [Ignore](Ignore "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

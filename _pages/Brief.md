@@ -1,7 +1,7 @@
 ---
 title: Brief
+tags: ["Help files"]
 ---
-
 Usage: [change](change "wikilink") **brief** \[on\|off\]
 
 Toggle "brief mode". When in brief mode, you don't see the descriptions
@@ -24,5 +24,3 @@ they aren't speaking the same language as you and that you know the
 language being spoken well enough.
 
 See also: [Compact](Compact "wikilink"), [Spam](Spam "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,5 @@
 ---
 title: Category:Containers
+tags: ["Equipment"]
 ---
-
 {% include Items.md %}
-
-[Category: Equipment](Category:_Equipment "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Lórien Cleric Guild
+tags: ["Guildmasters"]
 ---
-
 **Anarwen** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at the **Woodland Shrine** in
 [Lothlórien](Lothlórien "wikilink"), just northwest of Caras Galadhon.
@@ -45,5 +45,3 @@ The guild is open from 8am to 6pm.
 [`Summon`](Summon "wikilink")`                      10  Hard`
 [`Transfer`](Transfer "wikilink")`                    14  Very hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              10  Very hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

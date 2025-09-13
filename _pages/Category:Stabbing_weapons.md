@@ -1,7 +1,5 @@
 ---
 title: Category:Stabbing weapons
+tags: ["Weapons"]
 ---
-
 {% include Items.md %}
-
-[Category: Weapons](Category:_Weapons "wikilink")

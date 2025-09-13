@@ -1,7 +1,7 @@
 ---
 title: Red ruby
+tags: ["Neck items", "Miscellaneous equipment"]
 ---
-
 The **red ruby** can be worn around the [neck](neck "wikilink") or on a
 [belt](belt "wikilink"). It functions as a light source that does not
 require fuel. Red rubies can be bought at jeweller's for around 52
@@ -20,7 +20,3 @@ require fuel. Red rubies can be bought at jeweller's for around 52
 `It weighs a few ounces.`
 
 {% include Items.md %}
-
-[Category:Neck items](Category:Neck_items "wikilink")
-[Category:Miscellaneous
-equipment](Category:Miscellaneous_equipment "wikilink")

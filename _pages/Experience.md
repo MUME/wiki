@@ -1,7 +1,7 @@
 ---
 title: Experience
+tags: ["Help files"]
 ---
-
 Whenever you kill a monster or a player, you earn experience points.
 When enough experience and [travel points](travel_points "wikilink") are
 earned, you'll gain a [level](level "wikilink"). You can see how much is
@@ -30,5 +30,3 @@ below that which is required for your level, you will lose a level.
 
 See Also: [Group](Group "wikilink"), [Trophy](Trophy "wikilink"),
 [TP](TP "wikilink"), [Sauron](Sauron "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

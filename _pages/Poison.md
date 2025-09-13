@@ -1,7 +1,7 @@
 ---
 title: Poison
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 NOTE: This doesn't poison weapons, for that see
 [herblores](herblore "wikilink").
 
@@ -21,7 +21,4 @@ This spell can be learned from:
 
 - [Envenom](Envenom "wikilink"), [Remove
   Poison](Remove_Poison "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

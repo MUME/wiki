@@ -1,7 +1,7 @@
 ---
 title: Names
+tags: ["Help files"]
 ---
-
 [MUME](MUME "wikilink")'s management strongly encourages in-game
 role-play, though we do not require it. Therefore, in order to preserve
 the necessary atmosphere for those who wish to role-play, we ask that
@@ -45,5 +45,3 @@ we suggest the following web sites which offer random name generators:
 - [Namechanges](Namechanges "wikilink")
 - [Roleplay](Roleplay "wikilink")
 - [Rules Names](Rules_Names "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

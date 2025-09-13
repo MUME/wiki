@@ -1,7 +1,7 @@
 ---
 title: Tower Hills
+tags: ["Locations"]
 ---
-
 The **Tower Hills** are located between [Grey
 Havens](Grey_Havens "wikilink") and [Aldereon](Aldereon "wikilink")'s
 village. The village of [Black Hill](Black_Hill "wikilink") can be found
@@ -33,5 +33,3 @@ _\|I\|_ \|_\| f \\ \| + Dry + o +++ \| \| WORN hills Gulch ++. +++ r
 \\__________________/ \\________/
 
 {% include Place.md %}
-
-[Category: Locations](Category:_Locations "wikilink")

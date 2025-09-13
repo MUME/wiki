@@ -1,7 +1,7 @@
 ---
 title: Hints
+tags: ["Commands", "Help files"]
 ---
-
 **Hints** for new players are displayed at logon for 'newbie'
 characters.
 
@@ -22,6 +22,4 @@ are:
 - Preferably in-character (but OOC if that cannot be done conveniently).
 
 See also: [Newbie](Newbie "wikilink"), [Cookies](Cookies "wikilink")
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

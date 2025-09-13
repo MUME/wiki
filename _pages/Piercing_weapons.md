@@ -1,7 +1,7 @@
 ---
 title: Piercing weapons
+tags: ["Thief skills", "Skills"]
 ---
-
 **Piercing weapons** is a [thief](thief "wikilink")
 [skill](skill "wikilink") and [weapon](weapon "wikilink") class that
 applies to all kinds of daggers, knives and similar - if they are
@@ -15,6 +15,4 @@ wielded in one hand only.
   [Two-handed](Two-handed "wikilink")
 - [Piercing weapon](Piercing_weapon "wikilink") for a list of weapons
   belonging to this class.
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

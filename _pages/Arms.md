@@ -1,7 +1,7 @@
 ---
 title: Arms
+tags: ["Equipment"]
 ---
-
 A list of equipment worn on the **arms**.
 
 # Metal
@@ -38,5 +38,4 @@ A list of equipment worn on the **arms**.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Arms_items "wikilink")

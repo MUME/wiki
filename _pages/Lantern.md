@@ -1,7 +1,7 @@
 ---
 title: Lantern
+tags: ["Uncategorized items"]
 ---
-
 The **lantern** is a [light
 source](Miscellaneous_equipment#Light_sources "wikilink") that can be
 worn on a [belt](belt "wikilink"). It uses [oil](oil "wikilink") as fuel
@@ -15,6 +15,3 @@ stores.
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

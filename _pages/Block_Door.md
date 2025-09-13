@@ -1,7 +1,7 @@
 ---
 title: Block Door
+tags: ["Spells", "Mage spells"]
 ---
-
 **Block Door** is a level 9 [mage](mage "wikilink")
 [spell](spell "wikilink"). If cast on a closed [door](door "wikilink")
 it will block the door from being opened for some time. The only way to
@@ -29,6 +29,4 @@ This spell can be learned from:
 ## See also
 
 - [Bash](Bash "wikilink"), [Break Door](Break_Door "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
+ 

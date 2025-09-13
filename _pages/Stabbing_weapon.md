@@ -1,7 +1,7 @@
 ---
 title: Stabbing weapon
+tags: ["Weapons"]
 ---
-
 **[Stabbing weapons](Stabbing_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
 are effective vs. [riding](ride "wikilink") enemies and have moderate to
@@ -31,5 +31,4 @@ attackers at bay.
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Stabbing_weapons "wikilink")

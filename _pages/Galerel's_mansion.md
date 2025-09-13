@@ -1,7 +1,7 @@
 ---
 title: Galerel's mansion
+tags: ["Locations"]
 ---
-
 **Galerel's mansion** is an abandoned house located east of
 [Bree](Bree "wikilink"), notable for being the location where the [ghost
 of Galerel](ghost_of_Galerel "wikilink") may be encountered. The
@@ -34,5 +34,3 @@ down to the room below.
 In most rooms of the building, messages about strange noises or
 mysterious movements will occasionally appear. These seem to be just to
 create the mood and do no have any gameplay significance.
-
-[Category: Locations](Category:_Locations "wikilink")

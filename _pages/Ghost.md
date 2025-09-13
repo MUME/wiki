@@ -1,7 +1,7 @@
 ---
 title: Ghost
+tags: ["Mobiles"]
 ---
-
 \> A moaning ghost advances towards you, shimmering with a pale light.
 
 \> **look ghost**
@@ -22,5 +22,3 @@ Ghosts are hostile. They are incorporeal and cannot be
 [bashed](bash "wikilink").
 
 Loot: None.
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

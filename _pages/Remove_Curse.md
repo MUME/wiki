@@ -1,7 +1,7 @@
 ---
 title: Remove Curse
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 Syntax : cast 'remove curse' Type : Healing Accumulative: N/A Duration :
 No Casting : Very long Position : Standing Level : Level 12 Class :
 Cleric Min. Mana : 10
@@ -19,7 +19,4 @@ This spell can be learned from:
 ## See also
 
 - [Corrupting](Corrupting "wikilink"), [Curse](Curse "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

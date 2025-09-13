@@ -1,7 +1,7 @@
 ---
 title: Narrate
+tags: ["Help files", "Commands"]
 ---
-
 If you want to tell a tale to all the other players in the game,
 **narrate** it. All the players wanting to hear such things will receive
 it and all the players who don't want to be disturbed won't. You can
@@ -30,6 +30,3 @@ Example:
 See also: [Tell](Tell "wikilink"), [Yell](Yell "wikilink"),
 [Shout](Shout "wikilink"), [Listen](Listen "wikilink"),
 [Sing](Sing "wikilink"), [Ignore](Ignore "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

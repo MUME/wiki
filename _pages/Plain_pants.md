@@ -1,7 +1,7 @@
 ---
 title: Plain pants
+tags: ["Cloth equipment", "Legs items"]
 ---
-
 \> **look pants**
 
 Designed to protect the wearer's legs from the elements, this garment
@@ -26,6 +26,3 @@ They weigh a couple of pounds.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

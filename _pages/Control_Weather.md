@@ -1,7 +1,7 @@
 ---
 title: Control Weather
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Control Weather** is a [level](level "wikilink") 10
 [mage](mage "wikilink") [spell](spell "wikilink"). The main use of this
 spell is to create lightning storms to enable [Call
@@ -28,7 +28,4 @@ This spell can be learned from:
 [`Forlond Mage Guild`](Forlond_Mage_Guild "wikilink")`              12`
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`               16`
 [`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`             3`
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

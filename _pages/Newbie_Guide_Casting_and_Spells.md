@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Casting and Spells
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Casting and Spells**
 
 This guide written and published by p(Baca/Endo)
@@ -705,6 +705,4 @@ bonus. High level casters that focus on it sometimes can grant a +3.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Chain mail leggings
+tags: ["Mail equipment", "Legs items"]
 ---
-
 **Chain mail leggings** are a piece of chain mail equipment worn on the
 [legs](legs "wikilink"). They provide a considerable amount of damage
 absorption, and slightly decrease [dodge bonus](dodge_bonus "wikilink").
@@ -18,6 +18,3 @@ sold by most armourers.
 `They weigh six pounds.`
 
 {% include Items.md %}
-
-[Category: Mail equipment](Category:_Mail_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

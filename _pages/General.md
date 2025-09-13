@@ -1,7 +1,7 @@
 ---
 title: General
+tags: ["Classes"]
 ---
-
 **General [skills](skill "wikilink")** (also known as
 **[ranger](ranger "wikilink") skills**) refers to a set of skills that
 players can learn at a ranger [guild](guild "wikilink"). Despite the
@@ -14,5 +14,4 @@ be practiced by any class without penalty.
 
 {% include ClassRace.md %}
 
-[\*](Category:_Ranger_skills "wikilink") [Category:
-Classes](Category:_Classes "wikilink")
+[\*](Category:_Ranger_skills "wikilink") 

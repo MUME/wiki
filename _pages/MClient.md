@@ -1,7 +1,7 @@
 ---
 title: MClient
+tags: ["Software"]
 ---
-
 ## Description
 
 mClient strives to be a modern, fully functional, and highly portable
@@ -28,5 +28,3 @@ The client is currently in beta.
 ## Links
 
 [Official site](http://code.google.com/p/mclient-mume/)
-
-[Category:Software](Category:Software "wikilink")

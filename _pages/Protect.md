@@ -1,7 +1,7 @@
 ---
 title: Protect
+tags: ["Help files", "Commands"]
 ---
-
 The "**protect**" [command](commands "wikilink") is used to select a
 number of people (players or [mobiles](mobile "wikilink")) that you will
 try to protect from attacks.
@@ -22,6 +22,4 @@ Only physical attacks (hit, [bash](bash "wikilink") and
 Example: protect lists who you will try to protect protect frodo toggles
 wether you will try to protect Frodo or not protect myself clears the
 list of people you will protect
-
-[Category:Help files](Category:Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

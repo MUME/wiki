@@ -1,7 +1,7 @@
 ---
 title: Death trap
+tags: ["Help files"]
 ---
-
 A **death trap** is a [room](room "wikilink") where anyone who enters
 dies immediately. Examples of death traps are bottomless pits, gaping
 precipices, or lava-filled lakes. Upon entering a death trap, you will
@@ -30,5 +30,3 @@ points.
 If you walk into a death trap after you recently met \*an Enemy\*, you
 may suffer a pkill death. See [Death](Death "wikilink") for more
 details.
-
-[Category:Help files](Category:Help_files "wikilink")

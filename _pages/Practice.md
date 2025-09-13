@@ -1,7 +1,7 @@
 ---
 title: Practice
+tags: ["Help files", "Commands"]
 ---
-
 In order to progress in [MUME](MUME "wikilink"), you will need to
 **practice** skills. When you begin the game you will be given a number
 of 'practice sessions,' which may be used in any
@@ -61,6 +61,3 @@ Examples:
 
 `> practice`
 `> practice `[`ride`](ride "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Tharbad
+tags: ["Cities"]
 ---
-
 The once lawful city of **Tharbad** has long since been abandoned to
 civilised use. Lying far south from [Bree](Bree "wikilink"), along the
 North-South road; which the Bree-Landers call the
@@ -92,5 +92,3 @@ alley \| Master Road \| \| \| \| \|
 +------------------------------------+ \| S \| \| \| \| t \| \| \|
 +-------------+ +-----+ \| \| Main Street \| \|
 +-----------------------+ \| \| South Gate {% include Place.md %}
-
-[Category: Cities](Category:_Cities "wikilink")

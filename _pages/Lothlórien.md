@@ -1,7 +1,7 @@
 ---
 title: Lothlórien
+tags: ["Cities", "Locations"]
 ---
-
 'Lóthlorien, the hidden land between Celebrant and Anduin, where the
 trees bore flowers of gold and no Orc or evil thing dared ever come.'
 --- JRR Tolkien, Silmarillion.
@@ -60,6 +60,4 @@ will see a message 'The trees confuse you' when trying to enter the
 area.
 
 {% include Place.md %}
-
-[Category: Cities](Category:_Cities "wikilink") [Category:
-Locations](Category:_Locations "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Mount
+tags: ["Commands", "Basics"]
 ---
-
 Mounts are [mobiles](mobiles "wikilink") that can be lead and ridden to
 help you to move further without getting tired or to carry extra
 equipment.
@@ -250,6 +250,4 @@ Summary:
   getting thrown off or mount refusing (not tested).
 - Riding skill has little effect on move cost. It seems to only affect
   getting thrown off or mount refusing (not tested).
-
-[Category: Commands](Category:_Commands "wikilink") [Category:
-Basics](Category:_Basics "wikilink")
+ 

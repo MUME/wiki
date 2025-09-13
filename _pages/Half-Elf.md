@@ -1,7 +1,7 @@
 ---
 title: Half-Elf
+tags: ["Playable races"]
 ---
-
 ![](Elrond.jpg "Elrond.jpg")''\]\] Back in the First Age of the Sun,
 Lúthien Tinúviel, the daughter of the Elven King Thingol, fell in love
 with the Man Beren. Lúthien's father disapproved of this and set Beren a
@@ -27,5 +27,3 @@ Elves, and like their mortal parentage are quite competent in most
 classes. They are not immune to disease.
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

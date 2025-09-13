@@ -1,7 +1,7 @@
 ---
 title: Shoot
+tags: ["Help files", "Commands"]
 ---
-
 **Shoot** is the [command](command "wikilink") used to fire a [missile
 weapon](missile_weapon "wikilink"). If you are
 [fighting](combat "wikilink") someone already, you can fire an arrow by
@@ -15,6 +15,3 @@ when your shot kills the opponent.
 See also: [Archery](Archery "wikilink"), [Recover](Recover "wikilink"),
 [Missile](Missile "wikilink"), [Load](Load "wikilink"), [Target
 Shooting](Target_Shooting "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

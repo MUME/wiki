@@ -1,7 +1,7 @@
 ---
 title: Rooftop Thieves' Guild
+tags: ["Guildmasters"]
 ---
-
 An **old gentleman** teaches [thief](thief "wikilink")
 [skills](skill "wikilink") in a **Humble Workshop** on the roof of the
 [Thirsty Ranger's Inn](Thirsty_Ranger's_Inn "wikilink") in
@@ -26,5 +26,3 @@ An **old gentleman** teaches [thief](thief "wikilink")
 [`search`](search "wikilink")`           6  Normal`
 [`sneak`](sneak "wikilink")`           13  Hard`
 [`steal`](steal "wikilink")`           16  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Alignment
+tags: ["Help files"]
 ---
-
 Your **alignment** is basically a way of measuring your morals. Good
 alignment is obtained by good actions and no evil deeds, evil alignment
 is the opposite. You can also be neutral, and do as much good as evil.
@@ -55,5 +55,3 @@ or more specific *info %q*
 - You are evil, you could be a decent follower of Sauron. - Almost max
   evil
 - You are totally corrupted by the Evilness of Morgoth! - Max evil
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Whois
+tags: ["Help files", "Commands"]
 ---
-
 The **whois** command gives you some information about a player. You can
 see his [race](race "wikilink"), his [class](class "wikilink") and
 [level](level "wikilink") (unless he is
@@ -26,6 +26,3 @@ Whois](Rules_Whois "wikilink").
 
 See also: [Description](Description "wikilink"), [Who](Who "wikilink"),
 [Incognito](Incognito "wikilink"), [Rl Areas](Rl_Areas "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

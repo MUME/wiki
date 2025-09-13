@@ -1,7 +1,7 @@
 ---
 title: Guide to advanced character statistics
+tags: ["Guides"]
 ---
-
 **Introduction**
 
 Ever since [NEWS 2157](http://mume.org/Import/News/2157.php) characters
@@ -113,5 +113,3 @@ he can take more punishment and wield better bows while still retaining
 the thief percentages of 17 perception!
 
 Ripped from [thread](http://mume.org/forum/viewtopic.php?f=2&t=12)
-
-[Category: Guides](Category:_Guides "wikilink")

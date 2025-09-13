@@ -1,7 +1,7 @@
 ---
 title: Young mountain lion
+tags: ["Mobiles"]
 ---
-
 **Young mountain lions** are passive [level](level "wikilink") 12
 [mobiles](mobile "wikilink") found mainly in the mountains around [Grey
 Havens](Grey_Havens "wikilink"). They can [sneak](sneak "wikilink").
@@ -14,5 +14,3 @@ pelt](fine_lion_pelt "wikilink") and some [meat](meat "wikilink").
 `The lion moves lightly about, keeping camouflaged as it stalks for prey. He is`
 `dressed in a fur coat fit for a king, but he doesn't seem willing to part with`
 `it.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Bug
+tags: ["Commands", "Help files"]
 ---
-
 **Bug**, **idea**, **typo** and **report** are commands for making
 useful suggestions to the maintainers of the game. You will use the
 standard line editor (enter a %e on a single line to end).
@@ -81,6 +81,4 @@ Remember to put a line break (hit enter) at the end of each line (after
 Also, if it is an idea, you must check [NOIDEA](NOIDEA "wikilink") first
 to see whether you are wasting your time. Any idea which is ruled
 no-idea will be deleted on sight, so save your time.
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

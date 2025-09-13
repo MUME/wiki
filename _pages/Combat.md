@@ -1,7 +1,7 @@
 ---
 title: Combat
+tags: ["Help files"]
 ---
-
 For your character to successfully survive **combat** with the fierce
 [creatures](mobile "wikilink") of [Arda](Arda "wikilink"), it is
 important that you as a player feel confident with the use of the
@@ -27,5 +27,3 @@ help file, check out the "See Also" section at the bottom.
   bodyguard.
 - "[BANDAGE](Bandage "wikilink")" - A way of soothing the pain from
   wounds.
-
-[Category: Help files](Category:_Help_files "wikilink")

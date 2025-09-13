@@ -1,7 +1,7 @@
 ---
 title: Dodge bonus
+tags: ["Statistics"]
 ---
-
 The **dodge bonus** (DB%) is a defensive bonus. It is similar to your
 [parry bonus](parry_bonus "wikilink") (PB%). There are some notable
 differences though.
@@ -26,5 +26,3 @@ You can improve your dodge bonus rather significantly by learning the
 
 [Mages](Mage "wikilink") can also utilize the
 "[shield](Shield_Spell "wikilink")" spell to boost their dodge bonus.
-
-[Category: Statistics](Category:_Statistics "wikilink")

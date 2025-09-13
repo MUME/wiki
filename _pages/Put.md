@@ -1,7 +1,7 @@
 ---
 title: Put
+tags: ["Help files", "Commands"]
 ---
-
 For **putting** objects in [containers](container "wikilink"). Note that
 the 'in', in the examples, is optional.
 
@@ -10,6 +10,3 @@ Examples: \> put the dagger in the bag \> put all in bag (put everything
 certain type in a container) \> put sword room.sack (put sword in the
 first sack in room) See also: [Get](Get "wikilink"),
 [Drop](Drop "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

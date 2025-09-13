@@ -1,7 +1,7 @@
 ---
 title: Write
+tags: ["Help files", "Commands"]
 ---
-
 In order to **write** a note, you need a piece of blank paper (often
 available at your local grocer) and a [quill pen](quill_pen "wikilink").
 You need to '[hold](hold "wikilink")' the pen and then 'write note'. To
@@ -19,6 +19,3 @@ editor, you may exit by entering %e on a new line.
 See also: [Read](Read "wikilink"), [Boards](Boards "wikilink"),
 [Mail](Mail "wikilink"), [Pigeon](Pigeon "wikilink"),
 [Mark](Mark "wikilink"), [Editor](Editor "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

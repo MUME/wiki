@@ -1,7 +1,7 @@
 ---
 title: Baker
+tags: ["Shopkeepers"]
 ---
-
 **Bakers** tend to the bakeries in [Bree](Bree_Baker "wikilink"),
 [Fornost](Fornost_Baker "wikilink") and
 [Tharbad](Tharbad_Baker "wikilink").
@@ -12,5 +12,3 @@ title: Baker
 `freckles under his flour encaked face. He has short, stout arms and`
 `it looks like his legs are about to give out from the weight of his`
 `gargantuan belly.`
-
-[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

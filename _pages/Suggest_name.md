@@ -1,7 +1,7 @@
 ---
 title: Suggest name
+tags: ["Commands", "Help files"]
 ---
-
 Syntax: **suggest** (a) **name** (for) (a) <gender> <race>
 
 This command accesses [MUME](MUME "wikilink")'s name generator and
@@ -42,6 +42,4 @@ will no doubt be awful.
 It is also likely that some names that break '[Rules
 Names](Rules_Names "wikilink")' can be generated. That a name came from
 the name generator does not give it a free pass from 'Rules Names'.
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

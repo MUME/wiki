@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Mounts, Riding, and Pets
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Mounts, Riding, and Pets**
 
 This guide written and published by p(Baca/Endo)
@@ -463,6 +463,4 @@ horses have died in this game because of the earthquake spell!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

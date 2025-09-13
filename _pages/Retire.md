@@ -1,7 +1,7 @@
 ---
 title: Retire
+tags: ["Help files"]
 ---
-
 There are two reasons for you to **retire**: to prevent auto deletion of
 your character or to obtain a limited [reroll](reroll "wikilink") or
 [practice](practice "wikilink") reset. It is also possible for you to
@@ -74,5 +74,3 @@ level refer to characters under level 20.
 
 5\) [Sauron-listed](Sauron's_List "wikilink") people cannot rent retire
 and can only be retired in exceptional circumstances.
-
-[Category:Help files](Category:Help_files "wikilink")

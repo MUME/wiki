@@ -1,7 +1,7 @@
 ---
 title: Disease
+tags: ["Help files"]
 ---
-
 It is possible to become **diseased** on Mume, either with a sickness
 (plague, cold, etc...) or by a [poison](poison "wikilink") (poison,
 venom, etc...). A disease will typically reduce your
@@ -30,5 +30,3 @@ Some [races](races "wikilink") are more resistant towards some diseases.
 [orcs](orc "wikilink") are very resistant to many diseases, and
 [trolls](troll "wikilink") have a thick stony dead skin which protects
 them against the poisoned blades.
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Sturdy soft leather boots
+tags: ["Leather equipment", "Feet items"]
 ---
-
 **Sturdy soft leather boots** are a piece of soft leather equipment worn
 on the [feet](feet "wikilink"). They provide a small amount of damage
 absorption. They are worth around 1 [silver](silver "wikilink") 50
@@ -18,6 +18,3 @@ copper and can be bought from most armourers.
 `They weigh a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

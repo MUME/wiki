@@ -1,7 +1,7 @@
 ---
 title: Plain silken sash
+tags: ["Cloth equipment", "Belts"]
 ---
-
 The **plain silken sash** is a [belt](belt "wikilink"). It is worth
 around 7 [silver](silver "wikilink") and 50 copper, and is sold by most
 tailors. It can be [dyed](dye "wikilink") different colours.
@@ -14,6 +14,3 @@ tailors. It can be [dyed](dye "wikilink") different colours.
 `It weighs a few ounces.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Belts](Category:Belts "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Shocking Grasp
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 Syntax : cast 'shocking grasp' \[victim\] Type : Offensive, physical
 Accumulative: N/A Duration : No Casting : Normal Position : Standing,
 fighting Level : Level 7 Class : Magic User Min. Mana : 9 Example: \>
@@ -23,7 +23,4 @@ cast 'shocking grasp' wight This spell can be learned from:
   Spray](Colour_Spray "wikilink"), [Fireball](Fireball "wikilink"),
   [Call Lightning](Call_Lightning "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

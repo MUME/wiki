@@ -1,7 +1,7 @@
 ---
 title: Breath of Briskness
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Breath of Briskness** is a level 10 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). If cast it gives a boost to the [move
 points](Movement_Points "wikilink") and increases move regeneration
@@ -46,7 +46,4 @@ This spell can be learned from:
 [`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         2`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             4`
 [`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               2`
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

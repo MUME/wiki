@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide to Warrior Skills
+tags: ["Guides", "Newbie Help"]
 ---
-
 Newbie Guide to Warrior Skills
 
 "I do not love the bright sword for its sharpness, nor the arrow for its
@@ -455,6 +455,4 @@ and practice with your character!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

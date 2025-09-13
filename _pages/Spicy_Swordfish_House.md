@@ -1,7 +1,7 @@
 ---
 title: Spicy Swordfish House
+tags: ["Shops", "Shopkeepers"]
 ---
-
 A **retired fisherman** sells food and drinks at the **Spicy Swordfish
 House** tavern in [Harlond](Harlond "wikilink").
 
@@ -22,6 +22,4 @@ House** tavern in [Harlond](Harlond "wikilink").
 - [ceramic cups](ceramic_cup "wikilink") full of
   [tea](Food_%26_Drink#Drink "wikilink")
 - [wine glasses](wine_glass "wikilink") full of wine
-
-[Category: Shops](Category:_Shops "wikilink") [Category:
-Shopkeepers](Category:_Shopkeepers "wikilink")
+ 

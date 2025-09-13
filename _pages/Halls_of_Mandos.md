@@ -1,7 +1,7 @@
 ---
 title: Halls of Mandos
+tags: ["Locations"]
 ---
-
 The **Halls of Mandos** is a special [room](room "wikilink") where all
 newly created whitie characters start out, and also where all whitie
 characters end up after [dying](death "wikilink") or
@@ -21,5 +21,3 @@ on a table, including a [hatchet](hatchet "wikilink"), a [hunting
 knife](hunting_knife "wikilink"), [torches](torch "wikilink"), and some
 food like [apples](apple "wikilink") and
 [bread](loaf_of_bread "wikilink").
-
-[Category: Locations](Category:_Locations "wikilink")

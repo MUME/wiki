@@ -1,7 +1,7 @@
 ---
 title: Metal buckler
+tags: ["Shields"]
 ---
-
 The **metal buckler** is a small [shield](shield "wikilink") that can be
 worn while wielding a [two-handed weapon](two-handed_weapon "wikilink").
 Metal bucklers can be bought from most armourers for around 13
@@ -19,5 +19,3 @@ Metal bucklers can be bought from most armourers for around 13
 `It weighs eight pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

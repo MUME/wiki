@@ -1,7 +1,7 @@
 ---
 title: Enchant
+tags: ["Spells", "Mage spells"]
 ---
-
 **Enchant** is a [level](level "wikilink") 12 [mage](mage "wikilink")
 [spell](spell "wikilink"). It improves the [weapon](weapon "wikilink")
 it is [cast](cast "wikilink") upon:
@@ -39,6 +39,4 @@ This spell can be learned from:
 ## See also:
 
 - [Dispel Magic](Dispel_Magic "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
+ 

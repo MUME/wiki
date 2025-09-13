@@ -1,7 +1,7 @@
 ---
 title: Bless
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Bless** is a [level](level "wikilink") 5 [cleric](cleric "wikilink")
 [spell](spell "wikilink") that gives the target +5% [offensive
 bonus](offensive_bonus "wikilink") and increases their chance to save vs
@@ -26,6 +26,3 @@ This spell can be learned from:
 See also: [Darkness](Darkness "wikilink"), [Protection From
 Evil](Protection_From_Evil "wikilink"),
 [Sanctuary](Sanctuary "wikilink"), [Strength](Strength_Spell "wikilink")
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

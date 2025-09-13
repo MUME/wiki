@@ -1,7 +1,7 @@
 ---
 title: Shortsword
+tags: ["Piercing weapons"]
 ---
-
 `A shortsword is on the ground.`
 `>`**`look sword`**
 `This is a short broad-bladed weapon of average quality with a crescent-shaped`
@@ -15,5 +15,3 @@ title: Shortsword
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Piercing weapons](Category:_Piercing_weapons "wikilink")

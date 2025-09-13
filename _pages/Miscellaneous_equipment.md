@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous equipment
+tags: ["Equipment"]
 ---
-
 **Miscellaneous equipment** covers all equipment which does not fall
 easily into one of the available categories.
 == Light sources ==
@@ -33,5 +33,3 @@ easily into one of the available categories.
 - [softly glowing green cup](softly_glowing_green_cup "wikilink")
 
 {% include Items.md %}
-
-[Category: Equipment](Category:_Equipment "wikilink")

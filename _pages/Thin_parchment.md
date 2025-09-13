@@ -1,7 +1,7 @@
 ---
 title: Thin parchment
+tags: ["Miscellaneous equipment"]
 ---
-
 The **thin parchment** can be [read](read "wikilink") to learn the
 [antidote](Herblore#Antidote "wikilink") herblore. It loads on the chief
 of the Hillmen Village near [Rivendell](Rivendell "wikilink"), and on
@@ -18,6 +18,3 @@ Captain](Super_Mobile#Wight_Captain "wikilink")'s crypt.
 `It weighs a few ounces.`
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

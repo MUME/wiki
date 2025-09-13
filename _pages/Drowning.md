@@ -1,7 +1,7 @@
 ---
 title: Drowning
+tags: ["Help files"]
 ---
-
 If you are trying to [swim](swim "wikilink") on a [body of
 water](waterways "wikilink"), and you become too
 [tired](movement_points "wikilink") to keep afloat, you will gulp water
@@ -13,5 +13,3 @@ swimming. On the contrary, the brave ones who dive into underwater
 caverns, or in the depths of a lake, might find themselves
 [dead](death "wikilink") if they are not excellent swimmers, or if they
 tarry too long.
-
-[Category:Help files](Category:Help_files "wikilink")

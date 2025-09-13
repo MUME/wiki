@@ -1,7 +1,7 @@
 ---
 title: Time
+tags: ["Basics"]
 ---
-
 Gives the approximate current 'game time'. This can only be guessed at
 without a clock, and only if you are outside. Certain things in the game
 depend on this particular notion of time; the opening hours of the
@@ -14,5 +14,3 @@ time).
 
 See also: [Day](Day "wikilink"), [Month](Month "wikilink"),
 [Tick](Tick "wikilink")
-
-[Category:Basics](Category:Basics "wikilink")

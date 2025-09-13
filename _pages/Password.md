@@ -1,7 +1,7 @@
 ---
 title: Password
+tags: ["Help files"]
 ---
-
 There are two types of passwords on MUME: account passwords and
 character passwords. Your account password is set from the account menu
 with the PASS command, and is required each time you connect to MUME.
@@ -30,5 +30,3 @@ an account password reset.
 Note: All passwords are CASE SENSITIVE.
 
 See also: [Account](Account "wikilink"), [Change](Change "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

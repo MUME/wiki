@@ -1,7 +1,7 @@
 ---
 title: Identify
+tags: ["Mage spells", "Spells"]
 ---
-
 **Identify** is a [level](level "wikilink") 15 [mage](mage "wikilink")
 [spell](spell "wikilink"). When [cast](cast "wikilink") on an
 [object](item "wikilink"), this spell will reveal some of the important
@@ -42,6 +42,3 @@ This spell can be learned from:
 `                     Sessions `
 [`Erestor`](Erestor "wikilink")`                    16`
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`           8`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

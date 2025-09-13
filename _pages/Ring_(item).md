@@ -1,7 +1,7 @@
 ---
 title: Ring (item)
+tags: ["Rings"]
 ---
-
 *For a list of all rings, see [ring](ring "wikilink").*
 
 The **ring**, also known as an **Arda ring**, is a magical
@@ -18,5 +18,3 @@ general stores.
 `It weighs a couple of ounces.`
 
 {% include Items.md %}
-
-[Category: Rings](Category:_Rings "wikilink")

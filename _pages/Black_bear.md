@@ -1,7 +1,7 @@
 ---
 title: Black bear
+tags: ["Mobiles"]
 ---
-
 **Black bears** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 13 [mobiles](mobile "wikilink") found in
 various places around [Arda](Arda "wikilink"), often
@@ -15,5 +15,3 @@ produce some [meat](meat "wikilink").
 `that some black bears may actually be able to outrun horses. Both black`
 `bears and grizzly bears have very sharp claws that protrude from their paws.`
 `Their paws look dangerous and are perfect for scooping fish out of the water.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

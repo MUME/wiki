@@ -1,7 +1,7 @@
 ---
 title: Erestor
+tags: ["Guildmasters"]
 ---
-
 **Erestor** teaches [mage](mage "wikilink") [spells](spell "wikilink")
 at **The Great Library** in [Rivendell](Rivendell "wikilink").
 
@@ -26,5 +26,3 @@ at **The Great Library** in [Rivendell](Rivendell "wikilink").
 [`Portal`](Portal "wikilink")`              22  Very hard`
 [`Silence`](Silence "wikilink")`             11  Normal`
 [`Store`](Store "wikilink")`               16  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

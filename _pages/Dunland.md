@@ -1,7 +1,7 @@
 ---
 title: Dunland
+tags: ["Locations"]
 ---
-
 Dunland is a land south of [Eregion](Eregion "wikilink"), north of
 [Rohan](Rohan "wikilink") and west of [Isengard](Isengard "wikilink").
 It is inhabited by [Dunlendings](Dunlendings "wikilink"). Most
@@ -13,5 +13,3 @@ warm welcome in the villages, towns, and homes of Dunlending warriors
 and chieftains.
 
 {% include Place.md %}
-
-[Category:Locations](Category:Locations "wikilink")

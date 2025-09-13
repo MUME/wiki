@@ -1,7 +1,7 @@
 ---
 title: Reveal
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: **reveal** <object>, reveal <character>, reveal all or reveal
 <effort>
 
@@ -37,6 +37,3 @@ Examples:
 `> reveal quickly`
 
 See also: [Hide](Hide "wikilink"), [Search](Search "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

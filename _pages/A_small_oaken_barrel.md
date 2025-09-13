@@ -1,7 +1,7 @@
 ---
 title: A small oaken barrel
+tags: ["Quest items"]
 ---
-
 \> **examine barrel**
 
 The fine grain of the aged oak that composes this barrel as well as the
@@ -33,5 +33,3 @@ It weighs six stone.
 Chief](Quest#Elven_Chief "wikilink").
 
 {% include Items.md %}
-
-[Category: Quest items](Category:_Quest_items "wikilink")

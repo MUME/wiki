@@ -1,7 +1,7 @@
 ---
 title: Legend Home Prices
+tags: ["Legend_homes", "Help files"]
 ---
-
 Legend homes may not be near entrances to cities and they cannot have
 lockable doors leading out (but they can be lockable leading in, and
 latched doors are OK).
@@ -33,6 +33,4 @@ note: You must be in a white-side-city to make your payments!
 
 Base rent rates for legend homes are identical to hometown rent rates,
 except that the first 2.5 gold per day in rent are "free".
-
-[Category:Legend_homes](Category:Legend_homes "wikilink") [Category:Help
-files](Category:Help_files "wikilink")
+ 

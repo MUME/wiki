@@ -1,7 +1,7 @@
 ---
 title: Rivendell Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Ranger's Quarters** in
 [Rivendell](Rivendell "wikilink").
@@ -24,5 +24,3 @@ A **ranger** teaches [ranger](general "wikilink")
 [`swim`](swim "wikilink")`               9  Very easy`
 [`track`](track "wikilink")`             11  Normal`
 [`wilderness`](wilderness "wikilink")`        21  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Troll guide
+tags: ["Guides"]
 ---
-
 - Authors: Hawai, Dearth. Contributors: Aloonion, Baca, Belamir, Belond,
   Carl, Blourg, Elestir, Enforcer, Finwë, Knack, Kostja, Kzog, Lingura,
   Luke, Osilin, @Owen, Snjegurotska, Taara, Ternt, Troth, Zorts.
@@ -1442,5 +1442,3 @@ and slower - need to take up raiding or pk-ing.
 By leveling forward you gain both OB and HP. (level 50 troll can have
 200 OB and 700hp in Warrens with no special equipment). Weapon trolls
 will have even more OB.
-
-[Category: Guides](Category:_Guides "wikilink")

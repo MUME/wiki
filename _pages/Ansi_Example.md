@@ -1,7 +1,7 @@
 ---
 title: Ansi Example
+tags: ["Help files"]
 ---
-
 In MUME you can use the ANSI standard in room descriptions, keywords,
 whois' and virtually any text that may be edited through the local
 editing protocol. The Mume line-editor will however have problems
@@ -33,5 +33,3 @@ CHARACTER______________
 See also: [Colour](Colour "wikilink"),
 [Ansicodes](Ansicodes "wikilink"), [Change](Change "wikilink"),
 [Map](Map "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

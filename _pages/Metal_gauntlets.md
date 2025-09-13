@@ -1,7 +1,7 @@
 ---
 title: Metal gauntlets
+tags: ["Metal equipment", "Hands items"]
 ---
-
 \>**examine gauntlets**
 
 This pair of gauntlets is forged from several thin pieces of steel.
@@ -22,6 +22,3 @@ They are a pair of metal gauntlets.
 They weigh five pounds.
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Hands items](Category:_Hands_items "wikilink")

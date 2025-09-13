@@ -1,7 +1,7 @@
 ---
 title: FAQ
+tags: ["Help files", "Commands"]
 ---
-
 Command **FAQ** allows you to read the FAQ [board](board "wikilink")
 where the most frequently asked questions are answered. For the syntax
 of command 'FAQ', see '[news](news "wikilink")'.
@@ -21,6 +21,4 @@ The following FAQ files for new players are also available:
 
 See also: [Newbie](Newbie "wikilink"), [Basics](Basics "wikilink"),
 [Advanced](Advanced "wikilink"), [Features](Features "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

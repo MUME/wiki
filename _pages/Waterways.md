@@ -1,7 +1,7 @@
 ---
 title: Waterways
+tags: ["Help files"]
 ---
-
 [Arda](Arda "wikilink") has a number of rivers, streams and other
 **bodies of water** that can be traveled upon if the proper
 [equipment](equipment "wikilink") or [skills](skill "wikilink") are
@@ -49,5 +49,3 @@ your safe stay underwater.
 
 See also: [Swim](Swim "wikilink"), [Drowning](Drowning "wikilink"),
 [Ferry](Ferry "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

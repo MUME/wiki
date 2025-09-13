@@ -1,7 +1,7 @@
 ---
 title: Black wolf fur
+tags: ["Uncategorized items"]
 ---
-
 \>**examine fur**
 
 A heavy fur with long black outer hairs and a softer, black undercoat.
@@ -19,6 +19,3 @@ It weighs one stone.
 
 Unlike most furs, this one is not [wearable](wear "wikilink"). It can be
 sold for about 3 silver.
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Hobbit smuggler
+tags: ["Mobiles"]
 ---
-
 **Hobbit smugglers** are passive [level](level "wikilink") 5
 [mobiles](mobile "wikilink"), found in the [Pipeweed Smuggler's
 Hideout](Pipeweed_Smuggler's_Hideout "wikilink") in the
@@ -13,5 +13,3 @@ some plain cloth equipment.
 `>`**`examine smuggler`**
 `He is a hobbit, yet different in some way from the other hobbits you have `
 `seen. He glares at you with anger.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

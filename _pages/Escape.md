@@ -1,7 +1,7 @@
 ---
 title: Escape
+tags: ["Thief skills", "Skills"]
 ---
-
 **Escape** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to exit a fight without [fleeing](flee "wikilink") if you are
 the [buffer](buffer "wikilink"). Escape offers the following advantages
@@ -34,6 +34,4 @@ Examples:
 
 Knowledge of the escape skill also makes it easier for others to
 [rescue](rescue "wikilink") and [protect](protect "wikilink") you.
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

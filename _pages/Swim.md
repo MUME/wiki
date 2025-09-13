@@ -1,7 +1,7 @@
 ---
 title: Swim
+tags: ["Ranger skills", "Skills", "Help files", "Commands"]
 ---
-
 **Swimming** is a [ranger](general "wikilink") [skill](skill "wikilink")
 that allows you to enter rivers and lakes without a
 [boat](boat "wikilink") and survive. It is also the only way to enter
@@ -25,8 +25,4 @@ teleport or to fall from a cliff into a river.
 
 Example: \> swim Ok, from now you'll try to swim. W \> swim You won't
 try to swim anymore. \>
-
-[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink") [Category:Help
-files](Category:Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+   

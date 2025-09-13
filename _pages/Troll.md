@@ -1,7 +1,7 @@
 ---
 title: Troll
+tags: ["Playable races"]
 ---
-
 ![](Cave_troll.jpg "Cave_troll.jpg")''\]\] Of all Sauron's servants,
 **Trolls** have the greatest physical might. These huge figures may be
 the corrupted form of tree spirits, created by
@@ -137,5 +137,3 @@ ClassRace.md %}
 ## Sources
 
 1\. MUME help menu
-
-[Category: Playable races](Category:_Playable_races "wikilink")

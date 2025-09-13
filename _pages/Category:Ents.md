@@ -1,5 +1,4 @@
 ---
 title: Category:Ents
+tags: ["Plants"]
 ---
-
-[Category: Plants](Category:_Plants "wikilink")

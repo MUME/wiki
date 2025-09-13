@@ -1,7 +1,7 @@
 ---
 title: Studded leather collar
+tags: ["Neck items"]
 ---
-
 The **studded leather collar** can be worn around the neck. They load on
 the [bulldogs](bulldog "wikilink") in [Malardil's
 Castle](Malardil's_Castle "wikilink"), and can also be bought from some
@@ -21,5 +21,3 @@ tailors for around 1 [silver](silver "wikilink").
 `It weighs about one pound.`
 
 {% include Items.md %}
-
-[Category: Neck items](Category:_Neck_items "wikilink")

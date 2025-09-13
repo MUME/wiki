@@ -1,7 +1,7 @@
 ---
 title: Full metal shield
+tags: ["Shields"]
 ---
-
 `A full metal shield is on the ground.`
 `>`**`examine shield`**
 `This shield is composed out of several layers of steel and iron, ensuring`
@@ -14,5 +14,3 @@ title: Full metal shield
 `It weighs one stone and five pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

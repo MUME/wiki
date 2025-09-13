@@ -1,7 +1,7 @@
 ---
 title: Cotton sleeves
+tags: ["Arms items", "Cloth equipment"]
 ---
-
 **Cotton sleeves** are a piece of cloth
 [equipment](equipment "wikilink") worn on the [arms](arms "wikilink").
 They are worth around 1 [silver](gold "wikilink") 70 copper.
@@ -16,6 +16,4 @@ They are worth around 1 [silver](gold "wikilink") 70 copper.
 `They weigh about one pound.`
 
 {% include Items.md %}
-
-[Category: Arms items](Category:_Arms_items "wikilink") [Category: Cloth
-equipment](Category:_Cloth_equipment "wikilink")
+ 

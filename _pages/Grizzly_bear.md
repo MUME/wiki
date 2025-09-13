@@ -1,7 +1,7 @@
 ---
 title: Grizzly bear
+tags: ["Mobiles"]
 ---
-
 **Grizzly bears** are aggressive [level](level "wikilink") 15
 [mobiles](mobile "wikilink"), found in various locations around
 [Arda](Arda "wikilink"), particularly in the area north of [Grey
@@ -15,5 +15,3 @@ produce some [meat](meat "wikilink").
 `This animal is huge -- its paws are about the size of the average man's`
 `skull, and it stands over eight feet tall. It sniffs the air and turns in`
 `your direction....`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

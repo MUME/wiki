@@ -1,7 +1,7 @@
 ---
 title: Meat
+tags: ["Consumables"]
 ---
-
 **Meat** can be acquired by [butchering](butcher "wikilink") the
 [corpses](corpse "wikilink") of some animals. It comes in four sizes:
 morsel, small, regular and large. Meat can be [cooked](cook "wikilink")
@@ -14,5 +14,3 @@ meat, venison, wolf meat, etc.), all kinds of meat are functionally
 identical.
 
 {% include Items.md %}
-
-[Category: Consumables](Category:_Consumables "wikilink")

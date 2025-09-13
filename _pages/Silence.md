@@ -1,7 +1,7 @@
 ---
 title: Silence
+tags: ["Mage spells", "Spells"]
 ---
-
 **Silence** is a [level](level "wikilink") 17 [mage](mage "wikilink")
 [spell](spell "wikilink"). It prevents the target from
 [casting](cast "wikilink") spells or using any form of verbal
@@ -19,6 +19,3 @@ This spell can be learned from:
 `                        Sessions `
 [`Erestor`](Erestor "wikilink")`                       11`
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`              4`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

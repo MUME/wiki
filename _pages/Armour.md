@@ -1,7 +1,7 @@
 ---
 title: Armour
+tags: ["Equipment"]
 ---
-
 Wearing **armour** lowers damage received. Two numbers are important
 here: absorb and max. Absorb is the relative % of damage the armour
 takes. However, the max determines the maximum amount of damage per hit
@@ -400,5 +400,3 @@ parts.
 </spoiler>
 
 {% include Items.md %}
-
-[Category:Equipment](Category:Equipment "wikilink")

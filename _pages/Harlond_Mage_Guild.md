@@ -1,7 +1,7 @@
 ---
 title: Harlond Mage Guild
+tags: ["Guildmasters"]
 ---
-
 **Malindon** teaches [mage](mage "wikilink") [spells](spells "wikilink")
 at the **Home of the Old Elven Mage** in [Harlond](Harlond "wikilink")
 
@@ -24,5 +24,3 @@ at the **Home of the Old Elven Mage** in [Harlond](Harlond "wikilink")
 [`Night Vision`](Night_Vision "wikilink")`                1  Normal`
 [`Shield`](Shield_Spell "wikilink")`                      3  Hard`
 [`Shroud`](Shroud "wikilink")`                      4  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

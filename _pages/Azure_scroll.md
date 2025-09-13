@@ -1,7 +1,7 @@
 ---
 title: Azure scroll
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **examine azure**
 The azure-coloured parchment is covered with neatly written white
 runes.
@@ -14,6 +14,3 @@ It weighs half a pound.
 The most common type of healing scroll, but also the least effective.
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

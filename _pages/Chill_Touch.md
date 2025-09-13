@@ -1,7 +1,7 @@
 ---
 title: Chill Touch
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Chill Touch** is a [level](level "wikilink") 3 [mage](mage "wikilink")
 [spell](spell "wikilink"). It deals a small amount of damage and lowers
 the target's [offensive bonus](offensive_bonus "wikilink") by 5. The
@@ -29,7 +29,4 @@ This spell can be learned from:
   Spray](Colour_Spray "wikilink"), [Fireball](Fireball "wikilink"),
   [Call Lightning](Call_Lightning "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

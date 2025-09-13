@@ -1,7 +1,7 @@
 ---
 title: Weather
+tags: ["Help files"]
 ---
-
 Syntax: weather {local\|global\|fog}
 
 "weather global" produces a complex weathermap of Middle-Earth. This map
@@ -33,5 +33,3 @@ use the "weather local" command.
 It is rumoured powerful magic may alter the course of the local weather.
 
 See also: [Map](Map "wikilink"), [Ancient Maps](Ancient_Maps "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

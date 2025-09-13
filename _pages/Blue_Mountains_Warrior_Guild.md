@@ -1,7 +1,7 @@
 ---
 title: Blue Mountains Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 **Frag** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") in the **Warrior Guild** in [Blue
 Mountains](Blue_Mountains "wikilink").
@@ -24,5 +24,3 @@ Mountains](Blue_Mountains "wikilink").
 [`slashing weapons`](slashing_weapons "wikilink")`          24  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          15  Normal`
 [`two-handed weapons`](two-handed_weapons "wikilink")`        24  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

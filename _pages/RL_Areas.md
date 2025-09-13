@@ -1,7 +1,7 @@
 ---
 title: RL Areas
+tags: ["Help files"]
 ---
-
 The following are obtained using the 'whois' command. This won't work on
 gods of a higher level than yourself.
 
@@ -69,5 +69,3 @@ Vincent and the Grenadines \*.ve Venezuela \*.vg Virgin Islands
 (British) \*.vi Virgin Islands (USA) \*.vn Vietnam \*.vu Vanuatu \*.wf
 Wallis and Futuna Islands \*.ws Western Samoa \*.ye Yemen \*.yt Mayotte
 \*.yu Yugoslavia \*.za South Africa \*.zm Zambia \*.zw Zimbabwe
-
-[Category:Help files](Category:Help_files "wikilink")

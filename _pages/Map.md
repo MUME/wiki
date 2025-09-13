@@ -1,7 +1,7 @@
 ---
 title: Map
+tags: ["Help files", "Commands"]
 ---
-
 If you want a **map** of a portion of [MUME](MUME "wikilink"), you have
 to draw it yourself. We want to encourage people to explore the game. A
 few pre-drawn maps of trivial areas (such as [Bree](Bree "wikilink"),
@@ -63,6 +63,4 @@ Mappers](Rules_Mappers "wikilink") for further details.
 
 See also: [Map Rooms](Map_Rooms "wikilink"),
 [Weather](Weather "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

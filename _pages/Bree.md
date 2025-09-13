@@ -1,7 +1,7 @@
 ---
 title: Bree
+tags: ["Cities"]
 ---
-
 In the small area of Bree-Land there are four villages; Archet, Staddle,
 Combe and the chief village, **Bree**.
 
@@ -70,5 +70,3 @@ South Gate \#################### Drawn by Ticar of Norbury, Sorcerer of
 Arthedain, the Third Age of the Sun
 
 {% include Place.md %}
-
-[Category: Cities](Category:_Cities "wikilink")

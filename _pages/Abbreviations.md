@@ -1,7 +1,7 @@
 ---
 title: Abbreviations
+tags: ["Help files"]
 ---
-
 BBT : Bill, Bert, and Tom (some mobs, the place where they stand) bw :
 bloodwight (a mob) chief : Chief of Tharbad (a mob) dk : The Dead Knight
 (a mob) ep : evil priest (an npc/place) er : www.elvenrunes.com (a
@@ -104,5 +104,3 @@ The History of Middle-earth JRRT : J.R.R. Tolkien LotR : The Lord of the
 Rings NoME : The Nature of Middle-earth RotK, RK : The Return of the
 King (The) Silm: The Silmarillion (T)TT : The Two Towers UnTa, UT :
 Unfinished Tales
-
-[Category: Help files](Category:_Help_files "wikilink")

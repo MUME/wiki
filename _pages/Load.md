@@ -1,7 +1,7 @@
 ---
 title: Load
+tags: ["Help files", "Commands"]
 ---
-
 If you have a [crossbow](crossbow "wikilink"), you can
 [Load](Load "wikilink") it with a bolt before using it in combat. This
 makes your first shot much faster, as you only need to aim and fire.
@@ -22,6 +22,3 @@ Some examples:
 
 See also: [Shoot](Shoot "wikilink"), [Archery](Archery "wikilink"),
 [Recover](Recover "wikilink"), [Missile](Missile "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Strength Spell
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Strength** is a [level](level "wikilink") 7
 [cleric](cleric "wikilink") [spell](spell "wikilink"), giving the target
 1-3 extra [strength](strength "wikilink") for a period of time. The
@@ -27,7 +27,4 @@ This spell can be learned from:
 - [Bless](Bless "wikilink"), [Darkness](Darkness "wikilink"),
   [Protection From Evil](Protection_From_Evil "wikilink"),
   [Sanctuary](Sanctuary "wikilink"), [Strength](Strength "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

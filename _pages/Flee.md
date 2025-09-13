@@ -1,7 +1,7 @@
 ---
 title: Flee
+tags: ["Help files", "Commands"]
 ---
-
 Usage: **flee** \[on\|off\|yes\|no\]
 
 If you are fighting, and you want to leave the fight, you may type
@@ -58,6 +58,3 @@ disadvantages.
 See also: [Disengage](Disengage "wikilink"),
 [Escape](Escape "wikilink"), [Panic](Panic "wikilink"),
 [Wimpy](Wimpy "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

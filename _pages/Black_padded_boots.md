@@ -1,7 +1,7 @@
 ---
 title: Black padded boots
+tags: ["Leather equipment", "Feet items"]
 ---
-
 **Black padded boots** are a piece of soft leather equipment worn on the
 [feet](feet "wikilink"). They provide a small amount of damage
 absorption and considerably reduce movement cost. They are worth around
@@ -18,6 +18,3 @@ absorption and considerably reduce movement cost. They are worth around
 `They weigh half a pound.`
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

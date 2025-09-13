@@ -1,7 +1,7 @@
 ---
 title: PandoraMapper
+tags: ["Software", "Guides", "Newbie Help"]
 ---
-
 ## Information for Newcomers
 
 PandoraMapper, also know as just pandora started as a little research
@@ -50,7 +50,4 @@ similar.
 [Official Site](http://code.google.com/p/pandoramapper/)
 
 [A short FAQ](http://code.google.com/p/pandoramapper/wiki/FAQ)
-
-[Category:Software](Category:Software "wikilink")
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

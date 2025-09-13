@@ -1,7 +1,5 @@
 ---
 title: City
+tags: ["Cities"]
 ---
-
 1.  Redirect
-
-[Category:Cities](Category:Cities "wikilink")

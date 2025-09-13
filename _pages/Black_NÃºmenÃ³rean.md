@@ -1,7 +1,7 @@
 ---
 title: Black NÃºmenÃ³rean
+tags: ["Playable races"]
 ---
-
 In J. R. R. Tolkien's fictional prehistory of the
 [world](Arda "wikilink"), the **Black Númenóreans** were
 [men](men "wikilink") of Númenórean descent that dwelt on the coasts of
@@ -53,5 +53,3 @@ BN's have a number of penalties:
   [trolls](Troll "wikilink"), thus proving to be valuable aides.
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

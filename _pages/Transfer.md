@@ -1,7 +1,7 @@
 ---
 title: Transfer
+tags: ["Spells", "Cleric spells"]
 ---
-
 **Transfer** is a level 14 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). Like [Summon](Summon "wikilink") it will
 transfer a creature or player to the location of the caster but unlike
@@ -26,6 +26,4 @@ This spell can be learned from:
 ## See also
 
 - [Summon](Summon "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink")
+ 

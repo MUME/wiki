@@ -1,7 +1,7 @@
 ---
 title: Cure Blindness
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Cure Blindness** is a level 4 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It removes the effect of the
 [Blindness](Blindness "wikilink") spell from the creature it is cast on.
@@ -33,7 +33,4 @@ This spell can be learned from:
   Critic](Cure_Critic "wikilink"), [Cure
   Disease](Cure_Disease "wikilink"), [Remove
   Poison](Remove_Poison "wikilink"), [Heal](Heal "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

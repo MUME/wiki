@@ -1,5 +1,4 @@
 ---
 title: Category:Plants
+tags: ["Mobiles"]
 ---
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

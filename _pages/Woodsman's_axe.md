@@ -1,7 +1,7 @@
 ---
 title: Woodsman's axe
+tags: ["Cleaving weapons"]
 ---
-
 The **woodsman's axe** is a [cleaving
 weapon](cleaving_weapon "wikilink"). It is worth around 7
 [silver](silver "wikilink") and 50 copper, and is sold by most
@@ -18,5 +18,3 @@ weaponsmiths.
 `It weighs five pounds. `
 
 {% include Items.md %}
-
-[Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

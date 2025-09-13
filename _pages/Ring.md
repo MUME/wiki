@@ -1,7 +1,7 @@
 ---
 title: Ring
+tags: ["Equipment"]
 ---
-
 Two **rings** can be worn on a character. Some rings, however, are
 incompatible with others. There are other, powerful rings which have
 various effects and uses such as jewelled rings, sometimes known as
@@ -37,5 +37,4 @@ power-rings.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Rings "wikilink")

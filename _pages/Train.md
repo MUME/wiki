@@ -1,7 +1,7 @@
 ---
 title: Train
+tags: ["Help files", "Commands"]
 ---
-
 The **train** command has three different purposes.
 
 You can use it to refresh one or more skills, in order not to forget
@@ -51,6 +51,3 @@ The 'train status' command shows your current choices.
 NOTE: Unlike [rerolls](reroll "wikilink"), training does not affect your
 [practice](practice "wikilink") percentages. The percentage to which you
 can practice a skill is only based on your reference abilities.
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

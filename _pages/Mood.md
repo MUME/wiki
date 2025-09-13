@@ -1,7 +1,7 @@
 ---
 title: Mood
+tags: ["Help files"]
 ---
-
 The [change](change "wikilink") **mood** command enables you to transfer
 bonus points between your [Offensive bonus](Offensive_bonus "wikilink")
 and [Parry bonus](Parry_bonus "wikilink"), thus changing the way you
@@ -20,5 +20,3 @@ be aggressive on the moment you deal your blow, and wimpy a fraction of
 second later in order to parry the enemy's blow.
 
 See also: [Combat](Combat "wikilink"), [Change](Change "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

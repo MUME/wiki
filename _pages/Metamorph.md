@@ -1,7 +1,7 @@
 ---
 title: Metamorph
+tags: ["Help files", "Commands"]
 ---
-
 Usage: **metamorph** <animal>
 
 **return** \[to return to real form\]
@@ -33,6 +33,3 @@ but can [flee](flee "wikilink") manually if they choose.
 
 See Also: [Legend](Legend "wikilink"), [Istari](Istari "wikilink"),
 [Istar Quest](Istar_Quest "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

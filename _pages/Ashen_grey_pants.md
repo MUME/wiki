@@ -1,7 +1,7 @@
 ---
 title: Ashen grey pants
+tags: ["Cloth equipment", "Legs items"]
 ---
-
 \> **look pants**
 
 The pair of thick trousers is made of rough, ashen grey cloth.
@@ -20,6 +20,3 @@ Island](Hidden_Island "wikilink") (if they're not already wearing
 something else). They will decay immediately if dropped.
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

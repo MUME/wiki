@@ -1,7 +1,7 @@
 ---
 title: Decapitate
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: **decapitate** corpse
 
 [Orcs](Orc "wikilink") and [Trolls](Troll "wikilink") can, with this
@@ -16,6 +16,3 @@ Example:
 See also: [Burn](Burn "wikilink"), [Bury](Bury "wikilink"),
 [Drag](Drag "wikilink"), [Drain](Drain "wikilink"),
 [Hang](Hang "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

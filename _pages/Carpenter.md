@@ -1,7 +1,7 @@
 ---
 title: Carpenter
+tags: ["Mobiles"]
 ---
-
 The **carpenter** is a [good](alignment "wikilink")
 [level](level "wikilink") 6 [mobile](mobile "wikilink"). He can be found
 in a cave in the [Blue Mountains](Blue_Mountains "wikilink"), some
@@ -17,5 +17,3 @@ knife](broad-bladed_knife "wikilink").
 `walnut. His hands are calloused from decades of work, and his eyes`
 `survey you critically. Around him is the scent of countless woods:`
 `cedar, oak, and other more exotic types.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

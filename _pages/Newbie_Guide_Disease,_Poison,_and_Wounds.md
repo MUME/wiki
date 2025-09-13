@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Disease, Poison, and Wounds
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Disease, Poison, and Wounds**
 
 This guide written and published by p(Baca/Endo)
@@ -550,6 +550,4 @@ The **Heal** spell will also function as a cure critic spell.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

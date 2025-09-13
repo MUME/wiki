@@ -1,7 +1,7 @@
 ---
 title: Chain mail gloves
+tags: ["Hands items", "Mail equipment"]
 ---
-
 `A pair of chain mail gloves are lying here.`
 `>`**`examine gloves`**
 `These gloves are made of iron rings. Even while smaller rings for the fingers `
@@ -13,6 +13,4 @@ title: Chain mail gloves
 `They weigh three pounds.`
 
 {% include Items.md %}
-
-[Category: Hands items](Category:_Hands_items "wikilink") [Category:
-Mail equipment](Category:_Mail_equipment "wikilink")
+ 

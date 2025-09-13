@@ -1,7 +1,7 @@
 ---
 title: Wooden wall shield
+tags: ["Shields"]
 ---
-
 `A wooden wall shield rests on the ground.`
 `>`**`examine wooden`**
 `Crafted from sturdy oak, this wall shield offers you a moderate range of`
@@ -13,5 +13,3 @@ title: Wooden wall shield
 `It weighs one stone and eleven pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Cleric
+tags: ["Classes"]
 ---
-
 The **cleric** is the more supportive [spell](spell "wikilink") caster.
 The spells of [wisdom](wisdom "wikilink") offer peace, blessing and
 healing as well as protection. While clerics are defensively oriented
@@ -23,5 +23,4 @@ damage](sanctuary "wikilink") to allies and
 
 {% include ClassRace.md %}
 
-[Category: Classes](Category:_Classes "wikilink")
 [\*](Category:_Cleric "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Grey Havens
+tags: ["Cities"]
 ---
-
 ## Grey Havens
 
 ... but at the Grey Havens of Lindon there abode also a remnant of the
@@ -150,5 +150,3 @@ ___________/ \\__________\| . . . \| / \| \| . . .
 . . \|______\| . . . . . .
 
 {% include Place.md %}
-
-[Category: Cities](Category:_Cities "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Black scroll
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **examine blackscroll**
 This scroll is an unevenly cut piece of coal-black parchment covered by
 thin,
@@ -20,6 +20,3 @@ with a [strength spell](Strength_Spell "wikilink") included. Definitely
 the most difficult type of healing scroll to attain.
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

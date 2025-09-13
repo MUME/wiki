@@ -1,7 +1,7 @@
 ---
 title: Climb
+tags: ["Ranger skills", "Skills", "Help files", "Commands"]
 ---
-
 Usage: climb \[<direction>\|on\|off\|safe\|always\]
 
 **Climb** is a [ranger](general "wikilink") [skill](skill "wikilink").
@@ -68,8 +68,4 @@ current skill and hit points.
 ## See also
 
 - [Swim](Swim "wikilink")
-
-[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink") [Category:Help
-files](Category:Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+   

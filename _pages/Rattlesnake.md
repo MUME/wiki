@@ -1,7 +1,7 @@
 ---
 title: Rattlesnake
+tags: ["Mobiles"]
 ---
-
 **Rattlesnakes** are aggressive level ~14 [mobiles](mobile "wikilink")
 found in various places around [Arda](Arda "wikilink"). They have a
 venomous bite. Rattlesnake venom drains [HP](hit_points "wikilink") and
@@ -18,5 +18,3 @@ can be [butchered](butcher "wikilink") to produce a venom sac or
 `back make the viper look sinister and dangerous. The most noticeable thing`
 `about it though, are the twin fangs protruding out of its mouth. Sharp and`
 `glistening with poison, they would not feel good in your leg.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

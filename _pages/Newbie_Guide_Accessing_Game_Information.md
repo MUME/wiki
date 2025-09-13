@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Accessing Game Information
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Accessing Game Information**
 
 This guide written and published by p(Baca/Endo)
@@ -672,6 +672,4 @@ defensive toughness, it's type, or level.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

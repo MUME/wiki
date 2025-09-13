@@ -1,7 +1,7 @@
 ---
 title: Scimitar
+tags: ["Slashing weapons"]
 ---
-
 The **scimitar** is a [slashing weapon](slashing_weapon "wikilink"). It
 is worth around 1 [gold](gold "wikilink"), and is sold by most
 weaponsmiths.
@@ -18,5 +18,3 @@ weaponsmiths.
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

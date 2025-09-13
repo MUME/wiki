@@ -1,7 +1,7 @@
 ---
 title: Aman
+tags: ["Locations"]
 ---
-
 **Aman** ("Blessed Realm" or "Free from Evil" in Quenya, pron.
 \[ˈaman\]) is a continent that lies to the west of
 [Middle-earth](Middle-earth "wikilink"), across the great ocean
@@ -11,5 +11,3 @@ the Teleri. The island of Tol Eressëa lies just off the eastern shore.
 
 Upon the destruction of Almaren in very ancient times, the Valar fled to
 Aman, and there established the realm of Valinor.
-
-[Category: Locations](Category:_Locations "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Long and scaly snakeskin
+tags: ["Uncategorized items"]
 ---
-
 \>**examine snakeskin**
 
 It is thick and tan, covered with tough scales. The criss-cross
@@ -26,6 +26,3 @@ Obtained by [butchering](butcher "wikilink")
 [rattlesnakes](rattlesnake "wikilink").
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

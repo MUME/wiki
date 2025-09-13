@@ -1,7 +1,7 @@
 ---
 title: Language
+tags: ["Help files"]
 ---
-
 You can select which language you want to use when talking with other
 people. Use change language <language> to change to another one. Without
 a given language, that command will show a list of possible languages
@@ -70,5 +70,3 @@ of all these languages. You acquire (or improve) other tongues by
 hearing better speakers, at a rate which varies with your intelligence.
 
 See Also: [Change](Change "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Shop commands
+tags: ["Help files", "Commands"]
 ---
-
 Use these **commands** in [shops](shop "wikilink"). 'Buy' can also be
 used in [stables](stable "wikilink")/pet-shops.
 
@@ -71,6 +71,3 @@ Examples:
 
 See also: [Shop](Shop "wikilink"), [Mend](Mend "wikilink"),
 [Citizen](Citizen "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

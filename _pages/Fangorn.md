@@ -1,7 +1,7 @@
 ---
 title: Fangorn
+tags: ["Locations"]
 ---
-
 **Fangorn** is the home of the [Ents](Ent "wikilink"). It is a large
 forested area, located between [Isengard](Isengard "wikilink") and
 [Lorién](Lorién "wikilink"), and is mainly populated by ents, huorns and
@@ -66,5 +66,3 @@ and may be angered if they see you using it.
 - [Mountain lioness](Mountain_lioness "wikilink")
 
 {% include Place.md %}
-
-[Category:Locations](Category:Locations "wikilink")

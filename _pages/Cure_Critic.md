@@ -1,7 +1,7 @@
 ---
 title: Cure Critic
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Cure Critic** is a level 9 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will heal the most serious
 [wound](wound "wikilink") of the creature it is cast upon.
@@ -25,7 +25,4 @@ This spell can be learned from:
   Serious](Cure_Serious "wikilink"), [Cure
   Disease](Cure_Disease "wikilink"), [Remove
   Poison](Remove_Poison "wikilink"), [Heal](Heal "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

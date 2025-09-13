@@ -1,7 +1,7 @@
 ---
 title: Recover
+tags: ["Help files", "Commands"]
 ---
-
 While wearing a quiver, a bolt case or a pouch for slingstones, you can
 **recover** the [missiles](ammunition "wikilink") lying around -- those
 on the ground, the ones stuck in [corpses](corpse "wikilink") and the
@@ -13,6 +13,3 @@ no matter if they are yours or not.
 
 See also: [Shoot](Shoot "wikilink"), [Archery](Archery "wikilink"),
 [Missile Weapons](Missile_Weapons "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Internet
+tags: ["Software"]
 ---
-
 For many years now, rumours about different kinds of network lag-attacks
 have circulated for a while and died only to be revived in a year or so.
 
@@ -72,5 +72,3 @@ It might also be worth noting that having a 0% packet loss link when
 using a ping-program (a program that uses the ICMP echo-request and
 echo-reply messages), does not guarantee you will have 0% packet loss
 over a TCP session (such as a connection to MUME).
-
-[Category:Software](Category:Software "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Bandit
+tags: ["Mobiles"]
 ---
-
 **Bandits** are aggressive level ~6-7 [mobiles](mobile "wikilink"). They
 can be found in various places around [Arda](Arda "wikilink"), notably
 the areas around [Fornost](Fornost "wikilink") and the [Grey
@@ -13,5 +13,3 @@ cloth equipment.
 `>`**`examine bandit`**
 `The bandit wears dirty clothes and has an imbecile look, grinning evilly,`
 `glancing at your purse.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

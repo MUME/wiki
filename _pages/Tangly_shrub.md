@@ -1,7 +1,7 @@
 ---
 title: Tangly shrub
+tags: ["Plants"]
 ---
-
 **Tangly shrubs** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 14 [plants](plant "wikilink") found in
 [Fangorn](Fangorn "wikilink").
@@ -13,5 +13,3 @@ title: Tangly shrub
 `their tip, and its twisting mass forms clusters at its growth. Rustling its`
 `many leaves, it tries to entangle everything and everyone that happens to`
 `pass its way.`
-
-[Category: Plants](Category:_Plants "wikilink")

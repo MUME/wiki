@@ -1,7 +1,7 @@
 ---
 title: Giant green fungus
+tags: ["Plants"]
 ---
-
 **Giant green fungi** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~11-12 [plants](plant "wikilink"), found in
 various locations around [Arda](Arda "wikilink").
@@ -11,5 +11,3 @@ various locations around [Arda](Arda "wikilink").
 `This giant green fungus is a rare but deadly species of giant fungus. Able`
 `to animate itself it considers you its next meal upon which to lay new`
 `fungal filaments and derive nourishment.`
-
-[Category: Plants](Category:_Plants "wikilink")

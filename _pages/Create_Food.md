@@ -1,7 +1,7 @@
 ---
 title: Create Food
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Create food** is a level 3 [cleric](cleric "wikilink")
 [spell](spell "wikilink") that creates a magic mushroom. Food can also
 be bought in [shops](shops "wikilink"), found at many places, or created
@@ -22,7 +22,4 @@ Cleric Min. Mana : 5 Example: \> cast 'create food'
 ## See also
 
 - [Create Water](Create_Water "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

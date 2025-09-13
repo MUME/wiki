@@ -1,7 +1,7 @@
 ---
 title: Pursue
+tags: ["Commands", "Help files"]
 ---
-
 If you find a track using the command '[track](track "wikilink")'
 <target>, you have the option to follow these tracks with the command
 **pursue**. 'Pursue' will cause you to follow the track in whichever
@@ -30,6 +30,4 @@ For following a track over several rooms:
 ` > pursue`
 
 See also: [Track](Track "wikilink")
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

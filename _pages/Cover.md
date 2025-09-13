@@ -1,7 +1,7 @@
 ---
 title: Cover
+tags: ["Help files", "Commands"]
 ---
-
 **Cover** is a command used to temporarily block the light from a light
 source from escaping.
 
@@ -18,6 +18,4 @@ Example:
 `> uncover lantern`
 
 See also: [Light](Light "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

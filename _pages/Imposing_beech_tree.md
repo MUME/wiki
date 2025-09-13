@@ -1,7 +1,7 @@
 ---
 title: Imposing beech tree
+tags: ["Ents"]
 ---
-
 **Imposing beech trees** are [level](level "wikilink") 19
 [Ents](Ent "wikilink") found in [Fangorn](Fangorn "wikilink").
 
@@ -28,5 +28,3 @@ After the axe has been removed, the description changes to this:
 `Being of average height for a beech tree, this one looks very man-like. Many`
 `marks on and around some of the lower boughs look like scars from a ferocious`
 `attack. On the back of the trunk is an open wound but the Ent seems untroubled.`
-
-[Category: Ents](Category:_Ents "wikilink")

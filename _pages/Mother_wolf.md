@@ -1,7 +1,7 @@
 ---
 title: Mother wolf
+tags: ["Mobiles"]
 ---
-
 **Mother wolves** are aggressive [level](level "wikilink") 7
 [mobiles](mobile "wikilink"), found in various locations around
 [Arda](Arda "wikilink"). Unlike most other wolves, they do not
@@ -13,5 +13,3 @@ fur](grey_wolf_fur "wikilink") and some [meat](meat "wikilink").
 `>`**`examine wolf`**
 `The mother glares angrily at you, snarling to give you fair warning that she`
 `will not tolerate any intruders in her den.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

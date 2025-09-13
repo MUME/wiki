@@ -1,7 +1,7 @@
 ---
 title: Morthan Blacksoul
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Morthan Blacksoul** is a bandit who has set up an obstruction on the
 [Greenway](Greenway "wikilink") to rob unsuspecting travellers. If you
 enter his [room](room "wikilink"), he will demand some
@@ -24,6 +24,4 @@ paying him is to [hit](hit "wikilink") him and then open exit and
 [flee](flee "wikilink") out. He is joined in combat by [Thena
 Shadowstalker](Thena_Shadowstalker "wikilink") and 5
 [highwaymen](highwayman "wikilink").
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

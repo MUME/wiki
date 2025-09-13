@@ -1,7 +1,7 @@
 ---
 title: Read
+tags: ["Help files", "Commands"]
 ---
-
 Obviously, this is used for reading things.
 
 To read a message on a bulletin board, you have to read its number (e.g.
@@ -14,6 +14,3 @@ in your hands.
 See also: [Boards](Boards "wikilink"), [Write](Write "wikilink"),
 [Mail](Mail "wikilink"), [Tail](Tail "wikilink"),
 [Libraries](Libraries "wikilink"), [Mark](Mark "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

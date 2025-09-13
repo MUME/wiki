@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Herblores
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Herblores**
 
 This guide written and published by p(Baca/Endo)
@@ -492,6 +492,4 @@ shops will buy berries.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

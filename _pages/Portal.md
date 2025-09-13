@@ -1,7 +1,7 @@
 ---
 title: Portal
+tags: ["Mage spells", "Spells"]
 ---
-
 **Portal** is a [mage](mage "wikilink") [spell](spell "wikilink") with
 [mana](mana "wikilink") cost 90 that allows to move groups of people
 from one location to another by opening a portal from one
@@ -50,6 +50,3 @@ This spell can be learned from:
 `                     Sessions `
 [`Erestor`](Erestor "wikilink")`                    22`
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`          14`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Large metal full shield
+tags: ["Shields"]
 ---
-
 The **large metal full shield** is a [shield](shield "wikilink"). It
 grants a mediocre amount of [parry bonus](parry_bonus "wikilink"). It is
 worth around 1 [gold](gold "wikilink") and 15 silver, and is sold by
@@ -19,5 +19,3 @@ most armourers.
 `It weighs one stone and seven pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Colour Spray
+tags: ["Mage spells", "Spells"]
 ---
-
 **Colour Spray** is a [level](level "wikilink") 11
 [mage](mage "wikilink") [spell](spell "wikilink"). It deals bonus damage
 to the undead and [orcs](orc "wikilink").
@@ -27,6 +27,3 @@ This spell can be learned from:
   Bolt](Lightning_Bolt "wikilink"), [Fireball](Fireball "wikilink"),
   [Call Lightning](Call_Lightning "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

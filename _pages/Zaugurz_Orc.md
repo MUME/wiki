@@ -1,7 +1,7 @@
 ---
 title: Zaugurz Orc
+tags: ["Playable races"]
 ---
-
 The **Uruk-Zaugurz** is a tribe on the rise from far north in the [Misty
 Mountains](Misty_Mountains "wikilink"). Hardened by cold from their home
 in the freezing caves of northern Misty's, the Zaugurz have come to wage
@@ -57,5 +57,3 @@ north to offer them a safe haven for healing or recreation.
   External Zaugurz Info page
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

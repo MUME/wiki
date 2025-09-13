@@ -1,7 +1,7 @@
 ---
 title: Missile Weapons Usage
+tags: ["Thief skills", "Help files", "Skills"]
 ---
-
 **Missile weapons** are one of the [weapon](weapon "wikilink") types on
 [MUME](MUME "wikilink"). Unlike most other weapon
 [skills](skill "wikilink"), missile is a [thief](thief "wikilink")
@@ -52,7 +52,4 @@ See Also: [Archery](Archery "wikilink"), [Recover](Recover "wikilink"),
   [Concussion](Concussion "wikilink"), [Piercing](Piercing "wikilink"),
   [Slashing](Slashing "wikilink"), [Stabbing](Stabbing "wikilink"),
   [Two-handed](Two-handed "wikilink")
-
-[Category: Thief skills](Category:_Thief_skills "wikilink")
-[Category:Help files](Category:Help_files "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

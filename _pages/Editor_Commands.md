@@ -1,7 +1,7 @@
 ---
 title: Editor Commands
+tags: ["Help files"]
 ---
-
 Syntax for the MUME line editor commands is this:
 
 %<command letter> \[<number>\|b\] \[- \[<number>\|e\]\]
@@ -18,5 +18,3 @@ text is appended after the current position, at the end by default.
 See also: [Editor](Editor "wikilink"), [Change
 Editor](Change_Editor "wikilink"), [Local
 Editor](Local_Editor "wikilink"), [Write](Write "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

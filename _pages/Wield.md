@@ -1,7 +1,7 @@
 ---
 title: Wield
+tags: ["Help files", "Commands"]
 ---
-
 When you get tired of bashing monsters with your fists, you might
 consider **wielding** a [weapon](weapon "wikilink").
 
@@ -17,6 +17,3 @@ one hand.
 See also: [Remove](Remove "wikilink"),
 [Equipment](Equipment "wikilink"), [Draw](Draw "wikilink"),
 [Justice](Justice "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

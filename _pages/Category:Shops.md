@@ -1,5 +1,4 @@
 ---
 title: Category:Shops
+tags: ["Locations"]
 ---
-
-[Category: Locations](Category:_Locations "wikilink")

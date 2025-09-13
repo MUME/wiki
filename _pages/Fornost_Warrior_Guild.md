@@ -1,7 +1,7 @@
 ---
 title: Fornost Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 **Huor of Dor-lómin** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Guild of Warriors** in
 [Fornost](Fornost "wikilink").
@@ -27,5 +27,3 @@ title: Fornost Warrior Guild
 [`slashing weapons`](slashing_weapons "wikilink")`        29   Normal      `
 [`stabbing weapons`](stabbing_weapons "wikilink")`        29   Normal      `
 [`two-handed weapons`](two-handed_weapons "wikilink")`      29   Normal      `
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

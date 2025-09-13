@@ -1,7 +1,7 @@
 ---
 title: Yell
+tags: ["Help files", "Commands"]
 ---
-
 If you want all the players near you to hear something, **yell** it.
 Your voice will travel better indoors, and doors will make it travel
 worse.
@@ -17,6 +17,3 @@ Example:
 See also: [Shout](Shout "wikilink"), [Tell](Tell "wikilink"),
 [Narrate](Narrate "wikilink"), [Sing](Sing "wikilink"),
 [Ignore](Ignore "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Cast
+tags: ["Help files", "Commands"]
 ---
-
 Cast is a [delayed](delayed "wikilink") command for issuing a magical
 [spell](spell "wikilink").
 
@@ -85,6 +85,4 @@ normal". You can however "change spellcasting" to choose a new default.
   List](Spell "wikilink"), [Change
   Spellcasting](Change_Spellcasting "wikilink")
 
-[\*](Category:Spells "wikilink") [Category:Help
-files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")
+[\*](Category:Spells "wikilink") 

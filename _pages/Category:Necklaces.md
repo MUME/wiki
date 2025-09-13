@@ -1,5 +1,4 @@
 ---
 title: Category:Necklaces
+tags: ["Deletion Candidates"]
 ---
-
-[Category:Deletion Candidates](Category:Deletion_Candidates "wikilink")

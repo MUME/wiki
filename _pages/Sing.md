@@ -1,7 +1,7 @@
 ---
 title: Sing
+tags: ["Help files", "Commands"]
 ---
-
 If you want to **sing** to all the other players in the game, sing it
 with the command 'sing <argument>'. You can choose whether to receive
 songs or not from other players by using the command
@@ -21,6 +21,3 @@ Example:
 See also: [Tell](Tell "wikilink"), [Yell](Yell "wikilink"),
 [Shout](Shout "wikilink"), [Listen](Listen "wikilink"),
 [Ignore](Ignore "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

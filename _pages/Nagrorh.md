@@ -1,7 +1,7 @@
 ---
 title: Nagrorh
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Nagrorh** is a necromancer that lives near
 [Greenholm](Greenholm "wikilink"). He's an aggressive level ?
 [mob](mob "wikilink"). He can cast [Sanctuary](Sanctuary "wikilink") and
@@ -32,6 +32,4 @@ dead. A tip - if he casts sanc when you enter his room, but doesn't
 immediately attack, just go west (he doesn't track if you haven't
 engaged him in combat) and wait out the sanc - makes killing him a lot
 faster, as he doesn't re-sanc often.
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

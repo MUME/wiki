@@ -1,7 +1,7 @@
 ---
 title: Slashing weapon
+tags: ["Weapons"]
 ---
-
 **[Slashing weapons](Slashing_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
 usually have moderate strength requirements.
@@ -51,5 +51,3 @@ usually have moderate strength requirements.
 - [Black many-tailed whip](the_black_many-tailed_whip "wikilink")
 
 {% include Items.md %}
-
-[Category: Weapons](Category:_Weapons "wikilink")

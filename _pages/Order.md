@@ -1,7 +1,7 @@
 ---
 title: Order
+tags: ["Help files", "Commands"]
 ---
-
 To **order** a pet or a [charmed](charm "wikilink") person to do
 something. Example:
 
@@ -19,6 +19,4 @@ restrictions on what commands other players can be ordered to perform
 though.
 
 See Also: [Command](Command "wikilink"), [Charm](Charm "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

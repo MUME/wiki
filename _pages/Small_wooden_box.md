@@ -1,7 +1,7 @@
 ---
 title: Small wooden box
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **examine box**
 This is a small wooden box, secured with a metal catch on the front.
 Inside is
@@ -18,6 +18,3 @@ ring](garnet_ring "wikilink") or the [cure
 critic](Cure_Critic "wikilink") spell.
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

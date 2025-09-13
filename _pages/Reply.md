@@ -1,7 +1,7 @@
 ---
 title: Reply
+tags: ["Help files", "Commands"]
 ---
-
 This command is used to **reply** to a message on a bulletin
 [board](board "wikilink").
 
@@ -36,6 +36,3 @@ you wish to write on for this command to work.
 See also: [Boards](Boards "wikilink"), [Mark](Mark "wikilink"),
 [Read](Read "wikilink"), [Tail](Tail "wikilink"),
 [Write](Write "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

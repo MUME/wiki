@@ -1,7 +1,7 @@
 ---
 title: Quit
+tags: ["Help files", "Commands"]
 ---
-
 When you get tired of playing, you can leave the game by typing
 **quit**. Note that whatever stuff you might be carrying with you is
 simply left on the ground (other than [money](money "wikilink")). If you
@@ -18,6 +18,3 @@ for real').
 Unlike most commands, 'quit' can't be abbreviated. Writing 'q', 'qu' or
 'qui' just shows the message 'You have to write "quit" - no less - to
 quit!'.
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

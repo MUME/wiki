@@ -1,7 +1,7 @@
 ---
 title: Dark coloured flask
+tags: ["Containers"]
 ---
-
 \> **look flask**
 
 The small flask is sealed with an old cork, able to hold some kind of
@@ -23,5 +23,3 @@ It weighs a few ounces.
 Contains [oil](oil "wikilink") by default. Sold by most grocers.
 
 {% include Items.md %}
-
-[Category:Containers](Category:Containers "wikilink")

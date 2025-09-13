@@ -1,7 +1,7 @@
 ---
 title: Strange tree
+tags: ["Ents"]
 ---
-
 The **strange tree** is a [level](level "wikilink") 18
 [Ent](Ent "wikilink") living in [Fangorn](Fangorn "wikilink") forest. He
 is willing to teach the leaf-cake [herblore](herblore "wikilink") to an
@@ -16,5 +16,3 @@ interest.
 `it were not in Fangorn, it would be a tree. But something about it is obviously`
 `Entish, although that aspect of it might be hard to rouse. However, its sad`
 `expression clearly shows that drowsiness is definitely not its favourite state.`
-
-[Category: Ents](Category:_Ents "wikilink")

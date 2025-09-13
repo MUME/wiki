@@ -1,7 +1,7 @@
 ---
 title: Call Lightning
+tags: ["Mage spells", "Spells"]
 ---
-
 **Call Lightning** is a [level](level "wikilink") 12
 [mage](mage "wikilink") [spell](spell "wikilink"). It deals a large
 amount of damage, but can only be cast during a lightning storm - either
@@ -27,6 +27,3 @@ This spell can be learned from:
   Bolt](Lightning_Bolt "wikilink"), [Colour
   Spray](Colour_Spray "wikilink"), [Fireball](Fireball "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Harlond Scout Guild
+tags: ["Guildmasters"]
 ---
-
 An **elven hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Guild** in
 [Harlond](Harlond "wikilink").
@@ -24,5 +24,3 @@ An **elven hunter** teaches [scout](thief "wikilink")
 [`piercing weapons`](piercing_weapons "wikilink")`         6  Normal`
 [`search`](search "wikilink")`                   3  Normal`
 [`sneak`](sneak "wikilink")`                    6  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

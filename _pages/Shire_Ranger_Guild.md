@@ -1,7 +1,7 @@
 ---
 title: Shire Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Lessons Room** in the
 [Shire](Shire "wikilink"), just east of Hobbiton.
@@ -23,5 +23,3 @@ A **ranger** teaches [ranger](general "wikilink")
 [`ride`](ride "wikilink")`               2  Very easy`
 [`swim`](swim "wikilink")`               2  Very easy`
 [`wilderness`](wilderness "wikilink")`         7  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

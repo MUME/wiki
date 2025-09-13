@@ -1,7 +1,7 @@
 ---
 title: Longspear
+tags: ["Stabbing weapons"]
 ---
-
 The **longspear** is a [stabbing weapon](stabbing_weapon "wikilink"). It
 is a reward from the [Bandit's Note](Quest#Bandit.27s_Note "wikilink")
 quest and can also be bought from most weaponsmiths for around 8
@@ -21,5 +21,3 @@ quest and can also be bought from most weaponsmiths for around 8
 `It weighs three pounds.`
 
 {% include Items.md %}
-
-[Category: Stabbing weapons](Category:_Stabbing_weapons "wikilink")

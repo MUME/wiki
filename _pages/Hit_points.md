@@ -1,7 +1,7 @@
 ---
 title: Hit points
+tags: ["Help files"]
 ---
-
 **Hit points** (hps) is a way of representing how much physical damage
 your character can endure before [dying](death "wikilink"). Being low on
 hit points means that you character is closer to death than when he or
@@ -16,5 +16,3 @@ It is not a good idea starting a fight at wounded or below.
 
 See also: [Mana](Mana "wikilink"), [Movement
 points](Movement_points "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

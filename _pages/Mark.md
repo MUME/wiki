@@ -1,7 +1,7 @@
 ---
 title: Mark
+tags: ["Help files", "Commands"]
 ---
-
 This command can be used to **mark** a message on a bulletin
 [board](board "wikilink") that you wish to remember.
 
@@ -15,6 +15,3 @@ and 'unmark last' can also be used.
 
 See also: [Reply](Reply "wikilink"), [Tail](Tail "wikilink"),
 [Write](Write "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

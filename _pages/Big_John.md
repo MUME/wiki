@@ -1,7 +1,7 @@
 ---
 title: Big John
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Big John** is the leader of a group of
 [smugglers](smuggler "wikilink") based in a cave system about halfway
 between [Bree](Bree "wikilink") and [Tharbad](Tharbad "wikilink"). He is
@@ -15,6 +15,4 @@ and some leather equipment.
 `Big John, the chief brigand, is a son of John, the lumberjack. When his father`
 `was slaughtered by ferocious adventurers, Big John decided to revenge. He has`
 `succeeded in his plan, and you are likely to be his next victim.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

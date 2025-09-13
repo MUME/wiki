@@ -1,7 +1,7 @@
 ---
 title: Beorning sword
+tags: ["Slashing weapons"]
 ---
-
 ### In room
 
 A thin, light longsword lies on the ground here.
@@ -30,5 +30,3 @@ its speed is average, and it inflicts little damage upon hitting.
 speed is average, and it inflicts average damage upon hitting.
 It weighs three pounds.
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

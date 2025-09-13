@@ -1,7 +1,7 @@
 ---
 title: Emote
+tags: ["Help files", "Commands"]
 ---
-
 The **emote** [command](commands "wikilink") is used to show emotions or
 actions. For example (assuming your character's name is Bilbo):
 
@@ -32,6 +32,3 @@ There is a collection of canned emotes, [social](socials "wikilink")
 commands, if you don't want to type your own. Abuse of emote to show
 misleading information (such as 'emote slashes your head and shatters
 it!') can lead to punishment.
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

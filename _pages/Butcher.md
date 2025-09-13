@@ -1,7 +1,7 @@
 ---
 title: Butcher
+tags: ["Help files", "Commands"]
 ---
-
 Travelling in the wilderness can sometimes result in the poor explorer
 running out of food. The solution to this problem just might be the
 "**butcher**" command. If you have killed an animal that you think
@@ -26,6 +26,3 @@ can use the butcher command to produce "food" from the corpses of dead
 players.
 
 See also: [Milk](Milk "wikilink"), [Cook](Cook "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

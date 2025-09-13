@@ -1,7 +1,7 @@
 ---
 title: Sickle
+tags: ["Slashing weapons"]
 ---
-
 `A gardening tool that looks like a sickle lies here.`
 `>`**`examine sickle`**
 `This crude weapon is more suited for harvesting the wheat, than killing. It`
@@ -16,5 +16,3 @@ title: Sickle
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

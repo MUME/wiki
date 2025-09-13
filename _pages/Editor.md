@@ -1,7 +1,7 @@
 ---
 title: Editor
+tags: ["Help files"]
 ---
-
 When you want to write some text in MUME (for example a character
 description or a bug report or a message on a board), you may have to
 use the MUME line editor to do it.
@@ -24,5 +24,3 @@ Commands](Editor_Commands "wikilink").
 
 See also: [Change Editor](Change_Editor "wikilink"), [Local
 Editor](Local_Editor "wikilink"), [Write](Write "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

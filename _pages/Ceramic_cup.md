@@ -1,7 +1,7 @@
 ---
 title: Ceramic cup
+tags: ["Containers"]
 ---
-
 The **ceramic cup** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain a bit less then 1
 pound worth of liquid. It is worth around 5 copper and is sold at many
@@ -17,5 +17,3 @@ general stores and taverns.
 `It weighs a few ounces.`
 
 {% include Items.md %}
-
-[Category: Containers](Category:_Containers "wikilink")

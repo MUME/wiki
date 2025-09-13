@@ -1,7 +1,7 @@
 ---
 title: Where
+tags: ["Help files", "Commands"]
 ---
-
 The **where** command is really two commands.
 
 Typing 'where' without an argument lists the players potentially visible
@@ -18,6 +18,4 @@ looking for tracks as you move (as opposed to 'track').
 
 Characters who chose to toggle '[incognito](incognito "wikilink") where'
 on are also not shown.
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

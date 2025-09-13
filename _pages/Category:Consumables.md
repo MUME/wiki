@@ -1,7 +1,5 @@
 ---
 title: Category:Consumables
+tags: ["Items"]
 ---
-
 {% include Items.md %}
-
-[Category: Items](Category:_Items "wikilink")

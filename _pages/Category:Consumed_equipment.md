@@ -1,6 +1,4 @@
 ---
 title: Category:Consumed equipment
+tags: ["Deletion Candidates"]
 ---
-
-[Category: Deletion
-Candidates](Category:_Deletion_Candidates "wikilink")

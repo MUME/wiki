@@ -1,7 +1,7 @@
 ---
 title: Dales-pony
+tags: ["Mobiles"]
 ---
-
 **Dales-ponies** are [level](level "wikilink") ~7
 [rideable](ride "wikilink") [mobiles](mobile "wikilink"). They make the
 best [mounts](mount "wikilink") for [dwarves](dwarf "wikilink") and
@@ -16,5 +16,3 @@ best [mounts](mount "wikilink") for [dwarves](dwarf "wikilink") and
 `its eyes are bright and alert. This courageous, intelligent and kind animal`
 `runs clean, straight and true - an exceptional mount but for its diminutive`
 `size.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

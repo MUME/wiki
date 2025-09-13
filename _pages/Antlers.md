@@ -1,7 +1,7 @@
 ---
 title: Antlers
+tags: ["Quest items"]
 ---
-
 **Antlers** are the item required to complete the elven trapper's
 [quest](Quest#The_Hunt "wikilink"). They can be obtained by
 [butchering](butcher "wikilink") the [noble
@@ -18,5 +18,3 @@ stag](noble_stag "wikilink").
 `They weigh four stone and ten pounds.`
 
 {% include Items.md %}
-
-[Category: Quest items](Category:_Quest_items "wikilink")

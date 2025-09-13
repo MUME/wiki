@@ -1,7 +1,7 @@
 ---
 title: Mace
+tags: ["Concussion weapons"]
 ---
-
 The **mace** is a [concussion weapon](concussion_weapon "wikilink"). It
 is worth around 15 [silver](silver "wikilink"), and is sold by most
 weaponsmiths.
@@ -16,5 +16,3 @@ weaponsmiths.
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

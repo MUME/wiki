@@ -1,7 +1,7 @@
 ---
 title: Animated skeleton
+tags: ["Mobiles"]
 ---
-
 \> An intact skeleton of a man is walking around here.
 
 \> **look skeleton**
@@ -21,5 +21,3 @@ Level: ~11-12
 Animated skeletons are hostile.
 
 Loot: Sometimes drops a [rib-bone](rib-bone_of_a_skeleton "wikilink").
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

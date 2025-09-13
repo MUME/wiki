@@ -1,7 +1,7 @@
 ---
 title: Hovels
+tags: ["Help files", "Legend_homes"]
 ---
-
 For the moment, no new Orc Hovels will be installed. The future of Orc
 Hovels has not been decided. If you have any suggestions, feel free to
 mume mail the Arata of Zones. See our page about the
@@ -15,6 +15,3 @@ See also: [Legend Homes](Legend_Homes "wikilink"), [Legend Home
 Equipment](Legend_Home_Equipment "wikilink"), [Legend Home
 Valet](Legend_Home_Valet "wikilink"), [Friend](Friend "wikilink"),
 [Legend Home Doors](Legend_Home_Doors "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Legend_homes](Category:Legend_homes "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Detect Invisibility
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 Syntax : cast 'detect invisibility' Type : Detection Accumulative: No
 Duration : Yes Casting : Normal Position : Standing Level : Level 2
 Class : Magic User Min. Mana : 5 Example: \> cast 'detect invisibility'
@@ -19,7 +19,4 @@ This spell can be learned from:
 
 - [Detect Magic](Detect_Magic "wikilink"), [Night
   Vision](Night_Vision "wikilink"), [Shroud](Shroud "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

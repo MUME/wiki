@@ -1,7 +1,7 @@
 ---
 title: Herblore
+tags: ["Guides"]
 ---
-
 A **herblore** is a recipe that will provide you with a potion or other
 item to help you in your travels. They can be learnt by helping certain
 [mobiles](mobile "wikilink") or by reading an ancient scroll or book. To
@@ -1166,5 +1166,3 @@ seen in 'stat' for the full 12 minutes although there is no noticeable
 effect after the last tic of the poison at about 10 minutes.
 
 </spoiler>
-
-[Category:Guides](Category:Guides "wikilink")

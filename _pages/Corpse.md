@@ -1,7 +1,7 @@
 ---
 title: Corpse
+tags: ["Help files"]
 ---
-
 When a living creature dies, it leaves a [corpse](corpse "wikilink")
 which contains the worldly possessions that were carried at the moment
 of [death](death "wikilink"). You can loot the corpses of your fallen
@@ -39,5 +39,3 @@ on.
 
 See also: [Decapitate](Decapitate "wikilink"), [Drag](Drag "wikilink"),
 [Drain](Drain "wikilink"), [Hang](Hang "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

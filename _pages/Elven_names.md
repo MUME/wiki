@@ -1,7 +1,7 @@
 ---
 title: Elven names
+tags: ["Help files"]
 ---
-
 [Elvish](Elvish "wikilink") names tend to be compound words or phrases.
 For Example: [Elrond](wikipedia:en:Elrond "wikilink") means 'Vault of
 Heaven', or 'Starry-dome' (El = Star ; Rod/Rond = domed roof). (See
@@ -45,5 +45,3 @@ derivation, [Dwarves](Dwarves "wikilink"), [Orcs](Orc "wikilink"), and
   - [Elvish](Elvish "wikilink")
 - [Roleplay](Roleplay "wikilink")
 - [Rules Names](Rules_Names "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

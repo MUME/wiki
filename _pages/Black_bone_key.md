@@ -1,7 +1,7 @@
 ---
 title: Black bone key
+tags: ["Keys"]
 ---
-
 \> **examine key**
 
 This is a most strange piece of work. The key seems to be made from a
@@ -27,5 +27,3 @@ It weighs half a pound.
 
 Dropped by [Nagrorh](Nagrorh "wikilink"), this key unlocks the southern
 exit of Nagrorh's room.
-
-[Category: Keys](Category:_Keys "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Drop
+tags: ["Help files", "Commands"]
 ---
-
 If you lose interest in a carried [item](item "wikilink"), you can
 **drop** it on the ground. Examples: \> drop bottle \> drop all (drops
 everything you are carrying) Dropping objects in a certain location in
@@ -19,6 +19,3 @@ or "drop everyone" to try to shake off everyone:
 
 See also: [Get](Get "wikilink"), [Put](Put "wikilink"),
 [Abandon](Abandon "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

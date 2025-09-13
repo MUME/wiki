@@ -1,7 +1,7 @@
 ---
 title: Broomrape plant
+tags: ["Plants"]
 ---
-
 **Broomrape plants** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 8 [plants](plant "wikilink") found in
 [Fangorn](Fangorn "wikilink").
@@ -11,5 +11,3 @@ title: Broomrape plant
 `Of a spiky shape, this yellowish-orange plant is growing almost eleven inches`
 `in height. Its blooms resemble small white and violet bells, emitting a strange`
 `aroma into the air around it.`
-
-[Category: Plants](Category:_Plants "wikilink")

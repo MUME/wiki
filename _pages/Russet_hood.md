@@ -1,7 +1,7 @@
 ---
 title: Russet hood
+tags: ["Cloth equipment", "Head items"]
 ---
-
 `A russet coloured hood lies on the ground.`
 `>`**`examine hood`**
 `A well-made hood in a reddish-brown colour.`
@@ -11,6 +11,3 @@ title: Russet hood
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category: Head items](Category:_Head_items "wikilink")

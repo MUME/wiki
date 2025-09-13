@@ -1,7 +1,5 @@
 ---
 title: Category:Slashing weapons
+tags: ["Weapons"]
 ---
-
 {% include Items.md %}
-
-[Category: Weapons](Category:_Weapons "wikilink")

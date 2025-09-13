@@ -1,7 +1,7 @@
 ---
 title: Two-handed weapon
+tags: ["Weapons"]
 ---
-
 **[Two-handed weapons](Two-handed_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
 have high strength requirements and high damage, but slow attack speed
@@ -42,5 +42,4 @@ and they cannot be wielded together with anything more than a buckler.
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Smiting_weapons "wikilink")

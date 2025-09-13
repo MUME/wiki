@@ -1,7 +1,7 @@
 ---
 title: High boots
+tags: ["Leather equipment", "Feet items"]
 ---
-
 \> **look boots**
 
 These boots are of calf-high length and have been crafted from brown
@@ -17,6 +17,3 @@ protection from the elements.
 They are a pair of high boots. They weigh three pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

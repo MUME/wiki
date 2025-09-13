@@ -1,7 +1,7 @@
 ---
 title: Learn
+tags: ["Help files", "Commands"]
 ---
-
 It is possible to **learn** a [skill](skill "wikilink") from another
 player if:
 
@@ -22,6 +22,3 @@ To stop teaching, hit <return>
 To learn a skill type 'learn <skill>' when someone is teaching it.
 
 See also: [Practice](Practice "wikilink"), [Guild](Guild "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

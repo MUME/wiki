@@ -1,7 +1,7 @@
 ---
 title: Regeneration
+tags: ["Help files"]
 ---
-
 The rate of which your character **regenerates** [hit
 points](hit_points "wikilink"), [mana](mana "wikilink") and [movement
 points](movement_points "wikilink") is determined by a number of
@@ -51,5 +51,3 @@ ranges from 0.78 to 1.22 or so, or in this case 44 (frozen) to 69
 Note that the formula implies that an archaic copper wristband (+10 max
 mana) or rubellite (+11 max mana) actually give more regen than a slim
 silvery wristband (+1 mana regen). </spoiler>
-
-[Category:Help files](Category:Help_files "wikilink")

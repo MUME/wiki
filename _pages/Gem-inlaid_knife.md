@@ -1,7 +1,7 @@
 ---
 title: Gem-inlaid knife
+tags: ["Piercing weapons"]
 ---
-
 `A knife, inlaid with dazzling gemstones, has been left here.`
 `>`**`examine gem-inlaid`**
 `This slim hunting knife has been inlaid with several dazzling gemstones`
@@ -14,5 +14,3 @@ title: Gem-inlaid knife
 `It weighs a couple of ounces.`
 
 {% include Items.md %}
-
-[Category: Piercing weapons](Category:_Piercing_weapons "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Crumpled, mud-smeared piece of paper
+tags: ["Quest items"]
 ---
-
 The **crumpled, mud-smeared piece of paper** is an
 [item](item "wikilink") needed for the [Bandit's
 Note](Quest#Bandit.27s_Note "wikilink") quest. It is carried by a
@@ -20,5 +20,3 @@ Havens](Grey_Havens "wikilink").
 `It weighs about an ounce.`
 
 {% include Items.md %}
-
-[Category: Quest items](Category:_Quest_items "wikilink")

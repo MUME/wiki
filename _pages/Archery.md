@@ -1,7 +1,7 @@
 ---
 title: Archery
+tags: ["Help files"]
 ---
-
 In order to use missile weapons, you need to wield the weapon, wear the
 appropriate quiver, and fill it with the appropriate missiles. After
 this, find a target and SHOOT the target. Once the target's dead, you
@@ -18,5 +18,3 @@ Pebbles may be searched for on the ground, if you are using a sling: use
 REVEAL STONE. See also: [Missile](Missile "wikilink"),
 [Shoot](Shoot "wikilink"), [Recover](Recover "wikilink"),
 [Load](Load "wikilink"), [Target Shooting](Target_Shooting "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Druid
+tags: ["Guildmasters"]
 ---
-
 A **druid** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") in his home northwest of
 [Bree](Bree "wikilink"). He is a [good](alignment "wikilink")
@@ -33,5 +33,3 @@ Room Name: Library
 [`Remove Poison`](Remove_Poison "wikilink")`               3  Normal`
 [`Smother`](Smother "wikilink")`                     9  Easy`
 [`Strength`](strength_Spell "wikilink")`                    3  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Giant fungus
+tags: ["Mobiles"]
 ---
-
 **Giant fungi** are passive [level](level "wikilink") \<10
 [mobiles](mobile "wikilink").
 
@@ -9,5 +9,3 @@ title: Giant fungus
 `>`**`examine fungus`**
 `An ancient fungus thrives on the moist face of the boulders.  It seems to`
 `pulsate with life...`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

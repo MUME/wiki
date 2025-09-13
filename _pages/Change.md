@@ -1,7 +1,7 @@
 ---
 title: Change
+tags: ["Help files", "Commands"]
 ---
-
 This is a general command to **change** one of your parameters.
 
 Use 'change <parameter>', where <parameter> is one of the following:
@@ -42,6 +42,3 @@ More parameters might be available, type 'change' to have a complete
 list. Ainu see /help change.
 
 Example: \> change colour fight \> change language westron
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

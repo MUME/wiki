@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Campfires and Cooking
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Guide Camping and Campfires and Cooking in MUME**
 
 This guide written and published by p(Baca/Endo)
@@ -235,6 +235,4 @@ skills! It just takes a minute to try most of them out.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Soft leather gloves
+tags: ["Leather equipment", "Hands items"]
 ---
-
 \> **look gloves**
 
 These gloves have been fashioned from a delicate thin leather. They seem
@@ -16,6 +16,3 @@ They are a pair of soft leather gloves.
 They weigh about one pound.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Hands items](Category:Hands_items "wikilink")

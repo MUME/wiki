@@ -1,7 +1,7 @@
 ---
 title: Blackened pendant
+tags: ["Neck items"]
 ---
-
 The **blackened pendant** can be worn around the
 [neck](neck "wikilink"). It loads on some uruk-hai
 [mobiles](mobile "wikilink"), and it can't be sold.
@@ -16,5 +16,3 @@ The **blackened pendant** can be worn around the
 `>`**`consider pendant`**
 `It is a blackened pendant.`
 `It weighs a few ounces.`
-
-[Category: Neck items](Category:_Neck_items "wikilink")

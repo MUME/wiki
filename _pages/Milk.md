@@ -1,7 +1,7 @@
 ---
 title: Milk
+tags: ["Commands"]
 ---
-
 Players who feel the farmer-blood in their veins can now exercise
 themselves on cows or goats, by filling their skins through milking
 them.
@@ -14,4 +14,3 @@ See also: [Butcher](Butcher "wikilink"), [Cook](Cook "wikilink"),
 
 [Milk](Category:Consumables "wikilink")
 [Milk](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

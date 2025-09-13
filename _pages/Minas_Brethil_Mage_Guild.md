@@ -1,7 +1,7 @@
 ---
 title: Minas Brethil Mage Guild
+tags: ["Guildmasters"]
 ---
-
 A **sorcerer** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Top of the Eastern Tower** in [Minas
 Brethil](Minas_Brethil "wikilink").
@@ -25,5 +25,3 @@ Brethil](Minas_Brethil "wikilink").
 [`Night Vision`](Night_Vision "wikilink")`                1  Normal`
 [`Shocking Grasp`](Shocking_Grasp "wikilink")`              5  Normal`
 [`Shroud`](Shroud "wikilink")`                      2  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

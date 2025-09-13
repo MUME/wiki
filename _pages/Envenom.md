@@ -1,7 +1,7 @@
 ---
 title: Envenom
+tags: ["Thief skills", "Skills"]
 ---
-
 **Envenom** is a [thief](thief "wikilink") [skill](skill "wikilink")
 that allows you to poison your opponent. First a decent knowledge of the
 skill is needed, or you may well poison yourself while preparing your
@@ -25,6 +25,4 @@ resistant than others.
 Example:
 
 `   > poison axe`
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

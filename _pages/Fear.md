@@ -1,7 +1,7 @@
 ---
 title: Fear
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Fear** is a level 15 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will instill a surge of fear in every
 creature in the same room who are not grouped with the caster. Depending
@@ -20,7 +20,4 @@ This spell can be learned from:
 [`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`              10`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`            18`
 [`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               8`
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

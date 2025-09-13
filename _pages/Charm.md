@@ -1,7 +1,7 @@
 ---
 title: Charm
+tags: ["Spells", "Mage spells"]
 ---
-
 **Charm** is a [level](level "wikilink") 14 [mage](mage "wikilink")
 [spell](spell "wikilink"). When cast upon a
 [creature](mobile "wikilink") it will try to gain mental control over
@@ -61,6 +61,4 @@ Level 14 Class : Magic User Min. Mana : 20
 
 - [Order](Order "wikilink"), [Call Familiar](Call_Familiar "wikilink"),
   [Command](Command "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
+ 

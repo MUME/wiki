@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Light Sources and Seeing
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Light Sources and Seeing**
 
 This guide written and published by p(Baca/Endo)
@@ -315,6 +315,4 @@ Now go out and see everything in Middle Earth that MUME has to offer!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

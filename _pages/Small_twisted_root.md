@@ -1,7 +1,7 @@
 ---
 title: Small twisted root
+tags: ["Keys"]
 ---
-
 The **small twisted root** is a [key](key "wikilink"). It loads on [Bill
 Ferny](Bill_Ferny "wikilink") and can be used to
 [unlock](unlock "wikilink") the hidden wall to the east of the
@@ -20,5 +20,3 @@ Ferny](Bill_Ferny "wikilink") and can be used to
 `It weighs about one pound.`
 
 {% include Items.md %}
-
-[Category: Keys](Category:_Keys "wikilink")

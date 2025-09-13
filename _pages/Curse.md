@@ -1,7 +1,7 @@
 ---
 title: Curse
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 Syntax : cast 'curse' \[\<victim\> \| \<object\>\] Type : Offensive,
 mental Accumulative: No Duration : Yes (permanent on objects) Casting :
 Very long Position : Standing Level : Level 10 Class : Cleric Min. Mana
@@ -20,7 +20,4 @@ This spell can be learned from:
 
 - [Corrupting](Corrupting "wikilink"), [Remove
   Curse](Remove_Curse "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

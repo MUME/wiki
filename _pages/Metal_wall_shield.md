@@ -1,7 +1,7 @@
 ---
 title: Metal wall shield
+tags: ["Shields"]
 ---
-
 The **metal wall shield** is a rather heavy [shield](shield "wikilink")
 that grants mediocre [parry bonus](parry_bonus "wikilink"). It can be
 bought from most armourers for about 9 [gold](gold "wikilink").
@@ -17,5 +17,3 @@ bought from most armourers for about 9 [gold](gold "wikilink").
 `It weighs two stone and one pound.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

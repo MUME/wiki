@@ -1,7 +1,7 @@
 ---
 title: Glowing spirit
+tags: ["Mobiles"]
 ---
-
 *For another mob with the same name, see [spirit](spirit "wikilink").*
 
 Glowing **spirits** are aggressive level ~15-16
@@ -15,5 +15,3 @@ Spray](Colour_Spray "wikilink").
 `This spirit has a noticeable magic aura. Looking at it, you recognise that the`
 `spirit must have been a master of spells in its former life and still has some`
 `arcane powers left.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

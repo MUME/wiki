@@ -1,7 +1,7 @@
 ---
 title: Latin1
+tags: ["Help files"]
 ---
-
 The following table displays the characters in ISO 8859-1 (also known as
 "Latin-1") which are printable and unlisted in the ascii(7) manual page.
 Oct Dec Hex Char Description 240 160 A0   NO-BREAK SPACE 241 161 A1 ¡
@@ -67,5 +67,3 @@ character in the Latin1 charset, as it has a special meaning in the
 Telnet protocol.
 
 See also: [Charset](Charset "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

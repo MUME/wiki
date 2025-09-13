@@ -1,7 +1,7 @@
 ---
 title: Old Fornost
+tags: ["Locations"]
 ---
-
 **Old Fornost** is the western, ruined part of
 [Fornost](Fornost "wikilink"). The [Black Dagger
 Guild](Black_Dagger_Guild "wikilink") is hidden in the cellar of a
@@ -37,5 +37,3 @@ warriors](skeletal_warrior "wikilink") roam the halls. The
 flooded cellar.
 
 {% include Place.md %}
-
-[Category: Locations](Category:_Locations "wikilink")

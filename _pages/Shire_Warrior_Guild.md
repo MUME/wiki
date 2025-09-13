@@ -1,7 +1,7 @@
 ---
 title: Shire Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 The **old Shirriff** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Shirriffs' Office** in Stock. The
 [guild](guild "wikilink") is open from 7am to 7pm.
@@ -22,5 +22,3 @@ The **old Shirriff** teaches [warrior](warrior "wikilink")
 [`parry`](parry "wikilink")`                    8  Normal`
 [`rescue`](rescue "wikilink")`                   5  Easy`
 [`slashing weapons`](slashing_weapons "wikilink")`         8  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

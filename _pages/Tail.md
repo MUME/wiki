@@ -1,7 +1,7 @@
 ---
 title: Tail
+tags: ["Help files", "Commands"]
 ---
-
 This allows you when reading a board to see only the last few messages,
 rather than scrolling through the entire list. The syntax is:
 
@@ -12,6 +12,3 @@ for <num> is one screenful - 21, for a standard terminal.
 
 See also: [Boards](Boards "wikilink"), [Read](Read "wikilink"),
 [Mail](Mail "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

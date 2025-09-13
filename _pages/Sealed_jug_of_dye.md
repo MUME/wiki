@@ -1,7 +1,7 @@
 ---
 title: Sealed jug of dye
+tags: ["Quest items"]
 ---
-
 The **sealed jug of dye** is the [item](item "wikilink") required to
 complete the [ancient weaver](ancient_weaver "wikilink")'s
 [quest](Quest#The_Elven_Weaver "wikilink").
@@ -16,5 +16,3 @@ complete the [ancient weaver](ancient_weaver "wikilink")'s
 `>`**`consider jug`**
 `It is a sealed jug of dye.`
 `It weighs eight pounds.`
-
-[Category: Quest items](Category:_Quest_items "wikilink")

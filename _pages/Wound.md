@@ -1,7 +1,7 @@
 ---
 title: Wound
+tags: ["Help files"]
 ---
-
 When fighting [mobs](mob "wikilink") or players in MUME there is a
 chance you may inflict or receive **wounds** if the blow is forceful
 enough. The resulting bleeding may subsequently make it difficult to
@@ -37,5 +37,3 @@ heal them or at least fasten their healing through:
 
 Left untreated, wounds may bleed profusely and could cause an untimely
 death. They might also become infected.
-
-[Category:Help files](Category:Help_files "wikilink")

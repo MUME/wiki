@@ -1,7 +1,7 @@
 ---
 title: Dark-green moss
+tags: ["Quest items"]
 ---
-
 **Dark-green moss** is used by the [dwarven
 dye-maker](dwarven_dye-maker "wikilink") to create the
 [dye](sealed_jug_of_dye "wikilink") required for the [elven
@@ -19,5 +19,3 @@ ridge on the bank of the Nan Duin that can only be reached by
 `>`**`consider moss`**
 `It is some dark-green moss.`
 `It weighs a few ounces.`
-
-[Category: Quest items](Category:_Quest_items "wikilink")

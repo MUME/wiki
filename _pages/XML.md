@@ -1,7 +1,7 @@
 ---
 title: XML
+tags: ["Help files"]
 ---
-
 Type change XML to get the following information between \< \>. This is
 mostly used for those that use a [mapper](mapper "wikilink")
 
@@ -21,5 +21,3 @@ unknown (or unapplicable) dir \<tell\>...\</tell\> : tell
 : weather message
 
 There will be more, and all of the above is subject to change.
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Neck
+tags: ["Equipment"]
 ---
-
 A list of items worn around the **neck**. Those which are useful are
 almost always magical, with the non magical items being of a purely
 cosmetic or roleplaying nature. Usually magical items worn around the
@@ -28,5 +28,4 @@ neck provide the user with some protection against magic.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Neck_items "wikilink")

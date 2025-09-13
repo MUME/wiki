@@ -1,7 +1,7 @@
 ---
 title: Attack
+tags: ["Thief skills", "Skills"]
 ---
-
 **Attack** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to hit twice in a combat round, if you wield a suitable
 ([piercing](piercing "wikilink")) weapon. It also speeds up your
@@ -14,6 +14,4 @@ not only in conjunction with the piercing skill, but also every time you
 are forced to flee from combat.
 
 [Back to skill list](Skill "wikilink")
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

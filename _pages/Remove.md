@@ -1,7 +1,7 @@
 ---
 title: Remove
+tags: ["Help files", "Commands"]
 ---
-
 To **remove** [equipment](equipment "wikilink") you are
 [wearing](wear "wikilink"), [wielding](wield "wikilink") or
 [holding](hold "wikilink").
@@ -22,6 +22,3 @@ Example:
 `> remove 1046`
 
 See also: [Write](Write "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

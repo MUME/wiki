@@ -1,7 +1,7 @@
 ---
 title: Icy ring
+tags: ["Rings"]
 ---
-
 \>**examine icy**
 The ring, covered by a thinning layer of ice, is made of a silvery metal
 and
@@ -33,5 +33,3 @@ dissolving - much like weapons and armour go from flawless to
 well-maintained.</small>
 
 {% include Items.md %}
-
-[Category: Rings](Category:_Rings "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Castle key
+tags: ["Keys"]
 ---
-
 The **castle key** can be used to unlock some [doors](door "wikilink")
 within [Malardil's castle](Malardil's_castle "wikilink"). It loads on
 the [diminutive rogue](diminutive_rogue "wikilink") on the roof of the
@@ -18,5 +18,3 @@ guardpost south of the main gate, as well as
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Keys](Category:_Keys "wikilink")

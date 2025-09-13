@@ -1,7 +1,7 @@
 ---
 title: Sense Life
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Sense life** is a level 7 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will increase awareness temporarily and
 thus makes it more likely that you discover hidden or sneaking
@@ -18,6 +18,3 @@ can be learned from:
 [`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         1`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             3`
 [`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               9`
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

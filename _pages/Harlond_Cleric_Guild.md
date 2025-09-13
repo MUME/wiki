@@ -1,7 +1,7 @@
 ---
 title: Harlond Cleric Guild
+tags: ["Guildmasters"]
 ---
-
 **Filatior** teaches [cleric](cleric "wikilink")
 [spells](spells "wikilink") at the **Small Temple** in
 [Harlond](Harlond "wikilink").
@@ -25,5 +25,3 @@ title: Harlond Cleric Guild
 [`Detect Poison`](Detect_Poison "wikilink")`          3  Easy`
 [`Sense Life`](Sense_Life "wikilink")`             2  Normal`
 [`Strength`](strength_Spell "wikilink")`               3  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

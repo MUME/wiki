@@ -1,7 +1,7 @@
 ---
 title: Ingrove Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 **Ilyne** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Traveller's Hut** in
 [Ingrove](Anduin_Vale#Ingrove "wikilink").
@@ -24,5 +24,3 @@ title: Ingrove Ranger Guild
 [`swim`](swim "wikilink")`               4  Very easy`
 [`track`](track "wikilink")`              7  Normal`
 [`wilderness`](wilderness "wikilink")`        12  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

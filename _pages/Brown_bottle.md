@@ -1,7 +1,7 @@
 ---
 title: Brown bottle
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **look bottle**
 
 The liquid inside the bottle is thick, kind of like syrup. Smells nice
@@ -21,6 +21,3 @@ This is an [antidote](antidote "wikilink"). It cures any
 making you immune to poisons for a short while (~1 MUME day).
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

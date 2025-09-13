@@ -1,7 +1,7 @@
 ---
 title: Legend home permit
+tags: ["Legend homes"]
 ---
-
 ## How to Apply for a Legend Home Building Permit
 
 In order to apply you must have made 50% of the home cost deposit.
@@ -36,5 +36,3 @@ already made payment for the upgrade, please post your request here.
 
 `              Approved homes and upgrades should be completed`
 `                 by the construction crew within 30 RL days.`
-
-[Category:Legend homes](Category:Legend_homes "wikilink")

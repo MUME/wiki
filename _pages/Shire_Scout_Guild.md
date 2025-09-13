@@ -1,7 +1,7 @@
 ---
 title: Shire Scout Guild
+tags: ["Guildmasters"]
 ---
-
 A **well-travelled hobbit** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") in the [Shire](Shire "wikilink"). He can be
 usually be found wandering around in Hobbiton and the fields nearby.
@@ -22,5 +22,3 @@ usually be found wandering around in Hobbiton and the fields nearby.
 [`piercing weapons`](piercing_weapons "wikilink")`         4  Normal`
 [`search`](search "wikilink")`                   3  Normal`
 [`sneak`](sneak "wikilink")`                   18  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

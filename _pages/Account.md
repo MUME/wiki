@@ -1,7 +1,7 @@
 ---
 title: Account
+tags: ["Help files"]
 ---
-
 You have one **account** from which you can log in with your characters.
 If you log in with your account name, you start the game in the menu.
 You can "create" (for example: "create Bilbo") new characters from here
@@ -32,5 +32,3 @@ You can show information about characters in your account using "account
 <character>" from the account menu.
 
 See Also: [Rules Accounts](Rules_Accounts "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

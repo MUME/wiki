@@ -1,7 +1,7 @@
 ---
 title: Malardil's guardsman
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Malardil's guardsmen** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's
 castle](Malardil's_castle "wikilink"). They load with 5
@@ -15,6 +15,4 @@ leather with the occasional metal piece.
 `>`**`examine guardsman`**
 `The guard is a sturdy and strong man, but has the bearing of a skilled`
 `fighter, who is able to kill his opponent without hesitation.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

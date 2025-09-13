@@ -1,7 +1,7 @@
 ---
 title: Charset
+tags: ["Help files"]
 ---
-
 MUME has two modes of displaying information to the players. Either it
 uses the 7 bits of standard ASCII, or the 8 bit Latin-1 (iso 8859-1)
 character set.
@@ -42,5 +42,3 @@ available that make this somewhat easier (e.g., xkeycaps which can be
 found at <http://www.jwz.org/xkeycaps/>).
 
 See also: [Change](Change "wikilink"), [Latin1](Latin1 "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

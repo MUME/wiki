@@ -1,7 +1,7 @@
 ---
 title: Haunt
+tags: ["Mobiles"]
 ---
-
 \> A shadowy haunt floats here, oblivious to your presence.
 
 \> **look haunt**
@@ -19,5 +19,3 @@ Level: ~10-13
 Haunts are not hostile.
 
 Loot: None
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

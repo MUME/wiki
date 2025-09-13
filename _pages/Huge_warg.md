@@ -1,7 +1,7 @@
 ---
 title: Huge warg
+tags: ["Mobiles"]
 ---
-
 **Huge wargs** are aggressive level ~13-14 [mobs](mob "wikilink") found
 mostly in the eastern parts of [Arda](Arda "wikilink"). They can
 [track](track "wikilink"), and their [corpses](corpse "wikilink") can be
@@ -14,5 +14,3 @@ fur](warg_fur "wikilink").
 `Its coarse fur of dark fur covers a strong skeleton, framed by rippling`
 `muscles. Allied with the orcs, this monster is more than a match for many an`
 `elf or dwarf warrior.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Ainur
+tags: ["Help files"]
 ---
-
 The **Ainur** are the immortals of [MUME](MUME "wikilink"). They do not
 take part of playing the game, but shape the world and keeps it running.
 
@@ -64,5 +64,3 @@ probably know the answer.
 
 There are Aratar without this precise job description too, but they have
 assignments and responsibilities (just not in plainsight for mortals).
-
-[Category:Help files](Category:Help_files "wikilink")

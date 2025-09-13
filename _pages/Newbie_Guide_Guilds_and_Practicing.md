@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Guilds and Practicing
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Guilds and Practicing**
 
 This guide written and published by p(Baca/Endo)
@@ -613,6 +613,4 @@ practice with your character!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

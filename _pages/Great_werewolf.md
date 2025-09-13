@@ -1,7 +1,7 @@
 ---
 title: Great werewolf
+tags: ["Mobiles"]
 ---
-
 \> **look wolf**
 
 This great beast sniffs the air for potential victims. Although from
@@ -27,5 +27,3 @@ Great werewolves are hostile and will attempt to
 combat.
 
 Loot: None.
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

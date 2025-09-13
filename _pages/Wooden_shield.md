@@ -1,7 +1,7 @@
 ---
 title: Wooden shield
+tags: ["Shields"]
 ---
-
 `A wooden shield is on the ground.`
 `>`**`examine shield`**
 `A single, large oaken plank has been skilfully cut and carved to form this`
@@ -14,5 +14,3 @@ title: Wooden shield
 `It weighs seven pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

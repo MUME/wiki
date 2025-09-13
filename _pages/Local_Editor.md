@@ -1,7 +1,7 @@
 ---
 title: Local Editor
+tags: ["Help files"]
 ---
-
 The MUME remote editing protocol is a mechanism that allows users to
 edit files on their local machines, as opposed to using the standard
 line editor.
@@ -35,5 +35,3 @@ the MUME website.
 
 See also: [Change Editor](Change_Editor "wikilink"), [Guide to local
 editing with PowTTY‎](Guide_to_local_editing_with_PowTTY‎ "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

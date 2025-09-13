@@ -1,7 +1,7 @@
 ---
 title: Guild
+tags: ["Help files"]
 ---
-
 The **Guild** is the place where mortals may go to escape the troubles
 and perils of a cruel world. There they may participate in discussions
 about the [skills](skill "wikilink") and strengths of their class, as
@@ -19,5 +19,3 @@ If you wish to know the use of a particular skill or spell, you can ask
 any guild master who teaches this ability for information:
 
 `> ask thief help `[`dodge`](dodge "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")

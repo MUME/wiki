@@ -1,7 +1,7 @@
 ---
 title: Novoid
+tags: ["Help files"]
 ---
-
 MUME characters have linkless protection: if your link drops, you soon
 become invulnerable until you reconnect. However, this feature is
 sometimes abused by players deliberately dropping link to avoid death.
@@ -17,5 +17,3 @@ you're linkless.
 Of course, if you are already linkless, you cannot gain a novoid flag.
 
 See also: [Noquit](Noquit "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

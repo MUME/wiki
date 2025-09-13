@@ -1,7 +1,7 @@
 ---
 title: Istari
+tags: ["Help files"]
 ---
-
 ## Background
 
 When the power of Sauron began to grow again in the Third Age, five
@@ -144,5 +144,3 @@ metamorph and istar.
 
 See also: [Ainur](Ainur "wikilink"), [Hero](Hero "wikilink"),
 [Legend](Legend "wikilink"), [Metamorph](Metamorph "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

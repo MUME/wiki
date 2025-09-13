@@ -1,7 +1,7 @@
 ---
 title: Fish
+tags: ["Help files", "Commands"]
 ---
-
 With the right equipment and some time on one's hands, one can fish the
 rivers and lakes of Arda. To do so you must have either a sturdy fishing
 pole or a fishing net woven of strong thread.
@@ -15,6 +15,3 @@ grayling may have wandered into it's grasp and onto your supper plate.
 Example: \> fish \> use net, get net See also: [Milk](Milk "wikilink"),
 [Butcher](Butcher "wikilink"), [Camp](Camp "wikilink"),
 [Cook](Cook "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

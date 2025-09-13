@@ -1,7 +1,7 @@
 ---
 title: Dwarf
+tags: ["Playable races"]
 ---
-
 ![](Gimli.jpg "Gimli.jpg")''\]\] **Dwarves** are a tough and sturdy
 people, the creation of Mahal, the Vala Aulë. They are stubborn and
 aggressive, yet honourable and steadfast companions. The Dwarves have
@@ -36,5 +36,3 @@ Hills](Tower_Hills "wikilink"), [Bree](Bree "wikilink"),
 the [Blue Mountains](Blue_Mountains "wikilink").
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

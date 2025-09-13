@@ -1,7 +1,7 @@
 ---
 title: Tower Hills Blacksmith
+tags: ["Shops", "Shopkeepers"]
 ---
-
 A **tall, muscular blacksmith** tends to the **Blacksmith's Workshop**
 in [Black Hill](Black_Hill "wikilink"). The store stocks a variety of
 common [armour](armour "wikilink") and [weapons](weapon "wikilink"), and
@@ -15,6 +15,4 @@ and 12pm to 12am.
 `it. Deep set eyes peer through the dim lighting to examine his work.`
 `This master craftsman's eyes shimmer with a strong determination when working`
 `his craft.`
-
-[Category: Shops](Category:_Shops "wikilink") [Category:
-Shopkeepers](Category:_Shopkeepers "wikilink")
+ 

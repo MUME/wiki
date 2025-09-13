@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide to Ranger Skills
+tags: ["Guides", "Newbie Help"]
 ---
-
 Newbie Guide to Ranger Skills
 
 "There is something strange at work in this land. I distrust the
@@ -476,6 +476,4 @@ and practice with your character!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

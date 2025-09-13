@@ -1,7 +1,7 @@
 ---
 title: Sulien's ghost
+tags: ["Mobiles"]
 ---
-
 **Sulien's ghost** is a level ~7-8 [mobile](mobile "wikilink") found in
 a ruined village east of [Bree](Bree "wikilink"). She follows [Halamor's
 ghost](Halamor's_ghost "wikilink") around, and will disappear if he is
@@ -16,5 +16,3 @@ killed. She loads a [ring](ring "wikilink").
 `her features, retain colour? As she sees you an expression of mingled`
 `hope and dismay crosses her face even as she grips her long knife more`
 `carefully.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

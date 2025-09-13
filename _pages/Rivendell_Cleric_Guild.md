@@ -1,7 +1,7 @@
 ---
 title: Rivendell Cleric Guild
+tags: ["Guildmasters"]
 ---
-
 An **elven priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at the **Cleric Guild** in
 [Rivendell](Rivendell "wikilink").
@@ -38,5 +38,3 @@ An **elven priest** teaches [cleric](cleric "wikilink")
 [`Sense Life`](Sense_Life "wikilink")`                   3  Normal`
 [`Strength`](Strength_Spell "wikilink")`                    18  Hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              12  Very hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

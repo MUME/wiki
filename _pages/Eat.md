@@ -1,7 +1,7 @@
 ---
 title: Eat
+tags: ["Help files", "Commands"]
 ---
-
 **Eat** (or **taste**) and **drink** (or **sip**) are the commands for
 consuming food and drink, respectively. When you're hungry or thirsty,
 you will find that you tire more quickly and regain [hit
@@ -16,6 +16,3 @@ Examples:
 
 See Also: [Food](Food "wikilink"),
 [Regeneration](Regeneration "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,5 +1,4 @@
 ---
 title: Category:Shopkeepers
+tags: ["Mobiles"]
 ---
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

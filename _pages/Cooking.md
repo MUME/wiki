@@ -1,7 +1,7 @@
 ---
 title: Cooking
+tags: ["Help files"]
 ---
-
 Most meat found in the wild will be raw. It is possible to increase both
 its nurishment value and its lifetime by cooking it. It is also possible
 to cook fish.
@@ -17,5 +17,3 @@ Note that meat from humanoids does not cook well.
 See also: [Butcher](Butcher "wikilink"), [Scalp](Scalp "wikilink"),
 [Milk](Milk "wikilink"), [Fish](Fish "wikilink"),
 [Cook](Cook "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

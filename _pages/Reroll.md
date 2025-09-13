@@ -1,7 +1,7 @@
 ---
 title: Reroll
+tags: ["Help_files"]
 ---
-
 Policy for Rerolls:
 
 Since players get to choose their own stats, full rerolls are not given.
@@ -23,5 +23,3 @@ when you reroll.
 Rerolling will automatically give you a reset of practices as well.
 
 See also: [Retire](Retire "wikilink"), [Train](Train "wikilink")
-
-[Category:Help_files](Category:Help_files "wikilink")

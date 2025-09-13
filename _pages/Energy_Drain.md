@@ -1,7 +1,7 @@
 ---
 title: Energy Drain
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 NOTE: Using this spell is an evil act.
 
 Syntax : cast 'energy drain' Type : Offensive, special Accumulative: N/A
@@ -18,7 +18,4 @@ This spell can be learned from:
 
 - [Dispel Evil](Dispel_Evil "wikilink"), [Harm](Harm "wikilink"),
   [Smother](Smother "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

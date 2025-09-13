@@ -1,7 +1,5 @@
 ---
 title: Magic
+tags: ["Spells"]
 ---
-
 1.  Redirect
-
-[Category:Spells](Category:Spells "wikilink")

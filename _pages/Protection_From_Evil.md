@@ -1,7 +1,7 @@
 ---
 title: Protection From Evil
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Protection from Evil** is a level 4 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It temporarily makes evil creatures less
 aggressive to you. Thus, it will take a little bit longer for them to
@@ -23,6 +23,3 @@ This spell can be learned from:
 
 See also: [Bless](Bless "wikilink"), [Darkness](Darkness "wikilink"),
 [Sanctuary](Sanctuary "wikilink"), [Strength](Strength_Spell "wikilink")
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

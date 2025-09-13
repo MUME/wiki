@@ -1,7 +1,7 @@
 ---
 title: Shaman
+tags: ["Classes"]
 ---
-
 The **shaman** is a class restricted to the [Tarkhnarb
 orcs](Tarkhnarb_orc "wikilink"). They are a combination of the
 [Mage](Mage "wikilink") and [Cleric](Cleric "wikilink") class, using
@@ -22,5 +22,4 @@ make him an effective killing machine.
 
 {% include ClassRace.md %}
 
-[Category: Classes](Category:_Classes "wikilink")
 [\*](Category:_Shaman "wikilink")

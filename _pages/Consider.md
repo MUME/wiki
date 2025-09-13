@@ -1,7 +1,7 @@
 ---
 title: Consider
+tags: ["Help_files", "Basics", "Commands"]
 ---
-
 Syntax: **consider** \<mobile \| player \| object\>
 
 This command will compare your [level](level "wikilink") with the target
@@ -35,7 +35,3 @@ Consider lets you estimate the target's level range:
 
 See also: [Hit](Hit "wikilink"), [Shoot](Shoot "wikilink"),
 [Cast](Cast "wikilink")
-
-[Category:Help_files](Category:Help_files "wikilink")
-[Category:Basics](Category:Basics "wikilink")
-[Category:Commands](Category:Commands "wikilink")

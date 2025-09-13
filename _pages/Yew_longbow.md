@@ -1,7 +1,7 @@
 ---
 title: Yew longbow
+tags: ["Missile weapons"]
 ---
-
 The **yew longbow** is a [missile weapon](missile_weapon "wikilink"). It
 is worth around 9 [gold](gold "wikilink") and 19 silver, and is sold by
 most weaponsmiths. A yew longbow is also awarded for completing the
@@ -18,5 +18,3 @@ most weaponsmiths. A yew longbow is also awarded for completing the
 `It weighs three pounds.`
 
 {% include Items.md %}
-
-[Category: Missile weapons](Category:_Missile_weapons "wikilink")

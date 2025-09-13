@@ -1,7 +1,7 @@
 ---
 title: Shoes
+tags: ["Cloth equipment", "Feet items"]
 ---
-
 *For a list of all shoes, see [feet](feet "wikilink").*
 
 \> **look shoes**
@@ -19,6 +19,3 @@ Padded footbeds provide soft cushioning for the feet.
 They are a pair of shoes.
 
 They weigh a couple of pounds.
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

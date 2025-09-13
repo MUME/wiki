@@ -1,7 +1,7 @@
 ---
 title: Old East Road
+tags: ["Locations"]
 ---
-
 The Old East Road connects the [Grey Havens](Grey_Havens "wikilink") in
 the west with [Rivendell](Rivendell "wikilink") to the east. It crosses
 the [Greenway](Greenway "wikilink") just to the west of
@@ -55,5 +55,3 @@ of the great fort on the crown of the hill, is a wide ring of ancient
 stone-work and a central pile of broken stone. Tales do tell of
 underground fortifications which still survive, but if so the entrance
 to them has long been forgotten.
-
-[Category:Locations](Category:Locations "wikilink")

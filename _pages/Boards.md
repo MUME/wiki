@@ -1,7 +1,7 @@
 ---
 title: Boards
+tags: ["Help files"]
 ---
-
 There are many boards about Arda. Each board has a different purpose, as
 given by its name.
 
@@ -45,5 +45,3 @@ messages. Type "catchup" and then read the messages with "read
 See also: [Read](Read "wikilink"), [Write](Write "wikilink"),
 [Mail](Mail "wikilink"), [Tail](Tail "wikilink"), [Rules
 Boards](Rules_Boards "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Pray
+tags: ["Help files", "Commands"]
 ---
-
 In the [Halls of Mandos](Halls_of_Mandos "wikilink"), the **pray**
 command is used to transport yourself to one of the main
 [towns](town "wikilink") and cities of [Middle
@@ -67,6 +67,3 @@ Example:
 `> pray Harry won't open the gate for me, even if I am citizen`
 
 See also: [Narrate](Narrate "wikilink"), [Sing](Sing "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

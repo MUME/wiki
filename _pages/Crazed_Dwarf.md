@@ -1,7 +1,7 @@
 ---
 title: Crazed Dwarf
+tags: ["Mobiles"]
 ---
-
 His beard has many years growth and is matted by constant drooling.
 
 His eyes, red and fiery, have seen much bloodshed and violence. Constant
@@ -24,5 +24,3 @@ A crazed dwarf is using:
 <worn on legs> a fine pair of soft leather trousers (satisfactory)
 
 <worn on finger> a ring
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

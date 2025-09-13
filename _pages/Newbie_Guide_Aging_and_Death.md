@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Aging and Death
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Aging and Death**
 
 This guide written and published by p(Baca/Endo)
@@ -422,6 +422,4 @@ due to this very scary type of death in the game.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: FAQ1
+tags: ["FAQS"]
 ---
-
 **Q: I don't understand anything that's going on! Help!**
 
 A: Now that you have successfully created a character, you may still
@@ -67,5 +67,3 @@ means that hostile player trolls are at a certain Bend in a certain Road
 which, experience teaches us, is often a battle site.
 [Abbreviations](Abbreviations "wikilink") will list many common
 abbreviations.
-
-[Category:FAQS](Category:FAQS "wikilink")

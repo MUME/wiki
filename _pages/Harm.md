@@ -1,7 +1,7 @@
 ---
 title: Harm
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Harm** is a level 15 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It is the most powerful attack spell for
 clerics, but is slow and has a high mana cost. It will cause a large
@@ -22,7 +22,4 @@ This spell can be learned from:
 
 - [Dispel Evil](Dispel_Evil "wikilink"), [Energy
   Drain](Energy_Drain "wikilink"), [Smother](Smother "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

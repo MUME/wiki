@@ -1,7 +1,7 @@
 ---
 title: Tiger's eye
+tags: ["Uncategorized items"]
 ---
-
 `A polished tiger's eye lies discarded here.`
 `>`**`examine eye`**
 `The gemstone is golden to red-brown with a silky lustre. It is chatoyant, as a`
@@ -27,6 +27,3 @@ title: Tiger's eye
 </spoiler>
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

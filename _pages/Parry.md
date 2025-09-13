@@ -1,7 +1,7 @@
 ---
 title: Parry
+tags: ["Warrior skills", "Skills"]
 ---
-
 **Parry** is a [warrior](warrior "wikilink") [skills](skill "wikilink")
 that will improve parrying bonus with given equipment. After a certain
 increase in your skill percentage, your basic [parry
@@ -12,6 +12,3 @@ attackers.
 
 See also: [Dodge](Dodge "wikilink"), [Parry
 bonus](Parry_bonus "wikilink")
-
-[Category: Warrior skills](Category:_Warrior_skills "wikilink")
-[Category: Skills](Category:_Skills "wikilink")

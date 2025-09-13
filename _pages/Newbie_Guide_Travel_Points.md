@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Travel Points
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Travel Points**
 
 This guide written and published by p(Baca/Endo)
@@ -379,6 +379,4 @@ travel points, and discovered many secret doors.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

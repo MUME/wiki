@@ -1,7 +1,7 @@
 ---
 title: Track
+tags: ["Skills", "Ranger skills", "Commands"]
 ---
-
 **Track** is a [ranger](general "wikilink") skill that enables you to
 follow the tracks of people and animals and to determine their location
 at a distance.
@@ -45,7 +45,4 @@ Certain [mobiles](mobile "wikilink") are also capable of tracking
 [fled](flee "wikilink") from combat with them. Some mobiles will only
 track in a very limited area near their spawn location, while others may
 follow you for larger distances.
-
-[Category: Skills](Category:_Skills "wikilink") [Category: Ranger
-skills](Category:_Ranger_skills "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+  

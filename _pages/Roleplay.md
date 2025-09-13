@@ -1,7 +1,7 @@
 ---
 title: Roleplay
+tags: ["Help files"]
 ---
-
 "Roleplaying" means attempting to play your character as if he/she were
 a real inhabitant of Tolkien's world, with a life story, understandable
 motivations, who must interact realistically with other characters and
@@ -32,5 +32,3 @@ Separation](Rules_Character_Separation "wikilink")).
 Beyond this, we would hope that players who enjoy role-playing will come
 together for mutual enjoyment. Please use the [Idea](Idea "wikilink")
 command to suggest ways in which management can help.
-
-[Category:Help files](Category:Help_files "wikilink")

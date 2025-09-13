@@ -1,7 +1,7 @@
 ---
 title: Black wolf
+tags: ["Mobiles"]
 ---
-
 **Black wolves** are level ~6-7 mobs found in various places around
 [Arda](Arda "wikilink"). They are normally not aggressive, but may be
 grouped with another type of wolf such as a [huge, black
@@ -18,5 +18,3 @@ produce a [black wolf fur](black_wolf_fur "wikilink") and some
 `cousin's which is normally good warning to leave the area before nightfall. At`
 `this time, it becomes the expert at stealth as its dark fur and red-black eyes`
 `make it very hard to spot prior to being attacked.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

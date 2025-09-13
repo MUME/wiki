@@ -1,7 +1,5 @@
 ---
 title: FAQS
+tags: ["FAQS"]
 ---
-
 1.  Redirect
-
-[Category:FAQS](Category:FAQS "wikilink")

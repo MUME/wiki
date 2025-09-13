@@ -1,7 +1,7 @@
 ---
 title: Enruned robe
+tags: ["Cloth equipment", "Body items"]
 ---
-
 \> **examine robe**
 
 The robe is made from a strange material, which keeps you neither too
@@ -24,6 +24,3 @@ Can be looted from [Nagrorh](Nagrorh "wikilink") and some other evil
 caster [mobs](mob "wikilink").
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category: Body items](Category:_Body_items "wikilink")

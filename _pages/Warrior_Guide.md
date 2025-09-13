@@ -1,7 +1,7 @@
 ---
 title: Warrior Guide
+tags: ["Newbie Help"]
 ---
-
 Credits: Originally by Argor
 ([source](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970)).
 Please edit, update, and improve!
@@ -433,5 +433,4 @@ skills you might want. If you are going to play a smiting warrior
 then put all additional weapon practices into two-handed weapons
 beginning at level 3.
 
-[\*](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+[\*](Category:Guides "wikilink") 

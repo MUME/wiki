@@ -1,7 +1,7 @@
 ---
 title: News
+tags: ["Help files", "Commands"]
 ---
-
 The **News** command allows you to see important information about the
 game. It can be read on special news [boards](board "wikilink")
 available in every [city](city "wikilink") but it can also be checked
@@ -38,6 +38,4 @@ News are archived after a RL year: these entries will not be listed in
 You can also receive the latest news via the [RSS](RSS "wikilink") feed.
 
 See also: [Read](Read "wikilink"), [View](View "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

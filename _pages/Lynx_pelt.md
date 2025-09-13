@@ -1,7 +1,7 @@
 ---
 title: Lynx pelt
+tags: ["Uncategorized items"]
 ---
-
 \> **examine pelt**
 
 This pelt is mostly grey fur, gradually darkening to black in the
@@ -25,6 +25,3 @@ Obtained by [butchering](butcher "wikilink") [lynxes](lynx "wikilink").
 Has no use for players, but can be sold for about 9 silver.
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

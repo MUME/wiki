@@ -1,7 +1,7 @@
 ---
 title: Charging weapons
+tags: ["Warrior skills", "Skills", "Commands"]
 ---
-
 **Charge** is a [warrior](warrior "wikilink") [skill](skill "wikilink")
 and [weapon](weapon "wikilink") class. To charge successfully, you need
 good [riding](ride "wikilink") skill, a horse and a lance. Charging only
@@ -22,7 +22,4 @@ NOTE: This skill is considered useless.
   [Missile](Missile "wikilink"), [Piercing](Piercing "wikilink"),
   [Slashing](Slashing "wikilink"), [Stabbing](Stabbing "wikilink"),
   [Two-handed](Two-handed "wikilink")
-
-[Category: Warrior skills](Category:_Warrior_skills "wikilink")
-[Category: Skills](Category:_Skills "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

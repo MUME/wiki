@@ -1,7 +1,7 @@
 ---
 title: Prompt
+tags: ["Help files", "Commands"]
 ---
-
 The **prompt** command allows you to customize what information is shown
 on your prompt. The possible arguments (for mortals) are: points, light,
 terrain, movement, twiddlers, all (of the previous options), or none.
@@ -42,6 +42,3 @@ as: \*%~- WSC HP:Fine Mana:Burning Move:Tired\> Immortals should consult
 their own help file on prompt as well.
 
 See Also: [Spam](Spam "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

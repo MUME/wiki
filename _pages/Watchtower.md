@@ -1,7 +1,7 @@
 ---
 title: Watchtower
+tags: ["Help files", "Commands"]
 ---
-
 Some places in [Arda](Arda "wikilink") are considered being well suited
 for keeping watch of the surrounding terrains. These are known as
 **watchtowers**, but can be anything between the tower of a castle and a
@@ -14,6 +14,4 @@ about where you can see them.
 
 You can also use [search](search "wikilink") <direction> to scan for
 people standing still.
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

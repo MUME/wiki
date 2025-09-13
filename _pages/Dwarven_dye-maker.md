@@ -1,7 +1,7 @@
 ---
 title: Dwarven dye-maker
+tags: ["Mobiles"]
 ---
-
 The **dwarven dye-maker** is a [level](level "wikilink") ~11-12
 [mobile](mobile "wikilink"), located in the dwarven mines north of
 [Harlond](Harlond "wikilink"). He can procure the
@@ -15,5 +15,3 @@ weaver](ancient_weaver "wikilink")'s
 `a little rounder than most. He is dressed neither for battle or mining, but`
 `instead wears fairly plain yet comfortable clothing. His clothes, apron, and`
 `even his beard are stained with a myriad of different colours.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

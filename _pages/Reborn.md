@@ -1,7 +1,7 @@
 ---
 title: Reborn
+tags: ["Help files", "Commands"]
 ---
-
 [Trolls](Troll "wikilink") who [sundie](sundeath "wikilink") can use the
 '<b>reborn</b>' command to have their [trophy](trophy "wikilink")
 cleared (thereby losing the list of pkills of their previous life) or
@@ -16,6 +16,3 @@ If you died to what looks like a [bug](bug "wikilink"), don't use the
 reimburse you.
 
 See also: [Sundeath](Sundeath "wikilink"), [Troll](Troll "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: The Traveller's Shop
+tags: ["Shopkeepers"]
 ---
-
 The **grocer** tends to the **Traveller's Shop** in
 [Fornost](Fornost "wikilink"). The store is open 8am - 1pm and 2pm - 6pm
 and stocks a variety of tools, containers and other items, as well as
@@ -12,5 +12,3 @@ and stocks a variety of tools, containers and other items, as well as
 `A burly man, who works from morning till night stands over the counter here.`
 `Meeting your stare back dispassionately, his only concern is whether you`
 `have a ware to sell, or something to buy.`
-
-[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Acts
+tags: ["Help files"]
 ---
-
 With **acts**, you can tell others what you are up to at the moment.
 Usually when people see you in the [room](room "wikilink") they see:
 
@@ -22,5 +22,3 @@ automatically when you [sit](sit "wikilink"), [stand](stand "wikilink"),
 Abusing acts to give misleading information might lead to punishment.
 
 See also: [Emote](Emote "wikilink"), [Socials](Socials "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

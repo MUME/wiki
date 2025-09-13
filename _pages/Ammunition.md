@@ -1,7 +1,7 @@
 ---
 title: Ammunition
+tags: ["Weapons"]
 ---
-
 There are various types of **ammunition** found in
 [MUME](MUME "wikilink").
 
@@ -32,5 +32,4 @@ Stones are used by [slings](Missile_weapons#Slings "wikilink").
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Ammunition "wikilink")

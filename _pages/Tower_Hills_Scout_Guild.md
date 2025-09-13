@@ -1,7 +1,7 @@
 ---
 title: Tower Hills Scout Guild
+tags: ["Guildmasters"]
 ---
-
 An **accomplished hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Cabin** just southeast of
 [Black Hill](Black_Hill "wikilink"). He will reward players who
@@ -26,5 +26,3 @@ An **accomplished hunter** teaches [scout](thief "wikilink")
 [`piercing weapons`](piercing_weapons "wikilink")`      0/ 8  Normal`
 [`search`](search "wikilink")`                0/ 3  Normal`
 [`sneak`](sneak "wikilink")`                 0/10  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

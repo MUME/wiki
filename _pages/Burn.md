@@ -1,7 +1,7 @@
 ---
 title: Burn
+tags: ["Help files", "Commands"]
 ---
-
 You can set fire to a [corpse](corpse "wikilink") or corpses by using
 the [command](commands "wikilink") "**burn**". The corpses will be
 destroyed in the process and the [equipment](equipment "wikilink") they
@@ -24,6 +24,3 @@ Example:
 See also: [Bury](Bury "wikilink"), [Decapitate](Decapitate "wikilink"),
 [Drag](Drag "wikilink"), [Drain](Drain "wikilink"),
 [Hang](Hang "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

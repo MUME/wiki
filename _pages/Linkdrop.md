@@ -1,7 +1,7 @@
 ---
 title: Linkdrop
+tags: ["Help files"]
 ---
-
 "Change linkdrop" sets an inactivity limit on a connection (in seconds).
 When enough time elapses without any command having been sent, the
 connection is automatically closed - just as if you had voluntarily
@@ -24,5 +24,3 @@ again.
 
 See also: [Idle](Idle "wikilink"), [Link](Link "wikilink"),
 [Noquit](Noquit "wikilink"), [Novoid](Novoid "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

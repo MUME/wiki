@@ -1,7 +1,7 @@
 ---
 title: Detect Magic
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Detect Magic** is a low level [mage](mage "wikilink")
 [spell](spell "wikilink"), castable on one's self only. It enables the
 caster to detect the auras left by the spells of other casters, up to
@@ -42,7 +42,4 @@ This spell can be learned from:
 
 - [Detect Invisibility](Detect_Invisibility "wikilink"), [Night
   Vision](Night_Vision "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

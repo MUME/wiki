@@ -1,7 +1,7 @@
 ---
 title: Community
+tags: ["Links"]
 ---
-
 The MUME community consists of thousands of people around the world
 who - as part of the [Ainur](Ainur "wikilink") - have contributed to
 building MUME, or - as part of the wider player community - have
@@ -70,5 +70,3 @@ Historical
   - [MMapper](https://github.com/MUME/MMapper)
   - [Nick's setup for visually impaired
     players](https://github.com/MUME/mushclient-mume)
-
-[Category:Links](Category:Links "wikilink")

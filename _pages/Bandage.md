@@ -1,7 +1,7 @@
 ---
 title: Bandage
+tags: ["Ranger skills", "Skills", "Commands"]
 ---
-
 **Bandage** is a [ranger](general "wikilink") [skill](skill "wikilink")
 that allows one to give first aid to someone suffering from different
 types of [wounds](wound "wikilink").
@@ -29,7 +29,4 @@ The quality of the bandage will influence the healing speed.
 
 The conditions of the bandage will deteriorate with time, so it is a
 good idea to replace old bandages from time to time.
-
-[Category: Ranger skills](Category:_Ranger_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+  

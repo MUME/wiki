@@ -1,7 +1,7 @@
 ---
 title: Wrist
+tags: ["Equipment"]
 ---
-
 A list of items worn on the **wrist**.
 
 ## Magical
@@ -15,5 +15,4 @@ A list of items worn on the **wrist**.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Wrist_items "wikilink")

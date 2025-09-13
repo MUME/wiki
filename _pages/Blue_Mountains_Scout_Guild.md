@@ -1,7 +1,7 @@
 ---
 title: Blue Mountains Scout Guild
+tags: ["Guildmasters"]
 ---
-
 **Vestri** teaches [scout](scout "wikilink") [skills](skill "wikilink")
 at the **Scout Guild** in [Blue Mountains](Blue_Mountains "wikilink").
 
@@ -23,5 +23,3 @@ at the **Scout Guild** in [Blue Mountains](Blue_Mountains "wikilink").
 [`piercing weapons`](piercing_weapons "wikilink")`         4  Normal`
 [`search`](search "wikilink")`                   4  Normal`
 [`sneak`](sneak "wikilink")`                    3  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

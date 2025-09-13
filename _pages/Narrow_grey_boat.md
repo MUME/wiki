@@ -1,7 +1,7 @@
 ---
 title: Narrow grey boat
+tags: ["Boats"]
 ---
-
 **Narrow grey boats** are a type of [boat](boat "wikilink") found in
 [Lothlórien](Lothlórien "wikilink").
 
@@ -19,5 +19,3 @@ title: Narrow grey boat
 `It weighs one stone and twelve pounds.`
 
 {% include Items.md %}
-
-[Category: Boats](Category:_Boats "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Movement points
+tags: ["Help files"]
 ---
-
 # Overview
 
 All players have a limited number of **movement points**. When you reach
@@ -95,5 +95,3 @@ points:
 - Monitor your movement points and rest before they get too low. If you
   are out of moves and an aggressive mob or player enters your room you
   will not be able to flee.
-
-[Category:Help files](Category:Help_files "wikilink")

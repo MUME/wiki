@@ -1,7 +1,7 @@
 ---
 title: Halamor's ghost
+tags: ["Mobiles"]
 ---
-
 **Halamor's ghost** is a level ~17-18 [mobile](mobile "wikilink") found
 in a ruined village east of [Bree](Bree "wikilink"). He can
 [sneak](sneak "wikilink") and cast [Lightning
@@ -19,5 +19,3 @@ He loads a [rapier](rapier "wikilink") and a [ring](ring "wikilink").
 `around the broken arrow protruding from his chest and dripping from the`
 `blade of the rapier are the only spots of colour on this grey and black`
 `figure.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

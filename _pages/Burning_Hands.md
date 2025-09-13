@@ -1,7 +1,7 @@
 ---
 title: Burning Hands
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Burning hands** is a [level](level "wikilink") 5
 [mage](mage "wikilink") [spell](spell "wikilink") that does additional
 damage against wooden mobs (e.g. roots, trees).
@@ -29,7 +29,4 @@ This spell can be learned from:
   Spray](Colour_Spray "wikilink"), [Fireball](Fireball "wikilink"),
   [Call Lightning](Call_Lightning "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

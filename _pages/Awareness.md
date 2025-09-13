@@ -1,7 +1,7 @@
 ---
 title: Awareness
+tags: ["Skills", "Ranger skills"]
 ---
-
 ## Awareness
 
 Awareness helps sharpen your senses (hearing, smelling and vision) to
@@ -20,6 +20,4 @@ poorest of conditions. (95% awareness allows night-vision)
   [Search](Search "wikilink")
 
 [Back to skill list](Skill "wikilink")
-
-[Category: Skills](Category:_Skills "wikilink") [Category: Ranger
-skills](Category:_Ranger_skills "wikilink")
+ 

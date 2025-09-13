@@ -1,7 +1,7 @@
 ---
 title: Metal shield
+tags: ["Shields"]
 ---
-
 A **metal shield** is a common [shield](shield "wikilink") that can be
 bought from most armourers for around 15 [silver](silver "wikilink").
 
@@ -15,5 +15,3 @@ bought from most armourers for around 15 [silver](silver "wikilink").
 `It weighs ten pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

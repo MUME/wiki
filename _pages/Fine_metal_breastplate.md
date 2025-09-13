@@ -1,7 +1,7 @@
 ---
 title: Fine metal breastplate
+tags: ["Metal equipment", "Body items"]
 ---
-
 The **fine metal breastplate** is worn on the [body](body "wikilink").
 It provides a large amount of damage absorption, and slightly decreases
 [offensive bonus](offensive_bonus "wikilink"). It is worth around 14
@@ -17,6 +17,3 @@ also loads on the [Old Wight](Super_Mobile#The_Old_Wight "wikilink").
 `It weighs one stone and two pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category:Body items](Category:Body_items "wikilink")

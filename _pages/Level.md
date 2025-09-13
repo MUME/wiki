@@ -1,7 +1,7 @@
 ---
 title: Level
+tags: ["Help files"]
 ---
-
 With every new level, [practice](practice "wikilink") points become
 available, that can be used in [guilds](Guild "wikilink") to learn new
 skills.
@@ -14,5 +14,3 @@ Example: Level 1 1 exp, 0 tp Level 2 1000 exp, 100 tp Level 3 3000 exp,
 
 See also: [XP](XP "wikilink"), [TP](TP "wikilink"),
 [Practice](Practice "wikilink"), [Guild](Guild "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

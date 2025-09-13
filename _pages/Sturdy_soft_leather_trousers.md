@@ -1,7 +1,7 @@
 ---
 title: Sturdy soft leather trousers
+tags: ["Leather equipment", "Legs items"]
 ---
-
 \> **look trousers**
 
 The tightly fitting trousers-come-greaves have been constructed by using
@@ -21,6 +21,3 @@ They are a sturdy pair of soft leather trousers.
 They weigh four pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

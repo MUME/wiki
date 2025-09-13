@@ -1,7 +1,7 @@
 ---
 title: Hometowns
+tags: ["Help files"]
 ---
-
 Certain aspects of the game depend on your **hometown**, such as
 calculating [rent](rent "wikilink") costs. Rent costs are lower in
 hometowns than other towns. Note! You must be a
@@ -20,5 +20,3 @@ These are the races town officials recognize as being at home:
 
 Darkie officials have no racial prejudices (apart from hatred of
 others).
-
-[Category:Help files](Category:Help_files "wikilink")

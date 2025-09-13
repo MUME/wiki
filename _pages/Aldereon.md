@@ -1,7 +1,7 @@
 ---
 title: Aldereon
+tags: ["Mobiles"]
 ---
-
 **Aldereon** is a powerful elf living in an elven village east of [Grey
 Havens](Grey_Havens "wikilink"). If you visit him and ask about
 [herblores](herblore "wikilink"), he will offer to teach you the Walking
@@ -17,5 +17,3 @@ letters](Quest#Aldereon_the_Wise "wikilink") to his acquiantances.
 `in a time lost for memory, as one of Fingolfin's people following a twisted`
 `dream. Sad and nostalgic memories come to him as he dreams of the day of his`
 `return to the Blessed Realm.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

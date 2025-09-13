@@ -1,7 +1,7 @@
 ---
 title: Wicked Durbuk-hai axe
+tags: ["Cleaving weapons"]
 ---
-
 \> **examine axe**
 
 This axe has an iron head crafted for raw brutality. The attention of
@@ -31,5 +31,3 @@ average, and it inflicts average damage upon hitting.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

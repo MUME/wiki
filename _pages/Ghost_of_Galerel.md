@@ -1,7 +1,7 @@
 ---
 title: Ghost of Galerel
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 The **ghost of Galerel** is a spirit inhabiting the ruins of his former
 [mansion](Galerel's_mansion "wikilink") east of [Bree](Bree "wikilink").
 He is an aggressive [level](level "wikilink") ?
@@ -20,6 +20,4 @@ be [bashed](bash "wikilink") unless he happens to load wearing a
 `an aura of nobility and stature. The fashion of his clothes and his`
 `lineaments suggest he was Arthedain while alive. Now and then he waves`
 `and paces, seemingly giving a speech to an invisible crowd.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

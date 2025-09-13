@@ -1,7 +1,7 @@
 ---
 title: Fornost Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **ranger** teaches [ranger](ranger "wikilink")
 [skills](skill "wikilink") at the **Ranger's Guild** in
 [Fornost](Fornost "wikilink").
@@ -24,5 +24,3 @@ A **ranger** teaches [ranger](ranger "wikilink")
 [`swim`](swim "wikilink")`               3  Very easy`
 [`track`](track "wikilink")`             27  Normal`
 [`wilderness`](wilderness "wikilink")`        27  Normal     `
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

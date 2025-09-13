@@ -1,7 +1,7 @@
 ---
 title: Alias
+tags: ["Help files", "Commands"]
 ---
-
 The **alias** [command](commands "wikilink") allows you to define
 abbreviations for long commands frequently used, thus minimizing your
 typing.
@@ -48,6 +48,3 @@ Examples:
 `> alias %sword longsword`
 `> wield sword      -> wield longsword`
 `> wield %sword     -> wield sword`
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

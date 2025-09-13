@@ -1,7 +1,7 @@
 ---
 title: Create Focus
+tags: ["Help files", "Spells"]
 ---
-
 Syntax : cast 'create focus' \<object\> Type : Special Accumulative: No
 Duration : Permanent Casting : - Position : Standing; fully rested Class
 : All Level : Hero Min. Mana : Special A focus is a powerful item bound
@@ -20,6 +20,3 @@ Example: cast 'create focus' staff
 ## See also
 
 - [Focus](Focus "wikilink"), [Staff](Staff "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Morningstar
+tags: ["Concussion weapons"]
 ---
-
 \> **examine morningstar**
 
 This weapon is comprised of a spiked metal ball, attached to a stout
@@ -20,5 +20,3 @@ average, and it inflicts little damage upon hitting.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

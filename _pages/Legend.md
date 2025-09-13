@@ -1,7 +1,7 @@
 ---
 title: Legend
+tags: ["Help files"]
 ---
-
 Characters of [level](level "wikilink") 26 and above are called
 'legends'. Advancement as a legend is ten times slower than as a
 non-legend.
@@ -14,5 +14,3 @@ help files and from the responsible Ainur.
 
 Also see: [Legend Homes](Legend_Homes "wikilink"), [Rules
 Titles](Rules_Titles "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

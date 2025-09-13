@@ -1,7 +1,7 @@
 ---
 title: Teleport
+tags: ["Help files", "Mage spells", "Spells"]
 ---
-
 **Teleport** is a [level](level "wikilink") 8 [mage](mage "wikilink")
 [spell](spell "wikilink") that allows the caster to instantly transport
 themselves to a target [room](room "wikilink"). To use teleport you need
@@ -21,7 +21,4 @@ Level : Level 8 Class : Magic User Min. Mana : 35 Example: \> cast
 [`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               3`
 
 See also: [Portal](Portal "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+ 

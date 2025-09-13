@@ -1,7 +1,7 @@
 ---
 title: Lock picks
+tags: ["Miscellaneous equipment"]
 ---
-
 # Overview
 
 **Lockpicks** improve your ability to [pick](pick "wikilink") a lock. In
@@ -118,6 +118,3 @@ hand.
 </spoiler>
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

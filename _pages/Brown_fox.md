@@ -1,7 +1,7 @@
 ---
 title: Brown fox
+tags: ["Mobiles"]
 ---
-
 **Brown foxes** are passive [level](level "wikilink") 2
 [mobiles](mobile "wikilink") found in various locations around
 [Arda](Arda "wikilink"). Their [corpses](corpse "wikilink") can be
@@ -14,5 +14,3 @@ title: Brown fox
 `and intelligence, as it has well developed senses of sight, smell and`
 `hearing. It is an omnivorous creature, feeding on birds, squirrels, insects,`
 `hares and vegetation; voles appear to be its preferred nourishment.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

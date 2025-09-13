@@ -1,7 +1,7 @@
 ---
 title: Soft leather boots
+tags: ["Leather equipment", "Feet items"]
 ---
-
 \> **look boots**
 
 These calf-high boots have been fashioned from a thin brown leather,
@@ -16,6 +16,3 @@ They are a pair of soft leather boots.
 They weigh a couple of pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Feet items](Category:Feet_items "wikilink")

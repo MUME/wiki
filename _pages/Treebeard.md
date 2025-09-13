@@ -1,7 +1,7 @@
 ---
 title: Treebeard
+tags: ["Ents"]
 ---
-
 **Treebeard** is one of the oldest still-living [Ents](Ent "wikilink").
 He lives in Wellinghall, located in a secluded glade at the western edge
 of [Fangorn](Fangorn "wikilink"), near the source of the Entwash.
@@ -28,5 +28,3 @@ learned from them that [Saruman](Saruman "wikilink") was cutting down
 the forests, he led the Ents in an assault on
 [Isengard](Isengard "wikilink"), destroying and flooding most of the
 fortress aside from the central tower, where Saruman was trapped.
-
-[Category: Ents](Category:_Ents "wikilink")

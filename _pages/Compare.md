@@ -1,7 +1,7 @@
 ---
 title: Compare
+tags: ["Commands", "Help files"]
 ---
-
 Syntax: **compare** \<object\|number\> \<object\|number\>
 
 This command will compare the first object with the second giving you an
@@ -21,6 +21,4 @@ Comparing objects in a shop:
 ` > compare sword 233`
 
 See also: [Consider](Consider "wikilink"), [Show](Show "wikilink")
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

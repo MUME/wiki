@@ -1,7 +1,7 @@
 ---
 title: Drain
+tags: ["Help files", "Commands"]
 ---
-
 Orcs and Trolls can fill their skin, or any drink container they have,
 with the blood of their fallen enemies.
 
@@ -15,6 +15,3 @@ Syntax: 'drain corpse'
 See also: [Bury](Bury "wikilink"), [Burn](Burn "wikilink"),
 [Decapitate](Decapitate "wikilink"), [Drain](Drain "wikilink"),
 [Hang](Hang "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

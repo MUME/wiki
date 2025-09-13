@@ -1,7 +1,7 @@
 ---
 title: Russet cloak
+tags: ["Cloth equipment", "Cloaks"]
 ---
-
 The **russet cloak** is a [cloak](cloak "wikilink") that grants some
 [dodge bonus](dodge_bonus "wikilink") and slightly increases move
 [regeneration](regeneration "wikilink"), similar to a [forest green
@@ -22,6 +22,3 @@ tailors for around 3 [gold](gold "wikilink").
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Cloaks](Category:Cloaks "wikilink")

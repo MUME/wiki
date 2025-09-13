@@ -1,7 +1,7 @@
 ---
 title: Huge, frothing bear
+tags: ["Mobiles"]
 ---
-
 **Huge, frothing bears** are aggressive [level](level "wikilink") ~14
 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin.
 
@@ -11,5 +11,3 @@ title: Huge, frothing bear
 `powerful hump of muscle rises up from its wide shoulders connecting to a stout`
 `neck and a fearsome head where a pair of frothing jaws gape, revealing deadly`
 `razor-sharp teeth. The permeating stench of decay wafts about this creature.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

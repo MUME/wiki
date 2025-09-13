@@ -1,8 +1,7 @@
 ---
 title: Elvish
+tags: ["Help files"]
 ---
-
-
 *See also: [Language](Language "wikilink")*
 
 There are 2 Elvish tongues generally used in the *[The Lord of the
@@ -27,5 +26,3 @@ Direct quotes are from appendices E and F in the *[The Return of the
 King](wikipedia:en:The_Return_of_the_King "wikilink")*.
 
 See also: [Elven names](Elven_names "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

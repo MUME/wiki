@@ -1,7 +1,7 @@
 ---
 title: Orc
+tags: ["Playable races"]
 ---
-
 ![](Uruk-hai.jpg "Uruk-hai.jpg")''\]\] **Orcs**, also known as
 **Goblins**, are foul creatures that were created by Morgoth in the
 First Age. Through his evil power, it is said he corrupted the beautiful
@@ -55,5 +55,3 @@ tribes in MUME:
   Mountains bordering [Dunland](Dunland "wikilink")
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

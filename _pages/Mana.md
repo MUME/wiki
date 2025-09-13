@@ -1,7 +1,7 @@
 ---
 title: Mana
+tags: ["Help files"]
 ---
-
 **Mana** is a character's capability of casting
 [spells](spells "wikilink"), represented by a numeric value. High mana
 means your character is high on magical power, and low means the
@@ -20,5 +20,3 @@ regeneration is faster if you are [resting](rest "wikilink") or
 
 See Also: [Hit points](Hit_points "wikilink"), [Movement
 points](Movement_points "wikilink"), [Prompt](Prompt "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Cloak
+tags: ["Equipment"]
 ---
-
 A list of **cloaks**. Cloaks are worn around the body for protection and
 stealth. Animal furs can also be worn as a cloak. Cloaks help mostly
 with [dodging](dodge_bonus "wikilink"), while furs worn as a cloak help
@@ -48,5 +48,4 @@ warm, reducing the risk of a [flu](disease "wikilink").
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Cloaks "wikilink")

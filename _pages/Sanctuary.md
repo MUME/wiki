@@ -1,7 +1,7 @@
 ---
 title: Sanctuary
+tags: ["Spells", "Cleric spells"]
 ---
-
 **Sanctuary** (often abbreviated *sanc*) is a level 18
 [cleric](cleric "wikilink") [spell](spell "wikilink"). If cast on a
 player it limits the maximum hit point damage that the player can suffer
@@ -23,6 +23,4 @@ This spell can be learned from:
 ## See also
 
 - [Armour](Armour_Spell "wikilink"), [Shield](Shield_Spell "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink")
+ 

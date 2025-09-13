@@ -1,7 +1,7 @@
 ---
 title: Namechanges
+tags: ["Help files"]
 ---
-
 After much deliberation among MUME Management on the subject of name
 changes, Manwë has written a policy for them. This means that if you
 want a name change, check out this list, and don't ask if you shouldn't
@@ -33,5 +33,3 @@ SOURCE: NEWS 1828 posted Feb 24, 2002 by Alkar.
 NOTE: The list of namechanges made during the introduction of [MUME
 VII](MUME_VII "wikilink") can be found at
 [Oldnames](Oldnames "wikilink").
-
-[Category: Help files](Category:_Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Mighty dwarven axe
+tags: ["Cleaving weapons"]
 ---
-
 \> <b>examine axe</b>
 
 This axe is very old, but the blade is still polished and has a
@@ -25,5 +25,3 @@ It weighs six pounds.
 Very good damage and decent defence.
 
 {% include Items.md %}
-
-[Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

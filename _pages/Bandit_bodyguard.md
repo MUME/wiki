@@ -1,7 +1,7 @@
 ---
 title: Bandit bodyguard
+tags: ["Mobiles"]
 ---
-
 **Bandit bodyguards** are aggressive level ~12-13
 [mobiles](mobile "wikilink") found in various places across
 [Arda](Arda "wikilink"), usually accompanying higher level outlaws. They
@@ -12,5 +12,3 @@ some cloth or leather equipment.
 `> `**`look bandit`**
 `The bodyguard seems disciplined, tough and psychopathic. He drools at`
 `the thought of slaying you.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

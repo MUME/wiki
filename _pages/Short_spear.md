@@ -1,7 +1,7 @@
 ---
 title: Short spear
+tags: ["Stabbing weapons"]
 ---
-
 The **short spear** is a [stabbing weapon](stabbing_weapon "wikilink").
 It is worth around 4 [silver](silver "wikilink"), and is sold by most
 weaponsmiths.
@@ -19,5 +19,3 @@ weaponsmiths.
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Stabbing weapons](Category:_Stabbing_weapons "wikilink")

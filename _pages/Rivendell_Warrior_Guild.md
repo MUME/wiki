@@ -1,7 +1,7 @@
 ---
 title: Rivendell Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 An **elven knight** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Warrior Training Yard** in
 [Rivendell](Rivendell "wikilink").
@@ -26,5 +26,3 @@ An **elven knight** teaches [warrior](warrior "wikilink")
 [`slashing weapons`](slashing_weapons "wikilink")`          14  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          18  Normal`
 [`two-handed weapons`](two-handed_weapons "wikilink")`        14  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Catchup
+tags: ["Commands", "Help files"]
 ---
-
 Syntax: **catchup** \[<number>\|<name>\]
 
 This command is used to mark all messages on a bulletin board up to the
@@ -21,6 +21,4 @@ Example:
 See also: [Boards](Boards "wikilink"), [Mark](Mark "wikilink"),
 [Read](Read "wikilink"), [Reply](Reply "wikilink"),
 [Write](Write "wikilink")
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

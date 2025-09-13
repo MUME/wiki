@@ -1,7 +1,7 @@
 ---
 title: Mail
+tags: ["Help files", "Commands"]
 ---
-
 The **mail** system lets you send a message to one or more recipients.
 Mail has a lifetime of 60 days if unread and 30 if read. Because mail is
 persistent, it is used most often to communicate with someone who is not
@@ -52,6 +52,4 @@ should any of the recipients delete it from their mail box, it will be
 deleted from all of the others too.
 
 See also: [Write](Write "wikilink"), [Read](Read "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

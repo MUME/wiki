@@ -1,7 +1,7 @@
 ---
 title: Bury
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: **bury** corpse
 
 Allows you to build a mound and to bury a [corpse](corpse "wikilink")
@@ -13,6 +13,3 @@ the possessions of the buried corpse. Mounds can be
 See also: [Drag](Drag "wikilink"), [Burn](Burn "wikilink"),
 [Decapitate](Decapitate "wikilink"), [Drain](Drain "wikilink"),
 [Hang](Hang "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

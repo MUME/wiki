@@ -1,7 +1,7 @@
 ---
 title: Pour
+tags: ["Help files", "Commands"]
 ---
-
 The **pour** command can be used to transfer a fluid from one container
 to another.
 
@@ -15,6 +15,4 @@ Example:
 `> pour fountain skin`
 
 See also: [Drink](Drink "wikilink"), [Empty](Empty "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Remove Poison
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Remove poison** is a level 9 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It removes the effect of any
 [poison](poison "wikilink") from the creature it is cast upon. A person
@@ -34,7 +34,4 @@ This spell can be learned from:
   [Cure Disease](Cure_Disease "wikilink"), [Cure
   Serious](Cure_Serious "wikilink"), [Envenom](Envenom "wikilink"),
   [Heal](Heal "wikilink"), [Poison](Poison "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

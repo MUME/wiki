@@ -1,8 +1,7 @@
 ---
 title: Ranger
+tags: ["Help files", "Mobiles"]
 ---
-
-
 *This article is about the group of players. For the set of skills, see
 [general](general "wikilink").*
 
@@ -29,6 +28,4 @@ of ranger. **Young rangers** will guide new players (relatively) safely
 from one [city](city "wikilink") to another. **Hardened rangers** patrol
 the area west of Bree, hunting down minions of Sauron as well as evil
 whities.
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Mobiles](Category:_Mobiles "wikilink")
+ 

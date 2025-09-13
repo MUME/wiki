@@ -1,7 +1,7 @@
 ---
 title: Ansicodes
+tags: ["Help files"]
 ---
-
 The ANSI CODES are listed below.
 
 They might not behave the same way on all types of terminals, (this goes
@@ -34,5 +34,3 @@ height="25px"\| \|- \| colspan="4"\| Text Style Attributes \|- \|
 
 - [Jahara's MUME Page \| ANSI Color
   Help](http://nschimme.googlepages.com/ansi.htm) - A Guide on ANSI
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Category:FAQS
+tags: ["Help_files"]
 ---
-
 The following FAQ files for new players are also available:
 
 - "[FAQ1](FAQ1 "wikilink")" - Frequently Asked Questions, part 1:
@@ -17,5 +17,3 @@ The following FAQ files for new players are also available:
 
 See also: [Newbie](Newbie "wikilink"), [Basics](Basics "wikilink"),
 [Advanced](Advanced "wikilink"), [Features](Features "wikilink")
-
-[Category:Help_files](Category:Help_files "wikilink")

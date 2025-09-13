@@ -1,7 +1,7 @@
 ---
 title: Anduin Vale
+tags: ["Cities"]
 ---
-
 The **Anduin Vale** is home to [Beornings](Beorning "wikilink"), located
 east of the [Misty Mountains](Misty_Mountains "wikilink").
 
@@ -61,5 +61,3 @@ corpse of the warg chieftain to Beorn who will reward the defense with a
 letter of introduction to Ingrove.
 
 {% include Place.md %}
-
-[Category: Cities](Category:_Cities "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Who
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: **who** \[<group>\] \[alphabetically\|number\]
 
 Lists the people currently in the game (although some people may choose
@@ -29,6 +29,3 @@ time to time ([Dwarves](Dwarves "wikilink") and
 same group.
 
 See also: [Whois](Whois "wikilink"), [Incognito](Incognito "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

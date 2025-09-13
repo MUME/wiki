@@ -1,7 +1,7 @@
 ---
 title: Coach
+tags: ["Help files"]
 ---
-
 **Coaches** are a safe, comfortable means of transportation between
 [towns](town "wikilink") and waystations on [Arda](Arda "wikilink").
 
@@ -42,5 +42,3 @@ son Pete, which connect [Fornost](Fornost "wikilink") to
 at some intermediate points. More coaches might be added in the future.
 
 See also: [Buy](Buy "wikilink"), [Ferry](Ferry "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

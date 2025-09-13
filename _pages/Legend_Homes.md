@@ -1,7 +1,7 @@
 ---
 title: Legend Homes
+tags: ["Help files", "Legend_homes"]
 ---
-
 Legend homes may be bought by characters of level 30 or higher among the
 Free People of Arda. If the owner subsequently falls below this level
 for more than a short time, the house will be removed.
@@ -35,6 +35,3 @@ Equipment](Legend_Home_Equipment "wikilink"), [Legend Home
 Valet](Legend_Home_Valet "wikilink"), [Friend](Friend "wikilink"),
 [Legend Home Doors](Legend_Home_Doors "wikilink"), [Legend Home
 Locations](Legend_Home_Locations "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Legend_homes](Category:Legend_homes "wikilink")

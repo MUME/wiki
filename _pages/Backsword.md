@@ -1,7 +1,7 @@
 ---
 title: Backsword
+tags: ["Slashing weapons"]
 ---
-
 `A long, single-edged sword lies on the ground.`
 `> `**`look sword`**
 `This sword is long and thin, having a slight curve to it. The blade is`
@@ -15,5 +15,3 @@ title: Backsword
 `It weighs three pounds.`
 
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

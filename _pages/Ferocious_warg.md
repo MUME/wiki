@@ -1,7 +1,7 @@
 ---
 title: Ferocious warg
+tags: ["Mobiles"]
 ---
-
 **Ferocious wargs** are aggressive level ~11-12 [mobs](mob "wikilink")
 found mostly in the eastern parts of [Arda](Arda "wikilink"). They can
 [track](track "wikilink"). Their [corpses](corpse "wikilink") can be
@@ -13,5 +13,3 @@ fur](warg_fur "wikilink").
 `This is an exceptionally large wolf of thick black fur. Saliva drips from the`
 `great fangs and the eyes reveal an evil intelligence. Allied with the orcs,`
 `this creature of Morgoth's devising is the bane of the free people of the west.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

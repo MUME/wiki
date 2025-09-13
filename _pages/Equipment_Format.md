@@ -1,7 +1,7 @@
 ---
 title: Equipment Format
+tags: ["Help files"]
 ---
-
 To get your equipment in a custom order, you write \`equipment
 <format>'. The format is a string of letters, each letter representing
 an equipment position.
@@ -18,5 +18,3 @@ eq W show what you are holding in your hands eq WSHbcahlfnF-qB the
 default eq display eq Fn hblaHfc WSw q-B a sane eq display See also:
 [Equipment](Equipment "wikilink"), [Change
 Eqorder](Change_Eqorder "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: FAQ5
+tags: ["FAQS"]
 ---
-
 **Q: What is a bulletin board?**
 
 A: A bulletin [board](board "wikilink") is an object that can be read by
@@ -110,5 +110,3 @@ Reading a mail is a matter of typing 'read <number>'.
 To write a mail you use 'write <topic> @<name>' an example being 'write
 Lets discuss a playing time @Huntar'. The same editor used in writing on
 boards will be used.
-
-[Category:FAQS](Category:FAQS "wikilink")

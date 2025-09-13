@@ -1,7 +1,7 @@
 ---
 title: Mean brigand
+tags: ["Mobiles"]
 ---
-
 **Brigands** are level ~12-13 mobiles found all over the western parts
 of [Middle Earth](Middle_Earth "wikilink"), particularly on and near the
 [Old East Road](Old_East_Road "wikilink") and
@@ -19,5 +19,3 @@ from any [corpses](corpse "wikilink") they come across.
 `to relieve you of your valuables. Out of the corner of your eye, you`
 `notice a rather large scar running down his neck, partially hidden by`
 `his clothing.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

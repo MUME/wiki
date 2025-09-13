@@ -1,7 +1,5 @@
 ---
 title: Category:Ranger skills
+tags: ["Skills"]
 ---
-
 [Ranger](general "wikilink") [skills](skill "wikilink").
-
-[Category: Skills](Category:_Skills "wikilink")

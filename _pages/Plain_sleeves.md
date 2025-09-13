@@ -1,7 +1,7 @@
 ---
 title: Plain sleeves
+tags: ["Arms items", "Cloth equipment"]
 ---
-
 **Plain sleeves** are a piece of cloth [equipment](equipment "wikilink")
 worn on the [arms](arms "wikilink"). They are worth around 80
 [copper](gold "wikilink").
@@ -17,6 +17,4 @@ worn on the [arms](arms "wikilink"). They are worth around 80
 `They weigh about one pound.`
 
 {% include Items.md %}
-
-[Category: Arms items](Category:_Arms_items "wikilink") [Category: Cloth
-equipment](Category:_Cloth_equipment "wikilink")
+ 

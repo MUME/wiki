@@ -1,7 +1,7 @@
 ---
 title: Marred wedding ring
+tags: ["Quest items"]
 ---
-
 The **marred wedding ring** is an [item](item "wikilink") needed for the
 [crippled ranger](Tower_Hills_Ranger_Guild "wikilink")'s
 [quest](Quest#Lost_and_Found "wikilink"). It spawns in a cave southwest
@@ -17,5 +17,3 @@ of [Black Hill](Black_Hill "wikilink").
 `> `**`consider ring`**
 `It is a marred wedding ring.`
 `It weighs less than an ounce.`
-
-[Category: Quest items](Category:_Quest_items "wikilink")

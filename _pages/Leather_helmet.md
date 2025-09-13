@@ -1,7 +1,7 @@
 ---
 title: Leather helmet
+tags: ["Leather equipment", "Head items"]
 ---
-
 The **leather helmet** is a piece of leather
 [equipment](equipment "wikilink") worn on the [head](head "wikilink").
 
@@ -16,6 +16,3 @@ The **leather helmet** is a piece of leather
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category: Head items](Category:_Head_items "wikilink")

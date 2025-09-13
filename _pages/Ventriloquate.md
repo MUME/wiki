@@ -1,7 +1,7 @@
 ---
 title: Ventriloquate
+tags: ["Mage spells", "Spells"]
 ---
-
 Syntax : cast 'ventriloquate' Type : Miscellaneous Accumulative: N/A
 Duration : No Casting : Very short Position : Standing Level : Level 1
 Class : Magic User Min. Mana : 5 Example: \> cast 'ventriloquate' bill I
@@ -11,6 +11,3 @@ This spell can be learned from:
 
 `                          Sessions `
 [`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               5`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

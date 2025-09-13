@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide to Missile Weapons
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide to Missile Weapons**
 
 This guide written and published by p(Baca/Endo)
@@ -500,6 +500,4 @@ bolt can be a nasty surprise from an Orc!
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

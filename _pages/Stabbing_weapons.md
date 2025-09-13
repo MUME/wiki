@@ -1,7 +1,7 @@
 ---
 title: Stabbing weapons
+tags: ["Warrior skills", "Skills"]
 ---
-
 The **stabbing weapons** [skill](skill "wikilink") is a
 [warrior](warrior "wikilink") skill and [weapon](weapon "wikilink")
 class that applies to all spears and polearms, if they are wielded in
@@ -23,6 +23,3 @@ happening depends on your reach and the opponent's reach: a
   [Concussion](Concussion "wikilink"), [Missile](Missile "wikilink"),
   [Piercing](Piercing "wikilink"), [Slashing](Slashing "wikilink"),
   [Two-handed](Two-handed "wikilink")
-
-[Category: Warrior skills](Category:_Warrior_skills "wikilink")
-[Category: Skills](Category:_Skills "wikilink")

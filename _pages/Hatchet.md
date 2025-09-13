@@ -1,7 +1,7 @@
 ---
 title: Hatchet
+tags: ["Cleaving weapons"]
 ---
-
 The **hatchet** is a [cleaving weapon](cleaving_weapon "wikilink"). It
 is worth around 4 [silver](silver "wikilink") and is sold by most
 weaponsmiths.
@@ -17,5 +17,3 @@ weaponsmiths.
 `It weighs three pounds. `
 
 {% include Items.md %}
-
-[Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

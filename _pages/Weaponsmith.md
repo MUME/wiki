@@ -1,7 +1,7 @@
 ---
 title: Weaponsmith
+tags: ["Shopkeepers"]
 ---
-
 **Weaponsmiths** tend to the weapon shops in
 [Bree](Bree_Weaponsmith "wikilink"),
 [Fornost](Fornost_Weaponsmith "wikilink") and
@@ -12,5 +12,3 @@ title: Weaponsmith
 `>`**`examine weaponsmith`**
 `A young weaponsmith, yet he seems to have strength beyond the extent of his `
 `years.`
-
-[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Target Shooting
+tags: ["Help files"]
 ---
-
 In some places where archery is practiced, targets are placed for
 archers to use. If you are at such a shooting range, with the correct
 equipment, you can fire at the targets. 'SHOOT <target>' is the command
@@ -21,5 +21,3 @@ Recover will work as usual and only remove the missiles you shot.
 
 See also: [Archery](Archery "wikilink"), [Shoot](Shoot "wikilink"),
 [Missile](Missile "wikilink"), [Recover](Recover "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Blue Mountains Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 An **aged dwarf** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Ranger Guild** in the [Blue
 Mountains](Blue_Mountains "wikilink").
@@ -24,5 +24,3 @@ Mountains](Blue_Mountains "wikilink").
 [`ride`](ride "wikilink")`               3  Very easy`
 [`track`](track "wikilink")`              2  Normal`
 [`wilderness`](wilderness "wikilink")`        16  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

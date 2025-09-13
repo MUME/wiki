@@ -1,7 +1,7 @@
 ---
 title: Broadsword
+tags: ["Slashing weapons"]
 ---
-
 The **broadsword** is a [slashing weapon](slashing_weapon "wikilink").
 It is worth around 1 [gold](gold "wikilink") and 5 silver, and is sold
 by most weaponsmiths.
@@ -18,5 +18,3 @@ by most weaponsmiths.
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

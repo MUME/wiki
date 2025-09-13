@@ -1,7 +1,7 @@
 ---
 title: Chief thug
+tags: ["Mobiles"]
 ---
-
 The **chief thug** is an aggressive level ~12-13 [mob](mob "wikilink")
 found in the bandit castle east of [Bree](Bree "wikilink"). He loads a
 [quarterstaff](quarterstaff "wikilink"), a [studded leather
@@ -12,5 +12,3 @@ leather and mail equipment.
 `>`**`examine man`**
 `The bandit wears dirty clothes and has an imbecile look, grinning evilly,`
 `glancing at your purse.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

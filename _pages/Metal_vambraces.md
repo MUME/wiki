@@ -1,7 +1,7 @@
 ---
 title: Metal vambraces
+tags: ["Metal equipment", "Arms items"]
 ---
-
 **Metal vambraces** are worn on the [arms](arms "wikilink"). They
 provide a large amount of damage absorption and slightly decrease
 [offensive bonus](offensive_bonus "wikilink"). They are worth around 6
@@ -19,6 +19,3 @@ provide a large amount of damage absorption and slightly decrease
 `They weigh twelve pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Arms items](Category:_Arms_items "wikilink")

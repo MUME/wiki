@@ -1,7 +1,7 @@
 ---
 title: River Otter
+tags: ["Mobiles"]
 ---
-
 A cute, furry mustelid found near the waters around
 [Fornost](Fornost "wikilink") that might be worth its weight in
 silver...
@@ -18,5 +18,3 @@ sleek, chestnut-brown fur.
 River otters are not hostile.
 
 Loot: Can be butchered to produce a [pelt](a_fine_pelt "wikilink").
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

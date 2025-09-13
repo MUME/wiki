@@ -1,7 +1,7 @@
 ---
 title: Ingrove Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 **Tymen** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Home of a Hardened Warrior** in
 [Ingrove](Anduin_Vale#Ingrove "wikilink").
@@ -26,5 +26,3 @@ title: Ingrove Warrior Guild
 [`slashing weapons`](slashing_weapons "wikilink")`          25  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          21  Normal`
 [`two-handed weapons`](two-handed_weapons "wikilink")`        15  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

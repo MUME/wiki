@@ -1,7 +1,7 @@
 ---
 title: Watch Room
+tags: ["Mage spells", "Spells"]
 ---
-
 Syntax : cast 'watch room' \<location\> \[name\] Type : Long range
 Accumulative: Special Duration : Yes Casting : Long Position : Standing
 Level : Level 16 Class : Magic User Min. Mana : 30 Example: \> cast
@@ -16,6 +16,3 @@ This spell can be learned from:
 `                          Sessions `
 [`Forlond Mage Guild`](Forlond_Mage_Guild "wikilink")`              10`
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`                8`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Body
+tags: ["Equipment"]
 ---
-
 A list of items worn on the **body**.
 
 # Metal
@@ -61,5 +61,4 @@ A list of items worn on the **body**.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Body_items "wikilink")

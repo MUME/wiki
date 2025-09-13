@@ -1,7 +1,7 @@
 ---
 title: Great mottled feline
+tags: ["Mobiles"]
 ---
-
 **Great mottled felines** are aggressive [level](level "wikilink")
 ~12-13 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin.
 They can [sneak](sneak "wikilink").
@@ -12,5 +12,3 @@ They can [sneak](sneak "wikilink").
 `limbs seem well suited for outrunning prey, and her slender body allows moving`
 `gracefully through any terrain. Combined with wide paws and sharp claws, this`
 `makes the cat one of the most dangerous predators in these lands.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

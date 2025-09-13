@@ -1,7 +1,7 @@
 ---
 title: Hobbit
+tags: ["Playable races"]
 ---
-
 ![](Hobbits.jpg "Hobbits.jpg") in *[The Lord of the Rings: The
 Fellowship of the
 Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*\]\]
@@ -68,5 +68,3 @@ this subrace has the following modifications:
 #### Harfoot
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

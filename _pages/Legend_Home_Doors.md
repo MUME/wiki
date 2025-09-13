@@ -1,7 +1,7 @@
 ---
 title: Legend Home Doors
+tags: ["Help files", "Legend_homes"]
 ---
-
 When creating your legend home you will be able to decide certain
 things, one of which is the style and complexity of the door to it. You
 can have most any type of material to make your door out of, much like
@@ -30,6 +30,3 @@ open and close the door upon your command for an additional 750 gold and
 
 See also: [Legend Homes](Legend_Homes "wikilink"), [Legend Home
 Prices](Legend_Home_Prices "wikilink"), [Friend](Friend "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Legend_homes](Category:Legend_homes "wikilink")

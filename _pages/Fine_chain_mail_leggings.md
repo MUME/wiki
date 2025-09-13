@@ -1,7 +1,7 @@
 ---
 title: Fine chain mail leggings
+tags: ["Legs items", "Mail equipment"]
 ---
-
 **Fine chain mail leggings** are a lightweight piece of mail equipment
 worn on the [legs](legs "wikilink"). They can be bought from some
 armourers for around 2 [gold](gold "wikilink").
@@ -17,6 +17,4 @@ armourers for around 2 [gold](gold "wikilink").
 `They weigh six pounds.`
 
 {% include Items.md %}
-
-[Category: Legs items](Category:_Legs_items "wikilink") [Category: Mail
-equipment](Category:_Mail_equipment "wikilink")
+ 

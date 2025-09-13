@@ -1,7 +1,7 @@
 ---
 title: Cure Disease
+tags: ["Spells", "Cleric spells"]
 ---
-
 The spell incantation is 'judicandus eugzagz'
 
 Syntax : cast 'cure disease' \<victim \| food \| drink\> Type : Healing
@@ -26,6 +26,4 @@ This spell can be learned from:
   Serious](Cure_Serious "wikilink"), [Cure
   Critic](Cure_Critic "wikilink"), [Heal](Heal "wikilink"), [Remove
   Poison](Remove_Poison "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink")
+ 

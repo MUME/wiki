@@ -1,7 +1,7 @@
 ---
 title: Detect Evil
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Detect evil** is a level 1 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). When cast, it will apply a long-lasting buff
 that shows you a red aura around [evil](alignment "wikilink") creatures.
@@ -30,6 +30,3 @@ This spell can be learned from:
 [`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                8`
 [`Minas Brethil Cleric Guild`](Minas_Brethil_Cleric_Guild "wikilink")`         8`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             8`
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Fine chain mail sleeves
+tags: ["Arms items", "Mail equipment"]
 ---
-
 **Fine chain mail sleeves** are a lightweight piece of mail equipment
 worn on the [arms](arms "wikilink"). They can be bought from some
 armourers for around 2 [gold](gold "wikilink").
@@ -18,6 +18,4 @@ armourers for around 2 [gold](gold "wikilink").
 `They weigh five pounds.`
 
 {% include Items.md %}
-
-[Category: Arms items](Category:_Arms_items "wikilink") [Category: Mail
-equipment](Category:_Mail_equipment "wikilink")
+ 

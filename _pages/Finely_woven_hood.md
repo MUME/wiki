@@ -1,7 +1,7 @@
 ---
 title: Finely woven hood
+tags: ["Cloth equipment", "Head items"]
 ---
-
 The **finely woven hood** is a piece of cloth
 [equipment](equipment "wikilink") worn on the [head](head "wikilink").
 It grants higher [dodge bonus](dodge_bonus "wikilink") than other cloth
@@ -21,6 +21,3 @@ It grants higher [dodge bonus](dodge_bonus "wikilink") than other cloth
 `It weighs a couple of ounces.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category: Head items](Category:_Head_items "wikilink")

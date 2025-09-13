@@ -1,7 +1,7 @@
 ---
 title: Bree Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Ranger Guild** in
 [Bree](Bree "wikilink").
@@ -24,5 +24,3 @@ A **ranger** teaches [ranger](general "wikilink")
 [`swim`](swim "wikilink")`               3  Very easy `
 [`track`](track "wikilink")`              3  Normal    `
 [`wilderness`](wilderness "wikilink")`         7  Normal  `
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

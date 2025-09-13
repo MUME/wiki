@@ -1,7 +1,7 @@
 ---
 title: Command
+tags: ["Skills", "Ranger skills"]
 ---
-
 *For a list of commands useable in the game, see
 [commands](commands "wikilink").*
 
@@ -16,6 +16,4 @@ to do something (fight, for instance) at your command.
 - [Call Familiar](Call_Familiar "wikilink"), [Charm](Charm "wikilink"),
   [Order](Order "wikilink"), [Pet](Pet "wikilink"), [Raise
   Dead](Raise_Dead "wikilink")
-
-[Category: Skills](Category:_Skills "wikilink") [Category: Ranger
-skills](Category:_Ranger_skills "wikilink")
+ 

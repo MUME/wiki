@@ -1,7 +1,7 @@
 ---
 title: Spell Information
+tags: ["Help files"]
 ---
-
 If you want a list of all spells, visit this [Spell
 List](Spell "wikilink")
 
@@ -42,5 +42,3 @@ loss of certain spells, rather than a greater mana cost.
 
 See Also: [Backfire](Backfire "wikilink"), [Cast](Cast "wikilink"),
 [Create Focus](Create_Focus "wikilink"), [Spell List](Spell "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

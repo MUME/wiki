@@ -1,7 +1,7 @@
 ---
 title: Black and silver surcoat
+tags: ["Cloaks"]
 ---
-
 The **black and silver surcoat** can be worn as a
 [cloak](cloak "wikilink"). It provides some [dodge
 bonus](dodge_bonus "wikilink"). It loads on the [ghost of
@@ -19,5 +19,3 @@ tailors for around 19 silver.
 `It weighs six pounds.`
 
 {% include Items.md %}
-
-[Category: Cloaks](Category:_Cloaks "wikilink")

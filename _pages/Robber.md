@@ -1,7 +1,7 @@
 ---
 title: Robber
+tags: ["Mobiles"]
 ---
-
 **Robbers** are aggressive level ~12-13 [mobs](mob "wikilink") found in
 various locations around [Arda](Arda "wikilink"). They can
 [sneak](sneak "wikilink") and may attempt to
@@ -13,5 +13,3 @@ equipment.
 `>`**`look robber`**
 `This robber looks totally unscrupulous. He looks at you and decides`
 `you would be a juicy target to rob.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

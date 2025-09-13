@@ -1,7 +1,7 @@
 ---
 title: The Foaming Mug
+tags: ["Inns", "Shops"]
 ---
-
 The **Foaming Mug** is an [inn](inn "wikilink") in [Black
 Hill](Black_Hill "wikilink").
 
@@ -14,6 +14,4 @@ Hill](Black_Hill "wikilink").
 - [beer mugs](beer_mug "wikilink") full of beer
 
 The bar is open from 6am - 11am and 12pm - 12am.
-
-[Category: Inns](Category:_Inns "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Call
+tags: ["Help files", "Commands"]
 ---
-
 Most fortified [towns](town "wikilink") on Arda close their **gates** at
 night. If you are a [citizen](citizen "wikilink") and you are outside a
 closed gate, you can **call** the gatekeeper and ask him to let you in.
@@ -30,6 +30,3 @@ lowered.
 
 Another use of the 'call' command is to call an
 [Eagle](Eagle "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

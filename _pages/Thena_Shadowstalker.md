@@ -1,7 +1,7 @@
 ---
 title: Thena Shadowstalker
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Thena Shadowstalker** is one of [Morthan
 Blacksoul](Morthan_Blacksoul "wikilink")'s accomplices. While not
 initially aggressive, if you attack her or her allies, she will remember
@@ -17,6 +17,4 @@ skirt](soft_leather_riding_skirt "wikilink").
 `This woman seems very sure of herself, almost to the point of being arrogant.`
 `She is lean, and moves like a panther, strength in every motion. Long black`
 `hair flows in the wind as she considers you and your purse.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

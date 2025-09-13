@@ -1,7 +1,7 @@
 ---
 title: Reboot
+tags: ["Help files"]
 ---
-
 Every once in a while MUME will need to **reboot** to incorporate new
 [features](features "wikilink") as well as to change or update certain
 game functions. A reboot usually takes about 30 seconds.
@@ -28,5 +28,3 @@ move to a safe place before MUME reboots.
 
 The [Aratar](Ainur#Aratar "wikilink") can reboot the game at any time
 and for any reason, so quit bitching about it.
-
-[Category: Help files](Category:_Help_files "wikilink")

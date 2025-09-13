@@ -1,7 +1,7 @@
 ---
 title: Say
+tags: ["Help files", "Commands"]
 ---
-
 **Say**, **whisper** and **ask** can be used to communicate with players
 or [mobiles](mobile "wikilink") in the same [room](room "wikilink"). For
 long-distance communication, use [tell](tell "wikilink").
@@ -35,6 +35,3 @@ Notes:
 
 See also: [Tell](Tell "wikilink"), [Emote](Emote "wikilink"),
 [Narrate](Narrate "wikilink"), [Ignore](Ignore "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

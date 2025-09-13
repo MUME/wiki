@@ -1,7 +1,7 @@
 ---
 title: Tharbad Cleric Guild
+tags: ["Guildmasters"]
 ---
-
 A **priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") **Up in the Tower** in the northwestern
 corner of [Tharbad](Tharbad "wikilink").
@@ -31,5 +31,3 @@ corner of [Tharbad](Tharbad "wikilink").
 [`Smother`](Smother "wikilink")`                     6  Easy`
 [`Strength`](Strength_Spell "wikilink")`                    3  Hard`
 [`Word of Recall`](Word_of_Recall "wikilink")`              6  Very hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

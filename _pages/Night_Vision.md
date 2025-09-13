@@ -1,7 +1,7 @@
 ---
 title: Night Vision
+tags: ["Spells", "Mage spells"]
 ---
-
 **Night Vision** is a [level](level "wikilink") 7
 [mage](mage "wikilink") [spell](spell "wikilink"). It allows the caster
 to see the names of creatures in dark areas for a period of time. Syntax
@@ -23,6 +23,4 @@ This spell can be learned from:
 
 - [Detect Invisibility](Detect_Invisibility "wikilink"), [Detect
   Magic](Detect_Magic "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
+ 

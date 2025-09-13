@@ -1,7 +1,7 @@
 ---
 title: Black Dagger Guild
+tags: ["Guildmasters"]
 ---
-
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
 at the **Black Dagger Guild** in [Old Fornost](Old_Fornost "wikilink").
 
@@ -22,5 +22,3 @@ at the **Black Dagger Guild** in [Old Fornost](Old_Fornost "wikilink").
 [`piercing weapons`](piercing_weapons "wikilink")`        12  Normal`
 [`search`](search "wikilink")`                  16  Normal`
 [`steal`](steal "wikilink")`                    3  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

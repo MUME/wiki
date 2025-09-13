@@ -1,7 +1,7 @@
 ---
 title: Man
+tags: ["Playable races"]
 ---
-
 ![](Aragorn.jpg "Aragorn.jpg")''\]\] As with our own world, **man** is
 the most varied of the races. While one may be kind and gentle, another
 may be vicious and evil. Man is the 'standard' race, and are competent
@@ -48,5 +48,3 @@ for more experienced players:
   under the guide of Sauron.
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

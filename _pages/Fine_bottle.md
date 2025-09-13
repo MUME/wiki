@@ -1,7 +1,7 @@
 ---
 title: Fine bottle
+tags: ["Containers"]
 ---
-
 The **fine bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain about 2 and a half
 pounds worth of liquid. It is worth around 7 [silver](silver "wikilink")
@@ -18,5 +18,3 @@ most often containing wine.
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Category: Containers](Category:_Containers "wikilink")

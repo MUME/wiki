@@ -1,7 +1,7 @@
 ---
 title: Oldnames
+tags: ["Help files"]
 ---
-
 Recent Namechanges of persons of some particular interest: Old Name New
 Name Blackadder -\> Ajis Sars -\> Nartum Tinkywinky -\> Valik
 Shûuklänypóor -\> Lânastarí Oooz -\> Shandalar Below you will find the
@@ -122,5 +122,3 @@ Zarglub Rot Vasquez Nimloth Zaug Goering Veer Randhir Zegreb Superfly
 Weltsmertz Morpheus Zendókh Klat Zigûrakhôr Hisime Willie Thorongil
 Zohar Conman Vulcan Khird Zorgoth Zerg Xile Zubin Zruul Lappland Yogar
 Bonzo Zubin Xile Zap Anárawyn Zyramyr Ulrik Zerg Zorgoth Zzandôk Badass
-
-[Category:Help files](Category:Help_files "wikilink")

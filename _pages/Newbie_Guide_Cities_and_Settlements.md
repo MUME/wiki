@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Cities and Settlements
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Guide Cities and Settlements**
 
 This guide written and published by p(Baca/Endo)
@@ -1354,6 +1354,4 @@ cities to retreat to if danger is near.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

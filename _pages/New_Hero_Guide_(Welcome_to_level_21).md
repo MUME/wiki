@@ -1,7 +1,7 @@
 ---
 title: New Hero Guide (Welcome to level 21)
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Guide to New Heros**
 
 This guide written and published by p(Baca/Endo)
@@ -304,6 +304,4 @@ their flying distance.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

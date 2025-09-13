@@ -1,7 +1,7 @@
 ---
 title: Heal
+tags: ["Spells", "Cleric spells"]
 ---
-
 **Heal** is a level 14 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It gives a large boost in hit points, heals
 the first [wound](wound "wikilink") and removes
@@ -29,6 +29,4 @@ mekin This spell can be learned from:
   Critic](Cure_Critic "wikilink"), [Cure
   Disease](Cure_Disease "wikilink"), [Remove
   Poison](Remove_Poison "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Warg
+tags: ["Mobiles"]
 ---
-
 ![](warg.jpg "warg.jpg")''\]\]
 
 **Wargs** are large evil semi-intelligent wolf-hounds. They are probably
@@ -14,5 +14,3 @@ ride them as [mounts](mount "wikilink").
 There are several warg mobiles in the game, including [hungry
 warg](hungry_warg "wikilink"), [ferocious
 warg](ferocious_warg "wikilink") and [huge warg](huge_warg "wikilink").
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

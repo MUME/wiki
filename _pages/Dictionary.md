@@ -1,7 +1,7 @@
 ---
 title: Dictionary
+tags: ["Help files", "Commands"]
 ---
-
 With the **dictionary** command, you can get a short description of
 names and concepts from [Tolkien](Tolkien "wikilink")'s works.
 
@@ -20,6 +20,4 @@ Some abbreviations used in the dictionaries:
 `plur.   plural`
 
 Note: the dictionary is very far from complete right now
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

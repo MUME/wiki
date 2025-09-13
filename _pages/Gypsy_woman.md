@@ -1,7 +1,7 @@
 ---
 title: Gypsy woman
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 The **gypsy woman** is an aggressive [level](level "wikilink") ?
 [mobile](mobile "wikilink") found in [Malardil's
 castle](Malardil's_castle "wikilink"). She usually follows
@@ -18,6 +18,4 @@ a [belt](plain_leather_belt "wikilink"), [lantern](lantern "wikilink"),
 `Though quite old, this woman has a strange, compelling beauty, perhaps`
 `because of her startlingly clear and piercing hazel eyes. Her long hair,`
 `though showing strands of grey remains lustrous, and her figure trim.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Justice
+tags: ["Help files"]
 ---
-
 Command **'justice**' allows you to read the justice
 [board](board "wikilink") where punishments of cheaters are documented.
 For the syntax of command 'justice', see 'help news'.
@@ -127,5 +127,3 @@ Note however that if you die not to a kill but to
 wanted - the town will *not* forget that you are wanted there.
 
 See also: [Citizen](Citizen "wikilink"), [Jail](Jail "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

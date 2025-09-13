@@ -1,7 +1,7 @@
 ---
 title: Beechbone the Ent
+tags: ["Ents"]
 ---
-
 **Beechbone** is a [good](alignment "wikilink")
 [level](level "wikilink") 28 [Ent](Ent "wikilink") living in
 [Fangorn](Fangorn "wikilink") forest. He might ask you for help in
@@ -23,5 +23,3 @@ After completing his quest, he will appear as a **tall, beech-like
 Ent**.
 
 `A tall figure, like that of a fine-looking beech tree, rises here.`
-
-[Category: Ents](Category:_Ents "wikilink")

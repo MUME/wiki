@@ -1,7 +1,7 @@
 ---
 title: Age
+tags: ["Help files"]
 ---
-
 **Age** affects a character's [statistics](statistic "wikilink")
 according to the following table. The change is linear between the
 various age brackets; so, the modifier for strength changes from -1 to 0
@@ -36,5 +36,3 @@ ages 3 times slower, and a Hobbit 1.5 times slower.
 ## See also
 
 - [Races](Race "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

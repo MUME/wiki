@@ -1,7 +1,7 @@
 ---
 title: Witch
+tags: ["Mobiles"]
 ---
-
 The **witch** is an aggressive level ~17-18 [mobile](mobile "wikilink")
 located in a tower just southeast of [Fornost](Fornost "wikilink"). She
 can cast [Burning Hands](Burning_Hands "wikilink") and [Lightning
@@ -16,5 +16,3 @@ herblore.
 `> `**`examine witch`**
 `>She meets your eyes with an ice-cold gaze. Despite her evil cunning and`
 `power she has not yet learnt about bathing.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

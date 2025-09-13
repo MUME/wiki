@@ -1,7 +1,7 @@
 ---
 title: Soft leather trousers
+tags: ["Leather equipment", "Legs items"]
 ---
-
 \> **look trousers**
 
 These trousers have been constructed from thin leather pieces joined
@@ -22,6 +22,3 @@ They are a pair of soft leather trousers.
 They weigh four pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

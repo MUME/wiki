@@ -1,7 +1,7 @@
 ---
 title: Harlond Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **ranger** teaches [ranger](ranger "wikilink")
 [skills](skill "wikilink") at the **Ranger's Home** in
 [Harlond](Harlond "wikilink").
@@ -24,5 +24,3 @@ A **ranger** teaches [ranger](ranger "wikilink")
 [`swim`](swim "wikilink")`              14  Very easy`
 [`track`](track "wikilink")`              6  Normal`
 [`wilderness`](wilderness "wikilink")`         8  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

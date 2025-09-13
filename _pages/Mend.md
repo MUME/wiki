@@ -1,7 +1,7 @@
 ---
 title: Mend
+tags: ["Help files", "Commands"]
 ---
-
 After wear and tear, your [equipment](equipment "wikilink") will
 probably begin to become less effective. For instance, your prize
 enchanted [longsword](longsword "wikilink") becomes dented. To restore
@@ -42,6 +42,3 @@ necessary tools to do so.
 
 See also: [Shop](Shop "wikilink"), [Whetstone](Whetstone "wikilink"),
 [State](State "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

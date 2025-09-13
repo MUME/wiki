@@ -1,7 +1,7 @@
 ---
 title: Woollen traveller's cloak
+tags: ["Cloaks"]
 ---
-
 The **woollen traveller's cloak** is a [cloak](cloak "wikilink"). It is
 worth around 7 [silver](gold "wikilink").
 
@@ -19,5 +19,3 @@ worth around 7 [silver](gold "wikilink").
 `It weighs nine pounds.`
 
 {% include Items.md %}
-
-[Category: Cloaks](Category:_Cloaks "wikilink")

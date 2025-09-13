@@ -1,7 +1,7 @@
 ---
 title: Light
+tags: ["Help files", "Commands"]
 ---
-
 **Light** and **snuff** are commands that can be used to turn on and off
 a light source. For instance, if you have a
 [lantern](lantern "wikilink"), you can 'light lantern' to have it shed
@@ -15,6 +15,4 @@ can be [refilled](fill "wikilink") when they run out of
 
 See also: [Create Light](Create_Light "wikilink"),
 [Camp](Camp "wikilink"), [Cover](Cover "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Roe deer
+tags: ["Mobiles"]
 ---
-
 **Roe deer** are passive [level](level "wikilink") ~1-2
 [mobiles](mobile "wikilink") found in various locations around
 [Arda](Arda "wikilink"), particularly in the [Blue
@@ -15,5 +15,3 @@ butchered to produce a [fine pelt](fine_pelt "wikilink") and some
 `cautious beast. Its flanks are a russet colour, but its underbelly is lighter`
 `in colour. Small horns sprout from behind the ears, but it is said both buck`
 `and doe have these.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

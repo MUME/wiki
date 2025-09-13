@@ -1,7 +1,7 @@
 ---
 title: Cure Serious
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Cure Serious** is a level 5 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It gives an increase in hit points for the
 person it is cast upon. Besides [Heal](Heal "wikilink") it is the
@@ -30,7 +30,4 @@ This spell can be learned from:
   Light](Cure_Light "wikilink"), [Cure Critic](Cure_Critic "wikilink"),
   [Cure Disease](Cure_Disease "wikilink"), [Remove
   Poison](Remove_Poison "wikilink"), [Heal](Heal "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

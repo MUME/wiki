@@ -1,7 +1,7 @@
 ---
 title: Brown bear
+tags: ["Mobiles"]
 ---
-
 **Brown bears** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 12 [mobs](mob "wikilink") found in various
 places around [Arda](Arda "wikilink"), often
@@ -18,5 +18,3 @@ produce a [brown bear fur](brown_bear_fur "wikilink") and some
 `sense of smell makes up for its mediocre sight and hearing. The bear consumes a`
 `wide variety of food, such as of berries, grass, fish, roots and even some`
 `other mammals such as the moose.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

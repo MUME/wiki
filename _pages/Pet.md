@@ -1,7 +1,7 @@
 ---
 title: Pet
+tags: ["Help files"]
 ---
-
 In certain towns and home areas one may [purchase](buy "wikilink")
 animals. A common example of this is the ability to buy a
 [horse](horse "wikilink"). One can also buy more traditional pet animals
@@ -14,5 +14,3 @@ however using them to spam communication channels is a bad idea.
 - [Rules Channels](Rules_Channels "wikilink"),
   [Command](Command "wikilink"), [Order](Order "wikilink"),
   [Charm](Charm "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

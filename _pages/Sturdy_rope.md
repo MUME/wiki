@@ -1,7 +1,7 @@
 ---
 title: Sturdy rope
+tags: ["Uncategorized items"]
 ---
-
 The **sturdy rope** is a [rope](rope "wikilink") that can be used to
 facilitate [climbing](climb "wikilink"). It can be bought from most
 grocers for around 1 [silver](silver "wikilink").
@@ -16,6 +16,3 @@ grocers for around 1 [silver](silver "wikilink").
 `It weighs seven pounds.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

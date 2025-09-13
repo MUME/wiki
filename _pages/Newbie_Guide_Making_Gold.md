@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Making Gold
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Making Gold**
 
 This guide written and published by p(Baca/Endo), help from p(Amund)
@@ -550,6 +550,4 @@ them for more quest rewards.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

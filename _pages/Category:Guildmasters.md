@@ -1,5 +1,4 @@
 ---
 title: Category:Guildmasters
+tags: ["Mobiles"]
 ---
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

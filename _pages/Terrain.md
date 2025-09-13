@@ -1,7 +1,7 @@
 ---
 title: Terrain
+tags: ["Help files"]
 ---
-
 Each place on [Arda](Arda "wikilink") is characterized by a specific
 **terrain** type, which is represented (in prompts and elsewhere) as
 follows:
@@ -21,5 +21,3 @@ harder Dwarves\| . harder . . easier Hobbits\| easier . . . harder Orcs
 \| . harder easier harder easier Trolls \| easier . . . easier
 
 See Also: [Movement points](Movement_points "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

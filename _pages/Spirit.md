@@ -1,7 +1,7 @@
 ---
 title: Spirit
+tags: ["Mobiles"]
 ---
-
 *For another mob with the same name, see [glowing
 spirit](glowing_spirit "wikilink").*
 
@@ -19,5 +19,3 @@ cloak](forest_green_cloak "wikilink").
 `It seems to be a restless spirit of an old soldier, one of its legs`
 `almost separated from its body. The spirit is transparent and hard`
 `to see clearly.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

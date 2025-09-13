@@ -1,7 +1,7 @@
 ---
 title: Rohirrim
+tags: ["Playable races"]
 ---
-
 The **Rohirrim** are the Horse Lords of [Rohan](Rohan "wikilink"). Their
 name for themselves is the Eorlingas. They are tall, blond-haired, and
 often blue-eyed. They are by nature stern, fierce, and grave, yet
@@ -29,5 +29,3 @@ Hills](Tower_Hills "wikilink"), [Fornost](Fornost "wikilink"), or
 [Bree](Bree "wikilink").
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

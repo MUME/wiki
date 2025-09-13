@@ -1,7 +1,7 @@
 ---
 title: Small tangle of roots
+tags: ["Mobiles"]
 ---
-
 **Small tangles of roots** are passive [level](level "wikilink") \<10
 [mobiles](mobile "wikilink"). They can root players, preventing them
 from leaving the room until the roots are killed.
@@ -10,5 +10,3 @@ from leaving the room until the roots are killed.
 `>`**`examine roots`**
 `Dozens of long, thin roots are tangled together in an intricate network. They`
 `seem to slide and shift across one another, constantly weaving new patterns.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

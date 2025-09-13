@@ -1,7 +1,7 @@
 ---
 title: Shroud
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Shroud** is a [level](level "wikilink") 5 [mage](mage "wikilink")
 [spell](spell "wikilink"). If [cast](cast "wikilink") on a creature, it
 will turn invisible for some time. This can be used to protect oneself
@@ -32,7 +32,4 @@ This spell can be learned from:
 ## See also
 
 - [Detect Invisibility](Detect_Invisibility "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

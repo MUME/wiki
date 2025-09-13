@@ -1,7 +1,7 @@
 ---
 title: Lórien Mage Guild
+tags: ["Guildmasters"]
 ---
-
 **Rumil** teaches [mage](mage "wikilink") [spells](spell "wikilink") at
 the **Flet of the Bards** in [Caras
 Galadhon](Caras_Galadhon "wikilink"). The guild is open from 6am to 6pm.
@@ -48,5 +48,3 @@ Galadhon](Caras_Galadhon "wikilink"). The guild is open from 6am to 6pm.
 [`Store`](Store "wikilink")`                      10  Hard`
 [`Teleport`](Teleport "wikilink")`                   10  Hard`
 [`Watch Room`](Watch_Room "wikilink")`                  8  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

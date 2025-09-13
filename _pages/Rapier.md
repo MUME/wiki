@@ -1,7 +1,7 @@
 ---
 title: Rapier
+tags: ["Piercing weapons"]
 ---
-
 The **rapier** is a [piercing weapon](piercing_weapon "wikilink"). It is
 worth around 15 [silver](silver "wikilink"), and is sold by most
 weaponsmiths.
@@ -19,5 +19,3 @@ weaponsmiths.
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Piercing weapons](Category:_Piercing_weapons "wikilink")

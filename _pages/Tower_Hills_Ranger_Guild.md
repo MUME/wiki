@@ -1,7 +1,7 @@
 ---
 title: Tower Hills Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 A **crippled ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Low Stone Cabin** in [Black
 Hill](Black_Hill "wikilink"). He is looking for someone to retrieve
@@ -25,5 +25,3 @@ Hill](Black_Hill "wikilink"). He is looking for someone to retrieve
 [`swim`](swim "wikilink")`               4  Very easy`
 [`track`](track "wikilink")`             15  Normal`
 [`wilderness`](wilderness "wikilink")`        12  Normal     `
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

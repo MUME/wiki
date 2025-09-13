@@ -1,8 +1,6 @@
 ---
 title: Category:Thief skills
+tags: ["Skills", "Thief"]
 ---
-
 [Thief](Thief "wikilink") [skills](skill "wikilink").
-
-[Category: Skills](Category:_Skills "wikilink") [Category:
-Thief](Category:_Thief "wikilink")
+ 

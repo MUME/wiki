@@ -1,7 +1,7 @@
 ---
 title: Large clay bowl
+tags: ["Uncategorized items"]
 ---
-
 `A very large drinking bowl made of well-worn clay is here.`
 `>`**`look at bowl`**
 `This large bowl measuring nearly a foot across is made from some kind `
@@ -14,6 +14,3 @@ title: Large clay bowl
 `It weighs five pounds.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

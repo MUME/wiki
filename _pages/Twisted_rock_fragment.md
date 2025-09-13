@@ -1,7 +1,7 @@
 ---
 title: Twisted rock fragment
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **examine rock**
 This rock, not much larger than a small hand, appears too twisted and
 convoluted to be natural. Veins of a silvery metallic substance glisten
@@ -26,6 +26,3 @@ person in the same room has a chance of exploding, causing some damage
 to the person holding them.
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

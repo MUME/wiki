@@ -1,7 +1,7 @@
 ---
 title: Infusion
+tags: ["Consumables"]
 ---
-
 An **infusion** is a potion that can cure some
 [diseases](disease "wikilink") like flu and amibia, as well as increase
 your maximum [mana](mana "wikilink") and mana
@@ -18,5 +18,3 @@ be found inside the Great Smials in the [Shire](Shire "wikilink").
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Category: Consumables](Category:_Consumables "wikilink")

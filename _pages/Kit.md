@@ -1,7 +1,7 @@
 ---
 title: Kit
+tags: ["Help files"]
 ---
-
 Newbie kits consist of helpful items for young adventurers just starting
 out in MUME. Normally a newbie kit will consist of a weapon of some
 sort, a shield, some meat and bread, a cup of water and maybe a map of a
@@ -35,5 +35,3 @@ Soldiers of the Dark Lord can only receive ONE kit ever, at any level.
 
 See also: [Newbie](Newbie "wikilink"), [Pray](Pray "wikilink"),
 [Rangers](Rangers "wikilink"), [Names](Names "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

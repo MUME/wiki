@@ -1,7 +1,7 @@
 ---
 title: Pot helm
+tags: ["Metal equipment", "Head items"]
 ---
-
 The **pot helm** is a piece of metal [equipment](equipment "wikilink")
 worn on the [head](head "wikilink"). It is a reward from the [Bandit's
 Note](Quest#Bandit.27s_Note "wikilink") quest and can also be bought
@@ -17,6 +17,3 @@ from most armourers for around 1 [gold](gold "wikilink") 6 silver.
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Head items](Category:_Head_items "wikilink")

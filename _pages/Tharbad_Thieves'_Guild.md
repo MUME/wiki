@@ -1,7 +1,7 @@
 ---
 title: Tharbad Thieves' Guild
+tags: ["Guildmasters"]
 ---
-
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
 at the **Thieves' Guild** in [Tharbad](Tharbad "wikilink"). The entrance
 is located behind a hidden brick opposite the [weapon
@@ -20,5 +20,3 @@ shop](Tharbad_Weaponsmith "wikilink").
 [`dodge`](dodge "wikilink")`                   23  Hard`
 [`missile`](missile "wikilink")`                  6  Normal`
 [`piercing weapons`](piercing_weapons "wikilink")`        12  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

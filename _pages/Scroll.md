@@ -1,7 +1,7 @@
 ---
 title: Scroll
+tags: ["Equipment"]
 ---
-
 **Scrolls** are powerful items which hold enchantments that can be read
 by any character (even [trolls](troll "wikilink")!). Because they are
 very powerful, some can be rather difficult to get.
@@ -24,5 +24,3 @@ will be greatly increased.
 - [a deep ebony scroll](deep_ebony "wikilink")
 
 {% include Items.md %}
-
-[Category:Equipment](Category:Equipment "wikilink")

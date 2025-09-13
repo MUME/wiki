@@ -1,7 +1,7 @@
 ---
 title: Huge millipede
+tags: ["Mobiles"]
 ---
-
 **Huge millipedes** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 10 [mobiles](mobile "wikilink") found in
 [Fangorn](Fangorn "wikilink").
@@ -12,5 +12,3 @@ title: Huge millipede
 `black, the segments and legs of this brute seem endless as it twists towards`
 `you threateningly. It uses its thick body to coil around its prey, constricting`
 `them. Its tough mandibles clack together, seeking warm flesh.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

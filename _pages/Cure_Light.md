@@ -1,7 +1,7 @@
 ---
 title: Cure Light
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Cure Light** is a [level](level "wikilink") 1
 [cleric](cleric "wikilink") [spell](spell "wikilink") that cures the
 target of a few [hit points](hit_points "wikilink") (around 10). It's a
@@ -33,7 +33,4 @@ This spell can be learned from:
   Disease](Cure_Disease "wikilink"), [Cure
   Serious](Cure_Serious "wikilink"), [Remove
   Poison](Remove_Poison "wikilink"), [Heal](Heal "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

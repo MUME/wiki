@@ -1,7 +1,7 @@
 ---
 title: Divination
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Divination** is a [cleric](cleric "wikilink")
 [spell](spell "wikilink") that allows you to gain information about the
 target's [level](level "wikilink"),
@@ -20,6 +20,3 @@ This spell can be learned from:
 [`Forlond Cleric Guild`](Forlond_Cleric_Guild "wikilink")`              18`
 [`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`                8`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`             2`
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

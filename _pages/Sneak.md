@@ -1,7 +1,7 @@
 ---
 title: Sneak
+tags: ["Thief skills", "Skills"]
 ---
-
 Usage: sneak \[on\|off\]
 
 **Sneak** is a [thief](thief "wikilink") [skill](skill "wikilink") used
@@ -29,6 +29,4 @@ Examples:
 `  S > sneak`
 `  You stop sneaking.`
 `  >`
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

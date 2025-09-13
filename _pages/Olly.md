@@ -1,7 +1,7 @@
 ---
 title: Olly
+tags: ["Mobiles"]
 ---
-
 **Olly** is the owner of Olly's Tavern in [Fornost](Fornost "wikilink").
 His tavern can be found just south of the Palisade Gate that leads to
 the ruins of Old Fornost.
@@ -18,5 +18,3 @@ silver) will loosen his lips enough for him to spill the beans...
 `retreating from his forehead. This he tries to hide by combing the little hair `
 `he still has forward, but of course it only makes things worse. He glares`
 `suspiciously at you.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

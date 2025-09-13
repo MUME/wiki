@@ -1,7 +1,7 @@
 ---
 title: Thief
+tags: ["Classes"]
 ---
-
 *For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
@@ -92,5 +92,4 @@ useful.
 
 {% include ClassRace.md %}
 
-[Category: Classes](Category:_Classes "wikilink")
 [\*](Category:_Thief "wikilink")

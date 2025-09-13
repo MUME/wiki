@@ -1,7 +1,7 @@
 ---
 title: Bulldog
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Bulldogs** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's
 castle](Malardil's_castle "wikilink"). They load with a [studded leather
@@ -14,6 +14,4 @@ collar](studded_leather_collar "wikilink").
 `it bares its teeth and glares at you.`
 
 .
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

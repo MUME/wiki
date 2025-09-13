@@ -1,7 +1,7 @@
 ---
 title: Lórien Ranger Guild
+tags: ["Guildmasters"]
 ---
-
 **Orophin** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at [Caras
 Galadhon](Caras_Galadhon "wikilink"). He can usually be found
@@ -27,5 +27,3 @@ Galadhon](Caras_Galadhon "wikilink"). He can usually be found
 [`swim`](swim "wikilink")`               9  Very easy`
 [`track`](track "wikilink")`             14  Normal`
 [`wilderness`](wilderness "wikilink")`        18  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

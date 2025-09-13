@@ -1,7 +1,7 @@
 ---
 title: Shield of Cardolan
+tags: ["Shields"]
 ---
-
 The **shield of Cardolan** is a lightweight [shield](shield "wikilink").
 It's generally a less desirable option than the [shield of
 Arthedain](shield_of_Arthedain "wikilink"), as it gives slightly less
@@ -19,5 +19,3 @@ can also be bought from some armourers for around 7
 `It weighs one stone and two pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

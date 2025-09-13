@@ -1,7 +1,7 @@
 ---
 title: Earthquake
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 Syntax : cast 'earthquake' Type : Offensive, physical, area
 Accumulative: N/A Duration : No Casting : Long Position : Standing,
 fighting Level : Level 8 Class : Magic User Min. Mana : 15 Example: \>
@@ -21,7 +21,4 @@ This spell can be learned from:
   Bolt](Lightning_Bolt "wikilink"), [Colour
   Spray](Colour_Spray "wikilink"), [Fireball](Fireball "wikilink"),
   [Call Lightning](Call_Lightning "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

@@ -1,7 +1,7 @@
 ---
 title: Rope
+tags: ["Help files", "Commands"]
 ---
-
 **Rope** is useful for leading groups in areas that require the
 [Climb](Climb "wikilink") skill. The group leader (i.e. the one who
 typed group xxxx ) must have the rope and the others must follow. Trying
@@ -16,6 +16,4 @@ course, you can't expect to recover a rope from below: you are trusting
 your weight to the knot.
 
 See also: [Climb](Climb "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

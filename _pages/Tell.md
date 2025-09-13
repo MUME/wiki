@@ -1,7 +1,7 @@
 ---
 title: Tell
+tags: ["Help files", "Commands"]
 ---
-
 The **tell** command can be used to send a message to another player,
 regardless of where they're located. [Sleeping](Sleep "wikilink")
 players cannot hear tells.
@@ -18,6 +18,3 @@ Examples
 
 See also: [Say](Say "wikilink"), [Narrate](Narrate "wikilink"),
 [Ignore](Ignore "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

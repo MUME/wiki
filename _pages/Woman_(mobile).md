@@ -1,7 +1,7 @@
 ---
 title: Woman (mobile)
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 *For the playable race, see [man](man "wikilink").*
 
 **Women** are low-level [mobiles](mobile "wikilink") who wander around
@@ -12,6 +12,4 @@ belt, a [ring](ring "wikilink") and a [lantern](lantern "wikilink").
 `>`**`examine woman`**
 `This middle-aged woman is perhaps a mother or midwife, judging by her attire.`
 `Her friendly smile appears to be shared often with friends and strangers alike.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

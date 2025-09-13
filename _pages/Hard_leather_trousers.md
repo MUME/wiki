@@ -1,7 +1,7 @@
 ---
 title: Hard leather trousers
+tags: ["Leather equipment", "Legs items"]
 ---
-
 **Hard leather trousers** are a piece of hard leather equipment worn on
 the [legs](legs "wikilink"). They are worth around 3
 [silver](silver "wikilink") and 50 copper, and are sold by most
@@ -18,6 +18,3 @@ armourers.
 `They weigh five pounds.`
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

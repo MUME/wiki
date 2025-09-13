@@ -1,7 +1,7 @@
 ---
 title: Rescue
+tags: ["Warrior skills", "Skills"]
 ---
-
 ([Warrior](Warrior "wikilink") [Skill](Skill "wikilink")) \[Instant
 Command\]
 
@@ -25,6 +25,3 @@ Example:
 ## See also:
 
 - [Bash](Bash "wikilink"), [Kick](Kick "wikilink")
-
-[Category: Warrior skills](Category:_Warrior_skills "wikilink")
-[Category: Skills](Category:_Skills "wikilink")

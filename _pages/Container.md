@@ -1,7 +1,7 @@
 ---
 title: Container
+tags: ["Equipment"]
 ---
-
 **Containers** allow you to organize your items. Some containers can be
 worn on your belt, or some on your back.
 
@@ -43,5 +43,4 @@ or for short
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Containers "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Whet
+tags: ["Commands", "Help files"]
 ---
-
 **Whetstones** are small hard stones used for sharpening your
 [weapon](weapon "wikilink"). To use them:
 
@@ -14,6 +14,4 @@ title: Whet
   will lose [movement points](movement_points "wikilink").
 - If no whetstone is available you can certainly [mend](mend "wikilink")
   your weapon at a local weaponsmith's shop.
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

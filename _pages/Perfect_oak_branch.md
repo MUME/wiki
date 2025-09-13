@@ -1,7 +1,7 @@
 ---
 title: Perfect oak branch
+tags: ["Uncategorized items"]
 ---
-
 The **perfect oak branch** is an [item](item "wikilink") used in the
 creation of [focus](focus "wikilink") [staves](staff "wikilink"). It can
 load in 6 different spots - one on the northern edge of
@@ -23,6 +23,3 @@ few hours (real-time) in [inventory](inventory "wikilink").
 `It weighs one stone and three pounds.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

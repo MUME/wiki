@@ -1,7 +1,7 @@
 ---
 title: Smuggler
+tags: ["Mobiles"]
 ---
-
 **Smugglers** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~10 [mobiles](mobile "wikilink"), found in
 various places around [Arda](Arda "wikilink"), especially common in the
@@ -14,5 +14,3 @@ some cloth [equipment](equipment "wikilink").
 `This man looks very skilled at his profession.  His lean body, all dressed in`
 `black, looks strong and lithe.  He looks quite dangerous, and you think he is`
 `on his way either to Tharbad or Bree with some goods, or money from a sale.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

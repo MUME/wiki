@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Leveling 1 to 12
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Leveling 1 to 12**
 
 This guide written and published by p(Baca/Endo) “The Road goes ever on
@@ -744,6 +744,4 @@ questions as well.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

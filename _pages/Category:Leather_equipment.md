@@ -1,7 +1,5 @@
 ---
 title: Category:Leather equipment
+tags: ["Equipment"]
 ---
-
 {% include Items.md %}
-
-[Category: Equipment](Category:_Equipment "wikilink")

@@ -1,6 +1,6 @@
 ---
 title: The black sword
+tags: ["Weapons"]
 ---
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Slashing_weapons "wikilink")

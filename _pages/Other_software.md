@@ -1,7 +1,7 @@
 ---
 title: Other software
+tags: ["Software"]
 ---
-
 [Mudlle](Mudlle "wikilink")
 
 # External Links
@@ -11,5 +11,3 @@ Script](http://biokdd.informatics.indiana.edu/~nschimme/mume/time.php)
 
 [Jahara's MUME Page \| Stat
 Generator](http://nschimme.googlepages.com/stats.htm)
-
-[Category:Software](Category:Software "wikilink")

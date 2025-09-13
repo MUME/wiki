@@ -1,7 +1,7 @@
 ---
 title: Location
+tags: ["Locations"]
 ---
-
 The continent of [Middle-earth](Middle-earth "wikilink") was shaped at
 the most ancient days of Arda. It lay to the east of the other great
 continent of [Aman](Aman "wikilink") (Undying Lands), and was separted
@@ -77,5 +77,3 @@ poly 213 456 271 383 352 368 522 409 526 506 422 514 377 444 325 439 264
 desc none </imagemap>
 
 {% include Place.md %}
-
-[Category: Locations](Category:_Locations "wikilink")

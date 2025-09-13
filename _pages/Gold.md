@@ -1,7 +1,7 @@
 ---
 title: Gold
+tags: ["Help files"]
 ---
-
 *Copper redirects here. For the magical ring made from the metal, see
 [copper ring](copper_ring "wikilink").*
 
@@ -22,5 +22,3 @@ When referring to an unknown amount, use 'coins':
 
 Money is useful for [buying](buy "wikilink") things, and for [storing
 your equipment](rent "wikilink") while you are not playing.
-
-[Category:Help files](Category:Help_files "wikilink")

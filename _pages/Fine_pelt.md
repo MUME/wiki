@@ -1,7 +1,7 @@
 ---
 title: Fine pelt
+tags: ["Uncategorized items"]
 ---
-
 \> **look pelt**
 
 The pelt is light brown with a faint outline of white streaks and is
@@ -21,6 +21,3 @@ Obtained from [butchering](butcher "wikilink") various animals,
 including deer, elk, wolverines and otters.
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

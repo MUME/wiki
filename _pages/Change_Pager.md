@@ -1,7 +1,7 @@
 ---
 title: Change Pager
+tags: ["Help files"]
 ---
-
 This setting affects how display from the "view" command is done.
 
 By selecting "simple", such paging is done using the normal MUME pager.
@@ -13,5 +13,3 @@ variable.
 
 See also: [Change](Change "wikilink"), [Change
 Editor](Change_Editor "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

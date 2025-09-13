@@ -1,7 +1,7 @@
 ---
 title: PowTTY Scripts
+tags: ["Software"]
 ---
-
 # PowTTY
 
 ### Timebar, by Jahara
@@ -207,5 +207,3 @@ off.={dtmoff\|#print ("Your perception of magical auras wears off. (Last
 "+%((timer-\${dtmtimer})/60)+":"+%(((timer-\${dtmtimer}))-(((timer-\${dtmtimer})/60)\*60))+")")}}
 \#alias dtmon={#ac +setdtmtimer2\|#ac +showdtmtimer\|#ac +dtmdown}
 \#alias dtmoff={#ac -setdtmtimer2\|#ac -showdtmtimer\|#ac -dtmdown}
-
-[Category:Software](Category:Software "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Sewers Thieves' Guild
+tags: ["Mobiles", "Guildmasters"]
 ---
-
 A **wary man** teaches [thief](thief "wikilink")
 [skills](skill "wikilink") at **The Guild of Assassins**, hidden
 somewhere behind a red door in the Sewers of
@@ -21,6 +21,4 @@ somewhere behind a red door in the Sewers of
 [`pick`](pick "wikilink")`                     8  Normal`
 [`piercing weapons`](piercing_weapons "wikilink")`        16  Normal`
 [`sneak`](sneak "wikilink")`                   23  Hard`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category:
-Guildmasters](Category:_Guildmasters "wikilink")
+ 

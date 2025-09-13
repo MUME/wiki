@@ -1,7 +1,7 @@
 ---
 title: Incognito
+tags: ["Help files"]
 ---
-
 Use '[change](change "wikilink") <b>incognito</b>' to change various
 incognito settings.
 
@@ -21,5 +21,3 @@ where <field> can be one of:
 ` who      whether you will show up in '`[`who`](who "wikilink")`'`
 
 Your host will never be shown if you are incognito "who".
-
-[Category:Help files](Category:Help_files "wikilink")

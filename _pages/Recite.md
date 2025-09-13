@@ -1,7 +1,7 @@
 ---
 title: Recite
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: **recite** <scroll> \[recipient\]
 
 This command is used to "read" a magical [scroll](scroll "wikilink").
@@ -20,6 +20,4 @@ Examples:
 `> recite blackscroll trix (recite a black scroll on trix)`
 
 See also: [Cast](Cast "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

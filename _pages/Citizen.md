@@ -1,7 +1,7 @@
 ---
 title: Citizen
+tags: ["Help files"]
 ---
-
 When you begin the game, if you're not an [Orc](Orc "wikilink"), a
 [Troll](Troll "wikilink") or a [Black
 Numenorean](Black_Numenorean "wikilink"), you will become a **citizen**
@@ -22,5 +22,3 @@ citizenship. Some may require payment, others will give it free
 depending on [alignment](alignment "wikilink"). However, make sure you
 have no outstanding [crimes](crime "wikilink") when you try to obtain
 citizenship, else you may lose it just as fast.
-
-[Category: Help files](Category:_Help_files "wikilink")

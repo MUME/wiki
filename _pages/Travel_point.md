@@ -1,7 +1,7 @@
 ---
 title: Travel point
+tags: ["Help files"]
 ---
-
 A feature unique to MUME, all players need to gain travel points (TPs)
 in addition to experience points to gain a level. TPs measure a
 character's knowledge of Arda.
@@ -30,5 +30,3 @@ character starting in Fornost should gain about 1500 travel points for
 her first trip to the Grey Havens - even if she remains on the main
 road. This bonus is unaffected by being a leader or a follower, or by
 any other issues.
-
-[Category:Help files](Category:Help_files "wikilink")

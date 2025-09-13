@@ -1,7 +1,7 @@
 ---
 title: Exquisite wine glass
+tags: ["Containers"]
 ---
-
 `A delicate and beautiful crystal glass sits on the ground.`
 `>`**`look at glass`**
 `This has been made of the finest crystal, with intricate and beautiful`
@@ -13,5 +13,3 @@ title: Exquisite wine glass
 `It weighs less than an ounce.`
 
 {% include Items.md %}
-
-[Category: Containers](Category:_Containers "wikilink")

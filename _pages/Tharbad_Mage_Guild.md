@@ -1,7 +1,7 @@
 ---
 title: Tharbad Mage Guild
+tags: ["Guildmasters"]
 ---
-
 The **Illusionist** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at **The Illusionist's Laboratory** in
 [Tharbad](Tharbad "wikilink").
@@ -33,5 +33,3 @@ The **Illusionist** teaches [mage](mage "wikilink")
 [`Sleep`](Sleep_Spell "wikilink")`                      16  Hard`
 [`Teleport`](Teleport "wikilink")`                    3  Hard`
 [`Ventriloquate`](Ventriloquate "wikilink")`               5  Very easy`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

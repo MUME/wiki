@@ -1,7 +1,7 @@
 ---
 title: Scout
+tags: ["Help files", "Commands"]
 ---
-
 *For the class commonly referred to as scout, see
 [thief](thief "wikilink").*
 
@@ -21,6 +21,4 @@ is easier to scout it unnoticed, even while not hidden.
 
 The detail level of the scouted room, how you are seen when discovered,
 and the scouting delays depend upon the size of the involved rooms.
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

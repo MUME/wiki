@@ -1,7 +1,7 @@
 ---
 title: Staff
+tags: ["Help files"]
 ---
-
 Being a long and robust stick, a **staff** can be used both to strike
 down one's enemies and to parry their blows.
 
@@ -28,5 +28,3 @@ as well.
 
 See also: [Focus](Focus "wikilink"), [Embed](Embed "wikilink"), [Create
 Focus](Create_Focus "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

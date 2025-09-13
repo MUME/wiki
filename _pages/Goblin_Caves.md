@@ -1,7 +1,7 @@
 ---
 title: Goblin Caves
+tags: ["Cities"]
 ---
-
 The Goblin Caves are a system of caves just to the west and south of the
 Fork in the Trail to the Misty Mountains. They are east of the Dark
 Tower (Misty Mountains Dark Tower, not the Dark Tower of Sauron), and
@@ -36,5 +36,3 @@ The [Zaugurz](Zaugurz "wikilink") have their base in the [Misty
 Mountains](Misty_Mountains "wikilink").
 
 {% include Place.md %}
-
-[Category:Cities](Category:Cities "wikilink")

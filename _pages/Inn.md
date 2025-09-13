@@ -1,7 +1,7 @@
 ---
 title: Inn
+tags: ["Help files"]
 ---
-
 **Inns** are places where the weary traveller may rest while the
 innkeeper (also know as '[receptionist](receptionist "wikilink")') looks
 after his [equipment](equipment "wikilink") and treasure. Specifically,
@@ -13,5 +13,3 @@ Some smaller towns are very suspicious of more powerful people, and will
 refuse to keep you.
 
 See also: [Offer](Offer "wikilink"), [Rent](Rent "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

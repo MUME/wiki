@@ -1,5 +1,4 @@
 ---
 title: Category:Armour
+tags: ["Equipment"]
 ---
-
-[Category: Equipment](Category:_Equipment "wikilink")

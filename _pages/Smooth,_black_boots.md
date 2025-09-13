@@ -1,7 +1,7 @@
 ---
 title: Smooth, black boots
+tags: ["Feet items"]
 ---
-
 The **smooth black boots** are worn on the [feet](feet "wikilink"). They
 considerably reduce movement cost, but provide no damage absorption.
 They can be used as a sheath for [piercing
@@ -18,5 +18,3 @@ weapons](piercing_weapon "wikilink").
 `They weigh half a pound.`
 
 {% include Items.md %}
-
-[Category:Feet items](Category:Feet_items "wikilink")

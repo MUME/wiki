@@ -1,7 +1,7 @@
 ---
 title: Ornate, steel-shafted warhammer
+tags: ["Concussion weapons"]
 ---
-
 \>**examine ornate**
 
 The hammer is heavy and solid to the touch, untouched by rust and time.
@@ -33,5 +33,3 @@ common weapon in [PK](PK "wikilink") and rightly so - it is arguably the
 best weapon for PK in closables.
 
 {% include Items.md %}
-
-[Category: Concussion weapons](Category:_Concussion_weapons "wikilink")

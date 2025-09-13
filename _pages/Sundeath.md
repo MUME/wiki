@@ -1,7 +1,7 @@
 ---
 title: Sundeath
+tags: ["Help files"]
 ---
-
 [Trolls](Troll "wikilink") can be instantly killed by the sun. Trolls
 **sundie**:
 
@@ -18,5 +18,3 @@ These deaths are "permanent" and reduce the character to
 [level](level "wikilink") one.
 
 See also: [Reborn](Reborn "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

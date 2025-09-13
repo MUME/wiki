@@ -1,7 +1,7 @@
 ---
 title: Heavy shoes
+tags: ["Feet items"]
 ---
-
 \> **look shoes**
 
 These shoes appear large and clumsy, but fit themselves firmly around
@@ -14,5 +14,3 @@ They are a pair of heavy shoes.
 They weigh six pounds.
 
 {% include Items.md %}
-
-[Category:Feet items](Category:Feet_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Rivendell
+tags: ["Cities"]
 ---
-
 The Last Homely House of [Elrond](Elrond "wikilink") is located in
 **Rivendell**, which is one of the last conclaves of
 [Elves](Elf "wikilink") remaining in
@@ -68,5 +68,3 @@ Clerics \| Mages \| ^ Observatory \| Suites \| Guild \| Guild \|
 \|-----------------------------\|
 
 {% include Place.md %}
-
-[Category:Cities](Category:Cities "wikilink")

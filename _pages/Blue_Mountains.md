@@ -1,7 +1,7 @@
 ---
 title: Blue Mountains
+tags: ["Locations"]
 ---
-
 ## Blue Mountains
 
 (S."Ered Luin") Running from the Ice Bay of Forochel in the north to
@@ -83,5 +83,3 @@ specially granted access by Thorin. The middle city is above and to the
 west, and is on another part of the map.
 
 {% include Place.md %}
-
-[Category: Locations](Category:_Locations "wikilink")

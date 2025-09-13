@@ -1,7 +1,7 @@
 ---
 title: Blindness
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Blindness** is a level 6 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). Cast upon a victim it will blind him
 temporarily, thus causing his offensive and defensive capabilities to
@@ -37,7 +37,4 @@ This spell can be learned from:
 ## See also
 
 - [Cure Blindness](Cure_Blindness "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

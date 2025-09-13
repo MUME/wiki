@@ -1,7 +1,7 @@
 ---
 title: Skeletal warrior
+tags: ["Mobiles"]
 ---
-
 **Skeletal warriors** are aggressive level ~14
 [mobiles](mobile "wikilink") found in old [Fornost](Fornost "wikilink")
 as well as summoned by the
@@ -16,5 +16,3 @@ pieces of chain mail armour, and 1-2
 `This is the skeleton of what must have been a Man of heroic proportions.`
 `Driven by an evil purpose that reaches beyond death, its bones clatter`
 `against each other as it seeks to deliver yet another mortal to a cold grave.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Steal
+tags: ["Thief skills", "Skills"]
 ---
-
 **Steal** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to steal [gold](gold "wikilink") or items from people. The
 chance of not getting caught depends on how well you have
@@ -27,6 +27,4 @@ pockets when you EXAMINE them.
 This skill is considered largely useless, but might be worth putting one
 practice into it so you can see other people's
 [inventories](inventory "wikilink").
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

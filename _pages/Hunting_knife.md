@@ -1,7 +1,7 @@
 ---
 title: Hunting knife
+tags: ["Piercing weapons"]
 ---
-
 The **hunting knife** is a [piercing weapon](piercing_weapon "wikilink")
 that can also be used to [butcher](butcher "wikilink")
 [corpses](corpse "wikilink") when [wielded](wield "wikilink") or worn on
@@ -20,5 +20,3 @@ a [belt](belt "wikilink"). It is worth around 3
 `It weighs a couple of ounces.`
 
 {% include Items.md %}
-
-[Category: Piercing weapons](Category:_Piercing_weapons "wikilink")

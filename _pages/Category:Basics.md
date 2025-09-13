@@ -1,7 +1,7 @@
 ---
 title: Category:Basics
+tags: ["Help files"]
 ---
-
 This is a brief outline of some of the basic commands that are used in
 Mume. Further help is available for each of them by clicking on the
 name, an example '[Look](Look "wikilink")'. Most of these commands will
@@ -141,5 +141,3 @@ See also: [Newbie](Newbie "wikilink"), [FAQ1](FAQ1 "wikilink"),
 [FAQ4](FAQ4 "wikilink"), [FAQ5](FAQ5 "wikilink"),
 [Advanced](Advanced "wikilink"), [Features](Features "wikilink"),
 [Rules](Rules "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

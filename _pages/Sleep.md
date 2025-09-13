@@ -1,7 +1,7 @@
 ---
 title: Sleep
+tags: ["Help files", "Commands"]
 ---
-
 *For the spell, see [Sleep Spell](Sleep_Spell "wikilink").*
 
 If you feel weary you can **sleep** to recuperate. You will recover
@@ -13,6 +13,3 @@ When you are done sleeping you can **wake**.
 
 See also: [Camp](Camp "wikilink"), [Rest](Rest "wikilink"),
 [Sit](Sit "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

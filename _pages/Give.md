@@ -1,7 +1,7 @@
 ---
 title: Give
+tags: ["Help files", "Commands"]
 ---
-
 The **give** command transfers objects between characters and
 [mobiles](mobile "wikilink").
 
@@ -14,6 +14,4 @@ Note that the monetary units (copper, silver, gold) are different for
 Elves.
 
 See also: [Money](Money "wikilink"), [Steal](Steal "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

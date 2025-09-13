@@ -1,7 +1,7 @@
 ---
 title: Tower Hills Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 A **retired warrior** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Retired Warrior's Home** in [Black
 Hill](Black_Hill "wikilink").
@@ -27,5 +27,3 @@ Hill](Black_Hill "wikilink").
 [`slashing weapons`](slashing_weapons "wikilink")`        12   Normal      `
 [`stabbing weapons`](stabbing_weapons "wikilink")`        12   Normal      `
 [`two-handed weapons`](two-handed_weapons "wikilink")`      12   Normal      `
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

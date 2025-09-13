@@ -1,7 +1,7 @@
 ---
 title: Carved oak staff
+tags: ["Smiting weapons"]
 ---
-
 The **carved oak staff** is a [two-handed
 weapon](two-handed_weapon "wikilink") that can also be held in the
 off-hand and used for defence. It is created from a [perfect oak
@@ -48,5 +48,3 @@ the name of the staff changes to **reinforced oak staff** (if more metal
 than gems) or **bejewelled oak staff** (if more gems than metal).
 
 {% include Items.md %}
-
-[Category: Smiting weapons](Category:_Smiting_weapons "wikilink")

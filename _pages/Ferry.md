@@ -1,7 +1,7 @@
 ---
 title: Ferry
+tags: ["Help files"]
 ---
-
 **Ferries** are a comfortable way of crossing a [body of
 water](waterways "wikilink") when a bridge is not available or using
 [boats](boat "wikilink") is impractical. There are several ferries on
@@ -19,5 +19,3 @@ opposite bank, you can use 'call ferry' to make it come over.
 
 See also: [Swim](Swim "wikilink"), [Coach](Coach "wikilink"),
 [Boat](Boat "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

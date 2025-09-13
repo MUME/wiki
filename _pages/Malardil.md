@@ -1,7 +1,7 @@
 ---
 title: Malardil
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 **Malardil** is an aggressive [level](level "wikilink") ?
 [mobile](mobile "wikilink") found in [Malardil's
 castle](Malardil's_castle "wikilink"). He can [track](track "wikilink")
@@ -19,6 +19,4 @@ leather equipment.
 `Malardil has a grim and firm look. He is a well dressed man and he has`
 `an aura that shows his power and his arrogance. His dark eyes hold a cruel,`
 `calculating glint.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

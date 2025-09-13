@@ -1,7 +1,7 @@
 ---
 title: Butcher's cleaver
+tags: ["Cleaving weapons"]
 ---
-
 \> **consider cleaver**
 
 This cleaving weapon can be wielded one-handed.
@@ -12,5 +12,3 @@ and it inflicts very little damage upon hitting.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Category: Cleaving weapons](Category:_Cleaving_weapons "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Plain trousers
+tags: ["Cloth equipment", "Legs items"]
 ---
-
 \> **look trousers**
 
 These trousers are designed for durability. They are mostly worn by
@@ -22,6 +22,3 @@ They weigh three pounds.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Embed
+tags: ["Help files", "Equipment"]
 ---
-
 Some artisans all around Arda are able to EMBED items into
 [staves](Staff "wikilink"). Metallic bands will make the staff harder,
 hence making it grant better physical protection. Gems will instead
@@ -53,6 +53,4 @@ major gem but adding a focus increases this to 2 major gems.
 
 See also: [Staff](Staff "wikilink"), [Focus](Focus "wikilink") {%
 include Items.md %}
-
-[Category:Help files](Category:Help_files "wikilink") [Category:
-Equipment](Category:_Equipment "wikilink")
+ 

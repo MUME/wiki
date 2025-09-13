@@ -1,7 +1,7 @@
 ---
 title: External links
+tags: ["Links"]
 ---
-
 This page lists **links** to sites that contribute to the works of JRR
 [Tolkien](Tolkien "wikilink") and other game related stuff. For sites
 that concern the game directly, see the
@@ -24,5 +24,3 @@ Tolkien
 - [Official online UK bookstore](http://www.tolkien.co.uk)
 - [TolkienBooks](http://www.tolkienbooks.net)
 - [Tolkien Library](http://www.tolkienlibrary.com)
-
-[Category:Links](Category:Links "wikilink")

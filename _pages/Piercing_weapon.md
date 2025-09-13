@@ -1,7 +1,7 @@
 ---
 title: Piercing weapon
+tags: ["Weapons"]
 ---
-
 **[Piercing weapons](Piercing_weapons "wikilink")** are one of the
 weapon types found in [MUME](MUME "wikilink"). These weapons usually
 have a low [strength](strength "wikilink") requirement and are mostly
@@ -52,5 +52,4 @@ used by [thieves](thief "wikilink").
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Piercing_weapons "wikilink")

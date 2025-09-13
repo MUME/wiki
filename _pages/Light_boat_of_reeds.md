@@ -1,7 +1,7 @@
 ---
 title: Light boat of reeds
+tags: ["Boats"]
 ---
-
 **Light boats of reeds** are a common type of [boat](boat "wikilink"),
 mostly found near [waterways](waterways "wikilink") in the [Blue
 Mountains](Blue_Mountains "wikilink") area. They can also be bought from
@@ -17,5 +17,3 @@ functionally identical to [canoes](canoe "wikilink").
 `It weighs two stone and seven pounds.`
 
 {% include Items.md %}
-
-[Category: Boats](Category:_Boats "wikilink")

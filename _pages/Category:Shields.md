@@ -1,5 +1,4 @@
 ---
 title: Category:Shields
+tags: ["Armour"]
 ---
-
-[Category: Armour](Category:_Armour "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Colour
+tags: ["Help files"]
 ---
-
 To get your favourite MUD in ANSI colour, use the "change colour"
 command.
 
@@ -56,5 +56,3 @@ colours on and off, overriding the settings above. This is done with
 See also: [Change](Change "wikilink"), [Map](Map "wikilink"),
 [Ansicodes](Ansicodes "wikilink"), [Ansi
 Example](Ansi_Example "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

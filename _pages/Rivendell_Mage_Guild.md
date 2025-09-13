@@ -1,7 +1,7 @@
 ---
 title: Rivendell Mage Guild
+tags: ["Guildmasters"]
 ---
-
 A **grey-haired elf** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Mage Guild** in
 [Rivendell](Rivendell "wikilink").
@@ -35,5 +35,3 @@ A **grey-haired elf** teaches [mage](mage "wikilink")
 [`Shroud`](Shroud "wikilink")`                      3  Hard`
 [`Sleep`](Sleep_Spell "wikilink")`                       3  Hard`
 [`Teleport`](Teleport "wikilink")`                   16  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Stout oaken stick
+tags: ["Uncategorized items"]
 ---
-
 The **stout oaken stick** is the reward for completing
 [Jeraton](Jeraton "wikilink")'s
 [quest](Quest#Berel_and_Jeraton "wikilink"). It slightly reduces
@@ -19,6 +19,3 @@ movement cost when carried.
 `It weighs about one pound.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

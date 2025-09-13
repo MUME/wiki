@@ -1,7 +1,7 @@
 ---
 title: Hide
+tags: ["Thief skills", "Skills"]
 ---
-
 Syntax: hide <effort>, one of quickly/fast/normally/carefully/thoroughly
 
 **Hide** is a [thief](thief "wikilink") [skill](skill "wikilink"). When
@@ -51,6 +51,4 @@ from time to time by evil spirits, but nobody knows for sure.
 - [Backstab](Backstab "wikilink")
 
 [Back to skill list](Skill "wikilink")
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

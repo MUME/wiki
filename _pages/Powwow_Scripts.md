@@ -1,7 +1,7 @@
 ---
 title: Powwow Scripts
+tags: ["Software"]
 ---
-
 # Powwow
 
 ### Timebar, by Jahara
@@ -516,5 +516,3 @@ Turns the prompt red if you have nosneak \#prompt %default
 ("^(\[o\\\*\\!\\)\]\[\\\\#\\\\\\f\\\\\\\<\\%\\~\\W\\U\\+\\:\\=\\O\]\[^
 \]\*)(( CsW \| sW \| Cs \| s )\*)(\[^\>\]\*\>)")={#isprompt -1;#if
 (\*\$(3)) \#(\$prompt = \\2 + attr "red" + \\3 + noattr + \\5)}
-
-[Category: Software](Category:_Software "wikilink")

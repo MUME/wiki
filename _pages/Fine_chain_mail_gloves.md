@@ -1,7 +1,7 @@
 ---
 title: Fine chain mail gloves
+tags: ["Hands items", "Mail equipment"]
 ---
-
 **Fine chain mail gloves** are a lightweight piece of mail equipment
 worn on the [hands](hands "wikilink"). They can be bought from some
 armourers for around 1 [gold](gold "wikilink").
@@ -18,6 +18,4 @@ armourers for around 1 [gold](gold "wikilink").
 `They weigh three pounds.`
 
 {% include Items.md %}
-
-[Category: Hands items](Category:_Hands_items "wikilink") [Category:
-Mail equipment](Category:_Mail_equipment "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Store
+tags: ["Mage spells", "Spells"]
 ---
-
 Syntax : cast 'store' Type : Meta magic Accumulative: Special Duration :
 Yes Casting : Extremely long Position : Standing Level : Level 10 Class
 : Magic User Min. Mana : 25 Example: \> cast 'store' fireball
@@ -19,6 +19,3 @@ This spell can be learned from:
   Weather](Control_Weather "wikilink"), [Create
   Light](Create_Light "wikilink"), [Enchant](Enchant "wikilink"), [Night
   Vision](Night_Vision "wikilink")
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

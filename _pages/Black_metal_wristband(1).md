@@ -1,7 +1,7 @@
 ---
 title: Black metal wristband
+tags: ["Wrist items"]
 ---
-
 \> **examine wristband**
 This wristband is made of some dull black metal. Not any decorations or
 other
@@ -34,5 +34,3 @@ boost to OB when in berserk mood, compared to other
 limited.
 
 {% include Items.md %}
-
-[Category:Wrist items](Category:Wrist_items "wikilink")

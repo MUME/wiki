@@ -1,7 +1,7 @@
 ---
 title: Beorning
+tags: ["Playable races"]
 ---
-
 ![](Bear_roar.jpg "Bear_roar.jpg") **Beornings**, also known as
 **Bears**, are a race of [men](man "wikilink") who are capable of
 transforming into huge, powerful bears. The most notable and well-known
@@ -74,5 +74,3 @@ the player's character and/or which are legend level.
 Bear](http://mume.digitar.ee/)
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

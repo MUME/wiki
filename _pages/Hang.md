@@ -1,7 +1,7 @@
 ---
 title: Hang
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: hang corpse
 
 This command allows you to hang a corpse up in a tree, provided, of
@@ -13,6 +13,3 @@ Syntax: cut \[down\] corpse
 See also: [Burn](Burn "wikilink"), [Bury](Bury "wikilink"),
 [Decapitate](Decapitate "wikilink"), [Drag](Drag "wikilink"),
 [Drain](Drain "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

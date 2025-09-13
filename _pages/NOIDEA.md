@@ -1,7 +1,7 @@
 ---
 title: NOIDEA
+tags: ["Help files"]
 ---
-
 These are **ideas** which have been considered by the
 [MUME](MUME "wikilink") management (in this case principally the
 implementors) and ruled to never appear as long as they draw breath:
@@ -133,5 +133,3 @@ implementors) and ruled to never appear as long as they draw breath:
   nature, would act to supercede
 
 `  the NOIDEA category`
-
-[Category: Help files](Category:_Help_files "wikilink")

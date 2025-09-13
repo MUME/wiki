@@ -1,7 +1,7 @@
 ---
 title: FAQ2
+tags: ["FAQS"]
 ---
-
 **Q: I have to go. How do I keep my stuff?**
 
 A: You have to find an [Inn](Inn "wikilink"), go to the innkeeper, and
@@ -56,5 +56,3 @@ played for a length of time which depends on your
 couple days. A level 2 character will last for five days; a level 3 for
 10, and so on. The amount of rent money you have does not affect this.
 [Legend](Legend "wikilink") characters (26 or more) will never delete.
-
-[Category:FAQS](Category:FAQS "wikilink")

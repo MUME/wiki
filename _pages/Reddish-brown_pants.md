@@ -1,7 +1,7 @@
 ---
 title: Reddish-brown pants
+tags: ["Cloth equipment", "Legs items"]
 ---
-
 `A pair of reddish-brown pants are on the ground.`
 `>`**`examine pants`**
 `A well made pair of russet coloured pants, made for years of usage by a skilled`
@@ -12,6 +12,3 @@ title: Reddish-brown pants
 `They weigh a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Label
+tags: ["Commands", "Help files"]
 ---
-
 With the **label** command, you can attach labels to characters or
 [mobs](mob "wikilink"). These labels can be used as keywords to identify
 them (when they are in the [room](room "wikilink")), and labels show
@@ -32,6 +32,4 @@ Some words cannot be used as labels; e.g., words that the
 [look](look "wikilink") command treats specially ("at", "around",
 "north", "east", ...) and some prepositions like "in", "from", and
 "with".
-
-[Category: Commands](Category:_Commands "wikilink") [Category: Help
-files](Category:_Help_files "wikilink")
+ 

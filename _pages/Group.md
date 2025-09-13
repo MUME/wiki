@@ -1,7 +1,7 @@
 ---
 title: Group
+tags: ["Help files", "Commands"]
 ---
-
 Syntax : **group** \[character \[add \| remove \| transfer\]\]
 
 Getting into a group of players is one of the best ways to start the
@@ -55,6 +55,3 @@ NOTE: Only mobs who follow or are [ridden](ride "wikilink") by a player
 member of the group can be grouped.
 
 See also: [Experience](Experience "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

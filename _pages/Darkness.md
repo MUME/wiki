@@ -1,7 +1,7 @@
 ---
 title: Darkness
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 Syntax : cast 'darkness' Type : Miscellaneous Accumulative: No Duration
 : Yes Casting : Short Position : Standing Level : Level 13 Class :
 Cleric Min. Mana : 25
@@ -26,7 +26,4 @@ details of the rituals involved are a well-guarded secret.
   Evil](Protection_From_Evil "wikilink"),
   [Sanctuary](Sanctuary "wikilink"),
   [Strength](Strength_Spell "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

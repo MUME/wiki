@@ -1,7 +1,7 @@
 ---
 title: Young ruffian
+tags: ["Mobiles"]
 ---
-
 **Young ruffians** are aggressive [level](level "wikilink") ~2-3
 [mobiles](mobile "wikilink"). They can be found on the plateau
 overlooking the road to [Grey Havens](Grey_Havens "wikilink") on the
@@ -14,5 +14,3 @@ cloth [equipment](equipment "wikilink").
 `The young ruffian is a grungy man who relies on thievery and murder as a means`
 `of survival. An outlaw from Bree, he lives in anger, breathing hostility and `
 `vengeance on the unwary.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

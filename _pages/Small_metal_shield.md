@@ -1,7 +1,7 @@
 ---
 title: Small metal shield
+tags: ["Shields"]
 ---
-
 The **small metal shield** is a lightweight [shield](shield "wikilink")
 that gives a mediocre amount of [parry bonus](parry_bonus "wikilink").
 It is worth around 9 [silver](silver "wikilink") and 50 copper, and is
@@ -17,5 +17,3 @@ sold by most weaponsmiths.
 `It weighs eight pounds.`
 
 {% include Items.md %}
-
-[Category: Shields](Category:_Shields "wikilink")

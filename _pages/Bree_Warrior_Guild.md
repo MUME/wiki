@@ -1,7 +1,7 @@
 ---
 title: Bree Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 **Gathrain** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Guard's Training Room** in
 [Bree](Bree "wikilink"). The training room is located upstairs from the
@@ -29,5 +29,3 @@ for 2 hours.
 [`slashing weapons`](slashing_weapons "wikilink")`           7  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          11  Normal`
 [`two-handed weapons`](two-handed_weapons "wikilink")`         7  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

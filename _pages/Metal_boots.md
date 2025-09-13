@@ -1,7 +1,7 @@
 ---
 title: Metal boots
+tags: ["Metal equipment", "Feet items"]
 ---
-
 **Metal boots** are worn on the [feet](feet "wikilink"). They provide a
 large amount of damage absorption and slightly decrease [dodge
 bonus](dodge_bonus "wikilink"). They are worth around 3
@@ -19,6 +19,3 @@ bonus](dodge_bonus "wikilink"). They are worth around 3
 `They weigh six pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Feet items](Category:_Feet_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Snakeskin belt
+tags: ["Belts"]
 ---
-
 The **snakeskin belt** is a [belt](belt "wikilink"). One can be earned
 as a reward for completing the [snake hunt](Quest#Snake_Hunt "wikilink")
 quest.
@@ -19,5 +19,3 @@ quest.
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Category:Belts](Category:Belts "wikilink")

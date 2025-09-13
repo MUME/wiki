@@ -1,7 +1,7 @@
 ---
 title: Legend Home Valet
+tags: ["Help files", "Legend_homes"]
 ---
-
 Currently there are two choices when deciding on which valet mob you
 would like for your home:
 
@@ -18,6 +18,3 @@ Equipment](Legend_Home_Equipment "wikilink"), [Legend Home
 Prices](Legend_Home_Prices "wikilink"), [Friend](Friend "wikilink"),
 [Hovels](Hovels "wikilink") and [Legend Home
 Doors](Legend_Home_Doors "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Legend_homes](Category:Legend_homes "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Moria
+tags: ["Locations"]
 ---
-
 `  "Durin is the name that the Dwarves use for the eldest of the Seven`
 `    Fathers of their race, and the ancestor of all the kings of the`
 `    Longbeards. He slept alone, until in the deeps of time and the`
@@ -65,5 +65,3 @@ freeing of Durin's Bane was Moria ("black-pit") from which Men derived
 the names Black Pit, Black Chasm, and the Mines of Moria.
 
 {% include Place.md %}
-
-[Category:Locations](Category:Locations "wikilink")

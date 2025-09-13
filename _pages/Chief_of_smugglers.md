@@ -1,7 +1,7 @@
 ---
 title: Chief of smugglers
+tags: ["Mobiles", "Mobiles with unknown level"]
 ---
-
 The **chief of smugglers** is an aggressive level ?
 [mob](mob "wikilink"). He can be found in a hidden cave in the hills
 south of [Bree](Bree "wikilink"). He loads 1 gold, a
@@ -17,6 +17,4 @@ shield](large_metal_full_shield "wikilink").
 `This is probably one of the many criminals that creep out of Tharbad.  He is`
 `dressed in black, from head to toe.  He moves with fluid stealth and dexterity.`
 `He attacks you fast as lightning.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink") [Category: Mobiles
-with unknown level](Category:_Mobiles_with_unknown_level "wikilink")
+ 

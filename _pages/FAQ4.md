@@ -1,7 +1,7 @@
 ---
 title: FAQ4
+tags: ["FAQS"]
 ---
-
 Q: "How do I hunt for food?"
 
 A: Most fish and game animals can be hunted with your ordinary weapon.
@@ -34,5 +34,3 @@ food. Cooking will also work if you wear your pan on your belt.
 
 Q: "How do I use the fishing rod?" A: Sit on or next to a lake or
 stream, hold the rod, and type "fish".
-
-[Category:FAQS](Category:FAQS "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Idle
+tags: ["Help files"]
 ---
-
 When a player has been away from the game for a long enough time they
 will lapse into a state of semi-consciousness and fade away into the
 void.
@@ -14,5 +14,3 @@ they most likely will not return your tell.
 Setting up your linkdrop can enable you to remain unidle.
 
 See also: [Void](Void "wikilink"), [Linkdrop](Linkdrop "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

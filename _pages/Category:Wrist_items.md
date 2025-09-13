@@ -1,7 +1,5 @@
 ---
 title: Category:Wrist items
+tags: ["Equipment by slot"]
 ---
-
 {% include Items.md %}
-
-[Category: Equipment by slot](Category:_Equipment_by_slot "wikilink")

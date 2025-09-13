@@ -1,7 +1,7 @@
 ---
 title: Search
+tags: ["Thief skills", "Skills"]
 ---
-
 **Search** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to search for otherwise [hidden](hide "wikilink") people,
 exits and objects in the [room](room "wikilink").
@@ -22,6 +22,4 @@ Examples:
 `  > search up            searches for a hidden exit upwards`
 `  > search               searches for hidden items`
 `  > search q             searches quickly for hidden beings in the room`
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink")
+ 

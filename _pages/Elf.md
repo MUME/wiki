@@ -1,7 +1,7 @@
 ---
 title: Elf
+tags: ["Playable races"]
 ---
-
 ![](Legolas.jpg "Legolas.jpg")''\]\] **Elves** are the first people of
 [Middle-Earth](Middle-Earth "wikilink"), created by Eru Ilúvatar. They
 are beautiful and strong, and immortal. Lúthien alone was the only Elf
@@ -76,5 +76,3 @@ See also: [Elven names](Elven_names "wikilink"),
 [Elvish](Elvish "wikilink")
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

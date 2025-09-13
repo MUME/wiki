@@ -1,7 +1,7 @@
 ---
 title: Ignore
+tags: ["Help files", "Commands"]
 ---
-
 The **ignore** command blocks the output of up to 20 other players. If
 you ignore a player, you will not be able to see
 [narrates](narrate "wikilink"), songs, shouts, yells, tells,
@@ -26,6 +26,3 @@ characters.
 See also: [Listen](Listen "wikilink"), [Shout](Shout "wikilink"),
 [Sing](Sing "wikilink"), [Tell](Tell "wikilink"),
 [Yell](Yell "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

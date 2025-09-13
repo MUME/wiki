@@ -1,7 +1,7 @@
 ---
 title: Fornost
+tags: ["Locations"]
 ---
-
 After the first few centuries of the Third Age, the first city and
 capital of the Dunedain kingdom of Arnor was **Fornost**. It was a
 powerful and important city, and came under attack from the Witch-king
@@ -209,5 +209,3 @@ __\|______\|___________________________\|
 Norbury, Sorcerer of Arthedain --
 
 {% include Place.md %}
-
-[Category: Locations](Category:_Locations "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Backstab
+tags: ["Skills", "Thief skills", "Commands"]
 ---
-
 **Backstabbing** is a [thief](thief "wikilink")
 [skill](skill "wikilink") that allows you to place your dagger in your
 opponent's back at the precise point at which it will cause the most
@@ -30,7 +30,4 @@ Example:
 `   > backstab ruffian`
 
 [Back to skill list](Skill "wikilink")
-
-[Category: Skills](Category:_Skills "wikilink") [Category: Thief
-skills](Category:_Thief_skills "wikilink")
-[Category:Commands](Category:Commands "wikilink")
+ 

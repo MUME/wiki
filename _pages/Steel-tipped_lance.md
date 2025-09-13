@@ -1,7 +1,7 @@
 ---
 title: Steel-tipped lance
+tags: ["Charging weapons"]
 ---
-
 `A long, smooth, steel-tipped lance is lying on the ground.`
 `>`**`examine lance`**
 `This long lance has been carved from a single straight branch. One end was`
@@ -13,5 +13,3 @@ title: Steel-tipped lance
 `It weighs three pounds.`
 
 {% include Items.md %}
-
-[Category: Charging weapons](Category:_Charging_weapons "wikilink")

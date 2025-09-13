@@ -1,7 +1,7 @@
 ---
 title: Call Familiar
+tags: ["Spells", "Mage spells", "Shaman spells"]
 ---
-
 **Call Familiar** is a [level](level "wikilink") 7
 [mage](mage "wikilink") [spell](spell "wikilink"). It summons a familiar
 that can be directed to perform simple tasks through the command
@@ -30,7 +30,4 @@ This spell can be learned from:
   Weather](Control_Weather "wikilink"), [Create
   Light](Create_Light "wikilink"), [Enchant](Enchant "wikilink"), [Night
   Vision](Night_Vision "wikilink"), [Store](Store "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

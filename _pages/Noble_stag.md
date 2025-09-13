@@ -1,7 +1,7 @@
 ---
 title: Noble stag
+tags: ["Mobiles"]
 ---
-
 The **noble stag** is a passive [level](level "wikilink") 10
 [mobile](mobile "wikilink") who spawns in the forest northwest of
 [Forlond](Forlond "wikilink"). He will attempt to
@@ -19,5 +19,3 @@ trapper.
 `antlers have a shape all their own. Long stems of bone support great`
 `circular plates with perhaps 10 tines each several feet on each side of his`
 `head.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

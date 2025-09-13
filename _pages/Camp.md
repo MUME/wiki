@@ -1,7 +1,7 @@
 ---
 title: Camp
+tags: ["Help files", "Commands"]
 ---
-
 <figure>
 <img src="campfire.jpg" title="Image:campfire.jpg" />
 <figcaption>Image:campfire.jpg</figcaption>
@@ -33,6 +33,3 @@ Example:
 
 See also: [Cook](Cook "wikilink"), [Look](Look "wikilink"),
 [Sleep](Sleep "wikilink"), [Rent](Rent "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

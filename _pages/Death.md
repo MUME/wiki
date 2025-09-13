@@ -1,7 +1,7 @@
 ---
 title: Death
+tags: ["Help files"]
 ---
-
 **Dying** on [MUME](MUME "wikilink") (except in the case of
 [trolls](troll "wikilink") turned to stone by the sun) does not mean the
 loss of all gains of the character. You can lose no more than the
@@ -52,5 +52,3 @@ on the friends and enemies in the room, and (somewhat less) on those
 recently met. If you escape a huge fight and are finished off by a lucky
 level 1 enemy, that level 1 will not gain huge amounts of war points.
 Conversely, the enemies you were fleeing from will gain some.
-
-[Category:Help files](Category:Help_files "wikilink")

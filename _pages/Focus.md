@@ -1,7 +1,7 @@
 ---
 title: Focus
+tags: ["Help files"]
 ---
-
 A **focus** is an [object](item "wikilink") imbued with powerful magic
 and bound to its owner. Several kinds of foci exist, each endowed with
 different powers. A [warrior](warrior "wikilink") might prefer a focus
@@ -26,5 +26,3 @@ Gem, and Focus Guide](Staff,_Gem_and_Focus_guide "wikilink").
 Once a focus is created you can call an [Eagle](Eagle "wikilink").
 
 See also: [Staff](Staff "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

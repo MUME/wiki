@@ -1,7 +1,7 @@
 ---
 title: Harlond Herbalist
+tags: ["Shopkeepers"]
 ---
-
 The **elven herbalist** tends to the **Herbalist** shop in
 [Harlond](Harlond "wikilink"). The store is open 8am - 12pm and 1pm -
 7pm and stocks a variety of [herbs](herb "wikilink") at cheap prices.
@@ -14,5 +14,3 @@ The herbalist is looking for someone to
 `never kept him from learning the tricks in the trade as well.  Daily`
 `negotiations with shippers made the man a lot tougher than his innocent looks`
 `might reveal.`
-
-[Category: Shopkeepers](Category:_Shopkeepers "wikilink")

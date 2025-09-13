@@ -1,7 +1,7 @@
 ---
 title: Charging weapon
+tags: ["Weapons"]
 ---
-
 **[Charging weapons](Charging_weapons "wikilink")** are one of the
 weapon types found in [MUME](MUME "wikilink"). These weapons are
 efficient vs. riding enemies, but they are mostly considered useless.
@@ -12,5 +12,4 @@ efficient vs. riding enemies, but they are mostly considered useless.
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Charging_weapons "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Create Water
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Create water** is a level 2 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). When cast on a container it will fill the
 container with clear [water](water "wikilink").
@@ -26,7 +26,4 @@ This spell can be learned from:
 ## See also
 
 - [Create Food](Create_Food "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

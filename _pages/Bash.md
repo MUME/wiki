@@ -1,7 +1,7 @@
 ---
 title: Bash
+tags: ["Warrior skills", "Skills"]
 ---
-
 **Bash** is a [warrior](warrior "wikilink") [skill](skill "wikilink")
 that allows you to knock an opponent over. The success of a bash depends
 upon how well you are learned, as well as on your offensive bonus and
@@ -37,6 +37,3 @@ Examples:
 `  > bash dis elf`
 
 [Back to skill list](Skill "wikilink")
-
-[Category: Warrior skills](Category:_Warrior_skills "wikilink")
-[Category: Skills](Category:_Skills "wikilink")

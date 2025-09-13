@@ -1,7 +1,7 @@
 ---
 title: FAQ3
+tags: ["FAQS"]
 ---
-
 **Q: How do I hold my weapon?**
 
 A: Type '[wield](wield "wikilink") sword' (for example).
@@ -76,5 +76,3 @@ may decide that you are not there unless you show yourself. If the only
 thing wrong with the item is that it is the wrong size for you, you can
 type '[resize](resize "wikilink") <item>' and get it back immediately,
 without wait.
-
-[Category:FAQS](Category:FAQS "wikilink")

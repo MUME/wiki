@@ -1,7 +1,7 @@
 ---
 title: Rivendell Scout Guild
+tags: ["Guildmasters"]
 ---
-
 An **elven hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Guild** in
 [Rivendell](Rivendell "wikilink").
@@ -24,5 +24,3 @@ An **elven hunter** teaches [scout](thief "wikilink")
 [`piercing weapons`](piercing_weapons "wikilink")`         8  Normal`
 [`search`](search "wikilink")`                   2  Normal`
 [`sneak`](sneak "wikilink")`                    8  Hard`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Horse
+tags: ["Mobiles"]
 ---
-
 **Horses** are [rideable](ride "wikilink") [level](level "wikilink") 5
 [mobiles](mobile "wikilink") found in various places around
 [Arda](Arda "wikilink"). Unlike most [mounts](mount "wikilink"), horses
@@ -16,5 +16,3 @@ mule](mountain_mule "wikilink").
 `>`**`examine horse`**
 `The horse, with big eyes and a beautiful black mane, looks like it has not`
 `been completely tamed yet.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

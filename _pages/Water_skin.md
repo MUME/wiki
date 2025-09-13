@@ -1,7 +1,7 @@
 ---
 title: Water skin
+tags: ["Containers"]
 ---
-
 The **water skin** is a [drink](drink "wikilink")
 [container](container "wikilink") that can be worn on a
 [belt](belt "wikilink"). It can contain up to 4 pounds worth of liquid.
@@ -19,5 +19,3 @@ grocers.
 `It weighs about one pound.`
 
 {% include Items.md %}
-
-[Category:Containers](Category:Containers "wikilink")

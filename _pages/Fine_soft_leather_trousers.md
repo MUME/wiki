@@ -1,7 +1,7 @@
 ---
 title: Fine soft leather trousers
+tags: ["Leather equipment", "Legs items"]
 ---
-
 \> **look trousers**
 
 Thigh and shin guards are joined together by thick leather knee guards
@@ -18,6 +18,3 @@ They are a fine pair of soft leather trousers.
 They weigh four pounds.
 
 {% include Items.md %}
-
-[Category: Leather equipment](Category:_Leather_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

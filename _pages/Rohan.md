@@ -1,7 +1,7 @@
 ---
 title: Rohan
+tags: ["Cities", "Locations"]
 ---
-
 ## In the books
 
 Calenardhon (S."Horse-land") after T.A.2510. Called The Mark or
@@ -28,6 +28,3 @@ is an offense punished with jail time except for the rent room.
 - Haldin the Marshal's quest
 
 {% include Place.md %}
-
-[Category:Cities](Category:Cities "wikilink")
-[Category:Locations](Category:Locations "wikilink")

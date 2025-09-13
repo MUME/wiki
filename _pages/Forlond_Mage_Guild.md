@@ -1,7 +1,7 @@
 ---
 title: Forlond Mage Guild
+tags: ["Guildmasters"]
 ---
-
 A **grey haired elf** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Guild of the Arcane** in
 [Forlond](Forlond "wikilink").
@@ -38,5 +38,3 @@ A **grey haired elf** teaches [mage](mage "wikilink")
 [`Shroud`](Shroud "wikilink")`                      7  Hard`
 [`Teleport`](Teleport "wikilink")`                    8  Hard`
 [`Watch Room`](Watch_Room "wikilink")`                 10  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

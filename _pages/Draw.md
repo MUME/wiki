@@ -1,7 +1,7 @@
 ---
 title: Draw
+tags: ["Help files", "Commands"]
 ---
-
 Walking about a [town](town "wikilink") with your
 [weapon](weapon "wikilink") **drawn** might draw unwanted attention from
 the guards. Play safe, keep your weapon **sheathed**.
@@ -22,6 +22,3 @@ free sheath, or hung on your back if applicable (for bows). If that is
 impossible, it will be put in your inventory.
 
 See also: [Citizen](Citizen "wikilink"), [Wield](Wield "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

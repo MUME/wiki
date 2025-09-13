@@ -1,7 +1,7 @@
 ---
 title: Spirit-soldier
+tags: ["Mobiles"]
 ---
-
 **Spirit-soldiers** are aggressive level ~14
 [mobiles](mobile "wikilink") found in [Old
 Fornost](Old_Fornost "wikilink"). They are incorporeal. They load with a
@@ -13,5 +13,3 @@ Fornost](Old_Fornost "wikilink"). They are incorporeal. They load with a
 `he wears is quite visible, however, the skin underneath is nearly transparent.`
 `His ancient and grizzled face seems full of unquenchable hunger...hunger`
 `for death, hunger for life, hunger for vengeance.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

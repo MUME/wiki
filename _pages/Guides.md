@@ -1,7 +1,7 @@
 ---
 title: Guides
+tags: ["Newbie Help"]
 ---
-
 ## Clients
 
 - [Guide to installing MMapper on
@@ -129,5 +129,4 @@ Finwe's links to alot of more recent game news
 News](https://sites.google.com/view/mume-maps-zmud-zmapper-cmud/mume-old-game-news-archive)
 Finwe's links to older archive of game news
 
-[\*](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+[\*](Category:Guides "wikilink") 

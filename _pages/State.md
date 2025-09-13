@@ -1,7 +1,7 @@
 ---
 title: State
+tags: ["Help files"]
 ---
-
 Item damage has internally been represented with two values, item
 **state** and item permanent damage (or age). The permanent damage and
 item state will be shown to players like this:
@@ -22,5 +22,3 @@ From News 2096 by Ilie.
 
 See Also: [Equipment](Equipment "wikilink"),
 [Inventory](Inventory "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

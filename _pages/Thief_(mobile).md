@@ -1,7 +1,7 @@
 ---
 title: Thief (mobile)
+tags: ["Mobiles"]
 ---
-
 *For the playable class, see [thief](thief "wikilink").*
 
 **Thieves** are passive level ~13 [mobiles](mobile "wikilink"), found in
@@ -16,5 +16,3 @@ equipment.
 `This is a small man with sandy hair and an undistinguished appearance. His`
 `face has a cringing, furtive look, and his fingers are lithe, practiced,`
 `and ready for action.`
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

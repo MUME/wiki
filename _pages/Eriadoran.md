@@ -1,7 +1,7 @@
 ---
 title: Eriadoran
+tags: ["Playable races"]
 ---
-
 The **Eriadoran** people are the common people of Northwest [Middle
 Earth](Middle_Earth "wikilink"). Their distant ancestors are the
 [Dunlendings](Dunlendings "wikilink") who settled Eriador in the First
@@ -21,5 +21,3 @@ Hills](Tower_Hills "wikilink"), [Fornost](Fornost "wikilink"), or
 [Bree](Bree "wikilink").
 
 {% include ClassRace.md %}
-
-[Category: Playable races](Category:_Playable_races "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Libraries
+tags: ["Help files"]
 ---
-
 Libraries can be found in most towns of Arda and in some other places of
 lore.
 
@@ -36,5 +36,3 @@ of the text.
 If you want to add a book of yours to a library, please read the News
 board for some information, and contact a [Vala](Ainur "wikilink") in
 order to receive writing guidelines.
-
-[Category: Help files](Category:_Help_files "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Embellished longbow
+tags: ["Missile weapons"]
 ---
-
 The **embellished longbow** is the hardest-hitting [missile
 weapon](missile_weapon "wikilink") in the game. It is worth about 19
 [gold](gold "wikilink") and 10 silver, and is sold in
@@ -21,5 +21,3 @@ weapon](missile_weapon "wikilink") in the game. It is worth about 19
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Missile weapons](Category:_Missile_weapons "wikilink")

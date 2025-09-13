@@ -1,7 +1,7 @@
 ---
 title: Door
+tags: ["Help files"]
 ---
-
 You can **open**, **close**, **lock**, or **unlock** (if you have an
 appropriate [key](key "wikilink")) a **door** or a
 [container](container "wikilink").
@@ -22,5 +22,3 @@ Note that latched doors can be locked and unlocked without a key.
 See also: [Pick](Pick "wikilink"), [Knock](Knock "wikilink"),
 [Keyring](Keyring "wikilink"), [Lockpicks](Lockpicks "wikilink"),
 [Call](Call "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

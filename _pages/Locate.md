@@ -1,7 +1,7 @@
 ---
 title: Locate
+tags: ["Help files", "Mage spells", "Spells"]
 ---
-
 Syntax : cast 'locate' \[\<key\>\] \[\<max distance\>\] Type : Long
 range Accumulative: N/A Duration : No Casting : Very long Position :
 Standing Level : Level 6 Class : Magic User Min. Mana : 20 NOTE:
@@ -36,7 +36,4 @@ This spell can be learned from:
 [`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               3`
 
 See also: [Locate Magic](Locate_Magic "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")
+ 

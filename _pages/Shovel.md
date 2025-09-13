@@ -1,7 +1,7 @@
 ---
 title: Shovel
+tags: ["Smiting weapons"]
 ---
-
 `A dirty shovel is lying on the ground here.`
 `>`**`examine shovel`**
 `This often useful tool has a wooden handle and a broad metal scoop for digging.`
@@ -13,5 +13,3 @@ title: Shovel
 `It weighs five pounds.`
 
 {% include Items.md %}
-
-[Category: Smiting weapons](Category:_Smiting_weapons "wikilink")

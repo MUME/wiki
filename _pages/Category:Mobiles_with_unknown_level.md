@@ -1,5 +1,4 @@
 ---
 title: Category:Mobiles with unknown level
+tags: ["Mobiles"]
 ---
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

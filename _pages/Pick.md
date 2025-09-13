@@ -1,7 +1,7 @@
 ---
 title: Pick
+tags: ["Thief skills", "Skills", "Commands"]
 ---
-
 **Pick** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to pick locks. Not all locks can be picked.
 
@@ -17,7 +17,4 @@ Examples:
 `  > pick door north`
 `  > pick oakdoor`
 `  > pick hiddensafe`
-
-[Category: Thief skills](Category:_Thief_skills "wikilink") [Category:
-Skills](Category:_Skills "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+  

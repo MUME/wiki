@@ -1,7 +1,7 @@
 ---
 title: Full metal helmet
+tags: ["Metal equipment", "Head items"]
 ---
-
 The **full metal helmet** is a piece of metal
 [armour](armour "wikilink") worn on the [head](head "wikilink"). It
 provides a large amount of damage [absorption](absorption "wikilink"),
@@ -21,6 +21,3 @@ It is worth around ~3 [gold](gold "wikilink").
 `It weighs seven pounds.`
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category: Head items](Category:_Head_items "wikilink")

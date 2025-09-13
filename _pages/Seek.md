@@ -1,7 +1,7 @@
 ---
 title: Seek
+tags: ["Help files", "Commands"]
 ---
-
 The Last Homely Home of [Elrond](Elrond "wikilink"), also called
 [Rivendell](Rivendell "wikilink"), is well hidden and any visitor has to
 **seek** the path leading there.
@@ -17,6 +17,3 @@ things. Of course being an [elf](elf "wikilink") helps, but
 [alignment](alignment "wikilink") to do so.
 
 See also: [Rivendell](Rivendell "wikilink")
-
-[Category: Help files](Category:_Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

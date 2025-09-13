@@ -1,7 +1,7 @@
 ---
 title: Rib-bone of a skeleton
+tags: ["Uncategorized items"]
 ---
-
 \>**examine bone**
 
 The rib-bone is dry and well preserved, as magic was holding it together
@@ -25,6 +25,3 @@ It weighs half a pound.
 Commonly loads on [animated skeletons](animated_skeleton "wikilink") and
 [skeletal warriors](skeletal_warrior "wikilink"). Ingredient for the
 [Shadows](Herblore#Shadows "wikilink") herblore.
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

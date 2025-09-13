@@ -1,7 +1,7 @@
 ---
 title: Raft
+tags: ["Boats"]
 ---
-
 **Rafts** are a common type of [boat](boat "wikilink"), often found near
 [waterways](waterways "wikilink"). They can also be bought from
 [Captains](Captain "wikilink") for around 5 [silver](gold "wikilink").
@@ -19,5 +19,3 @@ preferable options.
 `It weighs five stone and thirteen pounds.`
 
 {% include Items.md %}
-
-[Category: Boats](Category:_Boats "wikilink")

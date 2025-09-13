@@ -1,7 +1,7 @@
 ---
 title: Head
+tags: ["Equipment"]
 ---
-
 A list of equipment worn on the **head**.
 
 # Metal
@@ -56,5 +56,4 @@ A list of equipment worn on the **head**.
 
 {% include Items.md %}
 
-[Category:Equipment](Category:Equipment "wikilink")
 [\*](Category:Head_items "wikilink")

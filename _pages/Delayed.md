@@ -1,7 +1,7 @@
 ---
 title: Delayed
+tags: ["Help files"]
 ---
-
 Certain commands need time to perform, such as spellcasting. This pause
 is represented by a 'whirling' slash (/, -, \\. Commands which use this
 delay have \[Delayed Command\] in the entry.
@@ -17,5 +17,3 @@ Some cancelable delayed commands are:
   [reveal](reveal "wikilink"), [search](search "wikilink"), [pick
   lock](pick "wikilink"), [escape](escape "wikilink"),
   [steal](steal "wikilink"), [cast](cast "wikilink").
-
-[Category: Help files](Category:_Help_files "wikilink")

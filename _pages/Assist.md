@@ -1,7 +1,7 @@
 ---
 title: Assist
+tags: ["Help files", "Commands"]
 ---
-
 The **assist** command lets you join somebody who is already
 [fighting](combat "wikilink").
 
@@ -16,6 +16,3 @@ Example:
 
 "assist" by itself will make you assist a [group](group "wikilink")
 member.
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

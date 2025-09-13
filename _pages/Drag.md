@@ -1,7 +1,7 @@
 ---
 title: Drag
+tags: ["Help files", "Commands"]
 ---
-
 Syntax: 'drag corpse'
 
 You will start dragging the [Corpse](Corpse "wikilink"). If you move,
@@ -14,6 +14,3 @@ dragging. Some objects may be dragged too.
 See also: [Burn](Burn "wikilink"), [Decapitate](Decapitate "wikilink"),
 [Drain](Drain "wikilink"), [Hang](Hang "wikilink"),
 [Bury](Bury "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide to Suits of Armour and Shields
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide to Suits of Armour and Shields**
 
 This guide written and published by p(Baca/Endo)
@@ -735,6 +735,4 @@ damage is ignored.
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

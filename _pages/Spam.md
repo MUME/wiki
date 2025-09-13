@@ -1,7 +1,7 @@
 ---
 title: Spam
+tags: ["Help files"]
 ---
-
 Usage: [change](change "wikilink") **spam** \[on\|off\]
 
 Spam is a familiar problem with net-traffic and depending upon your
@@ -25,5 +25,3 @@ What it does:
 
 See Also: [Brief](Brief "wikilink"), [Compact](Compact "wikilink"),
 [Prompt](Prompt "wikilink"), [Rules Spam](Rules_Spam "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

@@ -1,6 +1,5 @@
 ---
 title: Category:Cleric spells
+tags: ["Cleric"]
 ---
-
-[\*Cleric spells](Category:_Spells "wikilink") [Category:
-Cleric](Category:_Cleric "wikilink")
+[\*Cleric spells](Category:_Spells "wikilink") 

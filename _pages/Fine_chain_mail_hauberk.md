@@ -1,7 +1,7 @@
 ---
 title: Fine chain mail hauberk
+tags: ["Body items", "Mail equipment"]
 ---
-
 The **fine chain mail hauberk** is a lightweight piece of chain mail
 armour worn on the [body](body "wikilink"). It provides a considerable
 amount of damage absorption and slightly decreases [offensive
@@ -20,6 +20,4 @@ bonus](offensive_bonus "wikilink"). It is worth around 2
 `It weighs eight pounds.`
 
 {% include Items.md %}
-
-[Category: Body items](Category:_Body_items "wikilink") [Category: Mail
-equipment](Category:_Mail_equipment "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Fireball
+tags: ["Mage spells", "Spells"]
 ---
-
 **Fireball** is a mid-level [mage](mage "wikilink")
 [spell](spell "wikilink"), castable on characters and special
 [mudlled](mudlle "wikilink") objects. As its name implies it lets loose
@@ -38,6 +38,3 @@ This spell can be learned from:
   Spray](Colour_Spray "wikilink"), [Call
   Lightning](Call_Lightning "wikilink"),
   [Earthquake](Earthquake "wikilink")
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

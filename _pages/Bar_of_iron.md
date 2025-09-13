@@ -1,7 +1,7 @@
 ---
 title: Bar of iron
+tags: ["Uncategorized items"]
 ---
-
 `A wide bar of iron, coated in black dust, lies here. `
 `>`**`examine bar`**
 `The bar is heavy, and made from pure iron.  Some product of the forging`
@@ -12,6 +12,3 @@ title: Bar of iron
 `It weighs seven pounds.`
 
 {% include Items.md %}
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

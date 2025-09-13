@@ -1,7 +1,7 @@
 ---
 title: Bill Ferny
+tags: ["Mobiles"]
 ---
-
 **Bill Ferny** is a man of poor reputation living in
 [Bree](Bree "wikilink")-land. Although he was once a law-abiding
 citizen, he has been cast out on charges of aiding
@@ -54,5 +54,3 @@ shroud.
 Loot the small twisted root from his corpse, unlock and open 'wall', go
 east, pick open 'floorboards' and loot a [shield of
 Arthedain](shield_of_Arthedain "wikilink") off the ground.
-
-[Category: Mobiles](Category:_Mobiles "wikilink")

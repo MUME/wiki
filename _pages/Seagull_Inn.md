@@ -1,7 +1,7 @@
 ---
 title: Seagull Inn
+tags: ["Inns", "Shops"]
 ---
-
 The **Seagull Inn** is an [inn](inn "wikilink") in
 [Harlond](Harlond "wikilink"). [Eldinor the
 bartender](Eldinor_the_bartender "wikilink") sells drinks and snacks on
@@ -17,6 +17,4 @@ the bottom floor, while an [elven innkeeper](elven_innkeeper "wikilink")
   [whisky](whisky "wikilink")
 
 The bar is open from 10am to 2pm and 5pm to 12am.
-
-[Category: Inns](Category:_Inns "wikilink") [Category:
-Shops](Category:_Shops "wikilink")
+ 

@@ -1,7 +1,7 @@
 ---
 title: Blue crystal
+tags: ["Uncategorized items"]
 ---
-
 The **blue crystal** is an [item](item "wikilink") use for creating
 [foci](focus "wikilink"). It loads on [Old Man
 Willow](Old_Man_Willow "wikilink"). It is worth about 35
@@ -16,6 +16,3 @@ Willow](Old_Man_Willow "wikilink"). It is worth about 35
 `>`**`consider crystal`**
 `It is a blue crystal.`
 `It weighs about one pound.`
-
-[Category: Uncategorized
-items](Category:_Uncategorized_items "wikilink")

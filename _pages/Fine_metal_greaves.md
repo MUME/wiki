@@ -1,7 +1,7 @@
 ---
 title: Fine metal greaves
+tags: ["Metal equipment", "Legs items"]
 ---
-
 \> **look greaves**
 
 These greaves are forged out of durable, polished steel plates. They
@@ -25,6 +25,3 @@ They are a fine pair of metal greaves.
 They weigh thirteen pounds.
 
 {% include Items.md %}
-
-[Category: Metal equipment](Category:_Metal_equipment "wikilink")
-[Category:Legs items](Category:Legs_items "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Detect Poison
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Detect Poison** is a level 2 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will tell you whether an item or a pond is
 poisonous. Rather useless.
@@ -23,7 +23,4 @@ poison' loaf This spell can be learned from:
 
 - [Remove Poison](Remove_Poison "wikilink"), [Detect
   Evil](Detect_Evil "wikilink"), [Sense Life](Sense_Life "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

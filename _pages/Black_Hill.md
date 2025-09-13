@@ -1,7 +1,7 @@
 ---
 title: Black Hill
+tags: ["Locations"]
 ---
-
 **Black Hill** is a small village of [men](man "wikilink") located in
 the [Tower Hills](Tower_Hills "wikilink"), north of the road to [Grey
 Havens](Grey_Havens "wikilink").
@@ -23,5 +23,3 @@ Havens](Grey_Havens "wikilink").
 ## Inns and Taverns
 
 - [The Foaming Mug](The_Foaming_Mug "wikilink")
-
-[Category: Locations](Category:_Locations "wikilink")

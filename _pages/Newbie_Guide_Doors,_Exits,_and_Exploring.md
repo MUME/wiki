@@ -1,7 +1,7 @@
 ---
 title: Newbie Guide Doors, Exits, and Exploring
+tags: ["Guides", "Newbie Help"]
 ---
-
 **Newbie Guide Doors, Exits, and Exploring**
 
 This guide written and published by p(Baca/Endo)
@@ -527,6 +527,4 @@ does not end there...
 Link back to the wiki guides:
 
 - [Guide](Guide "wikilink")
-
-[Category:Guides](Category:Guides "wikilink") [Category:Newbie
-Help](Category:Newbie_Help "wikilink")
+ 

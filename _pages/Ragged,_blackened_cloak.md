@@ -1,7 +1,7 @@
 ---
 title: Ragged, blackened cloak
+tags: ["Cloth equipment", "Cloaks"]
 ---
-
 The **ragged, blackened cloak** is a [cloak](cloak "wikilink") that
 increases [dodge bonus](dodge_bonus "wikilink") and [movement
 point](movement_points "wikilink")
@@ -21,6 +21,3 @@ from some tailors for around 3 [gold](gold "wikilink") and 5 silver.
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Category: Cloth equipment](Category:_Cloth_equipment "wikilink")
-[Category:Cloaks](Category:Cloaks "wikilink")

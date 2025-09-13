@@ -1,7 +1,7 @@
 ---
 title: Softly glowing green cup
+tags: ["Miscellaneous equipment"]
 ---
-
 \> **examine cup**
 
 The potion is full.
@@ -19,6 +19,3 @@ raise maximum mana for a shorter period. It loads near Lorien, it is the
 reward after a mini [quest](quest "wikilink") is done.
 
 {% include Items.md %}
-
-[Category: Miscellaneous
-equipment](Category:_Miscellaneous_equipment "wikilink")

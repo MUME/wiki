@@ -1,7 +1,7 @@
 ---
 title: Legend Home Equipment
+tags: ["Help files", "Legend_homes"]
 ---
-
 If you would like to have certain items of equipment loaded into your
 legend home you will need to also include that in your legend home
 request.
@@ -19,6 +19,3 @@ See also: [Legend Homes](Legend_Homes "wikilink"), [Legend Home
 Valet](Legend_Home_Valet "wikilink"), [Legend Home
 Prices](Legend_Home_Prices "wikilink"), [Legend Home
 Locations](Legend_Home_Locations "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Legend_homes](Category:Legend_homes "wikilink")

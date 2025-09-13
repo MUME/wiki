@@ -1,7 +1,7 @@
 ---
 title: Falchion
+tags: ["Slashing weapons"]
 ---
-
 `A falchion lies on the ground.`
 `>`**`examine falchion`**
 `This single-edged blade is short and very broad, with a small crosspiece for`
@@ -15,5 +15,3 @@ title: Falchion
 `It weighs five pounds.`
 
 {% include Items.md %}
-
-[Category: Slashing weapons](Category:_Slashing_weapons "wikilink")

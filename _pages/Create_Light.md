@@ -1,7 +1,7 @@
 ---
 title: Create Light
+tags: ["Mage spells", "Spells"]
 ---
-
 **Create Light** is a [level](level "wikilink") 4
 [mage](mage "wikilink") [spell](spell "wikilink") that can be used to
 replenish a light source. When cast on a [lantern](lantern "wikilink"),
@@ -26,6 +26,3 @@ This spell can be learned from:
   Door](Block_Door "wikilink"), [Control
   Weather](Control_Weather "wikilink"), [Enchant](Enchant "wikilink"),
   [Night Vision](Night_Vision "wikilink"), [Store](Store "wikilink")
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

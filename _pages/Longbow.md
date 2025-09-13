@@ -1,7 +1,7 @@
 ---
 title: Longbow
+tags: ["Missile weapons"]
 ---
-
 `A wooden longbow is lying here.`
 `>`**`examine bow`**
 `Spanning the height of a small man and made of reddish-brown wood, it has a`
@@ -13,5 +13,3 @@ title: Longbow
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Category: Missile weapons](Category:_Missile_weapons "wikilink")

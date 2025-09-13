@@ -1,7 +1,7 @@
 ---
 title: Lórien Warrior Guild
+tags: ["Guildmasters"]
 ---
-
 **Haldir** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Peleryn of the Guards** in [Caras
 Galadhon](Caras_Galadhon "wikilink").
@@ -27,5 +27,3 @@ Galadhon](Caras_Galadhon "wikilink").
 [`slashing weapons`](slashing_weapons "wikilink")`          29  Normal`
 [`stabbing weapons`](stabbing_weapons "wikilink")`          29  Normal`
 [`two-handed weapons`](two-handed_weapons "wikilink")`         9  Normal`
-
-[Category: Guildmasters](Category:_Guildmasters "wikilink")

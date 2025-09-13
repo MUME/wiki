@@ -1,7 +1,7 @@
 ---
 title: Summon
+tags: ["Spells", "Cleric spells"]
 ---
-
 **Summon** is a level 8 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will transfer a creature or player to the
 location of the caster. The [equipment](equipment "wikilink") will
@@ -27,6 +27,4 @@ This spell can be learned from:
 ## See also
 
 - [Transfer](Transfer "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink")
+ 

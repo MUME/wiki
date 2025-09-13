@@ -1,7 +1,7 @@
 ---
 title: View
+tags: ["Help files", "Commands"]
 ---
-
 The **view** command can be used instead of '[read](read "wikilink")' to
 send the output of [boards](board "wikilink"), [mails](mail "wikilink"),
 books, and [maps](map "wikilink") to your current
@@ -13,6 +13,4 @@ View also has a few special uses:
 `view wizretired         show the list of retired immortals`
 `view war                show the current balance of power`
 `view warlords           show the list of warlords`
-
-[Category: Help files](Category:_Help_files "wikilink") [Category:
-Commands](Category:_Commands "wikilink")
+ 

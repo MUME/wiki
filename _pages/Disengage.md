@@ -1,7 +1,7 @@
 ---
 title: Disengage
+tags: ["Help files", "Commands"]
 ---
-
 **Disengage** is a [delayed](delayed "wikilink")
 [command](commands "wikilink") that allows you to stop the
 [fight](combat "wikilink") unless you are the character who is fighting
@@ -10,6 +10,3 @@ the opponent directly and taking his strokes (the
 
 See also: [Escape](Escape "wikilink"), [Flee](Flee "wikilink"),
 [Wimpy](Wimpy "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

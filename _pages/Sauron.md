@@ -1,7 +1,7 @@
 ---
 title: Sauron
+tags: ["Help files"]
 ---
-
 In his origin he was a Maia created, as all were, by Iluvatar. He was
 corrupted by the proud and evil Melkor (Morgoth), and became his
 lieutenant in the war which followed, against the Elves and Men.
@@ -42,5 +42,3 @@ that he claims to be his true followers are player killers. Telling him
 '[list](list "wikilink")' will provide a list of player killers.
 
 See also: [Rules-Sauron](Rules-Sauron "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")

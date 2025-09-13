@@ -1,7 +1,7 @@
 ---
 title: Thirsty Ranger's Inn
+tags: ["Shops"]
 ---
-
 The **Thirsty Ranger's Inn** is a tavern in
 [Tharbad](Tharbad "wikilink"), located on Old Tower Street, with a
 backdoor leading into Chapman's Lane. A
@@ -24,5 +24,3 @@ tavern, so one would be wise to keep a close eye on their money.
   [beer](beer "wikilink")
 - [beer bottles](beer_bottle "wikilink") full of [beer](beer "wikilink")
 - [cups](cup "wikilink") full of [water](water "wikilink")
-
-[Category: Shops](Category:_Shops "wikilink")

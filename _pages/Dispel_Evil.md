@@ -1,7 +1,7 @@
 ---
 title: Dispel Evil
+tags: ["Cleric spells", "Spells"]
 ---
-
 **Dispel Evil** is a level 12 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It is one of the primary attack spells for
 clerics. It does most damage if cast by a player with a very good
@@ -24,6 +24,3 @@ This spell can be learned from:
 
 - [Energy Drain](Energy_Drain "wikilink"), [Harm](Harm "wikilink"),
   [Smother](Smother "wikilink")
-
-[Category:Cleric spells](Category:Cleric_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

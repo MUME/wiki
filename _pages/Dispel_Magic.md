@@ -1,7 +1,7 @@
 ---
 title: Dispel Magic
+tags: ["Spells", "Mage spells"]
 ---
-
 Syntax : cast 'dispel magic' \<victim \| object\> Type : Offensive, meta
 magic Accumulative: No Duration : No Casting : Very long Position :
 Standing Level : Level 16 Class : Magic User Min. Mana : 35 Example: \>
@@ -16,6 +16,4 @@ This spell can be learned from:
 ## See also
 
 - [Enchant](Enchant "wikilink")
-
-[Category:Spells](Category:Spells "wikilink") [Category:Mage
-spells](Category:Mage_spells "wikilink")
+ 

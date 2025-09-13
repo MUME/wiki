@@ -1,7 +1,7 @@
 ---
 title: Offer
+tags: ["Help files", "Commands"]
 ---
-
 For use in inns. The command '[offer](offer "wikilink")' will make the
 innkeeper tell you the cost of storing your carried items for one (real
 life) day. '[rent](rent "wikilink")' will store the items and make you
@@ -38,6 +38,3 @@ the game crashes or reboots.
 See also: [Camp](Camp "wikilink"), [Inn](Inn "wikilink"),
 [Receptionist](Receptionist "wikilink"), [Noquit](Noquit "wikilink"),
 [Link](Link "wikilink"), [Hometowns](Hometowns "wikilink")
-
-[Category:Help files](Category:Help_files "wikilink")
-[Category:Commands](Category:Commands "wikilink")

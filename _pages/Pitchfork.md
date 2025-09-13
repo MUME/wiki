@@ -1,7 +1,7 @@
 ---
 title: Pitchfork
+tags: ["Stabbing weapons"]
 ---
-
 `A pitchfork has been carelessly left lying here.`
 `>`**`examine pitchfork`**
 `The fork consists of a long, wooden handle and a metal cross-bar with four`
@@ -14,5 +14,3 @@ title: Pitchfork
 `It weighs three pounds.`
 
 {% include Items.md %}
-
-[Category: Stabbing weapons](Category:_Stabbing_weapons "wikilink")

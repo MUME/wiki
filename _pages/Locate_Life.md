@@ -1,7 +1,7 @@
 ---
 title: Locate Life
+tags: ["Mage spells", "Spells"]
 ---
-
 **Locate Life** is a [level](level "wikilink") 11
 [mage](mage "wikilink") [spell](spell "wikilink"). It will tell you
 where instances of this creature can be found, within a radius that
@@ -20,6 +20,3 @@ This spell can be learned from:
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`               12`
 [`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`             3`
 [`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`               3`
-
-[Category:Mage spells](Category:Mage_spells "wikilink")
-[Category:Spells](Category:Spells "wikilink")

@@ -1,7 +1,7 @@
 ---
 title: Word of Recall
+tags: ["Spells", "Cleric spells", "Shaman spells"]
 ---
-
 **Word of Recall** is a level 11 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It takes the caster to the closest *safe*
 location in the [zone](zone "wikilink"). *Safe* in this context means
@@ -22,7 +22,4 @@ recall' This spell can be learned from:
 [`Lórien Cleric Guild`](Lórien_Cleric_Guild "wikilink")`               10`
 [`Rivendell Cleric Guild`](Rivendell_Cleric_Guild "wikilink")`            12`
 [`Tharbad Cleric Guild`](Tharbad_Cleric_Guild "wikilink")`               6`
-
-[Category:Spells](Category:Spells "wikilink") [Category:Cleric
-spells](Category:Cleric_spells "wikilink") [Category:Shaman
-spells](Category:Shaman_spells "wikilink")
+  

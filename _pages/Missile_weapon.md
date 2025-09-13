@@ -1,7 +1,7 @@
 ---
 title: Missile weapon
+tags: ["Weapons"]
 ---
-
 **[Missile weapons](Missile "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Many
 missile weapons inflict considerable amounts of damage, while requiring
@@ -59,5 +59,4 @@ them in proper areas.
 
 {% include Items.md %}
 
-[Category: Weapons](Category:_Weapons "wikilink")
 [\*](Category:_Missile_weapons "wikilink")
