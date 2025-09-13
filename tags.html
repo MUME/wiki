@@ -1,49 +1,69 @@
 ---
-layout: page
-title: Tags
-permalink: /tags/
+layout: default
+title: 'Page Tag Index'
 ---
 
-{% comment %} Corrected A-Z Index for Tags {% endcomment %}
-{%- assign tags_with_posts = site.tags | where_exp: "item", "site.tags[item].size > 0" | sort -%}
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{%- assign first_chars = "" -%}
-{%- for tag in tags_with_posts -%}
-  {%- assign first_char = tag[0] | slice: 0 | upcase -%}
-  {%- unless first_chars contains first_char -%}
-    {%- assign first_chars = first_chars | append: first_char -%}
-  {%- endunless -%}
+{% comment %}
+    Collect and deduplicate all unique tags from pages
+{% endcomment %}
+{% assign all_tags = site.pages | map: 'tags' | join: ',' | split: ',' | sort | uniq %}
+
+{% comment %} Generate the A-Z index at the top {% endcomment %}
+<div class="az-index">
+{%- assign alphabet = 'A B C D E F G H I J K L M N O P Q R S T U V W X Y Z' | split: ' ' -%}
+{%- for letter in alphabet -%}
+    {%- assign letter_has_tag = false -%}
+    {%- for tag in all_tags -%}
+        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
+        {%- assign letter_lower = letter | downcase -%}
+        {%- if tag_first_char == letter_lower -%}
+            {%- assign letter_has_tag = true -%}
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- if letter_has_tag -%}
+        <a href="#{{- letter -}}">{{- letter -}}</a>
+    {%- else -%}
+        <span>{{- letter -}}</span>
+    {%- endif -%}
 {%- endfor -%}
-
-{%- assign sorted_first_chars = first_chars | split: '' | sort -%}
-
-<div class="a-z-index">
-  {%- for char in sorted_first_chars -%}
-    <a href="#{{- char | cgi_escape -}}" class="btn btn-primary tag-btn">{{- char -}}</a>
-  {%- endfor -%}
 </div>
 
-{% comment %} Loop through tags and display associated posts {% endcomment %}
-{%- assign current_char = "" -%}
-{%- for tag in tags_with_posts -%}
-  {%- assign first_char = tag[0] | slice: 0 | upcase -%}
-  {%- if first_char != current_char -%}
-    <h2 id="{{- first_char | cgi_escape -}}" class="linked-section">
-      {{- first_char -}}
-    </h2>
-    {%- assign current_char = first_char -%}
-  {%- endif -%}
+<hr>
 
-  <h3 class="tag-heading">
-    <i class="fas fa-tag" aria-hidden="true"></i>
-    &nbsp;{{- tag[0] -}}&nbsp;({{ tag[1] | size }})
-  </h3>
-
-  <div class="post-list">
-    {%- for post in tag[1] -%}
-      <div class="tag-entry">
-        <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
-      </div>
+<div id="full-tags-list">
+{%- for letter in alphabet -%}
+    {%- assign tags_for_letter = "" | split: "" -%}
+    {%- for tag in all_tags -%}
+        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
+        {%- assign letter_lower = letter | downcase -%}
+        {%- if tag and tag_first_char == letter_lower -%}
+            {%- assign tags_for_letter = tags_for_letter | push: tag -%}
+        {%- endif -%}
     {%- endfor -%}
-  </div>
+    
+    {%- if tags_for_letter.size > 0 -%}
+        <h2 id="{{- letter -}}" class="linked-section">{{- letter -}}</h2>
+        <div class="post-list">
+        {%- for tag in tags_for_letter -%}
+            {%- if tag and tag != "" -%}
+            <h3 class="tag-title">
+                <i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}
+            </h3>
+            <ul class="tag-page-list">
+                {%- for page in site.pages -%}
+                    {%- if page and page.tags contains tag -%}
+                    <li>
+                        <a href="{{ page.url | relative_url }}">{{- page.title | strip_html -}}</a>
+                    </li>
+                    {%- endif -%}
+                {%- endfor -%}
+            </ul>
+            {%- endif -%}
+        {%- endfor -%}
+        </div>
+    {%- endif -%}
 {%- endfor -%}
+</div>
