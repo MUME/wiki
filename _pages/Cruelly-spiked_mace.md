@@ -1,5 +1,7 @@
 ---
 title: Cruelly-spiked mace
+tags:
+- Concussion weapons
 ---
 
 \> **examine mace**
@@ -22,5 +24,3 @@ average, and it inflicts average damage upon hitting.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Cruelly-spiked mace](Category:_Concussion_weapons "wikilink")

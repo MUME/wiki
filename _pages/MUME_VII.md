@@ -1,5 +1,7 @@
 ---
 title: MUME VII
+tags:
+- MUME Versions
 ---
 
 After more than one year of development, when many thought it was just
@@ -181,5 +183,3 @@ now, they only affect the knowledge of languages, but some other small
 effects will be added in a foreseeable future.
 
 *The MUME 7 Hack^H^H^H^H Development Team.*
-
-[MUME 7](Category:MUME_Versions "wikilink")

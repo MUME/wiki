@@ -1,8 +1,10 @@
 ---
 title: Food & Drink
 tags:
-  - Equipment
+- Consumables
+- Equipment
 ---
+
 **Food and drink** is an important aspect of [MUME](MUME "wikilink"),
 for example you must [drink](drink "wikilink") and [eat](eat "wikilink")
 regularly otherwise your [movement](Movement_Points "wikilink") and hit
@@ -76,5 +78,3 @@ than others and will get you drunk faster.
 - wine - clear liquid
 
 {% include Items.md %}
-
-[\*](Category:Consumables "wikilink")

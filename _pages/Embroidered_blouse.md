@@ -1,5 +1,8 @@
 ---
 title: Embroidered blouse
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look blouse**
@@ -16,6 +19,3 @@ It is an embroidered blouse.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Embroidered blouse](Category:_Cloth_equipment "wikilink") [Embroidered
-blouse](Category:_Body_items "wikilink")

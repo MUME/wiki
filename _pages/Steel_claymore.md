@@ -1,5 +1,8 @@
 ---
 title: Steel claymore
+tags:
+- Slashing weapons
+- Smiting weapons
 ---
 
 \> **consider claymore**
@@ -12,6 +15,3 @@ is slow, and it inflicts considerable damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Steel claymore](Category:_Slashing_weapons "wikilink") [Steel
-claymore](Category:_Smiting_weapons "wikilink")

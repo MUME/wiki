@@ -1,5 +1,7 @@
 ---
 title: Rules Names
+tags:
+- Rules
 ---
 
 MUME's management strongly encourages in-game role-play, though we do
@@ -74,5 +76,3 @@ owners.)
 
 See Also : [Names](Names "wikilink"), [Roleplay](Roleplay "wikilink"),
 [Namechanges](Namechanges "wikilink")
-
-[Names](Category:Rules "wikilink")

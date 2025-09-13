@@ -1,5 +1,7 @@
 ---
 title: Raccoon fur hat
+tags:
+- Head items
 ---
 
 \> **look hat**
@@ -15,5 +17,3 @@ It is a raccoon fur hat.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Raccoon fur hat](Category:_Head_items "wikilink")

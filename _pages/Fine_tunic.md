@@ -1,5 +1,8 @@
 ---
 title: Fine tunic
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look tunic**
@@ -17,6 +20,3 @@ It is a fine tunic.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Fine tunic](Category:_Cloth_equipment "wikilink") [Fine
-tunic](Category:_Body_items "wikilink")

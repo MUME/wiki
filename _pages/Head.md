@@ -1,8 +1,10 @@
 ---
 title: Head
 tags:
-  - Equipment
+- Equipment
+- Head items
 ---
+
 A list of equipment worn on the **head**.
 
 # Metal
@@ -56,5 +58,3 @@ A list of equipment worn on the **head**.
 - [straw hat](straw_hat "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Head_items "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Cudgel
+tags:
+- Concussion weapons
 ---
 
 \> **look cudgel**
@@ -22,5 +24,3 @@ average, and it inflicts very little damage upon hitting.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Cudgel](Category:_Concussion_weapons "wikilink")

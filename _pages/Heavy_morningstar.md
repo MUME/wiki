@@ -1,5 +1,7 @@
 ---
 title: Heavy morningstar
+tags:
+- Concussion weapons
 ---
 
 \> **consider morningstar**
@@ -14,5 +16,3 @@ slow, and it inflicts average damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Heavy morningstar](Category:_Concussion_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Fine lion pelt
+tags:
+- Cloaks
 ---
 
 \> **look pelt**
@@ -18,5 +20,3 @@ It is a fine lion pelt.
 It weighs seven pounds.
 
 {% include Items.md %}
-
-[Fine lion pelt](Category:Cloaks "wikilink")

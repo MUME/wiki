@@ -1,5 +1,8 @@
 ---
 title: Sturdy leather helmet
+tags:
+- Head items
+- Leather equipment
 ---
 
 \> **look helmet**
@@ -18,6 +21,3 @@ It is a sturdy leather helmet.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Sturdy leather helmet](Category:_Leather_equipment "wikilink") [Sturdy
-leather helmet](Category:_Head_items "wikilink")

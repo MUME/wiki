@@ -1,5 +1,7 @@
 ---
 title: Golden quartzite ring
+tags:
+- Rings
 ---
 
 \> **look ring**
@@ -20,5 +22,3 @@ feels quite heavy for its size.
 Casts [bless](bless "wikilink").
 
 {% include Items.md %}
-
-[Golden quartzite ring](Category:_Rings "wikilink")

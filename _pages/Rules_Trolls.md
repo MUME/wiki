@@ -1,5 +1,7 @@
 ---
 title: Rules Trolls
+tags:
+- Rules
 ---
 
 Some special rules apply to [trolls](trolls "wikilink"):
@@ -18,5 +20,3 @@ As you can now see time from the account menu, it is no longer allowed
 to logon a level 1 troll to check time after linkloss or crash.
 
 See also: [Rules Interrace](Rules_Interrace "wikilink")
-
-[Trolls](Category:Rules "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Belt pouch
+tags:
+- Containers
 ---
 
 \> **look pouch**
@@ -24,5 +26,3 @@ It weighs about one pound.
 Can contain up to 25 pounds of items.
 
 {% include Items.md %}
-
-[Belt pouch](Category:_Containers "wikilink")

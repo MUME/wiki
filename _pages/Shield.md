@@ -1,8 +1,10 @@
 ---
 title: Shield
 tags:
-  - Equipment
+- Equipment
+- Shields
 ---
+
 A list of **shields** found in [MUME](MUME "wikilink"). Shields provide
 [parry](parry "wikilink") bonus.
 
@@ -118,5 +120,3 @@ bonus](dodge_bonus "wikilink")).
 </spoiler>
 
 {% include Items.md %}
-
-[\*](Category:Shields "wikilink")

@@ -1,8 +1,10 @@
 ---
 title: Ring
 tags:
-  - Equipment
+- Equipment
+- Rings
 ---
+
 Two **rings** can be worn on a character. Some rings, however, are
 incompatible with others. There are other, powerful rings which have
 various effects and uses such as jewelled rings, sometimes known as
@@ -37,5 +39,3 @@ power-rings.
 - [silver wedding ring](silver_wedding_ring "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Rings "wikilink")

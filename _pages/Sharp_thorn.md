@@ -1,5 +1,7 @@
 ---
 title: Sharp thorn
+tags:
+- Piercing weapons
 ---
 
 \> **look thorn**
@@ -27,5 +29,3 @@ fast, and it inflicts little damage upon hitting.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Sharp thorn](Category:_Piercing_weapons "wikilink")

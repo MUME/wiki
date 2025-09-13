@@ -1,5 +1,7 @@
 ---
 title: Ancient dwarven shield
+tags:
+- Shields
 ---
 
 \> **examine shield**
@@ -35,5 +37,3 @@ shield, but it becomes even more so in it's corrupted form: a [defiled
 dwarven shield](defiled_dwarven_shield "wikilink")
 
 {% include Items.md %}
-
-[Ancient dwarven shield](Category:_Shields "wikilink")

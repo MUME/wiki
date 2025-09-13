@@ -1,5 +1,8 @@
 ---
 title: Grey tunic
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **examine tunic**
@@ -18,6 +21,3 @@ Provides the best [dodge bonus](dodge_bonus "wikilink") of items worn on
 the body.
 
 {% include Items.md %}
-
-[Grey tunic](Category:_Cloth_equipment "wikilink") [Grey
-tunic](Category:_Body_items "wikilink")

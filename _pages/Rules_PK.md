@@ -1,5 +1,7 @@
 ---
 title: Rules PK
+tags:
+- Rules
 ---
 
 1\. Player killing between the good and evil races is allowed on MUME.
@@ -22,5 +24,3 @@ Actions](Rules_Actions "wikilink")
 
 7\. It is illegal to use "throw-away" characters as spies. See: [Rules
 Spies](Rules_Spies "wikilink")
-
-[PK](Category:Rules "wikilink")

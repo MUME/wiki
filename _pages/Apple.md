@@ -1,5 +1,7 @@
 ---
 title: Apple
+tags:
+- Consumables
 ---
 
 \> **look apple**
@@ -22,5 +24,3 @@ as in the [Halls of Mandos](Halls_of_Mandos "wikilink"). Not a very
 filling meal, but good for a light snack.
 
 {% include Items.md %}
-
-[Apple](Category:_Consumables "wikilink")

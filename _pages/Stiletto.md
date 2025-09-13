@@ -1,5 +1,7 @@
 ---
 title: Stiletto
+tags:
+- Piercing weapons
 ---
 
 \> **look stiletto**
@@ -21,5 +23,3 @@ very fast, and it inflicts very little damage upon hitting.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Stiletto](Category:_Piercing_weapons "wikilink")

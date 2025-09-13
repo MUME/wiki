@@ -1,5 +1,7 @@
 ---
 title: Warg fur
+tags:
+- Cloaks
 ---
 
 \> **look fur**
@@ -21,5 +23,3 @@ It is a warg fur. It weighs seven pounds.
 Increases [offensive bonus](offensive_bonus "wikilink") by 1.
 
 {% include Items.md %}
-
-[Warg fur](Category:Cloaks "wikilink")

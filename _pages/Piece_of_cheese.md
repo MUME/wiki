@@ -1,5 +1,7 @@
 ---
 title: Piece of cheese
+tags:
+- Consumables
 ---
 
 \> **look cheese**
@@ -16,5 +18,3 @@ It is a piece of cheese.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Piece of cheese](Category:_Consumables "wikilink")

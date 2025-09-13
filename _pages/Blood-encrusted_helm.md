@@ -1,5 +1,8 @@
 ---
 title: Blood-encrusted helm
+tags:
+- Head items
+- Metal equipment
 ---
 
 \> **look helm**
@@ -15,6 +18,3 @@ It is a blood-encrusted helm.
 It weighs eight pounds.
 
 {% include Items.md %}
-
-[Blood-encrusted helm](Category:_Metal_equipment "wikilink")
-[Blood-encrusted helm](Category:_Head_items "wikilink")

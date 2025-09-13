@@ -1,5 +1,7 @@
 ---
 title: Loaf of bread
+tags:
+- Consumables
 ---
 
 \> **look bread**
@@ -16,5 +18,3 @@ It is a loaf of bread.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Loaf of bread](Category:_Consumables "wikilink")

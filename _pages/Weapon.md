@@ -1,8 +1,10 @@
 ---
 title: Weapon
 tags:
-  - Equipment
+- Equipment
+- Weapons
 ---
+
 **Weapons** are items that can be wielded. While you can use the
 '[wield](wield "wikilink")' command on other types of items, only
 weapons will be shown on your equipment list as <wielded>. Other items
@@ -261,5 +263,3 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 </spoiler>
 
 {% include Items.md %}
-
-[\*](Category:Weapons "wikilink")

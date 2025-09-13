@@ -1,5 +1,7 @@
 ---
 title: Shaman Guide
+tags:
+- Guides
 ---
 
 Shaman Guide by Shaukr v0.9
@@ -1616,5 +1618,3 @@ As pure shamans get to high levels, you have a few choices:
   breath, pairing that with arachnia is an obvious move. Aim for 50%+.
 
 Closing: *Outros are for elves, snaga.*
-
-[\*](Category:Guides "wikilink")

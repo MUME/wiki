@@ -1,5 +1,7 @@
 ---
 title: Onion
+tags:
+- Consumables
 ---
 
 \> **look onion**
@@ -18,5 +20,3 @@ It is an onion.
 It weighs about an ounce.
 
 {% include Items.md %}
-
-[Onion](Category:_Consumables "wikilink")

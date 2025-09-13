@@ -1,5 +1,7 @@
 ---
 title: Rules Channels
+tags:
+- Rules
 ---
 
 Each communication channel on MUME has a different purpose, please use
@@ -43,5 +45,3 @@ See also: [Rules Spam](Rules_Spam "wikilink"),
 [Sing](Sing "wikilink"), [Tell](Tell "wikilink"),
 [Whisper](Whisper "wikilink"), [Pray](Pray "wikilink") and
 [Listen](Listen "wikilink").
-
-[Channels](Category:Rules "wikilink")

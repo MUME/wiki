@@ -1,5 +1,9 @@
 ---
 title: Armour Spell
+tags:
+- Mage spells
+- Shaman spells
+- Spells
 ---
 
 **Armour** is a [level](level "wikilink") 3 [mage](mage "wikilink")
@@ -25,7 +29,3 @@ learned from:
 ## See also:
 
 - [Sanctuary](Sanctuary "wikilink"), [Shield](Shield_Spell "wikilink")
-
-[Armour](Category:Spells "wikilink")
-[Armour](Category:Mage_spells "wikilink")
-[Armour](Category:Shaman_spells "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: A rough wooden horn
+tags:
+- Miscellaneous equipment
 ---
 
 \> **examine horn**
@@ -36,5 +38,3 @@ Blowing the horn causes any roots that might be holding you to loosen
 their grip. 'use horn' to blow the horn.
 
 {% include Items.md %}
-
-[Rough wooden horn](Category:_Miscellaneous_equipment "wikilink")

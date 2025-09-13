@@ -1,8 +1,10 @@
 ---
 title: Mage
 tags:
-  - Classes
+- Classes
+- Mage
 ---
+
 The **mage** is a class of powerful and violent magic, however it does
 not possess the same healing powers as a [cleric](cleric "wikilink").
 Protective [spells](spell "wikilink") exist, which are quite effective
@@ -22,5 +24,3 @@ to play than other classes.
   Guide](Alweon%27s_Versatile_Caster_Newbie_Guide "wikilink")
 
 {% include ClassRace.md %}
-
-[\*](Category:_Mage "wikilink")

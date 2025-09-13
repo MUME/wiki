@@ -1,5 +1,7 @@
 ---
 title: Slender dagger
+tags:
+- Piercing weapons
 ---
 
 \> **examine dagger**
@@ -17,5 +19,3 @@ is very fast, and it inflicts average damage upon hitting.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Slender dagger](Category:_Piercing_weapons "wikilink")

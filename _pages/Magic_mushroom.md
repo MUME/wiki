@@ -1,5 +1,7 @@
 ---
 title: Magic mushroom
+tags:
+- Consumables
 ---
 
 \> **look food**
@@ -24,5 +26,3 @@ make you satisfied but at lower levels or when not practised enough you
 need two to get full.
 
 {% include Items.md %}
-
-[Magic mushroom](Category:_Consumables "wikilink")

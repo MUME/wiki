@@ -1,5 +1,7 @@
 ---
 title: Very large wooden club
+tags:
+- Smiting weapons
 ---
 
 \> **look club**
@@ -22,5 +24,3 @@ slow, and it inflicts considerable damage upon hitting.
 It weighs eleven pounds.
 
 {% include Items.md %}
-
-[Very large wooden club](Category:_Smiting_weapons "wikilink")

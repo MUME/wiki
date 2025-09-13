@@ -1,5 +1,7 @@
 ---
 title: Brutal cleaver
+tags:
+- Cleaving weapons
 ---
 
 \> **consider cleaver**
@@ -12,5 +14,3 @@ and it inflicts very little damage upon hitting.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Brutal cleaver](Category:_Cleaving_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Spiked war club
+tags:
+- Concussion weapons
 ---
 
 \> **look club**
@@ -20,5 +22,3 @@ average, and it inflicts little damage upon hitting.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Spiked war club](Category:_Concussion_weapons "wikilink")

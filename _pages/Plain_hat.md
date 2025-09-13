@@ -1,5 +1,8 @@
 ---
 title: Plain hat
+tags:
+- Cloth equipment
+- Head items
 ---
 
 \> **look hat**
@@ -21,6 +24,3 @@ It is a plain hat.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Plain hat](Category:_Cloth_equipment "wikilink") [Plain
-hat](Category:_Head_items "wikilink")

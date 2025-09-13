@@ -1,5 +1,8 @@
 ---
 title: Guardsman's shirt
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look shirt**
@@ -13,6 +16,3 @@ It is a guardsman's shirt.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Guardsman's shirt](Category:_Cloth_equipment "wikilink") [Guardsman's
-shirt](Category:_Body_items "wikilink")

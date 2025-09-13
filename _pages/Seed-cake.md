@@ -1,5 +1,7 @@
 ---
 title: Seed-cake
+tags:
+- Consumables
 ---
 
 **Seed-cakes** are a common [food](food "wikilink") item, sold in most
@@ -15,5 +17,3 @@ bakeries for 6 [copper](gold "wikilink"). They are moderately filling -
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Seed-cake](Category:_Consumables "wikilink")

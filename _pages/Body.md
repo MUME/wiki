@@ -1,8 +1,10 @@
 ---
 title: Body
 tags:
-  - Equipment
+- Body items
+- Equipment
 ---
+
 A list of items worn on the **body**.
 
 # Metal
@@ -61,5 +63,3 @@ A list of items worn on the **body**.
 - [wolf fur vest](wolf_fur_vest "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Body_items "wikilink")

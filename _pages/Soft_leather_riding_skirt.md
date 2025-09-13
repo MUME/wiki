@@ -1,5 +1,8 @@
 ---
 title: Soft leather riding skirt
+tags:
+- Leather equipment
+- Legs items
 ---
 
 \> **look skirt**
@@ -19,6 +22,3 @@ It is a soft leather riding skirt.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Soft leather riding skirt](Category:_Leather_equipment "wikilink")
-[Soft leather riding skirt](Category:Legs_items "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Sausage flavoured with savoury herbs
+tags:
+- Consumables
 ---
 
 \> **look sausage**
@@ -16,5 +18,3 @@ It is a sausage flavoured with savoury herbs.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Sausage flavoured with savoury herbs](Category:_Consumables "wikilink")

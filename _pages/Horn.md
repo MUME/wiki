@@ -1,5 +1,7 @@
 ---
 title: Horn
+tags:
+- Piercing weapons
 ---
 
 \> **look horn**
@@ -20,5 +22,3 @@ fast, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Horn](Category:_Piercing_weapons "wikilink")

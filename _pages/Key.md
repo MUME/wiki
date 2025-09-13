@@ -1,5 +1,7 @@
 ---
 title: Key
+tags:
+- Keys
 ---
 
 **Keys** are [items](item "wikilink") that can be used to
@@ -9,5 +11,3 @@ will refuse to store most keys, so you will have to
 can be put on a [keyring](keyring "wikilink").
 
 {% include Items.md %}
-
-[\*](Category:_Keys "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Large yellow apple
+tags:
+- Consumables
 ---
 
 \> **examine apple**
@@ -15,5 +17,3 @@ It is a large yellow apple.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Large yellow apple](Category:_Consumables "wikilink")

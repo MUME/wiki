@@ -1,5 +1,7 @@
 ---
 title: Egg
+tags:
+- Consumables
 ---
 
 \> **look egg**
@@ -16,5 +18,3 @@ It is an egg.
 It weighs a couple of ounces.
 
 {% include Items.md %}
-
-[Egg](Category:Consumables "wikilink")

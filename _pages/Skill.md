@@ -1,5 +1,7 @@
 ---
 title: Skill
+tags:
+- Skills
 ---
 
 To succeed on [Arda](Arda "wikilink"), it is crucial to possess skills.
@@ -90,5 +92,3 @@ Defensive
 - [Spells](Spell "wikilink")
 
 __NOEDITSECTION__ __NOTOC__
-
-[\*](Category:Skills "wikilink")

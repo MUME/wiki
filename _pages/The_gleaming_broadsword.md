@@ -1,7 +1,8 @@
 ---
 title: The gleaming broadsword
 tags:
-  - Weapons
+- Slashing weapons
+- Weapons
 ---
 
-[\*](Category:_Slashing_weapons "wikilink")
+

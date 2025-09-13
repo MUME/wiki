@@ -1,5 +1,7 @@
 ---
 title: Broad-bladed knife
+tags:
+- Slashing weapons
 ---
 
 \> **look knife**
@@ -19,5 +21,3 @@ and it inflicts very little damage upon hitting.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Broad-bladed knife](Category:_Slashing_weapons "wikilink")

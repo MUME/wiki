@@ -1,5 +1,7 @@
 ---
 title: Black runed dagger
+tags:
+- Piercing weapons
 ---
 
 \> **look dagger**
@@ -22,5 +24,3 @@ It radiates a magical aura.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Black runed dagger](Category:_Piercing_weapons "wikilink")

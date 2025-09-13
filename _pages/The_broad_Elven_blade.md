@@ -1,8 +1,8 @@
 ---
 title: The broad Elven blade
 tags:
-  - Weapons
+- Slashing weapons
+- Weapons
 ---
-See also: [Glamdring](Glamdring "wikilink")
 
-[\*](Category:_Slashing_weapons "wikilink")
+See also: [Glamdring](Glamdring "wikilink")

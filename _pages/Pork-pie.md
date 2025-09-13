@@ -1,5 +1,7 @@
 ---
 title: Pork-pie
+tags:
+- Consumables
 ---
 
 \> **look pie**
@@ -19,5 +21,3 @@ It is a pork-pie.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Pork-pie](Category:_Consumables "wikilink")

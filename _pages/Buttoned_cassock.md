@@ -1,5 +1,8 @@
 ---
 title: Buttoned cassock
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 \> **look cassock**
@@ -22,6 +25,3 @@ It weighs five pounds.
 Increases [dodge bonus](dodge_bonus "wikilink").
 
 {% include Items.md %}
-
-[Buttoned cassock](Category:_Cloth_equipment "wikilink") [Buttoned
-cassock](Category:_Cloaks "wikilink")

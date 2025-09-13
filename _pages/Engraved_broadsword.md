@@ -1,5 +1,7 @@
 ---
 title: Engraved broadsword
+tags:
+- Slashing weapons
 ---
 
 \> **look sword**
@@ -38,5 +40,3 @@ casters who practice the [strength](Strength_Spell "wikilink")
 [spell](spell "wikilink").
 
 {% include Items.md %}
-
-[Engraved broadsword](Category:_Slashing_weapons "wikilink")

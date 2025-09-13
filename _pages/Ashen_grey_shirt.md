@@ -1,5 +1,8 @@
 ---
 title: Ashen grey shirt
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look shirt**
@@ -20,6 +23,3 @@ Island (if they're not already wearing something else). It will decay
 immediately if dropped.
 
 {% include Items.md %}
-
-[Ashen grey shirt](Category:_Cloth_equipment "wikilink") [Ashen grey
-shirt](Category:_Body_items "wikilink")

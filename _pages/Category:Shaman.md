@@ -1,5 +1,7 @@
 ---
 title: Category:Shaman
+tags:
+- Classes
 ---
 
-[\*](Category:_Classes "wikilink")
+

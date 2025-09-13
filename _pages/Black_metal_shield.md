@@ -1,5 +1,7 @@
 ---
 title: Black metal shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -19,5 +21,3 @@ It is a black metal shield.
 It weighs one stone and one pound.
 
 {% include Items.md %}
-
-[Black metal shield](Category:_Shields "wikilink")

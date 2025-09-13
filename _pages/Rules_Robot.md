@@ -1,5 +1,7 @@
 ---
 title: Rules Robot
+tags:
+- Rules
 ---
 
 Setting up scripts which act as ROBOTS are forbidden. You may not log
@@ -30,5 +32,3 @@ irregular) intervals are forbidden.
 Robots won't be tolerated in MUME.
 
 See also: [Rules Actions](Rules_Actions "wikilink")
-
-[Robot](Category:Rules "wikilink")

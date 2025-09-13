@@ -1,5 +1,7 @@
 ---
 title: Category:Main Page Templates
+tags:
+- Templates
 ---
 
 <div style="border: 1px solid; width: 96%; color: black; padding: 1em; float: left; background: #EFEFEF">
@@ -7,5 +9,3 @@ title: Category:Main Page Templates
 **Do NOT alter these pages unless you know what you are doing.**
 
 </div>
-
-[\*](Category:Templates "wikilink")

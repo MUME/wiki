@@ -1,5 +1,7 @@
 ---
 title: Silver wedding ring
+tags:
+- Rings
 ---
 
 \> **look ring**
@@ -13,5 +15,3 @@ It is a silver wedding ring.
 It weighs a couple of ounces.
 
 {% include Items.md %}
-
-[Silver wedding ring](Category:_Rings "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Gilded round shield
+tags:
+- Shields
 ---
 
 The **gilded round shield** is a lightweight shield that grants a
@@ -20,5 +22,3 @@ of Galerel](ghost_of_Galerel "wikilink").
 `It weighs one stone and three pounds.`
 
 {% include Items.md %}
-
-[Gilded round shield](Category:_Shields "wikilink")

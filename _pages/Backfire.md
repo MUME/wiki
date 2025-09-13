@@ -1,8 +1,10 @@
 ---
 title: Backfire
 tags:
-  - Help files
+- Help files
+- Spells
 ---
+
 A **backfire** will occur when you fail to [cast](cast "wikilink") a
 [spell](spell "wikilink"). The effects become nastier as the spell level
 increases. However, your knowledge of the spell can reduce the chance of
@@ -15,5 +17,3 @@ points and [hit points](hit_points "wikilink").
 
 Remember: Backfiring a low level spell will not cause great harm,
 backfiring a level 15 spell is another story...
-
-[\*](Category:Spells "wikilink")

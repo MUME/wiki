@@ -1,5 +1,7 @@
 ---
 title: Plant
+tags:
+- Plants
 ---
 
 *This article is about a type of mobile. For other plants, see
@@ -12,5 +14,3 @@ Plants are vulnerable to fire, so [spells](spell "wikilink") like
 [Fireball](Fireball "wikilink") deal extra damage to them. Most plants
 have no eyes and thus are not affected by the
 [Blindness](Blindness "wikilink") spell.
-
-[\*](Category:_Plants "wikilink")

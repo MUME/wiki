@@ -1,5 +1,7 @@
 ---
 title: Rules Whois
+tags:
+- Rules
 ---
 
 Your whois must NOT emulate any game output, or in any other way act as
@@ -19,5 +21,3 @@ comply or risk bansite or temporary suspension of your character. All
 whoises must be in English or any of the languages used in Middle Earth.
 
 See also: [Rules Titles](Rules_Titles "wikilink")
-
-[Whois](Category:Rules "wikilink")

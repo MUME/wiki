@@ -1,5 +1,7 @@
 ---
 title: Steel-shafted mattock
+tags:
+- Concussion weapons
 ---
 
 \> **consider mattock**
@@ -14,5 +16,3 @@ slow, and it inflicts considerable damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Steel-shafted mattock](Category:_Concussion_weapons "wikilink")

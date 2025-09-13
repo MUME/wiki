@@ -1,5 +1,8 @@
 ---
 title: Sturdy soft leather sleeves
+tags:
+- Arms items
+- Leather equipment
 ---
 
 \> **look sleeves**
@@ -13,6 +16,3 @@ They are a sturdy pair of soft leather sleeves.
 They weigh four pounds.
 
 {% include Items.md %}
-
-[Sturdy soft leather sleeves](Category:_Leather_equipment "wikilink")
-[Sturdy soft leather sleeves](Category:Arms_items "wikilink")

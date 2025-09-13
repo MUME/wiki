@@ -1,5 +1,7 @@
 ---
 title: Arrow
+tags:
+- Ammunition
 ---
 
 \> **look arrow**
@@ -19,5 +21,3 @@ Its accuracy is awful, and it inflicts very little damage upon hitting.
 It weighs a couple of ounces.
 
 {% include Items.md %}
-
-[Arrow](Category:_Ammunition "wikilink")

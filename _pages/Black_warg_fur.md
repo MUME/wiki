@@ -1,5 +1,7 @@
 ---
 title: Black warg fur
+tags:
+- Cloaks
 ---
 
 \> **look fur**
@@ -20,5 +22,3 @@ Probably the most commonly used [OB](offensive_bonus "wikilink") item,
 it is light compared to a [cave bear fur](cave_bear_fur "wikilink") and
 can be easily switched for a cloak when defence is necessary.
 {% include Items.md %}
-
-[Black warg fur](Category:Cloaks "wikilink")

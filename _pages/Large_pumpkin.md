@@ -1,5 +1,7 @@
 ---
 title: Large pumpkin
+tags:
+- Consumables
 ---
 
 \> **look pumpkin**
@@ -18,5 +20,3 @@ It is a large pumpkin.
 It weighs seven pounds.
 
 {% include Items.md %}
-
-[Large pumpkin](Category:_Consumables "wikilink")

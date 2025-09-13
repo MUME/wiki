@@ -1,5 +1,7 @@
 ---
 title: Nasty orkish fang
+tags:
+- Piercing weapons
 ---
 
 \> **examine fang**
@@ -24,5 +26,3 @@ very fast, and it inflicts average damage upon hitting.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Nasty orkish fang](Category:_Piercing_weapons "wikilink")

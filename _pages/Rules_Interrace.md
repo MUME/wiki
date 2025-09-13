@@ -1,5 +1,7 @@
 ---
 title: Rules Interrace
+tags:
+- Rules
 ---
 
 MUME characters belong either to the good races;
@@ -39,5 +41,3 @@ not), you are breaking one of the most important rules of MUME - this
 one.
 
 See also: [Rules PK](Rules_PK "wikilink")
-
-[Interrace](Category:Rules "wikilink")

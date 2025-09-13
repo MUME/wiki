@@ -1,5 +1,7 @@
 ---
 title: Warhammer
+tags:
+- Concussion weapons
 ---
 
 \> **look hammer**
@@ -18,5 +20,3 @@ average, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Warhammer](Category:_Concussion_weapons "wikilink")

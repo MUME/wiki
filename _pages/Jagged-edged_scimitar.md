@@ -1,5 +1,7 @@
 ---
 title: Jagged-edged scimitar
+tags:
+- Slashing weapons
 ---
 
 \> **look jagged**
@@ -15,5 +17,3 @@ attacking and average while defending; its speed is average, and it
 inflicts average damage upon hitting. It weighs five pounds.
 
 {% include Items.md %}
-
-[Jagged-edged scimitar](Category:_Slashing_weapons "wikilink")

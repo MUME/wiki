@@ -1,8 +1,10 @@
 ---
 title: Legs
 tags:
-  - Equipment
+- Equipment
+- Legs items
 ---
+
 A list of equipment worn on the **legs**.
 
 # Metal
@@ -45,5 +47,3 @@ A list of equipment worn on the **legs**.
 - [slate blue pants](slate_blue_pants "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Legs_items "wikilink")

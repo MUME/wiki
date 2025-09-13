@@ -1,7 +1,8 @@
 ---
 title: The great black scimitar
 tags:
-  - Weapons
+- Slashing weapons
+- Weapons
 ---
 
-[\*](Category:_Slashing_weapons "wikilink")
+

@@ -1,8 +1,10 @@
 ---
 title: Neck
 tags:
-  - Equipment
+- Equipment
+- Neck items
 ---
+
 A list of items worn around the **neck**. Those which are useful are
 almost always magical, with the non magical items being of a purely
 cosmetic or roleplaying nature. Usually magical items worn around the
@@ -28,5 +30,3 @@ neck provide the user with some protection against magic.
 - [sun-emblazoned cloakpin](sun-emblazoned_cloakpin "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Neck_items "wikilink")

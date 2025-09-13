@@ -1,5 +1,7 @@
 ---
 title: Category:Thief
+tags:
+- Classes
 ---
 
-[\*](Category:_Classes "wikilink")
+

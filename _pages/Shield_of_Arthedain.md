@@ -1,5 +1,7 @@
 ---
 title: Shield of Arthedain
+tags:
+- Shields
 ---
 
 The [shield of Arthedain](shield_of_Arthedain "wikilink") is a
@@ -22,5 +24,3 @@ silver.
 `It weighs one stone and two pounds.`
 
 {% include Items.md %}
-
-[Shield of Arthedain](Category:_Shields "wikilink")

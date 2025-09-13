@@ -1,5 +1,7 @@
 ---
 title: Pike
+tags:
+- Stabbing weapons
 ---
 
 \> **consider pike**
@@ -12,5 +14,3 @@ slow, and it inflicts little damage upon hitting.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Pike](Category:_Stabbing_weapons "wikilink")

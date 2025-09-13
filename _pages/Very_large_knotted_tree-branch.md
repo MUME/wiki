@@ -1,5 +1,8 @@
 ---
 title: Very large knotted tree-branch
+tags:
+- Quest items
+- Smiting weapons
 ---
 
 \> **examine branch**
@@ -32,6 +35,3 @@ This item is needed to lift the large jar for the [Beechbone the
 Ent](Quest#Beechbone_the_Ent "wikilink") quest.
 
 {% include Items.md %}
-
-[Very large knotted tree-branch](Category:_Smiting_weapons "wikilink")
-[Very large knotted tree-branch](Category:_Quest_items "wikilink")

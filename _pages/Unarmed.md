@@ -1,5 +1,8 @@
 ---
 title: Unarmed
+tags:
+- Skills
+- Warrior skills
 ---
 
 The **unarmed** combat skill is a [warrior](warrior "wikilink")
@@ -7,6 +10,3 @@ The **unarmed** combat skill is a [warrior](warrior "wikilink")
 that allows them to hit harder and better with their bare hands. Unarmed
 trolls need no [shield](shield "wikilink") to [bash](bash "wikilink")
 successfully.
-
-[Unarmed (Troll)](Category:_Warrior_skills "wikilink") [Unarmed
-(Troll)](Category:_Skills "wikilink")

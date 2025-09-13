@@ -1,5 +1,7 @@
 ---
 title: Boat
+tags:
+- Boats
 ---
 
 *For larger ships, see [ferry](ferry "wikilink").*
@@ -20,5 +22,3 @@ boat.
 - [raft](raft "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:_Boats "wikilink")

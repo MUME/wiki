@@ -1,8 +1,10 @@
 ---
 title: Missile weapon
 tags:
-  - Weapons
+- Missile weapons
+- Weapons
 ---
+
 **[Missile weapons](Missile "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Many
 missile weapons inflict considerable amounts of damage, while requiring
@@ -59,5 +61,3 @@ them in proper areas.
 - [sling](sling "wikilink") - the only sling weapon
 
 {% include Items.md %}
-
-[\*](Category:_Missile_weapons "wikilink")

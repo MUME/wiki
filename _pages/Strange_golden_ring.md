@@ -1,5 +1,7 @@
 ---
 title: Strange golden ring
+tags:
+- Rings
 ---
 
 \>**examine golden**
@@ -20,5 +22,3 @@ Balrog's mini zone. It is also not possible to [rent](rent "wikilink")
 or [hide](hide "wikilink") the ring.
 
 {% include Items.md %}
-
-[Strange golden ring](Category:_Rings "wikilink")

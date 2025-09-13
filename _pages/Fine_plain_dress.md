@@ -1,5 +1,8 @@
 ---
 title: Fine plain dress
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look dress**
@@ -16,6 +19,3 @@ It is a fine plain dress.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Fine plain dress](Category:_Cloth_equipment "wikilink") [Fine plain
-dress](Category:_Body_items "wikilink")

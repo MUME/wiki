@@ -1,5 +1,7 @@
 ---
 title: Fragile parchment
+tags:
+- Miscellaneous equipment
 ---
 
 \> **examine parchment**
@@ -27,5 +29,3 @@ lightning-based attacks, such as [call
 lightning](Call_Lightning "wikilink").
 
 {% include Items.md %}
-
-[Fragile parchment](Category:_Miscellaneous_equipment "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Runic book
+tags:
+- Miscellaneous equipment
 ---
 
 \> **look book**
@@ -29,5 +31,3 @@ Teaches the Seeing [herblore](herblore "wikilink"). Loads on the
 [witch](witch "wikilink") near [Fornost](Fornost "wikilink").
 
 {% include Items.md %}
-
-[Runic book](Category:_Miscellaneous_equipment "wikilink")

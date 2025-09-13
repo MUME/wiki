@@ -1,5 +1,7 @@
 ---
 title: Elven hunting-spear
+tags:
+- Stabbing weapons
 ---
 
 \> **consider spear**
@@ -12,5 +14,3 @@ slow, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Elven hunting-spear](Category:_Stabbing_weapons "wikilink")

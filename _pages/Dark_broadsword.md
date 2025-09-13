@@ -1,5 +1,7 @@
 ---
 title: Dark broadsword
+tags:
+- Slashing weapons
 ---
 
 \> **look sword**
@@ -22,5 +24,3 @@ is fast, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Dark broadsword](Category:_Slashing_weapons "wikilink")

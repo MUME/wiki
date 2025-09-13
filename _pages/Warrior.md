@@ -1,8 +1,10 @@
 ---
 title: Warrior
 tags:
-  - Classes
+- Classes
+- Warrior
 ---
+
 **Warriors** are known to have more strength than the average player.
 This makes them better at hand-to-hand-combat, as they possess skills of
 violence and fighting unequalled by the members of any other
@@ -20,5 +22,3 @@ best class to start off playing as a newbie.
 - [Skills](Skill "wikilink")
 
 {% include ClassRace.md %}
-
-[\*](Category:_Warrior "wikilink")

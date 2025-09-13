@@ -1,5 +1,7 @@
 ---
 title: Sling
+tags:
+- Missile weapons
 ---
 
 \> **consider sling**
@@ -10,5 +12,3 @@ damage.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Sling](Category:_Missile_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Rules Ainur
+tags:
+- Rules
 ---
 
 - [Ainur](Ainur "wikilink") should be visible if they are handing out
@@ -33,5 +35,3 @@ See also: [Ainur](Ainur "wikilink"), [Rules
 Istari](Rules_Istari "wikilink"), [Rules
 Reimbursement](Rules_Reimbursement "wikilink"), [Rules Character
 Separation](Rules_Character_Separation "wikilink")
-
-[Ainur](Category:Rules "wikilink")

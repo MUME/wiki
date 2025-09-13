@@ -1,5 +1,7 @@
 ---
 title: General guide with rare useful information
+tags:
+- Guides
 ---
 
 - This is a general guide with bits of information that are not enough
@@ -911,5 +913,3 @@ Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
     levelling, need "average" command
 - malardil gypsy woman
   - sancs herself
-
-[\*](Category:Guides "wikilink")

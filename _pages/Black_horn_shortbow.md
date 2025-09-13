@@ -1,5 +1,7 @@
 ---
 title: Black horn shortbow
+tags:
+- Missile weapons
 ---
 
 \> **consider bow**
@@ -10,5 +12,3 @@ damage.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Black horn shortbow](Category:_Missile_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Juicy plum
+tags:
+- Consumables
 ---
 
 \> **look plum**
@@ -15,5 +17,3 @@ It is a juicy plum.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Juicy plum](Category:_Consumables "wikilink")

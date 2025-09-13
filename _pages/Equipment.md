@@ -1,9 +1,11 @@
 ---
 title: Equipment
 tags:
-  - Help files
-  - Basics
+- Basics
+- Equipment
+- Help files
 ---
+
 Without any arguments, the **equipment** [command](commands "wikilink")
 simply tells you what [items](item "wikilink") you are
 [wearing](wear "wikilink"), [wielding](wield "wikilink") and
@@ -16,5 +18,3 @@ Often abbreviated to 'eq'.
 
 See also: [Inventory](Inventory "wikilink"), [State](State "wikilink"),
 [Equipment Format](Equipment_Format "wikilink") {% include Items.md %}
-
-[\*](Category:Equipment "wikilink") 

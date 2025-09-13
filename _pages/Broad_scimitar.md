@@ -1,5 +1,7 @@
 ---
 title: Broad scimitar
+tags:
+- Slashing weapons
 ---
 
 \> **consider scimitar**
@@ -12,5 +14,3 @@ slow, and it inflicts average damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Broad scimitar](Category:_Slashing_weapons "wikilink")

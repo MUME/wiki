@@ -1,5 +1,7 @@
 ---
 title: Steel-tipped spear
+tags:
+- Stabbing weapons
 ---
 
 \> **examine spear**
@@ -30,5 +32,3 @@ any [slashing weapon](slashing_weapon "wikilink") for all
 [classes](class "wikilink").
 
 {% include Items.md %}
-
-[Steel-tipped spear](Category:_Stabbing_weapons "wikilink")

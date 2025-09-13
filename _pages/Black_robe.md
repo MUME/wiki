@@ -1,5 +1,8 @@
 ---
 title: Black robe
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look robe**
@@ -22,6 +25,3 @@ It is a black robe.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Black robe](Category:_Cloth_equipment "wikilink") [Black
-robe](Category:_Body_items "wikilink")

@@ -1,5 +1,8 @@
 ---
 title: Guide to local editing with PowTTY
+tags:
+- Guides
+- Software
 ---
 
 This guide that will show you how to enable local editing in PowTTY.
@@ -64,6 +67,3 @@ current editing session.
 If you want to learn about creating fancy whoises complete with ANSI
 color then take a look at [Jahara's ANSI colour
 help](http://sites.google.com/site/jaharamume/index/ansi-colour).
-
-[local edit](Category:_Guides "wikilink") [local
-edit](Category:_Software "wikilink")

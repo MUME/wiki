@@ -1,5 +1,10 @@
 ---
 title: Spell
+tags:
+- Cleric spells
+- Mage spells
+- Shaman spells
+- Spells
 ---
 
 Magic on MUME is fairly complex, but also represented in a fairly simple
@@ -149,7 +154,3 @@ Necromancy
 - [Skills](Skill "wikilink")
 
 __NOEDITSECTION__ __NOTOC__
-
-[\*](Category:Spells "wikilink") [\*](Category:Mage_spells "wikilink")
-[\*](Category:Cleric_spells "wikilink")
-[\*](Category:Shaman_spells "wikilink")

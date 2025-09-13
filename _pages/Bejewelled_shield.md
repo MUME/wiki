@@ -1,5 +1,7 @@
 ---
 title: Bejewelled shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -26,5 +28,3 @@ at the same or even similar weight. They are also rumoured to enhance
 the user's ability to resist [spells](spell "wikilink").
 
 {% include Items.md %}
-
-[Bejewelled shield](Category:_Shields "wikilink")

@@ -1,8 +1,10 @@
 ---
 title: Concussion weapon
 tags:
-  - Weapons
+- Concussion weapons
+- Weapons
 ---
+
 **[Concussion weapons](Concussion_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
 have high strength requirements and are efficient vs. opponents in metal
@@ -50,5 +52,3 @@ have high strength requirements and are efficient vs. opponents in metal
 - [black runed sceptre](black_runed_sceptre "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:_Concussion_weapons "wikilink")

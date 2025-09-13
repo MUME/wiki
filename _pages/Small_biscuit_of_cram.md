@@ -1,5 +1,7 @@
 ---
 title: Small biscuit of cram
+tags:
+- Consumables
 ---
 
 \> **look cram**
@@ -19,5 +21,3 @@ It is a small biscuit of cram.
 It weighs about one pound.
 
 {% include Items.md %}
-
-[Small biscuit of cram](Category:_Consumables "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Gold ring
+tags:
+- Rings
 ---
 
 \> **look gold**
@@ -17,5 +19,3 @@ It is a gold ring.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Gold ring](Category:_Rings "wikilink")

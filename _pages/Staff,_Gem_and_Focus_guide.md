@@ -1,5 +1,7 @@
 ---
 title: Staff, Gem and Focus guide
+tags:
+- Guides
 ---
 
 # Staff, Gem and Focus guide
@@ -487,5 +489,3 @@ agate at the same time:
       - PB is +2 because 5 OB on aggressive transfers into 40% PB on
         wimpy.
     - Total weight 27lbs + helm 6lbs
-
-[\*](Category:Guides "wikilink")

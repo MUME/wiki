@@ -1,5 +1,7 @@
 ---
 title: Tawny bear fur
+tags:
+- Cloaks
 ---
 
 \> **look fur**
@@ -26,5 +28,3 @@ It weighs one stone and five pounds.
 Increases [offensive bonus](offensive_bonus "wikilink") by 2.
 
 {% include Items.md %}
-
-[Tawny bear fur](Category:Cloaks "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Double-headed axe
+tags:
+- Cleaving weapons
 ---
 
 \> **consider axe**
@@ -12,5 +14,3 @@ slow, and it inflicts average damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Double-headed axe](Category:_Cleaving_weapons "wikilink")

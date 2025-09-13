@@ -1,8 +1,10 @@
 ---
 title: Socials
 tags:
-  - Help files
+- Commands
+- Help files
 ---
+
 ac(cuse) che(er) fr(own) mas(sage) sha(ke) sy(mpathize) ad(monish)
 cho(ke) fre(nch) mo(an) shi(ver) tac(kle) ado(re) cla(p) frol(ic)
 mu(tter) shr(ug) tap ag(ree) co(mfort) fu(me) ni(bble) si(gh) tau(nt)
@@ -26,5 +28,3 @@ See also: [Commands](Commands "wikilink"), [Emote](Emote "wikilink"),
 [Acts](Acts "wikilink"), [Flip](Flip "wikilink"),
 [Raise](Raise "wikilink"), [Shake](Shake "wikilink"),
 [Thumbs](Thumbs "wikilink")
-
-[\*](Category:Commands "wikilink")

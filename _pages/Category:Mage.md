@@ -1,5 +1,7 @@
 ---
 title: Category:Mage
+tags:
+- Classes
 ---
 
-[\*](Category:_Classes "wikilink")
+

@@ -1,5 +1,7 @@
 ---
 title: Barbed fang
+tags:
+- Piercing weapons
 ---
 
 \> **look fang**
@@ -21,5 +23,3 @@ very fast, and it inflicts average damage upon hitting.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Barbed fang](Category:_Piercing_weapons "wikilink")

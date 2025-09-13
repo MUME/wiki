@@ -1,5 +1,8 @@
 ---
 title: Sturdy chain mail coif
+tags:
+- Head items
+- Mail equipment
 ---
 
 \>**look coif**
@@ -19,6 +22,3 @@ It is a sturdy chain mail coif.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Sturdy chain mail coif](Category:_Mail_equipment "wikilink") [Sturdy
-chain mail coif](Category:Head_items "wikilink")

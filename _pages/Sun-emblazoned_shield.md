@@ -1,5 +1,7 @@
 ---
 title: Sun-emblazoned shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -32,5 +34,3 @@ shield](a_bejewelled_shield "wikilink"), approx. 3pb less on a full
 metal dwarf warrior with 20 strength.
 
 {% include Items.md %}
-
-[Sun-emblazoned shield](Category:_Shields "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Brown bear fur
+tags:
+- Cloaks
 ---
 
 The **brown bear fur** slightly increases [offensive
@@ -17,5 +19,3 @@ or bought from some tailors for around 8 [silver](silver "wikilink").
 `It weighs one stone and seven pounds.`
 
 {% include Items.md %}
-
-[Brown bear fur](Category:Cloaks "wikilink")

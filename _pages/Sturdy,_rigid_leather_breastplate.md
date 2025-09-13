@@ -1,5 +1,8 @@
 ---
 title: Sturdy, rigid leather breastplate
+tags:
+- Body items
+- Leather equipment
 ---
 
 \> **look breastplate**
@@ -13,7 +16,3 @@ It is a sturdy, rigid leather breastplate.
 It weighs seven pounds.
 
 {% include Items.md %}
-
-[Sturdy, rigid leather
-breastplate](Category:_Leather_equipment "wikilink") [Sturdy, rigid
-leather breastplate](Category:_Body_items "wikilink")

@@ -1,5 +1,8 @@
 ---
 title: Old plain dress
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look dress**
@@ -20,6 +23,3 @@ It weighs about one pound.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Old plain dress](Category:_Cloth_equipment "wikilink") [Old plain
-dress](Category:_Body_items "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Lembas wafer
+tags:
+- Consumables
 ---
 
 \> **examine lembas**
@@ -18,5 +20,3 @@ legs. Although they are relatively expensive, there are a few locations
 in Arda where they load for free.
 
 {% include Items.md %}
-
-[Lembas wafer](Category:Consumables "wikilink")

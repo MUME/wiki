@@ -1,8 +1,8 @@
 ---
 title: The slender Elven sword
 tags:
-  - Weapons
+- Slashing weapons
+- Weapons
 ---
-See also: [Orcrist](Orcrist "wikilink")
 
-[\*](Category:_Slashing_weapons "wikilink")
+See also: [Orcrist](Orcrist "wikilink")

@@ -1,5 +1,8 @@
 ---
 title: Sleep Spell
+tags:
+- Mage spells
+- Spells
 ---
 
 **Sleep** is a level 14 [mage](mage "wikilink")
@@ -20,6 +23,3 @@ cast 'sleep' olog This spell can be learned from:
 [`Lórien Mage Guild`](Lórien_Mage_Guild "wikilink")`               12`
 [`Rivendell Mage Guild`](Rivendell_Mage_Guild "wikilink")`             3`
 [`Tharbad Mage Guild`](Tharbad_Mage_Guild "wikilink")`              16`
-
-[Sleep](Category:Mage_spells "wikilink")
-[Sleep](Category:Spells "wikilink")

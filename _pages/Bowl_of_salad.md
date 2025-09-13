@@ -1,5 +1,7 @@
 ---
 title: Bowl of salad
+tags:
+- Consumables
 ---
 
 \> **look salad**
@@ -16,5 +18,3 @@ They are some salad.
 They weigh a couple of pounds.
 
 {% include Items.md %}
-
-[Bowl of salad](Category:_Consumables "wikilink")

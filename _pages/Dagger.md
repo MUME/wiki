@@ -1,5 +1,7 @@
 ---
 title: Dagger
+tags:
+- Piercing weapons
 ---
 
 A **dagger** is a [piercing weapon](piercing_weapon "wikilink"). Daggers
@@ -39,5 +41,3 @@ follows:
 `It looks quite impossible to mend.`
 
 {% include Items.md %}
-
-[Dagger](Category:_Piercing_weapons "wikilink")

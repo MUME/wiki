@@ -1,5 +1,7 @@
 ---
 title: Turnip
+tags:
+- Consumables
 ---
 
 \> **look turnip**
@@ -17,5 +19,3 @@ It is a turnip.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Turnip](Category:_Consumables "wikilink")

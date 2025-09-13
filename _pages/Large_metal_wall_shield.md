@@ -1,5 +1,7 @@
 ---
 title: Large metal wall shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -26,5 +28,3 @@ A good alternative to the artifact shields, though it requires high
 [strength](strength "wikilink") to use effectively.
 
 {% include Items.md %}
-
-[Large metal wall shield](Category:_Shields "wikilink")

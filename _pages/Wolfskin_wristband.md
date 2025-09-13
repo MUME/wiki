@@ -1,5 +1,7 @@
 ---
 title: Wolfskin wristband
+tags:
+- Wrist items
 ---
 
 \> **look wristband**
@@ -16,5 +18,3 @@ It is a wolfskin wristband.
 It weighs a couple of ounces.
 
 {% include Items.md %}
-
-[Wolfskin wristband](Category:Wrist_items "wikilink")

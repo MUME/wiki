@@ -1,5 +1,7 @@
 ---
 title: MUME:Wiki rules
+tags:
+- Rules
 ---
 
 Any player can edit any page!
@@ -33,5 +35,3 @@ HTML tag. Examples of sensitive information are:
 <spoiler> Secret information </spoiler>
 
 <spoiler> Secret information </spoiler>
-
-[Wiki](Category:Rules "wikilink")

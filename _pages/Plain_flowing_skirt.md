@@ -1,5 +1,8 @@
 ---
 title: Plain flowing skirt
+tags:
+- Cloth equipment
+- Legs items
 ---
 
 \> **look skirt**
@@ -20,6 +23,3 @@ It weighs a couple of pounds.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Plain flowing skirt](Category:_Cloth_equipment "wikilink") [Plain
-flowing skirt](Category:Legs_items "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Straw hat
+tags:
+- Head items
 ---
 
 The **straw hat** is worn on the [head](head "wikilink") and gives a
@@ -17,5 +19,3 @@ from most tailors for around 20 [copper](copper "wikilink").
 `It weighs about one pound.`
 
 {% include Items.md %}
-
-[Straw hat](Category:_Head_items "wikilink")

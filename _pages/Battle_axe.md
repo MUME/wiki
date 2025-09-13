@@ -1,5 +1,7 @@
 ---
 title: Battle axe
+tags:
+- Cleaving weapons
 ---
 
 \> **consider axe**
@@ -12,5 +14,3 @@ slow, and it inflicts average damage upon hitting.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Battle axe](Category:_Cleaving_weapons "wikilink")

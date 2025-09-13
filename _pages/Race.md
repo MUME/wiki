@@ -1,5 +1,7 @@
 ---
 title: Race
+tags:
+- Playable races
 ---
 
 ![](Fellowship.jpg "Fellowship.jpg") in *[The Lord of the Rings: The
@@ -60,5 +62,3 @@ valign="top" style="width:50%; text-align:left;"\|
 - [Racial stats](Stats#Racial_Stats "wikilink")
 
 {% include ClassRace.md %}
-
-[\*](Category:_Playable_races "wikilink")

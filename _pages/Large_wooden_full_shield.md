@@ -1,5 +1,7 @@
 ---
 title: Large wooden full shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -18,5 +20,3 @@ It is a large wooden full shield.
 It weighs one stone and two pounds.
 
 {% include Items.md %}
-
-[Large wooden full shield](Category:_Shields "wikilink")

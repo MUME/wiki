@@ -1,5 +1,7 @@
 ---
 title: Rules Spam
+tags:
+- Rules
 ---
 
 Spamming is an abuse of communication commands since it fills other
@@ -16,5 +18,3 @@ Why?
 - generates Spam and Mume CPU usage.
 
 Demotions will cool down the abusers.
-
-[Spam](Category:Rules "wikilink")

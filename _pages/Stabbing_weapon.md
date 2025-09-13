@@ -1,8 +1,10 @@
 ---
 title: Stabbing weapon
 tags:
-  - Weapons
+- Stabbing weapons
+- Weapons
 ---
+
 **[Stabbing weapons](Stabbing_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They
 are effective vs. [riding](ride "wikilink") enemies and have moderate to
@@ -31,5 +33,3 @@ attackers at bay.
 - [twisted spear](twisted_spear "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:_Stabbing_weapons "wikilink")

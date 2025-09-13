@@ -1,5 +1,8 @@
 ---
 title: Horned helmet
+tags:
+- Head items
+- Metal equipment
 ---
 
 \> **look helmet**
@@ -24,6 +27,3 @@ Increases [offensive bonus](offensive_bonus "wikilink") and decreases
 [dodge bonus](dodge_bonus "wikilink") slightly.
 
 {% include Items.md %}
-
-[Horned helmet](Category:_Metal_equipment "wikilink") [Horned
-helmet](Category:_Head_items "wikilink")

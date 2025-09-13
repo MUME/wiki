@@ -1,5 +1,7 @@
 ---
 title: Black waraxe
+tags:
+- Cleaving weapons
 ---
 
 \> **look axe**
@@ -18,5 +20,3 @@ average, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Black waraxe](Category:_Cleaving_weapons "wikilink")

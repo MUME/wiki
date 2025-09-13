@@ -1,5 +1,7 @@
 ---
 title: Wooden club
+tags:
+- Concussion weapons
 ---
 
 \> **look club**
@@ -20,5 +22,3 @@ average, and it inflicts very little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Wooden club](Category:_Concussion_weapons "wikilink")

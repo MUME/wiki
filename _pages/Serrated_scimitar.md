@@ -1,5 +1,7 @@
 ---
 title: Serrated scimitar
+tags:
+- Slashing weapons
 ---
 
 \> **consider scimitar**
@@ -12,5 +14,3 @@ slow, and it inflicts average damage upon hitting.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Serrated scimitar](Category:_Slashing_weapons "wikilink")

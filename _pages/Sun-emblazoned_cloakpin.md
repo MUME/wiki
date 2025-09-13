@@ -1,5 +1,7 @@
 ---
 title: Sun-emblazoned cloakpin
+tags:
+- Neck items
 ---
 
 \> **look cloakpin**
@@ -19,5 +21,3 @@ It is a sun-emblazoned cloakpin.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Sun-emblazoned cloakpin](Category:Neck_items "wikilink")

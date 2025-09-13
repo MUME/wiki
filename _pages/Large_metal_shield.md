@@ -1,5 +1,7 @@
 ---
 title: Large metal shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -19,5 +21,3 @@ It is a large metal shield.
 It weighs twelve pounds.
 
 {% include Items.md %}
-
-[Large metal shield](Category:_Shields "wikilink")

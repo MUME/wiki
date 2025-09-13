@@ -1,5 +1,8 @@
 ---
 title: Roughly stitched cloak
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 \>**examine cloak**
@@ -23,6 +26,3 @@ Compared to [a forest green cloak](a_forest_green_cloak "wikilink") it
 gives slightly more defence and less movement.
 
 {% include Items.md %}
-
-[Roughly stitched cloak](Category:_Cloth_equipment "wikilink") [Roughly
-stitched cloak](Category:Cloaks "wikilink")

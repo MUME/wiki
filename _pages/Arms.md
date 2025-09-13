@@ -1,8 +1,10 @@
 ---
 title: Arms
 tags:
-  - Equipment
+- Arms items
+- Equipment
 ---
+
 A list of equipment worn on the **arms**.
 
 # Metal
@@ -38,5 +40,3 @@ A list of equipment worn on the **arms**.
 - [cotton sleeves](cotton_sleeves "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Arms_items "wikilink")

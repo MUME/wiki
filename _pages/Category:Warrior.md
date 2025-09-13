@@ -1,5 +1,7 @@
 ---
 title: Category:Warrior
+tags:
+- Classes
 ---
 
-[\*](Category:_Classes "wikilink")
+

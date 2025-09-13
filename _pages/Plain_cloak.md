@@ -1,5 +1,8 @@
 ---
 title: Plain cloak
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 \> **look cloak**
@@ -23,6 +26,3 @@ It weighs three pounds.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Plain cloak](Category:_Cloth_equipment "wikilink") [Plain
-cloak](Category:Cloaks "wikilink")

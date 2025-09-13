@@ -1,5 +1,7 @@
 ---
 title: Sabre
+tags:
+- Slashing weapons
 ---
 
 The **sabre** is a [slashing weapon](slashing_weapon "wikilink"). It is
@@ -16,5 +18,3 @@ weaponsmiths.
 `It weighs a couple of pounds.`
 
 {% include Items.md %}
-
-[Sabre](Category:_Slashing_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Small wooden shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -16,5 +18,3 @@ It is a small wooden shield.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Small wooden shield](Category:_Shields "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Rules Character Separation
+tags:
+- Rules
 ---
 
 The basic rule here, is that character knowledge separation must exist.
@@ -32,5 +34,3 @@ Lastly, while keeping your characters separate you should also take care
 not to break the character separation of others such as
 [narrating](narrate "wikilink") or in any other way publicising other
 people's characters.
-
-[Character Separation](Category:Rules "wikilink")

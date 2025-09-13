@@ -1,5 +1,8 @@
 ---
 title: Feathered hat
+tags:
+- Cloth equipment
+- Head items
 ---
 
 \> **look hat**
@@ -19,6 +22,3 @@ It is a feathered hat.
 It weighs half a pound.
 
 {% include Items.md %}
-
-[Feathered hat](Category:_Cloth_equipment "wikilink") [Feathered
-hat](Category:_Head_items "wikilink")

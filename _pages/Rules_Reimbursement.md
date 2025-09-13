@@ -1,5 +1,7 @@
 ---
 title: Rules Reimbursement
+tags:
+- Rules
 ---
 
 In general, **reimbursements** are not given on [MUME](MUME "wikilink").
@@ -21,5 +23,3 @@ Reimbursements are never given for the following things:
 
 See also: [Rules Reimbursement
 Policy](Rules_Reimbursement_Policy "wikilink") for examples.
-
-[Reimbursement](Category:Rules "wikilink")

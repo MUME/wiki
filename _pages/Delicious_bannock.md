@@ -1,5 +1,7 @@
 ---
 title: Delicious bannock
+tags:
+- Consumables
 ---
 
 \> **look bannock**
@@ -19,5 +21,3 @@ is taught by the [Lonely Giant](Quest#The_Lonely_Giant "wikilink") if
 you complete his quest. Bannocks are light, but very filling.
 
 {% include Items.md %}
-
-[Delicious bannock](Category:Consumables "wikilink")

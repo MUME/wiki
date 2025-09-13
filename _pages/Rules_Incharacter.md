@@ -1,5 +1,7 @@
 ---
 title: Rules Incharacter
+tags:
+- Rules
 ---
 
 Posting on the In-Character boards should be strictly as the name
@@ -19,5 +21,3 @@ If in doubt, avoid putting it in a post. Note that the board is
 moderated.
 
 See also: [Rules Posting](Rules_Posting "wikilink")
-
-[Incharacter](Category:Rules "wikilink")

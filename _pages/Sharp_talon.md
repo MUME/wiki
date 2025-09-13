@@ -1,5 +1,7 @@
 ---
 title: Sharp talon
+tags:
+- Slashing weapons
 ---
 
 \> **consider talon**
@@ -12,5 +14,3 @@ average, and it inflicts little damage upon hitting.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Sharp talon](Category:_Slashing_weapons "wikilink")

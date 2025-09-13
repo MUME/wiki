@@ -1,5 +1,7 @@
 ---
 title: Rules Mappers
+tags:
+- Rules
 ---
 
 Please note that while mappers are legal to use on MUME, that does not
@@ -26,5 +28,3 @@ this rule.
 
 See Also: [Rules Actions](Rules_Actions "wikilink"),
 [Mappers](Mapper "wikilink")
-
-[Mappers](Category:Rules "wikilink")

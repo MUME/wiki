@@ -1,8 +1,10 @@
 ---
 title: Mobile
 tags:
-  - Help files
+- Help files
+- Mobiles
 ---
+
 PC is sometimes used as a short form of Player Character, which simply
 means a player.
 
@@ -20,5 +22,3 @@ name each time.
 
 If you are alone in a room with a mobile and speak, of course, the mob
 will assume you're speaking to him.
-
-[\*](Category:Mobiles "wikilink")

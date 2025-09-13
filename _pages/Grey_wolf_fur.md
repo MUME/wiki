@@ -1,5 +1,7 @@
 ---
 title: Grey wolf fur
+tags:
+- Cloaks
 ---
 
 \> **look fur**
@@ -20,5 +22,3 @@ It weighs twelve pounds.
 Slightly increases [offensive bonus](offensive_bonus "wikilink").
 
 {% include Items.md %}
-
-[Grey wolf fur](Category:Cloaks "wikilink")

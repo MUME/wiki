@@ -1,5 +1,7 @@
 ---
 title: Zaugurz orc guide
+tags:
+- Guides
 ---
 
 ## Zaugurz Orc Information
@@ -389,5 +391,3 @@ title: Zaugurz orc guide
     on Urdan patrol leaders, and (occasionally) on cunning shaman.
 - To minmax orc moves, avoid terrain with Forest, Field, Brush,
   Shallows(source: <https://mume.org/help/terrain>)
-
-[\*](Category:Guides "wikilink")

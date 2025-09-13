@@ -1,5 +1,8 @@
 ---
 title: Sturdy, soft leather jerkin
+tags:
+- Body items
+- Leather equipment
 ---
 
 \> **look jerkin**
@@ -21,6 +24,3 @@ It is a sturdy, soft leather jerkin.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Sturdy, soft leather jerkin](Category:_Leather_equipment "wikilink")
-[Sturdy, soft leather jerkin](Category:_Body_items "wikilink")

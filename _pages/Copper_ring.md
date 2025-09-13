@@ -1,5 +1,7 @@
 ---
 title: Copper ring
+tags:
+- Rings
 ---
 
 \>**examine copper**
@@ -26,5 +28,3 @@ rumoured to give a bonus to the character's [spell](spell "wikilink")
 [casting](cast "wikilink") and ability to resist magical attacks.
 
 {% include Items.md %}
-
-[Copper ring](Category:_Rings "wikilink")

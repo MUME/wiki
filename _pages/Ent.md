@@ -1,5 +1,7 @@
 ---
 title: Ent
+tags:
+- Ents
 ---
 
 **Ents**, Shepherds of the Trees, created at the prayer of Yavanna the
@@ -26,5 +28,3 @@ and some of them [track](track "wikilink"), and they
 [damage](state "wikilink") your [weapon](weapon "wikilink") and
 [shield](shield "wikilink") if you [parry](parry "wikilink") any of
 their attacks.
-
-[\*](Category:_Ents "wikilink")

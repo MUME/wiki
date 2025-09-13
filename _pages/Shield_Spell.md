@@ -1,5 +1,9 @@
 ---
 title: Shield Spell
+tags:
+- Mage spells
+- Shaman spells
+- Spells
 ---
 
 **Shield** is a level 13 [mage](mage "wikilink")
@@ -22,7 +26,3 @@ This spell can be learned from:
 ## See also:
 
 - [Armour](Armour_Spell "wikilink"), [Sanctuary](Sanctuary "wikilink")
-
-[Shield](Category:Spells "wikilink")
-[Shield](Category:Mage_spells "wikilink")
-[Shield](Category:Shaman_spells "wikilink")

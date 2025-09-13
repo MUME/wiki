@@ -1,5 +1,7 @@
 ---
 title: Warsword
+tags:
+- Smiting weapons
 ---
 
 \> **consider sword**
@@ -10,5 +12,3 @@ It is excellent while attacking and average while defending; its speed
 is very slow, and it inflicts massive damage upon hitting.
 
 {% include Items.md %}
-
-[Warsword](Category:_Smiting_weapons "wikilink")

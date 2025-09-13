@@ -1,5 +1,7 @@
 ---
 title: Flagon
+tags:
+- Consumables
 ---
 
 \> **examine flagon**
@@ -21,5 +23,3 @@ impossible to understand. For more information, read about being
 flagon will be mead, you can empty it and refill with anything you like.
 
 {% include Items.md %}
-
-[Flagon](Category:Consumables "wikilink")

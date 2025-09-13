@@ -1,5 +1,8 @@
 ---
 title: Reinforced leather helmet
+tags:
+- Head items
+- Leather equipment
 ---
 
 \> **look helmet**
@@ -19,6 +22,3 @@ It is a reinforced leather helmet.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Reinforced leather helmet](Category:_Leather_equipment "wikilink")
-[Reinforced leather helmet](Category:_Head_items "wikilink")

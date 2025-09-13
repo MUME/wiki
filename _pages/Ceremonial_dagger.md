@@ -1,5 +1,7 @@
 ---
 title: Ceremonial dagger
+tags:
+- Piercing weapons
 ---
 
 \> **look dagger**
@@ -28,5 +30,3 @@ It weighs about one pound.
 Probably the dagger that gives most defence bonus.
 
 {% include Items.md %}
-
-[Ceremonial dagger](Category:_Piercing_weapons "wikilink")

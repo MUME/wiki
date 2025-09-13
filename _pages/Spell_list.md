@@ -1,5 +1,7 @@
 ---
 title: Spell list
+tags:
+- Spells
 ---
 
 `      Level    Magic User spells:            Cleric spells:`
@@ -64,5 +66,3 @@ title: Spell list
 `                                  Corrupt`
 
 See also [:Category:Spells](:Category:Spells "wikilink")
-
-[\*](Category:_Spells "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Super Mobile
+tags:
+- Mobiles
 ---
 
 Some mobiles are stronger than others and upon their defeat, a greater
@@ -319,5 +321,3 @@ sword, spell, or bow.
 ![](Balrog.jpg "Balrog.jpg")''\]\] Durin's Bane, a creature not to be
 taken lightly even by the greatest of legends. The rewards for his
 defeat are of equal value.
-
-[\*](Category:_Mobiles "wikilink")

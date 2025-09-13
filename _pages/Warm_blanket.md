@@ -1,5 +1,8 @@
 ---
 title: Warm blanket
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 \> **look blanket**
@@ -15,6 +18,3 @@ It is a warm blanket.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Warm blanket](Category:_Cloth_equipment "wikilink") [Warm
-blanket](Category:Cloaks "wikilink")

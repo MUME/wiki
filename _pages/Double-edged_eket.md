@@ -1,5 +1,7 @@
 ---
 title: Double-edged eket
+tags:
+- Piercing weapons
 ---
 
 `A short, broad stabbing blade lies here.`
@@ -15,5 +17,3 @@ title: Double-edged eket
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Double-edged eket](Category:_Piercing_weapons "wikilink")

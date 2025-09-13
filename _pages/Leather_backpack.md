@@ -1,5 +1,7 @@
 ---
 title: Leather backpack
+tags:
+- Containers
 ---
 
 \> **look backpack**
@@ -26,5 +28,3 @@ It weighs four pounds.
 Can contain up to 100 pounds of items.
 
 {% include Items.md %}
-
-[Leather backpack](Category:_Containers "wikilink")

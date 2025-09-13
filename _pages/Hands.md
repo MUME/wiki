@@ -1,8 +1,10 @@
 ---
 title: Hands
 tags:
-  - Equipment
+- Equipment
+- Hands items
 ---
+
 A list of equipment worn on the **hands**.
 
 # Metal
@@ -31,5 +33,3 @@ A list of equipment worn on the **hands**.
 - [warm wool gloves](warm_wool_gloves "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:Hands_items "wikilink")

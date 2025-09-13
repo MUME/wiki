@@ -1,5 +1,8 @@
 ---
 title: Wolf fur vest
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look vest**
@@ -13,6 +16,3 @@ It is a wolf fur vest.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Wolf fur vest](Category:_Cloth_equipment "wikilink") [Wolf fur
-vest](Category:_Body_items "wikilink")

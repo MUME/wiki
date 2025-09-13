@@ -1,8 +1,10 @@
 ---
 title: Shop
 tags:
-  - Help files
+- Help files
+- Shops
 ---
+
 **Shop**s are places where the adventurer may purchase
 [equipment](equipment "wikilink") for his quests, and where he may sell
 his treasure if he should manage to survive the perils with his life and
@@ -17,5 +19,3 @@ you attacking before you'd even really begun.
 
 See also: [Shop commands](Shop_commands "wikilink"),
 [Citizen](Citizen "wikilink")
-
-[\*](Category:_Shops "wikilink")

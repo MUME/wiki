@@ -1,5 +1,7 @@
 ---
 title: Lance
+tags:
+- Charging weapons
 ---
 
 \> **consider lance**
@@ -12,5 +14,3 @@ average, and it inflicts very little damage upon hitting.
 It weighs five pounds.
 
 {% include Items.md %}
-
-[Lance](Category:_Charging_weapons "wikilink")

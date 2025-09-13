@@ -1,5 +1,7 @@
 ---
 title: Rules Reimbursement Policy
+tags:
+- Rules
 ---
 
 Here are some examples of former policies as guidelines when you want
@@ -102,5 +104,3 @@ you should ask in a hopeless situation on the off chance. If you have
 any doubts, assume we will not change matters.
 
 See also: [Rules Reimbursement](Rules_Reimbursement "wikilink")
-
-[Reimbursement Policy](Category:Rules "wikilink")

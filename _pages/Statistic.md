@@ -1,5 +1,7 @@
 ---
 title: Statistic
+tags:
+- Statistics
 ---
 
 *Strength redirects here. For the spell with the same name, see
@@ -48,5 +50,3 @@ of other areas.
 - [Newbie Base Abilities](Newbie_Base_Abilities "wikilink"), [Guide to
   advanced character
   statistics](Guide_to_advanced_character_statistics "wikilink")
-
-[\*](Category:_Statistics "wikilink")

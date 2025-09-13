@@ -1,5 +1,7 @@
 ---
 title: Rules Accounts
+tags:
+- Rules
 ---
 
 1\. Players can only have _ONE_ account.
@@ -17,5 +19,3 @@ title: Rules Accounts
 N.b. If you have accidentally made more than one account, please stop
 playing all of them except one. Then contact an Arata and ask for your
 other accounts to be merged together.
-
-[Accounts](Category:Rules "wikilink")

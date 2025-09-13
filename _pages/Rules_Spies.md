@@ -1,5 +1,7 @@
 ---
 title: Rules Spies
+tags:
+- Rules
 ---
 
 It is unacceptable to use a "throw-away" character to scout out the
@@ -9,5 +11,3 @@ checking how many orcs are on the GER, or anything else you might care
 to imagine, with regard to the war. Further, this rule does not apply
 solely to newbies - it applies to any obvious "throw-away" character. If
 in any doubt whether this applies to your case - don't do it.
-
-[Spies](Category:Rules "wikilink")

@@ -1,5 +1,8 @@
 ---
 title: Metal helmet
+tags:
+- Head items
+- Metal equipment
 ---
 
 The **metal helmet** is worn on the [head](head "wikilink"). It provides
@@ -19,6 +22,3 @@ bonus](offensive_bonus "wikilink"). It is worth around 2
 `It weighs seven pounds.`
 
 {% include Items.md %}
-
-[Metal helmet](Category:_Metal_equipment "wikilink") [Metal
-helmet](Category:_Head_items "wikilink")

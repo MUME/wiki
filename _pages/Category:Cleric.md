@@ -1,5 +1,7 @@
 ---
 title: Category:Cleric
+tags:
+- Classes
 ---
 
-[\*](Category:_Classes "wikilink")
+

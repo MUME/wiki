@@ -1,8 +1,10 @@
 ---
 title: Scout Guide
 tags:
-  - Newbie Help
+- Guides
+- Newbie Help
 ---
+
 Credits: Originally By Locram
 ([source](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970)).
 Please edit, update, and improve!
@@ -240,5 +242,3 @@ all the time. 2-3 lembas wafers, a small water container, a light source
 and a butcher knife should be your only excess equipment. Having a pale
 blue stone, preferably a focused one, and having the traveling lore
 and/or orkish draught will aid you greatly when pking at legend.
-
-[\*](Category:Guides "wikilink") 

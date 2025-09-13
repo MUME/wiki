@@ -1,5 +1,8 @@
 ---
 title: Thick wool vest
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look vest**
@@ -26,6 +29,3 @@ It is a thick wool vest.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Thick wool vest](Category:_Cloth_equipment "wikilink") [Thick wool
-vest](Category:_Body_items "wikilink")

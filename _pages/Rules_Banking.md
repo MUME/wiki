@@ -1,5 +1,7 @@
 ---
 title: Rules Banking
+tags:
+- Rules
 ---
 
 **Banking** is storing items and [gold](gold "wikilink") so that you may
@@ -49,5 +51,3 @@ exchanged equipment, though usually the punishment is much harsher.
 
 See also: [Rules Character
 Separation](Rules_Character_Separation "wikilink")
-
-[Banking](Category:Rules "wikilink")

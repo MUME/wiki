@@ -1,5 +1,7 @@
 ---
 title: Broad spear
+tags:
+- Stabbing weapons
 ---
 
 \> **consider spear**
@@ -12,5 +14,3 @@ and it inflicts little damage upon hitting.
 It weighs four pounds.
 
 {% include Items.md %}
-
-[Broad spear](Category:_Stabbing_weapons "wikilink")

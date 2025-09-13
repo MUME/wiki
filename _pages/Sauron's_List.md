@@ -1,5 +1,7 @@
 ---
 title: Sauron's List
+tags:
+- Rules
 ---
 
 **Sauron's list** is a list of people acknowledged by
@@ -74,5 +76,3 @@ a mud where people don't kill each other. Therefore the dark-white race
 war exists, and therefore normal playerkilling should be discouraged.
 
 See also: [Rules PK](Rules_PK "wikilink")
-
-[Sauron](Category:Rules "wikilink")

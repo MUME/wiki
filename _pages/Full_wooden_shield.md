@@ -1,5 +1,7 @@
 ---
 title: Full wooden shield
+tags:
+- Shields
 ---
 
 \> **look shield**
@@ -17,5 +19,3 @@ It is a full wooden shield.
 It weighs one stone.
 
 {% include Items.md %}
-
-[Full wooden shield](Category:_Shields "wikilink")

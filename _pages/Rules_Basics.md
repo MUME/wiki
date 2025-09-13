@@ -1,5 +1,7 @@
 ---
 title: Rules Basics
+tags:
+- Rules
 ---
 
 Some of the illegal things on MUME:
@@ -20,5 +22,3 @@ killing them when having the chance).
 
 7\. In any way creating bots within your client to perform tasks while
 you are not there.
-
-[Basics](Category:Rules "wikilink")

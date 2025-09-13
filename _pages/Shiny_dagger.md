@@ -1,5 +1,7 @@
 ---
 title: Shiny dagger
+tags:
+- Piercing weapons
 ---
 
 The **shiny dagger** is a [piercing weapon](piercing_weapon "wikilink").
@@ -19,5 +21,3 @@ some weaponsmiths for around 1 [gold](gold "wikilink") and 13
 `It weighs half a pound.`
 
 {% include Items.md %}
-
-[Shiny dagger](Category:_Piercing_weapons "wikilink")

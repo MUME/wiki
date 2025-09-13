@@ -1,5 +1,8 @@
 ---
 title: Forest green cloak
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 ## Statistics
@@ -25,6 +28,3 @@ wearer +5 [dodge bonus](dodge_bonus "wikilink") and is said to increase
 movement regeneration.
 
 {% include Items.md %}
-
-[Forest green cloak](Category:_Cloth_equipment "wikilink") [Forest green
-cloak](Category:Cloaks "wikilink")

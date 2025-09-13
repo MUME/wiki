@@ -1,8 +1,10 @@
 ---
 title: Cleric
 tags:
-  - Classes
+- Classes
+- Cleric
 ---
+
 The **cleric** is the more supportive [spell](spell "wikilink") caster.
 The spells of [wisdom](wisdom "wikilink") offer peace, blessing and
 healing as well as protection. While clerics are defensively oriented
@@ -23,5 +25,3 @@ damage](sanctuary "wikilink") to allies and
   Guide](Alweon%27s_Versatile_Caster_Newbie_Guide "wikilink")
 
 {% include ClassRace.md %}
-
-[\*](Category:_Cleric "wikilink")

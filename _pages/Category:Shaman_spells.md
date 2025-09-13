@@ -1,6 +1,8 @@
 ---
 title: Category:Shaman spells
+tags:
+- Shaman
+- Spells
 ---
 
-[Spells, Shaman](Category:Shaman "wikilink") [\*Shaman
-spells](Category:Spells "wikilink")
+

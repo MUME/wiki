@@ -1,5 +1,7 @@
 ---
 title: Rules Actions
+tags:
+- Rules
 ---
 
 An 'action' (or a 'trigger') is allowing a client to automatically react
@@ -37,5 +39,3 @@ See Also: [Rules Robot](Rules_Robot "wikilink")
 (By Justice Post 35:) All actions in a PK SITUATION, which ENHANCE a
 player's tactical advantage over another player are illegal. If you are
 in doubt, DISABLE all actions in PK situations.
-
-[Actions](Category:Rules "wikilink")

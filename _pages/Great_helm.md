@@ -1,5 +1,8 @@
 ---
 title: Great helm
+tags:
+- Head items
+- Metal equipment
 ---
 
 \> **look helm**
@@ -22,6 +25,3 @@ It is a great helm.
 It weighs seven pounds.
 
 {% include Items.md %}
-
-[Great helm](Category:_Metal_equipment "wikilink") [Great
-helm](Category:_Head_items "wikilink")

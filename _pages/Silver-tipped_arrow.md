@@ -1,5 +1,7 @@
 ---
 title: Silver-tipped arrow
+tags:
+- Ammunition
 ---
 
 \> **consider arrow**
@@ -13,5 +15,3 @@ It weighs about an ounce.
 Effective against undead.
 
 {% include Items.md %}
-
-[Silver-tipped arrow](Category:_Ammunition "wikilink")

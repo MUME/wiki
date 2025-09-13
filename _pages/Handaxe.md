@@ -1,5 +1,7 @@
 ---
 title: Handaxe
+tags:
+- Cleaving weapons
 ---
 
 \> **consider axe**
@@ -12,5 +14,3 @@ average, and it inflicts little damage upon hitting.
 It weighs three pounds.
 
 {% include Items.md %}
-
-[Handaxe](Category:_Cleaving_weapons "wikilink")

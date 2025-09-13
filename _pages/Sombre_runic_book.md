@@ -1,5 +1,7 @@
 ---
 title: Sombre runic book
+tags:
+- Miscellaneous equipment
 ---
 
 The **sombre runic book** loads on a [spirit](spirit "wikilink") in the
@@ -24,5 +26,3 @@ can be [read](read "wikilink") to learn the
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Sombre runic book](Category:_Miscellaneous_equipment "wikilink")

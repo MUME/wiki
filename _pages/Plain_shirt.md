@@ -1,5 +1,8 @@
 ---
 title: Plain shirt
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look shirt**
@@ -23,6 +26,3 @@ It weighs a couple of pounds.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Plain shirt](Category:_Cloth_equipment "wikilink") [Plain
-shirt](Category:_Body_items "wikilink")

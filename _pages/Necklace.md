@@ -1,5 +1,7 @@
 ---
 title: Necklace
+tags:
+- Neck items
 ---
 
 *For a list of all necklaces, see [neck](neck "wikilink").*
@@ -29,5 +31,3 @@ This kind of necklace is rumoured to give some kind of protection vs
 [spells](spells "wikilink") of a certain class.
 
 {% include Items.md %}
-
-[Necklace](Category:Neck_items "wikilink")

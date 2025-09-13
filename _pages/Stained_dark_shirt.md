@@ -1,5 +1,8 @@
 ---
 title: Stained dark shirt
+tags:
+- Body items
+- Cloth equipment
 ---
 
 \> **look shirt**
@@ -22,6 +25,3 @@ It is a stained dark shirt.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Stained dark shirt](Category:_Cloth_equipment "wikilink") [Stained dark
-shirt](Category:_Body_items "wikilink")

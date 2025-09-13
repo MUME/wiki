@@ -1,5 +1,8 @@
 ---
 title: Fine grey cloak
+tags:
+- Cloaks
+- Cloth equipment
 ---
 
 \>**examine cloak**
@@ -22,6 +25,3 @@ any cloak in the game (+10db) and is therefore a prime piece of
 equipment for characters seeking a little more defense.
 
 {% include Items.md %}
-
-[Fine grey cloak](Category:_Cloth_equipment "wikilink") [Fine grey
-cloak](Category:_Cloaks "wikilink")

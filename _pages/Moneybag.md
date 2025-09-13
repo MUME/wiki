@@ -1,5 +1,7 @@
 ---
 title: Moneybag
+tags:
+- Containers
 ---
 
 \> **look moneybag**
@@ -25,5 +27,3 @@ Putting your gold in a moneybag prevents it from being
 [stolen](steal "wikilink") by [mobiles](mobile "wikilink").
 
 {% include Items.md %}
-
-[Moneybag](Category:_Containers "wikilink")

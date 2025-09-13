@@ -1,5 +1,7 @@
 ---
 title: Small wooden target shield
+tags:
+- Shields
 ---
 
 The **small wooden target shield** is a small
@@ -18,5 +20,3 @@ armourers for around 5 [silver](silver "wikilink").
 `It weighs four pounds.`
 
 {% include Items.md %}
-
-[Small wooden target shield](Category:_Shields "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Rules Posting
+tags:
+- Rules
 ---
 
 These are very simple rules to follow on all mortal boards. If you fail
@@ -53,5 +55,3 @@ someone if you are relatively new to posting and posting-etiquette.
 
 See also: [Board](Board "wikilink"), [Rules
 Incharacter](Rules_Incharacter "wikilink")
-
-[Posting](Category:Rules "wikilink")

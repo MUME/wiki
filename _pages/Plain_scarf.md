@@ -1,5 +1,8 @@
 ---
 title: Plain scarf
+tags:
+- Cloth equipment
+- Neck items
 ---
 
 \> **look scarf**
@@ -23,6 +26,3 @@ It weighs about one pound.
 Can be [dyed](dye "wikilink") different colours.
 
 {% include Items.md %}
-
-[Plain scarf](Category:_Cloth_equipment "wikilink") [Plain
-scarf](Category:Neck_items "wikilink")

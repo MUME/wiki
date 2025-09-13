@@ -1,5 +1,7 @@
 ---
 title: Rules Titles
+tags:
+- Rules
 ---
 
 [Heroes](Hero "wikilink") and [legends](legend "wikilink") on MUME can
@@ -24,5 +26,3 @@ must be in English or any of the languages used in Middle Earth.
 
 All titles are subject to veto by the higher [gods](Ainur "wikilink"),
 namely Shaper or above.
-
-[Titles](Category:Rules "wikilink")

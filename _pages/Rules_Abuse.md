@@ -1,5 +1,7 @@
 ---
 title: Rules Abuse
+tags:
+- Rules
 ---
 
 In general, activities which take advantage of game features and the
@@ -30,5 +32,3 @@ unlikely things are illegal. For example:
 ` if you are slept and unable therefore to use 'tell', communicating to`
 ` a person RL (phone, IM, etc.) in order to circumvent your current`
 ` inability to tell is patently illegal.`
-
-[Abuse](Category:Rules "wikilink")

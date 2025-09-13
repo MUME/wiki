@@ -1,8 +1,10 @@
 ---
 title: Thief
 tags:
-  - Classes
+- Classes
+- Thief
 ---
+
 *For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
@@ -92,5 +94,3 @@ useful.
 - [Skills](Skill "wikilink")
 
 {% include ClassRace.md %}
-
-[\*](Category:_Thief "wikilink")

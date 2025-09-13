@@ -1,5 +1,8 @@
 ---
 title: Soft cloth cap
+tags:
+- Cloth equipment
+- Head items
 ---
 
 \> **look cap**
@@ -22,6 +25,3 @@ It is a soft cloth cap'.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Soft cloth cap](Category:_Cloth_equipment "wikilink") [Soft cloth
-cap](Category:_Head_items "wikilink")

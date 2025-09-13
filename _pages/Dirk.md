@@ -1,5 +1,7 @@
 ---
 title: Dirk
+tags:
+- Piercing weapons
 ---
 
 \> **look dirk**
@@ -23,5 +25,3 @@ very fast, and it inflicts little damage upon hitting.
 It weighs a couple of pounds.
 
 {% include Items.md %}
-
-[Dirk](Category:_Piercing_weapons "wikilink")

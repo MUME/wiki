@@ -1,5 +1,7 @@
 ---
 title: Musty loaf of bread
+tags:
+- Consumables
 ---
 
 \> **look bread**
@@ -16,5 +18,3 @@ It is a musty loaf of bread.
 It weighs a few ounces.
 
 {% include Items.md %}
-
-[Musty loaf of bread](Category:_Consumables "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Class
+tags:
+- Classes
 ---
 
 ![](Moria_fellowship.jpg "Moria_fellowship.jpg") in
@@ -44,5 +46,3 @@ more suitable for certain classes than others.
   and the best at hand-to-hand combat
 
 {% include ClassRace.md %}
-
-[\*](Category:Classes "wikilink")

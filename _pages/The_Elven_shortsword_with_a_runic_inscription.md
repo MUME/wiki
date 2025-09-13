@@ -1,8 +1,8 @@
 ---
 title: The Elven shortsword with a runic inscription
 tags:
-  - Weapons
+- Piercing weapons
+- Weapons
 ---
-See also: [Sting](Sting "wikilink")
 
-[\*](Category:_Piercing_weapons "wikilink")
+See also: [Sting](Sting "wikilink")

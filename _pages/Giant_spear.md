@@ -1,5 +1,7 @@
 ---
 title: Giant spear
+tags:
+- Stabbing weapons
 ---
 
 \> **consider spear**
@@ -12,5 +14,3 @@ and it inflicts considerable damage upon hitting.
 It weighs six pounds.
 
 {% include Items.md %}
-
-[Giant spear](Category:_Stabbing_weapons "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: MUME VIII
+tags:
+- MUME Versions
 ---
 
 In addition to recent additions, this new version of
@@ -90,5 +92,3 @@ citizenship in Anduin Vale (if any) and you will forget most of the
 languages you have learned.
 
 *MUME VIII planners and coders: Dáin, Gothmog, Frór, and Manwë.*
-
-[MUME 8](Category:MUME_Versions "wikilink")

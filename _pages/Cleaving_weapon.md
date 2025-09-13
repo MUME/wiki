@@ -1,8 +1,10 @@
 ---
 title: Cleaving weapon
 tags:
-  - Weapons
+- Cleaving weapons
+- Weapons
 ---
+
 **[Cleaving weapons](Cleaving_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Most
 are efficient vs. wood and have high [strength](strength "wikilink")
@@ -43,5 +45,3 @@ feet firm on the ground.
 - [the Axe of Durin](the_Axe_of_Durin "wikilink")
 
 {% include Items.md %}
-
-[\*](Category:_Cleaving_weapons "wikilink")

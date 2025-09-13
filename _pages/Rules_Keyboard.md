@@ -1,5 +1,7 @@
 ---
 title: Rules Keyboard
+tags:
+- Rules
 ---
 
 It is forbidden for more than one person to use the same keyboard at the
@@ -20,5 +22,3 @@ computer or a computer lab.
 
 See also: [Rules Accounts](Rules_Accounts "wikilink"), [Rules Character
 Separation](Rules_Character_Separation "wikilink")
-
-[Keyboard](Category:Rules "wikilink")

@@ -1,5 +1,7 @@
 ---
 title: Rules Communication
+tags:
+- Rules
 ---
 
 These rules regulate how you're expected to make yourself heard/seen in
@@ -32,5 +34,3 @@ Titles](Rules_Titles "wikilink")
 
 See also: [Rules Character
 Separation](Rules_Character_Separation "wikilink")
-
-[Communication](Category:Rules "wikilink")

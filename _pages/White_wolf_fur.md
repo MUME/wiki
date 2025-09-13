@@ -1,5 +1,7 @@
 ---
 title: White wolf fur
+tags:
+- Cloaks
 ---
 
 \> **examine fur**
@@ -23,5 +25,3 @@ It weighs twelve pounds.
 Increases [offensive bonus](offensive_bonus "wikilink") slightly.
 
 {% include Items.md %}
-
-[White wolf fur](Category:Cloaks "wikilink")
