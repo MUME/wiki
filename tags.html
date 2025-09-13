@@ -1,49 +1,49 @@
 ---
-layout: default
-title: 'Tag Index'
+layout: page
+title: Tags
+permalink: /tags/
 ---
 
-{% assign all_tagged_items = site.posts | concat: site.pages %}
+{% comment %} Corrected A-Z Index for Tags {% endcomment %}
+{%- assign tags_with_posts = site.tags | where_exp: "item", "site.tags[item].size > 0" | sort -%}
 
-{%- capture site_tags -%}
-  {%- for item in all_tagged_items -%}
-    {%- for tag in item.tags -%}
-      {{- tag -}}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
-  {%- endfor -%}
-{%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort | uniq -%}
+{%- assign first_chars = "" -%}
+{%- for tag in tags_with_posts -%}
+  {%- assign first_char = tag[0] | slice: 0 | upcase -%}
+  {%- unless first_chars contains first_char -%}
+    {%- assign first_chars = first_chars | append: first_char -%}
+  {%- endunless -%}
+{%- endfor -%}
 
-{% comment %} A-Z Index for Tags {% endcomment %}
+{%- assign sorted_first_chars = first_chars | split: '' | sort -%}
+
 <div class="a-z-index">
-  {%- for tag in tags_list -%}
-    {%- assign first_char = tag | slice: 0 | upcase -%}
-    <a href="#{{- first_char | cgi_escape -}}" class="btn btn-primary tag-btn">{{- first_char -}}</a>
+  {%- for char in sorted_first_chars -%}
+    <a href="#{{- char | cgi_escape -}}" class="btn btn-primary tag-btn">{{- char -}}</a>
   {%- endfor -%}
 </div>
 
-<div id="full-tags-list">
-  {%- assign current_char = '' -%}
-  {%- for tag in tags_list -%}
-    {%- assign first_char = tag | slice: 0 | upcase -%}
-    {%- if first_char != current_char -%}
-      <h2 id="{{- first_char | cgi_escape -}}" class="linked-section">
-        {{- first_char -}}
-      </h2>
-      {%- assign current_char = first_char -%}
-    {%- endif -%}
-    
-    <h3 class="tag-heading">
-      <i class="fas fa-tag" aria-hidden="true"></i>
-      &nbsp;{{- tag -}}&nbsp;({{ all_tagged_items | where: "tags", tag | size }})
-    </h3>
-    <div class="post-list">
-      {%- assign tagged_items = all_tagged_items | where: "tags", tag | sort: 'title' -%}
-      {%- for item in tagged_items -%}
-        <div class="tag-entry">
-          <a href="{{ item.url | relative_url }}">{{- item.title | strip_html -}}</a>
-        </div>
-      {%- endfor -%}
-    </div>
-  {%- endfor -%}
-</div>
+{% comment %} Loop through tags and display associated posts {% endcomment %}
+{%- assign current_char = "" -%}
+{%- for tag in tags_with_posts -%}
+  {%- assign first_char = tag[0] | slice: 0 | upcase -%}
+  {%- if first_char != current_char -%}
+    <h2 id="{{- first_char | cgi_escape -}}" class="linked-section">
+      {{- first_char -}}
+    </h2>
+    {%- assign current_char = first_char -%}
+  {%- endif -%}
+
+  <h3 class="tag-heading">
+    <i class="fas fa-tag" aria-hidden="true"></i>
+    &nbsp;{{- tag[0] -}}&nbsp;({{ tag[1] | size }})
+  </h3>
+
+  <div class="post-list">
+    {%- for post in tag[1] -%}
+      <div class="tag-entry">
+        <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+      </div>
+    {%- endfor -%}
+  </div>
+{%- endfor -%}
