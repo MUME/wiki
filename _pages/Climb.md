@@ -1,6 +1,10 @@
 ---
 title: Climb
-tags: ["Ranger skills", "Skills", "Help files", "Commands"]
+tags:
+  - Ranger skills
+  - Skills
+  - Help files
+  - Commands
 ---
 Usage: climb \[<direction>\|on\|off\|safe\|always\]
 

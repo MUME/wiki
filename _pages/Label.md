@@ -1,6 +1,8 @@
 ---
 title: Label
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 With the **label** command, you can attach labels to characters or
 [mobs](mob "wikilink"). These labels can be used as keywords to identify

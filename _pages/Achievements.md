@@ -1,6 +1,8 @@
 ---
 title: Achievements
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 The **achievements** command will list various things your character has
 achieved.

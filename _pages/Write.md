@@ -1,6 +1,8 @@
 ---
 title: Write
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 In order to **write** a note, you need a piece of blank paper (often
 available at your local grocer) and a [quill pen](quill_pen "wikilink").

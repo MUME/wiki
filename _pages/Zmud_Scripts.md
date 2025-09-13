@@ -1,6 +1,7 @@
 ---
 title: Zmud Scripts
-tags: ["Software"]
+tags:
+  - Software
 ---
 # list Scripts
 

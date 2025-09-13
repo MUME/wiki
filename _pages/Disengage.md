@@ -1,6 +1,8 @@
 ---
 title: Disengage
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Disengage** is a [delayed](delayed "wikilink")
 [command](commands "wikilink") that allows you to stop the

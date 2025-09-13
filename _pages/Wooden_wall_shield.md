@@ -1,6 +1,7 @@
 ---
 title: Wooden wall shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 `A wooden wall shield rests on the ground.`
 `>`**`examine wooden`**

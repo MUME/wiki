@@ -1,6 +1,7 @@
 ---
 title: Body
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of items worn on the **body**.
 

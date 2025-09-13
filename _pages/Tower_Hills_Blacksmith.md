@@ -1,6 +1,8 @@
 ---
 title: Tower Hills Blacksmith
-tags: ["Shops", "Shopkeepers"]
+tags:
+  - Shops
+  - Shopkeepers
 ---
 A **tall, muscular blacksmith** tends to the **Blacksmith's Workshop**
 in [Black Hill](Black_Hill "wikilink"). The store stocks a variety of

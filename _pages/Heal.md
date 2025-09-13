@@ -1,6 +1,8 @@
 ---
 title: Heal
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 **Heal** is a level 14 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It gives a large boost in hit points, heals

@@ -1,6 +1,8 @@
 ---
 title: Magic Blast
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'magic blast' Type : Meta magic, area Accumulative: N/A
 Duration : No Casting : Long Position : Standing, fighting Level : Level

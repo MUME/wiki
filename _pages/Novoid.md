@@ -1,6 +1,7 @@
 ---
 title: Novoid
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 MUME characters have linkless protection: if your link drops, you soon
 become invulnerable until you reconnect. However, this feature is

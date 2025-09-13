@@ -1,6 +1,7 @@
 ---
 title: Focus
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 A **focus** is an [object](item "wikilink") imbued with powerful magic
 and bound to its owner. Several kinds of foci exist, each endowed with

@@ -1,6 +1,8 @@
 ---
 title: Category:Warrior skills
-tags: ["Skills", "Warrior"]
+tags:
+  - Skills
+  - Warrior
 ---
 [Warrior](Warrior "wikilink") [skills](skill "wikilink").
  

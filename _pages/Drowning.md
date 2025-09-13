@@ -1,6 +1,7 @@
 ---
 title: Drowning
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you are trying to [swim](swim "wikilink") on a [body of
 water](waterways "wikilink"), and you become too

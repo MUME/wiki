@@ -1,6 +1,8 @@
 ---
 title: Pray
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 In the [Halls of Mandos](Halls_of_Mandos "wikilink"), the **pray**
 command is used to transport yourself to one of the main

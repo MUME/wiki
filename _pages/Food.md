@@ -1,6 +1,7 @@
 ---
 title: Food
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Food and drink are necessary to survive in the long run. Even though one
 of the most "unrealistic" features of MUME is that you cannot die

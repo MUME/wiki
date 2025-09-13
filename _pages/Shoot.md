@@ -1,6 +1,8 @@
 ---
 title: Shoot
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Shoot** is the [command](command "wikilink") used to fire a [missile
 weapon](missile_weapon "wikilink"). If you are

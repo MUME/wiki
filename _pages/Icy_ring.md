@@ -1,6 +1,7 @@
 ---
 title: Icy ring
-tags: ["Rings"]
+tags:
+  - Rings
 ---
 \>**examine icy**
 The ring, covered by a thinning layer of ice, is made of a silvery metal

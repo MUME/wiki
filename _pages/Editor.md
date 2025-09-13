@@ -1,6 +1,7 @@
 ---
 title: Editor
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When you want to write some text in MUME (for example a character
 description or a bug report or a message on a board), you may have to

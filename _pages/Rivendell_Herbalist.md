@@ -1,6 +1,7 @@
 ---
 title: Rivendell Herbalist
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 An [elven herbalist](elven_herbalist "wikilink") tend to the
 **Herbalist** shop in [Rivendell](Rivendell "wikilink"). The shop is

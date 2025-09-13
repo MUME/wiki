@@ -1,6 +1,8 @@
 ---
 title: Ghost of Galerel
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 The **ghost of Galerel** is a spirit inhabiting the ruins of his former
 [mansion](Galerel's_mansion "wikilink") east of [Bree](Bree "wikilink").

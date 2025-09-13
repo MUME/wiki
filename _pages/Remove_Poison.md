@@ -1,6 +1,9 @@
 ---
 title: Remove Poison
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Remove poison** is a level 9 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It removes the effect of any

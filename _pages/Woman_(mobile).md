@@ -1,6 +1,8 @@
 ---
 title: Woman (mobile)
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 *For the playable race, see [man](man "wikilink").*
 

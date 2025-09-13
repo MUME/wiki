@@ -1,6 +1,7 @@
 ---
 title: FAQ1
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 **Q: I don't understand anything that's going on! Help!**
 

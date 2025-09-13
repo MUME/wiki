@@ -1,6 +1,7 @@
 ---
 title: Lórien Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Rumil** teaches [mage](mage "wikilink") [spells](spell "wikilink") at
 the **Flet of the Bards** in [Caras

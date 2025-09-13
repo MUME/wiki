@@ -1,6 +1,7 @@
 ---
 title: Harlond Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Filatior** teaches [cleric](cleric "wikilink")
 [spells](spells "wikilink") at the **Small Temple** in

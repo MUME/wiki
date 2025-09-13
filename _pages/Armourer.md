@@ -1,6 +1,7 @@
 ---
 title: Armourer
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Armourers** tend the armour [shops](shop "wikilink") in
 [Bree](Bree_Armourer "wikilink"), [Fornost](Fornost_Armourer "wikilink")

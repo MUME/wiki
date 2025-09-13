@@ -1,6 +1,7 @@
 ---
 title: Coach
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Coaches** are a safe, comfortable means of transportation between
 [towns](town "wikilink") and waystations on [Arda](Arda "wikilink").

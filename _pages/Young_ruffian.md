@@ -1,6 +1,7 @@
 ---
 title: Young ruffian
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Young ruffians** are aggressive [level](level "wikilink") ~2-3
 [mobiles](mobile "wikilink"). They can be found on the plateau

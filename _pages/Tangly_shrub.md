@@ -1,6 +1,7 @@
 ---
 title: Tangly shrub
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Tangly shrubs** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 14 [plants](plant "wikilink") found in

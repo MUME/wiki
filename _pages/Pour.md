@@ -1,6 +1,8 @@
 ---
 title: Pour
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **pour** command can be used to transfer a fluid from one container
 to another.

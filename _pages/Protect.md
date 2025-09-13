@@ -1,6 +1,8 @@
 ---
 title: Protect
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The "**protect**" [command](commands "wikilink") is used to select a
 number of people (players or [mobiles](mobile "wikilink")) that you will

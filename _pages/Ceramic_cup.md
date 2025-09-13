@@ -1,6 +1,7 @@
 ---
 title: Ceramic cup
-tags: ["Containers"]
+tags:
+  - Containers
 ---
 The **ceramic cup** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain a bit less then 1

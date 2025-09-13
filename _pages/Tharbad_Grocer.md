@@ -1,6 +1,7 @@
 ---
 title: Tharbad Grocer
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 A [grocer](grocer "wikilink") tends to the **Grocery** in
 [Tharbad](Tharbad "wikilink"). The store is open from 8am to 12pm and

@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous equipment
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 **Miscellaneous equipment** covers all equipment which does not fall
 easily into one of the available categories.

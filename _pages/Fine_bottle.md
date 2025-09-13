@@ -1,6 +1,7 @@
 ---
 title: Fine bottle
-tags: ["Containers"]
+tags:
+  - Containers
 ---
 The **fine bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain about 2 and a half

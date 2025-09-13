@@ -1,6 +1,7 @@
 ---
 title: Brief
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Usage: [change](change "wikilink") **brief** \[on\|off\]
 

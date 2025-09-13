@@ -1,6 +1,8 @@
 ---
 title: Sense Life
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Sense life** is a level 7 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will increase awareness temporarily and

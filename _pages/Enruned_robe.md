@@ -1,6 +1,8 @@
 ---
 title: Enruned robe
-tags: ["Cloth equipment", "Body items"]
+tags:
+  - Cloth equipment
+  - Body items
 ---
 \> **examine robe**
 

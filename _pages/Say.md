@@ -1,6 +1,8 @@
 ---
 title: Say
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Say**, **whisper** and **ask** can be used to communicate with players
 or [mobiles](mobile "wikilink") in the same [room](room "wikilink"). For

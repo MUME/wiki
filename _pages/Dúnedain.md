@@ -1,6 +1,7 @@
 ---
 title: Dúnedain
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 The **Dúnedain** are descenants of the Númenóreans who settled
 [Middle-Earth](Middle-Earth "wikilink") in the Second Age. After the

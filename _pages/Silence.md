@@ -1,6 +1,8 @@
 ---
 title: Silence
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Silence** is a [level](level "wikilink") 17 [mage](mage "wikilink")
 [spell](spell "wikilink"). It prevents the target from

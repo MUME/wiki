@@ -1,6 +1,8 @@
 ---
 title: Highwayman
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Highwaymen** are level ? [mobiles](mobile "wikilink") who accompany
 [Morthan Blacksoul](Morthan_Blacksoul "wikilink") at the obstruction in

@@ -1,6 +1,8 @@
 ---
 title: Raise
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **raise** command is like a normal [social](Socials "wikilink") with
 a minor twist. You can either raise or raise hand which will raise one

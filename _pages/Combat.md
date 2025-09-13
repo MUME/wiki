@@ -1,6 +1,7 @@
 ---
 title: Combat
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 For your character to successfully survive **combat** with the fierce
 [creatures](mobile "wikilink") of [Arda](Arda "wikilink"), it is

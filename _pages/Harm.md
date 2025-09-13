@@ -1,6 +1,9 @@
 ---
 title: Harm
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Harm** is a level 15 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It is the most powerful attack spell for

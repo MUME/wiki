@@ -1,6 +1,9 @@
 ---
 title: Strength Spell
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Strength** is a [level](level "wikilink") 7
 [cleric](cleric "wikilink") [spell](spell "wikilink"), giving the target

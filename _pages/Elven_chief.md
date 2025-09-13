@@ -1,6 +1,7 @@
 ---
 title: Elven chief
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **elven chief** is the chief of a small village near [Grey
 Havens](Grey_Havens "wikilink"), just east of the Tower Hills. He is

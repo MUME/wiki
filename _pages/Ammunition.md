@@ -1,6 +1,7 @@
 ---
 title: Ammunition
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 There are various types of **ammunition** found in
 [MUME](MUME "wikilink").

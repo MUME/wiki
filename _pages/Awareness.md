@@ -1,6 +1,8 @@
 ---
 title: Awareness
-tags: ["Skills", "Ranger skills"]
+tags:
+  - Skills
+  - Ranger skills
 ---
 ## Awareness
 

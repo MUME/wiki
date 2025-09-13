@@ -1,6 +1,7 @@
 ---
 title: FAQ3
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 **Q: How do I hold my weapon?**
 

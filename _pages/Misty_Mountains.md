@@ -1,6 +1,7 @@
 ---
 title: Misty Mountains
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 (S."Hithaeglir") The range of mountains running from Carn Dum in the
 north to Methadras (above Angrenost) in the south. The Misty Mountains

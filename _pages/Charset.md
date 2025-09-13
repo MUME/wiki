@@ -1,6 +1,7 @@
 ---
 title: Charset
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 MUME has two modes of displaying information to the players. Either it
 uses the 7 bits of standard ASCII, or the 8 bit Latin-1 (iso 8859-1)

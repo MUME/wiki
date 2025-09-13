@@ -1,6 +1,7 @@
 ---
 title: Softly glowing green cup
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **examine cup**
 

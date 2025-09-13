@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide to Missile Weapons
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide to Missile Weapons**
 

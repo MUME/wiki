@@ -1,6 +1,7 @@
 ---
 title: Equipment Format
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 To get your equipment in a custom order, you write \`equipment
 <format>'. The format is a string of letters, each letter representing

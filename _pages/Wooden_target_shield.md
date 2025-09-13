@@ -1,6 +1,7 @@
 ---
 title: Wooden target shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 \> **look shield**
 

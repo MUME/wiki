@@ -1,6 +1,8 @@
 ---
 title: Hide
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 Syntax: hide <effort>, one of quickly/fast/normally/carefully/thoroughly
 

@@ -1,6 +1,8 @@
 ---
 title: Legend Home Equipment
-tags: ["Help files", "Legend_homes"]
+tags:
+  - Help files
+  - Legend_homes
 ---
 If you would like to have certain items of equipment loaded into your
 legend home you will need to also include that in your legend home

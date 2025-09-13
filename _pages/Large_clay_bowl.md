@@ -1,6 +1,7 @@
 ---
 title: Large clay bowl
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 `A very large drinking bowl made of well-worn clay is here.`
 `>`**`look at bowl`**

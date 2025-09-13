@@ -1,6 +1,8 @@
 ---
 title: Order
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 To **order** a pet or a [charmed](charm "wikilink") person to do
 something. Example:

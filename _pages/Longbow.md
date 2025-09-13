@@ -1,6 +1,7 @@
 ---
 title: Longbow
-tags: ["Missile weapons"]
+tags:
+  - Missile weapons
 ---
 `A wooden longbow is lying here.`
 `>`**`examine bow`**

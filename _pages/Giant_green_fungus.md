@@ -1,6 +1,7 @@
 ---
 title: Giant green fungus
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Giant green fungi** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~11-12 [plants](plant "wikilink"), found in

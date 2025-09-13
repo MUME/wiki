@@ -1,6 +1,7 @@
 ---
 title: Rivendell Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **elven knight** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Warrior Training Yard** in

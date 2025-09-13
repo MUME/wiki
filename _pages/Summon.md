@@ -1,6 +1,8 @@
 ---
 title: Summon
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 **Summon** is a level 8 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will transfer a creature or player to the

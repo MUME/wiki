@@ -1,6 +1,8 @@
 ---
 title: Suggest
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 Several functions can be reached through the **suggest** command;
 

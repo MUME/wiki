@@ -1,6 +1,7 @@
 ---
 title: Wicked Durbuk-hai axe
-tags: ["Cleaving weapons"]
+tags:
+  - Cleaving weapons
 ---
 \> **examine axe**
 

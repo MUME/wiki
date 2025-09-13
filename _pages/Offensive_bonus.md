@@ -1,6 +1,7 @@
 ---
 title: Offensive bonus
-tags: ["Statistics"]
+tags:
+  - Statistics
 ---
 The **offensive bonus** (OB%) increases the likelihood of your attacks
 hitting a target. OB is heavily dependent on the

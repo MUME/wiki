@@ -1,6 +1,8 @@
 ---
 title: Thena Shadowstalker
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Thena Shadowstalker** is one of [Morthan
 Blacksoul](Morthan_Blacksoul "wikilink")'s accomplices. While not

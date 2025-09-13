@@ -1,6 +1,9 @@
 ---
 title: Smother
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 Syntax : cast 'smother' \[victim\] Type : Offensive, physical
 Accumulative: N/A Duration : Yes Casting : Short Position : Standing,

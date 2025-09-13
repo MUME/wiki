@@ -1,6 +1,8 @@
 ---
 title: Tell
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **tell** command can be used to send a message to another player,
 regardless of where they're located. [Sleeping](Sleep "wikilink")

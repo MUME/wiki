@@ -1,6 +1,7 @@
 ---
 title: Old Fornost
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Old Fornost** is the western, ruined part of
 [Fornost](Fornost "wikilink"). The [Black Dagger

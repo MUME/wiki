@@ -1,6 +1,8 @@
 ---
 title: Fine chain mail hauberk
-tags: ["Body items", "Mail equipment"]
+tags:
+  - Body items
+  - Mail equipment
 ---
 The **fine chain mail hauberk** is a lightweight piece of chain mail
 armour worn on the [body](body "wikilink"). It provides a considerable

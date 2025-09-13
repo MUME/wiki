@@ -1,6 +1,8 @@
 ---
 title: Detect Evil
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Detect evil** is a level 1 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). When cast, it will apply a long-lasting buff

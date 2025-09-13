@@ -1,6 +1,7 @@
 ---
 title: Cooking
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Most meat found in the wild will be raw. It is possible to increase both
 its nurishment value and its lifetime by cooking it. It is also possible

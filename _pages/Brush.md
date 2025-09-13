@@ -1,6 +1,7 @@
 ---
 title: Brush
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 The Brush is an area that lies between
 [Weathertop](Weathertop "wikilink") (East of [Bree](Bree "wikilink"))

@@ -1,6 +1,9 @@
 ---
 title: Curse
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 Syntax : cast 'curse' \[\<victim\> \| \<object\>\] Type : Offensive,
 mental Accumulative: No Duration : Yes (permanent on objects) Casting :

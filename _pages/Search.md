@@ -1,6 +1,8 @@
 ---
 title: Search
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Search** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to search for otherwise [hidden](hide "wikilink") people,

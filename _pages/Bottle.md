@@ -1,6 +1,7 @@
 ---
 title: Bottle
-tags: ["Containers"]
+tags:
+  - Containers
 ---
 The **bottle** is a [drink](Food_%26_Drink#Drink "wikilink")
 [container](container "wikilink"). It can contain a bit over 2 pounds

@@ -1,5 +1,6 @@
 ---
 title: Magic
-tags: ["Spells"]
+tags:
+  - Spells
 ---
 1.  Redirect

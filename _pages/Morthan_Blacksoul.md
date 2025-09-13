@@ -1,6 +1,8 @@
 ---
 title: Morthan Blacksoul
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Morthan Blacksoul** is a bandit who has set up an obstruction on the
 [Greenway](Greenway "wikilink") to rob unsuspecting travellers. If you

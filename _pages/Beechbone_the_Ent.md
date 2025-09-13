@@ -1,6 +1,7 @@
 ---
 title: Beechbone the Ent
-tags: ["Ents"]
+tags:
+  - Ents
 ---
 **Beechbone** is a [good](alignment "wikilink")
 [level](level "wikilink") 28 [Ent](Ent "wikilink") living in

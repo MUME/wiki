@@ -1,6 +1,7 @@
 ---
 title: Target Shooting
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In some places where archery is practiced, targets are placed for
 archers to use. If you are at such a shooting range, with the correct

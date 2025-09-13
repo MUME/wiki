@@ -1,6 +1,7 @@
 ---
 title: Spam
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Usage: [change](change "wikilink") **spam** \[on\|off\]
 

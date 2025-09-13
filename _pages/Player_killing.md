@@ -1,6 +1,7 @@
 ---
 title: Player killing
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Player killing, or PK, means involving in combat and trying to kill
 other player-controlled characters.

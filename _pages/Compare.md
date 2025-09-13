@@ -1,6 +1,8 @@
 ---
 title: Compare
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 Syntax: **compare** \<object\|number\> \<object\|number\>
 

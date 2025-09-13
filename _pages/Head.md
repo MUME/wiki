@@ -1,6 +1,7 @@
 ---
 title: Head
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of equipment worn on the **head**.
 

@@ -1,6 +1,7 @@
 ---
 title: Charging weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Charging weapons](Charging_weapons "wikilink")** are one of the
 weapon types found in [MUME](MUME "wikilink"). These weapons are

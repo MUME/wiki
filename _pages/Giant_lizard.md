@@ -1,6 +1,7 @@
 ---
 title: Giant lizard
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Giant lizards** are aggressive [level](level "wikilink") 12
 [mobiles](mobile "wikilink"), found in various locations around

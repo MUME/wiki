@@ -1,6 +1,7 @@
 ---
 title: Canoe
-tags: ["Boats"]
+tags:
+  - Boats
 ---
 **Canoes** are the most common type of [boat](boat "wikilink"), often
 found near [waterways](waterways "wikilink"). They can also be bought

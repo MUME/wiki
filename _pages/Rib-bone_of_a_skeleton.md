@@ -1,6 +1,7 @@
 ---
 title: Rib-bone of a skeleton
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \>**examine bone**
 

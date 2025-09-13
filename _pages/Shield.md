@@ -1,6 +1,7 @@
 ---
 title: Shield
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of **shields** found in [MUME](MUME "wikilink"). Shields provide
 [parry](parry "wikilink") bonus.

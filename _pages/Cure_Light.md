@@ -1,6 +1,9 @@
 ---
 title: Cure Light
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Cure Light** is a [level](level "wikilink") 1
 [cleric](cleric "wikilink") [spell](spell "wikilink") that cures the

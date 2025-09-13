@@ -1,5 +1,6 @@
 ---
 title: Category:Consumables
-tags: ["Items"]
+tags:
+  - Items
 ---
 {% include Items.md %}

@@ -1,6 +1,7 @@
 ---
 title: Mean brigand
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Brigands** are level ~12-13 mobiles found all over the western parts
 of [Middle Earth](Middle_Earth "wikilink"), particularly on and near the

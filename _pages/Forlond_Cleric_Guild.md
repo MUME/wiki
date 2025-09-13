@@ -1,6 +1,7 @@
 ---
 title: Forlond Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **elven priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at **Ossė's Temple** in

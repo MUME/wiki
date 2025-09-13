@@ -1,6 +1,7 @@
 ---
 title: Ornate, steel-shafted warhammer
-tags: ["Concussion weapons"]
+tags:
+  - Concussion weapons
 ---
 \>**examine ornate**
 

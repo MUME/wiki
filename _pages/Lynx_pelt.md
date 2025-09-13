@@ -1,6 +1,7 @@
 ---
 title: Lynx pelt
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \> **examine pelt**
 

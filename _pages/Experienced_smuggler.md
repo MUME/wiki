@@ -1,6 +1,7 @@
 ---
 title: Experienced smuggler
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 Experienced **smugglers** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~11-12 [mobiles](mobile "wikilink") found in

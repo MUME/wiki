@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Aging and Death
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Aging and Death**
 

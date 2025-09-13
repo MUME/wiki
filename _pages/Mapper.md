@@ -1,6 +1,7 @@
 ---
 title: Mapper
-tags: ["Software"]
+tags:
+  - Software
 ---
 A program that automatically creates a visual representation of MUME's
 world is called a mapper. Usually it allows you to show your current

@@ -1,6 +1,8 @@
 ---
 title: Two-handed weapons
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 **Two-handed weapons** is a [warrior](warrior "wikilink")
 [skill](skill "wikilink") and [weapon](weapon "wikilink") class. It is

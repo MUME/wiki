@@ -1,6 +1,7 @@
 ---
 title: Sundeath
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 [Trolls](Troll "wikilink") can be instantly killed by the sun. Trolls
 **sundie**:

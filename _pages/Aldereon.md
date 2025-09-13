@@ -1,6 +1,7 @@
 ---
 title: Aldereon
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Aldereon** is a powerful elf living in an elven village east of [Grey
 Havens](Grey_Havens "wikilink"). If you visit him and ask about

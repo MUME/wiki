@@ -1,6 +1,7 @@
 ---
 title: Carved oak staff
-tags: ["Smiting weapons"]
+tags:
+  - Smiting weapons
 ---
 The **carved oak staff** is a [two-handed
 weapon](two-handed_weapon "wikilink") that can also be held in the

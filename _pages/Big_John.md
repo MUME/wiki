@@ -1,6 +1,8 @@
 ---
 title: Big John
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Big John** is the leader of a group of
 [smugglers](smuggler "wikilink") based in a cave system about halfway

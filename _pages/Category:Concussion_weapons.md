@@ -1,5 +1,6 @@
 ---
 title: Category:Concussion weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

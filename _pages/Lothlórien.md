@@ -1,6 +1,8 @@
 ---
 title: Lothlórien
-tags: ["Cities", "Locations"]
+tags:
+  - Cities
+  - Locations
 ---
 'Lóthlorien, the hidden land between Celebrant and Anduin, where the
 trees bore flowers of gold and no Orc or evil thing dared ever come.'

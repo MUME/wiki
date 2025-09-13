@@ -1,6 +1,7 @@
 ---
 title: Whetstone
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Whetstones are small hard stones used for sharpening your weapon. To use
 them: o You have to either wear the whetstone on your belt or hold it in

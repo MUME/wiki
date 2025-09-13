@@ -1,5 +1,6 @@
 ---
 title: Basics
-tags: ["Basics"]
+tags:
+  - Basics
 ---
 1.  Redirect

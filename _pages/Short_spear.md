@@ -1,6 +1,7 @@
 ---
 title: Short spear
-tags: ["Stabbing weapons"]
+tags:
+  - Stabbing weapons
 ---
 The **short spear** is a [stabbing weapon](stabbing_weapon "wikilink").
 It is worth around 4 [silver](silver "wikilink"), and is sold by most

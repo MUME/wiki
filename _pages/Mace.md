@@ -1,6 +1,7 @@
 ---
 title: Mace
-tags: ["Concussion weapons"]
+tags:
+  - Concussion weapons
 ---
 The **mace** is a [concussion weapon](concussion_weapon "wikilink"). It
 is worth around 15 [silver](silver "wikilink"), and is sold by most

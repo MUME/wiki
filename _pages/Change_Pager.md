@@ -1,6 +1,7 @@
 ---
 title: Change Pager
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 This setting affects how display from the "view" command is done.
 

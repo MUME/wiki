@@ -1,6 +1,7 @@
 ---
 title: Scroll
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 **Scrolls** are powerful items which hold enchantments that can be read
 by any character (even [trolls](troll "wikilink")!). Because they are

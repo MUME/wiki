@@ -1,6 +1,7 @@
 ---
 title: Editor Commands
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Syntax for the MUME line editor commands is this:
 

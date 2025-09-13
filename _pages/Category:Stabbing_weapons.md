@@ -1,5 +1,6 @@
 ---
 title: Category:Stabbing weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

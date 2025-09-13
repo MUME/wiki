@@ -1,6 +1,7 @@
 ---
 title: Ingrove Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Katerine** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Training Yard** in

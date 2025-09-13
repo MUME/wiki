@@ -1,6 +1,7 @@
 ---
 title: Incognito
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Use '[change](change "wikilink") <b>incognito</b>' to change various
 incognito settings.

@@ -1,6 +1,7 @@
 ---
 title: Cleric
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 The **cleric** is the more supportive [spell](spell "wikilink") caster.
 The spells of [wisdom](wisdom "wikilink") offer peace, blessing and

@@ -1,6 +1,7 @@
 ---
 title: Metal shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 A **metal shield** is a common [shield](shield "wikilink") that can be
 bought from most armourers for around 15 [silver](silver "wikilink").

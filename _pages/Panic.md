@@ -1,6 +1,7 @@
 ---
 title: Panic
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you flee out of combat (as opposed to making an ordered retreat via
 the 'escape' command) you may be affected by panic for a short time.

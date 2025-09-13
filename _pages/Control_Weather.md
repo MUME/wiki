@@ -1,6 +1,9 @@
 ---
 title: Control Weather
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 **Control Weather** is a [level](level "wikilink") 10
 [mage](mage "wikilink") [spell](spell "wikilink"). The main use of this

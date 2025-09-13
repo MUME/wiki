@@ -1,6 +1,7 @@
 ---
 title: Warrior
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 **Warriors** are known to have more strength than the average player.
 This makes them better at hand-to-hand-combat, as they possess skills of

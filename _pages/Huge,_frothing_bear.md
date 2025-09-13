@@ -1,6 +1,7 @@
 ---
 title: Huge, frothing bear
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Huge, frothing bears** are aggressive [level](level "wikilink") ~14
 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin.

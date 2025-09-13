@@ -1,6 +1,8 @@
 ---
 title: Chief of smugglers
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 The **chief of smugglers** is an aggressive level ?
 [mob](mob "wikilink"). He can be found in a hidden cave in the hills

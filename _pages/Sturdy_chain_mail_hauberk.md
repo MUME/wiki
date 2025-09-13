@@ -1,6 +1,8 @@
 ---
 title: Sturdy chain mail hauberk
-tags: ["Mail equipment", "Body items"]
+tags:
+  - Mail equipment
+  - Body items
 ---
 The **sturdy chain mail hauberk** is a reinforced piece of chain mail
 equipment worn on the [body](body "wikilink"). It provides a

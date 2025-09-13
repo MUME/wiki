@@ -1,6 +1,8 @@
 ---
 title: Envenom
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Envenom** is a [thief](thief "wikilink") [skill](skill "wikilink")
 that allows you to poison your opponent. First a decent knowledge of the

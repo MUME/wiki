@@ -1,4 +1,5 @@
 ---
 title: Category:Consumed equipment
-tags: ["Deletion Candidates"]
+tags:
+  - Deletion Candidates
 ---

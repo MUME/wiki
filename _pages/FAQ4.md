@@ -1,6 +1,7 @@
 ---
 title: FAQ4
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 Q: "How do I hunt for food?"
 

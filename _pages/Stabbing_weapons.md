@@ -1,6 +1,8 @@
 ---
 title: Stabbing weapons
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 The **stabbing weapons** [skill](skill "wikilink") is a
 [warrior](warrior "wikilink") skill and [weapon](weapon "wikilink")

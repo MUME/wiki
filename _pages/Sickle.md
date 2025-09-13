@@ -1,6 +1,7 @@
 ---
 title: Sickle
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 `A gardening tool that looks like a sickle lies here.`
 `>`**`examine sickle`**

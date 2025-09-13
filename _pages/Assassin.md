@@ -1,6 +1,7 @@
 ---
 title: Assassin
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Assassins** are aggressive level ~15-16 [mobiles](mobile "wikilink"),
 found in various place around [Arda](Arda "wikilink"), especially common

@@ -1,6 +1,7 @@
 ---
 title: Eldinor the bartender
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Eldinor** tends bar at the [Seagull Inn](Seagull_Inn "wikilink") in
 [Harlond](Harlond "wikilink").

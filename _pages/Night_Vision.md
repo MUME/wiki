@@ -1,6 +1,8 @@
 ---
 title: Night Vision
-tags: ["Spells", "Mage spells"]
+tags:
+  - Spells
+  - Mage spells
 ---
 **Night Vision** is a [level](level "wikilink") 7
 [mage](mage "wikilink") [spell](spell "wikilink"). It allows the caster

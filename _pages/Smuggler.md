@@ -1,6 +1,7 @@
 ---
 title: Smuggler
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Smugglers** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~10 [mobiles](mobile "wikilink"), found in

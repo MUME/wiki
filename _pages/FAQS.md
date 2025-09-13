@@ -1,5 +1,6 @@
 ---
 title: FAQS
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 1.  Redirect

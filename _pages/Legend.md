@@ -1,6 +1,7 @@
 ---
 title: Legend
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Characters of [level](level "wikilink") 26 and above are called
 'legends'. Advancement as a legend is ten times slower than as a

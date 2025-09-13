@@ -1,6 +1,7 @@
 ---
 title: RL Areas
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The following are obtained using the 'whois' command. This won't work on
 gods of a higher level than yourself.

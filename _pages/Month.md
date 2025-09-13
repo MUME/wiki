@@ -1,6 +1,7 @@
 ---
 title: Month
-tags: ["Basics"]
+tags:
+  - Basics
 ---
 The names of the months in Westron and Sindarin are detailed below,
 along with the times of dawn and dusk during each month. Season Westron

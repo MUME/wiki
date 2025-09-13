@@ -1,4 +1,5 @@
 ---
 title: Category:Shops
-tags: ["Locations"]
+tags:
+  - Locations
 ---

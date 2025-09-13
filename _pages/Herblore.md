@@ -1,6 +1,7 @@
 ---
 title: Herblore
-tags: ["Guides"]
+tags:
+  - Guides
 ---
 A **herblore** is a recipe that will provide you with a potion or other
 item to help you in your travels. They can be learnt by helping certain

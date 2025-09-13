@@ -1,6 +1,7 @@
 ---
 title: Wrist
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of items worn on the **wrist**.
 

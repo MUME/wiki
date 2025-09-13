@@ -1,6 +1,7 @@
 ---
 title: Piercing weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Piercing weapons](Piercing_weapons "wikilink")** are one of the
 weapon types found in [MUME](MUME "wikilink"). These weapons usually

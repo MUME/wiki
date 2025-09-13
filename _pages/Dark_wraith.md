@@ -1,6 +1,7 @@
 ---
 title: Dark wraith
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Dark wraiths** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~13-14 [mobs](mob "wikilink") found in various

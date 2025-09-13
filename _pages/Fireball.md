@@ -1,6 +1,8 @@
 ---
 title: Fireball
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Fireball** is a mid-level [mage](mage "wikilink")
 [spell](spell "wikilink"), castable on characters and special

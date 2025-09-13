@@ -1,6 +1,7 @@
 ---
 title: Raft
-tags: ["Boats"]
+tags:
+  - Boats
 ---
 **Rafts** are a common type of [boat](boat "wikilink"), often found near
 [waterways](waterways "wikilink"). They can also be bought from

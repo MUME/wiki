@@ -1,6 +1,8 @@
 ---
 title: Metal boots
-tags: ["Metal equipment", "Feet items"]
+tags:
+  - Metal equipment
+  - Feet items
 ---
 **Metal boots** are worn on the [feet](feet "wikilink"). They provide a
 large amount of damage absorption and slightly decrease [dodge

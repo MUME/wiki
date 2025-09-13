@@ -1,6 +1,7 @@
 ---
 title: Get
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you find something interesting on the ground, you may use
 '<b>get</b>' ('<b>take</b>' is equivalent) to pick it up.

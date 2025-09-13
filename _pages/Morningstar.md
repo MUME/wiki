@@ -1,6 +1,7 @@
 ---
 title: Morningstar
-tags: ["Concussion weapons"]
+tags:
+  - Concussion weapons
 ---
 \> **examine morningstar**
 

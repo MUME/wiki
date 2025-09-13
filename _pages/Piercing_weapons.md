@@ -1,6 +1,8 @@
 ---
 title: Piercing weapons
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Piercing weapons** is a [thief](thief "wikilink")
 [skill](skill "wikilink") and [weapon](weapon "wikilink") class that

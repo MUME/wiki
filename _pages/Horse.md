@@ -1,6 +1,7 @@
 ---
 title: Horse
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Horses** are [rideable](ride "wikilink") [level](level "wikilink") 5
 [mobiles](mobile "wikilink") found in various places around

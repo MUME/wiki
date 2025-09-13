@@ -1,6 +1,9 @@
 ---
 title: Create Food
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Create food** is a level 3 [cleric](cleric "wikilink")
 [spell](spell "wikilink") that creates a magic mushroom. Food can also

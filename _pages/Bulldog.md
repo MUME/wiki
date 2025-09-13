@@ -1,6 +1,8 @@
 ---
 title: Bulldog
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Bulldogs** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's

@@ -1,6 +1,7 @@
 ---
 title: General
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 **General [skills](skill "wikilink")** (also known as
 **[ranger](ranger "wikilink") skills**) refers to a set of skills that

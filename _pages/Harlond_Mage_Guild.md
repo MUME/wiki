@@ -1,6 +1,7 @@
 ---
 title: Harlond Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Malindon** teaches [mage](mage "wikilink") [spells](spells "wikilink")
 at the **Home of the Old Elven Mage** in [Harlond](Harlond "wikilink")

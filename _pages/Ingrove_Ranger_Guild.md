@@ -1,6 +1,7 @@
 ---
 title: Ingrove Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Ilyne** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Traveller's Hut** in

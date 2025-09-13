@@ -1,6 +1,7 @@
 ---
 title: Noquit
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When you attack someone else, or are attacked by someone else, or you
 try to [steal](steal "wikilink") something, your ability to

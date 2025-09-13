@@ -1,6 +1,7 @@
 ---
 title: Cutlass
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 The **cutlass** is a [slashing weapon](slashing_weapon "wikilink"). It
 is worth around 12 [silver](silver "wikilink"), and is sold by most

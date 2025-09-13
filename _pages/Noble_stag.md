@@ -1,6 +1,7 @@
 ---
 title: Noble stag
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **noble stag** is a passive [level](level "wikilink") 10
 [mobile](mobile "wikilink") who spawns in the forest northwest of

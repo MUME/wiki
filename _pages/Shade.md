@@ -1,6 +1,7 @@
 ---
 title: Shade
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Shades** are aggressive level ? [mobs](mob "wikilink"). They are
 incorporeal, and cannot be [bashed](bash "wikilink"). They can also

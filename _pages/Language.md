@@ -1,6 +1,7 @@
 ---
 title: Language
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 You can select which language you want to use when talking with other
 people. Use change language <language> to change to another one. Without

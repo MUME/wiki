@@ -1,6 +1,7 @@
 ---
 title: Powwow Scripts
-tags: ["Software"]
+tags:
+  - Software
 ---
 # Powwow
 

@@ -1,6 +1,7 @@
 ---
 title: Fornost Weaponsmith
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 A [weaponsmith](weaponsmith "wikilink") tends to the **Mighty Hammer
 Weaponry** in [Fornost](Fornost "wikilink"). The store is open 8am - 1pm

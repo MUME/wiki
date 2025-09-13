@@ -1,5 +1,6 @@
 ---
 title: Category:Containers
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 {% include Items.md %}

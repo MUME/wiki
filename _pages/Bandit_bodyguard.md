@@ -1,6 +1,7 @@
 ---
 title: Bandit bodyguard
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Bandit bodyguards** are aggressive level ~12-13
 [mobiles](mobile "wikilink") found in various places across

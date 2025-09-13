@@ -1,6 +1,8 @@
 ---
 title: Divination
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Divination** is a [cleric](cleric "wikilink")
 [spell](spell "wikilink") that allows you to gain information about the

@@ -1,6 +1,7 @@
 ---
 title: Hero
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Upon achieving level 21, MUME characters are deemed
 '[heroic](hero "wikilink")'. They gain the option of choosing their own

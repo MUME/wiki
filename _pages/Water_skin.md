@@ -1,6 +1,7 @@
 ---
 title: Water skin
-tags: ["Containers"]
+tags:
+  - Containers
 ---
 The **water skin** is a [drink](drink "wikilink")
 [container](container "wikilink") that can be worn on a

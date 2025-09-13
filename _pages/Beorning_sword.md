@@ -1,6 +1,7 @@
 ---
 title: Beorning sword
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 ### In room
 

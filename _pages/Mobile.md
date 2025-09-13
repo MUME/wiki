@@ -1,6 +1,7 @@
 ---
 title: Mobile
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 PC is sometimes used as a short form of Player Character, which simply
 means a player.

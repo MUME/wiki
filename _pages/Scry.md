@@ -1,6 +1,8 @@
 ---
 title: Scry
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'scry' \[\<room key\>\] Type : Long range Accumulative:
 N/A Duration : No Casting : Very long Position : Standing Level : Level

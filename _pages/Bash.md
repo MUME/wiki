@@ -1,6 +1,8 @@
 ---
 title: Bash
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 **Bash** is a [warrior](warrior "wikilink") [skill](skill "wikilink")
 that allows you to knock an opponent over. The success of a bash depends

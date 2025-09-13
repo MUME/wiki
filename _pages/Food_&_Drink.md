@@ -1,6 +1,7 @@
 ---
 title: Food & Drink
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 **Food and drink** is an important aspect of [MUME](MUME "wikilink"),
 for example you must [drink](drink "wikilink") and [eat](eat "wikilink")

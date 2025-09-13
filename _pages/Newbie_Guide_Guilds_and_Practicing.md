@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Guilds and Practicing
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Guilds and Practicing**
 

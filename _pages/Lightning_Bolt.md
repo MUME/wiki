@@ -1,6 +1,9 @@
 ---
 title: Lightning Bolt
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 Syntax : cast 'lightning bolt' \[victim\] Type : Offensive, physical
 Accumulative: N/A Duration : No Casting : Normal Position : Standing,

@@ -1,6 +1,7 @@
 ---
 title: Shaman
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 The **shaman** is a class restricted to the [Tarkhnarb
 orcs](Tarkhnarb_orc "wikilink"). They are a combination of the

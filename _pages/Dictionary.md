@@ -1,6 +1,8 @@
 ---
 title: Dictionary
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 With the **dictionary** command, you can get a short description of
 names and concepts from [Tolkien](Tolkien "wikilink")'s works.

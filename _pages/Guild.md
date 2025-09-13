@@ -1,6 +1,7 @@
 ---
 title: Guild
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The **Guild** is the place where mortals may go to escape the troubles
 and perils of a cruel world. There they may participate in discussions

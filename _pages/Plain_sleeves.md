@@ -1,6 +1,8 @@
 ---
 title: Plain sleeves
-tags: ["Arms items", "Cloth equipment"]
+tags:
+  - Arms items
+  - Cloth equipment
 ---
 **Plain sleeves** are a piece of cloth [equipment](equipment "wikilink")
 worn on the [arms](arms "wikilink"). They are worth around 80

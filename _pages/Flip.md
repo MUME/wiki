@@ -1,6 +1,8 @@
 ---
 title: Flip
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you feel particularly happy, you can **flip** head over heels, or
 flip someone else to make him dizzy.

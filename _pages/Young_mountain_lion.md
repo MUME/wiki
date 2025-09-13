@@ -1,6 +1,7 @@
 ---
 title: Young mountain lion
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Young mountain lions** are passive [level](level "wikilink") 12
 [mobiles](mobile "wikilink") found mainly in the mountains around [Grey

@@ -1,6 +1,7 @@
 ---
 title: Tharbad Thieves' Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
 at the **Thieves' Guild** in [Tharbad](Tharbad "wikilink"). The entrance

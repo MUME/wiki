@@ -1,6 +1,7 @@
 ---
 title: Container
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 **Containers** allow you to organize your items. Some containers can be
 worn on your belt, or some on your back.

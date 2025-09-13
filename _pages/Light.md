@@ -1,6 +1,8 @@
 ---
 title: Light
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Light** and **snuff** are commands that can be used to turn on and off
 a light source. For instance, if you have a

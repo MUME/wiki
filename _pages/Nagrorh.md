@@ -1,6 +1,8 @@
 ---
 title: Nagrorh
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Nagrorh** is a necromancer that lives near
 [Greenholm](Greenholm "wikilink"). He's an aggressive level ?

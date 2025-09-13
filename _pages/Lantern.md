@@ -1,6 +1,7 @@
 ---
 title: Lantern
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 The **lantern** is a [light
 source](Miscellaneous_equipment#Light_sources "wikilink") that can be

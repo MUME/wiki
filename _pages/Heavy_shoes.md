@@ -1,6 +1,7 @@
 ---
 title: Heavy shoes
-tags: ["Feet items"]
+tags:
+  - Feet items
 ---
 \> **look shoes**
 

@@ -1,6 +1,8 @@
 ---
 title: Burn
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 You can set fire to a [corpse](corpse "wikilink") or corpses by using
 the [command](commands "wikilink") "**burn**". The corpses will be

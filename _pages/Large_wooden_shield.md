@@ -1,6 +1,7 @@
 ---
 title: Large wooden shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **large wooden shield** is a [shield](shield "wikilink"). It
 provides a mediocre amount of [parry bonus](parry_bonus "wikilink") for

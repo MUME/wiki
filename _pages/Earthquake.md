@@ -1,6 +1,9 @@
 ---
 title: Earthquake
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 Syntax : cast 'earthquake' Type : Offensive, physical, area
 Accumulative: N/A Duration : No Casting : Long Position : Standing,

@@ -1,6 +1,8 @@
 ---
 title: Ignore
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **ignore** command blocks the output of up to 20 other players. If
 you ignore a player, you will not be able to see

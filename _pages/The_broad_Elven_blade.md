@@ -1,6 +1,7 @@
 ---
 title: The broad Elven blade
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 See also: [Glamdring](Glamdring "wikilink")
 

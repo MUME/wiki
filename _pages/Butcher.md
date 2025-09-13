@@ -1,6 +1,8 @@
 ---
 title: Butcher
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Travelling in the wilderness can sometimes result in the poor explorer
 running out of food. The solution to this problem just might be the

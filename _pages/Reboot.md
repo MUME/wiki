@@ -1,6 +1,7 @@
 ---
 title: Reboot
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Every once in a while MUME will need to **reboot** to incorporate new
 [features](features "wikilink") as well as to change or update certain

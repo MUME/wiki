@@ -1,6 +1,7 @@
 ---
 title: Grocer
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Grocers** tend to groceries and general stores in
 [Bree](Bree "wikilink"), [Fornost](Fornost "wikilink") and

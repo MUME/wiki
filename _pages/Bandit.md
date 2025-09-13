@@ -1,6 +1,7 @@
 ---
 title: Bandit
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Bandits** are aggressive level ~6-7 [mobiles](mobile "wikilink"). They
 can be found in various places around [Arda](Arda "wikilink"), notably

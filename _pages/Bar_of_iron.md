@@ -1,6 +1,7 @@
 ---
 title: Bar of iron
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 `A wide bar of iron, coated in black dust, lies here. `
 `>`**`examine bar`**

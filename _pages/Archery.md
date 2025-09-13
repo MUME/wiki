@@ -1,6 +1,7 @@
 ---
 title: Archery
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In order to use missile weapons, you need to wield the weapon, wear the
 appropriate quiver, and fill it with the appropriate missiles. After

@@ -1,6 +1,8 @@
 ---
 title: Eat
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Eat** (or **taste**) and **drink** (or **sip**) are the commands for
 consuming food and drink, respectively. When you're hungry or thirsty,

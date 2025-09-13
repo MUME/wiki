@@ -1,5 +1,6 @@
 ---
 title: Category:Equipment by slot
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 {% include Items.md %}

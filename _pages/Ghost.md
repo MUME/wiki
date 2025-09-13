@@ -1,6 +1,7 @@
 ---
 title: Ghost
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 \> A moaning ghost advances towards you, shimmering with a pale light.
 

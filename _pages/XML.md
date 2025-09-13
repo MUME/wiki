@@ -1,6 +1,7 @@
 ---
 title: XML
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Type change XML to get the following information between \< \>. This is
 mostly used for those that use a [mapper](mapper "wikilink")

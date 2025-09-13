@@ -1,6 +1,8 @@
 ---
 title: Rescue
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 ([Warrior](Warrior "wikilink") [Skill](Skill "wikilink")) \[Instant
 Command\]

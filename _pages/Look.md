@@ -1,6 +1,9 @@
 ---
 title: Look
-tags: ["Help files", "Basics", "Commands"]
+tags:
+  - Help files
+  - Basics
+  - Commands
 ---
 **Look** is a command for studying your surroundings or looking at
 items, creatures etc.

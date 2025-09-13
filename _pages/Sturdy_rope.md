@@ -1,6 +1,7 @@
 ---
 title: Sturdy rope
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 The **sturdy rope** is a [rope](rope "wikilink") that can be used to
 facilitate [climbing](climb "wikilink"). It can be bought from most

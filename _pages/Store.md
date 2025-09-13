@@ -1,6 +1,8 @@
 ---
 title: Store
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'store' Type : Meta magic Accumulative: Special Duration :
 Yes Casting : Extremely long Position : Standing Level : Level 10 Class

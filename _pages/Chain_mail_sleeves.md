@@ -1,6 +1,8 @@
 ---
 title: Chain mail sleeves
-tags: ["Mail equipment", "Arms items"]
+tags:
+  - Mail equipment
+  - Arms items
 ---
 **Chain mail sleeves** are a piece of chain mail equipment worn on the
 [arms](arms "wikilink"). They provide a decent amount of damage

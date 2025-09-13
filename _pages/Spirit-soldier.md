@@ -1,6 +1,7 @@
 ---
 title: Spirit-soldier
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Spirit-soldiers** are aggressive level ~14
 [mobiles](mobile "wikilink") found in [Old

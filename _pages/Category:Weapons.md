@@ -1,6 +1,7 @@
 ---
 title: Category:Weapons
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 [Weapons](Weapon "wikilink") in [MUME](MUME "wikilink"). {% include Items.md %}
 

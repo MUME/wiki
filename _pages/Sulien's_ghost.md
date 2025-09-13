@@ -1,6 +1,7 @@
 ---
 title: Sulien's ghost
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Sulien's ghost** is a level ~7-8 [mobile](mobile "wikilink") found in
 a ruined village east of [Bree](Bree "wikilink"). She follows [Halamor's

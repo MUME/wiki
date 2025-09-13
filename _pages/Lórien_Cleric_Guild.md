@@ -1,6 +1,7 @@
 ---
 title: Lórien Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Anarwen** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at the **Woodland Shrine** in

@@ -1,6 +1,8 @@
 ---
 title: Scout
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 *For the class commonly referred to as scout, see
 [thief](thief "wikilink").*

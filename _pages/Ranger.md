@@ -1,6 +1,8 @@
 ---
 title: Ranger
-tags: ["Help files", "Mobiles"]
+tags:
+  - Help files
+  - Mobiles
 ---
 *This article is about the group of players. For the set of skills, see
 [general](general "wikilink").*

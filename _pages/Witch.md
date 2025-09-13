@@ -1,6 +1,7 @@
 ---
 title: Witch
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **witch** is an aggressive level ~17-18 [mobile](mobile "wikilink")
 located in a tower just southeast of [Fornost](Fornost "wikilink"). She

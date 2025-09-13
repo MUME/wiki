@@ -1,6 +1,7 @@
 ---
 title: Dunland
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 Dunland is a land south of [Eregion](Eregion "wikilink"), north of
 [Rohan](Rohan "wikilink") and west of [Isengard](Isengard "wikilink").

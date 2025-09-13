@@ -1,6 +1,7 @@
 ---
 title: Justice
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Command **'justice**' allows you to read the justice
 [board](board "wikilink") where punishments of cheaters are documented.

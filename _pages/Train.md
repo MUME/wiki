@@ -1,6 +1,8 @@
 ---
 title: Train
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **train** command has three different purposes.
 

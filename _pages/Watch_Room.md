@@ -1,6 +1,8 @@
 ---
 title: Watch Room
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'watch room' \<location\> \[name\] Type : Long range
 Accumulative: Special Duration : Yes Casting : Long Position : Standing

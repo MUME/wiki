@@ -1,6 +1,7 @@
 ---
 title: Dark-green moss
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 **Dark-green moss** is used by the [dwarven
 dye-maker](dwarven_dye-maker "wikilink") to create the

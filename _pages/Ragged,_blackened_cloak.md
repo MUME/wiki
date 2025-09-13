@@ -1,6 +1,8 @@
 ---
 title: Ragged, blackened cloak
-tags: ["Cloth equipment", "Cloaks"]
+tags:
+  - Cloth equipment
+  - Cloaks
 ---
 The **ragged, blackened cloak** is a [cloak](cloak "wikilink") that
 increases [dodge bonus](dodge_bonus "wikilink") and [movement

@@ -1,6 +1,7 @@
 ---
 title: Script
-tags: ["Software"]
+tags:
+  - Software
 ---
 [RULES ACTIONS](http://mume.org/wiki/index.php/Rules_Actions) Unless you
 have read it before, and even then a re-read isn't bad, do so before you

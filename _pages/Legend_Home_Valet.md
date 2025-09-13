@@ -1,6 +1,8 @@
 ---
 title: Legend Home Valet
-tags: ["Help files", "Legend_homes"]
+tags:
+  - Help files
+  - Legend_homes
 ---
 Currently there are two choices when deciding on which valet mob you
 would like for your home:

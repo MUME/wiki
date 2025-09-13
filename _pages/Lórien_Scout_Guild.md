@@ -1,6 +1,7 @@
 ---
 title: Lórien Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Celebrindal** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at [Caras

@@ -1,6 +1,8 @@
 ---
 title: Kick
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 **Kick** is a [warrior](warrior "wikilink") [skill](skill "wikilink").
 The success of a kick depends upon how well you learned the 'kick'

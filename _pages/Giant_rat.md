@@ -1,6 +1,7 @@
 ---
 title: Giant rat
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Giant rats** are aggressive [level](level "wikilink") 2
 [mobiles](mobile "wikilink") found in various locations around Arda,

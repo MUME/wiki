@@ -1,6 +1,7 @@
 ---
 title: External links
-tags: ["Links"]
+tags:
+  - Links
 ---
 This page lists **links** to sites that contribute to the works of JRR
 [Tolkien](Tolkien "wikilink") and other game related stuff. For sites

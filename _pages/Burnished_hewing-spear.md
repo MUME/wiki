@@ -1,6 +1,7 @@
 ---
 title: Burnished hewing-spear
-tags: ["Smiting weapons"]
+tags:
+  - Smiting weapons
 ---
 The **burnished hewing-spear** is a magical [two-handed
 weapon](two-handed_weapon "wikilink"). It contains silver, which makes

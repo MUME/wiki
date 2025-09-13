@@ -1,6 +1,7 @@
 ---
 title: Tower Hills Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **retired warrior** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Retired Warrior's Home** in [Black

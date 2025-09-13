@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide to Suits of Armour and Shields
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide to Suits of Armour and Shields**
 

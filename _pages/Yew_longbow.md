@@ -1,6 +1,7 @@
 ---
 title: Yew longbow
-tags: ["Missile weapons"]
+tags:
+  - Missile weapons
 ---
 The **yew longbow** is a [missile weapon](missile_weapon "wikilink"). It
 is worth around 9 [gold](gold "wikilink") and 19 silver, and is sold by

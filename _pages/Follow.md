@@ -1,6 +1,8 @@
 ---
 title: Follow
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Makes you **follow** a person, so whenever he or she leaves a
 [room](room "wikilink"), you leave too - and most likely in the same

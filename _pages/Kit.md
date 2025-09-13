@@ -1,6 +1,7 @@
 ---
 title: Kit
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Newbie kits consist of helpful items for young adventurers just starting
 out in MUME. Normally a newbie kit will consist of a weapon of some

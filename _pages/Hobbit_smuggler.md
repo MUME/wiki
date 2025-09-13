@@ -1,6 +1,7 @@
 ---
 title: Hobbit smuggler
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Hobbit smugglers** are passive [level](level "wikilink") 5
 [mobiles](mobile "wikilink"), found in the [Pipeweed Smuggler's

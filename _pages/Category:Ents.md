@@ -1,4 +1,5 @@
 ---
 title: Category:Ents
-tags: ["Plants"]
+tags:
+  - Plants
 ---

@@ -1,6 +1,8 @@
 ---
 title: Raise Dead
-tags: ["Spells", "Shaman spells"]
+tags:
+  - Spells
+  - Shaman spells
 ---
 Syntax : cast 'raise dead' Type : Miscellaneous Accumulative: No
 Duration : Yes Casting : Extremely long Position : Standing Level :

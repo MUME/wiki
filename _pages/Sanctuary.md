@@ -1,6 +1,8 @@
 ---
 title: Sanctuary
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 **Sanctuary** (often abbreviated *sanc*) is a level 18
 [cleric](cleric "wikilink") [spell](spell "wikilink"). If cast on a

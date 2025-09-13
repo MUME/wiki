@@ -1,6 +1,9 @@
 ---
 title: Chill Touch
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 **Chill Touch** is a [level](level "wikilink") 3 [mage](mage "wikilink")
 [spell](spell "wikilink"). It deals a small amount of damage and lowers

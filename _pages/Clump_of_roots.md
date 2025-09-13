@@ -1,6 +1,7 @@
 ---
 title: Clump of roots
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Roots** are passive [level](level "wikilink") 12
 [plants](plant "wikilink"). They can trap players, causing them to be

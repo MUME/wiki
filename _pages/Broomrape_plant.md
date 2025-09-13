@@ -1,6 +1,7 @@
 ---
 title: Broomrape plant
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Broomrape plants** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 8 [plants](plant "wikilink") found in

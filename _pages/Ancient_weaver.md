@@ -1,6 +1,7 @@
 ---
 title: Ancient weaver
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **ancient weaver** is a [level](level "wikilink") \<10
 [mobile](mobile "wikilink"), located in a house southwest of the gates

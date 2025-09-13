@@ -1,6 +1,7 @@
 ---
 title: Old East Road Meets Greenway
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 This is an intersection of roads to the west of [Bree](Bree "wikilink").
 The [Old East Road](Old_East_Road "wikilink") going from

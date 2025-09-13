@@ -1,5 +1,6 @@
 ---
 title: Category:Equipment
-tags: ["Items"]
+tags:
+  - Items
 ---
 {% include Items.md %}

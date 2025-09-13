@@ -1,6 +1,7 @@
 ---
 title: Woodsman's axe
-tags: ["Cleaving weapons"]
+tags:
+  - Cleaving weapons
 ---
 The **woodsman's axe** is a [cleaving
 weapon](cleaving_weapon "wikilink"). It is worth around 7

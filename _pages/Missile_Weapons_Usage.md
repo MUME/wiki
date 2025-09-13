@@ -1,6 +1,9 @@
 ---
 title: Missile Weapons Usage
-tags: ["Thief skills", "Help files", "Skills"]
+tags:
+  - Thief skills
+  - Help files
+  - Skills
 ---
 **Missile weapons** are one of the [weapon](weapon "wikilink") types on
 [MUME](MUME "wikilink"). Unlike most other weapon

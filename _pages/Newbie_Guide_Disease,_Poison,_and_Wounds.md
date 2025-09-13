@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Disease, Poison, and Wounds
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Disease, Poison, and Wounds**
 

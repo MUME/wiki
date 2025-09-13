@@ -1,6 +1,7 @@
 ---
 title: Meat
-tags: ["Consumables"]
+tags:
+  - Consumables
 ---
 **Meat** can be acquired by [butchering](butcher "wikilink") the
 [corpses](corpse "wikilink") of some animals. It comes in four sizes:

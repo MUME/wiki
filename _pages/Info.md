@@ -1,6 +1,8 @@
 ---
 title: Info
-tags: ["Help_files", "Commands"]
+tags:
+  - Help_files
+  - Commands
 ---
 The **info** command will give you large amounts of information about
 your character. If you want only limited information

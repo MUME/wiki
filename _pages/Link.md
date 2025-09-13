@@ -1,6 +1,7 @@
 ---
 title: Link
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Link** is a command which shows information about your connection. It
 will show round-trip time (best guess), and what options are active on

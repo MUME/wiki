@@ -1,6 +1,7 @@
 ---
 title: Harlond Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **ranger** teaches [ranger](ranger "wikilink")
 [skills](skill "wikilink") at the **Ranger's Home** in

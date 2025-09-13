@@ -1,4 +1,5 @@
 ---
 title: Category:Shopkeepers
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---

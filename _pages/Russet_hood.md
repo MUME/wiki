@@ -1,6 +1,8 @@
 ---
 title: Russet hood
-tags: ["Cloth equipment", "Head items"]
+tags:
+  - Cloth equipment
+  - Head items
 ---
 `A russet coloured hood lies on the ground.`
 `>`**`examine hood`**

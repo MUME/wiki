@@ -1,6 +1,8 @@
 ---
 title: Rohan
-tags: ["Cities", "Locations"]
+tags:
+  - Cities
+  - Locations
 ---
 ## In the books
 

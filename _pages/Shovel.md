@@ -1,6 +1,7 @@
 ---
 title: Shovel
-tags: ["Smiting weapons"]
+tags:
+  - Smiting weapons
 ---
 `A dirty shovel is lying on the ground here.`
 `>`**`examine shovel`**

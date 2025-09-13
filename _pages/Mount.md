@@ -1,6 +1,8 @@
 ---
 title: Mount
-tags: ["Commands", "Basics"]
+tags:
+  - Commands
+  - Basics
 ---
 Mounts are [mobiles](mobiles "wikilink") that can be lead and ridden to
 help you to move further without getting tired or to carry extra

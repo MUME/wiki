@@ -1,6 +1,9 @@
 ---
 title: Consider
-tags: ["Help_files", "Basics", "Commands"]
+tags:
+  - Help_files
+  - Basics
+  - Commands
 ---
 Syntax: **consider** \<mobile \| player \| object\>
 

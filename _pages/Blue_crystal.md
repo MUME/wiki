@@ -1,6 +1,7 @@
 ---
 title: Blue crystal
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 The **blue crystal** is an [item](item "wikilink") use for creating
 [foci](focus "wikilink"). It loads on [Old Man

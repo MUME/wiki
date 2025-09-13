@@ -1,6 +1,8 @@
 ---
 title: Sturdy soft leather boots
-tags: ["Leather equipment", "Feet items"]
+tags:
+  - Leather equipment
+  - Feet items
 ---
 **Sturdy soft leather boots** are a piece of soft leather equipment worn
 on the [feet](feet "wikilink"). They provide a small amount of damage

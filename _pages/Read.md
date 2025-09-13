@@ -1,6 +1,8 @@
 ---
 title: Read
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Obviously, this is used for reading things.
 

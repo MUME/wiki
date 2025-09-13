@@ -1,6 +1,7 @@
 ---
 title: Colour
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 To get your favourite MUD in ANSI colour, use the "change colour"
 command.

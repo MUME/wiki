@@ -1,6 +1,7 @@
 ---
 title: Glamdring
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 This broad shiny blade was crafted by the Elves of Gondolin in the
 [First Age](First_Age "wikilink") of [Middle

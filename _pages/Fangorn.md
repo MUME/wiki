@@ -1,6 +1,7 @@
 ---
 title: Fangorn
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Fangorn** is the home of the [Ents](Ent "wikilink"). It is a large
 forested area, located between [Isengard](Isengard "wikilink") and

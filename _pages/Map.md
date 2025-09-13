@@ -1,6 +1,8 @@
 ---
 title: Map
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you want a **map** of a portion of [MUME](MUME "wikilink"), you have
 to draw it yourself. We want to encourage people to explore the game. A

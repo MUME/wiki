@@ -1,6 +1,7 @@
 ---
 title: Shortbow
-tags: ["Missile weapons"]
+tags:
+  - Missile weapons
 ---
 The **shortbow** is a [missile weapon](missile_weapon "wikilink"). It is
 worth around 10 [silver](silver "wikilink") and is sold by most

@@ -1,6 +1,7 @@
 ---
 title: Rooftop Thieves' Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **old gentleman** teaches [thief](thief "wikilink")
 [skills](skill "wikilink") in a **Humble Workshop** on the roof of the

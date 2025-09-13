@@ -1,6 +1,7 @@
 ---
 title: Grey Havens
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 ## Grey Havens
 

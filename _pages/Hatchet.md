@@ -1,6 +1,7 @@
 ---
 title: Hatchet
-tags: ["Cleaving weapons"]
+tags:
+  - Cleaving weapons
 ---
 The **hatchet** is a [cleaving weapon](cleaving_weapon "wikilink"). It
 is worth around 4 [silver](silver "wikilink") and is sold by most

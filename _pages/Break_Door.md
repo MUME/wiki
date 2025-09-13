@@ -1,6 +1,8 @@
 ---
 title: Break Door
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 Syntax : cast 'break door' Type : Miscellaneous Accumulative: No
 Duration : Yes Casting : Long Position : Standing Level : Level 17 Class

@@ -1,6 +1,7 @@
 ---
 title: FAQ5
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 **Q: What is a bulletin board?**
 

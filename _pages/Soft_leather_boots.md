@@ -1,6 +1,8 @@
 ---
 title: Soft leather boots
-tags: ["Leather equipment", "Feet items"]
+tags:
+  - Leather equipment
+  - Feet items
 ---
 \> **look boots**
 

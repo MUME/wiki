@@ -1,6 +1,9 @@
 ---
 title: Word of Recall
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Word of Recall** is a level 11 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It takes the caster to the closest *safe*

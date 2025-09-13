@@ -1,6 +1,7 @@
 ---
 title: Exquisite wine glass
-tags: ["Containers"]
+tags:
+  - Containers
 ---
 `A delicate and beautiful crystal glass sits on the ground.`
 `>`**`look at glass`**

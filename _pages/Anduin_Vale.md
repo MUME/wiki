@@ -1,6 +1,7 @@
 ---
 title: Anduin Vale
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 The **Anduin Vale** is home to [Beornings](Beorning "wikilink"), located
 east of the [Misty Mountains](Misty_Mountains "wikilink").

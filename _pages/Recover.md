@@ -1,6 +1,8 @@
 ---
 title: Recover
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 While wearing a quiver, a bolt case or a pouch for slingstones, you can
 **recover** the [missiles](ammunition "wikilink") lying around -- those

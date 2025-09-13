@@ -1,6 +1,8 @@
 ---
 title: Ventriloquate
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'ventriloquate' Type : Miscellaneous Accumulative: N/A
 Duration : No Casting : Very short Position : Standing Level : Level 1

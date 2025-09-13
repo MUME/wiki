@@ -1,6 +1,7 @@
 ---
 title: Robber
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Robbers** are aggressive level ~12-13 [mobs](mob "wikilink") found in
 various locations around [Arda](Arda "wikilink"). They can

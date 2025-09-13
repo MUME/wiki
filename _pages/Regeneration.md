@@ -1,6 +1,7 @@
 ---
 title: Regeneration
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The rate of which your character **regenerates** [hit
 points](hit_points "wikilink"), [mana](mana "wikilink") and [movement

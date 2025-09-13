@@ -1,6 +1,7 @@
 ---
 title: Missile weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Missile weapons](Missile "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Many

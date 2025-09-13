@@ -1,6 +1,7 @@
 ---
 title: Skeletal warrior
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Skeletal warriors** are aggressive level ~14
 [mobiles](mobile "wikilink") found in old [Fornost](Fornost "wikilink")

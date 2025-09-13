@@ -1,6 +1,8 @@
 ---
 title: Malardil's guardsman
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Malardil's guardsmen** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's

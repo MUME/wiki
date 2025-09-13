@@ -1,6 +1,7 @@
 ---
 title: Category:FAQS
-tags: ["Help_files"]
+tags:
+  - Help_files
 ---
 The following FAQ files for new players are also available:
 

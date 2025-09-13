@@ -1,6 +1,7 @@
 ---
 title: Butcher's cleaver
-tags: ["Cleaving weapons"]
+tags:
+  - Cleaving weapons
 ---
 \> **consider cleaver**
 

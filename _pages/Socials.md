@@ -1,6 +1,7 @@
 ---
 title: Socials
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 ac(cuse) che(er) fr(own) mas(sage) sha(ke) sy(mpathize) ad(monish)
 cho(ke) fre(nch) mo(an) shi(ver) tac(kle) ado(re) cla(p) frol(ic)

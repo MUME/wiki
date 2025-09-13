@@ -1,6 +1,7 @@
 ---
 title: Trollshaws
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 ## Warrens
 

@@ -1,6 +1,7 @@
 ---
 title: Giant fungus
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Giant fungi** are passive [level](level "wikilink") \<10
 [mobiles](mobile "wikilink").

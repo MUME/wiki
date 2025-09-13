@@ -1,6 +1,8 @@
 ---
 title: Protection From Evil
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Protection from Evil** is a level 4 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It temporarily makes evil creatures less

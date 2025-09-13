@@ -1,6 +1,7 @@
 ---
 title: Hometowns
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Certain aspects of the game depend on your **hometown**, such as
 calculating [rent](rent "wikilink") costs. Rent costs are lower in

@@ -1,6 +1,7 @@
 ---
 title: Warg
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 ![](warg.jpg "warg.jpg")''\]\]
 

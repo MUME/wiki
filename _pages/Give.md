@@ -1,6 +1,8 @@
 ---
 title: Give
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **give** command transfers objects between characters and
 [mobiles](mobile "wikilink").

@@ -1,6 +1,8 @@
 ---
 title: New Hero Guide (Welcome to level 21)
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Guide to New Heros**
 

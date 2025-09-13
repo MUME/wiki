@@ -1,6 +1,7 @@
 ---
 title: Berel
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Berel** is a woman living in a small village southwest of
 [Lorien](Lorien "wikilink"). She is looking for somebody to

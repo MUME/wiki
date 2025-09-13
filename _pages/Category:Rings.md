@@ -1,5 +1,6 @@
 ---
 title: Category:Rings
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 {% include Items.md %}

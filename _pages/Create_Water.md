@@ -1,6 +1,9 @@
 ---
 title: Create Water
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Create water** is a level 2 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). When cast on a container it will fill the

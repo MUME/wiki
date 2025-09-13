@@ -1,6 +1,8 @@
 ---
 title: Sleep
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 *For the spell, see [Sleep Spell](Sleep_Spell "wikilink").*
 

@@ -1,6 +1,7 @@
 ---
 title: Milk
-tags: ["Commands"]
+tags:
+  - Commands
 ---
 Players who feel the farmer-blood in their veins can now exercise
 themselves on cows or goats, by filling their skins through milking

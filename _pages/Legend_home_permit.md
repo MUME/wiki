@@ -1,6 +1,7 @@
 ---
 title: Legend home permit
-tags: ["Legend homes"]
+tags:
+  - Legend homes
 ---
 ## How to Apply for a Legend Home Building Permit
 

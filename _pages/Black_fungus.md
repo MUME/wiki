@@ -1,6 +1,7 @@
 ---
 title: Black fungus
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Black fungi** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 10 [plants](plant "wikilink"), found in

@@ -1,6 +1,7 @@
 ---
 title: Shadow
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Some of the powerful beings wandering Arda nowadays may well leave a
 shadow behind after they fall. Such shadows will strive to protect the

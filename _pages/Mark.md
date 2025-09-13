@@ -1,6 +1,8 @@
 ---
 title: Mark
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 This command can be used to **mark** a message on a bulletin
 [board](board "wikilink") that you wish to remember.

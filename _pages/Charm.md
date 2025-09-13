@@ -1,6 +1,8 @@
 ---
 title: Charm
-tags: ["Spells", "Mage spells"]
+tags:
+  - Spells
+  - Mage spells
 ---
 **Charm** is a [level](level "wikilink") 14 [mage](mage "wikilink")
 [spell](spell "wikilink"). When cast upon a

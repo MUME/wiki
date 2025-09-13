@@ -1,6 +1,7 @@
 ---
 title: Long and scaly snakeskin
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \>**examine snakeskin**
 

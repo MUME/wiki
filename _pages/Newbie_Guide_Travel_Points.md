@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Travel Points
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Travel Points**
 

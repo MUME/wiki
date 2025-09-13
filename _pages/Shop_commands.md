@@ -1,6 +1,8 @@
 ---
 title: Shop commands
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Use these **commands** in [shops](shop "wikilink"). 'Buy' can also be
 used in [stables](stable "wikilink")/pet-shops.

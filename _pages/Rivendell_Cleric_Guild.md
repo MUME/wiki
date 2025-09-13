@@ -1,6 +1,7 @@
 ---
 title: Rivendell Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **elven priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at the **Cleric Guild** in

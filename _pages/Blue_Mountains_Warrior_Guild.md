@@ -1,6 +1,7 @@
 ---
 title: Blue Mountains Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Frag** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") in the **Warrior Guild** in [Blue

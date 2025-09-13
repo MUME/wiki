@@ -1,6 +1,8 @@
 ---
 title: Flush
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Type **flush** \<[effort](effort "wikilink")\> (quickly, fast, normally,
 carefully, thoroughly) to look for [hidden](hide "wikilink") people and

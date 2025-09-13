@@ -1,6 +1,9 @@
 ---
 title: Cure Serious
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Cure Serious** is a level 5 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It gives an increase in hit points for the

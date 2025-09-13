@@ -1,6 +1,7 @@
 ---
 title: Tower Hills Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **crippled ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Low Stone Cabin** in [Black

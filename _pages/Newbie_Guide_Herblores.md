@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Herblores
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Herblores**
 

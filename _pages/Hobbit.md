@@ -1,6 +1,7 @@
 ---
 title: Hobbit
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 ![](Hobbits.jpg "Hobbits.jpg") in *[The Lord of the Rings: The
 Fellowship of the

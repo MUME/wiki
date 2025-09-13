@@ -1,6 +1,8 @@
 ---
 title: Reply
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 This command is used to **reply** to a message on a bulletin
 [board](board "wikilink").

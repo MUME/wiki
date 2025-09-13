@@ -1,6 +1,7 @@
 ---
 title: Ingrove Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Tymen** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Home of a Hardened Warrior** in

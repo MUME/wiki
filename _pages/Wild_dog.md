@@ -1,6 +1,7 @@
 ---
 title: Wild dog
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Wild dogs** are aggressive [level](level "wikilink") ~12-13
 [mobiles](mobile "wikilink"), found in various locations around

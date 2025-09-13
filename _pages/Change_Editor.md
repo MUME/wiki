@@ -1,6 +1,7 @@
 ---
 title: Change Editor
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Using this command you select how you edit text in MUME.
 

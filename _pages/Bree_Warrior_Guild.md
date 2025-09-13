@@ -1,6 +1,7 @@
 ---
 title: Bree Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Gathrain** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Guard's Training Room** in

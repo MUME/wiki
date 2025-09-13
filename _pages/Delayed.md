@@ -1,6 +1,7 @@
 ---
 title: Delayed
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Certain commands need time to perform, such as spellcasting. This pause
 is represented by a 'whirling' slash (/, -, \\. Commands which use this

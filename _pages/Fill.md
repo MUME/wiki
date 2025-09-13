@@ -1,6 +1,8 @@
 ---
 title: Fill
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Fill** is used to fill your lantern with [oil](oil "wikilink") from a
 [dark coloured flask](dark_coloured_flask "wikilink") or other source.

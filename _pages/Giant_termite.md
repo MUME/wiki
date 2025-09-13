@@ -1,6 +1,7 @@
 ---
 title: Giant termite
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Giant termites** are aggressive [level](level "wikilink") 11
 [mobiles](mobile "wikilink") found in various locations around

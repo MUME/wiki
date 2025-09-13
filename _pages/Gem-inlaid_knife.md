@@ -1,6 +1,7 @@
 ---
 title: Gem-inlaid knife
-tags: ["Piercing weapons"]
+tags:
+  - Piercing weapons
 ---
 `A knife, inlaid with dazzling gemstones, has been left here.`
 `>`**`examine gem-inlaid`**

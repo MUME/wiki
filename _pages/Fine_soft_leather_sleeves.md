@@ -1,6 +1,8 @@
 ---
 title: Fine soft leather sleeves
-tags: ["Leather equipment", "Arms items"]
+tags:
+  - Leather equipment
+  - Arms items
 ---
 \> **examine sleeves**
 

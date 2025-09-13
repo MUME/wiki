@@ -1,6 +1,7 @@
 ---
 title: Great werewolf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 \> **look wolf**
 

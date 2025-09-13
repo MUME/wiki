@@ -1,6 +1,7 @@
 ---
 title: Lute
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \>**examine lute**
 

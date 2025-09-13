@@ -1,6 +1,8 @@
 ---
 title: Cotton pants
-tags: ["Cloth equipment", "Legs items"]
+tags:
+  - Cloth equipment
+  - Legs items
 ---
 \> **look pants**
 

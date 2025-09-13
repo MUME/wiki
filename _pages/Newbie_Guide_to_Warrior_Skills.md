@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide to Warrior Skills
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 Newbie Guide to Warrior Skills
 

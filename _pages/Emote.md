@@ -1,6 +1,8 @@
 ---
 title: Emote
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **emote** [command](commands "wikilink") is used to show emotions or
 actions. For example (assuming your character's name is Bilbo):

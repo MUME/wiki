@@ -1,6 +1,8 @@
 ---
 title: Learn
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 It is possible to **learn** a [skill](skill "wikilink") from another
 player if:

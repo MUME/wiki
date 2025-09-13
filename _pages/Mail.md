@@ -1,6 +1,8 @@
 ---
 title: Mail
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **mail** system lets you send a message to one or more recipients.
 Mail has a lifetime of 60 days if unread and 30 if read. Because mail is

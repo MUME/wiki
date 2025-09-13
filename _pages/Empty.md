@@ -1,6 +1,8 @@
 ---
 title: Empty
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you wish to **empty** a [container](container "wikilink"), you can
 use the empty command:

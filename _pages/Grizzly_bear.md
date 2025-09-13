@@ -1,6 +1,7 @@
 ---
 title: Grizzly bear
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Grizzly bears** are aggressive [level](level "wikilink") 15
 [mobiles](mobile "wikilink"), found in various locations around

@@ -1,6 +1,8 @@
 ---
 title: Find the Path
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'find the path' Type : Long range Accumulative: N/A
 Duration : No Casting : Very long Position : Standing Level : Level 6

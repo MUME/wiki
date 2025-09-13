@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Leveling 1 to 12
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Leveling 1 to 12**
 

@@ -1,6 +1,7 @@
 ---
 title: Keyring
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Instead of keeping plenty of keys in your pockets, you can place them on
 a keyring. Keyrings can either be held, worn on your wrist or worn on

@@ -1,5 +1,6 @@
 ---
 title: Category:Mage spells
-tags: ["Mage"]
+tags:
+  - Mage
 ---
 [\*Mage spells](Category:_Spells "wikilink") 

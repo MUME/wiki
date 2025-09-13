@@ -1,6 +1,7 @@
 ---
 title: Marred wedding ring
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 The **marred wedding ring** is an [item](item "wikilink") needed for the
 [crippled ranger](Tower_Hills_Ranger_Guild "wikilink")'s

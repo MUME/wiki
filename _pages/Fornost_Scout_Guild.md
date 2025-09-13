@@ -1,6 +1,7 @@
 ---
 title: Fornost Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **veteran Dúnadan scout** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Scout Training Room** in

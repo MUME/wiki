@@ -1,6 +1,7 @@
 ---
 title: Chief thug
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **chief thug** is an aggressive level ~12-13 [mob](mob "wikilink")
 found in the bandit castle east of [Bree](Bree "wikilink"). He loads a

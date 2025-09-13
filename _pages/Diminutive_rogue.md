@@ -1,6 +1,7 @@
 ---
 title: Diminutive rogue
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Diminutive rogues** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's

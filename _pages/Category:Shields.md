@@ -1,4 +1,5 @@
 ---
 title: Category:Shields
-tags: ["Armour"]
+tags:
+  - Armour
 ---

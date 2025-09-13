@@ -1,6 +1,8 @@
 ---
 title: Yell
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you want all the players near you to hear something, **yell** it.
 Your voice will travel better indoors, and doors will make it travel

@@ -1,6 +1,7 @@
 ---
 title: Baker
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Bakers** tend to the bakeries in [Bree](Bree_Baker "wikilink"),
 [Fornost](Fornost_Baker "wikilink") and

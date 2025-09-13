@@ -1,6 +1,7 @@
 ---
 title: Concussion weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Concussion weapons](Concussion_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They

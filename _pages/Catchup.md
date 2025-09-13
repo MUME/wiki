@@ -1,6 +1,8 @@
 ---
 title: Catchup
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 Syntax: **catchup** \[<number>\|<name>\]
 

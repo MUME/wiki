@@ -1,6 +1,8 @@
 ---
 title: Dispel Magic
-tags: ["Spells", "Mage spells"]
+tags:
+  - Spells
+  - Mage spells
 ---
 Syntax : cast 'dispel magic' \<victim \| object\> Type : Offensive, meta
 magic Accumulative: No Duration : No Casting : Very long Position :

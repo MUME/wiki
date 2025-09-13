@@ -1,6 +1,7 @@
 ---
 title: Fornost Herbalist
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 An **elderly herbalist** tends to the **Herb Shop** in
 [Fornost](Fornost "wikilink"). The store is open 6am - 12pm and 1pm -

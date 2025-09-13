@@ -1,6 +1,8 @@
 ---
 title: Whois
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **whois** command gives you some information about a player. You can
 see his [race](race "wikilink"), his [class](class "wikilink") and

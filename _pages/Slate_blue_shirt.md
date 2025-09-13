@@ -1,6 +1,8 @@
 ---
 title: Slate blue shirt
-tags: ["Cloth equipment", "Body items"]
+tags:
+  - Cloth equipment
+  - Body items
 ---
 The **slate blue shirt** is a piece of cloth equipment worn on the
 [body](body "wikilink"). It loads in the [Halls of

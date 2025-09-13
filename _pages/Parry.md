@@ -1,6 +1,8 @@
 ---
 title: Parry
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 **Parry** is a [warrior](warrior "wikilink") [skills](skill "wikilink")
 that will improve parrying bonus with given equipment. After a certain

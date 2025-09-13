@@ -1,6 +1,7 @@
 ---
 title: Spell Information
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you want a list of all spells, visit this [Spell
 List](Spell "wikilink")

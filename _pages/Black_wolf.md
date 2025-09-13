@@ -1,6 +1,7 @@
 ---
 title: Black wolf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Black wolves** are level ~6-7 mobs found in various places around
 [Arda](Arda "wikilink"). They are normally not aggressive, but may be

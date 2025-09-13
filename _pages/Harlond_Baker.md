@@ -1,6 +1,7 @@
 ---
 title: Harlond Baker
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 The **elven baker** tends to the **Bakery** in
 [Harlond](Harlond "wikilink"). The store is open from 7am - 7pm.

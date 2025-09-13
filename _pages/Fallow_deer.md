@@ -1,6 +1,7 @@
 ---
 title: Fallow deer
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Fallow deer** are passive level ~1-2 [mobiles](mobiles "wikilink"),
 found in various locations around [Arda](Arda "wikilink"). Their corpses

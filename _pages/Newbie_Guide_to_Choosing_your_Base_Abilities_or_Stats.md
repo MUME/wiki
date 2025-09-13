@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide to Choosing your Base Abilities or Stats
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 This is a basic and simplified guide to how and why you should choose
 your base abilities for different classes. As such it is mostly aimed at

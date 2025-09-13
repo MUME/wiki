@@ -1,6 +1,7 @@
 ---
 title: Azure scroll
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **examine azure**
 The azure-coloured parchment is covered with neatly written white

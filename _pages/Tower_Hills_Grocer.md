@@ -1,6 +1,7 @@
 ---
 title: Tower Hills Grocer
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 A [grocer](grocer "wikilink") tends to the **Traveller's Shop** in
 [Black Hill](Black_Hill "wikilink"). The store stocks a variety of

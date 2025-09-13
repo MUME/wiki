@@ -1,6 +1,7 @@
 ---
 title: Minas Brethil Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") at the **Top of the Western Tower** in [Minas

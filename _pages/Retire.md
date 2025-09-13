@@ -1,6 +1,7 @@
 ---
 title: Retire
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 There are two reasons for you to **retire**: to prevent auto deletion of
 your character or to obtain a limited [reroll](reroll "wikilink") or

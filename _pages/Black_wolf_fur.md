@@ -1,6 +1,7 @@
 ---
 title: Black wolf fur
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \>**examine fur**
 

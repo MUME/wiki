@@ -1,6 +1,7 @@
 ---
 title: Minas Brethil
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Minas Brethil** is a castle just east of
 [Fornost](Fornost "wikilink"), inhabited by Rhudaurians.

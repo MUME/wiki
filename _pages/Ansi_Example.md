@@ -1,6 +1,7 @@
 ---
 title: Ansi Example
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In MUME you can use the ANSI standard in room descriptions, keywords,
 whois' and virtually any text that may be edited through the local

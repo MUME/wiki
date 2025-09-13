@@ -1,6 +1,8 @@
 ---
 title: Plain silken sash
-tags: ["Cloth equipment", "Belts"]
+tags:
+  - Cloth equipment
+  - Belts
 ---
 The **plain silken sash** is a [belt](belt "wikilink"). It is worth
 around 7 [silver](silver "wikilink") and 50 copper, and is sold by most

@@ -1,6 +1,7 @@
 ---
 title: Two-handed weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Two-handed weapons](Two-handed_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They

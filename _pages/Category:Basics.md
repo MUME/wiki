@@ -1,6 +1,7 @@
 ---
 title: Category:Basics
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 This is a brief outline of some of the basic commands that are used in
 Mume. Further help is available for each of them by clicking on the

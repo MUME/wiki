@@ -1,6 +1,7 @@
 ---
 title: Rooting stems
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Rooting stems** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 8 [plants](plant "wikilink") found in

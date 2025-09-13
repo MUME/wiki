@@ -1,6 +1,7 @@
 ---
 title: MClient
-tags: ["Software"]
+tags:
+  - Software
 ---
 ## Description
 

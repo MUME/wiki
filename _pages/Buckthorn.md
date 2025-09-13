@@ -1,6 +1,7 @@
 ---
 title: Buckthorn
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Buckthorns** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 7 [plants](plant "wikilink") found in

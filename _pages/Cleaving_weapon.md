@@ -1,6 +1,7 @@
 ---
 title: Cleaving weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Cleaving weapons](Cleaving_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). Most

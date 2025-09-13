@@ -1,6 +1,7 @@
 ---
 title: Tower Hills
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 The **Tower Hills** are located between [Grey
 Havens](Grey_Havens "wikilink") and [Aldereon](Aldereon "wikilink")'s

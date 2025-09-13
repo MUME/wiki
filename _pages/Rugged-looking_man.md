@@ -1,6 +1,7 @@
 ---
 title: Rugged-looking man
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **rugged-looking man** is a mobile found in
 [Fornost](Fornost "wikilink").

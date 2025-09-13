@@ -1,6 +1,7 @@
 ---
 title: Thief
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 *For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
 

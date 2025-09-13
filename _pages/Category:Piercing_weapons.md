@@ -1,5 +1,6 @@
 ---
 title: Category:Piercing weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

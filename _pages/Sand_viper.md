@@ -1,6 +1,7 @@
 ---
 title: Sand viper
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Sand vipers** are aggressive [level](level "wikilink") \<10
 [mobiles](mobile "wikilink"), found mostly in the hills south of

@@ -1,6 +1,9 @@
 ---
 title: Fear
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Fear** is a level 15 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will instill a surge of fear in every

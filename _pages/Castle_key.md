@@ -1,6 +1,7 @@
 ---
 title: Castle key
-tags: ["Keys"]
+tags:
+  - Keys
 ---
 The **castle key** can be used to unlock some [doors](door "wikilink")
 within [Malardil's castle](Malardil's_castle "wikilink"). It loads on

@@ -1,6 +1,8 @@
 ---
 title: Identify
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Identify** is a [level](level "wikilink") 15 [mage](mage "wikilink")
 [spell](spell "wikilink"). When [cast](cast "wikilink") on an

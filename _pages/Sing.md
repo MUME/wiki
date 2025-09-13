@@ -1,6 +1,8 @@
 ---
 title: Sing
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you want to **sing** to all the other players in the game, sing it
 with the command 'sing <argument>'. You can choose whether to receive

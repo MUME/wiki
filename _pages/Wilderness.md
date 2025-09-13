@@ -1,6 +1,8 @@
 ---
 title: Wilderness
-tags: ["Ranger skills", "Skills"]
+tags:
+  - Ranger skills
+  - Skills
 ---
 **Wilderness** is a [ranger](general "wikilink")
 [skill](skill "wikilink") that allows one to survive better in the wild.

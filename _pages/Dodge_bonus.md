@@ -1,6 +1,7 @@
 ---
 title: Dodge bonus
-tags: ["Statistics"]
+tags:
+  - Statistics
 ---
 The **dodge bonus** (DB%) is a defensive bonus. It is similar to your
 [parry bonus](parry_bonus "wikilink") (PB%). There are some notable

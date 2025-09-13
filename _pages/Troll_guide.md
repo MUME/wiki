@@ -1,6 +1,7 @@
 ---
 title: Troll guide
-tags: ["Guides"]
+tags:
+  - Guides
 ---
 - Authors: Hawai, Dearth. Contributors: Aloonion, Baca, Belamir, Belond,
   Carl, Blourg, Elestir, Enforcer, Finwë, Knack, Kostja, Kzog, Lingura,

@@ -1,6 +1,8 @@
 ---
 title: Embed
-tags: ["Help files", "Equipment"]
+tags:
+  - Help files
+  - Equipment
 ---
 Some artisans all around Arda are able to EMBED items into
 [staves](Staff "wikilink"). Metallic bands will make the staff harder,

@@ -1,6 +1,8 @@
 ---
 title: Enter
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you type "**enter**" while you are outdoors, you'll enter any nearby
 shelter. You can also follow 'enter' with an argument; for example,

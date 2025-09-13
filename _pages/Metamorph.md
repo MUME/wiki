@@ -1,6 +1,8 @@
 ---
 title: Metamorph
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Usage: **metamorph** <animal>
 

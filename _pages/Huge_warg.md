@@ -1,6 +1,7 @@
 ---
 title: Huge warg
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Huge wargs** are aggressive level ~13-14 [mobs](mob "wikilink") found
 mostly in the eastern parts of [Arda](Arda "wikilink"). They can

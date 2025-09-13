@@ -1,6 +1,7 @@
 ---
 title: Alignment
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Your **alignment** is basically a way of measuring your morals. Good
 alignment is obtained by good actions and no evil deeds, evil alignment

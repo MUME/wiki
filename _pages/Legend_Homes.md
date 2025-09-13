@@ -1,6 +1,8 @@
 ---
 title: Legend Homes
-tags: ["Help files", "Legend_homes"]
+tags:
+  - Help files
+  - Legend_homes
 ---
 Legend homes may be bought by characters of level 30 or higher among the
 Free People of Arda. If the owner subsequently falls below this level

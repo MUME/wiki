@@ -1,6 +1,7 @@
 ---
 title: Blackened pendant
-tags: ["Neck items"]
+tags:
+  - Neck items
 ---
 The **blackened pendant** can be worn around the
 [neck](neck "wikilink"). It loads on some uruk-hai

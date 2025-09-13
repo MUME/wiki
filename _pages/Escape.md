@@ -1,6 +1,8 @@
 ---
 title: Escape
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Escape** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to exit a fight without [fleeing](flee "wikilink") if you are

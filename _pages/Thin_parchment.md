@@ -1,6 +1,7 @@
 ---
 title: Thin parchment
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 The **thin parchment** can be [read](read "wikilink") to learn the
 [antidote](Herblore#Antidote "wikilink") herblore. It loads on the chief

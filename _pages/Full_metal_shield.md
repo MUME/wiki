@@ -1,6 +1,7 @@
 ---
 title: Full metal shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 `A full metal shield is on the ground.`
 `>`**`examine shield`**

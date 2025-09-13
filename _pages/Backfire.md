@@ -1,6 +1,7 @@
 ---
 title: Backfire
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 A **backfire** will occur when you fail to [cast](cast "wikilink") a
 [spell](spell "wikilink"). The effects become nastier as the spell level

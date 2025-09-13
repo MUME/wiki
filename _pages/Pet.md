@@ -1,6 +1,7 @@
 ---
 title: Pet
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In certain towns and home areas one may [purchase](buy "wikilink")
 animals. A common example of this is the ability to buy a

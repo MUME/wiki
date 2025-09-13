@@ -1,5 +1,6 @@
 ---
 title: Category:Charging weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

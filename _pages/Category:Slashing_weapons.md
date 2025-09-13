@@ -1,5 +1,6 @@
 ---
 title: Category:Slashing weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

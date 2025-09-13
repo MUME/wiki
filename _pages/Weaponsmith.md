@@ -1,6 +1,7 @@
 ---
 title: Weaponsmith
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Weaponsmiths** tend to the weapon shops in
 [Bree](Bree_Weaponsmith "wikilink"),

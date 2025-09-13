@@ -1,6 +1,7 @@
 ---
 title: River Otter
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 A cute, furry mustelid found near the waters around
 [Fornost](Fornost "wikilink") that might be worth its weight in

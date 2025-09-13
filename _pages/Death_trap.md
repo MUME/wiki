@@ -1,6 +1,7 @@
 ---
 title: Death trap
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 A **death trap** is a [room](room "wikilink") where anyone who enters
 dies immediately. Examples of death traps are bottomless pits, gaping

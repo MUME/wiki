@@ -1,6 +1,7 @@
 ---
 title: Wolf cub
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Wolf cubs** are passive [level](level "wikilink") ~1-2
 [mobiles](mobile "wikilink"), found in various locations around

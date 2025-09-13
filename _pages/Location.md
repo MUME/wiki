@@ -1,6 +1,7 @@
 ---
 title: Location
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 The continent of [Middle-earth](Middle-earth "wikilink") was shaped at
 the most ancient days of Arda. It lay to the east of the other great

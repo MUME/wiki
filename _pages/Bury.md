@@ -1,6 +1,8 @@
 ---
 title: Bury
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: **bury** corpse
 

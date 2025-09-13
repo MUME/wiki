@@ -1,6 +1,8 @@
 ---
 title: Bansite
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **bansite** command lists the currently banned sites. Players trying
 to log on from the listed sites will have their connection closed.

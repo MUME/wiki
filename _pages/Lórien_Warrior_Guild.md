@@ -1,6 +1,7 @@
 ---
 title: Lórien Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Haldir** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Peleryn of the Guards** in [Caras

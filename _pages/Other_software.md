@@ -1,6 +1,7 @@
 ---
 title: Other software
-tags: ["Software"]
+tags:
+  - Software
 ---
 [Mudlle](Mudlle "wikilink")
 

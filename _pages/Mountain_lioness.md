@@ -1,6 +1,7 @@
 ---
 title: Mountain lioness
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Mountain lionesses** are aggressive [level](level "wikilink") 13
 [mobs](mob "wikilink") found mainly in the mountains around [Grey

@@ -1,5 +1,6 @@
 ---
 title: City
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 1.  Redirect

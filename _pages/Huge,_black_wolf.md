@@ -1,6 +1,7 @@
 ---
 title: Huge, black wolf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Huge, black wolves** are aggressive [level](level "wikilink") 8
 [mobiles](mobile "wikilink") found in various places around

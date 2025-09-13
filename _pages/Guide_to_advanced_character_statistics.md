@@ -1,6 +1,7 @@
 ---
 title: Guide to advanced character statistics
-tags: ["Guides"]
+tags:
+  - Guides
 ---
 **Introduction**
 

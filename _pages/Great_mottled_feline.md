@@ -1,6 +1,7 @@
 ---
 title: Great mottled feline
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Great mottled felines** are aggressive [level](level "wikilink")
 ~12-13 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin.

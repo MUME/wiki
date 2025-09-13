@@ -1,6 +1,7 @@
 ---
 title: The Elven shortsword with a runic inscription
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 See also: [Sting](Sting "wikilink")
 

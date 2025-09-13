@@ -1,6 +1,8 @@
 ---
 title: Hit
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Hit** and **kill** are [commands](commands "wikilink") that can be
 used to start a [fight](combat "wikilink"). If you are fighting more

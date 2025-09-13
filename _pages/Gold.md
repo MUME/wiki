@@ -1,6 +1,7 @@
 ---
 title: Gold
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 *Copper redirects here. For the magical ring made from the metal, see
 [copper ring](copper_ring "wikilink").*

@@ -1,6 +1,7 @@
 ---
 title: Druid
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **druid** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") in his home northwest of

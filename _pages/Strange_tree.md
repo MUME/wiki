@@ -1,6 +1,7 @@
 ---
 title: Strange tree
-tags: ["Ents"]
+tags:
+  - Ents
 ---
 The **strange tree** is a [level](level "wikilink") 18
 [Ent](Ent "wikilink") living in [Fangorn](Fangorn "wikilink") forest. He

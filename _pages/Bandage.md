@@ -1,6 +1,9 @@
 ---
 title: Bandage
-tags: ["Ranger skills", "Skills", "Commands"]
+tags:
+  - Ranger skills
+  - Skills
+  - Commands
 ---
 **Bandage** is a [ranger](general "wikilink") [skill](skill "wikilink")
 that allows one to give first aid to someone suffering from different

@@ -1,6 +1,7 @@
 ---
 title: Reroll
-tags: ["Help_files"]
+tags:
+  - Help_files
 ---
 Policy for Rerolls:
 

@@ -1,6 +1,7 @@
 ---
 title: Broad silver belt
-tags: ["Belts"]
+tags:
+  - Belts
 ---
 The **broad silver belt** is a [belt](belt "wikilink") that increases
 [dodge bonus](dodge_bonus "wikilink") by a small amount. It loads on the

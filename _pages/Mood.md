@@ -1,6 +1,7 @@
 ---
 title: Mood
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The [change](change "wikilink") **mood** command enables you to transfer
 bonus points between your [Offensive bonus](Offensive_bonus "wikilink")

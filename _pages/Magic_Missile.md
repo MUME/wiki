@@ -1,6 +1,8 @@
 ---
 title: Magic Missile
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Magic Missile** is a [level](level "wikilink") 1
 [mage](mage "wikilink") [spell](spell "wikilink"). It has a very short

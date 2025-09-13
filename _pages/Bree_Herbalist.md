@@ -1,6 +1,7 @@
 ---
 title: Bree Herbalist
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 An **elderly herbalist** tends to the **Herb Shop** in
 [Bree](Bree "wikilink"). The store is open from 6am to 1pm and 2 pm to 6

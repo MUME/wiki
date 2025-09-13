@@ -1,6 +1,8 @@
 ---
 title: Mend
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 After wear and tear, your [equipment](equipment "wikilink") will
 probably begin to become less effective. For instance, your prize

@@ -1,6 +1,7 @@
 ---
 title: Light boat of reeds
-tags: ["Boats"]
+tags:
+  - Boats
 ---
 **Light boats of reeds** are a common type of [boat](boat "wikilink"),
 mostly found near [waterways](waterways "wikilink") in the [Blue

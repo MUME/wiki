@@ -1,6 +1,7 @@
 ---
 title: Arda
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The continent of Middle-earth was shaped at the most ancient days of
 Arda. It lay to the east of the other great continent of

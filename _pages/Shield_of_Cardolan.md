@@ -1,6 +1,7 @@
 ---
 title: Shield of Cardolan
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **shield of Cardolan** is a lightweight [shield](shield "wikilink").
 It's generally a less desirable option than the [shield of

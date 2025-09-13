@@ -1,6 +1,7 @@
 ---
 title: Names
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 [MUME](MUME "wikilink")'s management strongly encourages in-game
 role-play, though we do not require it. Therefore, in order to preserve

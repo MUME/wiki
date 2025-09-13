@@ -1,5 +1,6 @@
 ---
 title: Category:Missile weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

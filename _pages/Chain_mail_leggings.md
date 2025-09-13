@@ -1,6 +1,8 @@
 ---
 title: Chain mail leggings
-tags: ["Mail equipment", "Legs items"]
+tags:
+  - Mail equipment
+  - Legs items
 ---
 **Chain mail leggings** are a piece of chain mail equipment worn on the
 [legs](legs "wikilink"). They provide a considerable amount of damage

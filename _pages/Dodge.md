@@ -1,6 +1,8 @@
 ---
 title: Dodge
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Dodge** is a [thief](thief "wikilink") [skill](skill "wikilink").
 Similar to [parry](parry "wikilink"), this skill will increase your

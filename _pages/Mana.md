@@ -1,6 +1,7 @@
 ---
 title: Mana
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Mana** is a character's capability of casting
 [spells](spells "wikilink"), represented by a numeric value. High mana

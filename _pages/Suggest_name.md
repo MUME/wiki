@@ -1,6 +1,8 @@
 ---
 title: Suggest name
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 Syntax: **suggest** (a) **name** (for) (a) <gender> <race>
 

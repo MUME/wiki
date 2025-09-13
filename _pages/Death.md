@@ -1,6 +1,7 @@
 ---
 title: Death
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Dying** on [MUME](MUME "wikilink") (except in the case of
 [trolls](troll "wikilink") turned to stone by the sun) does not mean the

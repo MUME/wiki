@@ -1,6 +1,8 @@
 ---
 title: Hard leather trousers
-tags: ["Leather equipment", "Legs items"]
+tags:
+  - Leather equipment
+  - Legs items
 ---
 **Hard leather trousers** are a piece of hard leather equipment worn on
 the [legs](legs "wikilink"). They are worth around 3

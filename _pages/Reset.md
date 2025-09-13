@@ -1,6 +1,8 @@
 ---
 title: Reset
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 The **reset** command is used to clear your memories of a bulletin
 board, marking all messages as unread.

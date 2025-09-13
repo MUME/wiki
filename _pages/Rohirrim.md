@@ -1,6 +1,7 @@
 ---
 title: Rohirrim
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 The **Rohirrim** are the Horse Lords of [Rohan](Rohan "wikilink"). Their
 name for themselves is the Eorlingas. They are tall, blond-haired, and

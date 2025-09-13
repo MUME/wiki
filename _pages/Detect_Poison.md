@@ -1,6 +1,9 @@
 ---
 title: Detect Poison
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Detect Poison** is a level 2 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will tell you whether an item or a pond is

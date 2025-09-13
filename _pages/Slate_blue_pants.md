@@ -1,6 +1,8 @@
 ---
 title: Slate blue pants
-tags: ["Cloth equipment", "Legs items"]
+tags:
+  - Cloth equipment
+  - Legs items
 ---
 **Slate blue pants** are piece of cloth equipment worn on the
 [legs](legs "wikilink"). They load in the [Halls of

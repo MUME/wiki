@@ -1,6 +1,7 @@
 ---
 title: Cloak
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of **cloaks**. Cloaks are worn around the body for protection and
 stealth. Animal furs can also be worn as a cloak. Cloaks help mostly

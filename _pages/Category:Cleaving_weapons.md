@@ -1,5 +1,6 @@
 ---
 title: Category:Cleaving weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

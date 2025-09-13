@@ -1,6 +1,7 @@
 ---
 title: Abbreviations
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 BBT : Bill, Bert, and Tom (some mobs, the place where they stand) bw :
 bloodwight (a mob) chief : Chief of Tharbad (a mob) dk : The Dead Knight

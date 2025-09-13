@@ -1,6 +1,7 @@
 ---
 title: Tharbad Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 The **Illusionist** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at **The Illusionist's Laboratory** in

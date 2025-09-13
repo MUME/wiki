@@ -1,6 +1,7 @@
 ---
 title: Tharbad Thieves' Shop
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 A **grocer** tends to the **Thieves' Shop** in
 [Tharbad](Tharbad "wikilink"). The store is open from 7am to 12pm and

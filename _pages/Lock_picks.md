@@ -1,6 +1,7 @@
 ---
 title: Lock picks
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 # Overview
 

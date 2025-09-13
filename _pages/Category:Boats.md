@@ -1,5 +1,6 @@
 ---
 title: Category:Boats
-tags: ["Items"]
+tags:
+  - Items
 ---
 {% include Items.md %}

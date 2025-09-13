@@ -1,6 +1,8 @@
 ---
 title: Camp
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 <figure>
 <img src="campfire.jpg" title="Image:campfire.jpg" />

@@ -1,6 +1,7 @@
 ---
 title: FAQ2
-tags: ["FAQS"]
+tags:
+  - FAQS
 ---
 **Q: I have to go. How do I keep my stuff?**
 

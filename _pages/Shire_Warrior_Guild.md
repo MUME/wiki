@@ -1,6 +1,7 @@
 ---
 title: Shire Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 The **old Shirriff** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Shirriffs' Office** in Stock. The

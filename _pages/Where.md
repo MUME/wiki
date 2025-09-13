@@ -1,6 +1,8 @@
 ---
 title: Where
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **where** command is really two commands.
 

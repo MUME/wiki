@@ -1,6 +1,7 @@
 ---
 title: Tharbad
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 The once lawful city of **Tharbad** has long since been abandoned to
 civilised use. Lying far south from [Bree](Bree "wikilink"), along the

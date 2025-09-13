@@ -1,6 +1,7 @@
 ---
 title: Mountain lion
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Mountain lions** are aggressive [level](level "wikilink") 15
 [mobiles](mobile "wikilink") found mainly in the mountains north of

@@ -1,6 +1,8 @@
 ---
 title: Warm wool gloves
-tags: ["Cloth equipment", "Hands items"]
+tags:
+  - Cloth equipment
+  - Hands items
 ---
 \> **examine gloves**
 

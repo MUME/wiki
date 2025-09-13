@@ -1,6 +1,8 @@
 ---
 title: Create Light
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Create Light** is a [level](level "wikilink") 4
 [mage](mage "wikilink") [spell](spell "wikilink") that can be used to

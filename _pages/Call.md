@@ -1,6 +1,8 @@
 ---
 title: Call
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Most fortified [towns](town "wikilink") on Arda close their **gates** at
 night. If you are a [citizen](citizen "wikilink") and you are outside a

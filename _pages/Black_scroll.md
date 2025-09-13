@@ -1,6 +1,7 @@
 ---
 title: Black scroll
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **examine blackscroll**
 This scroll is an unevenly cut piece of coal-black parchment covered by

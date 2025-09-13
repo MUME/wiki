@@ -1,6 +1,7 @@
 ---
 title: Terrain
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Each place on [Arda](Arda "wikilink") is characterized by a specific
 **terrain** type, which is represented (in prompts and elsewhere) as

@@ -1,6 +1,7 @@
 ---
 title: Small wooden box
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **examine box**
 This is a small wooden box, secured with a metal catch on the front.

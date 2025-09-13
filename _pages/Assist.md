@@ -1,6 +1,8 @@
 ---
 title: Assist
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **assist** command lets you join somebody who is already
 [fighting](combat "wikilink").

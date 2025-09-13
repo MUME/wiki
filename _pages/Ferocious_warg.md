@@ -1,6 +1,7 @@
 ---
 title: Ferocious warg
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Ferocious wargs** are aggressive level ~11-12 [mobs](mob "wikilink")
 found mostly in the eastern parts of [Arda](Arda "wikilink"). They can

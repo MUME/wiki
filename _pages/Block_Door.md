@@ -1,6 +1,8 @@
 ---
 title: Block Door
-tags: ["Spells", "Mage spells"]
+tags:
+  - Spells
+  - Mage spells
 ---
 **Block Door** is a level 9 [mage](mage "wikilink")
 [spell](spell "wikilink"). If cast on a closed [door](door "wikilink")

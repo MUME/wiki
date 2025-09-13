@@ -1,6 +1,8 @@
 ---
 title: Fine metal greaves
-tags: ["Metal equipment", "Legs items"]
+tags:
+  - Metal equipment
+  - Legs items
 ---
 \> **look greaves**
 

@@ -1,6 +1,7 @@
 ---
 title: Rattlesnake
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Rattlesnakes** are aggressive level ~14 [mobiles](mobile "wikilink")
 found in various places around [Arda](Arda "wikilink"). They have a

@@ -1,6 +1,7 @@
 ---
 title: Title
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Starting on level 21, characters on MUME can choose their own title.
 This is done via "CHANGE TITLE <new title>".

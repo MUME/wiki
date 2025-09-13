@@ -1,6 +1,7 @@
 ---
 title: Client
-tags: ["Software"]
+tags:
+  - Software
 ---
 **Clients** are used to connect to [MUME](MUME "wikilink"). You can
 connect using plain telnet. It should be already available on your OS.

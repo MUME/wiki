@@ -1,6 +1,7 @@
 ---
 title: Day
-tags: ["Basics"]
+tags:
+  - Basics
 ---
 Day names: (Dunedain) (Sindarin) "Sterday" "Orgilion" "Sunday" "Oranor"
 "Monday" "Orithil" "Trewsday" "Orgaladhad" "Hevensday" "Ormenel"

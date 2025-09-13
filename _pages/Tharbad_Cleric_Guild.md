@@ -1,6 +1,7 @@
 ---
 title: Tharbad Cleric Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **priest** teaches [cleric](cleric "wikilink")
 [spells](spell "wikilink") **Up in the Tower** in the northwestern

@@ -1,6 +1,8 @@
 ---
 title: Spectre
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Spectres** are aggressive level ? [mobs](mob "wikilink"). They are
 summoned by [Nagrorh](Nagrorh "wikilink"), and will

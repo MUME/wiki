@@ -1,6 +1,8 @@
 ---
 title: Steal
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Steal** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to steal [gold](gold "wikilink") or items from people. The

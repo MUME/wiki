@@ -1,6 +1,8 @@
 ---
 title: Remove
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 To **remove** [equipment](equipment "wikilink") you are
 [wearing](wear "wikilink"), [wielding](wield "wikilink") or

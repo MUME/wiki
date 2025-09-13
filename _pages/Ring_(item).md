@@ -1,6 +1,7 @@
 ---
 title: Ring (item)
-tags: ["Rings"]
+tags:
+  - Rings
 ---
 *For a list of all rings, see [ring](ring "wikilink").*
 

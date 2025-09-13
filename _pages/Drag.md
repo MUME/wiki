@@ -1,6 +1,8 @@
 ---
 title: Drag
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: 'drag corpse'
 

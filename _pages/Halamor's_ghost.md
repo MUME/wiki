@@ -1,6 +1,7 @@
 ---
 title: Halamor's ghost
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Halamor's ghost** is a level ~17-18 [mobile](mobile "wikilink") found
 in a ruined village east of [Bree](Bree "wikilink"). He can

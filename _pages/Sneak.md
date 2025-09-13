@@ -1,6 +1,8 @@
 ---
 title: Sneak
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 Usage: sneak \[on\|off\]
 

@@ -1,6 +1,7 @@
 ---
 title: Ainur
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The **Ainur** are the immortals of [MUME](MUME "wikilink"). They do not
 take part of playing the game, but shape the world and keeps it running.

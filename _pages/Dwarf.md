@@ -1,6 +1,7 @@
 ---
 title: Dwarf
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 ![](Gimli.jpg "Gimli.jpg")''\]\] **Dwarves** are a tough and sturdy
 people, the creation of Mahal, the Vala Aulë. They are stubborn and

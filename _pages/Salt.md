@@ -1,6 +1,7 @@
 ---
 title: Salt
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 A chunk of salt can be used when [cooking](cooking "wikilink") to
 preserve the food better. Salt can be found at various places about

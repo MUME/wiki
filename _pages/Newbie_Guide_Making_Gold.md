@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Making Gold
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Making Gold**
 

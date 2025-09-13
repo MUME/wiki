@@ -1,6 +1,8 @@
 ---
 title: Sturdy soft leather gloves
-tags: ["Leather equipment", "Hands items"]
+tags:
+  - Leather equipment
+  - Hands items
 ---
 \> **look gloves**
 

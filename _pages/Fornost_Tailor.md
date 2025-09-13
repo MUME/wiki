@@ -1,6 +1,7 @@
 ---
 title: Fornost Tailor
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 The **old tailor** tends to the **Tailor's Shop** in
 [Fornost](Fornost "wikilink"). The store is open 8am - 12pm and 1pm -

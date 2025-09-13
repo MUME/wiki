@@ -1,6 +1,9 @@
 ---
 title: Track
-tags: ["Skills", "Ranger skills", "Commands"]
+tags:
+  - Skills
+  - Ranger skills
+  - Commands
 ---
 **Track** is a [ranger](general "wikilink") skill that enables you to
 follow the tracks of people and animals and to determine their location

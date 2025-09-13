@@ -1,6 +1,7 @@
 ---
 title: Carpenter
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **carpenter** is a [good](alignment "wikilink")
 [level](level "wikilink") 6 [mobile](mobile "wikilink"). He can be found

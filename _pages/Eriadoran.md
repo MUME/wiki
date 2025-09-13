@@ -1,6 +1,7 @@
 ---
 title: Eriadoran
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 The **Eriadoran** people are the common people of Northwest [Middle
 Earth](Middle_Earth "wikilink"). Their distant ancestors are the

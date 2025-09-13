@@ -1,6 +1,7 @@
 ---
 title: Antlers
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 **Antlers** are the item required to complete the elven trapper's
 [quest](Quest#The_Hunt "wikilink"). They can be obtained by

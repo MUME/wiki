@@ -1,6 +1,7 @@
 ---
 title: Age
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Age** affects a character's [statistics](statistic "wikilink")
 according to the following table. The change is linear between the

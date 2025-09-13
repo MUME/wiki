@@ -1,6 +1,7 @@
 ---
 title: Barbaras
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Barbars** is the leader of the bandits based in the ruined castle east
 of [Bree](Bree "wikilink"). He is an aggressive level ~13-14

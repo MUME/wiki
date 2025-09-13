@@ -1,6 +1,7 @@
 ---
 title: Huge tarantula
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Huge tarantulas** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 14 [mobiles](mobile "wikilink"), found in

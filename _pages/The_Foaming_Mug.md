@@ -1,6 +1,8 @@
 ---
 title: The Foaming Mug
-tags: ["Inns", "Shops"]
+tags:
+  - Inns
+  - Shops
 ---
 The **Foaming Mug** is an [inn](inn "wikilink") in [Black
 Hill](Black_Hill "wikilink").

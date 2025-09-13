@@ -1,6 +1,8 @@
 ---
 title: Prompt
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **prompt** command allows you to customize what information is shown
 on your prompt. The possible arguments (for mortals) are: points, light,

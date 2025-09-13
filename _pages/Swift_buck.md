@@ -1,6 +1,7 @@
 ---
 title: Swift buck
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Swift bucks** are passive [level](level "wikilink") ~3
 [mobiles](mobile "wikilink"), common in the area near [Blue

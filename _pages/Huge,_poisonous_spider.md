@@ -1,6 +1,8 @@
 ---
 title: Huge, poisonous spider
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Huge, poisonous spiders** are aggressive level ~11-12
 [mobiles](mobile "wikilink"), found in various places across

@@ -1,6 +1,8 @@
 ---
 title: Transfer
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 **Transfer** is a level 14 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). Like [Summon](Summon "wikilink") it will

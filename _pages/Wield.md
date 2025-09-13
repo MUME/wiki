@@ -1,6 +1,8 @@
 ---
 title: Wield
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 When you get tired of bashing monsters with your fists, you might
 consider **wielding** a [weapon](weapon "wikilink").

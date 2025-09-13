@@ -1,6 +1,7 @@
 ---
 title: Lynx
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Lynxes** are passive level ~6-7 [mobiles](mobile "wikilink"), found in
 various locations around [Arda](Arda "wikilink"). They can

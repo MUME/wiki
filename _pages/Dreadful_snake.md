@@ -1,6 +1,7 @@
 ---
 title: Dreadful snake
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Dreadful snakes** are aggressive [level](level "wikilink") ~10
 [mobiles](mobile "wikilink") found in various locations around

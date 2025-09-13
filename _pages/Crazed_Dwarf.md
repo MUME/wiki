@@ -1,6 +1,7 @@
 ---
 title: Crazed Dwarf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 His beard has many years growth and is matted by constant drooling.
 

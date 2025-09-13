@@ -1,6 +1,8 @@
 ---
 title: Group
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax : **group** \[character \[add \| remove \| transfer\]\]
 

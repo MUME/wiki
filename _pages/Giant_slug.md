@@ -1,6 +1,7 @@
 ---
 title: Giant slug
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Giant slugs** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 9 [mobiles](mobile "wikilink"), found in

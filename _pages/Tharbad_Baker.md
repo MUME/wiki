@@ -1,6 +1,7 @@
 ---
 title: Tharbad Baker
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 A [baker](baker "wikilink") tends to the **Bakery** in
 [Tharbad](Tharbad "wikilink"). The store is open from 5am to 11am and

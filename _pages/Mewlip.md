@@ -1,6 +1,7 @@
 ---
 title: Mewlip
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Mewlips** are minor spirits found in old fens and swamps. They are
 aggressive, [evil](alignment "wikilink") [level](level "wikilink")

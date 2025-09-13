@@ -1,6 +1,8 @@
 ---
 title: Shake
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **shake** command is like a normal [social](socials "wikilink") with
 a minor twist. You can either shake <someone> or shake head <someone>

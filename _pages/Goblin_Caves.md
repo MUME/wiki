@@ -1,6 +1,7 @@
 ---
 title: Goblin Caves
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 The Goblin Caves are a system of caves just to the west and south of the
 Fork in the Trail to the Misty Mountains. They are east of the Dark

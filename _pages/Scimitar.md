@@ -1,6 +1,7 @@
 ---
 title: Scimitar
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 The **scimitar** is a [slashing weapon](slashing_weapon "wikilink"). It
 is worth around 1 [gold](gold "wikilink"), and is sold by most

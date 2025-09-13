@@ -1,6 +1,8 @@
 ---
 title: Portal
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Portal** is a [mage](mage "wikilink") [spell](spell "wikilink") with
 [mana](mana "wikilink") cost 90 that allows to move groups of people

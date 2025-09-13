@@ -1,6 +1,7 @@
 ---
 title: Gildor the blacksmith
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Gildor the blacksmith** tends to **Gildor's Fine Weapons and Armour**
 in [Forlond](Forlond "wikilink"). The store is open 7am to 12pm and 2pm

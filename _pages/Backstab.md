@@ -1,6 +1,9 @@
 ---
 title: Backstab
-tags: ["Skills", "Thief skills", "Commands"]
+tags:
+  - Skills
+  - Thief skills
+  - Commands
 ---
 **Backstabbing** is a [thief](thief "wikilink")
 [skill](skill "wikilink") that allows you to place your dagger in your

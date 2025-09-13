@@ -1,6 +1,8 @@
 ---
 title: Quit
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 When you get tired of playing, you can leave the game by typing
 **quit**. Note that whatever stuff you might be carrying with you is

@@ -1,6 +1,7 @@
 ---
 title: Istari
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 ## Background
 

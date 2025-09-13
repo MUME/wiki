@@ -1,6 +1,7 @@
 ---
 title: Namechanges
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 After much deliberation among MUME Management on the subject of name
 changes, Manwë has written a policy for them. This means that if you

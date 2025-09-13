@@ -1,6 +1,9 @@
 ---
 title: Cure Blindness
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Cure Blindness** is a level 4 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It removes the effect of the

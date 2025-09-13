@@ -1,5 +1,6 @@
 ---
 title: Category:Newbie Help
-tags: ["Guides"]
+tags:
+  - Guides
 ---
 A list of newbie guides.

@@ -1,6 +1,8 @@
 ---
 title: Tail
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 This allows you when reading a board to see only the last few messages,
 rather than scrolling through the entire list. The syntax is:

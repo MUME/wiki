@@ -1,6 +1,7 @@
 ---
 title: Galerel's mansion
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Galerel's mansion** is an abandoned house located east of
 [Bree](Bree "wikilink"), notable for being the location where the [ghost

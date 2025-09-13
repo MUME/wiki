@@ -1,6 +1,7 @@
 ---
 title: Forlond Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **grey haired elf** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Guild of the Arcane** in

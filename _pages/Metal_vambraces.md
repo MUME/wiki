@@ -1,6 +1,8 @@
 ---
 title: Metal vambraces
-tags: ["Metal equipment", "Arms items"]
+tags:
+  - Metal equipment
+  - Arms items
 ---
 **Metal vambraces** are worn on the [arms](arms "wikilink"). They
 provide a large amount of damage absorption and slightly decrease

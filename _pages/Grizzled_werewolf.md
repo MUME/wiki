@@ -1,6 +1,7 @@
 ---
 title: Grizzled werewolf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Grizzled werewolves** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~11-12 [mobiles](mobile "wikilink"). They can

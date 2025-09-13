@@ -1,6 +1,9 @@
 ---
 title: Energy Drain
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 NOTE: Using this spell is an evil act.
 

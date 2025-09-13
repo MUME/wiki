@@ -1,6 +1,8 @@
 ---
 title: Metal gauntlets
-tags: ["Metal equipment", "Hands items"]
+tags:
+  - Metal equipment
+  - Hands items
 ---
 \>**examine gauntlets**
 

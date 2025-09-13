@@ -1,6 +1,8 @@
 ---
 title: Practice
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 In order to progress in [MUME](MUME "wikilink"), you will need to
 **practice** skills. When you begin the game you will be given a number

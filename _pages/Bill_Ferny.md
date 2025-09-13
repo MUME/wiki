@@ -1,6 +1,7 @@
 ---
 title: Bill Ferny
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Bill Ferny** is a man of poor reputation living in
 [Bree](Bree "wikilink")-land. Although he was once a law-abiding

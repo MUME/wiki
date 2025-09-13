@@ -1,6 +1,8 @@
 ---
 title: Black Breath
-tags: ["Spells", "Shaman spells"]
+tags:
+  - Spells
+  - Shaman spells
 ---
 Syntax : cast 'black breath' Type : Offensive, special Accumulative: N/A
 Duration : No Casting : Very long Position : Standing Level : Level 16

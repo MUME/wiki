@@ -1,4 +1,5 @@
 ---
 title: Category:Guildmasters
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---

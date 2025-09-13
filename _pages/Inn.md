@@ -1,6 +1,7 @@
 ---
 title: Inn
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Inns** are places where the weary traveller may rest while the
 innkeeper (also know as '[receptionist](receptionist "wikilink")') looks

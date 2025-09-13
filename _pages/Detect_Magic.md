@@ -1,6 +1,9 @@
 ---
 title: Detect Magic
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 **Detect Magic** is a low level [mage](mage "wikilink")
 [spell](spell "wikilink"), castable on one's self only. It enables the

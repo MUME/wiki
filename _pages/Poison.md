@@ -1,6 +1,9 @@
 ---
 title: Poison
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 NOTE: This doesn't poison weapons, for that see
 [herblores](herblore "wikilink").

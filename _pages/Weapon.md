@@ -1,6 +1,7 @@
 ---
 title: Weapon
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 **Weapons** are items that can be wielded. While you can use the
 '[wield](wield "wikilink")' command on other types of items, only

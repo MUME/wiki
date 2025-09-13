@@ -1,6 +1,7 @@
 ---
 title: Citizen
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When you begin the game, if you're not an [Orc](Orc "wikilink"), a
 [Troll](Troll "wikilink") or a [Black

@@ -1,6 +1,8 @@
 ---
 title: View
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **view** command can be used instead of '[read](read "wikilink")' to
 send the output of [boards](board "wikilink"), [mails](mail "wikilink"),

@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Doors, Exits, and Exploring
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Doors, Exits, and Exploring**
 

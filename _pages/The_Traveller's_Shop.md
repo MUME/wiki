@@ -1,6 +1,7 @@
 ---
 title: The Traveller's Shop
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 The **grocer** tends to the **Traveller's Shop** in
 [Fornost](Fornost "wikilink"). The store is open 8am - 1pm and 2pm - 6pm

@@ -1,6 +1,8 @@
 ---
 title: Fine metal breastplate
-tags: ["Metal equipment", "Body items"]
+tags:
+  - Metal equipment
+  - Body items
 ---
 The **fine metal breastplate** is worn on the [body](body "wikilink").
 It provides a large amount of damage absorption, and slightly decreases

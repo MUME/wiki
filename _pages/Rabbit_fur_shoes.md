@@ -1,6 +1,8 @@
 ---
 title: Rabbit fur shoes
-tags: ["Cloth equipment", "Feet items"]
+tags:
+  - Cloth equipment
+  - Feet items
 ---
 \> **look shoes**
 

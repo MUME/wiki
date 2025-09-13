@@ -1,6 +1,7 @@
 ---
 title: Elf
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 ![](Legolas.jpg "Legolas.jpg")''\]\] **Elves** are the first people of
 [Middle-Earth](Middle-Earth "wikilink"), created by Eru Ilúvatar. They

@@ -1,6 +1,8 @@
 ---
 title: Full metal helmet
-tags: ["Metal equipment", "Head items"]
+tags:
+  - Metal equipment
+  - Head items
 ---
 The **full metal helmet** is a piece of metal
 [armour](armour "wikilink") worn on the [head](head "wikilink"). It

@@ -1,6 +1,7 @@
 ---
 title: Wimpy
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Usage: [change](change "wikilink") **wimpy** <value>
 

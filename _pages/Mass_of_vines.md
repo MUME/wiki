@@ -1,6 +1,7 @@
 ---
 title: Mass of vines
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Masses of vines** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 11 [mobiles](mobile "wikilink"), found in

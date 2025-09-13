@@ -1,6 +1,7 @@
 ---
 title: Level
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 With every new level, [practice](practice "wikilink") points become
 available, that can be used in [guilds](Guild "wikilink") to learn new

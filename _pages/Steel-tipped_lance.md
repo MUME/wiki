@@ -1,6 +1,7 @@
 ---
 title: Steel-tipped lance
-tags: ["Charging weapons"]
+tags:
+  - Charging weapons
 ---
 `A long, smooth, steel-tipped lance is lying on the ground.`
 `>`**`examine lance`**

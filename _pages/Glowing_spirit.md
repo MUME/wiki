@@ -1,6 +1,7 @@
 ---
 title: Glowing spirit
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 *For another mob with the same name, see [spirit](spirit "wikilink").*
 

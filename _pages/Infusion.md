@@ -1,6 +1,7 @@
 ---
 title: Infusion
-tags: ["Consumables"]
+tags:
+  - Consumables
 ---
 An **infusion** is a potion that can cure some
 [diseases](disease "wikilink") like flu and amibia, as well as increase

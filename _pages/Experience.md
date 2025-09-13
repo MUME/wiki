@@ -1,6 +1,7 @@
 ---
 title: Experience
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Whenever you kill a monster or a player, you earn experience points.
 When enough experience and [travel points](travel_points "wikilink") are

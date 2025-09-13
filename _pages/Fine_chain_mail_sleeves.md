@@ -1,6 +1,8 @@
 ---
 title: Fine chain mail sleeves
-tags: ["Arms items", "Mail equipment"]
+tags:
+  - Arms items
+  - Mail equipment
 ---
 **Fine chain mail sleeves** are a lightweight piece of mail equipment
 worn on the [arms](arms "wikilink"). They can be bought from some

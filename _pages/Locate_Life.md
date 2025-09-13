@@ -1,6 +1,8 @@
 ---
 title: Locate Life
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Locate Life** is a [level](level "wikilink") 11
 [mage](mage "wikilink") [spell](spell "wikilink"). It will tell you

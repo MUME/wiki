@@ -1,6 +1,8 @@
 ---
 title: Plain trousers
-tags: ["Cloth equipment", "Legs items"]
+tags:
+  - Cloth equipment
+  - Legs items
 ---
 \> **look trousers**
 

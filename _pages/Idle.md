@@ -1,6 +1,7 @@
 ---
 title: Idle
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When a player has been away from the game for a long enough time they
 will lapse into a state of semi-consciousness and fade away into the

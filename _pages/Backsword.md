@@ -1,6 +1,7 @@
 ---
 title: Backsword
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 `A long, single-edged sword lies on the ground.`
 `> `**`look sword`**

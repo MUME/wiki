@@ -1,6 +1,7 @@
 ---
 title: Faldor the weaponsmith
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Faldor the weaponsmith** tends to **Faldor's Fine Weapons** in
 [Harlond](Harlond "wikilink"). The store is open 8am - 12pm and 2pm -

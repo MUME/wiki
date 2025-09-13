@@ -1,6 +1,8 @@
 ---
 title: Rest
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 For changing your position. If you feel weary, it's probably a good idea
 to **sit** and [rest](rest "wikilink") for awhile; or maybe even take a

@@ -1,6 +1,7 @@
 ---
 title: Isengard
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 Home of Saruman the Wise.
 

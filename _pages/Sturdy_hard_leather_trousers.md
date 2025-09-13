@@ -1,6 +1,8 @@
 ---
 title: Sturdy hard leather trousers
-tags: ["Leather equipment", "Legs items"]
+tags:
+  - Leather equipment
+  - Legs items
 ---
 \> **look trousers**
 

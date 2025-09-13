@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Campfires and Cooking
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Guide Camping and Campfires and Cooking in MUME**
 

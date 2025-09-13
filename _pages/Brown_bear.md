@@ -1,6 +1,7 @@
 ---
 title: Brown bear
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Brown bears** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 12 [mobs](mob "wikilink") found in various

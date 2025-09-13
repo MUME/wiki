@@ -1,6 +1,8 @@
 ---
 title: Metal greaves
-tags: ["Metal equipment", "Legs items"]
+tags:
+  - Metal equipment
+  - Legs items
 ---
 **Metal greaves** are worn on the [legs](legs "wikilink"). They provide
 a large amount of damage absorption and slightly decrease [dodge

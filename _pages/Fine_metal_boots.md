@@ -1,6 +1,8 @@
 ---
 title: Fine metal boots
-tags: ["Metal equipment", "Feet items"]
+tags:
+  - Metal equipment
+  - Feet items
 ---
 \> **look boots**
 

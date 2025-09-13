@@ -1,6 +1,7 @@
 ---
 title: Furious dog
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Furious dogs** are aggressive [level](level "wikilink") \<9
 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin. They

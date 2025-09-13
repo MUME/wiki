@@ -1,4 +1,5 @@
 ---
 title: Category:Armour
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---

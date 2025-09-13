@@ -1,5 +1,6 @@
 ---
 title: Category:Miscellaneous equipment
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 {% include Items.md %}

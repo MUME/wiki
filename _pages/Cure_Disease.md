@@ -1,6 +1,8 @@
 ---
 title: Cure Disease
-tags: ["Spells", "Cleric spells"]
+tags:
+  - Spells
+  - Cleric spells
 ---
 The spell incantation is 'judicandus eugzagz'
 

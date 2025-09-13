@@ -1,6 +1,8 @@
 ---
 title: Attack
-tags: ["Thief skills", "Skills"]
+tags:
+  - Thief skills
+  - Skills
 ---
 **Attack** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to hit twice in a combat round, if you wield a suitable

@@ -1,6 +1,7 @@
 ---
 title: Tundur the Lamplighter
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Tundur the Lamplighter** is the lamplighter of
 [Fornost](Fornost "wikilink").

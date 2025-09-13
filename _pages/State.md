@@ -1,6 +1,7 @@
 ---
 title: State
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Item damage has internally been represented with two values, item
 **state** and item permanent damage (or age). The permanent damage and

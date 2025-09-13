@@ -1,6 +1,8 @@
 ---
 title: Leave
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you feel claustrophobic, typing **leave** will make you use the
 nearest obvious exit to the outside. Typing leave while on a

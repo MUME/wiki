@@ -1,6 +1,7 @@
 ---
 title: Dales-pony
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Dales-ponies** are [level](level "wikilink") ~7
 [rideable](ride "wikilink") [mobiles](mobile "wikilink"). They make the

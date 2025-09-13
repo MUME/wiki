@@ -1,6 +1,8 @@
 ---
 title: Equipment
-tags: ["Help files", "Basics"]
+tags:
+  - Help files
+  - Basics
 ---
 Without any arguments, the **equipment** [command](commands "wikilink")
 simply tells you what [items](item "wikilink") you are

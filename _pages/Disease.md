@@ -1,6 +1,7 @@
 ---
 title: Disease
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 It is possible to become **diseased** on Mume, either with a sickness
 (plague, cold, etc...) or by a [poison](poison "wikilink") (poison,

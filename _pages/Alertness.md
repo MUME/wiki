@@ -1,6 +1,7 @@
 ---
 title: Alertness
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Via the 'change alertness' command, you can decide how much attention
 you will pay to the presence of hidden people. High alertness levels

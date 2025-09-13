@@ -1,6 +1,8 @@
 ---
 title: Seagull Inn
-tags: ["Inns", "Shops"]
+tags:
+  - Inns
+  - Shops
 ---
 The **Seagull Inn** is an [inn](inn "wikilink") in
 [Harlond](Harlond "wikilink"). [Eldinor the

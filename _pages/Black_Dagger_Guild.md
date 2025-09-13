@@ -1,6 +1,7 @@
 ---
 title: Black Dagger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
 at the **Black Dagger Guild** in [Old Fornost](Old_Fornost "wikilink").

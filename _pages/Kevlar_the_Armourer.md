@@ -1,6 +1,7 @@
 ---
 title: Kevlar the Armourer
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Kevlar the Armourer** tends to the **Kevlar's Fine Armour** shop in
 [Harlond](Harlond "wikilink"). The store is open 6am - 12pm and 3pm -

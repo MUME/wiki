@@ -1,6 +1,8 @@
 ---
 title: Alias
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **alias** [command](commands "wikilink") allows you to define
 abbreviations for long commands frequently used, thus minimizing your

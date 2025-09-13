@@ -1,6 +1,7 @@
 ---
 title: Falchion
-tags: ["Slashing weapons"]
+tags:
+  - Slashing weapons
 ---
 `A falchion lies on the ground.`
 `>`**`examine falchion`**

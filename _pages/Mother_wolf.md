@@ -1,6 +1,7 @@
 ---
 title: Mother wolf
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Mother wolves** are aggressive [level](level "wikilink") 7
 [mobiles](mobile "wikilink"), found in various locations around

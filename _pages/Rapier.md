@@ -1,6 +1,7 @@
 ---
 title: Rapier
-tags: ["Piercing weapons"]
+tags:
+  - Piercing weapons
 ---
 The **rapier** is a [piercing weapon](piercing_weapon "wikilink"). It is
 worth around 15 [silver](silver "wikilink"), and is sold by most

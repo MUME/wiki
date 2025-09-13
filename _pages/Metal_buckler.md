@@ -1,6 +1,7 @@
 ---
 title: Metal buckler
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **metal buckler** is a small [shield](shield "wikilink") that can be
 worn while wielding a [two-handed weapon](two-handed_weapon "wikilink").

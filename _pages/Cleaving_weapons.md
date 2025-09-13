@@ -1,6 +1,8 @@
 ---
 title: Cleaving weapons
-tags: ["Warrior skills", "Skills"]
+tags:
+  - Warrior skills
+  - Skills
 ---
 The **cleaving weapons** skill is a [warrior](warrior "wikilink")
 [skill](skill "wikilink") and [weapon](weapon "wikilink") class that

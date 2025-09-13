@@ -1,6 +1,7 @@
 ---
 title: Ansicodes
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The ANSI CODES are listed below.
 

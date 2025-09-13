@@ -1,6 +1,7 @@
 ---
 title: Imposing beech tree
-tags: ["Ents"]
+tags:
+  - Ents
 ---
 **Imposing beech trees** are [level](level "wikilink") 19
 [Ents](Ent "wikilink") found in [Fangorn](Fangorn "wikilink").

@@ -1,6 +1,8 @@
 ---
 title: Reveal
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: **reveal** <object>, reveal <character>, reveal all or reveal
 <effort>

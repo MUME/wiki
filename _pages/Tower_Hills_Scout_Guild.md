@@ -1,6 +1,7 @@
 ---
 title: Tower Hills Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **accomplished hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Cabin** just southeast of

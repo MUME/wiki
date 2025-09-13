@@ -1,6 +1,7 @@
 ---
 title: Hit points
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Hit points** (hps) is a way of representing how much physical damage
 your character can endure before [dying](death "wikilink"). Being low on

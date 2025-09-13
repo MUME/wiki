@@ -1,6 +1,8 @@
 ---
 title: Forlond's Fine Jewelry
-tags: ["Shops", "Shopkeepers"]
+tags:
+  - Shops
+  - Shopkeepers
 ---
 An **elven shopkeeper** tends shop at [Forlond's Fine
 Jewelry](Forlond's_Fine_Jewelry "wikilink"). The store is open from 10am

@@ -1,6 +1,7 @@
 ---
 title: Depression
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When [Black Númenóreans](Black_Númenórean "wikilink")
 [backfire](backfire "wikilink") a [spell](spell "wikilink"), they suffer

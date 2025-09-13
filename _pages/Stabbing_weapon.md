@@ -1,6 +1,7 @@
 ---
 title: Stabbing weapon
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 **[Stabbing weapons](Stabbing_weapons "wikilink")** are one of the
 [weapon](weapon "wikilink") types found in [MUME](MUME "wikilink"). They

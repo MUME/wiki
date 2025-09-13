@@ -1,6 +1,8 @@
 ---
 title: Fish
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 With the right equipment and some time on one's hands, one can fish the
 rivers and lakes of Arda. To do so you must have either a sturdy fishing

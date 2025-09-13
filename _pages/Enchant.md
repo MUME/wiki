@@ -1,6 +1,8 @@
 ---
 title: Enchant
-tags: ["Spells", "Mage spells"]
+tags:
+  - Spells
+  - Mage spells
 ---
 **Enchant** is a [level](level "wikilink") 12 [mage](mage "wikilink")
 [spell](spell "wikilink"). It improves the [weapon](weapon "wikilink")

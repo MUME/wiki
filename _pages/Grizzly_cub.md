@@ -1,6 +1,7 @@
 ---
 title: Grizzly cub
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Grizzly cubs** are aggressive [level](level "wikilink") 4
 [mobiles](mobile "wikilink"), usually found

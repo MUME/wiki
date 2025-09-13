@@ -1,6 +1,9 @@
 ---
 title: Shocking Grasp
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 Syntax : cast 'shocking grasp' \[victim\] Type : Offensive, physical
 Accumulative: N/A Duration : No Casting : Normal Position : Standing,

@@ -1,6 +1,7 @@
 ---
 title: Roe deer
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Roe deer** are passive [level](level "wikilink") ~1-2
 [mobiles](mobile "wikilink") found in various locations around

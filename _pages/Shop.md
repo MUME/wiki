@@ -1,6 +1,7 @@
 ---
 title: Shop
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Shop**s are places where the adventurer may purchase
 [equipment](equipment "wikilink") for his quests, and where he may sell

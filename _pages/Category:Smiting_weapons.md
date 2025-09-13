@@ -1,5 +1,6 @@
 ---
 title: Category:Smiting weapons
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

@@ -1,6 +1,7 @@
 ---
 title: Black bone key
-tags: ["Keys"]
+tags:
+  - Keys
 ---
 \> **examine key**
 

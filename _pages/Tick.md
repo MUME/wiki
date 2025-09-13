@@ -1,6 +1,7 @@
 ---
 title: Tick
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The **tick** is the standard unit of [time](time "wikilink") on the
 game. It corresponds to 1 RL minute under normal play. Certain events,

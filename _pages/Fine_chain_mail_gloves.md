@@ -1,6 +1,8 @@
 ---
 title: Fine chain mail gloves
-tags: ["Hands items", "Mail equipment"]
+tags:
+  - Hands items
+  - Mail equipment
 ---
 **Fine chain mail gloves** are a lightweight piece of mail equipment
 worn on the [hands](hands "wikilink"). They can be bought from some

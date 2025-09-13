@@ -1,6 +1,8 @@
 ---
 title: Bug
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 **Bug**, **idea**, **typo** and **report** are commands for making
 useful suggestions to the maintainers of the game. You will use the

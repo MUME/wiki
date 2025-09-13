@@ -1,6 +1,7 @@
 ---
 title: Brown bottle
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **look bottle**
 

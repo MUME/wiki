@@ -1,4 +1,5 @@
 ---
 title: Category:Necklaces
-tags: ["Deletion Candidates"]
+tags:
+  - Deletion Candidates
 ---

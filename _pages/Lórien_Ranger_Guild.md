@@ -1,6 +1,7 @@
 ---
 title: Lórien Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Orophin** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at [Caras

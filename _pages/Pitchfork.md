@@ -1,6 +1,7 @@
 ---
 title: Pitchfork
-tags: ["Stabbing weapons"]
+tags:
+  - Stabbing weapons
 ---
 `A pitchfork has been carelessly left lying here.`
 `>`**`examine pitchfork`**

@@ -1,6 +1,8 @@
 ---
 title: Colour Spray
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Colour Spray** is a [level](level "wikilink") 11
 [mage](mage "wikilink") [spell](spell "wikilink"). It deals bonus damage

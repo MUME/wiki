@@ -1,6 +1,7 @@
 ---
 title: Parry bonus
-tags: ["Statistics"]
+tags:
+  - Statistics
 ---
 The **parry bonus** (PB%) is a defensive bonus. It is similar to your
 [dodge bonus](dodge_bonus "wikilink") (DB%). There are some notable

@@ -1,6 +1,8 @@
 ---
 title: Create Focus
-tags: ["Help files", "Spells"]
+tags:
+  - Help files
+  - Spells
 ---
 Syntax : cast 'create focus' \<object\> Type : Special Accumulative: No
 Duration : Permanent Casting : - Position : Standing; fully rested Class

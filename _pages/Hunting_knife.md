@@ -1,6 +1,7 @@
 ---
 title: Hunting knife
-tags: ["Piercing weapons"]
+tags:
+  - Piercing weapons
 ---
 The **hunting knife** is a [piercing weapon](piercing_weapon "wikilink")
 that can also be used to [butcher](butcher "wikilink")

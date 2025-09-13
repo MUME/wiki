@@ -1,6 +1,8 @@
 ---
 title: Russet shirt
-tags: ["Cloth equipment", "Body items"]
+tags:
+  - Cloth equipment
+  - Body items
 ---
 `A russet shirt is on the ground.`
 `>`**`look shirt`**

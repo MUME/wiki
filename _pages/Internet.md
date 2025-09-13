@@ -1,6 +1,7 @@
 ---
 title: Internet
-tags: ["Software"]
+tags:
+  - Software
 ---
 For many years now, rumours about different kinds of network lag-attacks
 have circulated for a while and died only to be revived in a year or so.

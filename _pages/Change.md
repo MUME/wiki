@@ -1,6 +1,8 @@
 ---
 title: Change
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 This is a general command to **change** one of your parameters.
 

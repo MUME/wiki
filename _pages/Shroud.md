@@ -1,6 +1,9 @@
 ---
 title: Shroud
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 **Shroud** is a [level](level "wikilink") 5 [mage](mage "wikilink")
 [spell](spell "wikilink"). If [cast](cast "wikilink") on a creature, it

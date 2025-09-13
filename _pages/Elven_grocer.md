@@ -1,6 +1,7 @@
 ---
 title: Elven grocer
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Elven grocers** tend the grocery stores in
 [Harlond](Harlond_Grocer "wikilink") and

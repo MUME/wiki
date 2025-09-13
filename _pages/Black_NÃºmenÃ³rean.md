@@ -1,6 +1,7 @@
 ---
 title: Black NÃºmenÃ³rean
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 In J. R. R. Tolkien's fictional prehistory of the
 [world](Arda "wikilink"), the **Black Númenóreans** were

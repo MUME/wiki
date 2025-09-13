@@ -1,6 +1,8 @@
 ---
 title: Hold Spell
-tags: ["Spells", "Shaman spells"]
+tags:
+  - Spells
+  - Shaman spells
 ---
 Syntax : cast 'hold' Type : Offensive, mental Accumulative: No Duration
 : Yes Casting : Extremely long Position : Standing Level : Level 17

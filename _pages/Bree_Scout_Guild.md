@@ -1,6 +1,7 @@
 ---
 title: Bree Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **thief** teaches [thief](thief "wikilink") [skills](skill "wikilink")
 at the **Freebooters' Society** in [Bree](Bree "wikilink").

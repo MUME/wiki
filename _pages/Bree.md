@@ -1,6 +1,7 @@
 ---
 title: Bree
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 In the small area of Bree-Land there are four villages; Archet, Staddle,
 Combe and the chief village, **Bree**.

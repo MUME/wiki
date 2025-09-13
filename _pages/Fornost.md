@@ -1,6 +1,7 @@
 ---
 title: Fornost
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 After the first few centuries of the Third Age, the first city and
 capital of the Dunedain kingdom of Arnor was **Fornost**. It was a

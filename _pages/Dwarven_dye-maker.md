@@ -1,6 +1,7 @@
 ---
 title: Dwarven dye-maker
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 The **dwarven dye-maker** is a [level](level "wikilink") ~11-12
 [mobile](mobile "wikilink"), located in the dwarven mines north of

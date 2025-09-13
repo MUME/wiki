@@ -1,6 +1,7 @@
 ---
 title: Movement points
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 # Overview
 

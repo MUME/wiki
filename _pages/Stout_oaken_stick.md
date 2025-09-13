@@ -1,6 +1,7 @@
 ---
 title: Stout oaken stick
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 The **stout oaken stick** is the reward for completing
 [Jeraton](Jeraton "wikilink")'s

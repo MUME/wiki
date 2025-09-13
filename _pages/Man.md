@@ -1,6 +1,7 @@
 ---
 title: Man
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 ![](Aragorn.jpg "Aragorn.jpg")''\]\] As with our own world, **man** is
 the most varied of the races. While one may be kind and gentle, another

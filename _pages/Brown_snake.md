@@ -1,6 +1,7 @@
 ---
 title: Brown snake
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Brown snakes** are aggressive, evil [level](level "wikilink") \<10
 [mobiles](mobile "wikilink"), found in various locations around

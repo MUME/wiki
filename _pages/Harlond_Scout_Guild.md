@@ -1,6 +1,7 @@
 ---
 title: Harlond Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **elven hunter** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") at the **Hunter's Guild** in

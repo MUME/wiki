@@ -1,6 +1,7 @@
 ---
 title: Neck
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 A list of items worn around the **neck**. Those which are useful are
 almost always magical, with the non magical items being of a purely

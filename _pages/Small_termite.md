@@ -1,6 +1,7 @@
 ---
 title: Small termite
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Small termites** are aggressive [level](level "wikilink") 1
 [mobiles](mobile "wikilink") found in various locations around

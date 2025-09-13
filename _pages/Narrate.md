@@ -1,6 +1,8 @@
 ---
 title: Narrate
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you want to tell a tale to all the other players in the game,
 **narrate** it. All the players wanting to hear such things will receive

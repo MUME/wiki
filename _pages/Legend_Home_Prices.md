@@ -1,6 +1,8 @@
 ---
 title: Legend Home Prices
-tags: ["Legend_homes", "Help files"]
+tags:
+  - Legend_homes
+  - Help files
 ---
 Legend homes may not be near entrances to cities and they cannot have
 lockable doors leading out (but they can be lockable leading in, and

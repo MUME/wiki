@@ -1,6 +1,7 @@
 ---
 title: Sealed jug of dye
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 The **sealed jug of dye** is the [item](item "wikilink") required to
 complete the [ancient weaver](ancient_weaver "wikilink")'s

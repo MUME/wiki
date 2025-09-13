@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Casting and Spells
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Casting and Spells**
 

@@ -1,6 +1,7 @@
 ---
 title: Latin1
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The following table displays the characters in ISO 8859-1 (also known as
 "Latin-1") which are printable and unlisted in the ascii(7) manual page.

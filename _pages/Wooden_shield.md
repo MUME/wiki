@@ -1,6 +1,7 @@
 ---
 title: Wooden shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 `A wooden shield is on the ground.`
 `>`**`examine shield`**

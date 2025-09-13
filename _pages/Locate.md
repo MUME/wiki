@@ -1,6 +1,9 @@
 ---
 title: Locate
-tags: ["Help files", "Mage spells", "Spells"]
+tags:
+  - Help files
+  - Mage spells
+  - Spells
 ---
 Syntax : cast 'locate' \[\<key\>\] \[\<max distance\>\] Type : Long
 range Accumulative: N/A Duration : No Casting : Very long Position :

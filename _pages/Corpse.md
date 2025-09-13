@@ -1,6 +1,7 @@
 ---
 title: Corpse
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 When a living creature dies, it leaves a [corpse](corpse "wikilink")
 which contains the worldly possessions that were carried at the moment

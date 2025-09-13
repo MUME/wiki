@@ -1,6 +1,8 @@
 ---
 title: Flee
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Usage: **flee** \[on\|off\|yes\|no\]
 

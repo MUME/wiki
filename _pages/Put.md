@@ -1,6 +1,8 @@
 ---
 title: Put
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 For **putting** objects in [containers](container "wikilink"). Note that
 the 'in', in the examples, is optional.

@@ -1,6 +1,8 @@
 ---
 title: Reddish-brown pants
-tags: ["Cloth equipment", "Legs items"]
+tags:
+  - Cloth equipment
+  - Legs items
 ---
 `A pair of reddish-brown pants are on the ground.`
 `>`**`examine pants`**

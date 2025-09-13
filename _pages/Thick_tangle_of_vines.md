@@ -1,6 +1,7 @@
 ---
 title: Thick tangle of vines
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Thick tangles of vines** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") ~13-14 [plants](plant "wikilink"), found in

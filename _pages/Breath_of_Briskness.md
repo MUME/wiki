@@ -1,6 +1,9 @@
 ---
 title: Breath of Briskness
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Breath of Briskness** is a level 10 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). If cast it gives a boost to the [move

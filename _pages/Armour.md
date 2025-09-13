@@ -1,6 +1,7 @@
 ---
 title: Armour
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 Wearing **armour** lowers damage received. Two numbers are important
 here: absorb and max. Absorb is the relative % of damage the armour

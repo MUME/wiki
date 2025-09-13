@@ -1,6 +1,7 @@
 ---
 title: Narrow grey boat
-tags: ["Boats"]
+tags:
+  - Boats
 ---
 **Narrow grey boats** are a type of [boat](boat "wikilink") found in
 [Lothlórien](Lothlórien "wikilink").

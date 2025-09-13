@@ -1,6 +1,7 @@
 ---
 title: Guides
-tags: ["Newbie Help"]
+tags:
+  - Newbie Help
 ---
 ## Clients
 

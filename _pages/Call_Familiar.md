@@ -1,6 +1,9 @@
 ---
 title: Call Familiar
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 **Call Familiar** is a [level](level "wikilink") 7
 [mage](mage "wikilink") [spell](spell "wikilink"). It summons a familiar

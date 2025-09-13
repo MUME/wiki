@@ -1,6 +1,7 @@
 ---
 title: Orcrist
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 A slender sword crafted by the elves of Gondolin in the [First
 Age](First_Age "wikilink") of [Middle Earth](Middle_Earth "wikilink")

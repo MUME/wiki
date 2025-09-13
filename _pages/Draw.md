@@ -1,6 +1,8 @@
 ---
 title: Draw
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Walking about a [town](town "wikilink") with your
 [weapon](weapon "wikilink") **drawn** might draw unwanted attention from

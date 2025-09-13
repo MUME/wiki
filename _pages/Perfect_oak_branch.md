@@ -1,6 +1,7 @@
 ---
 title: Perfect oak branch
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 The **perfect oak branch** is an [item](item "wikilink") used in the
 creation of [focus](focus "wikilink") [staves](staff "wikilink"). It can

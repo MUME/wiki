@@ -1,6 +1,7 @@
 ---
 title: Aman
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Aman** ("Blessed Realm" or "Free from Evil" in Quenya, pron.
 \[ˈaman\]) is a continent that lies to the west of

@@ -1,6 +1,7 @@
 ---
 title: Huge millipede
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Huge millipedes** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 10 [mobiles](mobile "wikilink") found in

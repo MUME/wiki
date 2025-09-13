@@ -1,6 +1,8 @@
 ---
 title: Drop
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you lose interest in a carried [item](item "wikilink"), you can
 **drop** it on the ground. Examples: \> drop bottle \> drop all (drops

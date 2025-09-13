@@ -1,6 +1,10 @@
 ---
 title: Swim
-tags: ["Ranger skills", "Skills", "Help files", "Commands"]
+tags:
+  - Ranger skills
+  - Skills
+  - Help files
+  - Commands
 ---
 **Swimming** is a [ranger](general "wikilink") [skill](skill "wikilink")
 that allows you to enter rivers and lakes without a

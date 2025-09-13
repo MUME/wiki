@@ -1,6 +1,7 @@
 ---
 title: Password
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 There are two types of passwords on MUME: account passwords and
 character passwords. Your account password is set from the account menu

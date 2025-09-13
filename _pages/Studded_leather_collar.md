@@ -1,6 +1,7 @@
 ---
 title: Studded leather collar
-tags: ["Neck items"]
+tags:
+  - Neck items
 ---
 The **studded leather collar** can be worn around the neck. They load on
 the [bulldogs](bulldog "wikilink") in [Malardil's

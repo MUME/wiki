@@ -1,6 +1,7 @@
 ---
 title: A small oaken barrel
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 \> **examine barrel**
 

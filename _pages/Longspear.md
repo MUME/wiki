@@ -1,6 +1,7 @@
 ---
 title: Longspear
-tags: ["Stabbing weapons"]
+tags:
+  - Stabbing weapons
 ---
 The **longspear** is a [stabbing weapon](stabbing_weapon "wikilink"). It
 is a reward from the [Bandit's Note](Quest#Bandit.27s_Note "wikilink")

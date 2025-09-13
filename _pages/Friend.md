@@ -1,6 +1,9 @@
 ---
 title: Friend
-tags: ["Help files", "Legend_homes", "Commands"]
+tags:
+  - Help files
+  - Legend_homes
+  - Commands
 ---
 Using the **friends** command, the master of a
 [house](Legend_Homes "wikilink") can instruct his guards and gatekeeper

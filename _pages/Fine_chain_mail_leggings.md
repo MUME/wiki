@@ -1,6 +1,8 @@
 ---
 title: Fine chain mail leggings
-tags: ["Legs items", "Mail equipment"]
+tags:
+  - Legs items
+  - Mail equipment
 ---
 **Fine chain mail leggings** are a lightweight piece of mail equipment
 worn on the [legs](legs "wikilink"). They can be bought from some

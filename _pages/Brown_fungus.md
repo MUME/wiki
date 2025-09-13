@@ -1,6 +1,7 @@
 ---
 title: Brown fungus
-tags: ["Plants"]
+tags:
+  - Plants
 ---
 **Brown fungi** are [evil](alignment "wikilink")
 [level](level "wikilink") 13 [plants](plant "wikilink") found in

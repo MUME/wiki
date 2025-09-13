@@ -1,6 +1,7 @@
 ---
 title: Shortsword
-tags: ["Piercing weapons"]
+tags:
+  - Piercing weapons
 ---
 `A shortsword is on the ground.`
 `>`**`look sword`**

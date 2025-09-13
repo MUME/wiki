@@ -1,6 +1,7 @@
 ---
 title: The River House
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 An [elven maid](elven_maid "wikilink") serves food and drinks at **The
 River House** in [Rivendell](Rivendell "wikilink"). The tavern is open

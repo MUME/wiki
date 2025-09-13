@@ -1,6 +1,7 @@
 ---
 title: Travel Points
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 A feature unique to MUME, all players need to gain travel points (TPs)
 in addition to experience points to gain a level. TPs measure a

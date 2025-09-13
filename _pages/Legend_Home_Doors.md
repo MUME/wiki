@@ -1,6 +1,8 @@
 ---
 title: Legend Home Doors
-tags: ["Help files", "Legend_homes"]
+tags:
+  - Help files
+  - Legend_homes
 ---
 When creating your legend home you will be able to decide certain
 things, one of which is the style and complexity of the door to it. You

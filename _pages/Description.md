@@ -1,6 +1,7 @@
 ---
 title: Description
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Use [Change Description](Change_Description "wikilink") to alter the
 text others see when they look at you. The more famous players here

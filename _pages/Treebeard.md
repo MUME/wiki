@@ -1,6 +1,7 @@
 ---
 title: Treebeard
-tags: ["Ents"]
+tags:
+  - Ents
 ---
 **Treebeard** is one of the oldest still-living [Ents](Ent "wikilink").
 He lives in Wellinghall, located in a secluded glade at the western edge

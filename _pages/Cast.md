@@ -1,6 +1,8 @@
 ---
 title: Cast
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Cast is a [delayed](delayed "wikilink") command for issuing a magical
 [spell](spell "wikilink").

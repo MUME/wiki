@@ -1,6 +1,8 @@
 ---
 title: Old Man Willow
-tags: ["Mobiles", "Stubs"]
+tags:
+  - Mobiles
+  - Stubs
 ---
 **Old Man Willow** is a tree-beast, either an ent or a huorn, whose
 heart has turned black with evil. He lives in the [Old

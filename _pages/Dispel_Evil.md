@@ -1,6 +1,8 @@
 ---
 title: Dispel Evil
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Dispel Evil** is a level 12 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It is one of the primary attack spells for

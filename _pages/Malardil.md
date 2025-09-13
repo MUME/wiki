@@ -1,6 +1,8 @@
 ---
 title: Malardil
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Malardil** is an aggressive [level](level "wikilink") ?
 [mobile](mobile "wikilink") found in [Malardil's

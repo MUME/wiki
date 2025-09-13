@@ -1,6 +1,7 @@
 ---
 title: Jeraton
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Jeraton** is a woodcutter living in a small village southwest of
 [Lorien](Lorien "wikilink"). He needs a new axe to continue his work.

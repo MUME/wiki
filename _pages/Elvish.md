@@ -1,6 +1,7 @@
 ---
 title: Elvish
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 *See also: [Language](Language "wikilink")*
 

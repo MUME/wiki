@@ -1,6 +1,8 @@
 ---
 title: Hints
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 **Hints** for new players are displayed at logon for 'newbie'
 characters.

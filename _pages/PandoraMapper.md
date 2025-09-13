@@ -1,6 +1,9 @@
 ---
 title: PandoraMapper
-tags: ["Software", "Guides", "Newbie Help"]
+tags:
+  - Software
+  - Guides
+  - Newbie Help
 ---
 ## Information for Newcomers
 

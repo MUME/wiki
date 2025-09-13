@@ -1,6 +1,7 @@
 ---
 title: Change Eqorder
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 To set your preferred order of getting your or others' equipment
 displayed, you use \`change eqorder <order>', where <order> follows the

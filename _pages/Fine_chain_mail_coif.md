@@ -1,6 +1,8 @@
 ---
 title: Fine chain mail coif
-tags: ["Head items", "Mail equipment"]
+tags:
+  - Head items
+  - Mail equipment
 ---
 The **fine chain mail coif** is a lightweight piece of chain mail armour
 worn on the [head](head "wikilink"). It provides a considerable amount

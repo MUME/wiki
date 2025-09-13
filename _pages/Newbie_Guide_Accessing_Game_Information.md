@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Accessing Game Information
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Accessing Game Information**
 

@@ -1,6 +1,8 @@
 ---
 title: Fine soft leather gloves
-tags: ["Leather equipment", "Hands items"]
+tags:
+  - Leather equipment
+  - Hands items
 ---
 \>**examine gloves**
 

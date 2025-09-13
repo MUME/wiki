@@ -1,6 +1,7 @@
 ---
 title: Blue Mountains Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 An **aged dwarf** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Ranger Guild** in the [Blue

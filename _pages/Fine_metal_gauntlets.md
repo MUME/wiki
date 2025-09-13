@@ -1,6 +1,8 @@
 ---
 title: Fine metal gauntlets
-tags: ["Metal equipment", "Hands items"]
+tags:
+  - Metal equipment
+  - Hands items
 ---
 \> **look gauntlets**
 

@@ -1,5 +1,6 @@
 ---
 title: East
-tags: ["Basics"]
+tags:
+  - Basics
 ---
 1.  redirect [Direction](Direction "wikilink")

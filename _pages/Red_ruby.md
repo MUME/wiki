@@ -1,6 +1,8 @@
 ---
 title: Red ruby
-tags: ["Neck items", "Miscellaneous equipment"]
+tags:
+  - Neck items
+  - Miscellaneous equipment
 ---
 The **red ruby** can be worn around the [neck](neck "wikilink") or on a
 [belt](belt "wikilink"). It functions as a light source that does not

@@ -1,6 +1,7 @@
 ---
 title: Account
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 You have one **account** from which you can log in with your characters.
 If you log in with your account name, you start the game in the menu.

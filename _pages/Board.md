@@ -1,6 +1,7 @@
 ---
 title: Board
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In order to start a trip by ferry, use the 'Board' command. When you
 reach your destination, you might have to '[Leave](Leave "wikilink")'

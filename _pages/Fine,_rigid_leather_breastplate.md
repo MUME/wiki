@@ -1,6 +1,8 @@
 ---
 title: Fine, rigid leather breastplate
-tags: ["Leather equipment", "Body items"]
+tags:
+  - Leather equipment
+  - Body items
 ---
 `A fine, rigid leather breastplate is on the ground.`
 `>`**`look breastplate`**

@@ -1,6 +1,7 @@
 ---
 title: Jack Olby
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Jack Olby** guards the entrance to the [Guards' Training
 Room](Bree_Warrior_Guild "wikilink") in [Bree](Bree "wikilink"). Access

@@ -1,6 +1,7 @@
 ---
 title: PowTTY Scripts
-tags: ["Software"]
+tags:
+  - Software
 ---
 # PowTTY
 

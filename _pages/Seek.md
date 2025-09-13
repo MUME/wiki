@@ -1,6 +1,8 @@
 ---
 title: Seek
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The Last Homely Home of [Elrond](Elrond "wikilink"), also called
 [Rivendell](Rivendell "wikilink"), is well hidden and any visitor has to

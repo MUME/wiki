@@ -1,6 +1,7 @@
 ---
 title: Community
-tags: ["Links"]
+tags:
+  - Links
 ---
 The MUME community consists of thousands of people around the world
 who - as part of the [Ainur](Ainur "wikilink") - have contributed to

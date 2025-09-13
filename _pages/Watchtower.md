@@ -1,6 +1,8 @@
 ---
 title: Watchtower
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Some places in [Arda](Arda "wikilink") are considered being well suited
 for keeping watch of the surrounding terrains. These are known as

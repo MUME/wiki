@@ -1,6 +1,8 @@
 ---
 title: Sewers Thieves' Guild
-tags: ["Mobiles", "Guildmasters"]
+tags:
+  - Mobiles
+  - Guildmasters
 ---
 A **wary man** teaches [thief](thief "wikilink")
 [skills](skill "wikilink") at **The Guild of Assassins**, hidden

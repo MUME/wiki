@@ -1,6 +1,8 @@
 ---
 title: Knock
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: **knock** <doorname> \[direction\]
 

@@ -1,6 +1,9 @@
 ---
 title: Blindness
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Blindness** is a level 6 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). Cast upon a victim it will blind him

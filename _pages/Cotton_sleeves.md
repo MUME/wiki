@@ -1,6 +1,8 @@
 ---
 title: Cotton sleeves
-tags: ["Arms items", "Cloth equipment"]
+tags:
+  - Arms items
+  - Cloth equipment
 ---
 **Cotton sleeves** are a piece of cloth
 [equipment](equipment "wikilink") worn on the [arms](arms "wikilink").

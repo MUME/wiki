@@ -1,6 +1,8 @@
 ---
 title: Chain mail gloves
-tags: ["Hands items", "Mail equipment"]
+tags:
+  - Hands items
+  - Mail equipment
 ---
 `A pair of chain mail gloves are lying here.`
 `>`**`examine gloves`**

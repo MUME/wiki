@@ -1,6 +1,7 @@
 ---
 title: Olly's Tavern
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 **Olly's Tavern** is located on the northern end of The King's Road in
 [Fornost](Fornost "wikilink"). [Olly](Olly_of_Fornost "wikilink") is the

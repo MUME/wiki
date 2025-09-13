@@ -1,6 +1,7 @@
 ---
 title: Haunt
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 \> A shadowy haunt floats here, oblivious to your presence.
 

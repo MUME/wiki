@@ -1,6 +1,8 @@
 ---
 title: Drain
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Orcs and Trolls can fill their skin, or any drink container they have,
 with the blood of their fallen enemies.

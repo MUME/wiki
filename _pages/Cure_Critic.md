@@ -1,6 +1,9 @@
 ---
 title: Cure Critic
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 **Cure Critic** is a level 9 [cleric](cleric "wikilink")
 [spell](spell "wikilink"). It will heal the most serious

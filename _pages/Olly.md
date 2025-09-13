@@ -1,6 +1,7 @@
 ---
 title: Olly
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Olly** is the owner of Olly's Tavern in [Fornost](Fornost "wikilink").
 His tavern can be found just south of the Palisade Gate that leads to

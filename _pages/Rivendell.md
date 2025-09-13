@@ -1,6 +1,7 @@
 ---
 title: Rivendell
-tags: ["Cities"]
+tags:
+  - Cities
 ---
 The Last Homely House of [Elrond](Elrond "wikilink") is located in
 **Rivendell**, which is one of the last conclaves of

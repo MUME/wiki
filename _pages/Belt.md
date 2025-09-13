@@ -1,6 +1,7 @@
 ---
 title: Belt
-tags: ["Equipment"]
+tags:
+  - Equipment
 ---
 All **belts** in [MUME](MUME "wikilink") have the same amount of space,
 and don't affect armour absorption. They are most useful for hanging

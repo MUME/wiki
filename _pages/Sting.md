@@ -1,6 +1,7 @@
 ---
 title: Sting
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 A long elven dagger, forged in Gondolin during the First Age for war
 against Morgoth's orc armies. It is inscribed with elven runes.

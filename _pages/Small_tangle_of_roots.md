@@ -1,6 +1,7 @@
 ---
 title: Small tangle of roots
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Small tangles of roots** are passive [level](level "wikilink") \<10
 [mobiles](mobile "wikilink"). They can root players, preventing them

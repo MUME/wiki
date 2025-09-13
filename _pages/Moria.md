@@ -1,6 +1,7 @@
 ---
 title: Moria
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 `  "Durin is the name that the Dwarves use for the eldest of the Seven`
 `    Fathers of their race, and the ancestor of all the kings of the`

@@ -1,6 +1,9 @@
 ---
 title: Pick
-tags: ["Thief skills", "Skills", "Commands"]
+tags:
+  - Thief skills
+  - Skills
+  - Commands
 ---
 **Pick** is a [thief](thief "wikilink") [skill](skill "wikilink") that
 allows you to pick locks. Not all locks can be picked.

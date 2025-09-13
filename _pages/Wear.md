@@ -1,6 +1,8 @@
 ---
 title: Wear
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 This command is used for **wearing** some clothes, armour or the like.
 If a piece of clothing or armour does not fit or is worn out you may

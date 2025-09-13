@@ -1,6 +1,7 @@
 ---
 title: Blue Mountains Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Vestri** teaches [scout](scout "wikilink") [skills](skill "wikilink")
 at the **Scout Guild** in [Blue Mountains](Blue_Mountains "wikilink").

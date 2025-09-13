@@ -1,6 +1,8 @@
 ---
 title: Beep
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **beep** command lets you catch the attention of a player even if he
 is [asleep](sleep "wikilink"). Do not abuse this command.

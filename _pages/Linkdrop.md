@@ -1,6 +1,7 @@
 ---
 title: Linkdrop
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 "Change linkdrop" sets an inactivity limit on a connection (in seconds).
 When enough time elapses without any command having been sent, the

@@ -1,6 +1,7 @@
 ---
 title: Large metal full shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **large metal full shield** is a [shield](shield "wikilink"). It
 grants a mediocre amount of [parry bonus](parry_bonus "wikilink"). It is

@@ -1,6 +1,7 @@
 ---
 title: Time
-tags: ["Basics"]
+tags:
+  - Basics
 ---
 Gives the approximate current 'game time'. This can only be guessed at
 without a clock, and only if you are outside. Certain things in the game

@@ -1,6 +1,7 @@
 ---
 title: Rivendell Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **grey-haired elf** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Mage Guild** in

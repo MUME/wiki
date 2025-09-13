@@ -1,6 +1,7 @@
 ---
 title: Category:Cities
-tags: ["Places"]
+tags:
+  - Places
 ---
 Cities in [MUME](MUME "wikilink").
 

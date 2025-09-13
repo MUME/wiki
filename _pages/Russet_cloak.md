@@ -1,6 +1,8 @@
 ---
 title: Russet cloak
-tags: ["Cloth equipment", "Cloaks"]
+tags:
+  - Cloth equipment
+  - Cloaks
 ---
 The **russet cloak** is a [cloak](cloak "wikilink") that grants some
 [dodge bonus](dodge_bonus "wikilink") and slightly increases move

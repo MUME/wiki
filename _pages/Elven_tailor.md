@@ -1,6 +1,7 @@
 ---
 title: Elven tailor
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 **Elven tailors** tend the tailor's [shops](shop "wikilink") in
 [Harlond](Harlond_Tailor "wikilink") and

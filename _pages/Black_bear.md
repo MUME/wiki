@@ -1,6 +1,7 @@
 ---
 title: Black bear
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Black bears** are aggressive, [evil](alignment "wikilink")
 [level](level "wikilink") 13 [mobiles](mobile "wikilink") found in

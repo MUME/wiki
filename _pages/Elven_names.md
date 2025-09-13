@@ -1,6 +1,7 @@
 ---
 title: Elven names
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 [Elvish](Elvish "wikilink") names tend to be compound words or phrases.
 For Example: [Elrond](wikipedia:en:Elrond "wikilink") means 'Vault of

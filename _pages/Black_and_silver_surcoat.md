@@ -1,6 +1,7 @@
 ---
 title: Black and silver surcoat
-tags: ["Cloaks"]
+tags:
+  - Cloaks
 ---
 The **black and silver surcoat** can be worn as a
 [cloak](cloak "wikilink"). It provides some [dodge

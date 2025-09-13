@@ -1,6 +1,9 @@
 ---
 title: Darkness
-tags: ["Spells", "Cleric spells", "Shaman spells"]
+tags:
+  - Spells
+  - Cleric spells
+  - Shaman spells
 ---
 Syntax : cast 'darkness' Type : Miscellaneous Accumulative: No Duration
 : Yes Casting : Short Position : Standing Level : Level 13 Class :

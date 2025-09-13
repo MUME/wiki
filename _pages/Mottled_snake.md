@@ -1,6 +1,7 @@
 ---
 title: Mottled snake
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Mottled snakes** are aggressive [level](level "wikilink") ~10-13
 [mobiles](mobile "wikilink"). They have a poisonous bite, and can

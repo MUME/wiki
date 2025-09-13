@@ -1,6 +1,8 @@
 ---
 title: Rope
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Rope** is useful for leading groups in areas that require the
 [Climb](Climb "wikilink") skill. The group leader (i.e. the one who

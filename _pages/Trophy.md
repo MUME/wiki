@@ -1,6 +1,8 @@
 ---
 title: Trophy
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Usage: **trophy** \[string\]
 

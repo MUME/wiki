@@ -1,6 +1,8 @@
 ---
 title: Call Lightning
-tags: ["Mage spells", "Spells"]
+tags:
+  - Mage spells
+  - Spells
 ---
 **Call Lightning** is a [level](level "wikilink") 12
 [mage](mage "wikilink") [spell](spell "wikilink"). It deals a large

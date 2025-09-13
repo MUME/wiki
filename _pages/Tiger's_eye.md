@@ -1,6 +1,7 @@
 ---
 title: Tiger's eye
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 `A polished tiger's eye lies discarded here.`
 `>`**`examine eye`**

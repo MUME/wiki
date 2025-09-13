@@ -1,6 +1,9 @@
 ---
 title: Detect Invisibility
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 Syntax : cast 'detect invisibility' Type : Detection Accumulative: No
 Duration : Yes Casting : Normal Position : Standing Level : Level 2

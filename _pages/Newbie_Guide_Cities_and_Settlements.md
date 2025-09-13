@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Cities and Settlements
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Guide Cities and Settlements**
 

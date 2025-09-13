@@ -1,6 +1,7 @@
 ---
 title: Staff
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Being a long and robust stick, a **staff** can be used both to strike
 down one's enemies and to parry their blows.

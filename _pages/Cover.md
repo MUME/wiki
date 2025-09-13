@@ -1,6 +1,8 @@
 ---
 title: Cover
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Cover** is a command used to temporarily block the light from a light
 source from escaping.

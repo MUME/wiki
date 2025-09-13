@@ -1,6 +1,7 @@
 ---
 title: Libraries
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Libraries can be found in most towns of Arda and in some other places of
 lore.

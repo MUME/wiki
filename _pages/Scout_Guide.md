@@ -1,6 +1,7 @@
 ---
 title: Scout Guide
-tags: ["Newbie Help"]
+tags:
+  - Newbie Help
 ---
 Credits: Originally By Locram
 ([source](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970)).

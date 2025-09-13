@@ -1,6 +1,7 @@
 ---
 title: Weather
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Syntax: weather {local\|global\|fog}
 

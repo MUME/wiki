@@ -1,6 +1,7 @@
 ---
 title: Advanced
-tags: ["Help_files"]
+tags:
+  - Help_files
 ---
 This text lists some **advanced** commands and terms, mainly for players
 who have already played other muds, and want to skip some of the basic

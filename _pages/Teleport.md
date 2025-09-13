@@ -1,6 +1,9 @@
 ---
 title: Teleport
-tags: ["Help files", "Mage spells", "Spells"]
+tags:
+  - Help files
+  - Mage spells
+  - Spells
 ---
 **Teleport** is a [level](level "wikilink") 8 [mage](mage "wikilink")
 [spell](spell "wikilink") that allows the caster to instantly transport

@@ -1,6 +1,8 @@
 ---
 title: Whet
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 **Whetstones** are small hard stones used for sharpening your
 [weapon](weapon "wikilink"). To use them:

@@ -1,6 +1,7 @@
 ---
 title: Smooth, black boots
-tags: ["Feet items"]
+tags:
+  - Feet items
 ---
 The **smooth black boots** are worn on the [feet](feet "wikilink"). They
 considerably reduce movement cost, but provide no damage absorption.

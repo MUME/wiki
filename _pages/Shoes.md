@@ -1,6 +1,8 @@
 ---
 title: Shoes
-tags: ["Cloth equipment", "Feet items"]
+tags:
+  - Cloth equipment
+  - Feet items
 ---
 *For a list of all shoes, see [feet](feet "wikilink").*
 

@@ -1,4 +1,5 @@
 ---
 title: Category:Plants
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---

@@ -1,6 +1,8 @@
 ---
 title: News
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **News** command allows you to see important information about the
 game. It can be read on special news [boards](board "wikilink")

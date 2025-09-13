@@ -1,6 +1,7 @@
 ---
 title: Halls of Mandos
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 The **Halls of Mandos** is a special [room](room "wikilink") where all
 newly created whitie characters start out, and also where all whitie

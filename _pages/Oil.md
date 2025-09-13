@@ -1,6 +1,7 @@
 ---
 title: Oil
-tags: ["Consumables"]
+tags:
+  - Consumables
 ---
 **Oil** is used as fuel for [lanterns](lantern "wikilink"). Oil is
 commonly found in the [dark coloured

@@ -1,6 +1,7 @@
 ---
 title: Animated skeleton
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 \> An intact skeleton of a man is walking around here.
 

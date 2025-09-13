@@ -1,6 +1,7 @@
 ---
 title: Small metal shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **small metal shield** is a lightweight [shield](shield "wikilink")
 that gives a mediocre amount of [parry bonus](parry_bonus "wikilink").

@@ -1,6 +1,7 @@
 ---
 title: Boards
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 There are many boards about Arda. Each board has a different purpose, as
 given by its name.

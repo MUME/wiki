@@ -1,6 +1,8 @@
 ---
 title: Hold
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 For getting a good grip on something; a torch, for example.
 

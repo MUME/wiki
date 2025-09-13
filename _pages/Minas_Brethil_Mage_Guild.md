@@ -1,6 +1,7 @@
 ---
 title: Minas Brethil Mage Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **sorcerer** teaches [mage](mage "wikilink")
 [spells](spell "wikilink") at the **Top of the Eastern Tower** in [Minas

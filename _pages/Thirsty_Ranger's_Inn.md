@@ -1,6 +1,7 @@
 ---
 title: Thirsty Ranger's Inn
-tags: ["Shops"]
+tags:
+  - Shops
 ---
 The **Thirsty Ranger's Inn** is a tavern in
 [Tharbad](Tharbad "wikilink"), located on Old Tower Street, with a

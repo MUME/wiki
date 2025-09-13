@@ -1,6 +1,7 @@
 ---
 title: Bree Weaponsmith
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 The **weaponsmith** tends to the **Weapon Shop** in
 [Bree](Bree "wikilink"). The store is open from 6am to 3pm and 5pm to

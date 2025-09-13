@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Light Sources and Seeing
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Light Sources and Seeing**
 

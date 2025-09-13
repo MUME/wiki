@@ -1,6 +1,9 @@
 ---
 title: Examine
-tags: ["Help files", "Basics", "Commands"]
+tags:
+  - Help files
+  - Basics
+  - Commands
 ---
 **Examine** is a command that may give some extra details about an
 object or creature. Examine \<[container](container "wikilink")\> will

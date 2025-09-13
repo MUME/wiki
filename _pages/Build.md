@@ -1,6 +1,8 @@
 ---
 title: Build
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 These commands are used by M level maiar or lower to manipulate the
 **building** of new god [rooms](room "wikilink") or [legend

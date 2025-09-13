@@ -1,6 +1,8 @@
 ---
 title: Exit
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 The "**exits**" command shows information about the currently visible
 exits out of your [room](room "wikilink"). Note that some exits may be

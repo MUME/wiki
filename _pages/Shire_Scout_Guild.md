@@ -1,6 +1,7 @@
 ---
 title: Shire Scout Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **well-travelled hobbit** teaches [scout](thief "wikilink")
 [skills](skill "wikilink") in the [Shire](Shire "wikilink"). He can be

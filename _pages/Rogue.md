@@ -1,6 +1,8 @@
 ---
 title: Rogue
-tags: ["Mobiles", "Mobiles with unknown level"]
+tags:
+  - Mobiles
+  - Mobiles with unknown level
 ---
 **Rogues** are aggressive [level](level "wikilink") ?
 [mobiles](mobile "wikilink") found in [Malardil's

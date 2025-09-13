@@ -1,6 +1,8 @@
 ---
 title: Load
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 If you have a [crossbow](crossbow "wikilink"), you can
 [Load](Load "wikilink") it with a bolt before using it in combat. This

@@ -1,6 +1,8 @@
 ---
 title: Shout
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 The **shout** command can be used to give a message to everyone in the
 game, regardless of whether they want to hear it or not. This should be

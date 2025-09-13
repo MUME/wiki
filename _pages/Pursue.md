@@ -1,6 +1,8 @@
 ---
 title: Pursue
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 If you find a track using the command '[track](track "wikilink")'
 <target>, you have the option to follow these tracks with the command

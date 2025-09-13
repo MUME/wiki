@@ -1,6 +1,7 @@
 ---
 title: Eregion
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 Located East of [Tharbad](Tharbad "wikilink"), north of
 [Dunland](Dunland "wikilink") and east of the [Misty

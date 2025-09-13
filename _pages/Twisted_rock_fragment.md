@@ -1,6 +1,7 @@
 ---
 title: Twisted rock fragment
-tags: ["Miscellaneous equipment"]
+tags:
+  - Miscellaneous equipment
 ---
 \> **examine rock**
 This rock, not much larger than a small hand, appears too twisted and

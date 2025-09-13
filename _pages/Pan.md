@@ -1,6 +1,7 @@
 ---
 title: Pan
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you have a [pan](pan "wikilink"), and there is some sort of fire in
 the room, you can [Cook](Cook "wikilink") any raw meat you may have

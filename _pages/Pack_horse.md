@@ -1,6 +1,7 @@
 ---
 title: Pack horse
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Pack horses** are [level](level "wikilink") 6
 [rideable](ride "wikilink") [mobs](mob "wikilink"), found in various

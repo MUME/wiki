@@ -1,6 +1,7 @@
 ---
 title: Brown fox
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Brown foxes** are passive [level](level "wikilink") 2
 [mobiles](mobile "wikilink") found in various locations around

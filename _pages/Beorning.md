@@ -1,6 +1,7 @@
 ---
 title: Beorning
-tags: ["Playable races"]
+tags:
+  - Playable races
 ---
 ![](Bear_roar.jpg "Bear_roar.jpg") **Beornings**, also known as
 **Bears**, are a race of [men](man "wikilink") who are capable of

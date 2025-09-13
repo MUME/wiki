@@ -1,6 +1,7 @@
 ---
 title: Crumpled, mud-smeared piece of paper
-tags: ["Quest items"]
+tags:
+  - Quest items
 ---
 The **crumpled, mud-smeared piece of paper** is an
 [item](item "wikilink") needed for the [Bandit's

@@ -1,6 +1,7 @@
 ---
 title: Fornost Warrior Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 **Huor of Dor-lómin** teaches [warrior](warrior "wikilink")
 [skills](skill "wikilink") at the **Guild of Warriors** in

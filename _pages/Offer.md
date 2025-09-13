@@ -1,6 +1,8 @@
 ---
 title: Offer
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 For use in inns. The command '[offer](offer "wikilink")' will make the
 innkeeper tell you the cost of storing your carried items for one (real

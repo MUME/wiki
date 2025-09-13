@@ -1,6 +1,7 @@
 ---
 title: Pigeon
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 If you wish to send a small item - usually a note - to someone else, you
 can buy a trained pigeon in a pet shop. Give the item to the pigeon and

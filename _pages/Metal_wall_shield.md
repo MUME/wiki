@@ -1,6 +1,7 @@
 ---
 title: Metal wall shield
-tags: ["Shields"]
+tags:
+  - Shields
 ---
 The **metal wall shield** is a rather heavy [shield](shield "wikilink")
 that grants mediocre [parry bonus](parry_bonus "wikilink"). It can be

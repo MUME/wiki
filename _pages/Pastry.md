@@ -1,6 +1,7 @@
 ---
 title: Pastry
-tags: ["Consumables"]
+tags:
+  - Consumables
 ---
 **Pastries** are a [food](food "wikilink") [item](item "wikilink"),
 worth around 6 [copper](copper "wikilink") and sold in many bakeries and

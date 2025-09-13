@@ -1,6 +1,7 @@
 ---
 title: Crown of Arnor Innkeeper
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 `> `**`look innkeeper`**
 `> The old innkeeper was maybe in his youth an adventurer like yourself, `

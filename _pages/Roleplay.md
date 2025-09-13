@@ -1,6 +1,7 @@
 ---
 title: Roleplay
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 "Roleplaying" means attempting to play your character as if he/she were
 a real inhabitant of Tolkien's world, with a life story, understandable

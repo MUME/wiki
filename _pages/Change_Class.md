@@ -1,6 +1,7 @@
 ---
 title: Change Class
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 In some other MUD, players are required to pick a "class" when they
 create a new character; the character's abilities depend on the class.

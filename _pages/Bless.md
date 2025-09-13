@@ -1,6 +1,8 @@
 ---
 title: Bless
-tags: ["Cleric spells", "Spells"]
+tags:
+  - Cleric spells
+  - Spells
 ---
 **Bless** is a [level](level "wikilink") 5 [cleric](cleric "wikilink")
 [spell](spell "wikilink") that gives the target +5% [offensive

@@ -1,6 +1,7 @@
 ---
 title: Fine pelt
-tags: ["Uncategorized items"]
+tags:
+  - Uncategorized items
 ---
 \> **look pelt**
 

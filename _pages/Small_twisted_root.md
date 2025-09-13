@@ -1,6 +1,7 @@
 ---
 title: Small twisted root
-tags: ["Keys"]
+tags:
+  - Keys
 ---
 The **small twisted root** is a [key](key "wikilink"). It loads on [Bill
 Ferny](Bill_Ferny "wikilink") and can be used to

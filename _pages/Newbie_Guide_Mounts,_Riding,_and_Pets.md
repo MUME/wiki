@@ -1,6 +1,8 @@
 ---
 title: Newbie Guide Mounts, Riding, and Pets
-tags: ["Guides", "Newbie Help"]
+tags:
+  - Guides
+  - Newbie Help
 ---
 **Newbie Guide Mounts, Riding, and Pets**
 

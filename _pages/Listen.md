@@ -1,6 +1,8 @@
 ---
 title: Listen
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 You can choose to receive 'tales' and 'songs' from other players.
 '<b>listen</b> xxx' will toggle your attention to them. 'listen none'

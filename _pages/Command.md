@@ -1,6 +1,8 @@
 ---
 title: Command
-tags: ["Skills", "Ranger skills"]
+tags:
+  - Skills
+  - Ranger skills
 ---
 *For a list of commands useable in the game, see
 [commands](commands "wikilink").*

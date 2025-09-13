@@ -1,6 +1,7 @@
 ---
 title: Mighty dwarven axe
-tags: ["Cleaving weapons"]
+tags:
+  - Cleaving weapons
 ---
 \> <b>examine axe</b>
 

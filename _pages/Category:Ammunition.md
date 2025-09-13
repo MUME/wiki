@@ -1,5 +1,6 @@
 ---
 title: Category:Ammunition
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 {% include Items.md %}

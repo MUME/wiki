@@ -1,6 +1,7 @@
 ---
 title: Tower Hills Herbalist
-tags: ["Shopkeepers"]
+tags:
+  - Shopkeepers
 ---
 An **elderly herbalist** tends to the **Herbal Store** in [Black
 Hill](Black_Hill "wikilink"). The store is open 4am - 12pm and 1pm -

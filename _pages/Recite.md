@@ -1,6 +1,8 @@
 ---
 title: Recite
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: **recite** <scroll> \[recipient\]
 

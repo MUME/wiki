@@ -1,6 +1,7 @@
 ---
 title: Orkish wolf-rider
-tags: ["Mobiles"]
+tags:
+  - Mobiles
 ---
 **Orkish wolf-riders** are [level](level "wikilink") ~12-13
 [mobiles](mobile "wikilink"), found mostly in the vale of Anduin. They

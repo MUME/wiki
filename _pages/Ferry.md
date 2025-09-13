@@ -1,6 +1,7 @@
 ---
 title: Ferry
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 **Ferries** are a comfortable way of crossing a [body of
 water](waterways "wikilink") when a bridge is not available or using

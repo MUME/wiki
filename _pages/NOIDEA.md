@@ -1,6 +1,7 @@
 ---
 title: NOIDEA
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 These are **ideas** which have been considered by the
 [MUME](MUME "wikilink") management (in this case principally the

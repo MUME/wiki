@@ -1,6 +1,7 @@
 ---
 title: Mage
-tags: ["Classes"]
+tags:
+  - Classes
 ---
 The **mage** is a class of powerful and violent magic, however it does
 not possess the same healing powers as a [cleric](cleric "wikilink").

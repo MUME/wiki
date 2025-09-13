@@ -1,6 +1,7 @@
 ---
 title: Rivendell Ranger Guild
-tags: ["Guildmasters"]
+tags:
+  - Guildmasters
 ---
 A **ranger** teaches [ranger](general "wikilink")
 [skills](skill "wikilink") at the **Ranger's Quarters** in

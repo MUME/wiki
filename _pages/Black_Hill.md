@@ -1,6 +1,7 @@
 ---
 title: Black Hill
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 **Black Hill** is a small village of [men](man "wikilink") located in
 the [Tower Hills](Tower_Hills "wikilink"), north of the road to [Grey

@@ -1,6 +1,7 @@
 ---
 title: Black metal wristband
-tags: ["Wrist items"]
+tags:
+  - Wrist items
 ---
 \> **examine wristband**
 This wristband is made of some dull black metal. Not any decorations or

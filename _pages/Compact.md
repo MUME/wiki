@@ -1,6 +1,7 @@
 ---
 title: Compact
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Usage: [change](change "wikilink") **compact** \[on\|off\]
 

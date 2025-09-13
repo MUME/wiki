@@ -1,6 +1,7 @@
 ---
 title: Local Editor
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 The MUME remote editing protocol is a mechanism that allows users to
 edit files on their local machines, as opposed to using the standard

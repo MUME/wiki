@@ -1,6 +1,8 @@
 ---
 title: Scalp
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 **Scalping** is a way for members of the evil races to keep track of
 whom they have killed. In order to scalp a [corpse](corpse "wikilink"),

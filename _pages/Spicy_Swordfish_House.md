@@ -1,6 +1,8 @@
 ---
 title: Spicy Swordfish House
-tags: ["Shops", "Shopkeepers"]
+tags:
+  - Shops
+  - Shopkeepers
 ---
 A **retired fisherman** sells food and drinks at the **Spicy Swordfish
 House** tavern in [Harlond](Harlond "wikilink").

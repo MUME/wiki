@@ -1,6 +1,7 @@
 ---
 title: Shire
-tags: ["Places"]
+tags:
+  - Places
 ---
 The **Shire** is a civilized place located in the old Kingdom of
 Arthedain. It is far from the great nations of the South, the nearest

@@ -1,6 +1,8 @@
 ---
 title: Pot helm
-tags: ["Metal equipment", "Head items"]
+tags:
+  - Metal equipment
+  - Head items
 ---
 The **pot helm** is a piece of metal [equipment](equipment "wikilink")
 worn on the [head](head "wikilink"). It is a reward from the [Bandit's

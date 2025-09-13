@@ -1,6 +1,8 @@
 ---
 title: Finely woven hood
-tags: ["Cloth equipment", "Head items"]
+tags:
+  - Cloth equipment
+  - Head items
 ---
 The **finely woven hood** is a piece of cloth
 [equipment](equipment "wikilink") worn on the [head](head "wikilink").

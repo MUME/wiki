@@ -1,6 +1,8 @@
 ---
 title: Use
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Syntax: **use** <item> <target>
 

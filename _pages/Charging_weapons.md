@@ -1,6 +1,9 @@
 ---
 title: Charging weapons
-tags: ["Warrior skills", "Skills", "Commands"]
+tags:
+  - Warrior skills
+  - Skills
+  - Commands
 ---
 **Charge** is a [warrior](warrior "wikilink") [skill](skill "wikilink")
 and [weapon](weapon "wikilink") class. To charge successfully, you need

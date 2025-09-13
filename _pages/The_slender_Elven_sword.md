@@ -1,6 +1,7 @@
 ---
 title: The slender Elven sword
-tags: ["Weapons"]
+tags:
+  - Weapons
 ---
 See also: [Orcrist](Orcrist "wikilink")
 

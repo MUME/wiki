@@ -1,6 +1,8 @@
 ---
 title: FAQ
-tags: ["Help files", "Commands"]
+tags:
+  - Help files
+  - Commands
 ---
 Command **FAQ** allows you to read the FAQ [board](board "wikilink")
 where the most frequently asked questions are answered. For the syntax

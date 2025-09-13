@@ -1,6 +1,7 @@
 ---
 title: Door
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 You can **open**, **close**, **lock**, or **unlock** (if you have an
 appropriate [key](key "wikilink")) a **door** or a

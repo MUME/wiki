@@ -1,6 +1,7 @@
 ---
 title: Blue Mountains
-tags: ["Locations"]
+tags:
+  - Locations
 ---
 ## Blue Mountains
 

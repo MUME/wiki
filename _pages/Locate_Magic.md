@@ -1,6 +1,9 @@
 ---
 title: Locate Magic
-tags: ["Spells", "Mage spells", "Shaman spells"]
+tags:
+  - Spells
+  - Mage spells
+  - Shaman spells
 ---
 Syntax : cast 'locate magic' good\|evil \[\<max distance\>\] Type : Long
 range Casting : Very long Position : Standing Level : Level 4 Class :

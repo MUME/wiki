@@ -1,6 +1,8 @@
 ---
 title: Leather helmet
-tags: ["Leather equipment", "Head items"]
+tags:
+  - Leather equipment
+  - Head items
 ---
 The **leather helmet** is a piece of leather
 [equipment](equipment "wikilink") worn on the [head](head "wikilink").

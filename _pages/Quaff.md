@@ -1,6 +1,8 @@
 ---
 title: Quaff
-tags: ["Commands", "Help files"]
+tags:
+  - Commands
+  - Help files
 ---
 **Quaff** is used to drink a [potion](potion "wikilink"), and gain its
 effects. Note that [drink](drink "wikilink") will also work, but if you

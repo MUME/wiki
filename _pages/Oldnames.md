@@ -1,6 +1,7 @@
 ---
 title: Oldnames
-tags: ["Help files"]
+tags:
+  - Help files
 ---
 Recent Namechanges of persons of some particular interest: Old Name New
 Name Blackadder -\> Ajis Sars -\> Nartum Tinkywinky -\> Valik
