@@ -6,114 +6,64 @@ title: 'Page Tag Index'
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 {% comment %}
-    Collect and deduplicate all unique tags from pages
+    Collect and deduplicate all unique tags from pages
 {% endcomment %}
 {% assign all_tags = site.pages | map: 'tags' | join: ',' | split: ',' | sort | uniq %}
 
-{% comment %} Generate the A-Z index at the top, including a link for non-alphabetical tags {% endcomment %}
+{% comment %} Generate the A-Z index at the top {% endcomment %}
 <div class="az-index">
 {%- assign alphabet = 'A B C D E F G H I J K L M N O P Q R S T U V W X Y Z' | split: ' ' -%}
-{%- assign non_alpha_tags = false -%}
-{%- for tag in all_tags -%}
-    {%- assign first_char = tag | slice: 0, 1 | downcase -%}
-    {%- if alphabet contains first_char | upcase -%}
-        {%- continue -%}
-    {%- else -%}
-        {%- assign non_alpha_tags = true -%}
-        {%- break -%}
-    {%- endif -%}
-{%- endfor -%}
-{%- if non_alpha_tags -%}
-    <a href="#non-alpha">#</a>
-{%- else -%}
-    <span>#</span>
-{%- endif -%}
 {%- for letter in alphabet -%}
-    {%- assign letter_has_tag = false -%}
-    {%- for tag in all_tags -%}
-        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
-        {%- assign letter_lower = letter | downcase -%}
-        {%- if tag_first_char == letter_lower -%}
-            {%- assign letter_has_tag = true -%}
-            {%- break -%}
-        {%- endif -%}
-    {%- endfor -%}
-    {%- if letter_has_tag -%}
-        <a href="#{{- letter -}}">{{- letter -}}</a>
-    {%- else -%}
-        <span>{{- letter -}}</span>
-    {%- endif -%}
+    {%- assign letter_has_tag = false -%}
+    {%- for tag in all_tags -%}
+        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
+        {%- assign letter_lower = letter | downcase -%}
+        {%- if tag_first_char == letter_lower -%}
+            {%- assign letter_has_tag = true -%}
+            {%- break -%}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- if letter_has_tag -%}
+        <a href="#{{- letter -}}">{{- letter -}}</a>
+    {%- else -%}
+        <span>{{- letter -}}</span>
+    {%- endif -%}
 {%- endfor -%}
 </div>
 
 <hr>
 
 <div id="full-tags-list">
-{% comment %} Section for non-alphabetical tags {% endcomment %}
-{%- assign tags_for_non_alpha = "" | split: "" -%}
-{%- for tag in all_tags -%}
-    {%- assign first_char = tag | slice: 0, 1 | downcase -%}
-    {%- assign alphabet_lower = 'a b c d e f g h i j k l m n o p q r s t u v w x y z' | split: ' ' -%}
-    {%- if alphabet_lower contains first_char -%}
-        {%- continue -%}
-    {%- else -%}
-        {%- assign tags_for_non_alpha = tags_for_non_alpha | push: tag -%}
-    {%- endif -%}
-{%- endfor -%}
-
-{%- if tags_for_non_alpha.size > 0 -%}
-    <h2 id="non-alpha" class="linked-section">#</h2>
-    <div class="post-list">
-    {%- for tag in tags_for_non_alpha -%}
-        {%- if tag and tag != "" -%}
-        <h3 class="tag-title">
-            <i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}
-        </h3>
-        <ul class="tag-page-list">
-            {%- for page in site.pages -%}
-                {%- if page and page.tags contains tag -%}
-                <li>
-                    <a href="{{ page.url | relative_url }}">{{- page.title | strip_html -}}</a>
-                </li>
-                {%- endif -%}
-            {%- endfor -%}
-        </ul>
-        {%- endif -%}
-    {%- endfor -%}
-    </div>
-{%- endif -%}
-
-{% comment %} Original section for alphabetical tags {% endcomment %}
 {%- for letter in alphabet -%}
-    {%- assign tags_for_letter = "" | split: "" -%}
-    {%- for tag in all_tags -%}
-        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
-        {%- assign letter_lower = letter | downcase -%}
-        {%- if tag and tag_first_char == letter_lower -%}
-            {%- assign tags_for_letter = tags_for_letter | push: tag -%}
-        {%- endif -%}
-    {%- endfor -%}
-
-    {%- if tags_for_letter.size > 0 -%}
-        <h2 id="{{- letter -}}" class="linked-section">{{- letter -}}</h2>
-        <div class="post-list">
-        {%- for tag in tags_for_letter -%}
-            {%- if tag and tag != "" -%}
-            <h3 class="tag-title">
-                <i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}
-            </h3>
-            <ul class="tag-page-list">
-                {%- for page in site.pages -%}
-                    {%- if page and page.tags contains tag -%}
-                    <li>
-                        <a href="{{ page.url | relative_url }}">{{- page.title | strip_html -}}</a>
-                    </li>
-                    {%- endif -%}
-                {%- endfor -%}
-            </ul>
-            {%- endif -%}
-        {%- endfor -%}
-        </div>
-    {%- endif -%}
+    {%- assign tags_for_letter = "" | split: "" -%}
+    {%- for tag in all_tags -%}
+        {%- assign tag_first_char = tag | slice: 0, 1 | downcase -%}
+        {%- assign letter_lower = letter | downcase -%}
+        {%- if tag and tag_first_char == letter_lower -%}
+            {%- assign tags_for_letter = tags_for_letter | push: tag -%}
+        {%- endif -%}
+    {%- endfor -%}
+    
+    {%- if tags_for_letter.size > 0 -%}
+        <h2 id="{{- letter -}}" class="linked-section">{{- letter -}}</h2>
+        <div class="post-list">
+        {%- for tag in tags_for_letter -%}
+            {%- if tag and tag != "" -%}
+            <h3 class="tag-title">
+                <i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}
+            </h3>
+            <ul class="tag-page-list">
+                {%- for page in site.pages -%}
+                    {%- if page and page.tags contains tag -%}
+                    <li>
+                        <a href="{{ page.url | relative_url }}">{{- page.title | strip_html -}}</a>
+                    </li>
+                    {%- endif -%}
+                {%- endfor -%}
+            </ul>
+            {%- endif -%}
+        {%- endfor -%}
+        </div>
+    {%- endif -%}
 {%- endfor -%}
 </div>
