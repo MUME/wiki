@@ -110,11 +110,12 @@ export default defineConfig({
 
             // 2. Inject aliases and tags into the indexable content.
             // These help users find pages by alternative names or categories.
+            // Using H1 for aliases and H2 for tags gives them high search priority.
             const aliases = Array.isArray(frontmatter.aliases) ? frontmatter.aliases : []
             const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : []
             const metadataHtml = [
-              ...aliases.map(a => `<h2 id="alias-${slugify(a)}" style="display:none">${a}</h2>`),
-              ...tags.map(t => `<span style="display:none">${t}</span>`)
+              ...aliases.map(a => `<h1 id="alias-${slugify(a)}">${a}</h1>`),
+              ...tags.map(t => `<h2 id="tag-meta-${slugify(t)}">${t}</h2>`)
             ].join('')
 
             return titleHtml + metadataHtml + html

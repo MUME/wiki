@@ -286,7 +286,13 @@ a:hover {
 .tags-page {
   max-width: var(--mume-tags-max-width);
   margin: 0 auto;
-  padding: 0 2rem 5rem;
+  padding: 0 1.5rem 5rem;
+}
+
+@media (min-width: 768px) {
+  .tags-page {
+    padding: 0 4rem 5rem;
+  }
 }
 
 .tag-header {
