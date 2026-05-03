@@ -71,7 +71,7 @@ The playable area covers Eriador and its surrounding regions, from the Blue Moun
 Navigating the vast wilderness of Middle-earth is a skill in itself.
 
 - [Super Mobile](./pages/Super_Mobile.md) — Learn the art of "super mobility" to travel the world efficiently.
-- [MMapper](./community.md) — The essential community-made mapping tool for MUME.
+- [MMapper](./pages/Mmapper.md) — The essential community-made mapping tool for MUME.
 - [Tharbad](./pages/Tharbad.md) — A major geographical hub connecting the north and south.
 
 ## Major Locations

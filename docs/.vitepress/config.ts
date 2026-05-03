@@ -68,16 +68,8 @@ export default defineConfig({
       { text: 'Classes', link: '/classes' },
       { text: 'Races', link: '/races' },
       { text: 'Lore', link: '/lore' },
-      { text: 'Community', link: '/community' },
       { text: 'Tags', link: '/tags' },
-      {
-        text: 'MUME',
-        items: [
-          { text: 'Homepage', link: 'https://mume.org/' },
-          { text: 'Forum', link: 'https://mume.org/forum' },
-          { text: 'MMapper', link: 'https://github.com/MUME/MMapper' },
-        ],
-      },
+      { text: 'Homepage', link: 'https://mume.org/' },
     ],
 
     search: {

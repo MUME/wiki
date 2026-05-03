@@ -19,4 +19,4 @@ add/write some action.
 - JMC Scripts
 - [Zmud Scripts](./Zmud_Scripts.md)
 - TinTin Scripts
-- [Mudlet Scripts](./Mudlet_Scripts.md)
+- [Mudlet Scripts](https://sites.google.com/view/mume-mudlet)

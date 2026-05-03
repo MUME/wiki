@@ -37,11 +37,6 @@ features:
     details: Explore a 1:1 recreation of Eriador. Learn the history of the Third Age and master the art of wilderness travel.
     link: /lore
     linkText: Explore the World
-  - icon: 💬
-    title: Community Tools
-    details: Essential mappers, scripts, and external resources developed by the MUME community over three decades.
-    link: /community
-    linkText: Join the Community
   - icon: 🏷️
     title: Full Index
     details: Looking for something specific? Our comprehensive tag index covers every herb, quest, and guildmaster.
