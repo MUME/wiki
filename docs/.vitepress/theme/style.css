@@ -280,15 +280,19 @@ a:hover {
 
 /* ---------- Tags page ---------- */
 
-.tag-index {
+.tags-page {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 1em 2em 3em;
+  padding: 0 2rem 3rem;
 }
 
 .tag-index .tag-group {
   margin: 3em 0;
-  scroll-margin-top: 120px;
+}
+
+.tag-index .tag-letter,
+.tag-index .tag-name {
+  scroll-margin-top: 140px;
 }
 
 .tag-index .tag-letter {
@@ -348,9 +352,7 @@ a:hover {
 }
 
 .tag-controls {
-  max-width: 1000px;
-  margin: 0 auto 1em;
-  padding: 0 2em;
+  margin-bottom: 1em;
 }
 
 .tag-search {
@@ -371,13 +373,62 @@ a:hover {
   box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
 }
 
+.search-results {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: var(--mume-bg-card);
+  border-radius: 8px;
+  border: 1px solid var(--mume-border);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.jump-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-family: Georgia, serif;
+}
+
+.jump-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.jump-link {
+  font-size: 0.9rem;
+  padding: 0.25rem 0.75rem;
+  background-color: var(--vp-c-bg-alt);
+  border: 1px solid var(--mume-border);
+  border-radius: 4px;
+  color: var(--mume-gold);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.jump-link:hover {
+  background-color: var(--mume-gold);
+  border-color: var(--mume-gold);
+  color: var(--mume-bg-light) !important;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.dark .jump-link:hover {
+  color: var(--mume-bg-dark) !important;
+}
+
 .az-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4em;
-  margin: 0 auto 2em;
-  padding: 1em 2em;
-  max-width: 1000px;
+  margin-bottom: 2em;
+  padding: 1em 0;
   background: var(--vp-c-bg);
   position: sticky;
   top: var(--vp-nav-height);
