@@ -121,6 +121,17 @@ export default defineConfig({
             return titleHtml + metadataHtml + html
               .replace(/<(table|pre|blockquote|script|style|nav).*?<\/\1>/gs, '')
               .replace(/<!--.*?-->/gs, '')
+              // Demote structural headings (See also, Example, Note, etc.) to paragraphs
+              // so they don't clutter the search results as sub-titles.
+              .replace(/<h([2-6])[^>]*>(.*?)<\/h\1>/gi, (match, level, content) => {
+                const plainContent = content
+                  .replace(/<[^>]*>/g, '')
+                  .replace(/&ZeroWidthSpace;/g, '')
+                  .replace(/[\u200B\u200C\u200D\u200E\u200F\uFEFF]/g, '')
+                  .trim()
+                const structural = /^(see also|example|note|usage|description|links|see)$/i.test(plainContent)
+                return structural ? `<p><strong>${plainContent}</strong></p>` : match
+              })
           }
           return html
         },
