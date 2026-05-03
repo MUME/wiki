@@ -53,7 +53,7 @@
 
 <script setup lang="ts">
 import { onMounted, ref, computed } from 'vue'
-import { inBrowser, useData } from 'vitepress'
+import { inBrowser, useData, withBase } from 'vitepress'
 
 const { site } = useData()
 const pageName = ref('')
@@ -108,26 +108,83 @@ function openSearch() {
   window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
 }
 
-onMounted(() => {
+function normalizeFragment(fragment: string) {
+  if (!fragment) return ''
+  // MediaWiki uses underscores for spaces in fragments
+  const text = decodeURIComponent(fragment).replace(/_/g, ' ')
+  // VitePress slugification (standard markdown-it-anchor style)
+  return text
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '')
+    .replace(/--+/g, '-')
+    .replace(/^-+/, '')
+    .replace(/-+$/, '')
+}
+
+onMounted(async () => {
   if (!inBrowser) return
 
-  // Get last meaningful segment from URL path
-  const segments = window.location.pathname.split('/').filter(Boolean)
+  const params = new URLSearchParams(window.location.search)
+  const redirectedFrom = params.get('redirect')
+  let url: URL | null = null
+
+  if (redirectedFrom) {
+    try {
+      // redirectedFrom is a full path + search + hash
+      url = new URL(redirectedFrom, window.location.origin)
+    } catch (e) {}
+  } else {
+    url = new URL(window.location.href)
+  }
+
+  // Handle MediaWiki legacy links: index.php?title=Page_Name#Fragment
+  const legacyTitle = url?.searchParams.get('title')
+  const fragment = url?.hash.slice(1)
+
+  if (legacyTitle) {
+    const term = legacyTitle.replace(/[_-]/g, ' ').toLowerCase().trim()
+    try {
+      const response = await fetch(withBase('/pages-meta.json'))
+      if (response.ok) {
+        const meta = await response.json()
+        const targetPath = meta.terms[term]
+        if (targetPath) {
+          let finalUrl = withBase(targetPath)
+          if (fragment) {
+            finalUrl += '#' + normalizeFragment(fragment)
+          }
+          window.location.replace(finalUrl)
+          return
+        }
+      }
+    } catch (e) {
+      console.error('Failed to fetch pages-meta.json for redirection', e)
+    }
+  }
+
+  // Fallback: existing 404 guessing logic
+  const segments = (url?.pathname || window.location.pathname).split('/').filter(Boolean)
   let slug = ''
   for (let i = segments.length - 1; i >= 0; i--) {
     const s = segments[i].replace(/\.html$/, '')
     // Ignore common infrastructure segments
-    if (s && s !== '404' && s !== 'wiki' && !/^pr-\d+$/.test(s)) {
+    if (s && s !== '404' && s !== 'wiki' && s !== 'index.php' && !/^pr-\d+$/.test(s)) {
       slug = s
       break
     }
+  }
+
+  // If we have a legacy title but no direct match, use it for the page name
+  if (!slug && legacyTitle) {
+    slug = legacyTitle
   }
 
   rawSlug.value = decodeURIComponent(slug).replace(/[_-]/g, ' ')
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
     : ''
-
 })
 </script>
 
