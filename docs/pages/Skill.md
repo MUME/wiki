@@ -81,3 +81,5 @@ Defensive
 ## See also:
 
 - [Spells](./Spell.md)
+
+<!--@include: ../includes/Skills.md-->

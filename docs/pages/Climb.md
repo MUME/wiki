@@ -73,4 +73,5 @@ current skill and hit points.
 ## See also
 
 - [Swim](./Swim.md)
-   
+
+<!--@include: ../includes/Skills.md-->

@@ -31,4 +31,5 @@ This spell can be learned from:
 - [Bless](./Bless.md), [Darkness](./Darkness.md),
   [Protection From Evil](./Protection_From_Evil.md),
   [Sanctuary](./Sanctuary.md), Strength
-  
+
+<!--@include: ../includes/Spells.md-->

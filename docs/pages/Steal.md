@@ -30,4 +30,5 @@ pockets when you EXAMINE them.
 This skill is considered largely useless, but might be worth putting one
 practice into it so you can see other people's
 [inventories](./Inventory.md).
- 
+
+<!--@include: ../includes/Skills.md-->

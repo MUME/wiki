@@ -32,4 +32,5 @@ This spell can be learned from:
 ## See also
 
 - [Bash](./Bash.md), [Break Door](./Break_Door.md)
- 
+
+<!--@include: ../includes/Spells.md-->

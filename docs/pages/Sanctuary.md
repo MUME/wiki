@@ -26,4 +26,5 @@ This spell can be learned from:
 ## See also
 
 - [Armour](./Armour_Spell.md), [Shield](./Shield_Spell.md)
- 
+
+<!--@include: ../includes/Spells.md-->

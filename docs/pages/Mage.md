@@ -21,4 +21,5 @@ to play than other classes.
 - [Caster Newbie
   Guide](./Alweon%27s_Versatile_Caster_Newbie_Guide.md)
 
+<!--@include: ../includes/Spells.md-->
 <!--@include: ../includes/ClassRace.md-->

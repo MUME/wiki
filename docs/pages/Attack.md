@@ -17,4 +17,5 @@ not only in conjunction with the piercing skill, but also every time you
 are forced to flee from combat.
 
 [Back to skill list](./Skill.md)
- 
+
+<!--@include: ../includes/Skills.md-->

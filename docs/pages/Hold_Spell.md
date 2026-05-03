@@ -13,4 +13,5 @@ Class : Shaman Min. Mana : 25 Example: \> cast 'hold' elf
 
 - [Black Breath](./Black_Breath.md), [Raise
   Dead](./Raise_Dead.md)
- 
+
+<!--@include: ../includes/Spells.md-->

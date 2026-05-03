@@ -29,4 +29,5 @@ This spell can be learned from:
   Serious](./Cure_Serious.md), [Cure
   Critic](./Cure_Critic.md), [Heal](./Heal.md), [Remove
   Poison](./Remove_Poison.md)
- 
+
+<!--@include: ../includes/Spells.md-->

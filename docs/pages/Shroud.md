@@ -36,4 +36,5 @@ This spell can be learned from:
 ## See also
 
 - [Detect Invisibility](./Detect_Invisibility.md)
-  
+
+<!--@include: ../includes/Spells.md-->

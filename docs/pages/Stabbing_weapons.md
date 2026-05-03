@@ -28,3 +28,5 @@ happening depends on your reach and the opponent's reach: a
   Concussion, Missile,
   Piercing, Slashing,
   Two-handed
+
+<!--@include: ../includes/Skills.md-->

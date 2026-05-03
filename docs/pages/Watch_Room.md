@@ -19,3 +19,5 @@ This spell can be learned from:
 `                          Sessions `
 [`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              10`
 [`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                8`
+
+<!--@include: ../includes/Spells.md-->

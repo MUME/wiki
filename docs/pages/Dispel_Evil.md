@@ -27,3 +27,5 @@ This spell can be learned from:
 
 - [Energy Drain](./Energy_Drain.md), [Harm](./Harm.md),
   [Smother](./Smother.md)
+
+<!--@include: ../includes/Spells.md-->

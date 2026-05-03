@@ -29,4 +29,5 @@ This spell can be learned from:
 ## See also
 
 - [Summon](./Summon.md)
- 
+
+<!--@include: ../includes/Spells.md-->

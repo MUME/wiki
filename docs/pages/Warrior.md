@@ -19,4 +19,5 @@ best class to start off playing as a newbie.
 
 - [Skills](./Skill.md)
 
+<!--@include: ../includes/Skills.md-->
 <!--@include: ../includes/ClassRace.md-->

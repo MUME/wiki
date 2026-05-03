@@ -21,3 +21,5 @@ levels.
   Concussion, Missile,
   Piercing, Slashing,
   Stabbing
+
+<!--@include: ../includes/Skills.md-->

@@ -28,4 +28,5 @@ resistant than others.
 Example:
 
 `   > poison axe`
- 
+
+<!--@include: ../includes/Skills.md-->

@@ -16,3 +16,5 @@ they are wielded with one hand only.
   Concussion, Missile,
   Piercing, Stabbing,
   Two-handed
+
+<!--@include: ../includes/Skills.md-->

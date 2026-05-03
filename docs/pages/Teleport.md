@@ -25,4 +25,5 @@ Level : Level 8 Class : Magic User Min. Mana : 35 Example: \> cast
 [`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
 
 See also: [Portal](./Portal.md)
- 
+
+<!--@include: ../includes/Spells.md-->

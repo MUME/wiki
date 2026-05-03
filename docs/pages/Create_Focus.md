@@ -23,3 +23,5 @@ Example: cast 'create focus' staff
 ## See also
 
 - [Focus](./Focus.md), [Staff](./Staff.md)
+
+<!--@include: ../includes/Spells.md-->

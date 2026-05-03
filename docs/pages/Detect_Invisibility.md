@@ -23,4 +23,5 @@ This spell can be learned from:
 
 - [Detect Magic](./Detect_Magic.md), [Night
   Vision](./Night_Vision.md), [Shroud](./Shroud.md)
-  
+
+<!--@include: ../includes/Spells.md-->

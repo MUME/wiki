@@ -17,3 +17,5 @@ weapons when they're standing with their feet firm on the ground.
   Missile, Piercing,
   Slashing, Stabbing,
   Two-handed
+
+<!--@include: ../includes/Skills.md-->

@@ -32,4 +32,5 @@ This spell can be learned from:
 [`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              12`
 [`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               16`
 [`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
-  
+
+<!--@include: ../includes/Spells.md-->

@@ -22,4 +22,5 @@ This spell can be learned from:
 
 - [Dispel Evil](./Dispel_Evil.md), [Harm](./Harm.md),
   [Smother](./Smother.md)
-  
+
+<!--@include: ../includes/Spells.md-->

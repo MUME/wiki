@@ -19,4 +19,5 @@ This spell can be learned from:
 ## See also
 
 - [Enchant](./Enchant.md)
- 
+
+<!--@include: ../includes/Spells.md-->

@@ -26,4 +26,5 @@ This spell can be learned from:
 
 - [Dispel Evil](./Dispel_Evil.md), [Energy
   Drain](./Energy_Drain.md), [Smother](./Smother.md)
-  
+
+<!--@include: ../includes/Spells.md-->

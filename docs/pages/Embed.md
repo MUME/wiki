@@ -54,5 +54,7 @@ major gem but adding a focus increases this to 2 major gems.
 - huge silvery bracer
 - [bar of iron](./Bar_of_iron.md)
 
-See also: [Staff](./Staff.md), [Focus](./Focus.md) <!--@include: ../includes/Items.md-->
+See also: [Staff](./Staff.md), [Focus](./Focus.md)
+
+<!--@include: ../includes/Items.md-->
  

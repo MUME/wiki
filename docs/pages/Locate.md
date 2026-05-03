@@ -40,4 +40,5 @@ This spell can be learned from:
 [`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
 
 See also: [Locate Magic](./Locate_Magic.md)
- 
+
+<!--@include: ../includes/Spells.md-->

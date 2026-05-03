@@ -1,30 +1,30 @@
 ---
 title: Rescue
-description: '(Warrior Skill) [Instant'
+description: 'A rescue is an attempt to make an enemy hit you instead of the person being rescued.'
 tags:
   - Warrior skills
   - Skills
+  - Commands
 ---
-([Warrior](./Warrior.md) [Skill](./Skill.md)) \[Instant
-Command
+# Rescue
 
-A **rescue** is an attempt to make an enemy or enemies hit you instead
-of the person being rescued. This is highly usable when playing in
-[groups](./Group.md).
+**Rescue** is an [instant command](./Command.md) and [warrior](./Warrior.md) [skill](./Skill.md). It is an attempt to make an enemy or enemies hit you instead of the person being rescued. This is essential when playing in [groups](./Group.md).
 
-The chance to succeed depends on how high your rescue skill is. Typing
-rescue with no argument rescues the character that is
-buffering. The skill also controls how well you can
-[protect](./Protect.md) people.
+## Mechanics
 
-NOTE: The rescued person will experience some dizzyness. Learning the
-[escape](./Escape.md) skill has beneficial effects on the rescued
-person.
+- **Usage:** Typing `rescue` with no argument rescues the character that is currently [buffering](../pages/MUME_IV_as_described_in_Estonia.md#group-combat-and-following-players).
+- **Protection:** The skill also determines how well you can [protect](./Protect.md) people.
+- **Success:** The chance to succeed depends on your rescue skill level.
+- **Side Effects:** The rescued person will experience some dizziness.
 
-Example:
+## Synergy
 
-`  > rescue morwen`
+Learning the [escape](./Escape.md) skill has beneficial effects on the person being rescued.
 
-## See also:
+## Example
 
-- [Bash](./Bash.md), [Kick](./Kick.md)
+`> rescue morwen`
+
+See also: [Bash](./Bash.md), [Kick](./Kick.md), [Group](./Group.md)
+
+<!--@include: ../includes/Skills.md-->

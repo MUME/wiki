@@ -5,3 +5,5 @@ tags:
 aliases: ["Missile"]
 ---
 <!--@include: ../includes/Items.md-->
+
+<!--@include: ../includes/Skills.md-->

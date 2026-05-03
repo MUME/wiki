@@ -22,4 +22,5 @@ damage](./Sanctuary.md) to allies and
 - [Caster Newbie
   Guide](./Alweon%27s_Versatile_Caster_Newbie_Guide.md)
 
+<!--@include: ../includes/Spells.md-->
 <!--@include: ../includes/ClassRace.md-->

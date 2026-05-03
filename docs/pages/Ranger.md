@@ -31,4 +31,7 @@ of ranger. **Young rangers** will guide new players (relatively) safely
 from one city to another. **Hardened rangers** patrol
 the area west of Bree, hunting down minions of Sauron as well as evil
 whities.
+
+<!--@include: ../includes/Skills.md-->
+<!--@include: ../includes/ClassRace.md-->
  

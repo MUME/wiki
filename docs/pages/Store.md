@@ -22,3 +22,5 @@ This spell can be learned from:
   Weather](./Control_Weather.md), [Create
   Light](./Create_Light.md), [Enchant](./Enchant.md), [Night
   Vision](./Night_Vision.md)
+
+<!--@include: ../includes/Spells.md-->

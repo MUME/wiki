@@ -17,3 +17,5 @@ defeated with this kind of weapon.
   Missile, Piercing,
   Slashing, Stabbing,
   Two-handed
+
+<!--@include: ../includes/Skills.md-->

@@ -16,3 +16,5 @@ reading a help file, check out the "See Also" section at the bottom.
 | 4. | [Learn](./Learn.md) | An alternative to [Practice](./Practice.md). |
 | 5. | [Guild](./Guild.md) | Guild information. |
 | 6. | [Race](./Race.md) | Information about races. |
+
+<!--@include: ../includes/Skills.md-->

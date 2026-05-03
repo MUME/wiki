@@ -32,4 +32,5 @@ mekin This spell can be learned from:
   Critic](./Cure_Critic.md), [Cure
   Disease](./Cure_Disease.md), [Remove
   Poison](./Remove_Poison.md)
- 
+
+<!--@include: ../includes/Spells.md-->

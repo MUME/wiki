@@ -1,42 +1,35 @@
 ---
 title: Bash
-description: 'Bash is a warrior skill'
+description: 'This skill allows you to attempt to knock a person down.'
 tags:
   - Warrior skills
   - Skills
+  - Commands
 ---
-**Bash** is a [warrior](./Warrior.md) [skill](./Skill.md)
-that allows you to knock an opponent over. The success of a bash depends
-upon how well you are learned, as well as on your offensive bonus and
-the victim's defence. If you succeed you will inflict minor damage and
-cause the victim to fall on the rear. The victim will be unable to issue
-any [commands](./Command.md) or do damage in combat for a short
-period of time; he will, however, be able to [parry](./Parry.md)
-or [dodge](./Dodge.md) hits. If you miss, you lose your balance
-and fall.
+# Bash
 
-Note that a person bashed is sitting and has less
-dodge. This will only apply to the first hit the bashed person receives.
+**Bash** is a [warrior](./Warrior.md) [skill](./Skill.md) and delayed command that allows you to attempt to knock a person down.
 
-It is possible to bash either with a shield or with a two handed weapon,
-or with your hands if you are a [Troll](./Troll.md) or a
-Bear.
+## Effects
 
-If you have high strength, bash can also be used to break down some
-[doors](./Door.md). Unlike for bashing an opponent, in this case
-your current mood has no influence on your chance of success.
+- **Stun:** If successful, the victim will suffer minor damage, fall on their rear, and be stunned for a short time.
+- **Backfire:** A missed bash results in the basher falling over.
+- **Utility:** It can be used to disengage someone from a fight or to break certain doors.
 
-An option is to 'bash disengage &lt;name&gt;'. If successful, the victim stops
-fighting and just sits on the ground for a short period of time.
+## Mechanics
 
-NOTE: You can bash any enemy that is engaged to you. This will not cause
-you to switch target as kill or [hit](./Hit.md)
-would.
+- **Prerequisites:** Lots of [muscle](../pages/MUME_IV_as_described_in_Estonia.md#scoring-and-attributes), great [agility](../pages/MUME_IV_as_described_in_Estonia.md#scoring-and-attributes), and an iron [will](../pages/MUME_IV_as_described_in_Estonia.md#scoring-and-attributes) are important.
+- **Success Rate:** Depends on your skill level, your offensive bonus (OB), and the victim's defense. Success is reduced by the weight you are carrying.
+- **Equipment:** Works best with strong races and heavy [shields](./Shield.md).
 
-Examples:
+## Affinity
 
-`  > bash bear`
-`  > bash door`
-`  > bash dis elf`
+[Firebeard](./Dwarf.md) Dwarves have a natural bonus to the bash skill and a bonus to bashing exits.
 
-[Back to skill list](./Skill.md)
+## Example
+
+`> bash goblin`
+
+See also: [Kick](./Kick.md), [Rescue](./Rescue.md)
+
+<!--@include: ../includes/Skills.md-->

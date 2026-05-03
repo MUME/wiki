@@ -30,4 +30,5 @@ teleport or to fall from a cliff into a river.
 
 Example: \> swim Ok, from now you'll try to swim. W \> swim You won't
 try to swim anymore. \>
-   
+
+<!--@include: ../includes/Skills.md-->

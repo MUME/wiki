@@ -34,4 +34,5 @@ Example:
 `   > backstab ruffian`
 
 [Back to skill list](./Skill.md)
- 
+
+<!--@include: ../includes/Skills.md-->

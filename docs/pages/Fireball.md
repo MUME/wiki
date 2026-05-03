@@ -41,3 +41,5 @@ This spell can be learned from:
   Spray](./Colour_Spray.md), [Call
   Lightning](./Call_Lightning.md),
   [Earthquake](./Earthquake.md)
+
+<!--@include: ../includes/Spells.md-->

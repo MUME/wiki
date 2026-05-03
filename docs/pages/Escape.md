@@ -37,4 +37,5 @@ Examples:
 
 Knowledge of the escape skill also makes it easier for others to
 [rescue](./Rescue.md) and [protect](./Protect.md) you.
- 
+
+<!--@include: ../includes/Skills.md-->

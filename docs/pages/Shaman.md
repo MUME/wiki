@@ -21,4 +21,5 @@ make him an effective killing machine.
 
 - [Spells](./Spell.md)
 
+<!--@include: ../includes/Spells.md-->
 <!--@include: ../includes/ClassRace.md-->

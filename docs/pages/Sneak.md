@@ -32,4 +32,5 @@ Examples:
 `  S > sneak`
 `  You stop sneaking.`
 `  >`
- 
+
+<!--@include: ../includes/Skills.md-->

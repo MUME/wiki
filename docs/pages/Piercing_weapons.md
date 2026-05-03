@@ -19,3 +19,5 @@ wielded in one hand only.
   Two-handed
 - [Piercing weapon](./Piercing_weapon.md) for a list of weapons
   belonging to this class.
+
+<!--@include: ../includes/Skills.md-->

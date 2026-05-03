@@ -26,4 +26,5 @@ recall' This spell can be learned from:
 [`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               10`
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
 [`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               6`
-  
+
+<!--@include: ../includes/Spells.md-->

@@ -23,3 +23,5 @@ This spell can be learned from:
 ## See also:
 
 - [Armour](./Armour_Spell.md), [Sanctuary](./Sanctuary.md)
+
+<!--@include: ../includes/Spells.md-->

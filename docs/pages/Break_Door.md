@@ -18,4 +18,5 @@ This spell can be learned from:
 ## See also
 
 - [Bash](./Bash.md), [Block Door](./Block_Door.md)
- 
+
+<!--@include: ../includes/Spells.md-->

@@ -23,3 +23,5 @@ briskness', 'armour', and 'shield'.
 | 6. | [Mana](./Mana.md) | What is mana? |
 | 7. | [Mage](./Mage.md) | Explanation of what a mage is. |
 | 8. | [Cleric](./Cleric.md) | Explanation of what a cleric is. |
+
+<!--@include: ../includes/Spells.md-->

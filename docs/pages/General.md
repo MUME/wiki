@@ -9,6 +9,8 @@ players can learn at a ranger [guild](./Guild.md). Despite the
 name, there is no ranger [class](./Class.md), and these skills can
 be practiced by any class without penalty.
 
+<!--@include: ../includes/Skills.md-->
+
 ## See also
 
 - [Skills](./Skill.md)

@@ -31,4 +31,5 @@ of the Valar.
   Spray](./Colour_Spray.md), [Fireball](./Fireball.md),
   [Call Lightning](./Call_Lightning.md),
   [Earthquake](./Earthquake.md)
-  
+
+<!--@include: ../includes/Spells.md-->

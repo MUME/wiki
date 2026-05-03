@@ -23,4 +23,5 @@ This spell can be learned from:
 ## See also
 
 - [Corrupting](./Corrupting.md), [Curse](./Curse.md)
-  
+
+<!--@include: ../includes/Spells.md-->

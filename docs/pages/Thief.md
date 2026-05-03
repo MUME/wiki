@@ -91,4 +91,5 @@ useful.
 
 - [Skills](./Skill.md)
 
+<!--@include: ../includes/Skills.md-->
 <!--@include: ../includes/ClassRace.md-->

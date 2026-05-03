@@ -21,3 +21,5 @@ can be learned from:
 [`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         1`
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
 [`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               9`
+
+<!--@include: ../includes/Spells.md-->

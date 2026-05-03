@@ -1,8 +1,10 @@
 ---
 title: Weapons
-description: 'Weapons in MUME. <!--@include: ../includes/Items.md-->'
+description: 'Weapons in MUME.'
 tags:
   - Equipment
 ---
-[Weapons](./Weapon.md) in [MUME](./MUME.md). <!--@include: ../includes/Items.md-->
+[Weapons](./Weapon.md) in [MUME](./MUME.md).
+
+<!--@include: ../includes/Items.md-->
 

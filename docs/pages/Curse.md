@@ -24,4 +24,5 @@ This spell can be learned from:
 
 - [Corrupting](./Corrupting.md), [Remove
   Curse](./Remove_Curse.md)
-  
+
+<!--@include: ../includes/Spells.md-->
