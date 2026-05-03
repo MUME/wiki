@@ -5,7 +5,6 @@ layout: page
 ---
 
 <script setup>
-import { ref, computed } from 'vue'
 import { withBase } from 'vitepress'
 import { slugify } from './.vitepress/shared'
 import { data as tagsData } from './tags.data.ts'
@@ -13,44 +12,18 @@ import { data as tagsData } from './tags.data.ts'
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
 const sortedTags = Object.keys(tagsData).sort((a, b) => a.localeCompare(b))
 
-const searchQuery = ref('')
-
-const filteredTags = computed(() => {
-  const query = searchQuery.value.toLowerCase().trim()
-  if (!query) return sortedTags
-  return sortedTags.filter(tag => tag.toLowerCase().includes(query))
-})
-
-const jumpLinks = computed(() => {
-  if (!searchQuery.value.trim()) return []
-  return filteredTags.value
-})
-
 function tagsForLetter(letter) {
-  return filteredTags.value.filter(t => t[0].toUpperCase() === letter)
+  return sortedTags.filter(t => t[0].toUpperCase() === letter)
 }
 
 function hasLetter(letter) {
-  return filteredTags.value.some(t => t[0].toUpperCase() === letter)
+  return sortedTags.some(t => t[0].toUpperCase() === letter)
 }
-
 </script>
 
 <div class="tags-page">
 <div class="tag-controls">
 <h1 id="page-tag-index" tabindex="-1">Page Tag Index <a class="header-anchor" href="#page-tag-index" aria-label="Permalink to &quot;Page Tag Index&quot;">​</a></h1>
-<input
-  v-model="searchQuery"
-  type="text"
-  placeholder="Filter tags..."
-  class="tag-search"
-/>
-<div v-if="jumpLinks.length > 0" class="search-results">
-<span class="jump-label">Jump to tag:</span>
-<div class="jump-links">
-<a v-for="tag in jumpLinks" :key="tag" :href="`#tag-${slugify(tag)}`" class="jump-link">{{ tag }}</a>
-</div>
-</div>
 </div>
 
 <div class="az-nav">

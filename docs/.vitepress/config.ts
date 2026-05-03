@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 import { slugify } from './shared'
 
-let pagesMeta = { terms: {}, paths: [] }
+let pagesMeta = { terms: {}, paths: [], tags: {} }
 try {
   pagesMeta = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8'))
 } catch (e) {}
@@ -87,19 +87,28 @@ export default defineConfig({
         _render(src, env, md) {
           const html = md.render(src, env)
           if (env.frontmatter?.search === false) return ''
+
           if (env.relativePath === 'tags.md') {
-            // Inject all tags as headings for the main search index
-            try {
-              const tagsData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8')).tags || {}
-              const tagHeadings = Object.keys(tagsData).map(tag => `<h2 id="tag-${slugify(tag)}">${tag}</h2>`).join('')
-              return html + tagHeadings
-            } catch (e) {
-              return html
-            }
+            // Inject all tags as headings so the main search index can link to them
+            const tagsData = pagesMeta.tags || {}
+            const tagHeadings = Object.keys(tagsData)
+              .map(tag => `<h2 id="tag-${slugify(tag)}">${tag}</h2>`)
+              .join('')
+            return html + tagHeadings
           }
+
           if (env.relativePath.startsWith('pages/')) {
-            // Keep only headings for wiki pages to save index size
-            return html.replace(/<(p|ul|ol|table|pre|blockquote).*?<\/\1>/gs, '')
+            // For wiki pages, keep headings and paragraphs for searchability,
+            // but strip heavier items to keep the search index size manageable.
+            // We also ensure the title is indexed as an H1 if not already present.
+            const title = env.frontmatter?.title
+            const titleHtml = title && !html.includes('</h1>')
+              ? `<h1 id="indexed-title">${title}</h1>`
+              : ''
+
+            return titleHtml + html
+              .replace(/<(table|pre|blockquote|script|style|nav).*?<\/\1>/gs, '')
+              .replace(/<!--.*?-->/gs, '')
           }
           return html
         },
