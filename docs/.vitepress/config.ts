@@ -100,13 +100,24 @@ export default defineConfig({
           if (env.relativePath.startsWith('pages/')) {
             // For wiki pages, keep headings and paragraphs for searchability,
             // but strip heavier items to keep the search index size manageable.
-            // We also ensure the title is indexed as an H1 if not already present.
-            const title = env.frontmatter?.title
+            const frontmatter = env.frontmatter || {}
+
+            // 1. Ensure the title is indexed as an H1 if not already present in the HTML.
+            const title = frontmatter.title
             const titleHtml = title && !html.includes('</h1>')
               ? `<h1 id="indexed-title">${title}</h1>`
               : ''
 
-            return titleHtml + html
+            // 2. Inject aliases and tags into the indexable content.
+            // These help users find pages by alternative names or categories.
+            const aliases = Array.isArray(frontmatter.aliases) ? frontmatter.aliases : []
+            const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : []
+            const metadataHtml = [
+              ...aliases.map(a => `<h2 id="alias-${slugify(a)}" style="display:none">${a}</h2>`),
+              ...tags.map(t => `<span style="display:none">${t}</span>`)
+            ].join('')
+
+            return titleHtml + metadataHtml + html
               .replace(/<(table|pre|blockquote|script|style|nav).*?<\/\1>/gs, '')
               .replace(/<!--.*?-->/gs, '')
           }
