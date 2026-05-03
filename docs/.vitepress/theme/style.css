@@ -37,6 +37,9 @@
   /* Home hero */
   --vp-home-hero-name-color: var(--mume-gold);
   --vp-home-hero-name-background: none;
+
+  /* Layout constants */
+  --mume-tags-max-width: 1000px;
 }
 
 /* ---------- Dark Mode Overrides ---------- */
@@ -281,7 +284,7 @@ a:hover {
 /* ---------- Tags page ---------- */
 
 .tags-page {
-  max-width: 1000px;
+  max-width: var(--mume-tags-max-width);
   margin: 0 auto;
   padding: 0 2rem 3rem;
 }

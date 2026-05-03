@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
+import { slugify } from './shared'
 
 let pagesMeta = { terms: {}, paths: [] }
 try {
@@ -90,7 +91,6 @@ export default defineConfig({
             // Inject all tags as headings for the main search index
             try {
               const tagsData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8')).tags || {}
-              const slugify = (text: string) => text.toLowerCase().replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
               const tagHeadings = Object.keys(tagsData).map(tag => `<h2 id="tag-${slugify(tag)}">${tag}</h2>`).join('')
               return html + tagHeadings
             } catch (e) {

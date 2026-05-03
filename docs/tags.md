@@ -7,6 +7,7 @@ layout: page
 <script setup>
 import { ref, computed } from 'vue'
 import { withBase } from 'vitepress'
+import { slugify } from './.vitepress/shared'
 import { data as tagsData } from './tags.data.ts'
 
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
@@ -33,14 +34,6 @@ function hasLetter(letter) {
   return filteredTags.value.some(t => t[0].toUpperCase() === letter)
 }
 
-function slugify(text) {
-  return text.toString().toLowerCase()
-    .replace(/\s+/g, '-')           // Replace spaces with -
-    .replace(/[^\w\-]+/g, '')       // Remove all non-word chars
-    .replace(/\-\-+/g, '-')         // Replace multiple - with single -
-    .replace(/^-+/, '')             // Trim - from start of text
-    .replace(/-+$/, '');            // Trim - from end of text
-}
 </script>
 
 <div class="tags-page">
