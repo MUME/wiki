@@ -86,6 +86,17 @@ export default defineConfig({
         _render(src, env, md) {
           const html = md.render(src, env)
           if (env.frontmatter?.search === false) return ''
+          if (env.relativePath === 'tags.md') {
+            // Inject all tags as headings for the main search index
+            try {
+              const tagsData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8')).tags || {}
+              const slugify = (text: string) => text.toLowerCase().replace(/\s+/g, '-').replace(/[^\w\-]+/g, '').replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
+              const tagHeadings = Object.keys(tagsData).map(tag => `<h2 id="tag-${slugify(tag)}">${tag}</h2>`).join('')
+              return html + tagHeadings
+            } catch (e) {
+              return html
+            }
+          }
           if (env.relativePath.startsWith('pages/')) {
             // Keep only headings for wiki pages to save index size
             return html.replace(/<(p|ul|ol|table|pre|blockquote).*?<\/\1>/gs, '')

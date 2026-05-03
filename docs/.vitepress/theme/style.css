@@ -481,9 +481,55 @@ a:hover {
 
 /* ---------- Search ---------- */
 
+.VPLocalSearchBox {
+  --vp-local-search-result-bg: var(--mume-bg-card);
+}
+
+.VPLocalSearchBox .shell {
+  padding: 1.5rem;
+  background-color: var(--mume-bg-light);
+}
+
+.dark .VPLocalSearchBox .shell {
+  background-color: var(--mume-bg-dark);
+}
+
+.VPLocalSearchBox .search-bar {
+  margin-bottom: 1rem;
+}
+
+.VPLocalSearchBox .results {
+  padding: 0.5rem 0;
+}
+
+.VPLocalSearchBox .result {
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--mume-border);
+  border-radius: 8px;
+  padding: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.VPLocalSearchBox .result:hover,
+.VPLocalSearchBox .result.selected {
+  border-color: var(--mume-gold);
+  background-color: var(--vp-c-bg-alt) !important;
+}
+
 .VPLocalSearchBox .title {
   color: var(--mume-gold);
   font-family: Georgia, serif;
+  font-weight: 600;
+}
+
+.VPLocalSearchBox .titles {
+  gap: 0.4rem;
+}
+
+.VPLocalSearchBox .excerpt {
+  font-size: 0.9rem;
+  color: var(--mume-text-muted);
+  margin-top: 0.25rem;
 }
 
 /* ---------- Scrollbar ---------- */
