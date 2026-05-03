@@ -23,3 +23,5 @@ This spell can be learned from:
 [`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
 [`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
 [`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
+
+<!--@include: ../includes/Spells.md-->

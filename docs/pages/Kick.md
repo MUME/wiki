@@ -23,3 +23,5 @@ Kicking can be quite useful for the lonely warrior fighting foul spectres. When 
 - [Rescue](./Rescue.md), [Bash](./Bash.md)
 
 [Back to skill list](./Skill.md)
+
+<!--@include: ../includes/Skills.md-->

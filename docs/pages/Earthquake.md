@@ -25,4 +25,5 @@ This spell can be learned from:
   Bolt](./Lightning_Bolt.md), [Colour
   Spray](./Colour_Spray.md), [Fireball](./Fireball.md),
   [Call Lightning](./Call_Lightning.md)
-  
+
+<!--@include: ../includes/Spells.md-->

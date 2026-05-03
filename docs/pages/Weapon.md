@@ -316,3 +316,5 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 
 
 <!--@include: ../includes/Items.md-->
+
+<!--@include: ../includes/Skills.md-->

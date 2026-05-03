@@ -26,3 +26,5 @@ learned from:
 ## See also:
 
 - [Sanctuary](./Sanctuary.md), [Shield](./Shield_Spell.md)
+
+<!--@include: ../includes/Spells.md-->

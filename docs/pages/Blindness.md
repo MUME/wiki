@@ -41,4 +41,5 @@ This spell can be learned from:
 ## See also
 
 - [Cure Blindness](./Cure_Blindness.md)
-  
+
+<!--@include: ../includes/Spells.md-->

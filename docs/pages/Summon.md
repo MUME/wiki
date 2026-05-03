@@ -30,4 +30,5 @@ This spell can be learned from:
 ## See also
 
 - [Transfer](./Transfer.md)
- 
+
+<!--@include: ../includes/Spells.md-->

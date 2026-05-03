@@ -23,3 +23,5 @@ tags:
 [Sindar](./Elf.md) Elves have a natural affinity for leadership, though this does not affect the speed at which they practice the skill.
 
 See also: [Command](./Command.md), [Ranger](./Ranger.md), [Ride](./Ride.md)
+
+<!--@include: ../includes/Skills.md-->

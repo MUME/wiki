@@ -64,4 +64,5 @@ Level 14 Class : Magic User Min. Mana : 20
 
 - [Order](./Order.md), [Call Familiar](./Call_Familiar.md),
   [Command](./Command.md)
- 
+
+<!--@include: ../includes/Spells.md-->

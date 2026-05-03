@@ -21,3 +21,5 @@ tags:
 [Stoor](./Hobbit.md#stoor) Hobbits have a natural affinity for endurance due to their stoutness. This bonus is innate and does not make practicing the skill less effective.
 
 See also: [Warrior](./Warrior.md), [Parry](./Parry.md)
+
+<!--@include: ../includes/Skills.md-->

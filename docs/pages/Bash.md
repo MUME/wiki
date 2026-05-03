@@ -31,3 +31,5 @@ tags:
 `> bash goblin`
 
 See also: [Kick](./Kick.md), [Rescue](./Rescue.md)
+
+<!--@include: ../includes/Skills.md-->

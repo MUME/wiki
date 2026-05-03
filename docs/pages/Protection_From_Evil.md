@@ -26,3 +26,5 @@ This spell can be learned from:
 
 See also: [Bless](./Bless.md), [Darkness](./Darkness.md),
 [Sanctuary](./Sanctuary.md), Strength
+
+<!--@include: ../includes/Spells.md-->

@@ -27,4 +27,5 @@ poison' loaf This spell can be learned from:
 
 - [Remove Poison](./Remove_Poison.md), [Detect
   Evil](./Detect_Evil.md), [Sense Life](./Sense_Life.md)
-  
+
+<!--@include: ../includes/Spells.md-->

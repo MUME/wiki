@@ -34,4 +34,5 @@ This spell can be learned from:
   Light](./Cure_Light.md), [Cure Critic](./Cure_Critic.md),
   [Cure Disease](./Cure_Disease.md), [Remove
   Poison](./Remove_Poison.md), [Heal](./Heal.md)
-  
+
+<!--@include: ../includes/Spells.md-->

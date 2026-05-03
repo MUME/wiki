@@ -26,4 +26,5 @@ Cleric Min. Mana : 5 Example: \> cast 'create food'
 ## See also
 
 - [Create Water](./Create_Water.md)
-  
+
+<!--@include: ../includes/Spells.md-->

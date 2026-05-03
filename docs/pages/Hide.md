@@ -54,4 +54,5 @@ from time to time by evil spirits, but nobody knows for sure.
 - [Backstab](./Backstab.md)
 
 [Back to skill list](./Skill.md)
- 
+
+<!--@include: ../includes/Skills.md-->

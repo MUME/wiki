@@ -25,4 +25,5 @@ This spell can be learned from:
 
 - [Envenom](./Envenom.md), [Remove
   Poison](./Remove_Poison.md)
-  
+
+<!--@include: ../includes/Spells.md-->

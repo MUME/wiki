@@ -33,4 +33,5 @@ The quality of the bandage will influence the healing speed.
 
 The conditions of the bandage will deteriorate with time, so it is a
 good idea to replace old bandages from time to time.
-  
+
+<!--@include: ../includes/Skills.md-->

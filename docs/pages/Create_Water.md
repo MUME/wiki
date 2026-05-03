@@ -30,4 +30,5 @@ This spell can be learned from:
 ## See also
 
 - [Create Food](./Create_Food.md)
-  
+
+<!--@include: ../includes/Spells.md-->

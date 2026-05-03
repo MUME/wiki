@@ -12,4 +12,5 @@ Class : Shaman Min. Mana : 25 Example: \> cast 'black breath' dwarf
 ## See also
 
 - [Hold](./Hold_Spell.md), [Raise Dead](./Raise_Dead.md)
- 
+
+<!--@include: ../includes/Spells.md-->

@@ -20,3 +20,5 @@ tags:
 [Silvan](./Elf.md) Elves are able to parry enemy blows slightly better than other races when wielding [ranged weapons](./Missile_weapon.md).
 
 See also: [Dodge](./Dodge.md), [Warrior](./Warrior.md)
+
+<!--@include: ../includes/Skills.md-->

@@ -33,3 +33,5 @@ This spell can be learned from:
 [`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                8`
 [`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         8`
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             8`
+
+<!--@include: ../includes/Spells.md-->

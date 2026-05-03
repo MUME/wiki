@@ -14,4 +14,5 @@ The number of foes doesn't affect your dodging bonus (DB)
 
 See also: [Dodge bonus](./Dodge_bonus.md),
 [Parry](./Parry.md)
- 
+
+<!--@include: ../includes/Skills.md-->

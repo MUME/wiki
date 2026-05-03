@@ -50,4 +50,5 @@ This spell can be learned from:
 [`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         2`
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             4`
 [`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               2`
-  
+
+<!--@include: ../includes/Spells.md-->

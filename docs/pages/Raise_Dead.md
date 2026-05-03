@@ -14,4 +14,5 @@ Level 18 Class : Shaman Min. Mana : 50 Example: \> cast 'raise dead'
 
 - [Black Breath](./Black_Breath.md),
   [Command](./Command.md), [Hold](./Hold_Spell.md)
- 
+
+<!--@include: ../includes/Spells.md-->

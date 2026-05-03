@@ -21,4 +21,5 @@ Examples:
 `  > pick door north`
 `  > pick oakdoor`
 `  > pick hiddensafe`
-  
+
+<!--@include: ../includes/Skills.md-->

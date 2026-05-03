@@ -42,4 +42,5 @@ This spell can be learned from:
 ## See also:
 
 - [Dispel Magic](./Dispel_Magic.md)
- 
+
+<!--@include: ../includes/Spells.md-->

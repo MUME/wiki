@@ -22,3 +22,5 @@ This spell can be learned from:
 `                        Sessions `
 [`Erestor`](./Erestor.md)`                       11`
 [`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`              4`
+
+<!--@include: ../includes/Spells.md-->

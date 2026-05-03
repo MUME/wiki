@@ -29,3 +29,5 @@ This spell can be learned from:
   Door](./Block_Door.md), [Control
   Weather](./Control_Weather.md), [Enchant](./Enchant.md),
   [Night Vision](./Night_Vision.md), [Store](./Store.md)
+
+<!--@include: ../includes/Spells.md-->

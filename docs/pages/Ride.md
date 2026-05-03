@@ -26,3 +26,5 @@ tags:
 - `abandon`: Abandon the mount you previously led.
 
 See also: [Mount](./Mount.md), [Leadership](./Leadership.md)
+
+<!--@include: ../includes/Skills.md-->

@@ -37,4 +37,5 @@ This spell can be learned from:
   Disease](./Cure_Disease.md), [Cure
   Serious](./Cure_Serious.md), [Remove
   Poison](./Remove_Poison.md), [Heal](./Heal.md)
-  
+
+<!--@include: ../includes/Spells.md-->

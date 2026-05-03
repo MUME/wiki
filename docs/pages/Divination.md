@@ -23,3 +23,5 @@ This spell can be learned from:
 [`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              18`
 [`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                8`
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             2`
+
+<!--@include: ../includes/Spells.md-->

@@ -30,3 +30,5 @@ This spell can be learned from:
   Bolt](./Lightning_Bolt.md), [Fireball](./Fireball.md),
   [Call Lightning](./Call_Lightning.md),
   [Earthquake](./Earthquake.md)
+
+<!--@include: ../includes/Spells.md-->

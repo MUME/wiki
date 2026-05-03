@@ -25,4 +25,5 @@ Learning wilderness helps reduce the amount of work required to travel. The ease
 ### See also
 
 [Ride](./Ride.md), [Awareness](./Awareness.md), [Track](./Track.md)
- 
+
+<!--@include: ../includes/Skills.md-->

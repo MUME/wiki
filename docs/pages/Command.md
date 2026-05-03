@@ -19,4 +19,5 @@ to do something (fight, for instance) at your command.
 - [Call Familiar](./Call_Familiar.md), [Charm](./Charm.md),
   [Order](./Order.md), [Pet](./Pet.md), [Raise
   Dead](./Raise_Dead.md)
- 
+
+<!--@include: ../includes/Skills.md-->

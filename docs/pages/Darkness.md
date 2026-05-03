@@ -30,4 +30,5 @@ details of the rituals involved are a well-guarded secret.
   Evil](./Protection_From_Evil.md),
   [Sanctuary](./Sanctuary.md),
   Strength
-  
+
+<!--@include: ../includes/Spells.md-->

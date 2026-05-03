@@ -46,4 +46,5 @@ This spell can be learned from:
 
 - [Detect Invisibility](./Detect_Invisibility.md), [Night
   Vision](./Night_Vision.md)
-  
+
+<!--@include: ../includes/Spells.md-->

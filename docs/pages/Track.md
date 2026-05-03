@@ -49,4 +49,5 @@ Certain mobiles are also capable of tracking
 [fled](./Flee.md) from combat with them. Some mobiles will only
 track in a very limited area near their spawn location, while others may
 follow you for larger distances.
-  
+
+<!--@include: ../includes/Skills.md-->
