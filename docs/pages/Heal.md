@@ -18,11 +18,12 @@ Duration : No Casting : Extremely long Position : Standing, fighting
 Level : Level 14 Class : Cleric Min. Mana : 50 Example: \> cast 'heal'
 mekin This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              7`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               8`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               18`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            18`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 7 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 8 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 18 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 18 |
 
 ## See also
 

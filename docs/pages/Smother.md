@@ -13,10 +13,11 @@ fighting Level : Level 3 Class : Cleric Min. Mana : 5 Example: \> cast
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              9`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               6`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         3`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 9 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 6 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 3 |
 
 ## See also
 

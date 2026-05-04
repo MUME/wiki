@@ -11,11 +11,13 @@ gives you the weather type in the whole world using the following signs:
 
 <div>
 
-`                   : nice weather`
-`                 ~ : clouds`
-`                 ' : rain`
-`                 " : heavy rain`
-`                 * : snow`
+```
+                   : nice weather
+                 ~ : clouds
+                 ' : rain
+                 " : heavy rain
+                 * : snow
+```
 
 </div>
 

@@ -22,8 +22,10 @@ well as on your search skill.
 
 Examples:
 
-`  > search up            searches for a hidden exit upwards`
-`  > search               searches for hidden items`
-`  > search q             searches quickly for hidden beings in the room`
+```
+  > search up            searches for a hidden exit upwards
+  > search               searches for hidden items
+  > search q             searches quickly for hidden beings in the room
+```
 
 <!--@include: ../includes/Skills.md-->

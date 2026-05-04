@@ -19,8 +19,10 @@ This spell will change the "course" of the current local
 [weather](./Weather.md). &lt;effect&gt; describes the desired result,
 possible effects are:
 
-` clouds more          temperature lower         fog increase`
-` clouds less          temperature higher        fog decrease`
+```
+ clouds more          temperature lower         fog increase
+ clouds less          temperature higher        fog decrease
+```
 
 Example:
 
@@ -28,9 +30,10 @@ Example:
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              12`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               16`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 12 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 16 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
 
 <!--@include: ../includes/Spells.md-->

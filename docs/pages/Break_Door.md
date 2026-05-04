@@ -11,9 +11,10 @@ Duration : Yes Casting : Long Position : Standing Level : Level 17 Class
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              12`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                6`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 12 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 6 |
 
 ## See also
 

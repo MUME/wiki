@@ -11,7 +11,9 @@ Havens](./Grey_Havens.md). They load 1 silver, a
 [cudgel](./Cudgel.md), a [shield](./Shield.md), and some
 cloth equipment.
 
-`A vicious little bandit advances towards you.`
-`>`**`examine bandit`**
-`The bandit wears dirty clothes and has an imbecile look, grinning evilly,`
-`glancing at your purse.`
+```
+A vicious little bandit advances towards you.
+>examine bandit
+The bandit wears dirty clothes and has an imbecile look, grinning evilly,
+glancing at your purse.
+```

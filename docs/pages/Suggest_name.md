@@ -16,10 +16,7 @@ Example:
 
 Accepted races/subraces:
 
-[`Beorning`](./Beorning.md)`            Numenorean          Dunadan             `[`Dwarf`](./Dwarf.md)
-`Eriadorian          `[`Half-elf`](./Half-Elf.md)`            `[`Hobbit`](./Hobbit.md)`              Noldor`
-[`Orc`](./Orc.md)`                 Rohir               `[`Troll`](./Troll.md)`               Silvan`
-`Sindar              Oldelf              Oldorc`
+[Beorning](./Beorning.md), Numenorean, Dunadan, [Dwarf](./Dwarf.md), Eriadorian, [Half-elf](./Half-Elf.md), [Hobbit](./Hobbit.md), Noldor, [Orc](./Orc.md), Rohir, [Troll](./Troll.md), Silvan, Sindar, Oldelf, Oldorc
 
 Some notes:
 

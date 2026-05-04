@@ -19,9 +19,10 @@ Duration : No Casting : Extremely long Position : Standing Level : Level
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              18`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                8`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             2`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 18 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 8 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 2 |
 
 <!--@include: ../includes/Spells.md-->

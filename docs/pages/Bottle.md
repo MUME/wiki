@@ -10,13 +10,17 @@ worth of liquid. It is worth around 10 copper.
 Bottles are sold in many taverns and general stores, most often
 containing ale.
 
-`A dark bottle of ale has been left here.`
-`>`**`look at bottle`**
-`The bottle of dark-brown glass is wider at the base then at the top and could`
-`contain all sorts of liquids. A big cork seals the bottle.`
+```
+A dark bottle of ale has been left here.
+>look at bottle
+The bottle of dark-brown glass is wider at the base then at the top and could
+contain all sorts of liquids. A big cork seals the bottle.
+```
 
 `>`**`consider bottle`**
-`It is a bottle.`
-`It weighs about one pound.`
+```
+It is a bottle.
+It weighs about one pound.
+```
 
 <!--@include: ../includes/Items.md-->

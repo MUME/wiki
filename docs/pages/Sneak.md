@@ -27,10 +27,12 @@ You move slower when sneaking.
 
 Examples:
 
-`  > sneak`
-`  Ok, you'll try to move silently for a while.`
-`  S > sneak`
-`  You stop sneaking.`
-`  >`
+```
+  > sneak
+  Ok, you'll try to move silently for a while.
+  S > sneak
+  You stop sneaking.
+  >
+```
 
 <!--@include: ../includes/Skills.md-->

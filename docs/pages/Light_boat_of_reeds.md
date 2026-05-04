@@ -14,8 +14,10 @@ functionally identical to [canoes](./Canoe.md).
 `>`**`examine boat`**
 `Though light, the boat looks sturdy.  It is only big enough to carry one.`
 
-`>`**`consider boat`**
-`It is a light boat of reeds.`
-`It weighs two stone and seven pounds.`
+```
+>consider boat
+It is a light boat of reeds.
+It weighs two stone and seven pounds.
+```
 
 <!--@include: ../includes/Items.md-->

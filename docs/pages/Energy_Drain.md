@@ -15,8 +15,9 @@ priest
 
 This spell can be learned from:
 
-`                       Sessions `
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`         18`
+| Guild | Sessions |
+|-------|--------|
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 18 |
 
 ## See also
 

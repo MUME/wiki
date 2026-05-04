@@ -10,8 +10,10 @@ aggressive, [evil](./Alignment.md) [level](./Level.md)
 [bashed](./Bash.md). They load with 1 [silver](./Gold.md)
 and 3 copper.
 
-`A mewlip is here, faintly wailing at you.`
-`> `**`look mewlip`**
-`It is a pale shape floating in mid-air, about the size of a human torso with`
-`faint limbs. Its glance is cold and lost, and its voice seems to come from`
-`the very bottom of the swamps.`
+```
+A mewlip is here, faintly wailing at you.
+> look mewlip
+It is a pale shape floating in mid-air, about the size of a human torso with
+faint limbs. Its glance is cold and lost, and its voice seems to come from
+the very bottom of the swamps.
+```

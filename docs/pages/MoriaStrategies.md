@@ -322,10 +322,12 @@ Shining chain mail sleeves in his treasure rooms.
 
 - - Strategy:\*\* To do Balrog you need 4 keys. They load at:
 
-` Muranog     - in cabinet   - mithril key`
-` Mezagor     - in corpse    - bloody key`
-` Grey spider - in chest     - jewel-encrusted key`
-` underwater  - behind crack - great bone key`
+```
+ Muranog     - in cabinet   - mithril key
+ Mezagor     - in corpse    - bloody key
+ Grey spider - in chest     - jewel-encrusted key
+ underwater  - behind crack - great bone key
+```
 
 Even if you already have Muranog's mithril key, go and kill him -
 otherwise Balrog will call him, he will arrive with his 3 trolls, block

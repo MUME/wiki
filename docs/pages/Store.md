@@ -11,9 +11,10 @@ Yes Casting : Extremely long Position : Standing Level : Level 10 Class
 
 This spell can be learned from:
 
-`                     Sessions `
-[`Erestor`](./Erestor.md)`                    16`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`          10`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 16 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 10 |
 
 ## See also:
 

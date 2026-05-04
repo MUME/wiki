@@ -42,8 +42,9 @@ Example: \> cast 'identify' ring
 
 This spell can be learned from:
 
-`                     Sessions `
-[`Erestor`](./Erestor.md)`                    16`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`           8`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 16 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 8 |
 
 <!--@include: ../includes/Spells.md-->

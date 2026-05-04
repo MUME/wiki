@@ -11,12 +11,13 @@ Accumulative: N/A Duration : No Casting : Normal Position : Standing,
 fighting Level : Level 7 Class : Magic User Min. Mana : 9 Example: \>
 cast 'shocking grasp' wight This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               6`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                6`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         5`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            11`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               7`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 6 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 6 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 5 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 11 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 7 |
 
 ## See also:
 

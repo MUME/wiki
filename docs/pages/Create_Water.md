@@ -22,10 +22,11 @@ the caster's stomach
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                             12`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               2`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                5`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 12 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 2 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 5 |
 
 ## See also
 

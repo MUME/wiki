@@ -3,8 +3,10 @@ title: Brolg-Ohurk sunwalk by Hawaii
 description: 'I dont know why i did it - most likely boredom ##'
 ---
 
-`Date: 27 apr 2008. `
-`I dont know why i did it - most likely boredom ##`
+```
+Date: 27 apr 2008. 
+I dont know why i did it - most likely boredom ##
+```
 
 You are a male Hill Troll.
 

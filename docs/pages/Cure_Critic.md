@@ -16,11 +16,12 @@ Level 9 Class : Cleric Min. Mana : 20 Example: \> cast 'cure critic'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              8`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 8 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
 
 ## See also
 

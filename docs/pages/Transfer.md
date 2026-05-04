@@ -22,9 +22,10 @@ Aschit
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              23`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               14`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 23 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 14 |
 
 ## See also
 

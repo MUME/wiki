@@ -15,13 +15,17 @@ Mountains](./Blue_Mountains.md) can create a [carved oak
 staff](./Carved_oak_staff.md) out of it. The branch decays after a
 few hours (real-time) in [inventory](./Inventory.md).
 
-`A graceful bough of oak lies on the ground.`
-`>`**`examine branch`**
-`It is about the length of a man and a handspan across. You can see no blemish or crack on its`
-`surface. In your hands, it is almost warm, almost living.`
+```
+A graceful bough of oak lies on the ground.
+>examine branch
+It is about the length of a man and a handspan across. You can see no blemish or crack on its
+surface. In your hands, it is almost warm, almost living.
+```
 
 `>`**`consider branch`**
-`It is a perfect oak branch.`
-`It weighs one stone and three pounds.`
+```
+It is a perfect oak branch.
+It weighs one stone and three pounds.
+```
 
 <!--@include: ../includes/Items.md-->

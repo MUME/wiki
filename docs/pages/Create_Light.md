@@ -16,12 +16,13 @@ Magic User Min. Mana : 5 Example: \> cast 'create light' lantern
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               2`
-[`Harlond Mage Guild`](./Harlond_Mage_Guild.md)`               2`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                4`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         1`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             8`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 2 |
+| [Harlond Mage Guild](./Harlond_Mage_Guild.md) | 2 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 4 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 1 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 8 |
 
 ## See also:
 

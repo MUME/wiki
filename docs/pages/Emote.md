@@ -8,15 +8,19 @@ tags:
 The **emote** command is used to show emotions or
 actions. For example (assuming your character's name is Bilbo):
 
-`>emote lets heavy tears roll down his cheek and fall down onto the floor.`
-`Bilbo lets heavy tears roll down his cheek and fall down onto the floor.`
+```
+>emote lets heavy tears roll down his cheek and fall down onto the floor.
+Bilbo lets heavy tears roll down his cheek and fall down onto the floor.
+```
 
 You can use , (comma) as an abbreviation for emote. If the line to be
 emoted starts with an ' there will be no space between the name of the
 character and the line. For example:
 
-`>emote 's eyes grow wet with tears.`
-`Bilbo's eyes grow wet with tears.`
+```
+>emote 's eyes grow wet with tears.
+Bilbo's eyes grow wet with tears.
+```
 
 Also, you can use a % to specify a creature in the room. For example:
 

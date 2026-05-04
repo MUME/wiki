@@ -9,6 +9,8 @@ In some places there are things you can try to **push** and **pull**.
 
 Example:
 
-`> pull lever`
-`> push stone`
+```
+> pull lever
+> push stone
+```
  

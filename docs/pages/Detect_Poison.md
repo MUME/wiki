@@ -15,13 +15,14 @@ Accumulative: N/A Duration : No Casting : Normal Position : Standing
 Level : Level 2 Class : Cleric Min. Mana : 5 Example: \> cast 'detect
 poison' loaf This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              8`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               3`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                8`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         3`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             6`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 8 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 3 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 8 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 3 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 6 |
 
 ## See also
 

@@ -10,15 +10,11 @@ earned, you'll gain a [level](./Level.md). You can see how much is
 left until the next level when you type 'stat'.
 Things you should know about experience points:
 
-`* When damaging a monster, you get experience points. (Magic included)`
+* When damaging a monster, you get experience points. (Magic included)
 
-`* When you damage or kill a monster, the knowledge gained from that monster`
-`  is added to your `[`Trophy`](./Trophy.md)`. The more knowledge you have of that monster, the`
-`  less experience you will derive from it in the future.`
+* When you damage or kill a monster, the knowledge gained from that monster is added to your [Trophy](./Trophy.md). The more knowledge you have of that monster, the less experience you will derive from it in the future.
 
-`* When you fight a monster within a group, the experience is split among the`
-`  members of the group who are present. Likewise, the knowledge gained is`
-`  split proportionately.`
+* When you fight a monster within a group, the experience is split among the members of the group who are present. Likewise, the knowledge gained is split proportionately.
 
 We strongly discourage the killing of other players of the same side if
 you are not an Orc, but the choice is yours.

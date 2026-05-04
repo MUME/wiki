@@ -18,8 +18,10 @@ chances at picking.
 
 Examples:
 
-`  > pick door north`
-`  > pick oakdoor`
-`  > pick hiddensafe`
+```
+  > pick door north
+  > pick oakdoor
+  > pick hiddensafe
+```
 
 <!--@include: ../includes/Skills.md-->

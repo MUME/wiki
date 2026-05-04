@@ -26,10 +26,11 @@ cast 'fireball' gimilkhad
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               8`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            16`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              10`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 8 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 16 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 10 |
 
 ## See also:
 

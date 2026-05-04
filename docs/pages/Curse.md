@@ -15,10 +15,11 @@ Example: \> cast 'curse' ring
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               2`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             2`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`              12`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 2 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 2 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 12 |
 
 ## See also
 

@@ -59,7 +59,7 @@ implementors) and ruled to never appear as long as they draw breath:
   [skills](./Skill.md). The move is away from unique abilities for
   classes and
 
-`  towards racial-modifiers of abilities/skills.`
+`towards racial-modifiers of abilities/skills.`
 
 ## Levels and Skills
 
@@ -129,9 +129,9 @@ implementors) and ruled to never appear as long as they draw breath:
 - Removal of the entire noidea list. (This is so much a NOIDEA it needs
   2 Implementors to agree
 
-`  on it, so not much chance of that)`
+`on it, so not much chance of that)`
 
 - Implementation of the SUPERIDEA, or any similar forms, which by
   nature, would act to supercede
 
-`  the NOIDEA category`
+`the NOIDEA category`

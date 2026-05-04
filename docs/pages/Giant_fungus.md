@@ -9,5 +9,7 @@ mobiles.
 
 `An ancient fungus smothers the boulders.`
 `&gt;`**`examine fungus`**
-`An ancient fungus thrives on the moist face of the boulders.  It seems to`
-`pulsate with life...`
+```
+An ancient fungus thrives on the moist face of the boulders.  It seems to
+pulsate with life...
+```

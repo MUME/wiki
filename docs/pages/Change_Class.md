@@ -21,15 +21,17 @@ if the one you selected earlier doesn't fit you anymore.
 
 For example:
 
-`>change class`
-`You may choose among the following titles:`
-`  Priest`
-`  Scholar`
-`  Rider`
-`  Healer`
-`  Master Healer`
-`  ...`
-`>change class healer`
-`Ok.`
+```
+>change class
+You may choose among the following titles:
+  Priest
+  Scholar
+  Rider
+  Healer
+  Master Healer
+  ...
+>change class healer
+Ok.
+```
 
 See Also: [Class](./Class.md)

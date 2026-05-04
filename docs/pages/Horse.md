@@ -14,7 +14,9 @@ better off choosing a more reliable mount such as a [pack
 horse](./Pack_horse.md) or [mountain
 mule](./Newbie_Guide_Mounts,_Riding,_and_Pets.md).
 
-`A beautiful and docile horse is standing here.`
-`>`**`examine horse`**
-`The horse, with big eyes and a beautiful black mane, looks like it has not`
-`been completely tamed yet.`
+```
+A beautiful and docile horse is standing here.
+>examine horse
+The horse, with big eyes and a beautiful black mane, looks like it has not
+been completely tamed yet.
+```

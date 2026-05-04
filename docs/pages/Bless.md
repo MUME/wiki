@@ -19,12 +19,13 @@ Example: \> cast 'bless' haleth
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              12`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               6`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                3`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         1`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 12 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 6 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 3 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 1 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 3 |
 
 See also: [Darkness](./Darkness.md), [Protection From
 Evil](./Protection_From_Evil.md),

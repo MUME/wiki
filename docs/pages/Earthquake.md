@@ -13,8 +13,9 @@ cast 'earthquake'
 
 This spell can be learned from:
 
-`            Sessions `
-[`Erestor`](./Erestor.md)`           16`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 16 |
 
 ## See also:
 

@@ -14,13 +14,14 @@ Min. Mana : 25 Example: \> cast 'night vision'
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               3`
-[`Harlond Mage Guild`](./Harlond_Mage_Guild.md)`               1`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                8`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         1`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            11`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 3 |
+| [Harlond Mage Guild](./Harlond_Mage_Guild.md) | 1 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 8 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 1 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 11 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 3 |
 
 ## See also
 

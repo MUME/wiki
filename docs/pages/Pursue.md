@@ -23,14 +23,18 @@ following a track over longer distances.
 
 Examples:
 
-` > pursue`
-` > pursue gwokk`
+```
+ > pursue
+ > pursue gwokk
+```
 
 For following a track over several rooms:
 
-` > track *dwarf*  OR  pursue *dwarf*`
-` > pursue`
-` > pursue`
+```
+ > track *dwarf*  OR  pursue *dwarf*
+ > pursue
+ > pursue
+```
 
 See also: [Track](./Track.md)
  

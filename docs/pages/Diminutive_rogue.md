@@ -13,7 +13,9 @@ a [piercing weapon](./Piercing_weapon.md), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
 [ring](./Ring.md) and some basic cloth equipment.
 
-`A slim young woman glares at you suspiciously.`
-`>`**`examine rogue`**
-`The woman is slim but strong, and has the look of a swift killer. She has`
-`long black hair and brown eyes, her eyebrows are thin and her nose is small.`
+```
+A slim young woman glares at you suspiciously.
+>examine rogue
+The woman is slim but strong, and has the look of a swift killer. She has
+long black hair and brown eyes, her eyebrows are thin and her nose is small.
+```

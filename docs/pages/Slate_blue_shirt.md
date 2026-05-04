@@ -13,8 +13,10 @@ very fast if [dropped](./Drop.md) on the ground.
 `>`**`examine shirt`**
 `The bluish grey shirt is made of thin, soft cloth. `
 
-`>`**`consider shirt`**
-`It is a slate blue shirt.`
-`It weighs a couple of pounds.`
+```
+>consider shirt
+It is a slate blue shirt.
+It weighs a couple of pounds.
+```
 
 <!--@include: ../includes/Items.md-->

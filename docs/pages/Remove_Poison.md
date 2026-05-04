@@ -23,13 +23,14 @@ poison'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              3`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         1`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               1`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 3 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 1 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 1 |
 
 ## See also
 

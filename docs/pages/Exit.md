@@ -19,17 +19,21 @@ For both commands, the [direction](./Direction.md) (north, east,
 
 Door information can be one of the following:
 
-` [...]   - A closed 'doorname'`
-` (...)   - (doorname) Room Name        open door`
-` #...#   - (doorname) Room Name        broken door`
+```
+ [...]   - A closed 'doorname'
+ (...)   - (doorname) Room Name        open door
+ #...#   - (doorname) Room Name        broken door
+```
 ` {...}   - Room Name                   `[`portal`](./Portal.md)
 ` /...\   - Room Name                   upward `[`climb`](./Climb.md)
 ` \.../   - Room Name                   downward climb`
 
 Terrain information can be one of the following:
 
-` =...=   - Room Name                   road leading that way`
-` -...-   - Room Name                   trail leading that way`
+```
+ =...=   - Room Name                   road leading that way
+ -...-   - Room Name                   trail leading that way
+```
 ` ~...~   - Room Name                   destination room requires `[`swimming`](./Swim.md)
 
 ` ^...^   - Room Name                   outdoors room (`[`Trolls`](./Troll.md)` only)`

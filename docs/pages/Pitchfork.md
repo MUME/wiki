@@ -4,15 +4,19 @@ description: 'A pitchfork has been carelessly left lying here.'
 tags:
   - Stabbing weapons
 ---
-`A pitchfork has been carelessly left lying here.`
-`>`**`examine pitchfork`**
-`The fork consists of a long, wooden handle and a metal cross-bar with four`
-`spikes attached to its lower end. Although designed as a farmer's tool, it can`
-`nevertheless be quite deadly if used as weapon.`
+```
+A pitchfork has been carelessly left lying here.
+>examine pitchfork
+The fork consists of a long, wooden handle and a metal cross-bar with four
+spikes attached to its lower end. Although designed as a farmer's tool, it can
+nevertheless be quite deadly if used as weapon.
+```
 
 `>`**`consider pitchfork`**
-`This stabbing weapon can be wielded one-handed.`
-`It is awful while attacking and awful while defending; its speed is slow, and it inflicts little damage upon hitting.`
-`It weighs three pounds.`
+```
+This stabbing weapon can be wielded one-handed.
+It is awful while attacking and awful while defending; its speed is slow, and it inflicts little damage upon hitting.
+It weighs three pounds.
+```
 
 <!--@include: ../includes/Items.md-->

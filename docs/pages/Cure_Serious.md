@@ -20,13 +20,14 @@ mercenary
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              8`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               8`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               5`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               5`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 8 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 8 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 5 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 5 |
 
 ## See also
 

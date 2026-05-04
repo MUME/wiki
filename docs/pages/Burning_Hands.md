@@ -17,12 +17,13 @@ cast 'burning hands' spirit
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               6`
-[`Harlond Mage Guild`](./Harlond_Mage_Guild.md)`               3`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         4`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            11`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               6`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 6 |
+| [Harlond Mage Guild](./Harlond_Mage_Guild.md) | 3 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 4 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 11 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 6 |
 
 ## See also:
 

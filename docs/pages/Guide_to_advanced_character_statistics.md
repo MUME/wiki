@@ -18,8 +18,10 @@ mechanics.
 However, training can also be (ab)used with new characters to improve
 practice percentages! Read the following from HELP TRAIN:
 
-`   Note: Unlike rerolls, training does not affect your practice percentages. The`
-`   percentage to which you can practice a skill is only based on your base abilities.`
+```
+   Note: Unlike rerolls, training does not affect your practice percentages. The
+   percentage to which you can practice a skill is only based on your base abilities.
+```
 
 This means that characters can be created with "unplayable" base
 abilities that result in higher practice percentages can then be

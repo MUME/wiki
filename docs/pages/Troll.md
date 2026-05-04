@@ -61,11 +61,9 @@ The three subraces have the following modifiers:
 
 - MUME's Hill Trolls have a number of bonuses. These include:
 
-`* They deal extra damage to stunned opponents when wielding a one-handed or`
-`  two-handed concussion weapon.`
+* They deal extra damage to stunned opponents when wielding a one-handed or two-handed concussion weapon.
 
-`* They enjoy storming into battle and get a higher offensive bonus when`
-`  aggressive or berserk.`
+* They enjoy storming into battle and get a higher offensive bonus when aggressive or berserk.
 
 `* They can burrow under certain conditions.`
 
@@ -75,11 +73,9 @@ The three subraces have the following modifiers:
 
 MUME's Cave Trolls have a number of bonuses. These include:
 
-`* They have slightly increased hit point regeneration. This bonus is increased`
-`  when in a cave or tunnel.`
+* They have slightly increased hit point regeneration. This bonus is increased when in a cave or tunnel.
 
-`* They have huge bashes which may cause the victim to hurtle and collide with`
-`  a nearby engaged target.`
+* They have huge bashes which may cause the victim to hurtle and collide with a nearby engaged target.
 
 `* Cave Trolls are more likely to cause their bashed victims to hurtle into other targets if they are dextrous and have mastered their weapon class.`
 
@@ -89,14 +85,11 @@ MUME's Cave Trolls have a number of bonuses. These include:
 
 MUME's Mountain Trolls have a number of bonuses. These include:
 
-`* They will sometimes hit nearby targets with wild attacks when engaged in`
-`  combat.`
+* They will sometimes hit nearby targets with wild attacks when engaged in combat.
 
-`* They are highly efficient with battle rams, moving them with increased speed`
-`  and reduced move cost.`
+* They are highly efficient with battle rams, moving them with increased speed and reduced move cost.
 
-`* They can shake trees, push boulders, drag corpses, use slow doors, and dig`
-`  more swiftly and effortlessly.`
+* They can shake trees, push boulders, drag corpses, use slow doors, and dig more swiftly and effortlessly.
 
 `* Mountain Trolls are more likely to use wild attacks against other targets if they are dextrous and have mastered their weapon class. They are able to do so even when blinded!`
 

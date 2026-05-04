@@ -38,9 +38,10 @@ Level : Level 2 Class : Magic User Min. Mana : 5 Example: \> cast
 
 This spell can be learned from:
 
-`                     Sessions `
-[`Erestor`](./Erestor.md)`                     8`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`           6`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 8 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 6 |
 
 ## See also
 

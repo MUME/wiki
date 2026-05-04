@@ -14,8 +14,10 @@ weapon](./Slashing_weapon.md), a [shield](./Shield.md), a
 [ring](./Ring.md), and some basic equipment, mostly cloth and
 leather with the occasional metal piece.
 
-`A sturdy guardsman is here, his weapon at the ready.`
-`>`**`examine guardsman`**
-`The guard is a sturdy and strong man, but has the bearing of a skilled`
-`fighter, who is able to kill his opponent without hesitation.`
+```
+A sturdy guardsman is here, his weapon at the ready.
+>examine guardsman
+The guard is a sturdy and strong man, but has the bearing of a skilled
+fighter, who is able to kill his opponent without hesitation.
+```
  

@@ -30,8 +30,10 @@ be included quoted using '\>'.
 If you write 'by [mail](./Mail.md)', you will instead send a
 private mail to the author. Example:
 
-` reply 123 by mail             reply to message 123 by mail`
-` rep q b m                     reply quoted to last message by mail`
+```
+ reply 123 by mail             reply to message 123 by mail
+ rep q b m                     reply quoted to last message by mail
+```
 
 Obviously, you must be in the same [room](./room.md) as the board
 you wish to write on for this command to work.

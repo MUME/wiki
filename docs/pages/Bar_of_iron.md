@@ -4,13 +4,17 @@ description: 'A wide bar of iron, coated in black dust, lies here.'
 tags:
   - Uncategorized items
 ---
-`A wide bar of iron, coated in black dust, lies here. `
-`>`**`examine bar`**
-`The bar is heavy, and made from pure iron.  Some product of the forging`
-`process coats it.`
+```
+A wide bar of iron, coated in black dust, lies here. 
+>examine bar
+The bar is heavy, and made from pure iron.  Some product of the forging
+process coats it.
+```
 
 `>`**`consider bar`**
-`It is a bar of iron.`
-`It weighs seven pounds.`
+```
+It is a bar of iron.
+It weighs seven pounds.
+```
 
 <!--@include: ../includes/Items.md-->

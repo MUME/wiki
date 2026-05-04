@@ -13,8 +13,10 @@ Pints are sold in many taverns, most often containing ale.
 `>`**`look at pint`**
 `This is a large, frosty mug. From one side sprouts a sturdy handle.`
 
-`>`**`consider pint`**
-`It is a pint.`
-`It weighs half a pound.`
+```
+>consider pint
+It is a pint.
+It weighs half a pound.
+```
 
 <!--@include: ../includes/Items.md-->

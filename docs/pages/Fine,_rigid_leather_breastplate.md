@@ -9,8 +9,10 @@ tags:
 `>`**`look breastplate`**
 `You see nothing special...`
 
-`>`**`consider breastplate`**
-`It is a fine, rigid leather breastplate.`
-`It weighs seven pounds.`
+```
+>consider breastplate
+It is a fine, rigid leather breastplate.
+It weighs seven pounds.
+```
 
 <!--@include: ../includes/Items.md-->

@@ -30,13 +30,14 @@ fighting Level : Level 6 Class : Cleric Min. Mana : 10 Example: \> cast
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                             18`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                4`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         1`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`              18`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 18 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 4 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 1 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 3 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 18 |
 
 ## See also
 

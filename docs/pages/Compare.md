@@ -14,14 +14,18 @@ objects in the shopkeeper's stock can also be compared.
 Comparing objects in your [inventory](./Inventory.md) or in
 [room](./room.md):
 
-` > compare sword spear`
-` > compare eq.sword inv.sword`
+```
+ > compare sword spear
+ > compare eq.sword inv.sword
+```
 
 Comparing objects in a shop:
 
-` > compare 2122 233`
-` > compare 2122 sword`
-` > compare sword 233`
+```
+ > compare 2122 233
+ > compare 2122 sword
+ > compare sword 233
+```
 
 See also: [Consider](./Consider.md), Show
  

@@ -27,16 +27,26 @@ How it goes on depends on your editor. If you use the lineeditor, read
 
 Other commands:
 
-[`look`](./Look.md)` mail - lists mail addressed to you`
-[`tail`](./Tail.md)` - lists the 20 last mails to you`
+| Skill | Sessions | Difficulty |
+|-------|----------|------------|
+| [look](./Look.md) | mail | - lists mail addressed to you |
+| [tail](./Tail.md) | - | lists the 20 last mails to you |
 `tail `&lt;number&gt;` - lists the `&lt;number&gt;` last mails to you`
-[`read`](./Read.md)` `&lt;number&gt;` - reads a specific mail`
-`look sent mail - lists mail you have sent`
-`read sent `&lt;number&gt;` - reads a mail you have sent`
-[`reply`](./Reply.md)` `&lt;number&gt;` - reply to a mail`
+| Guild | Sessions |
+|-------|--------|
+| [read](./Read.md) | `&lt;number&gt; |
+```
+look sent mail - lists mail you have sent
+read sent `&lt;number&gt;` - reads a mail you have sent
+```
+| Guild | Sessions |
+|-------|--------|
+| [reply](./Reply.md) | `&lt;number&gt; |
 **`forward`**` `&lt;number&gt;` @dain - forward a mail to Dáin`
-`forward sent `&lt;number&gt;` @dain - forward a previously sent mail to Dįin`
-`forward sent `&lt;number&gt;` --retroactive-cc @dain - cc Dain on an existing mail`
+```
+forward sent `&lt;number&gt;` @dain - forward a previously sent mail to Dįin
+forward sent `&lt;number&gt;` --retroactive-cc @dain - cc Dain on an existing mail
+```
 
 Messages you have already read are marked with a "+." A "+" next to a
 sent mail indicates it has been read by at least one person on the

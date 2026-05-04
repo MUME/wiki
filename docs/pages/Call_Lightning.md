@@ -17,9 +17,10 @@ cast 'call lightning' troll
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              16`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             8`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 16 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 8 |
 
 ## See also:
 

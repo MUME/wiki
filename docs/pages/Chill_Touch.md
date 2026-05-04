@@ -18,11 +18,12 @@ cast 'chill touch' bear
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Harlond Mage Guild`](./Harlond_Mage_Guild.md)`               7`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                5`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         3`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               7`
+| Guild | Sessions |
+|-------|--------|
+| [Harlond Mage Guild](./Harlond_Mage_Guild.md) | 7 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 5 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 3 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 7 |
 
 ## See also:
 

@@ -8,8 +8,10 @@ tags:
 To **order** a pet or a [charmed](./Charm.md) person to do
 something. Example:
 
-` > order cat say I speak animal!`
-`The Cat says 'R fsiedaamimal!'`
+```
+ > order cat say I speak animal!
+The Cat says 'R fsiedaamimal!'
+```
 
 ` > order followers smile  [Order all charmed followers]`
 

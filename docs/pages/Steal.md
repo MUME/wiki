@@ -22,7 +22,7 @@ will be punished.
 
 Example:
 
-`  > steal gold drunk`
+`> steal gold drunk`
 
 Ability to steal also makes you capable of guessing what one has in his
 pockets when you EXAMINE them.

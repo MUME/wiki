@@ -13,8 +13,10 @@ as well as summoned by the
 pieces of chain mail armour, and 1-2
 [rib-bones](./Rib-bone_of_a_skeleton.md).
 
-`A skeletal warrior is staring angrily at the surroundings.`
-`>`**`examine skeleton`**
-`This is the skeleton of what must have been a Man of heroic proportions.`
-`Driven by an evil purpose that reaches beyond death, its bones clatter`
-`against each other as it seeks to deliver yet another mortal to a cold grave.`
+```
+A skeletal warrior is staring angrily at the surroundings.
+>examine skeleton
+This is the skeleton of what must have been a Man of heroic proportions.
+Driven by an evil purpose that reaches beyond death, its bones clatter
+against each other as it seeks to deliver yet another mortal to a cold grave.
+```

@@ -29,17 +29,23 @@ Skills in which you are not training anymore are marked by an asterisk
 in the practice list:
 
 `Skill / Spell          Knowledge  Difficulty Class      `[`Mana`](./Mana.md)`  Casting time`
-[`Cure light`](./Cure_Light.md)`           * Superb     Normal     `[`Cleric`](./Cleric.md)`       10  Very short`
-`                     ^`
-`                Not refreshed`
+| Skill | Sessions | Difficulty |
+|-------|----------|------------|
+| [Cure light](./Cure_Light.md) | * | Superb     Normal     `[`Cleric`](./Cleric.md)`       10  Very short |
+```
+                     ^
+                Not refreshed
+```
 
 Finally, 'train' can be used to improve some of your base
 abilities at the expense of others. For example:
 
-`> train improve strength`
-`> train neglect constitution`
-`> train maintain perception`
-`> train revert will`
+```
+> train improve strength
+> train neglect constitution
+> train maintain perception
+> train revert will
+```
 
 Once you choose some abilities to improve and some abilities to neglect,
 your statistics will start changing in the direction you required. The

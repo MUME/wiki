@@ -43,12 +43,13 @@ briskness'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                             18`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               4`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               10`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         2`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             4`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               2`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 18 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 4 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 10 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 2 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 4 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 2 |
 
 <!--@include: ../includes/Spells.md-->

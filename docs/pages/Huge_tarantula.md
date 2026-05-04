@@ -10,7 +10,9 @@ various places around [Arda](./Arda.md). They have a poisonous
 bite that can afflict you with
 Arachnia.
 
-`A huge, poisonous tarantula extends her legs to you.`
-`>`**`examine spider`**
-`This horrible creature suddenly emerges from her web, her legs extended`
-`to you threateningly and her fangs open with hunger and poison.`
+```
+A huge, poisonous tarantula extends her legs to you.
+>examine spider
+This horrible creature suddenly emerges from her web, her legs extended
+to you threateningly and her fangs open with hunger and poison.
+```

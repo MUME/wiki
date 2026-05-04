@@ -18,10 +18,11 @@ Level : Level 11 Class : Magic User Min. Mana : 20 Example: \> cast
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              16`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 16 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 12 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 3 |
 
 <!--@include: ../includes/Spells.md-->

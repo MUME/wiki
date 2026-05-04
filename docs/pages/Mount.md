@@ -32,8 +32,10 @@ To ride on a mobile, use the 'ride' command. If you type 'ride' without
 any specification, you will try to ride any previously ridden mounts in
 the area you are in. You can also specify the mount, for example
 
-`> ride warhorse`
-`> ride 2.pack`
+```
+> ride warhorse
+> ride 2.pack
+```
 
 Use 'dismount' or 'lead' to get off the mount.
 
@@ -104,8 +106,10 @@ even without saddles.
 
 Saddles can be bought at grocers and traveller shops.
 
-`> saddle mule (saddles the mule)`
-`> unsaddle mule (removes the saddle from the mule)`
+```
+> saddle mule (saddles the mule)
+> unsaddle mule (removes the saddle from the mule)
+```
 
 Saddles have the added benefit that your mount cannot be
 [summoned](./Summon.md) (as do saddle cloths).

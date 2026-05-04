@@ -12,9 +12,10 @@ cast 'dispel magic' eket
 
 This spell can be learned from:
 
-`                     Sessions `
-[`Erestor`](./Erestor.md)`                    22`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`           5`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 22 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 5 |
 
 ## See also
 

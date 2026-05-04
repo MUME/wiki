@@ -8,7 +8,9 @@ tags:
 mobiles. They can root players, preventing them
 from leaving the room until the roots are killed.
 
-`A small, dense tangle of roots covers the ground.`
-`>`**`examine roots`**
-`Dozens of long, thin roots are tangled together in an intricate network. They`
-`seem to slide and shift across one another, constantly weaving new patterns.`
+```
+A small, dense tangle of roots covers the ground.
+>examine roots
+Dozens of long, thin roots are tangled together in an intricate network. They
+seem to slide and shift across one another, constantly weaving new patterns.
+```

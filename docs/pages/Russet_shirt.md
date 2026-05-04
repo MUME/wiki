@@ -9,8 +9,10 @@ tags:
 `>`**`look shirt`**
 `This is a red-brownish coloured shirt with some yellow lines on the front.`
 
-`>`**`consider shirt`**
-`It is a russet shirt.`
-`It weighs a couple of pounds.`
+```
+>consider shirt
+It is a russet shirt.
+It weighs a couple of pounds.
+```
 
 <!--@include: ../includes/Items.md-->

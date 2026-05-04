@@ -18,10 +18,11 @@ fighting Level : Level 12 Class : Cleric Min. Mana : 20 Example: \> cast
 
 This spell can be learned from:
 
-`                        Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`          18`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`            8`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`         8`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 18 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 8 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 8 |
 
 ## See also
 

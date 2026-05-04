@@ -14,9 +14,11 @@ Guild](./Black_Dagger_Guild.md), which is located relatively close
 to his tavern. Rumor has it that bribing him (with twice your level in
 silver) will loosen his lips enough for him to spill the beans...
 
-`> Olly is standing here, cleaning some cups.`
-`> `**`look Olly`**
-`> Olly is fairly short for a human, and a bit fat too. Also his hair is `
-`retreating from his forehead. This he tries to hide by combing the little hair `
-`he still has forward, but of course it only makes things worse. He glares`
-`suspiciously at you.`
+```
+> Olly is standing here, cleaning some cups.
+> look Olly
+> Olly is fairly short for a human, and a bit fat too. Also his hair is 
+retreating from his forehead. This he tries to hide by combing the little hair 
+he still has forward, but of course it only makes things worse. He glares
+suspiciously at you.
+```

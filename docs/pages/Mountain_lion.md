@@ -10,7 +10,9 @@ mobiles found mainly in the mountains north of
 Their corpses can be butchered to produce a [fine lion
 pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).
 
-`A mountain lion eyes you closely and prepares to pounce for his next meal.`
-`>`**`examine lion`**
-`This wild cat eyes you closely and moves as silent as the night. Impressively,`
-`he leaps swiftly from rock to rock in the terrain he's so accustomed to.`
+```
+A mountain lion eyes you closely and prepares to pounce for his next meal.
+>examine lion
+This wild cat eyes you closely and moves as silent as the night. Impressively,
+he leaps swiftly from rock to rock in the terrain he's so accustomed to.
+```

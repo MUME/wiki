@@ -21,10 +21,11 @@ Duration : No Casting : Extremely long Position : Standing, Fighting
 Level : Level 11 Class : Cleric Min. Mana : 5 Example: \> cast 'word of
 recall' This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              23`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               10`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               6`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 23 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 10 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 6 |
 
 <!--@include: ../includes/Spells.md-->

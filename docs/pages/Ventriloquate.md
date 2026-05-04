@@ -12,7 +12,8 @@ hate you Bert!
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               5`
+| Guild | Sessions |
+|-------|--------|
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 5 |
 
 <!--@include: ../includes/Spells.md-->

@@ -33,11 +33,12 @@ keys) Example: \> cast 'locate' zordurhozo
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Erestor`](./Erestor.md)`                          3`
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              16`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 3 |
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 16 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 12 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 3 |
 
 See also: [Locate Magic](./Locate_Magic.md)
 

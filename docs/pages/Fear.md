@@ -20,9 +20,10 @@ Class : Cleric Min. Mana : 20 Example: \> cast 'fear'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              10`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            18`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               8`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 10 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 18 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 8 |
 
 <!--@include: ../includes/Spells.md-->

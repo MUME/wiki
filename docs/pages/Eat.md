@@ -12,10 +12,12 @@ points](./Hit_points.md) and [mana](./Mana.md) more slowly.
 
 Examples:
 
-` > Taste mushroom`
-` > Eat loaf`
-` > Drink skin`
-` > Sip cup`
+```
+ > Taste mushroom
+ > Eat loaf
+ > Drink skin
+ > Sip cup
+```
 
 See Also: [Food](./Food.md),
 [Regeneration](./Regeneration.md)

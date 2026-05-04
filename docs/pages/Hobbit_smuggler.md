@@ -11,7 +11,9 @@ Hideout](/pages/Shire) in the
 with a [stiletto](./Stiletto.md), a [ring](./Ring.md) and
 some plain cloth equipment.
 
-`A suspicious-looking hobbit smuggler is here.`
-`>`**`examine smuggler`**
-`He is a hobbit, yet different in some way from the other hobbits you have `
-`seen. He glares at you with anger.`
+```
+A suspicious-looking hobbit smuggler is here.
+>examine smuggler
+He is a hobbit, yet different in some way from the other hobbits you have 
+seen. He glares at you with anger.
+```

@@ -9,7 +9,9 @@ The **weaponsmith** tends to the **Weapon Shop** in
 8pm. The weaponsmith might ask adventurers to help recover his [lost
 dagger](./Quest#Bree_Weaponsmith.md).
 
-`A weaponsmith stands here.`
-`>`**`examine weaponsmith`**
-`A young weaponsmith, yet he seems to have strength beyond the extent of his`
-`years.`
+```
+A weaponsmith stands here.
+>examine weaponsmith
+A young weaponsmith, yet he seems to have strength beyond the extent of his
+years.
+```

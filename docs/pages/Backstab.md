@@ -31,7 +31,7 @@ surprise.
 
 Example:
 
-`   > backstab ruffian`
+`> backstab ruffian`
 
 [Back to skill list](./Skill.md)
 

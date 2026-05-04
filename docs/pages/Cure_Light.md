@@ -22,13 +22,14 @@ Level 1 Class : Cleric Min. Mana : 10 Example: \> cast 'cure light'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                              6`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               5`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         3`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 6 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 5 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 3 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
 
 ## See also
 

@@ -35,9 +35,10 @@ NOTE: Not all weapons can be enchanted.
 
 This spell can be learned from:
 
-`                     Sessions `
-[`Erestor`](./Erestor.md)`                    22`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`          14`
+| Guild | Sessions |
+|-------|--------|
+| [Erestor](./Erestor.md) | 22 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 14 |
 
 ## See also:
 

@@ -14,8 +14,10 @@ open gate), or by giving the [direction](./Direction.md) of the
 exit (e.g. \> open exit s). Secret exits have to be addressed by their
 exact name. Non-hidden exits can be addressed as simply 'exit'.
 
-`'> open stone' or '> open stone south' [or just 'open stone s']`
-`'> open chest' or '> open 2.chest'`
+```
+'> open stone' or '> open stone south' [or just 'open stone s']
+'> open chest' or '> open 2.chest'
+```
 
 (if there's more than one to choose from)
 

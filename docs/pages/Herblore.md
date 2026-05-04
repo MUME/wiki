@@ -645,11 +645,15 @@ powder.
 - - Effects:\*\* Greatly increases HP regen, Stops manaregen for the
     duration almost entirely
 
-` 03.04.2014`
-` Confirmed it is still possible to learn this herblore. (Orcrist worked) /Elestir`
+```
+ 03.04.2014
+ Confirmed it is still possible to learn this herblore. (Orcrist worked) /Elestir
+```
 
-` 07.07.2013`
-` Tairach has this and we use it quite often when regening. A very good herblore, and I'm amazed that nobody uses it more often. /Storan`
+```
+ 07.07.2013
+ Tairach has this and we use it quite often when regening. A very good herblore, and I'm amazed that nobody uses it more often. /Storan
+```
 
 ##### Orkish Draught
 

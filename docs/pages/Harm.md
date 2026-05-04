@@ -18,9 +18,10 @@ cavebear
 
 This spell can be learned from:
 
-`                       Sessions `
-[`Druid`](./Druid.md)`                        18`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`         18`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 18 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 18 |
 
 ## See also
 

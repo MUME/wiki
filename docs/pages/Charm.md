@@ -55,10 +55,11 @@ Level 14 Class : Magic User Min. Mana : 20
 
 ## Guilds
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               3`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              16`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 3 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 12 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 16 |
 
 ## See also
 

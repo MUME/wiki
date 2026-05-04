@@ -21,13 +21,14 @@ Class : Cleric Min. Mana : 5 Example: \> cast 'cure blind' Sabadon
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               2`
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               3`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         1`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            12`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`               2`
+| Guild | Sessions |
+|-------|--------|
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 2 |
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 3 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 1 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 12 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 2 |
 
 ## See also
 

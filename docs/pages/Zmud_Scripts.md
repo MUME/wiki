@@ -17,10 +17,12 @@ I got tired of writing them all down in a paper \#CLASS {Friends}
 Friends \$delitem( \$0, @Friends)} \#ALIAS friendcheck {#say @{Friends}}
 \#CLASS 0 commands:
 
-`addfriend -name- -> will add -name- to your list of friends`
-`ft -text- -> will tll everyone in the list(if they are online) "Friend Tell: -text-"`
-`remfriend -name- ->removes the person from the list`
-`friendcheck -> lists them all`
+```
+addfriend -name- -> will add -name- to your list of friends
+ft -text- -> will tll everyone in the list(if they are online) "Friend Tell: -text-"
+remfriend -name- ->removes the person from the list
+friendcheck -> lists them all
+```
 
 ## Group tell(modified from the friend thing)
 

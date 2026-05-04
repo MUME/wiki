@@ -15,9 +15,11 @@ secret door in his [room](./room.md), that leads to another room
 containing some coins and a [large metal full
 shield](./Large_metal_full_shield.md).
 
-`The chief of smugglers is here, planning his next move.`
-`>`**`examine smuggler`**
-`This is probably one of the many criminals that creep out of Tharbad.  He is`
-`dressed in black, from head to toe.  He moves with fluid stealth and dexterity.`
-`He attacks you fast as lightning.`
+```
+The chief of smugglers is here, planning his next move.
+>examine smuggler
+This is probably one of the many criminals that creep out of Tharbad.  He is
+dressed in black, from head to toe.  He moves with fluid stealth and dexterity.
+He attacks you fast as lightning.
+```
  

@@ -17,9 +17,10 @@ Accumulative: No Duration : Yes Casting : Extremely long Position :
 Standing Level : Level 14 Class : Magic User Min. Mana : 15 Example: \>
 cast 'sleep' olog This spell can be learned from:
 
-`                          Sessions `
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              16`
+| Guild | Sessions |
+|-------|--------|
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 12 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 16 |
 
 <!--@include: ../includes/Spells.md-->

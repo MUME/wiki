@@ -10,8 +10,10 @@ to another.
 
 Syntax:
 
-`pour source destination`
-`pour container out        (alternative to emptying)`
+```
+pour source destination
+pour container out        (alternative to emptying)
+```
 
 Example:
 

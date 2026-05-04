@@ -18,10 +18,11 @@ Syntax : cast 'create food' Type : Miscellaneous Accumulative: N/A
 Duration : No Casting : Long Position : Standing Level : Level 3 Class :
 Cleric Min. Mana : 5 Example: \> cast 'create food'
 
-`                            Sessions `
-[`Druid`](./Druid.md)`                             12`
-[`Harlond Cleric Guild`](./Harlond_Cleric_Guild.md)`               2`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`                3`
+| Guild | Sessions |
+|-------|--------|
+| [Druid](./Druid.md) | 12 |
+| [Harlond Cleric Guild](./Harlond_Cleric_Guild.md) | 2 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 3 |
 
 ## See also
 

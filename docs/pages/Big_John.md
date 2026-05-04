@@ -13,9 +13,11 @@ an aggressive level ? mob. He can
 [woodsman's axe](./Woodsman's_axe.md), a [lute](./Lute.md),
 and some leather equipment.
 
-`Big John is swiftly moving around, hiding in the shadows.`
-`>`**`examine John`**
-`Big John, the chief brigand, is a son of John, the lumberjack. When his father`
-`was slaughtered by ferocious adventurers, Big John decided to revenge. He has`
-`succeeded in his plan, and you are likely to be his next victim.`
+```
+Big John is swiftly moving around, hiding in the shadows.
+>examine John
+Big John, the chief brigand, is a son of John, the lumberjack. When his father
+was slaughtered by ferocious adventurers, Big John decided to revenge. He has
+succeeded in his plan, and you are likely to be his next victim.
+```
  

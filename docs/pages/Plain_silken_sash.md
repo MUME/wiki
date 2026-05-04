@@ -12,8 +12,10 @@ tailors. It can be dyed different colours.
 `>`**`look sash`**
 `Long and sleek, this piece of silk is shiny and smooth to the touch.`
 
-`>`**`consider sash`**
-`It is a plain silken sash.`
-`It weighs a few ounces.`
+```
+>consider sash
+It is a plain silken sash.
+It weighs a few ounces.
+```
 
 <!--@include: ../includes/Items.md-->

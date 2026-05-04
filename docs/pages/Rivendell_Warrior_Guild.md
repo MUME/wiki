@@ -8,23 +8,27 @@ An **elven knight** teaches [warrior](./Warrior.md)
 [skills](./Skill.md) at the **Warrior Training Yard** in
 [Rivendell](./Rivendell.md).
 
-`An impressive elven knight stands watch here (glowing).`
-`>`**`examine knight`**
-`Tall, and bulky as elves go, this warrior has seen combat throughout`
-`the history of Arda. Even though elves do not scar, the toll of battle`
-`can be seen in his steel grey eyes.`
+```
+An impressive elven knight stands watch here (glowing).
+>examine knight
+Tall, and bulky as elves go, this warrior has seen combat throughout
+the history of Arda. Even though elves do not scar, the toll of battle
+can be seen in his steel grey eyes.
+```
 
 ## Skill list
 
-`                    Sessions  Difficulty`
-[`bash`](./Bash.md)`                      20  Hard`
-`charge``                    18  Normal`
-[`cleaving weapons`](./Cleaving_weapons.md)`          12  Normal`
-[`concussion weapons`](./Concussion_weapons.md)`        14  Normal`
-[`endurance`](./Endurance.md)`                 41  Very hard`
-[`kick`](./Kick.md)`                      14  Normal`
-[`parry`](./Parry.md)`                     14  Normal`
-[`rescue`](./Rescue.md)`                    13  Easy`
-[`slashing weapons`](./Slashing_weapons.md)`          14  Normal`
-[`stabbing weapons`](./Stabbing_weapons.md)`          18  Normal`
-[`two-handed weapons`](./Two-handed_weapons.md)`        14  Normal`
+| Skill | Sessions | Difficulty |
+|-------|--------|------------|
+| [bash](./Bash.md) | 20 | Hard |
+| [cleaving weapons](./Cleaving_weapons.md) | 12 | Normal |
+| [concussion weapons](./Concussion_weapons.md) | 14 | Normal |
+| [endurance](./Endurance.md) | 41 | Very hard |
+| [kick](./Kick.md) | 14 | Normal |
+| Skill | Sessions | Difficulty |
+|-------|----------|------------|
+| [parry](./Parry.md) | 14 | Normal |
+| [rescue](./Rescue.md) | 13 | Easy |
+| [slashing weapons](./Slashing_weapons.md) | 14 | Normal |
+| [stabbing weapons](./Stabbing_weapons.md) | 18 | Normal |
+| [two-handed weapons](./Two-handed_weapons.md) | 14 | Normal |

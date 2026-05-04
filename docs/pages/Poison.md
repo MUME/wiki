@@ -16,10 +16,11 @@ fighting Level : Level 8 Class : Cleric Min. Mana : 10 Example: \> cast
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               1`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             2`
-[`Tharbad Cleric Guild`](./Tharbad_Cleric_Guild.md)`              12`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 1 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 2 |
+| [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 12 |
 
 ## See also
 

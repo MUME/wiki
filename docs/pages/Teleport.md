@@ -18,11 +18,12 @@ N/A Duration : No Casting : Very long Position : Standing, Fighting
 Level : Level 8 Class : Magic User Min. Mana : 35 Example: \> cast
 'teleport' whiqueboza This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               8`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               10`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            16`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`               3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 8 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 10 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 16 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 3 |
 
 See also: [Portal](./Portal.md)
 

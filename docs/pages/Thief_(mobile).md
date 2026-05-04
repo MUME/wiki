@@ -13,8 +13,10 @@ various places across [Arda](./Arda.md). They will attempt to
 copper, a [dagger](./Dagger.md), and some common cloth or leather
 equipment.
 
-`A thief is here looking for some stranger to rob.`
-`>`**`examine thief`**
-`This is a small man with sandy hair and an undistinguished appearance. His`
-`face has a cringing, furtive look, and his fingers are lithe, practiced,`
-`and ready for action.`
+```
+A thief is here looking for some stranger to rob.
+>examine thief
+This is a small man with sandy hair and an undistinguished appearance. His
+face has a cringing, furtive look, and his fingers are lithe, practiced,
+and ready for action.
+```

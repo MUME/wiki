@@ -20,8 +20,10 @@ The orc will then show as:
 
 To list all labels, use 'label' without any arguments.
 
-` > label remove target                removes the target label`
-` > label please remove all of them    (sic!) removes all defined labels`
+```
+ > label remove target                removes the target label
+ > label please remove all of them    (sic!) removes all defined labels
+```
 
 When you are fighting someone
 

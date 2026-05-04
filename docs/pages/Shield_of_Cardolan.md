@@ -16,8 +16,10 @@ can also be bought from some armourers for around 7
 `>`**`examine shield`**
 `This is a light metal shield bearing the markings of Cardolan.`
 
-`>`**`consider cardolan`**
-`It is a shield of Cardolan.`
-`It weighs one stone and two pounds.`
+```
+>consider cardolan
+It is a shield of Cardolan.
+It weighs one stone and two pounds.
+```
 
 <!--@include: ../includes/Items.md-->

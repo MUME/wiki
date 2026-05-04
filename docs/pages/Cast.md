@@ -23,10 +23,12 @@ Each spell takes a given amount of time to cast.
 Some spells can only be cast without target, some must have a target,
 and some can have it as an optional parameter.
 
-`> cast 'armour'  (can only be cast on self)`
-`> cast 'strength' (can be cast both on self and a target)`
-`> cast 'strength' Elrond `
-`> cast 'colour spray' orc`
+```
+> cast 'armour'  (can only be cast on self)
+> cast 'strength' (can be cast both on self and a target)
+> cast 'strength' Elrond 
+> cast 'colour spray' orc
+```
 
 If you already are in [combat](./Combat.md), your opponent is
 automatically set as the target for offensive spells without argument.

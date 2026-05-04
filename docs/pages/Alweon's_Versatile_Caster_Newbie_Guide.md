@@ -36,9 +36,11 @@ recommend Hobbit or Dwarven casters for newbies.
 
 Here are the recommended base stats for each race:
 
-`Str:12 Int:19 Wis:18 Dex:11 Con:11 Wil:15 Per:10. (Elf)`
-`Str:13 Int:18 Wis:19 Dex:12 Con:12 Wil:14 Per:10. (Half-Elf)`
-`Str:13 Int:18 Wis:18 Dex:11 Con:12 Wil:15 Per:11. (Man)`
+```
+Str:12 Int:19 Wis:18 Dex:11 Con:11 Wil:15 Per:10. (Elf)
+Str:13 Int:18 Wis:19 Dex:12 Con:12 Wil:14 Per:10. (Half-Elf)
+Str:13 Int:18 Wis:18 Dex:11 Con:12 Wil:15 Per:11. (Man)
+```
 
 We have chosen these base stats for several reasons:
 
@@ -151,9 +153,11 @@ grouping..
 Stat training recommendation (compare to your base stats by typing ‘inf
 %b’ in game):
 
-`Str:13 Int:19 Wis:18 Dex:12 Con:12 Wil:13 Per:10. (Elf) [-2 Wil, +1 Str/Dex/Con]`
-`Str:13 Int:18 Wis:19 Dex:12 Con:12 Wil:14 Per:10. (Half-Elf) [No change]`
-`Str:13 Int:18 Wis:18 Dex:12 Con:13 Wil:14 Per:10. (Man) [-1 Wil, +1 Dex/Con]`
+```
+Str:13 Int:19 Wis:18 Dex:12 Con:12 Wil:13 Per:10. (Elf) [-2 Wil, +1 Str/Dex/Con]
+Str:13 Int:18 Wis:19 Dex:12 Con:12 Wil:14 Per:10. (Half-Elf) [No change]
+Str:13 Int:18 Wis:18 Dex:12 Con:13 Wil:14 Per:10. (Man) [-1 Wil, +1 Dex/Con]
+```
 
 ##### Mage Spells
 
@@ -319,8 +323,10 @@ can be trained off after we’re done with it to practice other things.
 There are two embedding combinations I would recommend for the builds
 listed above:
 
-`Rubellite, opal, chunk/bracer/bar - Basic Mage and Basic Cleric`
-`Opal, corberyl, chunk/bracer/bar - Charming Mage and Charming Cleric`
+```
+Rubellite, opal, chunk/bracer/bar - Basic Mage and Basic Cleric
+Opal, corberyl, chunk/bracer/bar - Charming Mage and Charming Cleric
+```
 
 Making a focus staff can be challenging and time consuming, so don’t
 feel the need to remake a staff if you decide to swap to another build.

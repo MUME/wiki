@@ -25,13 +25,14 @@ No Duration : Yes Casting : Very long Position : Standing Level : Level
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               7`
-[`Harlond Mage Guild`](./Harlond_Mage_Guild.md)`               4`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               16`
-[`Minas Brethil Mage Guild`](./Minas_Brethil_Mage_Guild.md)`         2`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              16`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 7 |
+| [Harlond Mage Guild](./Harlond_Mage_Guild.md) | 4 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 16 |
+| [Minas Brethil Mage Guild](./Minas_Brethil_Mage_Guild.md) | 2 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 16 |
 
 ## See also
 

@@ -18,8 +18,10 @@ and a hundred points for a hard-to-find secret passage.
 If a lone player gets N travel points when entering a specific room,
 travel points will be distributed to a group like this:
 
-`Leader   : N + (N * 0.20 * number_of_followers_in_room) [mobs not counted]`
-`followers: N * 0.80`
+```
+Leader   : N + (N * 0.20 * number_of_followers_in_room) [mobs not counted]
+followers: N * 0.80
+```
 
 This way, the group leader will always get more TPs than if he were
 travelling alone. Also, he gets more the bigger the group is. The other

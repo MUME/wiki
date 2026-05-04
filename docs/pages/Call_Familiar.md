@@ -23,10 +23,11 @@ Class : Magic User Min. Mana : 15 Example: \> cast 'call familiar'
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`               4`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`                7`
-[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              11`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 4 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 7 |
+| [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 11 |
 
 ## See also:
 

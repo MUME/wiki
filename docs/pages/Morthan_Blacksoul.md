@@ -15,10 +15,12 @@ him, he will remember it and attack the next time he sees you. He loads
 metal shield](./Black_metal_shield.md) and some plain cloth
 equipment.
 
-`A tall blackclad man pierces you with eyes cold as steel.`
-`>`**`examine morthan`**
-`A tall man with a proud bearing, this man pierces your soul with eyes black`
-`as coal, and with a smirk on his face he demands that you make payment.`
+```
+A tall blackclad man pierces you with eyes cold as steel.
+>examine morthan
+A tall man with a proud bearing, this man pierces your soul with eyes black
+as coal, and with a smirk on his face he demands that you make payment.
+```
 
 ## Strategy
 

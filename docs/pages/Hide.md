@@ -34,12 +34,14 @@ surprise counterattack yourself.
 
 Example:
 
-`  > hide carefully`
-`  (wait a bit)`
-`  OK.`
-`  > (you wait for 2 mins and remain hidden for 2 mins)`
-`  > say hello`
-`  > (Everyone in the room now knows where you are hidden)`
+```
+  > hide carefully
+  (wait a bit)
+  OK.
+  > (you wait for 2 mins and remain hidden for 2 mins)
+  > say hello
+  > (Everyone in the room now knows where you are hidden)
+```
 
 HIDE &lt;object&gt;
 

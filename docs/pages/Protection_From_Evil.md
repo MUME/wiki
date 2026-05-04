@@ -18,11 +18,12 @@ Class : Cleric Min. Mana : 20 Example: \> cast 'protection from evil'
 
 This spell can be learned from:
 
-`                            Sessions `
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              12`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               12`
-[`Minas Brethil Cleric Guild`](./Minas_Brethil_Cleric_Guild.md)`         2`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 12 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 12 |
+| [Minas Brethil Cleric Guild](./Minas_Brethil_Cleric_Guild.md) | 2 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 3 |
 
 See also: [Bless](./Bless.md), [Darkness](./Darkness.md),
 [Sanctuary](./Sanctuary.md), Strength

@@ -11,9 +11,11 @@ and can provide light for around 5 days when completely filled. It is
 worth around 75 copper and is sold by most general
 stores.
 
-`A brass lantern has been set on the ground.`
-`>`**`consider lantern`**
-`It is a hooded brass lantern.`
-`It weighs three pounds.`
+```
+A brass lantern has been set on the ground.
+>consider lantern
+It is a hooded brass lantern.
+It weighs three pounds.
+```
 
 <!--@include: ../includes/Items.md-->

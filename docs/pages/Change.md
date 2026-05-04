@@ -9,8 +9,10 @@ This is a general command to **change** one of your parameters.
 
 Use 'change &lt;parameter&gt;', where &lt;parameter&gt; is one of the following:
 
-`   ``ALERTNESS``      changes how much attention you pay to hidden people`
-`   ANSIFILTER     turns removal of special characters in whoises on and off`
+```
+   ``ALERTNESS``      changes how much attention you pay to hidden people
+   ANSIFILTER     turns removal of special characters in whoises on and off
+```
 `   `[`CHARSET`](./Charset.md)`        selects which character set your terminal supports`
 `   `[`CLASS`](./Change_Class.md)`          changes your class`
 `   `[`COLOUR`](./Colour.md)`         highlights certain text in color to make it more noticeable`

@@ -11,8 +11,10 @@ mob. He loads 1 [gold](./Gold.md),
 [rigid leather breastplate](./Rigid_leather_breastplate.md) and
 [sturdy soft leather trousers](./Sturdy_soft_leather_trousers.md).
 
-`The mean bandit leader Barbaras grins at you and draws his sword.`
-`> `**`look barbaras`**
-`He has an ugly scar across his cheek, and glaring madly at you he licks his`
-`lips, eager to let his blade taste your blood. He cackles and lets you know`
-`that you will provide him with his next loot.`
+```
+The mean bandit leader Barbaras grins at you and draws his sword.
+> look barbaras
+He has an ugly scar across his cheek, and glaring madly at you he licks his
+lips, eager to let his blade taste your blood. He cackles and lets you know
+that you will provide him with his next loot.
+```

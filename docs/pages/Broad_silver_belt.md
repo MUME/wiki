@@ -12,6 +12,8 @@ The **broad silver belt** is a [belt](./Belt.md) that increases
 `>`**`examine belt`**
 `It is a broad belt made from tiny silver rings woven together. `
 
-`>`**`consider belt`**
-`It is a broad silver belt.`
-`It weighs half a pound.`
+```
+>consider belt
+It is a broad silver belt.
+It weighs half a pound.
+```

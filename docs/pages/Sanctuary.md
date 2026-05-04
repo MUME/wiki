@@ -19,9 +19,11 @@ Level 18 Class : Cleric Min. Mana : 50 Example: \> cast 'sanctuary'
 
 This spell can be learned from:
 
-[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`               6`
-[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               25`
-[`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`            15`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Cleric Guild](./Forlond_Cleric_Guild.md) | 6 |
+| [Lórien Cleric Guild](./Lórien_Cleric_Guild.md) | 25 |
+| [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 15 |
 
 ## See also
 

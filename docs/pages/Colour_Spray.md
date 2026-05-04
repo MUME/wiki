@@ -16,10 +16,11 @@ cast 'colour spray' assassin
 
 This spell can be learned from:
 
-`                          Sessions `
-[`Forlond Mage Guild`](./Forlond_Mage_Guild.md)`              10`
-[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               10`
-[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`            16`
+| Guild | Sessions |
+|-------|--------|
+| [Forlond Mage Guild](./Forlond_Mage_Guild.md) | 10 |
+| [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 10 |
+| [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 16 |
 
 ## See also:
 
