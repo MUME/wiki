@@ -181,33 +181,51 @@ An incomplete list of the fauna indigenous to the area around Fornost
 
 ## Map
 
-\- East Fornost --
-_______________________________________________________
-\| \| _ \| \| \| \|Aband \| GUILD STREET \|_\| Garden Temple\| \|Bldg
-\| Well \| \| ______\|__ __\|__ _____
-____________ __ \|______\|______\|______
-\# \|House \| \| \| \| \| \| \| \| Gate by \| of \|Warr \|Writin \| \|
-City \| Post \|Bakery\| Palisade \|Merch \|Guild \| Room Library\|
-\|Councl\|Office\| \| \#__ __
-\|______\|______\|______\|______\| \|__
-__\|__ __\|__ __\| \| \| \| \| \| \| \|Guard \| \| The
-\|Travel\| \| \|House \| \| Pool \| Shop MARKET \| \|______\|__
-_________ \|_ _\|______\| SQUARE \| \| \| \| \|Therm.\|
-\| _ \| \|Poor \|Olly's K \| Bath \|Grocer\| \|_\| \| \|House
-\|Tavern\| I \|Entran\| Well \| \|______\|______\| N \|__
-__\|______\| _ ________ \| \| \| G \| \| \| \| \|Ranger
-' SHORT STREET \| Inn Dining\| \| \|Guild \| S \| Area \| \|
-\|______\| _____________
-\|______\|______\| \| \| \| R \| \| \| \| \| \| \|
-\|Fights\| O \|Market\| Shop \|Armour\|Weapon\| \| \| \| A \| \| \| \|
-\| \| \| ______\|_ _\| D \|__ __\|______\| \|__
-__\|__ __\| \| \| \| \| \| \| \| Pond Park Animal Stable\|
-CRAFTSMAN'S ALLEY \| \| Court \| \| \| \| _\|_ _\| __
-__\|______\|___________________________\|
-\| \| \| \| \| \| \| \| \| \| Park Park \|Exer. \| Entr. Corridor Comm.
-\| \| \| Yard Hall \|Office\|
-\|______________#Gate#\|______\|______\|______\|______\|______\|
-\|\| _\|\|_ \\ / Road to Bree. \\ -- The map was made by Ticar of
-Norbury, Sorcerer of Arthedain --
+```
+            ------      The City of Fornost
+           |      |                              --------------------
+           |      |                             |    Arnor Lane      |
+     ------        -------                      |                    |
+    |     Garden Road     | The map was made by |     ---   ---      |
+    |                     | Ticar of Norbury,   |    |  Arnor  |     |
+    |       |      |      | Sorcerer of         |    |  Park   |     |
+    |  A    |      |      | Arthedain           |    |         |     |
+-----  R     ------       |                     |    |         |     |
+       A W         |      |                     |    |          -----
+       S A         |      |                     |    |
+----   S Y   ------|      |---------------------/    \--------------
+    |  U    |      |                               _  |      |      |
+    |  I    |Aband |       GUILD  STREET          |_| Garden  Temple|
+    |  L'   |Bldg  |                             Well        |      |
+    |  S    |__  __|__  _____  ____________  __       |______|______|______
+    #             |House |      |      |      |      |      |      |      |
+    Gate by       | of   |Warr  |Writin       |      | City | Post |Bakery|
+    Palisade      |Merch |Guild | Room Library|      |Councl|Office|      |
+    #__  __       |______|______|______|______|      |__  __|__  __|__  __|
+    |      |                    |      |      |                           |
+    |Guard |                    | The  |Travel|                           |
+    |House |                    | Pool | Shop             MARKET          |
+    |______|__  _________       |_    _|______|           SQUARE          |
+           |      |      |      |Therm.|      |                  _        |
+           |Poor  |Olly's    K  | Bath |Grocer|                 |_|       |
+           |House |Tavern|   I  |Entran|                       Well       |
+           |______|______|   N  |__  __|______|       _    ________       |
+                  |      |   G                       |      |      |      |
+                  |Ranger    '   SHORT STREET        | Inn   Dining|      |
+                  |Guild |   S                       |        Area |      |
+                  |______|       _____________       |______|______|      |
+                  |      |   R  |      |      |      |      |      |      |
+                  |Fights|   O  |Market| Shop        |Armour|Weapon|      |
+                  |      |   A  |      |      |      |      |      |      |
+            ______|_    _|   D  |__  __|______|      |__  __|__  __|      |
+           |             |             |      |                           |
+           | Pond   Park         Animal Stable|    CRAFTSMAN'S ALLEY      |
+           |                     Court |      |                           |
+           |     _|_    _|       __  __|______|___________________________|
+           |      |      |      |      |      |      |      |      |
+           | Park   Park        |Exer. | Entr.   Corridor    Comm. |
+           |                    | Yard   Hall               |Office|
+           |______________#Gate#|______|______|______|______|______|
+```
 
 <!--@include: ../includes/Place.md-->

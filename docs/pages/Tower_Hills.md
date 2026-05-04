@@ -16,22 +16,51 @@ granted [citizenship](./Citizen.md) for a location fitting their
 [elves](./Elf.md), [Fornost](./Fornost.md) for
 humans, etc).
 
-_________________
-____________________ / \\_____/ \\ / Farms
-Druid \| \| \| \| Ranger _ BLACK HILL +++_/ / \|_\| / \\ VILLAGE
-.++++' \| __/ \|V\| .++++++++ \| / + .++ Hunter \\ / + ++ \|_\| \|
-__/ ++++' Old / ___/ hills .++ \| Mine \| ___/ .+++ \| \| \\ /
-Valley .++ ______\| \|_/ fields \| \| .+ ___Canyon___ r \|
-\| ++ /\\ u \| \| THE BLUE WAGON++' \|\| i \| \| MOUNTAINS TRAIL n \| \|
-\<--- Way .+++++ forest / \| ++++. Station ++ fields / \| +++++. +++++'
-hills .^. \| \\ + ++++' \|0\| Pony- \| \| + Tower \| \| Breeder \\ \| +.
-_\|I\|_ \|_\| f \\ \| + Dry + o +++ \| \| WORN hills Gulch ++. +++ r
-+' \| \\ TRAIL ++++. +++' e / / + +++++' +++' s \| / + hills ++' t / \|
-+' FADED \| \| .+ TRAIL \| / + Plateau .+++ fields / / + +++ \| \| +
-+++++++. \| \| ========- +' Elven / \| ROAD TO THE GREY Camp \| / HAVENS
-=- \| \| \<-- ======- swamp \\ \| THE GREY -====- -=====- \| \\ HAVENS
--====- -======= ======= \| \| -====- THE SHIRE --\> / \\__ BREE ---\>
-/ \\ __________ / \\_____ ___/
-\\__________________/ \\________/
+```
+                       _________________        ____________________
+                      /                 \______/                    \
+                     /           Farms               Druid           |
+                     |                                               |
+                     |              Ranger  _  BLACK HILL       +++_/
+                     /               |_|   / \  VILLAGE    .++++'  |
+                  __/                      |V|     .++++++++       |
+                 /                          +    .++ Hunter        \
+                /                           +   ++    |_|           |
+             __/                            ++++'          Old      /
+         ___/         hills               .++    |         Mine    |
+     ___/                              .+++    | |                 \
+    /              Valley            .++ ______| |_/    fields      |
+   |                                .+    ___Canyon___           r  |
+   |                               ++                         /\ u  |
+   | THE BLUE               WAGON++'                          || i  |
+   | MOUNTAINS              TRAIL                                n  |
+   | <---        Way    .+++++               forest                /
+   | ++++.     Station ++                               fields    /
+   |     +++++.   +++++'        hills         .^.                 |
+    \      +  ++++'                           |0|   Pony-         |
+     |     +                            Tower | |   Breeder        \
+     |     +.                                _|I|_   |_|      f     \
+     |      +               Dry                +              o  +++ |
+     |    WORN    hills    Gulch               ++.        +++ r +'   |
+      \   TRAIL                                 ++++.  +++'   e      /
+      /     +                              +++++'   +++'      s     |
+     /      +                hills       ++'                  t    /
+    |      +'                         FADED                       |
+    |     .+                          TRAIL                        |
+   /      +               Plateau  .+++      fields              /
+  /       +                      +++                            |
+  |       +               +++++++.                              |
+  | ========-            +'           Elven                    /
+  |         ROAD TO THE GREY          Camp                     |
+  /             HAVENS    =-                                   |
+ |  <--                    ======-       swamp                  \
+ |  THE GREY                    -====-             -=====-       |
+  \  HAVENS                         -====-  -=======     ======= |  
+   |                                    -====-  THE SHIRE -->   /
+    \___                                        BREE --->      /
+        \                      __________                     /
+         \______           ___/          \___________________/
+                \_________/
+```
 
 <!--@include: ../includes/Place.md-->

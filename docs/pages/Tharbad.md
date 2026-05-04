@@ -68,29 +68,54 @@ surrender. Tharbad's justice system is known to show little lenience.
 
 ## Map
 
-North Gate \| \| +------------------------------------+
-+----------------- The \| Old Tower St Old Tower St Old \| W
-+--------------------------------+ +-----------+ +- Tower \| e \|
-+--------------+ \| \| \| \| \| s \| \| Bakery \| + \| + \| t \| \|
-+----+ + \| Grocery \| House \| \| \| \| \| \| \| + + + \| A +--------+
-Mail \| +--------+ Main \| Thirsty \| \| l \| \| Snake Alley St \|
-Rangers \| \| l +--------+ \| +-------+ +-+ \| Inn + \| \| e \| \| \| \|
-\| \| \| \| \| \| y \| Golden Thieves\| \| \| +- Stairs Docks ,\| Knife
-Bar Shop \| \| \| to lower \|. ~ (Reception) \| \| \| +- Tharbad ~ ' \|
-\| \| \| / \~~, \| \| \| \| \\ ~, \# - '~ \~~ \~~ ' \~~ ' \~~ ' \~~ '
-\~~ ' ~- \\ / -~ ' ~ '- \\ / -~ ~ ~- \# - ~ \# ~ ' ~ River Greyflood ~ '
-~ ' ~ Bridge ~ ' ~ Bridge ~ ' ~ \# ' ,~ \# '' \~~ ' \~~ ' \~~ ' \~~ '
-\~~ ' \~~ ' \~~ / \\ ' \~~ ' \~~ / \\ ' \~~ ~ ' \# ' \\ \| \| \| \| /
-West T H A R B A D \| \| Stables \| \| East Gate \| \| \| \| \| \| Gate
-(by Tiye Neithan and Axel) \| +--+ +----+ +- \| Black Moon St Armoury
-+---+ \| +-----------+ +- Guild Weapon Shop \| \| \| \| \| \| \| Main \|
-\| \| +------------+ +-----------------+ St \| \| \| \| Shadows St \| \|
-\| \| S +---------------------------+ +----+ \| \| \| h \| \| \| \| \|
-\| a \| \| +----------------+ +-- \| d \| \| Main Street Games \| o \|
-\| +------+ +-----+ +-- Inn \| w \| +-----+ \| \| \| \| \| \| \| s \| \|
-Home of \| \| \| M \| \| \| \| \| \| the Chief \| \| \| a \| Sharp \| S
-\| \| \| \| \| \| i \| knife \| t +--------+ +------------+ \| \| n \|
-alley \| Master Road \| \| \| \| \|
-+------------------------------------+ \| S \| \| \| \| t \| \| \|
-+-------------+ +-----+ \| \| Main Street \| \|
-+-----------------------+ \| \| South Gate <!--@include: ../includes/Place.md-->
+```
+North Gate
+                                         |      |
+    +------------------------------------+      +-----------------  The
+    |        Old Tower St                         Old Tower St      Old
+    | W +--------------------------------+      +-----------+   +- Tower
+    | e |        +--------------+        |      |           |   |
+    | s |        |              Bakery   |      +           |   +
+    | t |        |    +----+    +        |      Grocery     |    House
+    |   |        |    |    |    |        |      +           +   +
+    | A +--------+    Mail |    +--------+ Main |    Thirsty    |
+    | l               |    | Snake Alley    St  |    Rangers    |
+    | l +--------+    |    +-------+   +-+      |      Inn  +   |
+    | e |        |    |            |   | |      |           |   |
+    | y |        Golden           Thieves|      |           |   +- Stairs
+Docks  ,|       Knife Bar          Shop  |      |           |      to lower
+    |. ~         (Reception)             |      |           |   +- Tharbad
+     ~ '                                 |      |           |   |
+    / ~~,                                |      |           |   |         \
+~, # - '~ ~~ ~~ ' ~~ ' ~~ ' ~~ ' ~~ ' ~- \      / -~ ' ~ '- \   / -~ ~  ~- #  -
+~  # ~ '  ~  River Greyflood  ~ '  ~ '  ~ Bridge   ~ '  ~   Bridge ~  '  ~ # ' 
+,~ # '' ~~ ' ~~ ' ~~ ' ~~ ' ~~ ' ~~ ' ~~ /      \ ' ~~ ' ~~ /   \ ' ~~ ~ ' #  '
+    \                                    |      |           |   |         /
+  West        T H A R B A D              |      | Stables   |   |        East
+  Gate                                   |      |  |   |    |   |        Gate
+        (by Tiye Neithan and Axel)       |      +--+   +----+   +-
+                                         |      Black Moon St     Armoury
+                   +---+                 |      +-----------+   +-
+              Guild     Weapon Shop      |      |           |   |
+                   |   |                 | Main |           |   |
+      +------------+   +-----------------+  St  |           |   |
+      |          Shadows St                     |           |   |
+      | S +---------------------------+    +----+           |   |
+      | h |                           |    |                |   |
+      | a |                           |    +----------------+   +--
+      | d |                           |  Main Street               Games
+      | o |                           |    +------+   +-----+   +-- Inn
+      | w |        +-----+            |    |      |   |     |   |
+      | s |        |       Home of    |    |      | M |     |   |
+      |   |        |      the Chief   |    |      | a |     Sharp
+      | S |        |     |            |    |      | i |     knife
+      | t +--------+     +------------+    |      | n |     alley
+      |           Master Road              |      |   |     |   |
+      +------------------------------------+      | S |     |   |
+                                                  | t |     |   |
+                                    +-------------+   +-----+   |
+                                    | Main Street               |
+                                    |   +-----------------------+
+                                    |   |
+                                  South Gate
+``` <!--@include: ../includes/Place.md-->

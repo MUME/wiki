@@ -42,31 +42,42 @@ would not be able to return easily.
 
 ## Map
 
-\*\*\*\*\*\*\*\*\*\*\*\*\* ----------------------------------------
-\*\*\*\*\*\*\*\*\*\*\*\*\* \* 1st Floor \* \| Warrior \| Temple \|
-Angdil's\| Tailor \| \* Rivendell \* \*\*\*\*\*\*\*\*\*\*\*\*\* \| Guild
-\| \| Store \| Shop \| \*\*\*\*\*\*\*\*\*\*\*\*\* \|- -\|--- ---\|----
----\|--- ----\|--------- Stables \| Ranger \| Thief \| Clearing + \|
-Guild \| Courtyard Guild \| Vineyards + \|--- ---\| \|--------\| + +
-Entrance Fountain Guards \| + +++++++++++ \|Stairs\| Office \| Fields +
-\|---------\| \|--------\| + + \|Jeweller \|--- ---\|--- ---\|
-+++++++++++++++ + \|---------\|--- ---\| \| River \| + \| Grocer \|
-Baker \| House \| Misty Mountains \>\> + \|-------------------- --\|
-__\\
-/_______________________________________\[
-_______________________ \| \| \[Pier \| \| R
-I V E R B R U I N E N \[____ \| \| __/
-\\___________________________________________________________________ +
-Path to Valley v \*\*\*\*\*\*\*\*\*\*\*\*\*
-\|---------\|---------\|---------\|_______
-\*\*\*\*\*\*\*\*\*\*\*\*\* \* 2nd Floor \* \| Kitchen \| Private \|
-Council \| \| \* Rivendell \* \*\*\*\*\*\*\*\*\*\*\*\*\* \| \| Stair^ \|
-Chamber \| Patio \| \*\*\*\*\*\*\*\*\*\*\*\*\* \|--- ---\|---------\|---
----\|_______\| \| Dining \| Hall of \| Ante- \| \| Hall \| Fire
-\| Chamber \| \|----------\|--- ---\|--- ---\|--- ---\|---------\|
-Istari \| Grand Hallway Great \| Council \| Stairs^v Library \| ^
-\|----------\|--- ---\|--- ---\|--- ---\|---------\| \| Private \|
-Clerics \| Mages \| ^ Observatory \| Suites \| Guild \| Guild \|
-\|-----------------------------\|
+```
+*************   ----------------------------------------      *************
+* 1st Floor *   | Warrior | Temple |  Armour  | Weapon  |      * Rivendell *
+*************   |  Guild  |        |  Smith   | Smith   |      *************
+                |-       -|---  ---|----  ---|---  ----|---------
+       Stables  | Ranger  |                              Thief  |
+Clearing +      | Guild   |         Courtyard            Guild  | Vineyards
+    +           |---   ---|                            |--------|    +
+    +            Entrance            Fountain            Guards |    +
+    +++++++++++ |Stairs|                                 Office |  Fields
+    +           |---------|                            |--------|    +
+    +           |Jeweller          |---  ---|---  ---|  +++++++++++++++ 
+    +           |---------|---  ---|        | River  | 
+    +                     | Grocer | Baker  | House  |   Misty Mountains >>
+    +                     |--------------------    --| 
+__\   /_______________________________________[    ]_______________________
+   | |                                        [Pier]   
+   | |     R I V E R   B R U I N E N          [____]     
+   | |       
+__/   \____________________________________________________________________
+    +
+Path to Valley
+
+*************           |---------|---------|---------|_______  *************
+* 2nd Floor *           | Kitchen | Private | Council |       | * Rivendell *
+*************           |         |  Stair  | Chamber | Patio | *************
+                        |---   ---|---------|---   ---|_______| 
+                        | Dining  | Hall of |  Ante-  |
+                        |  Hall   |  Fire   | Chamber |
+             |----------|---   ---|---   ---|---   ---|---------|   Istari
+             |                   Grand Hallway           Great  |   Council
+             | Stairs                                   Library |
+             |----------|---   ---|---   ---|---   ---|---------|
+                        | Private | Clerics |  Mages  | 
+        Observatory     |  Suites |  Guild  |  Guild  | 
+                        |-----------------------------| 
+```
 
 <!--@include: ../includes/Place.md-->

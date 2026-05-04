@@ -23,30 +23,39 @@ West, never to return.
 
 ## Map
 
+```
 +-----------------------------------------------------------------------------+
-\| Legend: ) ~ \| \| A MAP OF THE SHIRE ) ) ) ~ \| \| /=+
-________ Dwaling \| \| =/ The East Road ) / ) ))) X ~ ~ ~ ~ \|
-\| -+- small paths and roads )) / HILLS OF ) ) ~ \| \| \~~ rivers __/
-) )SCARY )) ) ~ \| \|  or \\ bridges/fords / \\ ) )) ) ) ~ \| \| ))
-hills Brokenbores x----X-+ ) )) ~ \| \| (( downs RUSHOCK \\ Scary\| ) )
-RIVER \| \| X villages BOG / \| BRANDYWINE\| \| \*\* woodland ~%%% Over-
-\\ \| ~ \| \| 3 Three-Farthings % %%%\~~ X hill \\ THE Bridge- ~ \| \|
-Stone %__%% ~ ~ \| \| WATER \fields ~ \| \| ( \\_ ~\\~ ~Bywater ~ ~
-~//~ ~ ~ ~ boat\| \| (( Border \\ Hobbiton-X--X ~ ~\\~ ~ x\| ~ capt\|
-\|(( ( ( ( Road \\ //=+=3=====+==X=====+===+===+===\| \| (( (WHITE
-\\ =/ \| Frogmorton \| ~ / --\>\| \|(( FAR (( DOWNS \\ // \| / to Bree\|
-\| ((DOWNS ( (( Waymeet X==/ \| __Stock ~ X \* \| \|(( ( ( ( PLAINS
-/==/ \| / X ~ Newbury\| \|( Michel \| /====/ \\ \*\* \* \*/ ~/~ / \* \*
-\* \| \| to the Delving\| /===/ \|\* \*\* \*\* \* \*\* \*\* \*\* \*\* ~
-/ ~Bucklebury\| \|Grey Havens ( /===X===/ \|X\* \* X \* \*\*\*\* \*\*\*
-\*\* X ~ \| ~ X \* \* \*\* \*\| \| \<-- /====/ ((\| \| Tookbank
-Tuckborough Woodhall ~ \| ~ \| OLD \* \*\| \|==\\ /====/ ((\| \| / \*\*
-\*\* \* \*\* \*\*\* ~% %\| ~ \| FOREST \| \| \\+==/ ( \| \| PLAINS \*
-\*\*\*\* \* \*\*\* \*\*\* Rushey X ~ \| \* \*\* \* \| \| ( X ( Trail
-\*\*\* WOODY END \*\* ~ % % / ~ X \*\*\* \*\* \| \|( ( Greenholm to Sarn
-\* \* \* Forest \*\* \* THE / ~ / Standelf \| \| ( ( ( Ford\\ \* \* \*\*
-\* \* \* MARISH ~ \*\* \* \* \| \|( (( ( (( \\ \* \*\* \*\* \* %% %% % ~
-\* \*\* \* \|
+|  Legend:                                                    )          ~    |
+|                              A MAP OF THE SHIRE       ) )       )       ~   |
+|     /=+                                                  ________  Dwaling  |
+|    =/     The East Road                               ) / ) )))  X ~ ~ ~ ~  |
+|    -+-    small paths and roads                    ))  / HILLS OF ) )    ~  |
+|     ~~    rivers                                    __/ ) )SCARY )) )   ~   |
+|  ]] or \\ bridges/fords                            /  \ ) )) ) )       ~    |
+|     ))    hills                            Brokenbores x----X-+  ) ))  ~    |
+|     ((    downs               RUSHOCK              \     Scary| ) )  RIVER  |
+|      X    villages              BOG                /          |   BRANDYWINE|
+|     **    woodland                ~%%%      Over-  \          |        ~    |
+|      3    Three-Farthings       % %%%~~    X hill   \    THE  Bridge-  ~    |
+|           Stone                  %__%% ~ ~ |        |   WATER  \fields ~    |
+|    (                                \__   ~\\~ ~Bywater  ~ ~ ~//~ ~ ~ ~ boat|
+| ((                       Border \  Hobbiton-X--X ~ ~\\~ ~    x|      ~  capt|
+|(( (  (         (            Road \        //=+=3=====+==X=====+===+=]]==+===|
+| ((            (WHITE              \_     =/    |       Frogmorton |  ~ / -->|
+|((  FAR      (( DOWNS                \   //     |                  /  to Bree|
+| ((DOWNS      ( ((            Waymeet X==/      |           __Stock ~ X  *   |
+|((  (          (  (     PLAINS    /==/          |          /     X ~  Newbury|
+|(             Michel |       /====/  \    **       *     */     ~/~  / * * * |
+|  to the      Delving|   /===/       |* ** ** * ** ** ** **   ~ / ~Bucklebury|
+|Grey Havens    ( /===X===/           |X* * X * **** *** ** X ~ | ~ X * * ** *|
+|   <--      /====/ ((|   |    Tookbank Tuckborough Woodhall ~  | ~ |  OLD * *|
+|==\    /====/      ((|   |          /       ** ** * ** *** ~% %| ~ | FOREST  |
+|  \=+==/         (   |   |  PLAINS     * **** * *** *** Rushey X ~ |  * ** * |
+| (  X          (  Trail              ***  WOODY END  ** ~ % % /  ~ X *** **  |
+|( ( Greenholm    to Sarn              * * * Forest ** *  THE /  ~ / Standelf |
+| (    (        (  Ford\                 *  * ** * * *  MARISH   ~   ** * *   |
+|( (( (          ((     \                 *  ** ** *   %% %% %  ~   * ** *    |
 +-----------------------------------------------------------------------------+
+```
 
 <!--@include: ../includes/Place.md-->

@@ -122,35 +122,45 @@ Cirdan the Shipwright,                            
 
 2\. Forlond
 
-Forlond's North Gate \###### _______ ___________\|
-\|_____________ \| Grand \| \| Outdoor Post Office \|
-\|Library\| \| Meeting _____________\| \|_
-\|________ \| Grounds \| _______ \| Osse's \|
-______ __\| \| \|Fishnet\| \| S Temple \| \|Sandy \| \| \| \|
-Inn \| \| a ________\| \|Beach \| \| \|____\| \|____\| l
-\|____________\| \| \| Shaded lane L Fountain Court m Elm
-Garden \| \| _______ h _________________ o r
-________ \| \| \| \| u \| \| n o \| \| Sparkling\| \| \|
-______\| n \|_________________\| a
-\|_______ \| \| \| \|\|Tailor's Gildor's r d Small \|\| Pond \|
-\| \|\|Shop Weapon and Armour u Barracks\|\| \| ______
-\|______\|\|______ _________________ n
-________\|\|______ \| \| \| \| \| \| \| \| \| \| Marsh\|
-_________\| S \|_________________\|
-\|_______ \| \| \| \| \|Guild of t General Fish Jewel \|
-______\| \|__\| \| \|the Arcane r Store Market Store \| \| \|
-\|__________ e _________________ __ \| \|
-Sandy Swampy \| __________\| e \|_______
-________\| \|__\| \|_\| Shore Shoreline \| \| Garrison t \|\|
-Fishing \|""""""""""""""""" \|__________ Stables\|\| Yard Ship
-Ferry \| . . . . ________\| _______\|\|_________
-Dock Dock \| . . \|Fishermen's \|__________________\|
-___________/ \|Supply Grand Textile Fish \| . . . . . \|Shop
-__ Quay Quay Quay \| ___\| \| \|
-_____________________/ . . . . . . \| \|__\| \|
-_____\|\|____ \| Shipyard \| _/FishingBoat\| \|_
-___________/ \\__________\| . . . \| / \| \| . . .
-. . . / \\ . . . . . . \|Light-\| THE GULF OF LHUN \|House \| . . . . .
-. . \|______\| . . . . . .
+```
+         Forlond's North Gate
+               ######                 _______
+    ___________|    |_____________   | Grand |
+   | Outdoor          Post Office |  |Library|
+   | Meeting         _____________|  |_      |________
+   | Grounds        |     _______     |       Ossë's  |    ______
+ __|                |    |Fishnet|    | S      Temple |   |Sandy |
+|                   |    |  Inn  |    | a     ________|   |Beach |
+|                   |____|       |____| l    |____________|      |
+|  Shaded lane    L    Fountain Court   m     Elm Garden         |
+|       _______   h  _________________  o  r  ________           |
+|      |       |  u |                 | n  o |        | Sparkling|
+|      | ______|  n |_________________|    a |_______ |          |
+|      ||Tailor's         Gildor's      r  d   Small ||   Pond   |
+|      ||Shop         Weapon and Armour u    Barracks||          |   ______
+|______||______      _________________  n    ________||______    |  |      |
+               |    |                 |     |                |   |  | Marsh|
+      _________|  S |_________________|     |_______         |   |  |      |
+     |Guild of    t      General       Fish   Jewel |  ______|   |__|      |
+     |the Arcane  r       Store       Market  Store | |                    |
+     |__________  e  _________________       __     | | Sandy      Swampy  |
+     __________|  e |_______  ________|     |__|    |_| Shore    Shoreline |
+    | Garrison    t         || Fishing                   |"""""""""""""""""
+    |__________      Stables||  Yard        Ship  Ferry  |      . .  .    .
+       ________|     _______||_________     Dock  Dock   |  .    .
+      |Fishermen's  |__________________|     ___________/
+      |Supply       Grand    Textile  Fish  |    .     .      .    .     .
+      |Shop   __    Quay     Quay     Quay  |
+   ___|      |  |     _____________________/ .       .   . . .       .
+  |          |__|    |              _____||____
+  |       Shipyard   |            _/FishingBoat|
+  |_     ___________/              \___________|      .       .         .
+   |   /
+   |  |        .             .         .         .        .       .
+  /    \.  .       .            .                      .       .       .
+ |Light-|                     THE  GULF  OF  LHUN
+ |House | .         .       .          .      .          .       .
+ |______|       .        .          .          .              .        .
+```
 
 <!--@include: ../includes/Place.md-->

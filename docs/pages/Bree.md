@@ -54,21 +54,43 @@ merely needs to '[call](./Call.md)'.
 
 ## Map
 
-\## \\ -------- \##\| Mayor+Warrior Prancing / Bree / \# \| Office
-Training Pony Inn ------- Watchtower \` \` \` \## \| _/ \` \` \` \# \|
-\| / \\ \` \` Bree Hill \` \# \| \| _______________/ \\
-\` \` \` \` \## \| \| / Stables \` \` \` \` \# \| \| _/ Main Street _
-\\__ \` \` \#___/ \\/ _____ _____/ \\ _
-__________ West _/ \\ / / M ___ __// \| Gate / \| \|
-Bazaar a \| \\ ___/ / Bree Park \| \#___ ___/ \| \| \\ i \|
-\\_ \| \| \| \# \\ / \| Bakery \| n Council \\ \\
-\\_______________ \## Coach \| \| \| Chamber \\ \\ \### O
-O _____/ / \| S \\____ \\ \\ \##Graveyard/ _____/ \\ t. \\
-\\ \\__Armourer_ \#### O O / / \\ Old \\ Weapon- \####
-\|_____Freebooters\\__ House\\ _ /smith \#####______ \\
-Society \\ _/ \|Herb-/ \Pet/ \###### \\ Games \| \| alist Shop
-\######Inn \| \| \########### \| \| \###### \############### Hedge+Dike
-South Gate \#################### Drawn by Ticar of Norbury, Sorcerer of
-Arthedain, the Third Age of the Sun
+```
+    #####GREAT##HEDGE## | S  |      ||      | S  |     |&
+   #######OF##BREE##### | U  |______||______| U  |_____|&&&&&&&&&&&&&
+  ##____________ ______ | B  |      || Hob  | B  |     |             \&&
+  ##     |Chief| |Mayor||    |Home  ||  hole|    |Home |         Bree \&&
+  ##Jail ,_   _| |_   _||    |__,,__||__,,__|    |__,,_|        \  Saw \~~&
+ ##______|     | |Secr.||                   |                    \________\&
+ ##Warr  |_   _| |_   _|| H   Bree hills    ^\                   | Tanner &
+ ##Guild |              | I  |______  Play- ^^|__   __    M         shop &&
+ ##       Train    Park   L  ,      \  ground \       |   I             &&
+ ##Quart   ground         L  |Burrow|         |       |   L      |______&&
+ ##mast.                |    |   ___|_________|  Pet  |   L     /       &&
+ ##   ''''''''''''''''''| R  |   |       \     \  shop|         |Ranger &&
+ #   _------\ Garden      O  |   |  Common|Inn |__  __|   R     | guild &&
+#   | | Mage \  .-----.   A  |___|_  room |Room|      |   O    /_       &&
+#   |_\ Tower \/ Tent  \| D  |     |     /     |Stable|   A             &&
+###////////////\_______/|    |Game |Bar    PPI |      |   D              &&
+###|-------| ////_____//|    |_____|_____|__  _|_   __|       |  Hunter  &&
+###| Harry |   / Home | |                 SPPI                |___________&&
+###|__,,___|  /__,,___| |  Old East Road               C       |Hobbit| & &&
+  % West                           ___,,__      ______  O      \  Hole| & &&
+  %  gate   OER    _____     |     |     |  O        |   B      |__,,_| & &&
+###''''''''''''''''     | M  |     |Home |  L   Bazar| ^  B             & &
+###creek  /      \|Home , A  |_   _|_____|  D   _____| ^^  LE ST        & &
+###======|  Pond ||_____| S  |Quest|            Herb | ^^^^       PARK  & &
+###_____ \______|______| O  |rang |Baker   E    shop| ^^^^&&&&&&&&&&&&&&&&
+ ##Poor \         |Build| N  |_____|_____   A   _____| ^^&& Guard|Bree  &&
+ ##house|  Fisher |offic,           Shady   S    Rope| ^^&& Stat. Tower &&
+ ##__,,_|__   hut_|_____| R   _____ dealer  T   Carvr| ^^&&___         &&
+ ##                       O  ,Thief|------     ----------,&&&&|      &&&
+ ##__,,______   _     D A    |guild|Fletchr  R O A D            East %
+ ##      \#|Seer |     ___,, \_____|------.    __     ______    Gate %
+  # Ceme |#| of  |    |     \|       Smith     Armour| Ferny|        &&
+  # tary __, Bree|    |Clint||        shop      shop/  House|   Park &
+  ##     |# \____| S  |_____/\______________________|_______|&&&&&&&&
+  ######### /    | U  |     \                  &&&&&&&&&&&&&&&
+     #######|    | B  |     |############&&&&&&&
+```
 
 <!--@include: ../includes/Place.md-->
