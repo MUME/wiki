@@ -1,4 +1,4 @@
----**Special spells:** Create Focus, Corrupt
+---
 title: Spell list
 description: 'Level    Magic User spells:            Cleric spells:'
 ---
