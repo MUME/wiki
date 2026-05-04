@@ -34,9 +34,14 @@ features:
     linkText: Browse Equipment
   - icon: 🗺️
     title: Lore & Map
-    details: Explore a 1:1 recreation of Eriador. Learn the history of the Third Age and master the art of wilderness travel.
+    details: Explore a 1:1 recreation of Eriador. Discover factions, locations, and the geography of Middle-earth from the Shire to Mirkwood.
     link: /lore
     linkText: Explore the World
+  - icon: 📖
+    title: History
+    details: From a 1991 DikuMUD experiment at EPFL to one of the longest-running online games ever made. Learn how MUME was built and evolved over three decades.
+    link: /history
+    linkText: Read the History
   - icon: 🏷️
     title: Full Index
     details: Looking for something specific? Our comprehensive tag index covers every herb, quest, and guildmaster.
