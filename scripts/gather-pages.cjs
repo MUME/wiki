@@ -25,8 +25,8 @@ for (const p of allPages) {
 
     const titleLower = p.title.toLowerCase();
     const nameLower = p.name.toLowerCase();
-    if (titleLower.length > 3) termMap[titleLower] = p.url;
-    if (nameLower.length > 3 && nameLower !== titleLower) termMap[nameLower] = p.url;
+    if (titleLower.length >= 2) termMap[titleLower] = p.url;
+    if (nameLower.length >= 2 && nameLower !== titleLower) termMap[nameLower] = p.url;
 
     for (const alias of p.aliases) {
         const aliasLower = alias.toLowerCase();

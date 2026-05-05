@@ -5,6 +5,7 @@ docs/.vitepress/.temp/
 .DS_Store
 assets/.DS_Store
 docs/public/pages-meta.json
+docs/.vitepress/pages-meta.json
 docs_dev.log
 docs/includes/all_pages.txt
 all_pages.txt
