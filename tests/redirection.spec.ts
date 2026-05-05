@@ -29,6 +29,12 @@ test('redirection for short title', async ({ page }) => {
   expect(page.url()).toContain('/wiki/pages/Map');
 });
 
+test('redirection from legacy short URL (index.php/Page)', async ({ page }) => {
+  await page.goto('http://localhost:3000/wiki/index.php/Skill');
+  await page.waitForURL('**/wiki/pages/Skill');
+  expect(page.url()).toContain('/wiki/pages/Skill');
+});
+
 test('no redirection for non-existent title', async ({ page }) => {
   await page.goto('http://localhost:3000/wiki/index.php?title=NonExistentPage123');
   // It should stay on the 404 page (which might have index.php in the URL if it didn't redirect)

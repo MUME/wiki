@@ -139,8 +139,17 @@ onMounted(async () => {
     url = new URL(window.location.href)
   }
 
-  // Handle MediaWiki legacy links: index.php?title=Page_Name#Fragment
-  const legacyTitle = url?.searchParams.get('title')
+  // Handle MediaWiki legacy links:
+  // 1. index.php?title=Page_Name#Fragment
+  // 2. index.php/Page_Name#Fragment
+  let legacyTitle = url?.searchParams.get('title')
+  if (!legacyTitle && url?.pathname.includes('index.php/')) {
+    const parts = url.pathname.split('index.php/')
+    if (parts.length > 1) {
+      legacyTitle = parts[1]
+    }
+  }
+
   const fragment = url?.hash.slice(1)
 
   if (legacyTitle) {
