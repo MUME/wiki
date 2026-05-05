@@ -17,9 +17,6 @@ levels.
 
 ## See also
 
-- Charge, Cleaving,
-  Concussion, Missile,
-  Piercing, Slashing,
-  Stabbing
+- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md)
 
 <!--@include: ../includes/Skills.md-->

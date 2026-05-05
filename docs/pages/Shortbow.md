@@ -4,7 +4,7 @@ description: 'The shortbow is a missile weapon. It is'
 tags:
   - Missile weapons
 ---
-The **shortbow** is a [missile weapon](./Missile_weapon.md). It is
+The **shortbow** is a [missile weapon](./Ranged_weapon.md). It is
 worth around 10 silver and is sold by most
 weaponsmiths.
 

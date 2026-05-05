@@ -55,7 +55,7 @@ Backstab does not work well until you have it at very high skill levels,
 so don't bother practising it until you're ready to put the maximum
 number of practices into it. It's probably not worth using until you're
 at least level 18(?) or so. [Missile
-weapons](./Missile_weapon.md) are a better option until then.
+weapons](./Ranged_weapon.md) are a better option until then.
 
 #### Shoot/flee
 

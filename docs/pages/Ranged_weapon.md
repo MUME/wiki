@@ -1,9 +1,10 @@
 ---
-title: Missile weapon
-description: 'Missile weapons are one of the'
+title: Ranged weapon
+description: 'Ranged weapons (missile weapons) are one of the types in MUME. Includes bows, crossbows, and slings.'
+aliases: ["Missile weapon"]
 ---
 
-**Missile weapons** are one of the
+**Ranged weapons** (also known as [missile weapons](./Missile_weapons.md)) are one of the
 [weapon](./Weapon.md) types found in [MUME](./MUME.md). Many
 missile weapons inflict considerable amounts of damage, while requiring
 little strength to wield. Thus these weapons are

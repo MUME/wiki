@@ -4,7 +4,7 @@ description: 'The yew longbow is a missile weapon. It'
 tags:
   - Missile weapons
 ---
-The **yew longbow** is a [missile weapon](./Missile_weapon.md). It
+The **yew longbow** is a [missile weapon](./Ranged_weapon.md). It
 is worth around 9 [gold](./Gold.md) and 19 silver, and is sold by
 most weaponsmiths. A yew longbow is also awarded for completing the
 [trapper's quest](./Quest#The_Hunt.md).

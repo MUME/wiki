@@ -17,7 +17,7 @@ tags:
 
 ## Affinity
 
-[Silvan](./Elf.md) Elves are able to parry enemy blows slightly better than other races when wielding [ranged weapons](./Missile_weapon.md).
+[Silvan](./Elf.md) Elves are able to parry enemy blows slightly better than other races when wielding [ranged weapons](./Ranged_weapon.md).
 
 See also: [Dodge](./Dodge.md), [Warrior](./Warrior.md)
 

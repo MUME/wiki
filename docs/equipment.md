@@ -44,13 +44,13 @@ Full identified stats and mechanics: [**Weapon List**](./pages/Weapon.md)
 
 | Type | Examples |
 |------|---------|
-| [**Cleaving**](./pages/Cleaving_weapons.md) | Axes, hatchets |
-| [**Slashing**](./pages/Slashing_weapons.md) | Swords, blades |
-| [**Piercing**](./pages/Piercing_weapons.md) | Daggers, shortswords |
-| [**Stabbing**](./pages/Stabbing_weapons.md) | Spears, pikes |
-| [**Smiting**](./pages/Smiting_weapons.md) | Two-handed weapons |
-| [**Concussion**](./pages/Concussion_weapons.md) | Maces, warhammers |
-| [**Ranged**](./pages/Ranged_weapons.md) | Bows, arrows, crossbows |
+| [**Cleaving**](./pages/Cleaving_weapon.md) | Axes, hatchets |
+| [**Slashing**](./pages/Slashing_weapon.md) | Swords, blades |
+| [**Piercing**](./pages/Piercing_weapon.md) | Daggers, shortswords |
+| [**Stabbing**](./pages/Stabbing_weapon.md) | Spears, pikes |
+| [**Smiting**](./pages/Two-handed_weapon.md) | Two-handed weapons |
+| [**Concussion**](./pages/Concussion_weapon.md) | Maces, warhammers |
+| [**Ranged**](./pages/Ranged_weapon.md) | Bows, arrows, crossbows |
 
 ## Items & Consumables
 

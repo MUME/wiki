@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 **Shoot** is the [command](./Command.md) used to fire a [missile
-weapon](./Missile_weapon.md). If you are
+weapon](./Ranged_weapon.md). If you are
 [fighting](./Combat.md) someone already, you can fire an arrow by
 typing just 'shoot', if you are not already engaged, you can start or
 join a fight by typing 'shoot &lt;victim&gt;'.
