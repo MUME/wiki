@@ -1,6 +1,7 @@
 ---
 title: Two-handed weapon
-description: 'Two-handed weapons in MUME include greatswords, spears, hammers, and staves requiring high strength. High damage but slow attack speed; cannot be wielded with more than a buckler.'
+description: 'Two-handed weapons (smiting weapons) in MUME include greatswords, spears, hammers, and staves requiring high strength. High damage but slow attack speed; cannot be wielded with more than a buckler.'
+aliases: ["Smiting weapon"]
 ---
 
 **[Two-handed weapons](./Two-handed_weapons.md)** are one of the
