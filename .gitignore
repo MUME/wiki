@@ -8,6 +8,7 @@ docs/public/pages-meta.json
 docs/.vitepress/pages-meta.json
 docs_dev.log
 docs/includes/all_pages.txt
+test-results/
 all_pages.txt
 all_md_files.txt
 *.log
