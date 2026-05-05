@@ -21,7 +21,7 @@ Dev server with live reload:
 docker compose up dev
 ```
 
-The site will be available at [http://localhost:5174](http://localhost:5174).
+The site will be available at [http://localhost:5174/wiki/](http://localhost:5174/wiki/).
 
 Production build (mirrors CI exactly):
 
@@ -29,7 +29,7 @@ Production build (mirrors CI exactly):
 docker compose up --build wiki
 ```
 
-The site will be available at [http://localhost:4173](http://localhost:4173).
+The site will be available at [http://localhost:4173/wiki/](http://localhost:4173/wiki/).
 
 #### Updating dependencies
 

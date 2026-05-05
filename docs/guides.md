@@ -14,25 +14,24 @@ description: Player guides and tutorials for MUME — from newbie basics to adva
 
 If you are new to MUME, we recommend following these guides in order:
 
-1. [**Newbie Guide**](./pages/Newbie_Guide_Leveling_1_to_12.md) — The absolute starting point.
-2. [**Character Creation & Stats**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md) — Choosing your base abilities.
-3. [**Accessing Information**](./pages/Newbie_Guide_Accessing_Game_Information.md) — How to use `help`, `info`, and more.
-4. [**Movement & Exploring**](./pages/Newbie_Guide_Doors,_Exits,_and_Exploring.md) — Navigating Middle-earth.
+1. [**Character Creation & Stats**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md) — Choosing your base abilities.
+2. [**Accessing Information**](./pages/Newbie_Guide_Accessing_Game_Information.md) — How to use `help`, `info`, and more.
+3. [**Movement & Exploring**](./pages/Newbie_Guide_Doors,_Exits,_and_Exploring.md) — Navigating Middle-earth.
+4. [**Cooking & Campfires**](./pages/Newbie_Guide_Campfires_and_Cooking.md) — Basic survival.
 5. [**Light & Vision**](./pages/Newbie_Guide_Light_Sources_and_Seeing.md) — Staying out of the dark.
-6. [**Cities & Settlements**](./pages/Newbie_Guide_Cities_and_Settlements.md) — Finding safety and services.
-7. [**NPCs & Mobs**](./pages/Newbie_Guide_NPCs_and_Mobs.md) — Interacting with the world.
-8. [**Guilds & Practicing**](./pages/Newbie_Guide_Guilds_and_Practicing.md) — Training your character.
-9. [**Combat Basics**](./pages/Combat.md)
-10. [**Magic & Spells**](./pages/Newbie_Guide_Casting_and_Spells.md) — For aspiring casters.
-11. [**Missile Weapons**](./pages/Newbie_Guide_to_Missile_Weapons.md) — Archery and ranged combat.
-12. [**Making Gold**](./pages/Newbie_Guide_Making_Gold.md) — Funding your adventures.
-13. [**Travel Points**](./pages/Newbie_Guide_Travel_Points.md) — Exploration as progression.
-14. [**Mounts & Pets**](./pages/Newbie_Guide_Mounts,_Riding,_and_Pets.md) — Riding and companions.
-15. [**Cooking & Campfires**](./pages/Newbie_Guide_Campfires_and_Cooking.md) — Basic survival.
-16. [**Healing & Herblores**](./pages/Newbie_Guide_Herblores.md) — Staying alive.
-17. [**Death**](./pages/Death.md) — What happens when you fall.
-18. [**Leveling 1 to 12**](./pages/Newbie_Guide_Leveling_1_to_12.md) — Your first steps to power.
-19. [**Welcome to Level 21**](./pages/New_Hero_Guide_(Welcome_to_level_21).md) — Transitioning to the end-game.
+6. [**NPCs & Mobs**](./pages/Newbie_Guide_NPCs_and_Mobs.md) — Interacting with the world.
+7. [**Combat Basics**](./pages/Combat.md)
+8. [**Healing & Herblores**](./pages/Newbie_Guide_Herblores.md) — Staying alive.
+9. [**Making Gold**](./pages/Newbie_Guide_Making_Gold.md) — Funding your adventures.
+10. [**Guilds & Practicing**](./pages/Newbie_Guide_Guilds_and_Practicing.md) — Training your character.
+11. [**Travel Points**](./pages/Newbie_Guide_Travel_Points.md) — Exploration as progression.
+12. [**Missile Weapons**](./pages/Newbie_Guide_to_Missile_Weapons.md) — Archery and ranged combat.
+13. [**Mounts & Pets**](./pages/Newbie_Guide_Mounts,_Riding,_and_Pets.md) — Riding and companions.
+14. [**Cities & Settlements**](./pages/Newbie_Guide_Cities_and_Settlements.md) — Finding safety and services.
+15. [**Magic & Spells**](./pages/Newbie_Guide_Casting_and_Spells.md) — For aspiring casters.
+16. [**Death**](./pages/Death.md) — What happens when you fall.
+17. [**Leveling 1 to 12**](./pages/Newbie_Guide_Leveling_1_to_12.md) — Your first steps to power.
+18. [**Welcome to Level 21**](./pages/New_Hero_Guide_(Welcome_to_level_21).md) — Transitioning to the end-game.
 
 ## Class & Race Guides
 

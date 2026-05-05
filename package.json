@@ -7,8 +7,7 @@
     "prebuild": "node scripts/gather-pages.cjs && node scripts/check-stubs.cjs",
     "docs:dev": "npm run prebuild && vitepress dev docs",
     "docs:build": "npm run prebuild && vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "migrate": "node scripts/fix-pages.js"
+    "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
     "@playwright/test": "^1.59.1",

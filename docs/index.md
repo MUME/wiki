@@ -23,10 +23,10 @@ features:
     link: /classes
     linkText: Build Your Character
   - icon: 📜
-    title: Newbie Guides
-    details: Follow our 19-step tutorial series to go from a fresh arrival in Bree to a seasoned adventurer in Middle-earth.
+    title: Player Guides
+    details: From our newbie tutorial series to advanced class strategies, find everything you need to master MUME.
     link: /guides
-    linkText: Start Learning
+    linkText: Browse Guides
   - icon: 🗡️
     title: Equipment & Items
     details: Discover the best gear for your build, from Orc-slaying blades to protective Elven mail.

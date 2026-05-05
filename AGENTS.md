@@ -1,14 +1,14 @@
 # MUME Wiki — Agent & Editor Guide
 
-This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https://wiki.mume.org.
+This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https://docs.mume.org/wiki/.
 
 ## Quick start (local dev)
 
 Use Docker — do not run `npm install` directly.
 
 ```bash
-docker compose up dev        # dev server at http://localhost:5174 (hot reload)
-docker compose up --build wiki   # production build at http://localhost:4173
+docker compose up dev        # dev server at http://localhost:5174/wiki/ (hot reload)
+docker compose up --build wiki   # production build at http://localhost:4173/wiki/
 ```
 
 To update packages:
@@ -116,14 +116,6 @@ Key facts for agents:
 - Images live in `docs/public/img/` and are referenced as `/img/filename`
 - Dev server: `docker compose up dev` (port 5174)
 - Build command: `docker compose up --build wiki` (port 4173); or `npm run docs:build` inside the container
-- No test suite — verify with `npm run docs:build` (must exit 0)
+- Basic E2E verification is done via Playwright (if configured) or by running a production build and inspecting the result.
 - `ignoreDeadLinks: false` in VitePress config — dead links cause the build to fail; fix them, don't disable the check
 - CI environment: Node 22, `git` required (VitePress uses it for last-modified dates); use `Dockerfile`/`docker-compose.yml` to replicate locally
-
-## Running the migration script
-
-The migration script (`scripts/fix-pages.js`) converts `_pages/` → `docs/pages/` and `assets/img/` → `docs/public/img/`. It is kept for reference but should not need to be run again unless re-importing from MediaWiki.
-
-```bash
-npm run migrate
-```
