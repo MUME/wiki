@@ -20,26 +20,31 @@ being the town of Ingrove.
 - [Ingrove Scout Guild](./Ingrove_Scout_Guild.md)
 - [Ingrove Warrior Guild](./Ingrove_Warrior_Guild.md)
 
-The Village of Ingrove _/ ______ : H : _____\\_ as drawn by
-_/ / Cosy \\ O : / The \\ \\__ Clegane the Swiftpaw __/ \| Home M
-Hag's \| \\___ __________/ \\_____/: E :\| House \|
-\~\~\~\~~\\__ __/__ _______ ___________ : S :
-\\____/_____ \~\~~ The ~\\_ / \\ \| The \|\| The \| : T : /
-Home of a \|~ Training ~\\ \| Watch \|\|Smith's\|\|Chieftain's\| : E :\|
-Hardened \~\~~ Yard \~\~\~~\\ \| Tower \|\| House \|\| House \| : A
-Warrior \|\~\~\~\~\~\~\~\~\~\~\~\~\~~\\ \| \\ __/ \|___
-__\|\|__ _______\| : D : \\__________\|
-____________ \\ \|--- -------- ------ ---------'
-\`---------------\| \| \| THE \[ BEAR'S Watering Large \| \| GATES\[ WAY
-Hole \| House \| \| \|------------ ------------------,
-.--------\|____________\| \| \\ __
-_______________ : Shady : ______ / \\ \| \| \| : R
-Park \`-----------\| \| / \\ \| Supply The \| : O Stable\| / \\ \| Shop
-\| Baker's A .-----------------\|______\|/ \\ \| \| Kitchen \| : D
-: _/ \\ \|_________\|_________\|_ : : ______
-__/ \\___ \| \|: :/ \\ __/ \\ \|Traveller's \|: Simple \| _/
-\\\| Hut :\| Abode \| __/
-\\___________\|________\\_____/_/
+```
+The Village of Ingrove     _/  ______ :  H  :  _____\__
+as drawn by              _/   / Cosy \:  O  : / The \  \___
+Clegane the Swiftpaw  __/    |  Home     M     Hag's |     \____
+           __________/        \______/:  E  :| House |     ~~~~~\___
+        __/__   _______  ___________  :  S  : \_____/_____ ~~~ The ~\__
+       /     \ |  The  ||    The    | :  T  : / Home of a |~ Training ~\    
+      | Watch ||Smith's||Chieftain's| :  E  :|  Hardened   ~~~ Yard ~~~~\
+      | Tower || House ||   House   | :  A      Warrior   |~~~~~~~~~~~~~~\
+     | \_  __/ |___  __||__  _______| :  D  : \___________|  ____________ \
+     |---  --------  ------  ---------'     `---------------|            | |
+ THE [              BEAR'S            Watering                  Large    | |
+GATES[                       WAY        Hole                |   House    | |
+     |------------  ------------------,            .--------|____________| |
+      \         __  _______________   :      Shady :            ______    /
+       \       |         |         |  :  R    Park `-----------|      |  /
+        \_     | Supply      The   |  :  O                      Stable| /
+          \    |  Shop   |  Baker's      A   .-----------------|______|/
+           \   |         | Kitchen |  :  D   :                       _/
+            \_ |_________|_________|_ :     :  ______             __/
+               \____    |            |:     :/       \       __/
+                    \_  |Traveller's |:        Simple |    _/  
+                      \_|     Hut           :| Abode  | __/
+                        \____________|________\______/_/
+```
 
 ### Access / Justice
 
