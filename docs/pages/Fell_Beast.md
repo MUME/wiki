@@ -1,0 +1,19 @@
+---
+title: Fell Beast
+description: 'Fell Beasts are the Darkie analog to the [Great'
+---
+
+Fell Beasts are the Darkie analog to the [Great
+Eagles](./Great_Eagle.md), which enable fast travelling over great
+distances.
+
+Calling requires a black amulet instead of a [focus](./Focus.md)
+item. The amulet is given by Sage for a Red Amulet which loads at
+Necromancer.
+
+These locations should work additionally for destinations, need to test:
+goblintown, goblin town, new orc caves, moria, dark tower.
+
+Apart from the calling requirements and the keyword 'beast', the
+mechanics are the same as explained for the [Great
+Eagle](./Great_Eagle.md).

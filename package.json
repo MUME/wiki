@@ -1,0 +1,18 @@
+{
+  "name": "mume-wiki",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prebuild": "node scripts/gather-pages.cjs && node scripts/check-stubs.cjs",
+    "docs:dev": "npm run prebuild && vitepress dev docs",
+    "docs:build": "npm run prebuild && vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@vitejs/plugin-vue": "^6.0.6",
+    "playwright": "^1.59.1",
+    "vitepress": "^1.6.3"
+  }
+}

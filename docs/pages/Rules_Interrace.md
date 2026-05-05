@@ -1,0 +1,42 @@
+---
+title: Rules Interrace
+description: 'MUME characters belong either to the good races;'
+---
+
+MUME characters belong either to the good races;
+[Dwarves](./Dwarf.md), [Elves](./Elf.md),
+[Half-Elves](./Half-Elf.md), [Men](./Man.md), and
+[Hobbits](./Hobbit.md), the evil races; [Black
+Numenoreans](/pages/Black_Númenórean), (Tarkhnarb)
+[Orcs](./Orc.md), and [Trolls](./Troll.md), or the "third"
+side; the [Zaugurz Orcs](./Zaugurz_Orc.md).
+
+#### Behaviour towards enemies:
+
+Members of different sides cannot collaborate, communicate, or otherwise
+interact in any matter but as supreme, utter enemies. Fight or flee.
+
+#### Communication between enemies:
+
+You can taunt your foes, but you cannot facilitate their life in any way
+or kindly chat while you sip tea together. ANY kind of information
+exchange between enemies is strictly forbidden, unless it's
+misinformation (e.g. lying to the enemy to get them trapped is of course
+not illegal).
+
+#### Duels:
+
+Duels are an honourable fight among foes who respect each other. The
+term 'honourable' does not suit Orcs and Trolls, therefore the only form
+of combat allowed between different sides is "fight your best or run
+like hell".
+
+#### Linkless, idle, afk, and other OOC conditions:
+
+It does not matter to the rules of MUME if the player of an enemy
+character has left the keyboard, lost connection et cetera. If you in
+any way help or protect an enemy (linkless or
+not), you are breaking one of the most important rules of MUME - this
+one.
+
+See also: [Rules PK](./Rules_PK.md)

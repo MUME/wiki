@@ -1,0 +1,26 @@
+name: Trigger Deployment
+
+on:
+  pull_request_review:
+    types: [submitted]
+  workflow_run:
+    workflows: ["PR Preview"]
+    types: [completed]
+
+jobs:
+  trigger:
+    if: github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success'
+    permissions:
+      actions: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Deploy Workflow
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main',
+            });

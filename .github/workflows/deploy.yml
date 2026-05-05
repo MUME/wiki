@@ -1,0 +1,228 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  pull-requests: read
+  deployments: write
+  actions: read
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine Base URL
+        id: base_url
+        run: |
+          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+            echo "base=/" >> $GITHUB_OUTPUT
+          else
+            echo "base=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Build
+        run: npm run docs:build
+        env:
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.base }}
+          EDIT_REPO: ${{ github.repository }}
+          EDIT_BRANCH: ${{ github.ref_name }}
+
+      - name: Collect PRs to deploy
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: pullRequests } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100,
+            });
+
+            const prsToDeploy = [];
+            for (const pr of pullRequests) {
+              prsToDeploy.push({
+                number: pr.number,
+                sha: pr.head.sha,
+              });
+            }
+
+            const fs = require('fs');
+            fs.writeFileSync('prs-to-deploy.json', JSON.stringify(prsToDeploy));
+            console.log(`PRs to deploy: ${prsToDeploy.map(p => p.number).join(', ') || 'none'}`);
+
+      - name: Download PR artifacts
+        uses: actions/github-script@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_URL_PATH: ${{ steps.base_url.outputs.base }}
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const prsToDeploy = JSON.parse(fs.readFileSync('prs-to-deploy.json', 'utf8'));
+            const distDir = path.join('docs', '.vitepress', 'dist');
+
+            for (const pr of prsToDeploy) {
+              try {
+                console.log(`Processing PR #${pr.number}...`);
+
+                // Find all successful runs of the "PR Preview" workflow for this PR's head SHA
+                const { data: runs } = await github.rest.actions.listWorkflowRuns({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  workflow_id: 'pr-preview.yml',
+                  head_sha: pr.sha,
+                  status: 'success',
+                  per_page: 1,
+                });
+
+                let artifactId;
+                if (runs.workflow_runs.length > 0) {
+                  const runId = runs.workflow_runs[0].id;
+                  const { data: runArtifacts } = await github.rest.actions.listWorkflowRunArtifacts({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    run_id: runId,
+                  });
+                  const prArtifact = runArtifacts.artifacts.find(a => a.name === `pr-${pr.number}`);
+                  if (prArtifact) artifactId = prArtifact.id;
+                }
+
+                if (!artifactId) {
+                  // Fallback: Find the latest successful artifact for this PR name
+                  const { data: artifacts } = await github.rest.actions.listArtifactsForRepo({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: `pr-${pr.number}`,
+                  });
+
+                  if (artifacts.artifacts.length === 0) {
+                    console.log(`No artifact found for PR #${pr.number}`);
+                    continue;
+                  }
+                  artifactId = artifacts.artifacts[0].id;
+                }
+
+                const download = await github.rest.actions.downloadArtifact({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  artifact_id: artifactId,
+                  archive_format: 'zip',
+                });
+
+                const prDir = path.join(distDir, `pr-${pr.number}`);
+                if (!fs.existsSync(prDir)) {
+                  fs.mkdirSync(prDir, { recursive: true });
+                }
+
+                // The artifact itself is a zip file (download.data is a zip of a zip)
+                // We need to unzip the artifact to get the pr-N.zip, then unzip pr-N.zip to prDir
+                fs.writeFileSync(`/tmp/artifact-${pr.number}.zip`, Buffer.from(download.data));
+
+                const execSync = require('child_process').execSync;
+                execSync(`unzip -o /tmp/artifact-${pr.number}.zip -d /tmp`);
+                execSync(`unzip -o /tmp/pr-${pr.number}.zip -d ${prDir}`);
+
+                // Add to main robots.txt to prevent indexing
+                const rootRobots = path.join(distDir, 'robots.txt');
+                const disallowRule = `Disallow: /pr-${pr.number}/`;
+                if (fs.existsSync(rootRobots)) {
+                  const content = fs.readFileSync(rootRobots, 'utf8');
+                  if (!content.includes(disallowRule)) {
+                    fs.appendFileSync(rootRobots, `\n${disallowRule}`);
+                  }
+                } else {
+                  fs.writeFileSync(rootRobots, `User-agent: *\n${disallowRule}`);
+                }
+
+                // Create or reuse GitHub Deployment for the PR
+                // We use refs/pull/${pr.number}/head to ensure it's associated with the PR
+                const prRef = `refs/pull/${pr.number}/head`;
+                const { data: existingDeployments } = await github.rest.repos.listDeployments({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: pr.sha,
+                  environment: `pr-${pr.number}`,
+                  per_page: 1,
+                });
+
+                let deployment;
+                if (existingDeployments.length > 0) {
+                  deployment = existingDeployments[0];
+                  console.log(`Reusing existing deployment ${deployment.id} for PR #${pr.number}`);
+                } else {
+                  const { data: created } = await github.rest.repos.createDeployment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    ref: prRef,
+                    environment: `pr-${pr.number}`,
+                    required_contexts: [],
+                    auto_merge: false,
+                    description: `Preview for PR #${pr.number}`,
+                  });
+                  deployment = created;
+                  console.log(`Created new deployment ${deployment.id} for PR #${pr.number}`);
+                }
+
+                const owner = context.repo.owner;
+                const repo = context.repo.repo;
+                let baseUrlPath = process.env.BASE_URL_PATH;
+
+                let base = `https://${owner}.github.io`;
+
+                const normalizedPath = baseUrlPath.startsWith('/') ? baseUrlPath : `/${baseUrlPath}`;
+                base = `${base}${normalizedPath}`.replace(/\/$/, '');
+
+                const url = `${base}/pr-${pr.number}/`;
+                console.log(`Deployment URL for PR #${pr.number}: ${url}`);
+
+                await github.rest.repos.createDeploymentStatus({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  deployment_id: deployment.id,
+                  state: 'success',
+                  environment_url: url,
+                  log_url: `https://github.com/${owner}/${repo}/actions/runs/${context.runId}`,
+                  description: 'Preview deployed successfully',
+                });
+              } catch (e) {
+                console.log(`Failed to process PR #${pr.number}: ${e.message}`);
+                if (e.stack) console.log(e.stack);
+              }
+            }
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/.vitepress/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

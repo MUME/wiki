@@ -1,0 +1,33 @@
+services:
+  # Development server with live reload
+  dev:
+    image: node:22-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - VITEPRESS_BASE=/wiki/
+    command: sh -c "apk add --no-cache git && npm ci && npm run docs:dev -- --host"
+    ports:
+      - "5174:5173"
+
+  # One-shot build (node_modules stay inside the container)
+  build:
+    image: node:22-alpine
+    working_dir: /app
+    environment:
+      - VITEPRESS_BASE=/wiki/
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: sh -c "apk add --no-cache git && npm ci && npm run docs:build"
+
+  # Production build served via nginx (mirrors deployment)
+  wiki:
+    build:
+      context: .
+      args:
+        VITEPRESS_BASE: /wiki/
+    ports:
+      - "4173:80"

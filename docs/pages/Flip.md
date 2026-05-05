@@ -1,0 +1,16 @@
+---
+title: Flip
+description: 'If you feel particularly happy, you can flip head over heels, or'
+tags:
+  - Help files
+  - Commands
+---
+If you feel particularly happy, you can **flip** head over heels, or
+flip someone else to make him dizzy.
+
+If, on the other hand, you don't know what alternative to take, you can
+'flip coin', and see whether it lands tails or heads up.
+
+This is one way of deciding how to split
+equipment (from PK or
+[Smobs](./Super_Mobile.md)).

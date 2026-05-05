@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <script type="text/javascript">
+      // GitHub Pages 404 Hack for SPAs with dynamic base paths
+      (function() {
+        var path = window.location.pathname;
+        var segments = path.split('/').filter(Boolean);
+        var base = '/';
+
+        // Detect if we are in a PR preview (e.g., /wiki/pr-9/ or /pr-9/)
+        // This assumes PR previews are always in a top-level or second-level directory named pr-N
+        var prIndex = segments.findIndex(function(s) { return /^pr-\d+$/.test(s); });
+
+        if (prIndex !== -1) {
+          // Reconstruct base path including the PR segment
+          base = '/' + segments.slice(0, prIndex + 1).join('/') + '/';
+        } else if (segments.length > 0 && segments[0] === 'wiki') {
+          // Check for /wiki/ base
+          base = '/wiki/';
+        }
+
+        // Redirect to the base index.html with the original path as a query parameter
+        // The SPA router will then handle the path reconstruction
+        var redirectUrl = base + '?redirect=' + encodeURIComponent(path + window.location.search + window.location.hash);
+        window.location.replace(redirectUrl);
+      })();
+    </script>
+  </head>
+  <body>
+    Redirecting to the wiki...
+  </body>
+</html>

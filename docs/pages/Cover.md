@@ -1,0 +1,26 @@
+---
+title: Cover
+description: 'Cover is a command used to temporarily block the light from a light'
+tags:
+  - Help files
+  - Commands
+---
+**Cover** is a command used to temporarily block the light from a light
+source from escaping.
+
+'cover' doesn't act as a toggle: to **uncover** a
+[lantern](./Lantern.md) after it has been covered, you have to
+type 'uncover'. "**dim**" is a synonym for 'cover'.
+
+At the moment, both 'cover' and 'uncover' require an argument - the name
+of the light source you want to cover or uncover.
+
+Example:
+
+```
+> cover lantern
+> uncover lantern
+```
+
+See also: [Light](./Light.md)
+ 

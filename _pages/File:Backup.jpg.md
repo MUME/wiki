@@ -1,4 +1,0 @@
----
-title: File:Backup.jpg
----
-

@@ -1,0 +1,59 @@
+name: PR Preview
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+# pull_request_target runs in the base repo context (has write access).
+# We check out the PR head to build it, which is acceptable for a public
+# markdown wiki where the build step only runs VitePress on markdown files.
+permissions:
+  contents: write
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine Base URL Prefix
+        id: base_url
+        run: |
+          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+            echo "prefix=/" >> $GITHUB_OUTPUT
+          else
+            echo "prefix=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+          fi
+          echo "host=${{ github.repository_owner }}.github.io" >> $GITHUB_OUTPUT
+
+      - name: Build preview
+        run: npm run docs:build
+        env:
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.prefix }}pr-${{ github.event.number }}/
+          EDIT_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          EDIT_BRANCH: ${{ github.event.pull_request.head.ref }}
+
+      - name: Package build
+        run: |
+          cd docs/.vitepress/dist
+          zip -r ../../../pr-${{ github.event.number }}.zip .
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-${{ github.event.number }}
+          path: pr-${{ github.event.number }}.zip
+          retention-days: 30
+

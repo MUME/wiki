@@ -1,0 +1,35 @@
+---
+title: Narrate
+description: 'If you want to tell a tale to all the other players in the game,'
+tags:
+  - Help files
+  - Commands
+---
+If you want to tell a tale to all the other players in the game,
+**narrate** it. All the players wanting to hear such things will receive
+it and all the players who don't want to be disturbed won't. You can
+choose to receive tales from other players using the command 'listen
+tales'.
+
+The global communication channels are not that global, since they are
+restricted to either players of the same race, or at least to players of
+the same side of the war between Good and Evil.
+
+NOTE: The effort you make when communicating with other players on a
+global level takes it's toll. Narrating reduces your [movement
+points](./Movement_points.md).
+
+The **Narrate** channel is meant primarily for in-game communication.
+Discussions about music, movies, computers, sports, sex or other RL
+related issues generally don't belong there.
+
+If you are asked by other player(s) to take your discussion to the
+[Songs](./Sing.md) channel, you are required to do so.
+
+Example:
+
+` > narrate Is it safe to travel from `[`Bree`](./Bree.md)` to `[`Fornost`](./Fornost.md)`?`
+
+See also: [Tell](./Tell.md), [Yell](./Yell.md),
+[Shout](./Shout.md), [Listen](./Listen.md),
+[Sing](./Sing.md), [Ignore](./Ignore.md)

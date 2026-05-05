@@ -1,0 +1,15 @@
+---
+title: Pike
+description: 'This stabbing weapon can be wielded one-handed.'
+---
+
+\> **consider pike**
+
+This stabbing weapon can be wielded one-handed.
+
+It is average while attacking and poor while defending; its speed is
+slow, and it inflicts little damage upon hitting.
+
+It weighs four pounds.
+
+<!--@include: ../includes/Items.md-->
