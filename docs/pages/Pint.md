@@ -9,14 +9,14 @@ The **pint** is a [drink](./Food_%26_Drink#Drink.md)
 worth of liquid. It is worth around 15 copper.
 Pints are sold in many taverns, most often containing ale.
 
-`An amber-coloured pint of ale sits here in a large frosty mug.`
+`An amber-coloured pint of ale sits here in a large frosty mug.`
 `>`**`look at pint`**
-`This is a large, frosty mug. From one side sprouts a sturdy handle.`
+`This is a large, frosty mug. From one side sprouts a sturdy handle.`
 
 ```
 >consider pint
-It is a pint.
-It weighs half a pound.
+It is a pint.
+It weighs half a pound.
 ```
 
 <!--@include: ../includes/Items.md-->

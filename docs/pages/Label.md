@@ -12,22 +12,22 @@ within parentheses after the character's name when you see it.
 
 E.g., if you see \*an [Orc](./Orc.md)\*, you can
 
-` > label orc target`
+` > label orc target`
 
 The orc will then show as:
 
-` *an Orc* (target) is standing here.`
+` *an Orc* (target) is standing here.`
 
 To list all labels, use 'label' without any arguments.
 
 ```
- > label remove target                removes the target label
- > label please remove all of them    (sic!) removes all defined labels
+ > label remove target                removes the target label
+ > label please remove all of them    (sic!) removes all defined labels
 ```
 
 When you are fighting someone
 
-` > label caster                       label your opponent as 'caster'`
+` > label caster                       label your opponent as 'caster'`
 
 The words me, self, and myself are permanent labels for the character
 you're playing.

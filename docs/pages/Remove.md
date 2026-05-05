@@ -11,7 +11,7 @@ To **remove** equipment you are
 
 Example:
 
-`> remove dagger`
+`> remove dagger`
 
 See also: [Wear](./Wear.md)
 
@@ -22,6 +22,6 @@ yourself.
 
 Example:
 
-`> remove 1046`
+`> remove 1046`
 
 See also: [Write](./Write.md)

@@ -12,10 +12,10 @@ standard line editor (enter a %e on a single line to end).
 Examples:
 
 ```
-> bug I can't move east from here
-> idea Fish should be cookable
-> typo Hill giant description
-> report Lost my account password - help!
+> bug I can't move east from here
+> idea Fish should be cookable
+> typo Hill giant description
+> report Lost my account password - help!
 ```
 
 Please note that bug, idea, and typo messages are visible to all the
@@ -35,8 +35,8 @@ should be observed when using them:
   be thorough. If you can, include a short log, for example:
 
 ```
-> say open the gate
-The gatekeeper says 'does it seem I work here?'
+> say open the gate
+The gatekeeper says 'does it seem I work here?'
 ```
 
 - There is no need to state whereabouts in [Arda](./Arda.md) the
@@ -70,15 +70,15 @@ The gatekeeper says 'does it seem I work here?'
 Example for reporting: 1. Type the command followed by the title of your
 report, e.g.
 
-` > bug Shopkeeper's prices are too high`
+` > bug Shopkeeper's prices are too high`
 
 2\. Now the line editor opens and you can explain the problem in detail,
 for example:
 
 ```
-  : The prices in this shop seem to be multiplied with 1000, the red ruby
-  : costs 65.000 goldpieces.
-  : %e
+  : The prices in this shop seem to be multiplied with 1000, the red ruby
+  : costs 65.000 goldpieces.
+  : %e
 ```
 
 3\. To send your report type '%e' on an empty line, to cancel the report

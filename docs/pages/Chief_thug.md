@@ -11,8 +11,8 @@ belt](./Studded_leather_belt.md) and a mixture of common cloth,
 leather and mail equipment.
 
 ```
-A large rough-looking man walks towards you, eyeing you critically.
+A large rough-looking man walks towards you, eyeing you critically.
 >examine man
-The bandit wears dirty clothes and has an imbecile look, grinning evilly,
-glancing at your purse.
+The bandit wears dirty clothes and has an imbecile look, grinning evilly,
+glancing at your purse.
 ```

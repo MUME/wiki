@@ -12,16 +12,16 @@ better parry while also weighing slightly more. It loads on the [ghost
 of Galerel](./Ghost_of_Galerel.md).
 
 ```
-A round shield, with shining gilt, is on the ground.
+A round shield, with shining gilt, is on the ground.
 >examine shield
-It is made from a light metal, yet seems hard and sturdy. On the front
-lies the heraldry of Arthedain.
+It is made from a light metal, yet seems hard and sturdy. On the front
+lies the heraldry of Arthedain.
 ```
 
-`> `**`consider shield`**
+`> `**`consider shield`**
 ```
-It is a gilded round shield.
-It weighs one stone and three pounds.
+It is a gilded round shield.
+It weighs one stone and three pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

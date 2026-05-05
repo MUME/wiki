@@ -9,11 +9,11 @@ tags:
 [Ingrove](./Anduin_Vale#Ingrove.md).
 
 ```
-A well-tanned woman watches you with caution.
+A well-tanned woman watches you with caution.
 >examine ilyne
-Long, black hair frame her dark eyes that seem to peer out into the souls of
-all who approach. Clad in well worn leather clothes, her tanned skin and slim
-figure with tall, well-muscled legs gives her the look of a seasoned traveller.
+Long, black hair frame her dark eyes that seem to peer out into the souls of
+all who approach. Clad in well worn leather clothes, her tanned skin and slim
+figure with tall, well-muscled legs gives her the look of a seasoned traveller.
 ```
 
 ## Skill list

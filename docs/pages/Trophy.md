@@ -24,7 +24,7 @@ Also, you can specify a string to only display entries whose names
 contain that string. For example:
 
 ```
-trophy wolf
-trophy elrond
-trophy #      <- display all killed player characters
+trophy wolf
+trophy elrond
+trophy #      <- display all killed player characters
 ```

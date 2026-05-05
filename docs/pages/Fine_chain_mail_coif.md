@@ -11,18 +11,18 @@ of damage absorption. It is worth around 1 [gold](./Gold.md) and
 15 silver.
 
 ```
-A fine chain mail coif lies here.
+A fine chain mail coif lies here.
 >examine coif
-Even a quick examination reveals this coif is a very good piece of armour. The
-rings are very smooth and form a tight and perfect six-in-one pattern which 
-offers good protection and does not hinder the free movement of the head. 
- 
+Even a quick examination reveals this coif is a very good piece of armour. The
+rings are very smooth and form a tight and perfect six-in-one pattern which 
+offers good protection and does not hinder the free movement of the head. 
+ 
 ```
 `>`**`consider coif`**
 ```
-It is a fine chain mail coif.
-It weighs four pounds.
-It fits you well.
+It is a fine chain mail coif.
+It weighs four pounds.
+It fits you well.
 ```
 
 <!--@include: ../includes/Items.md-->

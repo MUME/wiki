@@ -13,12 +13,12 @@ copper and can be bought from most jewellers and
 general stores.
 
 `>`**`look ring`**
-`You notice intricate runes woven onto a strangely light-weight ring.`
+`You notice intricate runes woven onto a strangely light-weight ring.`
 
 ```
 >consider ring
-It is a ring.
-It weighs a couple of ounces.
+It is a ring.
+It weighs a couple of ounces.
 ```
 
 <!--@include: ../includes/Items.md-->

@@ -16,7 +16,7 @@ Also, the spell name doesn't need to be typed fully -
 Since the quotes can be frustrating to type, most people set
 [aliases](./Alias.md) for their commonly used spells:
 
-`> alias mm cast normal '`[`magic missile`](./Magic_Missile.md)`'`
+`> alias mm cast normal '`[`magic missile`](./Magic_Missile.md)`'`
 
 Each spell takes a given amount of time to cast.
 
@@ -24,10 +24,10 @@ Some spells can only be cast without target, some must have a target,
 and some can have it as an optional parameter.
 
 ```
-> cast 'armour'  (can only be cast on self)
-> cast 'strength' (can be cast both on self and a target)
-> cast 'strength' Elrond 
-> cast 'colour spray' orc
+> cast 'armour'  (can only be cast on self)
+> cast 'strength' (can be cast both on self and a target)
+> cast 'strength' Elrond 
+> cast 'colour spray' orc
 ```
 
 If you already are in [combat](./Combat.md), your opponent is
@@ -80,7 +80,7 @@ thorough + casting time, + mana used, + spell power, - backfire
 By default, casting without an "effort" parameter is equivalent to "cast
 normal". You can however "change spellcasting" to choose a new default.
 
-`> cha spell q`
+`> cha spell q`
 
 ## See also
 

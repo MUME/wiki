@@ -9,10 +9,10 @@ tags:
 Mountains](./Blue_Mountains.md).
 
 ```
-Frag the dwarven warrior-master stands here drilling recruits.
+Frag the dwarven warrior-master stands here drilling recruits.
 >examine Frag
-This leather-clad dwarf is strong and quick. As he spars
-with his students you can see his swordplay is superb.
+This leather-clad dwarf is strong and quick. As he spars
+with his students you can see his swordplay is superb.
 ```
 
 ## Skill list

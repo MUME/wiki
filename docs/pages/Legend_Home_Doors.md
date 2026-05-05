@@ -18,12 +18,12 @@ door. The higher % your door has, the higher the % of the person trying
 to pick the door open will need to be. Each increment of 10% is 200 gold
 coins:
 
-  Pick %          Total Price -------------------------------    10%
-               200g    20%                400g    30%
-               600g    40%                800g    50%
-               1000g    60%                1200g    70%
-               1400g    80%                1600g    90%
-               1800g    100%               2000g \* Keep in mind that
+  Pick %          Total Price -------------------------------    10%
+               200g    20%                400g    30%
+               600g    40%                800g    50%
+               1000g    60%                1200g    70%
+               1400g    80%                1600g    90%
+               1800g    100%               2000g \* Keep in mind that
 100% isn't necessarily unpickable. \* You may no longer buy nobash,
 nobreak or nopick for your door.
 

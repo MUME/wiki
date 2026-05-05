@@ -36,9 +36,9 @@ a surprise attack.
 Examples:
 
 ```
-> reveal boots
-> reveal scout
-> reveal quickly
+> reveal boots
+> reveal scout
+> reveal quickly
 ```
 
 See also: [Hide](./Hide.md), [Search](./Search.md)

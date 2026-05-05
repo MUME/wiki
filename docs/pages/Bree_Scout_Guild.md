@@ -8,11 +8,11 @@ A **thief** teaches [thief](./Thief.md) [skills](./Skill.md)
 at the **Freebooters' Society** in [Bree](./Bree.md).
 
 ```
-A thief is waiting here to teach his art.
+A thief is waiting here to teach his art.
 >examine thief
-He is a thief who has specialized in killing others as effectively as possible,
-using all sorts of weapons.  His superior knowledge of how and where to use
-them combined with his extraordinary stealth makes him a deadly opponent.
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
 ```
 
 ## Skill list

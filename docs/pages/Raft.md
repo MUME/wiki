@@ -12,16 +12,16 @@ meaning other boats such as [canoes](./Canoe.md) are generally
 preferable options.
 
 ```
-A raft has been left here.
+A raft has been left here.
 >examine raft
-This raft looks like nothing more than a couple of tree-branches lashed
+This raft looks like nothing more than a couple of tree-branches lashed
 together.
 ```
 
 `>`**`consider raft`**
 ```
-It is a raft.
-It weighs five stone and thirteen pounds.
+It is a raft.
+It weighs five stone and thirteen pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

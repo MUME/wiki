@@ -11,16 +11,16 @@ bonus](./Offensive_bonus.md). It is worth around 2
 
 ```
 >look helmet
-This piece of armour has been smithed in a round shape to protect the head. It
-is lined with leather and has two plates on each side to protect the ears, and
-one smaller plate at the front to protect the nose. It can be fastened using a
-strip of leather.
+This piece of armour has been smithed in a round shape to protect the head. It
+is lined with leather and has two plates on each side to protect the ears, and
+one smaller plate at the front to protect the nose. It can be fastened using a
+strip of leather.
 ```
 
 `>`**`consider helmet`**
 ```
-It is a metal helmet.
-It weighs seven pounds.
+It is a metal helmet.
+It weighs seven pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

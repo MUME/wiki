@@ -9,11 +9,11 @@ An **elven knight** teaches [warrior](./Warrior.md)
 [Rivendell](./Rivendell.md).
 
 ```
-An impressive elven knight stands watch here (glowing).
+An impressive elven knight stands watch here (glowing).
 >examine knight
-Tall, and bulky as elves go, this warrior has seen combat throughout
-the history of Arda. Even though elves do not scar, the toll of battle
-can be seen in his steel grey eyes.
+Tall, and bulky as elves go, this warrior has seen combat throughout
+the history of Arda. Even though elves do not scar, the toll of battle
+can be seen in his steel grey eyes.
 ```
 
 ## Skill list

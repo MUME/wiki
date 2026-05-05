@@ -15,8 +15,8 @@ basic leather or cloth equipment.
 
 ```
 >examine orc
-This warrior, tall for an orc, has a pale grey facial skin and a large, flat
-nose. A long pair of parallel scars decorates his right cheek, indicating his
-rank among the Uruk-morgundul. His appearance is dirty and weary all over, as
-if he had been patrolling these areas for his lifetime.
+This warrior, tall for an orc, has a pale grey facial skin and a large, flat
+nose. A long pair of parallel scars decorates his right cheek, indicating his
+rank among the Uruk-morgundul. His appearance is dirty and weary all over, as
+if he had been patrolling these areas for his lifetime.
 ```

@@ -12,9 +12,9 @@ tags:
 belt, a [ring](./Ring.md) and a [lantern](./Lantern.md).
 
 ```
-A woman is here, looking for someone to chat with.
+A woman is here, looking for someone to chat with.
 >examine woman
-This middle-aged woman is perhaps a mother or midwife, judging by her attire.
-Her friendly smile appears to be shared often with friends and strangers alike.
+This middle-aged woman is perhaps a mother or midwife, judging by her attire.
+Her friendly smile appears to be shared often with friends and strangers alike.
 ```
  

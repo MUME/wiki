@@ -12,8 +12,8 @@ Havens](./Grey_Havens.md). They load 1 silver, a
 cloth equipment.
 
 ```
-A vicious little bandit advances towards you.
+A vicious little bandit advances towards you.
 >examine bandit
-The bandit wears dirty clothes and has an imbecile look, grinning evilly,
-glancing at your purse.
+The bandit wears dirty clothes and has an imbecile look, grinning evilly,
+glancing at your purse.
 ```

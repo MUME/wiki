@@ -11,11 +11,11 @@ summoned by [Nagrorh](./Nagrorh.md), and will
 he's alive.
 
 ```
-A frightful spectre comes to you, extending his unnatural arms.
+A frightful spectre comes to you, extending his unnatural arms.
 >examine spectre
-The ghost is dressed like some sort of ancient priest, its face pale
-and expressionless. From the head and down its substance slowly fades
-away to become totally transparent near the feet, making the ghost
-float softly above the ground.
+The ghost is dressed like some sort of ancient priest, its face pale
+and expressionless. From the head and down its substance slowly fades
+away to become totally transparent near the feet, making the ghost
+float softly above the ground.
 ```
  

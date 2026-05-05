@@ -14,7 +14,7 @@ inventory, the meat will be preserved for an even longer lapse of time.
 
 Example:
 
-` > cook meat`
+` > cook meat`
 
 See also: [Butcher](./Butcher.md), [Camp](./Camp.md),
 [Milk](./Milk.md), [Fish](./Fish.md),

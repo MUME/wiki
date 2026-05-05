@@ -14,9 +14,9 @@ spell.
 Room Name: Library
 
 ```
-An old wise druid is standing here. He looks very clever and savant (glowing).
+An old wise druid is standing here. He looks very clever and savant (glowing).
 >examine druid
-His wisdom and his knowledge seem to be high, but very dangerous to
+His wisdom and his knowledge seem to be high, but very dangerous to
 attack.
 ```
 

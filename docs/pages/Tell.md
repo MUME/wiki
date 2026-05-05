@@ -17,8 +17,8 @@ messages.
 Examples
 
 ```
-> tell CryHavoc You're dead meat - sucker!     [not advised]
-> tell group Let's meet at Bree
+> tell CryHavoc You're dead meat - sucker!     [not advised]
+> tell group Let's meet at Bree
 ```
 
 See also: [Say](./Say.md), [Narrate](./Narrate.md),

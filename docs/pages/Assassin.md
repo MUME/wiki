@@ -12,9 +12,9 @@ weapon](./Piercing_weapon.md) and a mixture of cloth/leather
 equipment.
 
 ```
-An assassin is here looking for fresh blood and shining coins.
+An assassin is here looking for fresh blood and shining coins.
 >examine assassin
-This slender, limber-looking man has dark hair and a calm expression.  He
-moves silently, not attracting attention to himself.  If you blink your
-eyes, you may find that he has vanished from sight.
+This slender, limber-looking man has dark hair and a calm expression.  He
+moves silently, not attracting attention to himself.  If you blink your
+eyes, you may find that he has vanished from sight.
 ```

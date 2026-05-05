@@ -14,7 +14,7 @@ humanoid corpses.
 
 Example:
 
-` > decap 2.corpse`
+` > decap 2.corpse`
 
 See also: [Burn](./Burn.md), [Bury](./Bury.md),
 [Drag](./Drag.md), [Drain](./Drain.md),

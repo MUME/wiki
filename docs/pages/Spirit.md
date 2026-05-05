@@ -17,9 +17,9 @@ south of [Bree](./Bree.md) loads a [forest green
 cloak](./Forest_green_cloak.md).
 
 ```
-A spirit floats towards you and howls with an evil laughter.
+A spirit floats towards you and howls with an evil laughter.
 >examine spirit
-It seems to be a restless spirit of an old soldier, one of its legs
-almost separated from its body. The spirit is transparent and hard
-to see clearly.
+It seems to be a restless spirit of an old soldier, one of its legs
+almost separated from its body. The spirit is transparent and hard
+to see clearly.
 ```

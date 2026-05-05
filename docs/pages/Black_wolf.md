@@ -14,11 +14,11 @@ produce a [black wolf fur](./Black_wolf_fur.md) and some
 [meat](./Meat.md).
 
 ```
-A black wolf pads restlessly, looking for its next prey.
+A black wolf pads restlessly, looking for its next prey.
 >examine wolf
-Slightly larger than its grey-furred cousin, the black wolf nevertheless shares
-many of the same traits such as hunting habits. Its howl is deeper than its
-cousin's which is normally good warning to leave the area before nightfall. At
-this time, it becomes the expert at stealth as its dark fur and red-black eyes
-make it very hard to spot prior to being attacked.
+Slightly larger than its grey-furred cousin, the black wolf nevertheless shares
+many of the same traits such as hunting habits. Its howl is deeper than its
+cousin's which is normally good warning to leave the area before nightfall. At
+this time, it becomes the expert at stealth as its dark fur and red-black eyes
+make it very hard to spot prior to being attacked.
 ```

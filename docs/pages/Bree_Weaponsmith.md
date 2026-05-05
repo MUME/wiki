@@ -10,8 +10,8 @@ The **weaponsmith** tends to the **Weapon Shop** in
 dagger](./Quest#Bree_Weaponsmith.md).
 
 ```
-A weaponsmith stands here.
+A weaponsmith stands here.
 >examine weaponsmith
-A young weaponsmith, yet he seems to have strength beyond the extent of his
+A young weaponsmith, yet he seems to have strength beyond the extent of his
 years.
 ```

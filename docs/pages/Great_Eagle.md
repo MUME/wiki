@@ -12,11 +12,11 @@ distances.
 
 To call an eagle use:
 
-`> call eagle`
+`> call eagle`
 
 Once you call the game will show
 
-`> You look up towards the skies and start calling the mighty creatures.`
+`> You look up towards the skies and start calling the mighty creatures.`
 
 Calling will take most of your [movement
 points](./Movement_points.md).
@@ -34,11 +34,11 @@ again.
 
 Once the eagle arrives, you can type
 
-`> ride eagle`
+`> ride eagle`
 
 and then to tell the eagle the destination:
 
-`> whisper eagle rivendell`
+`> whisper eagle rivendell`
 
 You have a limited time to climb and tell the destination. Otherwise the
 eagle will leave again.

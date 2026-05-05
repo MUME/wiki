@@ -12,10 +12,10 @@ worth around 85 copper and is sold by most general
 stores.
 
 ```
-A brass lantern has been set on the ground.
+A brass lantern has been set on the ground.
 >consider lantern
-It is a lantern.
-It weighs a couple of pounds.
+It is a lantern.
+It weighs a couple of pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

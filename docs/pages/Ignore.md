@@ -15,10 +15,10 @@ any mobiles that player has
 Syntax:
 
 ```
-ignore `&lt;player&gt;`        - toggles ignoring that player on/off
-ignore `&lt;player&gt;` yes|on - ignore player
-ignore `&lt;player&gt;` no|off - stop ignoring a player
-ignore                 - shows a list of players you are ignoring
+ignore `&lt;player&gt;`        - toggles ignoring that player on/off
+ignore `&lt;player&gt;` yes|on - ignore player
+ignore `&lt;player&gt;` no|off - stop ignoring a player
+ignore                 - shows a list of players you are ignoring
 ```
 
 NOTE: Players you ignore cannot tell that you are ignoring them.

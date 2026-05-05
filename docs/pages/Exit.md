@@ -20,29 +20,29 @@ For both commands, the [direction](./Direction.md) (north, east,
 Door information can be one of the following:
 
 ```
- [...]   - A closed 'doorname'
- (...)   - (doorname) Room Name        open door
- #...#   - (doorname) Room Name        broken door
+ [...]   - A closed 'doorname'
+ (...)   - (doorname) Room Name        open door
+ #...#   - (doorname) Room Name        broken door
 ```
-` {...}   - Room Name                   `[`portal`](./Portal.md)
-` /...\   - Room Name                   upward `[`climb`](./Climb.md)
-` \.../   - Room Name                   downward climb`
+` {...}   - Room Name                   `[`portal`](./Portal.md)
+` /...\   - Room Name                   upward `[`climb`](./Climb.md)
+` \.../   - Room Name                   downward climb`
 
 Terrain information can be one of the following:
 
 ```
- =...=   - Room Name                   road leading that way
- -...-   - Room Name                   trail leading that way
+ =...=   - Room Name                   road leading that way
+ -...-   - Room Name                   trail leading that way
 ```
-` ~...~   - Room Name                   destination room requires `[`swimming`](./Swim.md)
+` ~...~   - Room Name                   destination room requires `[`swimming`](./Swim.md)
 
-` ^...^   - Room Name                   outdoors room (`[`Trolls`](./Troll.md)` only)`
-` *...*   - Room Name                   sunlit room (`[`Orcs`](./Orc.md)` and Trolls only)`
+` ^...^   - Room Name                   outdoors room (`[`Trolls`](./Troll.md)` only)`
+` *...*   - Room Name                   sunlit room (`[`Orcs`](./Orc.md)` and Trolls only)`
 
 Flags from the two categories can be combined; e.g., =#up#= is a road
 leading through a broken door.
 
 The autoexits mode will show information like this:
 
-` Exits: =(north)=, east, [west].`
+` Exits: =(north)=, east, [west].`
  

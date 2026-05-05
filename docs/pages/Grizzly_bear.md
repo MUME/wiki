@@ -13,9 +13,9 @@ Havens](./Grey_Havens.md). They are usually accompanied by a few
 produce some [meat](./Meat.md).
 
 ```
-A huge grizzly bear is here, roaming the wild.
+A huge grizzly bear is here, roaming the wild.
 >examine bear
-This animal is huge -- its paws are about the size of the average man's
-skull, and it stands over eight feet tall. It sniffs the air and turns in
-your direction....
+This animal is huge -- its paws are about the size of the average man's
+skull, and it stands over eight feet tall. It sniffs the air and turns in
+your direction....
 ```

@@ -16,7 +16,7 @@ sitting, [sleeping](./Sleep.md)...)
 ::: details Spoiler
 The formula for mana regeneration is pretty close to:
 
-`   Mana/min = (-5 + (Wil/2) + (race bonus) + (Max mana)/8 + (age/EQ/potion mana regen bonus)) * (fullness effect) * (resting effect) * (hunger effect)`
+`   Mana/min = (-5 + (Wil/2) + (race bonus) + (Max mana)/8 + (age/EQ/potion mana regen bonus)) * (fullness effect) * (resting effect) * (hunger effect)`
 
 where
 
@@ -37,7 +37,7 @@ where
 So, for instance, a naked 3.5 age half-elf with 129 max mana while
 standing will average
 
-`  (4 + 129/8 + 4.5(age)) = 24.5 mana/minute`
+`  (4 + 129/8 + 4.5(age)) = 24.5 mana/minute`
 
 when half full, and will take (129/24.5) minutes = 316 seconds to fully
 regen from frozen. This rate increases to 28.5 when full, and decreases
@@ -45,7 +45,7 @@ to 20.5 when frozen.
 
 If the same character wears a mana ring and sleeps, they will average
 
-`  (4 + 129/8 + 4.5(age) + 4(ring)) * 2 = 57 mana/minute`
+`  (4 + 129/8 + 4.5(age) + 4(ring)) * 2 = 57 mana/minute`
 
 and fully recover from frozen in (129/57)\*60 = 136 seconds. Strangely,
 the (fullness effect) seems to be slightly stronger when sleeping; it

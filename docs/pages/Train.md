@@ -10,13 +10,13 @@ The **train** command has three different purposes.
 You can use it to refresh one or more skills, in order not to forget
 them:
 
-`>train `[`fireball`](./Fireball.md)
-`>train all`
+`>train `[`fireball`](./Fireball.md)
+`>train all`
 
 Or you can use it to stop exercising in a given skill, so that you will
 eventually forget it:
 
-`>train off `[`dodge`](./Dodge.md)
+`>train off `[`dodge`](./Dodge.md)
 
 This is quite useful to decay certain constantly used skills, like
 dodge.
@@ -28,23 +28,23 @@ anymore (if you keep using it, that is).
 Skills in which you are not training anymore are marked by an asterisk
 in the practice list:
 
-`Skill / Spell          Knowledge  Difficulty Class      `[`Mana`](./Mana.md)`  Casting time`
+`Skill / Spell          Knowledge  Difficulty Class      `[`Mana`](./Mana.md)`  Casting time`
 | Skill | Sessions | Difficulty |
 |-------|----------|------------|
 | [Cure light](./Cure_Light.md) | * | Superb     Normal     `[`Cleric`](./Cleric.md)`       10  Very short |
 ```
-                     ^
-                Not refreshed
+                     ^
+                Not refreshed
 ```
 
 Finally, 'train' can be used to improve some of your base
 abilities at the expense of others. For example:
 
 ```
-> train improve strength
-> train neglect constitution
-> train maintain perception
-> train revert will
+> train improve strength
+> train neglect constitution
+> train maintain perception
+> train revert will
 ```
 
 Once you choose some abilities to improve and some abilities to neglect,

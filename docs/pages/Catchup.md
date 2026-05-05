@@ -19,7 +19,7 @@ except the last \&lt;-number\&gt; messages as read.
 
 Example:
 
-` > catchup 14201`
+` > catchup 14201`
 
 See also: [Boards](./Boards.md), [Mark](./Mark.md),
 [Read](./Read.md), [Reply](./Reply.md),

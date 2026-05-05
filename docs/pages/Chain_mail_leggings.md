@@ -12,16 +12,16 @@ They are worth about 1 [gold](./Gold.md) and 6 silver, and are
 sold by most armourers.
 
 ```
-A pair of chain mail leggings are lying here.
-> look leggings
-Many rings have been locked into each other to form this armour. This piece of
-work offers ample protection for the legs, but is only of minor quality.
+A pair of chain mail leggings are lying here.
+> look leggings
+Many rings have been locked into each other to form this armour. This piece of
+work offers ample protection for the legs, but is only of minor quality.
 ```
 
-`> `**`consider leggings`**
+`> `**`consider leggings`**
 ```
-They are a pair of chain mail leggings.
-They weigh six pounds.
+They are a pair of chain mail leggings.
+They weigh six pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

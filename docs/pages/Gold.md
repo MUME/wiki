@@ -18,11 +18,11 @@ an [Elf](./Elf.md). (lauren = gold, celeb = silver, busc = copper)
 To [drop](./Drop.md), or [give](./Give.md) money, use
 &lt;amount&gt; &lt;kind&gt;, as in:
 
-` > give 4 silver bilbo`
+` > give 4 silver bilbo`
 
 When referring to an unknown amount, use 'coins':
 
-` > take coins`
+` > take coins`
 
 Money is useful for buying things, and for [storing
 your equipment](./Rent.md) while you are not playing.

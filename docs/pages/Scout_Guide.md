@@ -104,18 +104,18 @@ your points here.
 Here are a few examples of stats:
 
 ```
-Man (pure)
-Str:15 Int: 9 Wis: 8 Dex:18 Con:16 Wil:12 Per:17.
+Man (pure)
+Str:15 Int: 9 Wis: 8 Dex:18 Con:16 Wil:12 Per:17.
 ```
 
 ```
-Elf (higer scout% allows more warrior skills)
-Str:15 Int: 9 Wis: 8 Dex:19 Con:15 Wil: 9 Per:18.
+Elf (higer scout% allows more warrior skills)
+Str:15 Int: 9 Wis: 8 Dex:19 Con:15 Wil: 9 Per:18.
 ```
 
 ```
-Hobbit (most hps)
-Str:14 Int: 7 Wis: 8 Dex:19 Con:18 Wil:11 Per:16.
+Hobbit (most hps)
+Str:14 Int: 7 Wis: 8 Dex:19 Con:18 Wil:11 Per:16.
 ```
 
 ### Pracs and leveling

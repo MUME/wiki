@@ -17,10 +17,10 @@ a [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
 [ring](./Ring.md), and russet cloth equipment.
 
 ```
-An old, yet beautiful woman looks piercingly at you.
+An old, yet beautiful woman looks piercingly at you.
 >examine woman
-Though quite old, this woman has a strange, compelling beauty, perhaps
-because of her startlingly clear and piercing hazel eyes. Her long hair,
-though showing strands of grey remains lustrous, and her figure trim.
+Though quite old, this woman has a strange, compelling beauty, perhaps
+because of her startlingly clear and piercing hazel eyes. Her long hair,
+though showing strands of grey remains lustrous, and her figure trim.
 ```
  

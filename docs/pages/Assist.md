@@ -15,7 +15,7 @@ attacking the 'wrong' one.
 
 Example:
 
-` > assist petrel`
+` > assist petrel`
 
 "assist" by itself will make you assist a [group](./Group.md)
 member.

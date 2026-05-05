@@ -10,13 +10,13 @@ Galadhon](/pages/Lothlórien). He can usually be found
 [sneaking](./Sneak.md) around in the western part of the city.
 
 ```
-Orophin, Lord of the Galadhrim, stands before you.
+Orophin, Lord of the Galadhrim, stands before you.
 >examine Orophin
-Tall and strong, Orophin, one of the Lords and great rangers of the Galadhrim 
-stands before you. Golden hair frames his intelligent face and clear, bright 
-eyes that never rest as they eternally watch the Golden Wood. Clad in the grey
-and green of a ranger, he moves as if being one with the forest, disturbing 
-nothing and perceived less than a gentle breeze through the canopy.
+Tall and strong, Orophin, one of the Lords and great rangers of the Galadhrim 
+stands before you. Golden hair frames his intelligent face and clear, bright 
+eyes that never rest as they eternally watch the Golden Wood. Clad in the grey
+and green of a ranger, he moves as if being one with the forest, disturbing 
+nothing and perceived less than a gentle breeze through the canopy.
 ```
 
 ## Skill list

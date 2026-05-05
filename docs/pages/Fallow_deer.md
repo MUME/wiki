@@ -10,8 +10,8 @@ can be butchered to produce a [fine pelt](./Fine_pelt.md) and some
 [meat](./Meat.md).
 
 ```
-A fallow deer is grazing peacefully here.
+A fallow deer is grazing peacefully here.
 >examine deer
-This small brown and white deer nibbles at the vegetation, glancing up
-every few seconds to look for danger with its liquid brown eyes.
+This small brown and white deer nibbles at the vegetation, glancing up
+every few seconds to look for danger with its liquid brown eyes.
 ```

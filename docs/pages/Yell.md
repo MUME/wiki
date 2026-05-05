@@ -15,7 +15,7 @@ white-side players' yells and vice-versa.
 
 Example:
 
-`> yell Is Clint still alive?`
+`> yell Is Clint still alive?`
 
 See also: [Shout](./Shout.md), [Tell](./Tell.md),
 [Narrate](./Narrate.md), [Sing](./Sing.md),

@@ -12,9 +12,9 @@ Their [corpses](./Corpse.md) can be
 pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).
 
 ```
-A young mountain lion is sizing up his next meal from the nearby cover.
+A young mountain lion is sizing up his next meal from the nearby cover.
 >examine lion
-The lion moves lightly about, keeping camouflaged as it stalks for prey. He is
-dressed in a fur coat fit for a king, but he doesn't seem willing to part with
+The lion moves lightly about, keeping camouflaged as it stalks for prey. He is
+dressed in a fur coat fit for a king, but he doesn't seem willing to part with
 it.
 ```

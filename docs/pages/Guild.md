@@ -20,4 +20,4 @@ skilled master to reach a complete understanding of some skill or
 If you wish to know the use of a particular skill or spell, you can ask
 any guild master who teaches this ability for information:
 
-`> ask thief help `[`dodge`](./Dodge.md)
+`> ask thief help `[`dodge`](./Dodge.md)

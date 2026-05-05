@@ -19,9 +19,9 @@ blackscroll/bluescroll as keywords.
 Examples:
 
 ```
-> recite purple           (recite a purple scroll on yourself)
-> recite purplescroll     (same effect)
-> recite blackscroll trix (recite a black scroll on trix)
+> recite purple           (recite a purple scroll on yourself)
+> recite purplescroll     (same effect)
+> recite blackscroll trix (recite a black scroll on trix)
 ```
 
 See also: [Cast](./Cast.md)

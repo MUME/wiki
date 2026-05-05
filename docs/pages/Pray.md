@@ -66,6 +66,6 @@ the problem is, NOT what person you'd like to talk to.
 
 Example:
 
-`> pray Harry won't open the gate for me, even if I am citizen`
+`> pray Harry won't open the gate for me, even if I am citizen`
 
 See also: [Narrate](./Narrate.md), [Sing](./Sing.md)

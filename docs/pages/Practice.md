@@ -62,5 +62,5 @@ days. "[retire](./Retire.md)" will provide complete details.
 
 Examples:
 
-`> practice`
-`> practice `[`ride`](/pages/Ride)
+`> practice`
+`> practice `[`ride`](/pages/Ride)

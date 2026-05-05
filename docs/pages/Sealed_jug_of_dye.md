@@ -9,16 +9,16 @@ complete the [ancient weaver](./Ancient_weaver.md)'s
 [quest](./Quest#The_Elven_Weaver.md).
 
 ```
-A tightly sealed jug of dye has been set carefully here.
+A tightly sealed jug of dye has been set carefully here.
 >examine jug
-This jug is made of thick ceramic and looks like it is quite durable. The
-outer surface is a reddish-brown and has been glazed and fired to create a
-glassy, shimmering effect. A small label has been attached to the front of
-the jug.
+This jug is made of thick ceramic and looks like it is quite durable. The
+outer surface is a reddish-brown and has been glazed and fired to create a
+glassy, shimmering effect. A small label has been attached to the front of
+the jug.
 ```
 
 `>`**`consider jug`**
 ```
-It is a sealed jug of dye.
-It weighs eight pounds.
+It is a sealed jug of dye.
+It weighs eight pounds.
 ```

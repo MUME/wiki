@@ -9,12 +9,12 @@ An **elven hunter** teaches [scout](./Thief.md)
 Harlond.
 
 ```
-An elven hunter is here, ready to teach.
+An elven hunter is here, ready to teach.
 >examine hunter
-This elf has long, slender arms and legs as strong as the trunk of a rowan
-tree. His eyes are a bright green, accenting his brown hair. After spending
-countless years protecting the lands he holds sacred, he has decided to teach
-the next generation in the ways of stealth and cunning.
+This elf has long, slender arms and legs as strong as the trunk of a rowan
+tree. His eyes are a bright green, accenting his brown hair. After spending
+countless years protecting the lands he holds sacred, he has decided to teach
+the next generation in the ways of stealth and cunning.
 ```
 
 ## Skill list

@@ -11,8 +11,8 @@ for a [fine pelt](./Fine_pelt.md) and some
 [meat](./Meat.md).
 
 ```
-A buck runs swiftly from place to place, looking about warily as it grazes.
+A buck runs swiftly from place to place, looking about warily as it grazes.
 >examine buck
-This deer moves about with lightning speed, darting to and fro. It is
-brown and has small antlers that it uses during the mating season.
+This deer moves about with lightning speed, darting to and fro. It is
+brown and has small antlers that it uses during the mating season.
 ```

@@ -184,7 +184,7 @@ fast.
 //Note: Key can decay very fast. If you need the metals and axe, I would
 suggest only
 
-`getting after you are ready to use it. \\Iluvator//`
+`getting after you are ready to use it. \\Iluvator//`
 
 - - Loads:\*\* Thick gauntlets on Umuk, blackened dwarven axe and plate
     metal set in
@@ -323,10 +323,10 @@ Shining chain mail sleeves in his treasure rooms.
 - - Strategy:\*\* To do Balrog you need 4 keys. They load at:
 
 ```
- Muranog     - in cabinet   - mithril key
- Mezagor     - in corpse    - bloody key
- Grey spider - in chest     - jewel-encrusted key
- underwater  - behind crack - great bone key
+ Muranog     - in cabinet   - mithril key
+ Mezagor     - in corpse    - bloody key
+ Grey spider - in chest     - jewel-encrusted key
+ underwater  - behind crack - great bone key
 ```
 
 Even if you already have Muranog's mithril key, go and kill him -

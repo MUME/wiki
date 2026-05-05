@@ -11,11 +11,11 @@ castle](/pages/Malardil). They load with a [studded leather
 collar](./Studded_leather_collar.md).
 
 ```
-A strong bulldog, with sharp teeth, growls at strangers.
+A strong bulldog, with sharp teeth, growls at strangers.
 >examine dog
-The dog is substantial and shows nothing but muscles. It has long,
-very sharp teeth in its jaw, and it foams at the mouth a little as
-it bares its teeth and glares at you.
+The dog is substantial and shows nothing but muscles. It has long,
+very sharp teeth in its jaw, and it foams at the mouth a little as
+it bares its teeth and glares at you.
 ```
 
 .

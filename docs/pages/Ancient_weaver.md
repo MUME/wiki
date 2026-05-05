@@ -11,11 +11,11 @@ of Harlond. She is looking for someone to
 dye she uses for making [cloaks](./Forest_green_cloak.md).
 
 ```
-An exceptionally old elf is here, examining a piece of cloth.
+An exceptionally old elf is here, examining a piece of cloth.
 >examine weaver
-Unlike many of her people, this elven woman is clearly ancient and shows signs
-of age not often seen on elves. Her hair, perhaps once silver, has lost its
-lustre and now is merely grey. Fine lines mark her face, some deep enough to
-be visible at a distance. Her most notable feature is her fingers, which are
-stained green.
+Unlike many of her people, this elven woman is clearly ancient and shows signs
+of age not often seen on elves. Her hair, perhaps once silver, has lost its
+lustre and now is merely grey. Fine lines mark her face, some deep enough to
+be visible at a distance. Her most notable feature is her fingers, which are
+stained green.
 ```

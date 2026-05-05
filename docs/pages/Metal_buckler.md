@@ -10,18 +10,18 @@ Metal bucklers can be bought from most armourers for around 13
 silver.
 
 ```
-A simple metal buckler lies here.
+A simple metal buckler lies here.
 >examine buckler
-This small round metal shield has been crafted to provide the wielder of a
-two-handed weapon a minimal element of defence. Small thick leather straps can
-be found on the inside of the buckler, allowing you to strap it onto one of
-your forearms.
+This small round metal shield has been crafted to provide the wielder of a
+two-handed weapon a minimal element of defence. Small thick leather straps can
+be found on the inside of the buckler, allowing you to strap it onto one of
+your forearms.
 ```
 
 `>`**`consider buckler`**
 ```
-It is a metal buckler.
-It weighs eight pounds.
+It is a metal buckler.
+It weighs eight pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

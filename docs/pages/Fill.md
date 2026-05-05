@@ -13,5 +13,5 @@ NOTE: If you want to fill a [water skin](./Water_skin.md), use the
 
 Example:
 
-`> fill lantern`
+`> fill lantern`
  

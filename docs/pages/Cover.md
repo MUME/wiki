@@ -18,8 +18,8 @@ of the light source you want to cover or uncover.
 Example:
 
 ```
-> cover lantern
-> uncover lantern
+> cover lantern
+> uncover lantern
 ```
 
 See also: [Light](./Light.md)

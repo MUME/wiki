@@ -11,13 +11,13 @@ to another.
 Syntax:
 
 ```
-pour source destination
-pour container out        (alternative to emptying)
+pour source destination
+pour container out        (alternative to emptying)
 ```
 
 Example:
 
-`> pour fountain skin`
+`> pour fountain skin`
 
 See also: [Drink](./Drink.md), [Empty](./Empty.md)
  

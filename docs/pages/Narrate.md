@@ -28,7 +28,7 @@ If you are asked by other player(s) to take your discussion to the
 
 Example:
 
-` > narrate Is it safe to travel from `[`Bree`](./Bree.md)` to `[`Fornost`](./Fornost.md)`?`
+` > narrate Is it safe to travel from `[`Bree`](./Bree.md)` to `[`Fornost`](./Fornost.md)`?`
 
 See also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Shout](./Shout.md), [Listen](./Listen.md),

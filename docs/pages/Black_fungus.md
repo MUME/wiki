@@ -9,8 +9,8 @@ tags:
 various locations around [Arda](./Arda.md).
 
 ```
-A huge black fungus is here, exuding a foul stench.
+A huge black fungus is here, exuding a foul stench.
 >examine fungus
-This huge foul entity seems to thrive on death and decay, growing tall and
-slimy among any rotting matter, and exuding a fetid odour.
+This huge foul entity seems to thrive on death and decay, growing tall and
+slimy among any rotting matter, and exuding a fetid odour.
 ```

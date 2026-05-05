@@ -33,8 +33,8 @@ any specification, you will try to ride any previously ridden mounts in
 the area you are in. You can also specify the mount, for example
 
 ```
-> ride warhorse
-> ride 2.pack
+> ride warhorse
+> ride 2.pack
 ```
 
 Use 'dismount' or 'lead' to get off the mount.
@@ -107,8 +107,8 @@ even without saddles.
 Saddles can be bought at grocers and traveller shops.
 
 ```
-> saddle mule (saddles the mule)
-> unsaddle mule (removes the saddle from the mule)
+> saddle mule (saddles the mule)
+> unsaddle mule (removes the saddle from the mule)
 ```
 
 Saddles have the added benefit that your mount cannot be
@@ -120,13 +120,13 @@ There are other uses to the unsaddle command (see below).
 
 To transfer items from your own inventory to the mount's inventory use
 
-`> give sword mule (transfer a sword from your inventory to the mule's inventory)`
+`> give sword mule (transfer a sword from your inventory to the mule's inventory)`
 
 Entirely independent of the horse carrying an actual saddle or not is
 the 'unsaddle all' command. This will make the mount to drop all of its
 inventory (oddly except for its saddle).
 
-`> unsaddle mule all (makes the mule drop everything it is carrying, except its saddle)`
+`> unsaddle mule all (makes the mule drop everything it is carrying, except its saddle)`
 
 This is the only way (except for renting or killing the mount or using
 the steal skill) to get items from your mount's inventory. So to get
@@ -135,7 +135,7 @@ don't need back to the mount.
 
 To see your mount's current inventory you can simply use
 
-`> examine mule`
+`> examine mule`
 
 ## Types of mounts
 
@@ -179,12 +179,12 @@ Most types can also be purchased for a few gold in pet shops.
 Stables allow you to rent your horse so you can keep it for your next
 session:
 
-` rent horse`
+` rent horse`
 
 You will receive a ticket which you can use again at any stable to get
 your horse back:
 
-` trade ticket`
+` trade ticket`
 
 Renting itself is free, and trading the ticket will cost a few silver.
 
@@ -196,7 +196,7 @@ transferred to you.
 Warhorses and Rohirrim can be called to come to the players location,
 which can be useful if it got separated from you:
 
-` tell horse here `
+` tell horse here `
 
 This will only work if the horse was being led by you and if the horse
 is in your immediate vicinity (5 rooms distance).

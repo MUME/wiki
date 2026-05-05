@@ -20,13 +20,13 @@ This spell will change the "course" of the current local
 possible effects are:
 
 ```
- clouds more          temperature lower         fog increase
- clouds less          temperature higher        fog decrease
+ clouds more          temperature lower         fog increase
+ clouds less          temperature higher        fog decrease
 ```
 
 Example:
 
-` > cast 'control weather' clouds more`
+` > cast 'control weather' clouds more`
 
 This spell can be learned from:
 

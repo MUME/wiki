@@ -9,14 +9,14 @@ A **retired warrior** teaches [warrior](./Warrior.md)
 Hill](./Black_Hill.md).
 
 ```
-An old, retired warrior is waiting here, eager to share his knowledge.
-> examine warrior
-Clad in soft leather armour, this old warrior slowly practices his fighting
-techniques. A casual observer might think this old man's tanned face and
-furrowed brow belong to a tired soldier but despite his advanced age, he
-seems alert and ready for danger. He bears a red scar that runs down the
-side of his neck and onto his shoulder, a lasting reminder of a wound
-sustained in battle long ago.
+An old, retired warrior is waiting here, eager to share his knowledge.
+> examine warrior
+Clad in soft leather armour, this old warrior slowly practices his fighting
+techniques. A casual observer might think this old man's tanned face and
+furrowed brow belong to a tired soldier but despite his advanced age, he
+seems alert and ready for danger. He bears a red scar that runs down the
+side of his neck and onto his shoulder, a lasting reminder of a wound
+sustained in battle long ago.
 ```
 
 ## Skill list

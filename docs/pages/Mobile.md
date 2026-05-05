@@ -17,7 +17,7 @@ other person in the room, you don't need to give its name of course.
 Also, in an ongoing conversation, you don't need to include the mobile's
 name each time.
 
-` say Barliman, hello!`
+` say Barliman, hello!`
 
 If you are alone in a room with a mobile and speak, of course, the mob
 will assume you're speaking to him.

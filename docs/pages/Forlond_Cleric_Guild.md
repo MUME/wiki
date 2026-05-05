@@ -9,11 +9,11 @@ An **elven priest** teaches [cleric](./Cleric.md)
 Forlond.
 
 ```
-A venerable elven priest is here, willing to teach his art.
+A venerable elven priest is here, willing to teach his art.
 >examine priest
-This ancient elf does not show his age on his face or body, it shows in
-his confident, commanding manner and the great respect that other elves
-show him.
+This ancient elf does not show his age on his face or body, it shows in
+his confident, commanding manner and the great respect that other elves
+show him.
 ```
 
 ## Spell list

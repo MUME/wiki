@@ -9,12 +9,12 @@ The **old Shirriff** teaches [warrior](./Warrior.md)
 [guild](./Guild.md) is open from 7am to 7pm.
 
 ```
-An old, and slightly overweight Shirriff sits in a chair.
+An old, and slightly overweight Shirriff sits in a chair.
 >examine shirriff
-This aged hobbit was once an active Shirriff, by his garb and his feathered
-hat, but now has taken up training younger Hobbits in the ways of fighting.
-His paunchy stomach makes him appear sluggish, but his movements are deft.
-The old Shirriff is in an excellent condition.
+This aged hobbit was once an active Shirriff, by his garb and his feathered
+hat, but now has taken up training younger Hobbits in the ways of fighting.
+His paunchy stomach makes him appear sluggish, but his movements are deft.
+The old Shirriff is in an excellent condition.
 ```
 
 ## Skill list

@@ -12,10 +12,10 @@ pager.
 
 View also has a few special uses:
 
-`view wizlist            show the list of `[`immortals`](./Ainur.md)
+`view wizlist            show the list of `[`immortals`](./Ainur.md)
 ```
-view wizretired         show the list of retired immortals
-view war                show the current balance of power
-view warlords           show the list of warlords
+view wizretired         show the list of retired immortals
+view war                show the current balance of power
+view warlords           show the list of warlords
 ```
  

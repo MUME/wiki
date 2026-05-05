@@ -12,12 +12,12 @@ Mayor's Office; to enter, one must pay 1 [silver](./Gold.md) to
 for 2 hours.
 
 ```
-Gathrain, a retired Bree guard lives here, looking for pupils to train.
+Gathrain, a retired Bree guard lives here, looking for pupils to train.
 >examine Gathrain
-A veteran of many battles and services of the Mayor, this warrior has now
-settled in Bree, turning his hand to training others in the art of fighting.
-Though his techniques are not exemplary, you can probably hone some of your
-skills in warcraft here.
+A veteran of many battles and services of the Mayor, this warrior has now
+settled in Bree, turning his hand to training others in the art of fighting.
+Though his techniques are not exemplary, you can probably hone some of your
+skills in warcraft here.
 ```
 
 ## Skill list

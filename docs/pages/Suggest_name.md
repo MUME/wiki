@@ -12,7 +12,7 @@ suggests a name for the specified sex/[race](./Race.md).
 
 Example:
 
-`> suggest name male hobbit`
+`> suggest name male hobbit`
 
 Accepted races/subraces:
 

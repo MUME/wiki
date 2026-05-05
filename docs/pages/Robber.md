@@ -12,8 +12,8 @@ various locations around [Arda](./Arda.md). They can
 equipment.
 
 ```
-A mean-looking robber is here, demanding money from you.
+A mean-looking robber is here, demanding money from you.
 >look robber
-This robber looks totally unscrupulous. He looks at you and decides
-you would be a juicy target to rob.
+This robber looks totally unscrupulous. He looks at you and decides
+you would be a juicy target to rob.
 ```

@@ -7,15 +7,15 @@ tags:
 With **acts**, you can tell others what you are up to at the moment.
 Usually when people see you in the [room](./room.md) they see:
 
-` Gandalf is standing here.`
+` Gandalf is standing here.`
 
 Using acts you can do the following:
 
-` > acts making fancy smoke-rings`
+` > acts making fancy smoke-rings`
 
 and people will see:
 
-` Gandalf is standing here making fancy smoke-rings.`
+` Gandalf is standing here making fancy smoke-rings.`
 
 To turn the acts text off, just type "acts". The string will be reset
 automatically when you sit, stand,

@@ -10,7 +10,7 @@ is [asleep](./Sleep.md). Do not abuse this command.
 
 Example:
 
-`> beep Gandalf`
+`> beep Gandalf`
 
 With '[change](./Change.md) beep' you can set whether you want
 other players to be able to beep you.

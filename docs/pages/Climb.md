@@ -27,14 +27,14 @@ you are safe from falling.
 Examples:
 
 ```
-   > climb safe
-   Ok, You will climb only when it is reasonably safe to do so.
-   c > climb always
-   You will try to climb even under unsafe conditions.
-   C > climb
-   You won't climb anymore.
-   > climb
-   You will try to climb even under unsafe conditions.
+   > climb safe
+   Ok, You will climb only when it is reasonably safe to do so.
+   c > climb always
+   You will try to climb even under unsafe conditions.
+   C > climb
+   You won't climb anymore.
+   > climb
+   You will try to climb even under unsafe conditions.
 ```
 
 When attempting to negotiate a hard climb, unless you have chosen to
@@ -42,13 +42,13 @@ When attempting to negotiate a hard climb, unless you have chosen to
 using the "climb" command. For example:
 
 ```
-   c > up
-   The ascent ahead seems quite difficult to climb, while falling down might
-   inflict some pain.
-   If you still want to try, you must 'climb' there.
-   
-   c HP:Fine> climb up
-   Top of the Cliff
+   c > up
+   The ascent ahead seems quite difficult to climb, while falling down might
+   inflict some pain.
+   If you still want to try, you must 'climb' there.
+   
+   c HP:Fine> climb up
+   Top of the Cliff
 ```
 
 If you fail a climb attempt, MUME calculates from which height you fell,
@@ -68,9 +68,9 @@ hurt by falling from close to the top, by looking at the climb exit: for
 example,
 
 ```
-   > look up
-   The ascent ahead seems quite difficult to climb, while falling down might
-   inflict some pain.
+   > look up
+   The ascent ahead seems quite difficult to climb, while falling down might
+   inflict some pain.
 ```
 
 Please note that difficulty and damage messages are relative to your

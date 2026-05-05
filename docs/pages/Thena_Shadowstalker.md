@@ -16,10 +16,10 @@ cloak](./Ragged,_blackened_cloak.md) and a [soft leather riding
 skirt](./Soft_leather_riding_skirt.md).
 
 ```
-A female robber glares challengingly at you.
+A female robber glares challengingly at you.
 >examine thena
-This woman seems very sure of herself, almost to the point of being arrogant.
-She is lean, and moves like a panther, strength in every motion. Long black
-hair flows in the wind as she considers you and your purse.
+This woman seems very sure of herself, almost to the point of being arrogant.
+She is lean, and moves like a panther, strength in every motion. Long black
+hair flows in the wind as she considers you and your purse.
 ```
  

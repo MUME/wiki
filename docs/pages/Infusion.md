@@ -11,16 +11,16 @@ your maximum [mana](./Mana.md) and mana
 be found inside the Great Smials in the [Shire](./Shire.md).
 
 ```
-An infusion of herbs gives out a nice scent.
+An infusion of herbs gives out a nice scent.
 >look at infusion
-The infusion has a yellow-greenish colour. Fragments of healing herbs float
-in it. Its smell reminds you of the medicine used by grandma to cure her flu.
+The infusion has a yellow-greenish colour. Fragments of healing herbs float
+in it. Its smell reminds you of the medicine used by grandma to cure her flu.
 ```
 
 `>`**`consider infusion`**
 ```
-It is an infusion.
-It weighs half a pound.
+It is an infusion.
+It weighs half a pound.
 ```
 
 <!--@include: ../includes/Items.md-->

@@ -18,10 +18,10 @@ a [cloak](./Cloak.md), [belt](./Belt.md),
 leather equipment.
 
 ```
-A tall, lean man follows your every move with his eyes.
+A tall, lean man follows your every move with his eyes.
 >examine Malardil
-Malardil has a grim and firm look. He is a well dressed man and he has
-an aura that shows his power and his arrogance. His dark eyes hold a cruel,
-calculating glint.
+Malardil has a grim and firm look. He is a well dressed man and he has
+an aura that shows his power and his arrogance. His dark eyes hold a cruel,
+calculating glint.
 ```
  

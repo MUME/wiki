@@ -1,6 +1,6 @@
 ---
 title: Spell list
-description: 'Level    Magic User spells:            Cleric spells:'
+description: 'Level    Magic User spells:            Cleric spells:'
 ---
 
 | Level | Magic User Spells | Cleric Spells |

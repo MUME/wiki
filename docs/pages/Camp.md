@@ -32,7 +32,7 @@ order to leave the game, as well as "camp rent retire", "camp offer",
 
 Example:
 
-` > camp`
+` > camp`
 
 See also: [Cook](./Cook.md), [Look](./Look.md),
 [Sleep](./Sleep.md), [Rent](./Rent.md)

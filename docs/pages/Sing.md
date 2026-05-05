@@ -19,7 +19,7 @@ command](./Socials.md).
 
 Example:
 
-` > sing Oh, Elbereth!`
+` > sing Oh, Elbereth!`
 
 See also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Shout](./Shout.md), [Listen](./Listen.md),

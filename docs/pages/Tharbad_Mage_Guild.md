@@ -9,12 +9,12 @@ The **Illusionist** teaches [mage](./Mage.md)
 [Tharbad](./Tharbad.md).
 
 ```
-A middle-aged woman, the illusionist looks defiantly at you.
+A middle-aged woman, the illusionist looks defiantly at you.
 >examine illusionist
-Even though this master looks only average in size, you can clearly detect
-an aura of confidence about her. She is dressed in fine robes which overlap
-and blend in a multi-coloured collage, almost seeming to glow and dance
-before your eyes.
+Even though this master looks only average in size, you can clearly detect
+an aura of confidence about her. She is dressed in fine robes which overlap
+and blend in a multi-coloured collage, almost seeming to glow and dance
+before your eyes.
 ```
 
 ## Spell list

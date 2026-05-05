@@ -11,16 +11,16 @@ from Captains for around 12
 somewhat rarer [light boat of reeds](./Light_boat_of_reeds.md).
 
 ```
-A canoe has been left here.
+A canoe has been left here.
 >examine canoe
-The canoe is light and sturdy, made of teakwood. It is six feet in length, and
-can easily be carried by a single person if need arises.
+The canoe is light and sturdy, made of teakwood. It is six feet in length, and
+can easily be carried by a single person if need arises.
 ```
 
 `>`**`consider canoe`**
 ```
-It is a canoe.
-It weighs two stone and seven pounds.
+It is a canoe.
+It weighs two stone and seven pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

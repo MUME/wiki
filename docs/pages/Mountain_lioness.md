@@ -10,6 +10,6 @@ Havens](./Grey_Havens.md). They can [sneak](./Sneak.md).
 Their corpses can be butchered to produce a [fine lion
 pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).
 
-`A mountain lioness pads quietly through the terrain.`
+`A mountain lioness pads quietly through the terrain.`
 `>`**`examine lion`**
-`A faint growl is heard as you approach this dangerous animal with vicious jaws.`
+`A faint growl is heard as you approach this dangerous animal with vicious jaws.`

@@ -9,18 +9,18 @@ some weaponsmiths for around 1 [gold](./Gold.md) and 13
 silver.
 
 ```
-A dagger with a shiny blade lies here.
+A dagger with a shiny blade lies here.
 >examine shiny
-This light dagger has a blade that shines with a soft yellow light, its handle
-is made of beautiful golden coloured metal.
+This light dagger has a blade that shines with a soft yellow light, its handle
+is made of beautiful golden coloured metal.
 ```
 
 `>`**`consider shiny`**
 ```
-It is a shiny dagger.
-This piercing weapon can be wielded one-handed.
-It is good while attacking and good while defending; its speed is very fast, and it inflicts average damage upon hitting.
-It weighs half a pound.
+It is a shiny dagger.
+This piercing weapon can be wielded one-handed.
+It is good while attacking and good while defending; its speed is very fast, and it inflicts average damage upon hitting.
+It weighs half a pound.
 ```
 
 <!--@include: ../includes/Items.md-->

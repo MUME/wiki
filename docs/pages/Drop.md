@@ -17,9 +17,9 @@ You can also use the "drop" command to try to shake off an unwanted
 or "drop everyone" to try to shake off everyone:
 
 ```
- > drop everyone
- Pippin stops following you.
- Merry stops following you.
+ > drop everyone
+ Pippin stops following you.
+ Merry stops following you.
 ```
 
 See also: [Get](./Get.md), [Put](./Put.md),

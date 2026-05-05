@@ -16,8 +16,8 @@ depending on how heavy your [weapon](./Weapon.md) is.
 Example:
 
 ```
-> hit 2.bear
-> kill *orc*
+> hit 2.bear
+> kill *orc*
 ```
 
 Also consider that killing beings who are "[good](./Alignment.md)"

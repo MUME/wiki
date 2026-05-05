@@ -13,7 +13,7 @@ silver...
 This lithe and playful animal is about three feet long and covered in
 sleek, chestnut-brown fur.
 
-` Protected by its warm coat, it is completely at home hunting for fish under the water.`
+` Protected by its warm coat, it is completely at home hunting for fish under the water.`
 
 ## Info
 

@@ -24,7 +24,7 @@ the shout command.
 
 Example:
 
-`> shout Confirmed bug found, can a V+ come here please?`
+`> shout Confirmed bug found, can a V+ come here please?`
 
 See also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Narrate](./Narrate.md), [Sing](./Sing.md),

@@ -14,15 +14,15 @@ creature that is [poisoning](./Quest#Poisoned_Forest.md) the
 forest.
 
 ```
-An old, wise tree with penetrating green eyes stands here.
+An old, wise tree with penetrating green eyes stands here.
 >examine Treebeard
-A man-like creature, clad in green and grey bark sturdily towers fourteen feet
-into the sky before you. His knob-knuckled hands have long agile fingers, and
-the great arms are covered by a brown smooth skin. A tall head, with eyes shot
-with an inner light of wisdom deep within their wells, is upon the wrinkled
-hide covering the core. Further downward, flowing from the roots of his face
-grows a twiggy beard which turns mossy at the ends. Both his huge feet carry 
-seven toes each and seem to root well in the ground.
+A man-like creature, clad in green and grey bark sturdily towers fourteen feet
+into the sky before you. His knob-knuckled hands have long agile fingers, and
+the great arms are covered by a brown smooth skin. A tall head, with eyes shot
+with an inner light of wisdom deep within their wells, is upon the wrinkled
+hide covering the core. Further downward, flowing from the roots of his face
+grows a twiggy beard which turns mossy at the ends. Both his huge feet carry 
+seven toes each and seem to root well in the ground.
 ```
 
 ## In LotR

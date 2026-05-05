@@ -10,11 +10,11 @@ Harlond. He is permanently under the effect of the
 [sanctuary](./Sanctuary.md) spell.
 
 ```
-An impressive elven knight stands watch here (glowing).
+An impressive elven knight stands watch here (glowing).
 >examine knight
-Tall, and bulky as elves go, this warrior has seen combat throughout
-the history of Arda. Even though elves do not scar, the toll of battle
-can be seen in his steel grey eyes.
+Tall, and bulky as elves go, this warrior has seen combat throughout
+the history of Arda. Even though elves do not scar, the toll of battle
+can be seen in his steel grey eyes.
 ```
 
 ## Skill list

@@ -9,12 +9,12 @@ A **priest** teaches [cleric](./Cleric.md)
 corner of [Tharbad](./Tharbad.md).
 
 ```
-A haggard man dressed in tattered robes is here, willing to teach his art.
+A haggard man dressed in tattered robes is here, willing to teach his art.
 >examine priest
-This man has the appearance of a fragile old priest. Yet under his thin
-robes, sinewy muscles attest to his past strength. His eyes appear 
-undisturbed by your presence, as if he feels confident you could not be a 
-threat to him.
+This man has the appearance of a fragile old priest. Yet under his thin
+robes, sinewy muscles attest to his past strength. His eyes appear 
+undisturbed by your presence, as if he feels confident you could not be a 
+threat to him.
 ```
 
 ## Spell list

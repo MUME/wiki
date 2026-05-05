@@ -10,8 +10,8 @@ pulled back instantly when they attempt to leave the
 [room](./room.md).
 
 ```
-Some roots lie here waiting to ensnare weary travellers.
+Some roots lie here waiting to ensnare weary travellers.
 >examine roots
-These roots seem to be alive and you sense their evil intent is to entrap
-you and never free you from their grasp till the life is gone from you.
+These roots seem to be alive and you sense their evil intent is to entrap
+you and never free you from their grasp till the life is gone from you.
 ```

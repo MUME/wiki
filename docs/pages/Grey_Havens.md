@@ -67,56 +67,56 @@ started their journeys here.
 1\. Harlond
 
 ```
-                                                        +----+
-  Map prepared for                                       |pier|
-Cirdan the Shipwright,                            +----+ |    |
-  Lord of Lindon and                        ____  |crag| |    |
-   Guardian of the         ________________/    _|    +-+    |             +-+
-     Grey Havens          /        Spider  ship          rocky|             |a|
-   by his kinswoman      | Fish    Garden   yard         shore|             |t|
-     and servant         | quay ___________     +-------+     +-------------+o|
-   Roanen Alkariel        \    /"""""""""""|   /""""""""|     Cobblestone   |p|
-                          _\  /_"""""""""""|   |"| Elven        Street        |
-          +--------------/      \""""""+---+   |"| village   +----------+   |w|
-          |       Fish    Fish-  +----+|thief  |"+-+   +-+   |""""""""""| R |a|
-          |Ferry  quay   market _ Inn ||guild  |"""|   |"|   +-------+""| a |l|
-          |dock  +--------+    |"|    |+---+   |"""+---+"|    cleric |""| m |l|
-          +-+    |""""""""|    |"+----+""""|   |"""""""""|     guild |""| p +-+
-            |    |""""""""|    |"""""""""""|   |"""""""""|   +-------+""| a |
-            |    +--------+  R +----------+|   +---++----+   |""""""""""| r |
-            |     Herbalist  o weaponsmith||  Star-||Mage    +----------+ t |
-            |                p  (Faldor's)||  light||Guild      orchard     |
-            |Herb+--------+  e +----------+| Garden|+----+   +----------+ R +-+
-            |quay|""""""""|  m |"""""""""""|   +---+"""""|   |""""""""""| d.|t|
-            |    |""""""""|  a |"+----+""""| C |"+-------+   |"+--------+   |o|
-            |    |""""""""|  k |"|yard|""""| e |"|Library    |"|guardpost    w|
-            |    |""""""""|  e |"|    |""""| n |"+------+    |"+--------+   |e|
-   +--------+    +--+"+---+  r |"|    |""""| t |""""""""|    |"+""""""+"|   |r|
-   |  Pier     Sail |"|Rope  s |"|    +----+ r +------+"|    |"|bakery|"|   +-+
-   |of Grey   makers|"|works   |"|  Crab     a Warrior|"/    +-+      +-+   |_
-   | Havens         |"|      S |"|   Alley   l  Guild |"|Fountain          Main
-   +--------+   +---+"+---+  t.|"|  +------+   +------+"| Square           Gate
-            |   |"""""""""|    |"|  |""""""| S |""""""""\    +-+      +-+   +-
-        +---+   |"+-------+    +-+  |"+----+ t.+-----+"""|   |"|      |"| R |
-        | Grand |"|Seagull Osse's   |"|tailor  armour|"""| M |"|grocer|"| a |
-        |   Quay|"| Inn     Well    |"| shop    shop |"""| a |"+------+"| m |
-        |P  +---+"|reception   +----+"+----+   +-----+"""| i |""""""""""| p |
-        |e  |"""""+--------+   |"""""""""""|   |"""""""""| n |""""""""""| a |
-        |l Q|"| s |""""""""|   |"""""""""""|   |"""""""""|   |""""""""""| r |
-+-----+ |a u|"| t |""""""""|   |""""+------+   +-------+"| R +----------+ t |
-|light| |r a|"| a +------+"|   |""""| park      Courier|"| d.|          |   |
-|house| |g y|"| b   Pet  |"|   |""""+------+    Service|"|     Ranger's | R |
- \   /  |i  |"| l   shop |"|   |"""""""""""|   +-------+"|       home   / d.|
- |   |  |r  |"| e        |"|   |"""""""""""|   |"""""""""|   |              |
-++   +--+   +-+-----     +-+   +-----------+   +---------+   |___    _/     |
-|Light    Light           Valinor                                           |
-| Jetty    Court            Street          Main Road                 Havens|
-+-------------------------+-   -+---------+    +---+    ++   +-----+   Park |
-                          |watch|        /     |"""/    ||   \      _______|
-                          |tower|  +----+ grove|+-+     ||    +---+  
-                          +-----+  |vine-      ||Guards'||Cirdan's|
-                                   | yards     || Halls ||  home  |
-                                   +-----------++-------++--------+
+                                                        +----+
+  Map prepared for                                       |pier|
+Cirdan the Shipwright,                            +----+ |    |
+  Lord of Lindon and                        ____  |crag| |    |
+   Guardian of the         ________________/    _|    +-+    |             +-+
+     Grey Havens          /        Spider  ship          rocky|             |a|
+   by his kinswoman      | Fish    Garden   yard         shore|             |t|
+     and servant         | quay ___________     +-------+     +-------------+o|
+   Roanen Alkariel        \    /"""""""""""|   /""""""""|     Cobblestone   |p|
+                          _\  /_"""""""""""|   |"| Elven        Street        |
+          +--------------/      \""""""+---+   |"| village   +----------+   |w|
+          |       Fish    Fish-  +----+|thief  |"+-+   +-+   |""""""""""| R |a|
+          |Ferry  quay   market _ Inn ||guild  |"""|   |"|   +-------+""| a |l|
+          |dock  +--------+    |"|    |+---+   |"""+---+"|    cleric |""| m |l|
+          +-+    |""""""""|    |"+----+""""|   |"""""""""|     guild |""| p +-+
+            |    |""""""""|    |"""""""""""|   |"""""""""|   +-------+""| a |
+            |    +--------+  R +----------+|   +---++----+   |""""""""""| r |
+            |     Herbalist  o weaponsmith||  Star-||Mage    +----------+ t |
+            |                p  (Faldor's)||  light||Guild      orchard     |
+            |Herb+--------+  e +----------+| Garden|+----+   +----------+ R +-+
+            |quay|""""""""|  m |"""""""""""|   +---+"""""|   |""""""""""| d.|t|
+            |    |""""""""|  a |"+----+""""| C |"+-------+   |"+--------+   |o|
+            |    |""""""""|  k |"|yard|""""| e |"|Library    |"|guardpost    w|
+            |    |""""""""|  e |"|    |""""| n |"+------+    |"+--------+   |e|
+   +--------+    +--+"+---+  r |"|    |""""| t |""""""""|    |"+""""""+"|   |r|
+   |  Pier     Sail |"|Rope  s |"|    +----+ r +------+"|    |"|bakery|"|   +-+
+   |of Grey   makers|"|works   |"|  Crab     a Warrior|"/    +-+      +-+   |_
+   | Havens         |"|      S |"|   Alley   l  Guild |"|Fountain          Main
+   +--------+   +---+"+---+  t.|"|  +------+   +------+"| Square           Gate
+            |   |"""""""""|    |"|  |""""""| S |""""""""\    +-+      +-+   +-
+        +---+   |"+-------+    +-+  |"+----+ t.+-----+"""|   |"|      |"| R |
+        | Grand |"|Seagull Osse's   |"|tailor  armour|"""| M |"|grocer|"| a |
+        |   Quay|"| Inn     Well    |"| shop    shop |"""| a |"+------+"| m |
+        |P  +---+"|reception   +----+"+----+   +-----+"""| i |""""""""""| p |
+        |e  |"""""+--------+   |"""""""""""|   |"""""""""| n |""""""""""| a |
+        |l Q|"| s |""""""""|   |"""""""""""|   |"""""""""|   |""""""""""| r |
++-----+ |a u|"| t |""""""""|   |""""+------+   +-------+"| R +----------+ t |
+|light| |r a|"| a +------+"|   |""""| park      Courier|"| d.|          |   |
+|house| |g y|"| b   Pet  |"|   |""""+------+    Service|"|     Ranger's | R |
+ \   /  |i  |"| l   shop |"|   |"""""""""""|   +-------+"|       home   / d.|
+ |   |  |r  |"| e        |"|   |"""""""""""|   |"""""""""|   |              |
+++   +--+   +-+-----     +-+   +-----------+   +---------+   |___    _/     |
+|Light    Light           Valinor                                           |
+| Jetty    Court            Street          Main Road                 Havens|
++-------------------------+-   -+---------+    +---+    ++   +-----+   Park |
+                          |watch|        /     |"""/    ||   \      _______|
+                          |tower|  +----+ grove|+-+     ||    +---+  
+                          +-----+  |vine-      ||Guards'||Cirdan's|
+                                   | yards     || Halls ||  home  |
+                                   +-----------++-------++--------+
 
 ```
 

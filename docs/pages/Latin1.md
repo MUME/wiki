@@ -6,7 +6,7 @@ tags:
 ---
 The following table displays the characters in ISO 8859-1 (also known as
 "Latin-1") which are printable and unlisted in the ascii(7) manual page.
-Oct Dec Hex Char Description 240 160 A0   NO-BREAK SPACE 241 161 A1 ¡
+Oct Dec Hex Char Description 240 160 A0   NO-BREAK SPACE 241 161 A1 ¡
 INVERTED EXCLAMATION MARK 242 162 A2 ¢ CENT SIGN 243 163 A3 £ POUND SIGN
 244 164 A4 ¤ CURRENCY SIGN 245 165 A5 ¥ YEN SIGN 246 166 A6 ¦ BROKEN BAR
 247 167 A7 § SECTION SIGN 250 168 A8 ¨ DIAERESIS 251 169 A9 © COPYRIGHT

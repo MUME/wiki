@@ -13,7 +13,7 @@ before usage.
 Example:
 
 ```
- > hold eye
- > use eye dwarf
+ > hold eye
+ > use eye dwarf
 ```
  

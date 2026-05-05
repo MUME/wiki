@@ -15,8 +15,8 @@ book](./Runic_book.md) with [Seeing](./Herblore#Seeing.md)
 herblore.
 
 ```
-A wicked black witch glares at you with mad eyes.
-> examine witch
->She meets your eyes with an ice-cold gaze. Despite her evil cunning and
-power she has not yet learnt about bathing.
+A wicked black witch glares at you with mad eyes.
+> examine witch
+>She meets your eyes with an ice-cold gaze. Despite her evil cunning and
+power she has not yet learnt about bathing.
 ```

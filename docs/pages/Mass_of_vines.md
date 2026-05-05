@@ -8,6 +8,6 @@ tags:
 [level](./Level.md) 11 mobiles, found in
 various locations around [Arda](./Arda.md), mostly in forests.
 
-`A mass of wriggling vines drops on you from the trees.`
+`A mass of wriggling vines drops on you from the trees.`
 `>`**`examine vines`**
-`They are very thick in the middle, but taper to a sharp point at the tips.`
+`They are very thick in the middle, but taper to a sharp point at the tips.`

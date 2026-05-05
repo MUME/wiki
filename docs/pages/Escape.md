@@ -33,8 +33,8 @@ instead of escaping.
 Examples:
 
 ```
- > escape
- > escape north
+ > escape
+ > escape north
 ```
 
 Knowledge of the escape skill also makes it easier for others to

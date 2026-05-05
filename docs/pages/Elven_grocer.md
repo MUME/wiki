@@ -9,9 +9,9 @@ tags:
 [Forlond](./Forlond_Grocer.md).
 
 ```
-> An elven grocer is standing here, quietly humming to herself.
-> look grocer
-You see a tall, female elf. Her golden hair flows out like a river and
-ends at the small of her back. She shimmers with a radiance that only
-an elf could have.
+> An elven grocer is standing here, quietly humming to herself.
+> look grocer
+You see a tall, female elf. Her golden hair flows out like a river and
+ends at the small of her back. She shimmers with a radiance that only
+an elf could have.
 ```

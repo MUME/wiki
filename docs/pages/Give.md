@@ -10,8 +10,8 @@ mobiles.
 
 Examples:
 
-`> give bread beggar  [This does not improve `[`alignment`](./Alignment.md)`!]`
-`> give 47 copper to bilbo`
+`> give bread beggar  [This does not improve `[`alignment`](./Alignment.md)`!]`
+`> give 47 copper to bilbo`
 
 Note that the monetary units (copper, silver, gold) are different for
 Elves.

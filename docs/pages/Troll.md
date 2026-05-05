@@ -65,7 +65,7 @@ The three subraces have the following modifiers:
 
 * They enjoy storming into battle and get a higher offensive bonus when aggressive or berserk.
 
-`* They can burrow under certain conditions.`
+`* They can burrow under certain conditions.`
 
 - MUME Cave Trolls \[1
 
@@ -77,7 +77,7 @@ MUME's Cave Trolls have a number of bonuses. These include:
 
 * They have huge bashes which may cause the victim to hurtle and collide with a nearby engaged target.
 
-`* Cave Trolls are more likely to cause their bashed victims to hurtle into other targets if they are dextrous and have mastered their weapon class.`
+`* Cave Trolls are more likely to cause their bashed victims to hurtle into other targets if they are dextrous and have mastered their weapon class.`
 
 - MUME Mountain Trolls \[1
 
@@ -91,7 +91,7 @@ MUME's Mountain Trolls have a number of bonuses. These include:
 
 * They can shake trees, push boulders, drag corpses, use slow doors, and dig more swiftly and effortlessly.
 
-`* Mountain Trolls are more likely to use wild attacks against other targets if they are dextrous and have mastered their weapon class. They are able to do so even when blinded!`
+`* Mountain Trolls are more likely to use wild attacks against other targets if they are dextrous and have mastered their weapon class. They are able to do so even when blinded!`
 
 ## Opinion
 

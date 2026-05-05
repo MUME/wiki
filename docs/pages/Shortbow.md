@@ -9,18 +9,18 @@ worth around 10 silver and is sold by most
 weaponsmiths.
 
 ```
-A shortbow has been left here.
+A shortbow has been left here.
 >examine bow
-This bow is made of flexible wood and a strong tendon has been attached to both
-ends. The bow roughly measures three feet from one end to the other and is
-suitable for mobile or small archers. 
+This bow is made of flexible wood and a strong tendon has been attached to both
+ends. The bow roughly measures three feet from one end to the other and is
+suitable for mobile or small archers. 
 ```
 
 `>`**`consider bow`**
 ```
-It is a shortbow.
-Its accuracy is poor, its speed very fast, and it causes little damage.
-It weighs three pounds.
+It is a shortbow.
+Its accuracy is poor, its speed very fast, and it causes little damage.
+It weighs three pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

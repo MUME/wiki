@@ -9,12 +9,12 @@ tags:
 [Fornost](./Fornost.md).
 
 ```
-Huor of Dor-lómin is standing here, ready to teach his arts.
+Huor of Dor-lómin is standing here, ready to teach his arts.
 >examine Huor
-Before you is Huor of Dor-lómin, the mightiest warrior of his time.
-His beard is grey and his moves are not as fast as they once were.
-Now retired from battle, he is ready to share his vast knowledge with the
-free people who are seeking to improve their skills in the use of arms.
+Before you is Huor of Dor-lómin, the mightiest warrior of his time.
+His beard is grey and his moves are not as fast as they once were.
+Now retired from battle, he is ready to share his vast knowledge with the
+free people who are seeking to improve their skills in the use of arms.
 ```
 
 ## Skill list

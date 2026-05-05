@@ -93,7 +93,7 @@ the second time will be treated as perjury!
 **Note:** [Valar](./Ainur.md) do not need to be in the office and
 may type:
 
-`'complain [ `&lt;town&gt;` [ all | wanted | paid ] | `&lt;someone&gt;` ]'`
+`'complain [ `&lt;town&gt;` [ all | wanted | paid ] | `&lt;someone&gt;` ]'`
 
 ## Justice
 

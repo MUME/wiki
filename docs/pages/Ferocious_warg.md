@@ -11,9 +11,9 @@ found mostly in the eastern parts of [Arda](./Arda.md). They can
 fur](./Warg_fur.md).
 
 ```
-A ferocious warg is here, snarling angrily.
-> look warg
-This is an exceptionally large wolf of thick black fur. Saliva drips from the
-great fangs and the eyes reveal an evil intelligence. Allied with the orcs,
-this creature of Morgoth's devising is the bane of the free people of the west.
+A ferocious warg is here, snarling angrily.
+> look warg
+This is an exceptionally large wolf of thick black fur. Saliva drips from the
+great fangs and the eyes reveal an evil intelligence. Allied with the orcs,
+this creature of Morgoth's devising is the bane of the free people of the west.
 ```

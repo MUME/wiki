@@ -9,13 +9,13 @@ tags:
 [Ingrove](./Anduin_Vale#Ingrove.md).
 
 ```
-A battle-hardened man stands alert.
+A battle-hardened man stands alert.
 >examine tymen
-Scars line his face and hands, which are the only exposed parts of his body. He
-walks with a slight gait, more than likely the result of an old injury. The
-casual observer might mistake this man for a tired soldier, but his eyes tell a
-different tale. Though calm and composed, quick eye movements indicate that he
-is ready to spring at a moment's notice.
+Scars line his face and hands, which are the only exposed parts of his body. He
+walks with a slight gait, more than likely the result of an old injury. The
+casual observer might mistake this man for a tired soldier, but his eyes tell a
+different tale. Though calm and composed, quick eye movements indicate that he
+is ready to spring at a moment's notice.
 ```
 
 ## Skill list

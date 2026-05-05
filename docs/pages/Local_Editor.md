@@ -15,9 +15,9 @@ files and launch your favorite editor on your local machine.
 
 Notable clients that support the protocol
 
-`* powwow -- unix/windows/mac command line client (from the early 90s)`
+`* powwow -- unix/windows/mac command line client (from the early 90s)`
 
-`* powtty -- windows port of powwow using putty (from the late 90s)`
+`* powtty -- windows port of powwow using putty (from the late 90s)`
 
 ## Using the protocol with powwow or powtty
 

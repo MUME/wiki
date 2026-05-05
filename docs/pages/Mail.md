@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 The **mail** system lets you send a message to one or more recipients.
-Mail has a lifetime of 60 days if unread and 30 if read. Because mail is
+Mail has a lifetime of 60 days if unread and 30 if read. Because mail is
 persistent, it is used most often to communicate with someone who is not
 always easy to reach.
 
@@ -18,7 +18,7 @@ title is optional, but at least one recipient is needed.
 
 Example:
 
-`write Happy birthday @bilbo @frodo`
+`write Happy birthday @bilbo @frodo`
 
 How it goes on depends on your editor. If you use the lineeditor, read
 [editor](./Editor.md).
@@ -31,21 +31,21 @@ Other commands:
 |-------|----------|------------|
 | [look](./Look.md) | mail | - lists mail addressed to you |
 | [tail](./Tail.md) | - | lists the 20 last mails to you |
-`tail `&lt;number&gt;` - lists the `&lt;number&gt;` last mails to you`
+`tail `&lt;number&gt;` - lists the `&lt;number&gt;` last mails to you`
 | Guild | Sessions |
 |-------|--------|
 | [read](./Read.md) | `&lt;number&gt; |
 ```
-look sent mail - lists mail you have sent
-read sent `&lt;number&gt;` - reads a mail you have sent
+look sent mail - lists mail you have sent
+read sent `&lt;number&gt;` - reads a mail you have sent
 ```
 | Guild | Sessions |
 |-------|--------|
 | [reply](./Reply.md) | `&lt;number&gt; |
-**`forward`**` `&lt;number&gt;` @dain - forward a mail to Dáin`
+**`forward`**` `&lt;number&gt;` @dain - forward a mail to Dáin`
 ```
-forward sent `&lt;number&gt;` @dain - forward a previously sent mail to Dįin
-forward sent `&lt;number&gt;` --retroactive-cc @dain - cc Dain on an existing mail
+forward sent `&lt;number&gt;` @dain - forward a previously sent mail to Dįin
+forward sent `&lt;number&gt;` --retroactive-cc @dain - cc Dain on an existing mail
 ```
 
 Messages you have already read are marked with a "+." A "+" next to a

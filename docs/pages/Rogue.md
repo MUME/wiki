@@ -15,10 +15,10 @@ with 7 silver and 50 copper, a
 some basic cloth equipment.
 
 ```
-A scrawny, yet muscular man skulks around.
+A scrawny, yet muscular man skulks around.
 >examine rogue
-Not a spare ounce of flesh is on his frame, but he looks strong and nimble.
-He has the shifty eyes of a ne'er-do-well, and his demeanour is that of a
-man not to be trusted.
+Not a spare ounce of flesh is on his frame, but he looks strong and nimble.
+He has the shifty eyes of a ne'er-do-well, and his demeanour is that of a
+man not to be trusted.
 ```
  

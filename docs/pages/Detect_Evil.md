@@ -12,20 +12,18 @@ Though it can give you an idea which mobiles you
 can kill to improve your alignment, it is overall not very useful.
 
 ```
-Syntax      : cast 'detect evil' [self-only]
-Type        : Detection
-Accumulative: No
-Duration    : Yes
-Casting     : Normal
-Position    : Standing
-Level       : Level 1
-Class       : Cleric
-Min. Mana   : 5
+Syntax      : cast 'detect evil' [self-only]
+Type        : Detection
+Accumulative: No
+Duration    : Yes
+Casting     : Normal
+Position    : Standing
+Level       : Level 1
+Class       : Cleric
+Min. Mana   : 5
 ```
 
-`Example:`
-
-`> cast 'detect evil'`
+**Example:** `> cast 'detect evil'`
 
 This spell can be learned from:
 

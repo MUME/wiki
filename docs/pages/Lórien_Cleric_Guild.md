@@ -10,15 +10,15 @@ tags:
 The guild is open from 8am to 6pm.
 
 ```
-A dark-haired, grey-eyed elven lady is standing here, clad all in white.
+A dark-haired, grey-eyed elven lady is standing here, clad all in white.
 >examine Anarwen
-Her countenance serene, her movements calm and gracious, her clothes of white
-as bright as the snow on the highest mountain peaks, Anarwen is a perfect
-image of a healer. One of the survivors of the ruin of Eregion, she was one of
-the first to sense the darkness behind Annatar's disguise. Yet she was too
-late, and all her knowledge and powers were to no avail against the ruin that 
-followed. Now her home is among the golden trees of Lórien, where she helps to
-keep the land unstained and unchanged.
+Her countenance serene, her movements calm and gracious, her clothes of white
+as bright as the snow on the highest mountain peaks, Anarwen is a perfect
+image of a healer. One of the survivors of the ruin of Eregion, she was one of
+the first to sense the darkness behind Annatar's disguise. Yet she was too
+late, and all her knowledge and powers were to no avail against the ruin that 
+followed. Now her home is among the golden trees of Lórien, where she helps to
+keep the land unstained and unchanged.
 ```
 
 ## Spell list

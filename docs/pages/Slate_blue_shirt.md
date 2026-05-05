@@ -11,12 +11,12 @@ Mandos](./Halls_of_Mandos.md). It can't be sold, and will decay
 very fast if [dropped](./Drop.md) on the ground.
 
 `>`**`examine shirt`**
-`The bluish grey shirt is made of thin, soft cloth. `
+`The bluish grey shirt is made of thin, soft cloth. `
 
 ```
 >consider shirt
-It is a slate blue shirt.
-It weighs a couple of pounds.
+It is a slate blue shirt.
+It weighs a couple of pounds.
 ```
 
 <!--@include: ../includes/Items.md-->

@@ -14,10 +14,10 @@ an aggressive level ? mob. He can
 and some leather equipment.
 
 ```
-Big John is swiftly moving around, hiding in the shadows.
+Big John is swiftly moving around, hiding in the shadows.
 >examine John
-Big John, the chief brigand, is a son of John, the lumberjack. When his father
-was slaughtered by ferocious adventurers, Big John decided to revenge. He has
-succeeded in his plan, and you are likely to be his next victim.
+Big John, the chief brigand, is a son of John, the lumberjack. When his father
+was slaughtered by ferocious adventurers, Big John decided to revenge. He has
+succeeded in his plan, and you are likely to be his next victim.
 ```
  

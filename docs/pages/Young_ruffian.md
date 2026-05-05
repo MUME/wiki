@@ -12,9 +12,9 @@ eastern edge of the [Tower Hills](./Tower_Hills.md). They load 70
 cloth equipment.
 
 ```
-A young ruffian is here, keeping a careful watch over the road.
+A young ruffian is here, keeping a careful watch over the road.
 >examine ruffian
-The young ruffian is a grungy man who relies on thievery and murder as a means
-of survival. An outlaw from Bree, he lives in anger, breathing hostility and 
-vengeance on the unwary.
+The young ruffian is a grungy man who relies on thievery and murder as a means
+of survival. An outlaw from Bree, he lives in anger, breathing hostility and 
+vengeance on the unwary.
 ```

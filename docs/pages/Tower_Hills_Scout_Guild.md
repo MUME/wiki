@@ -11,13 +11,13 @@ An **accomplished hunter** teaches [scout](./Thief.md)
 slithering snakes in the area.
 
 ```
-An accomplished hunter stands here, ready to teach you his craft.
-> examine hunter
-Years of stalking his quarry across the wilderness have given this man the
-ability to move silently through any terrain. Remaining undetected is what made
-the hunter so successful whether it was tracking wildlife or evil creatures.
-Furtive glances out of the cabin's windows show that, despite his advanced
-years, he has lost none of his drive to stalk his prey.
+An accomplished hunter stands here, ready to teach you his craft.
+> examine hunter
+Years of stalking his quarry across the wilderness have given this man the
+ability to move silently through any terrain. Remaining undetected is what made
+the hunter so successful whether it was tracking wildlife or evil creatures.
+Furtive glances out of the cabin's windows show that, despite his advanced
+years, he has lost none of his drive to stalk his prey.
 ```
 
 ## Skill list

@@ -1345,24 +1345,24 @@ file.
 This is for JMC client
 
 ```
-#substitute {Astron} {Astron [7pm-7am] (Early Spring)}
-#substitute {Birithon} {Birithon [7pm-7am] (Late Autumn)}
-#substitute {Blotmath} {Blotmath [8pm-7am] (Mid Autumn)}
-#substitute {Cerveth} {Cerveth [9pm-5am] (Early Summer)}
-#substitute {Forelithe} {Forelithe [8pm-6am] (Late Spring)}
-#substitute {Foreyule} {Foreyule [7pm-7am] (Late Autumn)}
-#substitute {Gwaeron} {Gwaeron [6pm-8am] (Late Winter)}
-#substitute {Gwirith} {Gwirith [7pm-7am] (Early Spring)}
-#substitute {Halimath} {Halimath [9pm-5am] (Late Summer)}
-#substitute {Hithui} {Hithui [8pm-7am] (Mid Autumn)}
-#substitute {Ivanneth} {Ivanneth [9pm-5am] (Late Summer)}
-#substitute {Lothron} {Lothron [8pm-7am] (Mid Spring)}
-#substitute {Narbeleth} {Narbeleth [8pm-6am] (Early Autumn)}
-#substitute {Narwain} {Narwain [6pm-8am] (Early Winter)}
-#substitute {Ninui} {Ninui [5pm-9am] (Mid Winter)}
-#substitute {Norui} {Norui [8pm-6am] (Late Spring)}
-#substitute {Rethe} {Rethe [6pm-8am] (Late Winter)}
-#substitute {Solmath} {Solmath [5pm-9am] (Mid Winter)}
+#substitute {Astron} {Astron [7pm-7am] (Early Spring)}
+#substitute {Birithon} {Birithon [7pm-7am] (Late Autumn)}
+#substitute {Blotmath} {Blotmath [8pm-7am] (Mid Autumn)}
+#substitute {Cerveth} {Cerveth [9pm-5am] (Early Summer)}
+#substitute {Forelithe} {Forelithe [8pm-6am] (Late Spring)}
+#substitute {Foreyule} {Foreyule [7pm-7am] (Late Autumn)}
+#substitute {Gwaeron} {Gwaeron [6pm-8am] (Late Winter)}
+#substitute {Gwirith} {Gwirith [7pm-7am] (Early Spring)}
+#substitute {Halimath} {Halimath [9pm-5am] (Late Summer)}
+#substitute {Hithui} {Hithui [8pm-7am] (Mid Autumn)}
+#substitute {Ivanneth} {Ivanneth [9pm-5am] (Late Summer)}
+#substitute {Lothron} {Lothron [8pm-7am] (Mid Spring)}
+#substitute {Narbeleth} {Narbeleth [8pm-6am] (Early Autumn)}
+#substitute {Narwain} {Narwain [6pm-8am] (Early Winter)}
+#substitute {Ninui} {Ninui [5pm-9am] (Mid Winter)}
+#substitute {Norui} {Norui [8pm-6am] (Late Spring)}
+#substitute {Rethe} {Rethe [6pm-8am] (Late Winter)}
+#substitute {Solmath} {Solmath [5pm-9am] (Mid Winter)}
 ```
 
 # Speed Levelling guide

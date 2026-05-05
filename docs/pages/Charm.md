@@ -16,11 +16,11 @@ charmer also needs to have some experience in the
 
 Example:
 
-`> cast 'charm' rabbit`
+`> cast 'charm' rabbit`
 
 The following is an example for issuing a command:
 
-`> order followers groan`
+`> order followers groan`
 
 The more active charmies a caster already has, the harder it becomes to
 successfully charm another one. Thus, you will hardly see casters with

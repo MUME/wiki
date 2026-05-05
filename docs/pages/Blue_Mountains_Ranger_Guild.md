@@ -9,12 +9,12 @@ An **aged dwarf** teaches [ranger](./General.md)
 Mountains](./Blue_Mountains.md).
 
 ```
-An aged and experienced dwarf is here, eager to share his wisdom.
+An aged and experienced dwarf is here, eager to share his wisdom.
 >examine dwarf
-This is a very old yet very healthy dwarf, weather-beaten of skin and
-tough of sinew.  He has clearly spent much of his life exploring the wild
-places of Arda, and is ready to share his survival skills with those who
-will listen.
+This is a very old yet very healthy dwarf, weather-beaten of skin and
+tough of sinew.  He has clearly spent much of his life exploring the wild
+places of Arda, and is ready to share his survival skills with those who
+will listen.
 ```
 
 ## Skill list

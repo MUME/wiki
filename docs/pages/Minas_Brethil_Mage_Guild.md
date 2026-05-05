@@ -9,11 +9,11 @@ A **sorcerer** teaches [mage](./Mage.md)
 Brethil](./Minas_Brethil.md).
 
 ```
-A sorcerer is waiting here to teach his art.
+A sorcerer is waiting here to teach his art.
 >examine sorcerer
-He is an experienced mage who has specialized in the field of Combat Magic.
-He is here to guard the Mage's Guild and his superior knowledge of offensive as
-well as defensive spells make him a deadly opponent.
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
 ```
 
 ## Spell list

@@ -11,10 +11,10 @@ somewhere behind a red door in the Sewers of
 [Tharbad](./Tharbad.md).
 
 ```
-A man dressed in dark clothes eyes his surroundings warily.
+A man dressed in dark clothes eyes his surroundings warily.
 >examine man
-He is dressed in clothes suited for concealment, and his movements
-draw almost no attention. His eyes are expressionless and cold.
+He is dressed in clothes suited for concealment, and his movements
+draw almost no attention. His eyes are expressionless and cold.
 ```
 
 ## Skill list

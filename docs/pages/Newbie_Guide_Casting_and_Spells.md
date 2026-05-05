@@ -22,10 +22,10 @@ brief description of some lower level spells in the game, that new
 characters would have access too.
 
 ```
-I also want to share a disclaimer:  I do no recommend playing a caster as your first character
-in MUME.  A tanky warrior, defense warrior, bash/damage warrior, scout, thief, archer, or 
-warrior/scout combo are all much easier to learn the game with.  Please play a caster, but
-not when you are first learning the game.  Casters are pretty low powered at lower levels.
+I also want to share a disclaimer:  I do no recommend playing a caster as your first character
+in MUME.  A tanky warrior, defense warrior, bash/damage warrior, scout, thief, archer, or 
+warrior/scout combo are all much easier to learn the game with.  Please play a caster, but
+not when you are first learning the game.  Casters are pretty low powered at lower levels.
 ```
 
 Many parts of this guide reference to the MUME help pages which can be

@@ -12,8 +12,8 @@ mobiles, found in various locations around
 fur](./Grey_wolf_fur.md) and some [meat](./Meat.md).
 
 ```
-The mother wolf stands here, protecting her young cubs.
+The mother wolf stands here, protecting her young cubs.
 >examine wolf
-The mother glares angrily at you, snarling to give you fair warning that she
-will not tolerate any intruders in her den.
+The mother glares angrily at you, snarling to give you fair warning that she
+will not tolerate any intruders in her den.
 ```

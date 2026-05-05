@@ -1,11 +1,11 @@
 ---
 title: Brolg-Ohurk sunwalk by Hawaii
-description: 'I dont know why i did it - most likely boredom ##'
+description: 'I dont know why i did it - most likely boredom ##'
 ---
 
 ```
-Date: 27 apr 2008. 
-I dont know why i did it - most likely boredom ##
+Date: 27 apr 2008. 
+I dont know why i did it - most likely boredom ##
 ```
 
 You are a male Hill Troll.
@@ -188,7 +188,7 @@ An orc of the Ohurk-uai stands here, cursing and grumbling.
 
 Exits: \[north, \*(south)\*, down.
 
-`Made it ##`
+`Made it ##`
 
 o= W HP:Awful\>Ok.
 

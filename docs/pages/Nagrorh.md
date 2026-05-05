@@ -20,12 +20,12 @@ either a [broadsword](./Broadsword.md) or [large metal full
 shield](./Large_metal_full_shield.md) in it.
 
 ```
-Nagrorh the Abomination is looking at you with flaming red eyes.
+Nagrorh the Abomination is looking at you with flaming red eyes.
 >examine Nagrorh
-Gaunt and skeletal in form. Nagrorh's eye sockets are black and empty save for
-the fierce pinpoints of light which serve him as eyes.  Garbed in rich clothes
-of nobility, an aura of cold and darkness radiates from him, an ominous and
-fearsome sight. The magic contained in him overwhelms everything...
+Gaunt and skeletal in form. Nagrorh's eye sockets are black and empty save for
+the fierce pinpoints of light which serve him as eyes.  Garbed in rich clothes
+of nobility, an aura of cold and darkness radiates from him, an ominous and
+fearsome sight. The magic contained in him overwhelms everything...
 ```
 
 ## Strategy

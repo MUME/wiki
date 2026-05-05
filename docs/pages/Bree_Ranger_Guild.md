@@ -9,10 +9,10 @@ A **ranger** teaches [ranger](./General.md)
 [Bree](./Bree.md).
 
 ```
-A ranger stands quietly here, willing to teach his knowledge of woodcraft.
+A ranger stands quietly here, willing to teach his knowledge of woodcraft.
 >examine ranger
-He is an expert ranger who seems to be very experienced in all mixed skills.
-His clothes are brown like the natural life and he has a lot of dust on his
+He is an expert ranger who seems to be very experienced in all mixed skills.
+His clothes are brown like the natural life and he has a lot of dust on his
 boots.
 ```
 

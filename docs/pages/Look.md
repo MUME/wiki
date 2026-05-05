@@ -13,11 +13,11 @@ Examples:
 
 ```
 >look
->look AT angel
->look IN bag
->look south (or just: 'look s', or even 'l s')
->look 2.map
->look in 2.corpse
+>look AT angel
+>look IN bag
+>look south (or just: 'look s', or even 'l s')
+>look 2.map
+>look in 2.corpse
 ```
 
 Note that if you 'look' at a container you will not see its contents,

@@ -10,19 +10,19 @@ unlock the hidden wall to the east of the
 [room](./room.md) where he spawns.
 
 ```
-A small twisted root is sticking out of the ground here.
+A small twisted root is sticking out of the ground here.
 >examine root
-The small root is extremely twisted; its arms are closely knit into themselves
-creating a strange, fascinating pattern. It has been cleaned for loose dirt, so
-you can really admire the artwork of nature. The short, thin piece of trunk on
-it has been shaped into a strange, rectangular pattern. It looks like someone
-has put some work into this root to keep it as a work of art or something.
+The small root is extremely twisted; its arms are closely knit into themselves
+creating a strange, fascinating pattern. It has been cleaned for loose dirt, so
+you can really admire the artwork of nature. The short, thin piece of trunk on
+it has been shaped into a strange, rectangular pattern. It looks like someone
+has put some work into this root to keep it as a work of art or something.
 ```
 
 `>`**`consider root`**
 ```
-It is a small twisted root.
-It weighs about one pound.
+It is a small twisted root.
+It weighs about one pound.
 ```
 
 <!--@include: ../includes/Items.md-->
