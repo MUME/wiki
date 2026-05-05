@@ -53,7 +53,7 @@ The three subraces have their own unique modifiers.
 ### Silvan
 
 - Base 10% [wilderness](./Wilderness.md) skill
-- Base 10% [missile](./Ranged_weapon.md) skill
+- Base 10% [missile](./Missile_weapons.md) skill
 - Bonus for [track](./Track.md) when tracking in forests
 - 10[PB](./Parry.md) when wielding a ranged weapon
 - [Movement point](./Movement_points.md) cost reduction in forests
