@@ -498,9 +498,6 @@ with a poisoned arrow. This mostly sees action in PK or PvP, and isn't
 really used that often with xping. A sneaky, poisoned, loaded crossbow
 bolt can be a nasty surprise from an Orc!
 
-------------------------------------------------------------------------
+---
 
-Link back to the wiki guides:
-
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

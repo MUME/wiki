@@ -550,9 +550,6 @@ The **Heal** spell will also function as a cure critic spell.
 - There is a box of curing salve that you can apply to a wound, it acts
   as a cure critic spell. It has limited uses.
 
-------------------------------------------------------------------------
+---
 
-Link back to the wiki guides:
-
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

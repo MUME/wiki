@@ -420,9 +420,6 @@ you sundie. At level 7 or 8, sundeath isn't really a big deal... After
 level 26, it can be very frustrating. Trolls gain many other benefits
 due to this very scary type of death in the game.
 
-------------------------------------------------------------------------
+---
 
-Link back to the wiki guides:
-
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

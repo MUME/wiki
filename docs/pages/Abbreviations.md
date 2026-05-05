@@ -106,3 +106,7 @@ The History of Middle-earth JRRT : J.R.R. Tolkien LotR : The Lord of the
 Rings NoME : The Nature of Middle-earth RotK, RK : The Return of the
 King (The) Silm: The Silmarillion (T)TT : The Two Towers UnTa, UT :
 Unfinished Tales
+
+---
+
+<!--@include: ../includes/Guides.md-->

@@ -23,7 +23,7 @@ Dark Hole" would look silly if lit. Many death-traps cannot be
 
 Unless you recently met \*an Enemy\*, dying in a death trap does not
 reduce your [experience](./Experience.md), but it will decrease
-your [travel points](./Travel_point.md) total. Should it fall
+your [travel points](./Travel_Points.md) total. Should it fall
 below the minimum required for your present [level](./Level.md),
 you will lose a level. Trolls are the only exception: falling into a DT
 for a [troll](./Troll.md) entails a small loss of experience

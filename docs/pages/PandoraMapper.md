@@ -54,4 +54,7 @@ similar.
 [Official Site](http://code.google.com/p/pandoramapper/)
 
 [A short FAQ](http://code.google.com/p/pandoramapper/wiki/FAQ)
- 
+
+---
+
+<!--@include: ../includes/Guides.md-->

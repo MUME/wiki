@@ -334,3 +334,7 @@ Also, some players on any faction of the war often:
 - narrate if they have left a fortress empty and unoccupied
 - track at the gates for a fortress to hunt other players
 - narrate about which faction currently controls a fortress
+
+---
+
+<!--@include: ../includes/Guides.md-->

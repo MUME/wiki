@@ -12,7 +12,7 @@ not.
 
 The 'reborn' command can only be used if you are a newly sundead troll,
 without any [experience](./Experience.md) or [travel
-points](./Travel_point.md).
+points](./Travel_Points.md).
 
 If you died to what looks like a [bug](./Bug.md), don't use the
 'reborn' command, or the [Valar](./Ainur.md) won't be able to

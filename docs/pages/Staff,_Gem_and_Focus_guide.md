@@ -488,3 +488,7 @@ agate at the same time:
       - PB is +2 because 5 OB on aggressive transfers into 40% PB on
         wimpy.
     - Total weight 27lbs + helm 6lbs
+
+---
+
+<!--@include: ../includes/Guides.md-->

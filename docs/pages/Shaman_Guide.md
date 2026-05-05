@@ -1617,3 +1617,7 @@ As pure shamans get to high levels, you have a few choices:
   breath, pairing that with arachnia is an obvious move. Aim for 50%+.
 
 Closing: *Outros are for elves, snaga.*
+
+---
+
+<!--@include: ../includes/Guides.md-->

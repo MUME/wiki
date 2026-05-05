@@ -143,3 +143,7 @@ See also: Newbie, [FAQ1](./FAQ1.md),
 [FAQ4](./FAQ4.md), [FAQ5](./FAQ5.md),
 [Advanced](./Advanced.md), Features,
 Rules
+
+---
+
+<!--@include: ../includes/Guides.md-->

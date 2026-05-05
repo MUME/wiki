@@ -246,3 +246,7 @@ all the time. 2-3 lembas wafers, a small water container, a light source
 and a butcher knife should be your only excess equipment. Having a pale
 blue stone, preferably a focused one, and having the traveling lore
 and/or orkish draught will aid you greatly when pking at legend.
+
+---
+
+<!--@include: ../includes/Guides.md-->

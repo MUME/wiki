@@ -115,4 +115,7 @@ For more advanced information regarding base abilities there is:-
 
 One last thing to think about is that a character that someone finds
 good and/or fun to play might not be that for someone else.
- 
+
+---
+
+<!--@include: ../includes/Guides.md-->

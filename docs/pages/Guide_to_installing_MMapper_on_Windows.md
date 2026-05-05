@@ -108,3 +108,7 @@ channel](https://discord.gg/QNwUnfsp3r) or, failing that, ask in-game
   Thread](http://mume.org/forum/viewtopic.php?f=2&t=9)
 - [ElvenRunes
   Thread](http://www.elvenrunes.com/cgi-bin/logs/secure/show.m?log=b60354,43762&disc=1&sort=&omode=&all=&typ=)
+
+---
+
+<!--@include: ../includes/Guides.md-->

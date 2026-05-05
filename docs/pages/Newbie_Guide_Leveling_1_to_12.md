@@ -744,7 +744,6 @@ hints in game), help files, and the many other guides on this Wiki. And
 you can always ask in the narrate channel in game for help with any
 questions as well.
 
-Link back to the wiki guides:
+---
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

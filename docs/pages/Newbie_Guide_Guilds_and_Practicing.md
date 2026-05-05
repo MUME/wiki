@@ -613,7 +613,6 @@ Recruit and Scout. chan class scout
 So go out and see what classes you can become while you level up and
 practice with your character!
 
-Link back to the wiki guides:
+---
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

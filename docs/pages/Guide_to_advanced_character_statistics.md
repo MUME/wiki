@@ -117,3 +117,7 @@ he can take more punishment and wield better bows while still retaining
 the thief percentages of 17 perception!
 
 Ripped from [thread](http://mume.org/forum/viewtopic.php?f=2&t=12)
+
+---
+
+<!--@include: ../includes/Guides.md-->

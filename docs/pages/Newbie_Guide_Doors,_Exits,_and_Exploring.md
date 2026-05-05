@@ -527,7 +527,6 @@ Level 1 1 exp, 0 tp Level 2 1,000 exp, 100 tp Level 3 3,000 exp, 300 tp
 Level 4 7,000 exp, 600 tp Level 5 14,500 exp, 1,000 tp ...But the list
 does not end there...
 
-Link back to the wiki guides:
+---
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

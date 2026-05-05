@@ -51,3 +51,7 @@ of other areas.
 - [Newbie Base Abilities](/pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats), [Guide to
   advanced character
   statistics](./Guide_to_advanced_character_statistics.md)
+
+---
+
+<!--@include: ../includes/Guides.md-->

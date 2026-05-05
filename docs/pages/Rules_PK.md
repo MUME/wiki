@@ -23,3 +23,7 @@ Actions](./Rules_Actions.md)
 
 7\. It is illegal to use "throw-away" characters as spies. See: [Rules
 Spies](./Rules_Spies.md)
+
+---
+
+<!--@include: ../includes/Guides.md-->

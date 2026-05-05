@@ -550,7 +550,6 @@ them are. You might be able to get the reward every zone repop in some
 cases. They don't always give the xp again, but you can often repeat
 them for more quest rewards.
 
-Link back to the wiki guides:
+---
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

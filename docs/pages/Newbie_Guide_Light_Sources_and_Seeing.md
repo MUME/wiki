@@ -315,7 +315,6 @@ hidden players, but they are harder to find.
 
 Now go out and see everything in Middle-earth that MUME has to offer!
 
-Link back to the wiki guides:
+---
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

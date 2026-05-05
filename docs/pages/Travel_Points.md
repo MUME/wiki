@@ -1,6 +1,8 @@
 ---
 title: Travel Points
 description: 'A feature unique to MUME, all players need to gain travel points (TPs)'
+aliases:
+  - Travel Point
 tags:
   - Help files
 ---

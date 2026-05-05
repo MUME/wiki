@@ -16,3 +16,7 @@ information see '[Info Format](/pages/Newbie_Guide_Accessing_Game_Information)'
 
 see also: [Score](./Score.md), Stat,
 [Reroll](./Reroll.md)
+
+---
+
+<!--@include: ../includes/Guides.md-->

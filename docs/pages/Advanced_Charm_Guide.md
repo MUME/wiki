@@ -176,3 +176,7 @@ Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
 ## Charm Strategies for PvE
 
 ## Charm Strategies for PvP
+
+---
+
+<!--@include: ../includes/Guides.md-->

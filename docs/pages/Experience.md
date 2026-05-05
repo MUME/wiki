@@ -28,3 +28,7 @@ below that which is required for your level, you will lose a level.
 
 See Also: [Group](./Group.md), [Trophy](./Trophy.md),
 TP, [Sauron](./Sauron.md)
+
+---
+
+<!--@include: ../includes/Guides.md-->

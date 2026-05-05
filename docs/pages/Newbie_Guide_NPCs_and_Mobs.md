@@ -1014,3 +1014,7 @@ it will appear as if the spell effect is visible with the message
 (glowing).
 
 Examples are: arcane spirit, Nagrorh, evil priest, BN guildmasters
+
+---
+
+<!--@include: ../includes/Guides.md-->
