@@ -9,7 +9,6 @@ on:
 # markdown wiki where the build step only runs VitePress on markdown files.
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   preview:
@@ -58,26 +57,3 @@ jobs:
           path: pr-${{ github.event.number }}.zip
           retention-days: 30
 
-      - name: Comment build status
-        uses: actions/github-script@v7
-        env:
-          PREVIEW_URL: https://${{ steps.base_url.outputs.host }}${{ steps.base_url.outputs.prefix }}pr-${{ github.event.number }}/
-        with:
-          script: |
-            const pr = context.payload.number
-            const owner = context.repo.owner
-            const repo = context.repo.repo
-            const url = process.env.PREVIEW_URL
-            const body = `### Build ready\n\nThe build for this PR has been completed successfully. A live preview will be available at: ${url}`
-
-            const { data: comments } = await github.rest.issues.listComments({
-              owner, repo, issue_number: pr,
-            })
-            const existing = comments.find(c =>
-              c.user.login === 'github-actions[bot]' && c.body.includes('Build ready')
-            )
-            if (existing) {
-              await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body })
-            } else {
-              await github.rest.issues.createComment({ owner, repo, issue_number: pr, body })
-            }
