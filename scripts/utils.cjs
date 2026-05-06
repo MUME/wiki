@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { EXCLUDED_DIRS } = require('./constants.cjs');
+const { EXCLUDED_FOR_CONTENT_SCAN } = require('./constants.cjs');
 
 /**
  * Recursively find all Markdown files in a directory.
@@ -15,7 +15,7 @@ function getMarkdownFiles(dir) {
 
         if (entry.isDirectory()) {
             // Skip infra, node_modules, and included content
-            if (!EXCLUDED_DIRS.includes(entry.name)) {
+            if (!EXCLUDED_FOR_CONTENT_SCAN.includes(entry.name)) {
                 mdFiles = mdFiles.concat(getMarkdownFiles(fullPath));
             }
         } else if (entry.isFile() && entry.name.endsWith('.md')) {
