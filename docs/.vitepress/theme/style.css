@@ -33,7 +33,7 @@
 
   /* Wide screen layout */
   --vp-layout-max-width: 1800px;
-  --vp-content-max-width: 850px;
+  --vp-content-max-width: 900px; /* Width of the actual text content */
 
   /* Typography */
   --vp-font-size-base: 15px;
@@ -101,6 +101,10 @@
 
 /* ---------- Typography ---------- */
 
+html, body, .vp-doc {
+  font-size: 15px !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, 'Times New Roman', serif;
   color: var(--mume-gold);
@@ -110,27 +114,28 @@ h1, h2, h3, h4, h5, h6 {
 
 .vp-doc h1 {
   border-bottom: 2px solid var(--mume-border);
-  padding-bottom: 0.3em;
-  margin-bottom: 1em;
-  font-size: 2.2em;
+  padding-bottom: 0.2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.4em;
+  font-size: 1.7em;
 }
 
 .vp-doc h2 {
-  border-bottom: 1px solid var(--mume-border);
-  padding-bottom: 0.2em;
-  margin-top: 1.2em;
-  margin-bottom: 0.6em;
-  font-size: 1.75em;
+  padding-bottom: 0.1em;
+  margin-top: 0.7em;
+  margin-bottom: 0.3em;
+  font-size: 1.4em;
+  border-top: none;
 }
 
 .vp-doc h3 {
-  margin-top: 1em;
-  margin-bottom: 0.4em;
-  font-size: 1.4em;
+  margin-top: 0.6em;
+  margin-bottom: 0.2em;
+  font-size: 1.2em;
 }
 
 .vp-doc p, .vp-doc li {
-  line-height: 1.7;
+  line-height: 1.6;
 }
 
 a {
@@ -188,6 +193,17 @@ a:hover {
 }
 
 /* ---------- Content ---------- */
+
+/* Expand total container to fit both content and TOC sidebar comfortably */
+@media (min-width: 1280px) {
+  .VPDoc .container {
+    max-width: 1200px !important;
+  }
+}
+
+.VPDoc .content-container {
+  max-width: 900px !important;
+}
 
 .vp-doc {
   max-width: 100%;
