@@ -99,7 +99,8 @@ function extractMetadata(fullPath, docsDir) {
 
         const autolinkMatch = fm.match(/^autolink:\s*(.*)$/m);
         if (autolinkMatch) {
-            autolink = autolinkMatch[1].trim() !== 'false';
+            const val = autolinkMatch[1].trim().toLowerCase();
+            autolink = val !== 'false' && val !== 'no' && val !== 'off';
         }
 
         // Handle tags in frontmatter
