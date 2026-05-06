@@ -26,11 +26,11 @@ function checkFilenames(dir) {
             logError(relPath, `Filename contains spaces. Use underscores instead.`);
         }
 
-        // Allowed: alphanumeric (including unicode), _, -, ., ', ,, (, ), &, !, +, :
+        // Allowed: alphanumeric (including unicode), _, -, ., ', ,, (, ), &, !, +
         // We allow these because they are prevalent in existing game content titles.
         // Using a range that covers most accented characters and non-ASCII letters.
-        if (/[^a-zA-Z0-9\u00C0-\u017F\u0400-\u04FF_\-.\',()&!+:]/.test(entry.name)) {
-            logError(relPath, `Filename contains illegal characters. Use only alphanumeric, underscores, hyphens, or standard punctuation (',', "'", '(', ')', '&', '!', '+', ':').`);
+        if (/[^a-zA-Z0-9\u00C0-\u017F\u0400-\u04FF_\-.\',()&!+]/.test(entry.name)) {
+            logError(relPath, `Filename contains illegal characters. Use only alphanumeric, underscores, hyphens, or standard punctuation (',', "'", '(', ')', '&', '!', '+').`);
         }
 
         if (entry.isDirectory()) {
