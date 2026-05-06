@@ -7,7 +7,7 @@ const pagesMetaPath = 'docs/.vitepress/pages-meta.json';
 // Ensure pages-meta.json exists
 if (!fs.existsSync(pagesMetaPath)) {
     console.log('Generating pages-meta.json...');
-    execSync('node scripts/gather-pages.js');
+    execSync('node scripts/gather-pages.cjs');
 }
 
 let pagesMeta = JSON.parse(fs.readFileSync(pagesMetaPath, 'utf-8'));
