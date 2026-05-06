@@ -4,14 +4,6 @@
 ## Related Issue
 <!-- If applicable, link to the issue this PR addresses (e.g., Closes #123). -->
 
-## Type of Change
-<!-- Please check the options that are relevant. -->
-- [ ] New content (new page)
-- [ ] Content update (editing existing page)
-- [ ] Bug fix (fixing a link, typo, etc.)
-- [ ] Technical change (VitePress config, scripts, etc.)
-- [ ] Other:
-
 ## Checklist
 <!-- Please review and check all items that apply to your PR. -->
 
