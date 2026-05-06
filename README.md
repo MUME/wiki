@@ -4,6 +4,8 @@ Community wiki and guide to [Multi-Users in Middle-earth](https://mume.org/) —
 
 ## Contributing
 
+Detailed contribution guidelines can be found in [AGENTS.md](AGENTS.md).
+
 ### Non-coders (edit via GitHub)
 
 1. Browse to any page in [`docs/pages/`](docs/pages/) on GitHub

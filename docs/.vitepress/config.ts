@@ -114,6 +114,10 @@ export default defineConfig({
     config(md) {
       // 1. Core auto-linking for text
       md.core.ruler.after('inline', 'auto-link', (state) => {
+        if (state.env.frontmatter?.autolink === false) {
+          return;
+        }
+
         const currentUrl = state.env.relativePath
           ? '/' + state.env.relativePath.replace(/\.md$/, '').replace(/\\/g, '/')
           : '';

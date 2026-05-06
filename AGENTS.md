@@ -27,6 +27,7 @@ All wiki pages live in [`docs/pages/`](docs/pages/). Each is a standard Markdown
 title: My Page Title
 description: One-sentence description for SEO (auto-generated if omitted).
 aliases: [Page Alias, Another Alias]
+autolink: false
 tags:
   - Guides
   - Newbie Help
@@ -40,6 +41,7 @@ Content here...
 **Rules:**
 - `title` is required
 - `aliases` (optional) is a list of alternative names for this page. The auto-linker uses these to create links from other pages automatically.
+- `autolink: false` (optional) disables the automatic creation of links within the content of this page. Useful for guides or lists where too many links make the text hard to read.
 - `tags` must match existing categories — see [docs/tags.md](docs/tags.md) for valid tags
 - File names use underscores for spaces (e.g. `Grey_Havens.md`)
 
