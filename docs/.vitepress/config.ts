@@ -68,66 +68,19 @@ export default defineConfig({
       { text: 'Equipment', link: '/equipment' },
       { text: 'Classes', link: '/classes' },
       { text: 'Races', link: '/races' },
-      { text: 'Lore', link: '/lore' },
-      { text: 'History', link: '/history' },
-      { text: 'Tags', link: '/tags' },
-      { text: 'Homepage', link: 'https://mume.org/' },
+      { text: 'More',
+        items: [
+          { text: 'Lore', link: '/lore' },
+          { text: 'History', link: '/history' },
+          { text: 'Tags', link: '/tags' },
+          { text: 'Homepage', link: 'https://mume.org/' },
+        ]
+      }
     ],
 
     search: {
       provider: 'local',
       options: {
-        _render(src, env, md) {
-          const html = md.render(src, env)
-          if (env.frontmatter?.search === false) return ''
-
-          if (env.relativePath === 'tags.md') {
-            // Inject all tags as headings so the main search index can link to them
-            const tagsData = pagesMeta.tags || {}
-            const tagHeadings = Object.keys(tagsData)
-              .map(tag => `<h2 id="tag-${slugify(tag)}">${tag}</h2>`)
-              .join('')
-            return html + tagHeadings
-          }
-
-          if (env.relativePath.startsWith('pages/')) {
-            // For wiki pages, keep headings and paragraphs for searchability,
-            // but strip heavier items to keep the search index size manageable.
-            const frontmatter = env.frontmatter || {}
-
-            // 1. Ensure the title is indexed as an H1 if not already present in the HTML.
-            const title = frontmatter.title
-            const titleHtml = title && !html.includes('</h1>')
-              ? `<h1 id="indexed-title">${title}</h1>`
-              : ''
-
-            // 2. Inject aliases and tags into the indexable content.
-            // These help users find pages by alternative names or categories.
-            // Using H1 for aliases and H2 for tags gives them high search priority.
-            const aliases = Array.isArray(frontmatter.aliases) ? frontmatter.aliases : []
-            const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : []
-            const metadataHtml = [
-              ...aliases.map(a => `<h1 id="alias-${slugify(a)}">${a}</h1>`),
-              ...tags.map(t => `<h2 id="tag-meta-${slugify(t)}">${t}</h2>`)
-            ].join('')
-
-            return titleHtml + metadataHtml + html
-              .replace(/<(table|pre|blockquote|script|style|nav).*?<\/\1>/gs, '')
-              .replace(/<!--.*?-->/gs, '')
-              // Demote structural headings (See also, Example, Note, etc.) to paragraphs
-              // so they don't clutter the search results as sub-titles.
-              .replace(/<h([2-6])[^>]*>(.*?)<\/h\1>/gi, (match, level, content) => {
-                const plainContent = content
-                  .replace(/<[^>]*>/g, '')
-                  .replace(/&ZeroWidthSpace;/g, '')
-                  .replace(/[\u200B\u200C\u200D\u200E\u200F\uFEFF]/g, '')
-                  .trim()
-                const structural = /^(see also|example|note|usage|description|links|see)$/i.test(plainContent)
-                return structural ? `<p><strong>${plainContent}</strong></p>` : match
-              })
-          }
-          return html
-        },
         miniSearch: {
           searchOptions: {
             fuzzy: 0.2,

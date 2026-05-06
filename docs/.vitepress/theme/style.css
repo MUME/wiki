@@ -134,19 +134,19 @@ a:hover {
 /* ---------- Nav ---------- */
 
 .VPNav {
-  backdrop-filter: blur(8px);
   border-bottom: 2px solid var(--mume-gold);
 }
 
-/* Fix for navigation bar getting cut off on medium screens */
-@media (max-width: 1100px) {
-  .VPNavBarMenu {
-    display: none !important;
-  }
-  .VPNavBarHamburger {
-    display: flex !important;
-  }
+/*
+   Moving backdrop-filter to .VPNavBar child to avoid creating a new
+   stacking context on the .VPNav parent, which can cause the
+   fixed-position .VPNavScreen to be clipped on mobile.
+*/
+.VPNavBar {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
+
 
 .VPNavBar .title {
   font-family: Georgia, serif;
@@ -543,4 +543,18 @@ a:hover {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: var(--mume-gold);
+}
+
+/*
+  Resetting any potential forced visibility of the hamburger menu.
+  VitePress uses 960px as the default breakpoint.
+  We ensure the desktop menu is shown and hamburger is hidden above 960px.
+*/
+@media (min-width: 960px) {
+  .VPNavBarHamburger {
+    display: none !important;
+  }
+  .VPNavBarMenu {
+    display: flex !important;
+  }
 }

@@ -18,8 +18,8 @@ hero:
 
 features:
   - icon: ⚔️
-    title: Classes & Roles
-    details: MUME uses a unique practice-based system. Choose your race to define your potential, then spend practices to define your role.
+    title: Classes & Races
+    details: MUME uses a unique practice-based system. Choose your race to define your potential, then spend practices to define your class.
     link: /classes
     linkText: Build Your Character
   - icon: 📜
