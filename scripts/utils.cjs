@@ -37,11 +37,6 @@ function normalizeTitle(rawTitle = '') {
  * Determine if a page's content qualifies as a stub.
  */
 function isStub(content) {
-    // Ignore pages that are intentional includes or templates
-    if (content.includes('<!--@include')) {
-        return false;
-    }
-
     // Ignore home pages
     if (content.includes('layout: home')) {
         return false;

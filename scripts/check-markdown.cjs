@@ -6,7 +6,7 @@ const docsDir = path.resolve(__dirname, '../docs');
 const publicImgDir = path.resolve(docsDir, 'public/img');
 
 const validator = new Validator('Markdown content validation');
-const checkedImages = new Set();
+const imageStatus = new Map();
 
 /**
  * Check Markdown content and frontmatter
@@ -73,16 +73,14 @@ function checkMarkdownFiles() {
             const [imgUrl] = rawImgTarget.split(/\s+/);
             if (!imgUrl || imgUrl.startsWith('http')) continue;
 
-            // Skip redundant filesystem checks for already-seen image URLs
-            if (checkedImages.has(imgUrl)) {
-                continue;
-            }
-            checkedImages.add(imgUrl);
-
             if (imgUrl.startsWith('/img/')) {
-                const fileName = imgUrl.replace('/img/', '');
-                const fullImgPath = path.join(publicImgDir, fileName);
-                if (!fs.existsSync(fullImgPath)) {
+                if (!imageStatus.has(imgUrl)) {
+                    const fileName = imgUrl.replace('/img/', '');
+                    const fullImgPath = path.join(publicImgDir, fileName);
+                    imageStatus.set(imgUrl, fs.existsSync(fullImgPath));
+                }
+
+                if (!imageStatus.get(imgUrl)) {
                     validator.logError(relPath, `Referenced image does not exist: ${imgUrl}`);
                 }
             } else if (imgUrl.includes('img/')) {

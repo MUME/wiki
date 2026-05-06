@@ -1,13 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const { EXCLUDED_FOR_FILENAME_CHECK, ALLOWED_CHARS_REGEX, ALLOWED_CHARS_MSG } = require('./constants.cjs');
+const { EXCLUDED_FOR_FILENAME_CHECK, ILLEGAL_CHARS_REGEX, ALLOWED_CHARS_MSG } = require('./constants.cjs');
 const { Validator } = require('./utils.cjs');
 
 const docsDir = path.resolve(__dirname, '../docs');
 const validator = new Validator('Filename validation');
-
-// Invert the allowed chars regex for testing
-const ILLEGAL_CHARS_REGEX = new RegExp(`[^${ALLOWED_CHARS_REGEX.source}]`);
 
 /**
  * Check filenames for spaces or illegal characters
