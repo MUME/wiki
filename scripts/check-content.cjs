@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { getMarkdownFiles } = require('./utils.cjs');
+const { getMarkdownFiles, normalizeTitle } = require('./utils.cjs');
 const { EXCLUDED_DIRS } = require('./constants.cjs');
 
 const docsDir = path.resolve(__dirname, '../docs');
@@ -41,9 +41,9 @@ function checkFilenames(dir) {
             }
 
             // Article Check (English articles: A, An, The)
-            // Match article at start followed by space, underscore, dash, or word boundary
-            const baseName = entry.name.slice(0, -3); // strip ".md"
-            if (/^(a|an|the)([ _-]|\b)/i.test(baseName)) {
+            // Match article at start followed by space, underscore, or dash
+            const basename = entry.name.slice(0, -3); // strip ".md"
+            if (/^(a|an|the)[ _-]/i.test(basename)) {
                 logError(relPath, `Filename starts with an indefinite or definite article: ${entry.name}`);
             }
         }
@@ -70,7 +70,7 @@ function checkMarkdownFiles() {
             const isHome = /^layout:\s*home\s*$/m.test(fm);
 
             const titleMatch = fm.match(/^title:\s*(.*)$/m);
-            const title = titleMatch ? titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2').trim() : '';
+            const title = normalizeTitle(titleMatch ? titleMatch[1] : '');
 
             if (title) {
                 // Article Check for titles (English articles: A, An, The)

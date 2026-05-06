@@ -27,6 +27,13 @@ function getMarkdownFiles(dir) {
 }
 
 /**
+ * Normalize title by trimming and stripping matching quotes.
+ */
+function normalizeTitle(rawTitle = '') {
+    return rawTitle.trim().replace(/^(['"])(.*)\1$/, '$2').trim();
+}
+
+/**
  * Determine if a page's content qualifies as a stub.
  */
 function isStub(content) {
@@ -88,7 +95,7 @@ function extractMetadata(fullPath, docsDir) {
     if (fmMatch) {
         const fm = fmMatch[1];
         const titleMatch = fm.match(/^title:\s*(.*)$/m);
-        if (titleMatch) title = titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2').trim();
+        if (titleMatch) title = normalizeTitle(titleMatch[1]);
 
         const aliasesMatch = fm.match(/^aliases:\s*\[(.*)\]/m);
         if (aliasesMatch) {
@@ -131,5 +138,6 @@ function extractMetadata(fullPath, docsDir) {
 module.exports = {
     getMarkdownFiles,
     isStub,
-    extractMetadata
+    extractMetadata,
+    normalizeTitle
 };
