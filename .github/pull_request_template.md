@@ -7,7 +7,7 @@
 ## Checklist
 <!-- Note: Many technical checks (filenames, frontmatter, links, images) are automatically verified by CI. If CI fails, please check the logs. -->
 
-- [ ] **Wiki Rules**: I have read and followed the [Wiki Rules](https://github.com/MUME/wiki#wiki-rules) (Content & Spoiler rules) in the README.
+- [ ] **Wiki Rules**: I have followed the **Content Rules** (mortal knowledge only) and **Spoiler Rules** (using `::: details Spoiler`) as defined in the [README](https://github.com/MUME/wiki#wiki-rules).
 - [ ] **Content Accuracy**: I have verified the information added/changed is accurate to the game.
 - [ ] **Visual Check**: I have verified that the page renders correctly (no broken tables, lists, or styling).
 - [ ] **Local Build**: (For coders) Ran `docker compose up --build wiki` (or `npm run docs:build`) and verified changes locally.
