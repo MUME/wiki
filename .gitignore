@@ -9,6 +9,7 @@ docs/.vitepress/pages-meta.json
 docs_dev.log
 docs/includes/all_pages.txt
 test-results/
+__pycache__/
 all_pages.txt
 all_md_files.txt
 *.log

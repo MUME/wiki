@@ -3,20 +3,19 @@ const path = require('path');
 const { getMarkdownFiles, isStub } = require('./utils.cjs');
 
 const docsDir = path.join(__dirname, '../docs');
-const pagesDir = path.join(docsDir, 'pages');
 
-if (!fs.existsSync(pagesDir)) {
-    console.log('Docs pages directory not found, skipping stub check.');
+if (!fs.existsSync(docsDir)) {
+    console.log('Docs directory not found, skipping stub check.');
     process.exit(0);
 }
 
-const allFiles = getMarkdownFiles(pagesDir);
+const allFiles = getMarkdownFiles(docsDir);
 const stubs = [];
 
 allFiles.forEach(fullPath => {
     const content = fs.readFileSync(fullPath, 'utf-8');
     if (isStub(content)) {
-        const file = path.relative(pagesDir, fullPath);
+        const file = path.relative(docsDir, fullPath);
         stubs.push({ file });
     }
 });

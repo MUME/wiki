@@ -37,7 +37,7 @@ would not be able to return easily.
 
 ## Inns & Taverns
 
-- [The River House](./The_River_House.md)
+- [The River House](./River_House.md)
 - Imladris Guest Rooms
 
 ## Map

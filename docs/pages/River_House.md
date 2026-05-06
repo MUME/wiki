@@ -1,11 +1,12 @@
 ---
-title: The River House
+title: River House
 description: 'An elven maid serves food and drinks at The'
+aliases:
+  - The River House
 tags:
   - Shops
 ---
-An elven maid serves food and drinks at **The
-River House** in [Rivendell](./Rivendell.md). The tavern is open
+An elven maid serves food and drinks at **The River House** in [Rivendell](./Rivendell.md). The tavern is open
 from 1pm to 2am.
 
 ## Menu

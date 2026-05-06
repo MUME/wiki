@@ -55,7 +55,7 @@ A list of guilds, shops, and other places to spend your hard-earned gold
 is below.
 
 - Shops
-  - [The Traveller's Shop](./The_Traveller's_Shop.md)
+  - [The Traveller's Shop](./Traveller's_Shop.md)
   - [The Tailor's Shop](./Fornost_Tailor.md)
   - The King's Armoury
   - The Mighty Hammer Weaponry

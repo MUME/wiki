@@ -24,4 +24,4 @@ Havens](./Grey_Havens.md).
 
 ## Inns and Taverns
 
-- [The Foaming Mug](./The_Foaming_Mug.md)
+- [The Foaming Mug](./Foaming_Mug.md)

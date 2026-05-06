@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { EXCLUDED_FOR_CONTENT_SCAN } = require('./constants.cjs');
 
 /**
  * Recursively find all Markdown files in a directory.
@@ -14,10 +15,7 @@ function getMarkdownFiles(dir) {
 
         if (entry.isDirectory()) {
             // Skip infra, node_modules, and included content
-            if (entry.name !== '.vitepress' &&
-                entry.name !== 'node_modules' &&
-                entry.name !== 'public' &&
-                entry.name !== 'includes') {
+            if (!EXCLUDED_FOR_CONTENT_SCAN.includes(entry.name)) {
                 mdFiles = mdFiles.concat(getMarkdownFiles(fullPath));
             }
         } else if (entry.isFile() && entry.name.endsWith('.md')) {
@@ -29,14 +27,16 @@ function getMarkdownFiles(dir) {
 }
 
 /**
+ * Normalize title by trimming and stripping matching quotes.
+ */
+function normalizeTitle(rawTitle = '') {
+    return rawTitle.trim().replace(/^(['"])(.*)\1$/, '$2').trim();
+}
+
+/**
  * Determine if a page's content qualifies as a stub.
  */
 function isStub(content) {
-    // Ignore pages that are intentional includes or templates
-    if (content.includes('<!--@include')) {
-        return false;
-    }
-
     // Ignore home pages
     if (content.includes('layout: home')) {
         return false;
@@ -90,7 +90,7 @@ function extractMetadata(fullPath, docsDir) {
     if (fmMatch) {
         const fm = fmMatch[1];
         const titleMatch = fm.match(/^title:\s*(.*)$/m);
-        if (titleMatch) title = titleMatch[1].trim().replace(/^['"](.*)['"]$/, '$1');
+        if (titleMatch) title = normalizeTitle(titleMatch[1]);
 
         const aliasesMatch = fm.match(/^aliases:\s*\[(.*)\]/m);
         if (aliasesMatch) {
@@ -130,8 +130,34 @@ function extractMetadata(fullPath, docsDir) {
     };
 }
 
+/**
+ * Shared error logger and tracker
+ */
+class Validator {
+    constructor(taskName) {
+        this.taskName = taskName;
+        this.errors = 0;
+    }
+
+    logError(file, message) {
+        console.error(`\x1b[31m[ERROR]\x1b[0m ${file}: ${message}`);
+        this.errors++;
+    }
+
+    finish() {
+        if (this.errors > 0) {
+            console.error(`\n\x1b[31m${this.taskName} failed with ${this.errors} error(s).\x1b[0m`);
+            process.exit(1);
+        } else {
+            console.log(`\n\x1b[32m${this.taskName} passed!\x1b[0m`);
+        }
+    }
+}
+
 module.exports = {
     getMarkdownFiles,
     isStub,
-    extractMetadata
+    extractMetadata,
+    normalizeTitle,
+    Validator
 };

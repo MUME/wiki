@@ -159,8 +159,8 @@ Havens](./Grey_Havens.md) has lost a barrel of exquisite wine.
   about wine. He will mention a barrel that has gone missing. Ask him
   about the barrel, and he will tell you that it was stolen. The
   thieves' secret lair is located West of the village, despite the
-  quest's description saying North East. Retrieve the [small oaken
-  barrel](./A_small_oaken_barrel.md) and return it to the chief.
+  quest's description saying North East. Retrieve [a small oaken
+  barrel](./small_oaken_barrel.md) and return it to the chief.
   - Note: The chief only speaks Sindarin, but can
     understand you if you talk to him in another language.
 - Reward: an exquisite wine glass
@@ -198,7 +198,7 @@ the shade of [Fangorn](./Fangorn.md), where strangers are seldom
 welcome, to find some long-lost herblore?
 
 - Location: Fangorn
-- Quest: Get the [traveller's diary](./A_traveller's_diary.md)
+- Quest: Get [a traveller's diary](./traveller's_diary.md)
   from the corpse of an adventurer next to the ruined barn south of
   Fangorn. Find the [strange, sad-looking tree](./Strange_tree.md)
   in Fangorn. Talk about orcs until he wakes up, and give him the diary
@@ -220,7 +220,7 @@ to him. Perhaps you can help him out?
   clearing southwest of where Beechbone is. Enter his ruined home and
   use the tree branch to lift up one of the large jars ('lever jar'). Go
   down, reveal the bowl, and return it to Beechbone.
-- Reward: [a rough wooden horn](./A_rough_wooden_horn.md)
+- Reward: a [rough wooden horn](./rough_wooden_horn.md)
 
 ### Berel and Jeraton
 

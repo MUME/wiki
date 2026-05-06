@@ -1,6 +1,8 @@
 ---
-title: A Dúnadan blade
+title: Dúnadan blade
 description: 'This slashing weapon can be wielded one-handed. It is excellent while'
+aliases:
+  - A Dúnadan blade
 ---
 
 This slashing weapon can be wielded one-handed. It is excellent while
