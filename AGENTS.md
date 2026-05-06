@@ -2,6 +2,16 @@
 
 This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https://docs.mume.org/wiki/.
 
+## Tech stack
+
+- [VitePress](https://vitepress.dev/) — static site generator
+- [GitHub Actions](https://github.com/features/actions) — CI/CD
+- [GitHub Pages](https://pages.github.com/) — hosting
+
+## Rules
+
+All contributors must follow the [Wiki Rules (Content & Spoilers)](CONTRIBUTING.md) defined in the contribution guide.
+
 ## Quick start (local dev)
 
 Use Docker — do not run `npm install` directly.
