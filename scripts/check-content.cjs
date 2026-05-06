@@ -30,8 +30,8 @@ function checkFilenames(dir) {
             }
 
             checkFilenames(fullPath);
-        } else if (entry.name.endsWith('.md')) {
-            // Check for spaces
+        } else {
+            // Check all filenames for spaces and illegal characters
             if (/\s/.test(entry.name)) {
                 validator.logError(relPath, `Filename contains spaces. Use underscores instead.`);
             }
@@ -42,9 +42,11 @@ function checkFilenames(dir) {
 
             // Article Check (English articles: A, An, The)
             // Match article at start followed by space, underscore, or dash
-            const basename = entry.name.slice(0, -3); // strip ".md"
-            if (/^(a|an|the)[ _-]/i.test(basename)) {
-                validator.logError(relPath, `Filename starts with an indefinite or definite article: ${entry.name}`);
+            if (entry.name.endsWith('.md')) {
+                const basename = entry.name.slice(0, -3); // strip ".md"
+                if (/^(a|an|the)[ _-]/i.test(basename)) {
+                    validator.logError(relPath, `Filename starts with an indefinite or definite article: ${entry.name}`);
+                }
             }
         }
     }
