@@ -33,6 +33,10 @@
 
   /* Wide screen layout */
   --vp-layout-max-width: 1800px;
+  --vp-content-max-width: 850px;
+
+  /* Typography */
+  --vp-font-size-base: 15px;
 
   /* Home hero */
   --vp-home-hero-name-color: var(--mume-gold);
@@ -100,12 +104,30 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, 'Times New Roman', serif;
   color: var(--mume-gold);
-  letter-spacing: 0.02em;
-  font-weight: 600;
+  letter-spacing: 0.01em;
+  font-weight: 500;
 }
 
-.vp-doc h1 { border-bottom: 2px solid var(--mume-border); padding-bottom: 0.3em; }
-.vp-doc h2 { border-bottom: 1px solid var(--mume-border); padding-bottom: 0.3em; margin-top: 1.5em; }
+.vp-doc h1 {
+  border-bottom: 2px solid var(--mume-border);
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+  font-size: 2.2em;
+}
+
+.vp-doc h2 {
+  border-bottom: 1px solid var(--mume-border);
+  padding-bottom: 0.2em;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  font-size: 1.75em;
+}
+
+.vp-doc h3 {
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+  font-size: 1.4em;
+}
 
 .vp-doc p, .vp-doc li {
   line-height: 1.7;
