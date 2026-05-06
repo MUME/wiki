@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const { getMarkdownFiles } = require('./utils.cjs');
+const { getMarkdownFiles, normalizeTitle } = require('./utils.cjs');
+const { EXCLUDED_DIRS } = require('./constants.cjs');
 
 const docsDir = path.resolve(__dirname, '../docs');
 const publicImgDir = path.resolve(docsDir, 'public/img');
@@ -22,7 +23,7 @@ function checkFilenames(dir) {
         const relPath = path.relative(docsDir, fullPath);
 
         if (entry.isDirectory()) {
-            if (['node_modules', '.vitepress', 'public', 'includes'].includes(entry.name)) {
+            if (EXCLUDED_DIRS.includes(entry.name)) {
                 continue;
             }
             checkFilenames(fullPath);
@@ -40,9 +41,9 @@ function checkFilenames(dir) {
             }
 
             // Article Check (English articles: A, An, The)
-            // Match article followed by non-alphanumeric separator (space, underscore, dash)
-            const basename = path.basename(entry.name, '.md');
-            if (/^(a|an|the)[^a-z0-9]/i.test(basename)) {
+            // Match article at start followed by space, underscore, or dash
+            const basename = entry.name.slice(0, -3); // strip ".md"
+            if (/^(a|an|the)[ _-]/i.test(basename)) {
                 logError(relPath, `Filename starts with an indefinite or definite article: ${entry.name}`);
             }
         }
@@ -69,9 +70,12 @@ function checkMarkdownFiles() {
             const isHome = /^layout:\s*home\s*$/m.test(fm);
 
             const titleMatch = fm.match(/^title:\s*(.*)$/m);
-            if (titleMatch) {
-                const title = titleMatch[1].trim().replace(/^['"](.*)['"]$/, '$1');
-                if (!isHome && /^(a|an|the)\s+/i.test(title)) {
+            const title = normalizeTitle(titleMatch ? titleMatch[1] : '');
+
+            if (title) {
+                // Article Check for titles (English articles: A, An, The)
+                // Use word boundary to avoid false positives on acronyms or other words
+                if (!isHome && /^(a|an|the)\b/i.test(title)) {
                     logError(relPath, `Title starts with an indefinite or definite article: "${title}"`);
                 }
             } else if (!isHome) {
