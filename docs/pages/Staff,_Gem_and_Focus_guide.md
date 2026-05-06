@@ -1,6 +1,7 @@
 ---
 title: Staff, Gem and Focus guide
 description: '- Compiled by Dearth, credit to all contributors given in the guide.'
+autolink: false
 ---
 
 # Staff, Gem and Focus guide

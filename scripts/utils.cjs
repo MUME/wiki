@@ -86,6 +86,7 @@ function extractMetadata(fullPath, docsDir) {
     let title = '';
     let aliases = [];
     let tags = [];
+    let autolink = true;
     if (fmMatch) {
         const fm = fmMatch[1];
         const titleMatch = fm.match(/^title:\s*(.*)$/m);
@@ -94,6 +95,12 @@ function extractMetadata(fullPath, docsDir) {
         const aliasesMatch = fm.match(/^aliases:\s*\[(.*)\]/m);
         if (aliasesMatch) {
             aliases = aliasesMatch[1].split(',').map(s => s.trim().replace(/^['"](.*)['"]$/, '$1'));
+        }
+
+        const autolinkMatch = fm.match(/^autolink:\s*(.*)$/m);
+        if (autolinkMatch) {
+            const val = autolinkMatch[1].trim().toLowerCase();
+            autolink = val !== 'false' && val !== 'no' && val !== 'off';
         }
 
         // Handle tags in frontmatter
@@ -118,6 +125,7 @@ function extractMetadata(fullPath, docsDir) {
         url: urlPrefix + fileName,
         aliases,
         tags,
+        autolink,
         isStub: isStub(content)
     };
 }
