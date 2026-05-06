@@ -1,6 +1,8 @@
 ---
-title: A small oaken barrel
+title: small oaken barrel
 description: 'The fine grain of the aged oak that composes this barrel as well as the'
+aliases:
+  - A small oaken barrel
 tags:
   - Quest items
 ---

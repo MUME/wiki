@@ -1,6 +1,8 @@
 ---
-title: A traveller's diary
+title: traveller's diary
 description: 'The book is quite small, half-covered in dust and sand and some grass'
+aliases:
+  - A traveller's diary
 ---
 
 \> **examine diary**

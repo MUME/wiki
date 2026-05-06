@@ -1,6 +1,8 @@
 ---
-title: The Traveller's Shop
+title: Traveller's Shop
 description: 'The grocer tends to the Traveller''s Shop in'
+aliases:
+  - The Traveller's Shop
 tags:
   - Shopkeepers
 ---

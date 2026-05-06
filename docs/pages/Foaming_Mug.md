@@ -1,6 +1,8 @@
 ---
-title: The Foaming Mug
-description: 'The Foaming Mug is an inn in [Black'
+title: Foaming Mug
+description: 'Foaming Mug is an inn in [Black'
+aliases:
+  - The Foaming Mug
 tags:
   - Inns
   - Shops
@@ -17,4 +19,3 @@ Hill](./Black_Hill.md).
 - beer mugs full of beer
 
 The bar is open from 6am - 11am and 12pm - 12am.
- 

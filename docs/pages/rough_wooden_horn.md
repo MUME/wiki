@@ -1,6 +1,8 @@
 ---
-title: A rough wooden horn
+title: rough wooden horn
 description: 'The thick and knotted branch from which this horn was carved appears to'
+aliases:
+  - A rough wooden horn
 ---
 
 \> **examine horn**
