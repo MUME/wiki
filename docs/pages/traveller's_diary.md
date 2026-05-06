@@ -1,5 +1,5 @@
 ---
-title: traveller's diary
+title: Traveller's diary
 description: 'The book is quite small, half-covered in dust and sand and some grass'
 aliases:
   - A traveller's diary

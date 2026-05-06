@@ -21,21 +21,29 @@ function checkFilenames(dir) {
         const fullPath = path.join(dir, entry.name);
         const relPath = path.relative(docsDir, fullPath);
 
-        // Check for spaces
-        if (/\s/.test(entry.name)) {
-            logError(relPath, `Filename contains spaces. Use underscores instead.`);
-        }
-
-        // Allowed: alphanumeric (including unicode), _, -, ., ', ,, (, ), &, !, +
-        // We allow these because they are prevalent in existing game content titles.
-        // Using a range that covers most accented characters and non-ASCII letters.
-        if (/[^a-zA-Z0-9\u00C0-\u017F\u0400-\u04FF_\-.\',()&!+]/.test(entry.name)) {
-            logError(relPath, `Filename contains illegal characters. Use only alphanumeric, underscores, hyphens, or standard punctuation (',', "'", '(', ')', '&', '!', '+').`);
-        }
-
         if (entry.isDirectory()) {
-            if (entry.name !== 'node_modules' && entry.name !== '.vitepress') {
-                checkFilenames(fullPath);
+            if (['node_modules', '.vitepress', 'public', 'includes'].includes(entry.name)) {
+                continue;
+            }
+            checkFilenames(fullPath);
+        } else if (entry.name.endsWith('.md')) {
+            // Check for spaces
+            if (/\s/.test(entry.name)) {
+                logError(relPath, `Filename contains spaces. Use underscores instead.`);
+            }
+
+            // Allowed: alphanumeric (including unicode), _, -, ., ', ,, (, ), &, !, +
+            // We allow these because they are prevalent in existing game content titles.
+            // Using a range that covers most accented characters and non-ASCII letters.
+            if (/[^a-zA-Z0-9\u00C0-\u017F\u0400-\u04FF_\-.\',()&!+]/.test(entry.name)) {
+                logError(relPath, `Filename contains illegal characters. Use only alphanumeric, underscores, hyphens, or standard punctuation (',', "'", '(', ')', '&', '!', '+').`);
+            }
+
+            // Article Check (English articles: A, An, The)
+            // Match article followed by non-alphanumeric separator (space, underscore, dash)
+            const basename = path.basename(entry.name, '.md');
+            if (/^(a|an|the)[^a-z0-9]/i.test(basename)) {
+                logError(relPath, `Filename starts with an indefinite or definite article: ${entry.name}`);
             }
         }
     }
@@ -58,10 +66,15 @@ function checkMarkdownFiles() {
             logError(relPath, `Missing YAML frontmatter.`);
         } else {
             const fm = fmMatch[1];
-            const hasTitle = /^title:\s*.+$/m.test(fm);
             const isHome = /^layout:\s*home\s*$/m.test(fm);
 
-            if (!hasTitle && !isHome) {
+            const titleMatch = fm.match(/^title:\s*(.*)$/m);
+            if (titleMatch) {
+                const title = titleMatch[1].trim().replace(/^['"](.*)['"]$/, '$1');
+                if (!isHome && /^(a|an|the)\s+/i.test(title)) {
+                    logError(relPath, `Title starts with an indefinite or definite article: "${title}"`);
+                }
+            } else if (!isHome) {
                 logError(relPath, `Missing 'title' in frontmatter.`);
             }
 

@@ -1,5 +1,5 @@
 ---
-title: small oaken barrel
+title: Small oaken barrel
 description: 'The fine grain of the aged oak that composes this barrel as well as the'
 aliases:
   - A small oaken barrel

@@ -1,5 +1,5 @@
 ---
-title: rough wooden horn
+title: Rough wooden horn
 description: 'The thick and knotted branch from which this horn was carved appears to'
 aliases:
   - A rough wooden horn
