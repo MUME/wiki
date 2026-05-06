@@ -17,7 +17,6 @@ const EXCLUDED_DIRS = EXCLUDED_FOR_CONTENT_SCAN;
 // We allow these because they are prevalent in existing game content titles.
 // Using a range that covers most accented characters and non-ASCII letters.
 const ALLOWED_CHARS_CLASS = "a-zA-Z0-9\\u00C0-\\u017F\\u0400-\\u04FF_\\-.\',()&!+";
-const ALLOWED_CHARS_REGEX = new RegExp(`[${ALLOWED_CHARS_CLASS}]`);
 const ILLEGAL_CHARS_REGEX = new RegExp(`[^${ALLOWED_CHARS_CLASS}]`);
 const ALLOWED_CHARS_MSG = "Use only alphanumeric, underscores, hyphens, periods, or standard punctuation (',', \"'\", '(', ')', '&', '!', '+').";
 
@@ -25,7 +24,6 @@ module.exports = {
     EXCLUDED_DIRS,
     EXCLUDED_FOR_CONTENT_SCAN,
     EXCLUDED_FOR_FILENAME_CHECK,
-    ALLOWED_CHARS_REGEX,
     ILLEGAL_CHARS_REGEX,
     ALLOWED_CHARS_MSG
 };

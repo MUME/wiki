@@ -64,7 +64,8 @@ function checkMarkdownFiles() {
         });
 
         // 5. Image Existence Check
-        const imgMatches = content.matchAll(/!\[[^\]]*]\(([^)]+)\)/g);
+        // Improved regex to handle balanced parentheses (1 level deep) in URL/title
+        const imgMatches = content.matchAll(/!\[[^\]]*]\(((?:[^)(]+|\([^)(]*\))*)\)/g);
         for (const match of imgMatches) {
             const rawImgTarget = match[1].trim();
             if (!rawImgTarget) continue;

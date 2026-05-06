@@ -27,6 +27,11 @@ for (const task of tasks) {
 
     if (result.status !== 0) {
         console.error(`\x1b[31m[FAIL]\x1b[0m ${task.name} script failed.\n`);
+
+        if (result.error) {
+            console.error('\x1b[31mSpawn error:\x1b[0m', result.error);
+        }
+
         failed = true;
     }
 }
