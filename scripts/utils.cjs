@@ -135,9 +135,34 @@ function extractMetadata(fullPath, docsDir) {
     };
 }
 
+/**
+ * Shared error logger and tracker
+ */
+class Validator {
+    constructor(taskName) {
+        this.taskName = taskName;
+        this.errors = 0;
+    }
+
+    logError(file, message) {
+        console.error(`\x1b[31m[ERROR]\x1b[0m ${file}: ${message}`);
+        this.errors++;
+    }
+
+    finish() {
+        if (this.errors > 0) {
+            console.error(`\n\x1b[31m${this.taskName} failed with ${this.errors} error(s).\x1b[0m`);
+            process.exit(1);
+        } else {
+            console.log(`\n\x1b[32m${this.taskName} passed!\x1b[0m`);
+        }
+    }
+}
+
 module.exports = {
     getMarkdownFiles,
     isStub,
     extractMetadata,
-    normalizeTitle
+    normalizeTitle,
+    Validator
 };
