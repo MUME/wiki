@@ -33,7 +33,7 @@
 
   /* Wide screen layout */
   --vp-layout-max-width: 1800px;
-  --vp-content-max-width: 900px; /* Width of the actual text content */
+  --vp-content-max-width: 900px; /* Default width for standard desktop */
 
   /* Typography */
   --vp-font-size-base: 15px;
@@ -158,6 +158,13 @@ a:hover {
   }
 }
 
+/* 2K+ Monitors: Wider content */
+@media (min-width: 2560px) {
+  :root {
+    --vp-content-max-width: 1100px;
+  }
+}
+
 /* ---------- Nav ---------- */
 
 .VPNav {
@@ -192,21 +199,47 @@ a:hover {
   font-family: Georgia, serif;
 }
 
-/* ---------- Content ---------- */
+/* ---------- Content Layout ---------- */
 
-/* Expand total container to fit both content and TOC sidebar comfortably */
+/*
+  Centering the main content column while allowing the 'On this page'
+  aside to sit to its right. We use a 3-column grid where the outer columns
+  are flexible (1fr) to ensure the middle content column is centered in
+  the viewport (or the area remaining after the sidebar).
+*/
 @media (min-width: 1280px) {
   .VPDoc .container {
-    max-width: 1200px !important;
+    display: grid !important;
+    grid-template-columns: 1fr minmax(0, var(--vp-content-max-width)) 1fr !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    column-gap: 64px;
   }
-}
 
-.VPDoc .content-container {
-  max-width: 900px !important;
-}
+  .VPDoc .content {
+    grid-column: 2 !important;
+    max-width: var(--vp-content-max-width) !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
 
-.vp-doc {
-  max-width: 100%;
+  .VPDoc .content-container {
+    max-width: var(--vp-content-max-width) !important;
+    margin: 0 !important;
+  }
+
+  .VPDoc .aside {
+    grid-column: 3 !important;
+    display: block !important;
+    width: 100% !important;
+    max-width: var(--vp-aside-width) !important;
+    padding-left: 0 !important; /* Gap handled by column-gap */
+  }
+
+  .vp-doc {
+    max-width: 100% !important;
+  }
 }
 
 .vp-doc table {
