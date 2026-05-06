@@ -1,12 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 const { getMarkdownFiles } = require('./utils.cjs');
+const { EXCLUDED_DIRS } = require('./constants.cjs');
 
 const docsDir = path.resolve(__dirname, '../docs');
 const publicImgDir = path.resolve(docsDir, 'public/img');
-
-// Directories to exclude from scanning
-const EXCLUDED_DIRS = ['node_modules', '.vitepress', 'public', 'includes'];
 
 let errors = 0;
 
@@ -72,7 +70,7 @@ function checkMarkdownFiles() {
             const isHome = /^layout:\s*home\s*$/m.test(fm);
 
             const titleMatch = fm.match(/^title:\s*(.*)$/m);
-            const title = titleMatch ? titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2') : '';
+            const title = titleMatch ? titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2').trim() : '';
 
             if (title) {
                 // Article Check for titles (English articles: A, An, The)

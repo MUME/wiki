@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { EXCLUDED_DIRS } = require('./constants.cjs');
 
 /**
  * Recursively find all Markdown files in a directory.
@@ -14,7 +15,7 @@ function getMarkdownFiles(dir) {
 
         if (entry.isDirectory()) {
             // Skip infra, node_modules, and included content
-            if (!['.vitepress', 'node_modules', 'public', 'includes'].includes(entry.name)) {
+            if (!EXCLUDED_DIRS.includes(entry.name)) {
                 mdFiles = mdFiles.concat(getMarkdownFiles(fullPath));
             }
         } else if (entry.isFile() && entry.name.endsWith('.md')) {
@@ -87,7 +88,7 @@ function extractMetadata(fullPath, docsDir) {
     if (fmMatch) {
         const fm = fmMatch[1];
         const titleMatch = fm.match(/^title:\s*(.*)$/m);
-        if (titleMatch) title = titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2');
+        if (titleMatch) title = titleMatch[1].trim().replace(/^(['"])(.*)\1$/, '$2').trim();
 
         const aliasesMatch = fm.match(/^aliases:\s*\[(.*)\]/m);
         if (aliasesMatch) {
