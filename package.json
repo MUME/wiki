@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/gather-pages.cjs && node scripts/check-stubs.cjs",
+    "prebuild": "node scripts/gather-pages.cjs && node scripts/check-stubs.cjs && node scripts/check-content.cjs",
     "docs:dev": "npm run prebuild && vitepress dev docs",
     "docs:build": "npm run prebuild && vitepress build docs",
     "docs:preview": "vitepress preview docs"
