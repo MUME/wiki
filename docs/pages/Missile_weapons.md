@@ -11,5 +11,6 @@ The **missile weapons** [skill](./Skill.md) is a [thief](./Thief.md) skill used 
 ## See also
 
 - [Ranged weapon](./Ranged_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Missile Weapons](./Newbie_Guide_to_Missile_Weapons.md)
 
 <!--@include: ../includes/Skills.md-->

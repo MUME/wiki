@@ -13,5 +13,6 @@ they are wielded with one hand only.
 ## See also
 
 - [Slashing weapon](./Slashing_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Slashing_Weapons)
 
 <!--@include: ../includes/Skills.md-->

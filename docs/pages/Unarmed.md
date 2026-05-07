@@ -13,4 +13,8 @@ that allows them to hit harder and better with their bare hands. Unarmed
 Trolls need no [shield](./Shield.md) to [bash](./Bash.md)
 successfully.
 
+## See also
+
+- [Troll guide](./Troll_guide.md#Unarmed_vs_Smiting)
+
 <!--@include: ../includes/Skills.md-->

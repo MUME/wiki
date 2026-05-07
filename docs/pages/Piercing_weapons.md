@@ -14,5 +14,6 @@ wielded in one hand only.
 ## See also
 
 - [Piercing weapon](./Piercing_weapon.md) for a list of weapons belonging to this class.
+- [Thief guide](./Thief.md)
 
 <!--@include: ../includes/Skills.md-->
