@@ -22,7 +22,7 @@ tags:
 
 When cast on a [mobile](./Mobile.md) or player, it provides a locate key but does not provide additional information (see also: [Divination](./Divination.md)).
 
-NOTE: It is strongly suggested not to reveal the exact [statistics](./Statistic.md) of items you identify. Saying that "sword X is slighly better at parrying than sword Y, but you need to be very strong in order to use it efficiently" is acceptable.
+NOTE: It is strongly suggested not to reveal the exact [statistics](./Statistic.md) of items you identify. Saying that "sword X is slightly better at parrying than sword Y, but you need to be very strong in order to use it efficiently" is acceptable.
 
 Publishing tables of item statistics, either via boards or by web or by any other means, is highly frowned upon by the management. Please refrain from doing so.
 

@@ -20,7 +20,7 @@ tags:
 
 **Transfer** is a level 14 [cleric](./Cleric.md) [spell](./Spell.md). Like [Summon](./Summon.md) it will transfer a creature or player to the location of the caster but unlike *Summon* the transfer will include the equipment.
 
-Wearing a [ring](./Ring.md) (or collar for shape-shifting bears) can protect against being transfered involuntarily.
+Wearing a [ring](./Ring.md) (or collar for shape-shifting bears) can protect against being transferred involuntarily.
 
 This spell can be learned from:
 
