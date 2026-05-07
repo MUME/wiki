@@ -31,9 +31,6 @@
   --vp-nav-logo-height: 28px;
   --vp-sidebar-width: 260px;
 
-  /* Wide screen layout */
-  --vp-layout-max-width: 1440px;
-
   /* Home hero */
   --vp-home-hero-name-color: var(--mume-gold);
   --vp-home-hero-name-background: none;
@@ -256,7 +253,7 @@ a:hover {
 }
 
 #VPContent .VPDocAside .outline-title {
-  font-size: 11px;
+  font-size: 0.6875rem; /* ~11px */
   text-transform: uppercase;
   letter-spacing: 1px;
   color: var(--mume-text-muted);
@@ -264,7 +261,7 @@ a:hover {
 }
 
 #VPContent .VPDocAside .outline-link {
-  font-size: 13px;
+  font-size: 0.8125rem; /* ~13px */
   color: var(--mume-text-muted);
   transition: color 0.2s;
 }
@@ -389,6 +386,17 @@ a:hover {
 }
 
 /* ---------- Tags page ---------- */
+
+@media (min-width: 1920px) {
+  :root {
+    /* Maintain ultra-wide layout for homepage/other areas on very large screens */
+    --vp-layout-max-width: 2400px;
+  }
+  /* Keep documentation layout at a readable width */
+  .VPDoc {
+    --vp-layout-max-width: 1440px;
+  }
+}
 
 .tags-page {
   max-width: var(--mume-tags-max-width);
