@@ -31,15 +31,21 @@
   --vp-nav-logo-height: 28px;
   --vp-sidebar-width: 260px;
 
-  /* Wide screen layout */
-  --vp-layout-max-width: 1800px;
-
   /* Home hero */
   --vp-home-hero-name-color: var(--mume-gold);
   --vp-home-hero-name-background: none;
 
   /* Layout constants */
   --mume-tags-max-width: 1000px;
+  --mume-doc-max-width: 1064px;
+  --mume-doc-container-max-width: 1364px;
+
+  /* Typography constants */
+  /* VitePress (v1.6) hardcodes a 16px font-size on 'html' and 'body' in its base.css.
+     We scope our reduction to ~0.94rem on '.vp-doc' to improve documentation skimming
+     without shrinking the homepage or global navigation, while still respecting user
+     and browser base font-size preferences. */
+  --mume-font-size-doc: 0.9375rem; /* 15px / 16px base */
 }
 
 /* ---------- Dark Mode Overrides ---------- */
@@ -97,18 +103,73 @@
 
 /* ---------- Typography ---------- */
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Georgia, 'Times New Roman', serif;
-  color: var(--mume-gold);
-  letter-spacing: 0.02em;
-  font-weight: 600;
+.vp-doc {
+  font-size: var(--mume-font-size-doc);
 }
 
-.vp-doc h1 { border-bottom: 2px solid var(--mume-border); padding-bottom: 0.3em; }
-.vp-doc h2 { border-bottom: 1px solid var(--mume-border); padding-bottom: 0.3em; margin-top: 1.5em; }
+.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6 {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--mume-gold);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
 
-.vp-doc p, .vp-doc li {
+.vp-doc h1 {
+  padding-bottom: 0.1em;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.8em;
+  line-height: 1.2;
+}
+
+.vp-doc h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.45em;
+  border-top: none;
+  line-height: 1.3;
+}
+
+.vp-doc h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2em;
+  line-height: 1.4;
+}
+
+/*
+   Documentation typography and flow optimization.
+   We use sibling margins (margin-top) to ensure consistent spacing
+   and avoid cumulative gaps in nested structures.
+*/
+.vp-doc p,
+.vp-doc summary,
+.vp-doc blockquote,
+.vp-doc table,
+.vp-doc div[class*='language-'],
+.vp-doc .custom-block {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.vp-doc p {
   line-height: 1.7;
+}
+
+/*
+   Avoid cumulative gaps in nested lists while allowing spacing for
+   multi-paragraph list items.
+*/
+.vp-doc li > p {
+  margin: 0;
+}
+
+.vp-doc li > p + p {
+  margin-top: 1rem;
+}
+
+.vp-doc li + li {
+  margin-top: 0.5rem;
 }
 
 a {
@@ -122,14 +183,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* ---------- Wide screen ---------- */
-
-@media (min-width: 1920px) {
-  :root {
-    --vp-layout-max-width: 2400px;
-    --vp-sidebar-width: 300px;
-  }
-}
 
 /* ---------- Nav ---------- */
 
@@ -165,11 +218,59 @@ a:hover {
   font-family: Georgia, serif;
 }
 
-/* ---------- Content ---------- */
+/* ---------- Layout Overrides ---------- */
 
-.vp-doc {
-  max-width: 100%;
+/* Increase content width to ~1000px as requested for better skimming.
+   VitePress uses 32px padding on .content, so we use 1064px to get 1000px of text.
+   We use #VPContent prefix to provide high-specificity overrides for VitePress's
+   scoped component styles without relying on !important. */
+
+@media (min-width: 960px) {
+  #VPContent .VPDoc .content {
+    max-width: var(--mume-doc-max-width);
+  }
+  #VPContent .VPDoc .container {
+    max-width: var(--mume-doc-container-max-width);
+  }
+  #VPContent .VPDoc.has-aside .content-container {
+    max-width: var(--mume-doc-max-width);
+  }
 }
+
+@media (min-width: 1440px) {
+  #VPContent .VPDoc:not(.has-sidebar) .content {
+    max-width: var(--mume-doc-max-width);
+  }
+  #VPContent .VPDoc:not(.has-sidebar) .container {
+    max-width: var(--mume-doc-container-max-width);
+  }
+}
+
+/* ---------- Aside (On this page) ---------- */
+
+#VPContent .VPDocAside .content {
+  border-left: 1px solid var(--mume-border);
+}
+
+#VPContent .VPDocAside .outline-title {
+  font-size: 0.6875rem; /* ~11px */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--mume-text-muted);
+  font-weight: 600;
+}
+
+#VPContent .VPDocAside .outline-link {
+  font-size: 0.8125rem; /* ~13px */
+  color: var(--mume-text-muted);
+  transition: color 0.2s;
+}
+
+#VPContent .VPDocAside .outline-link:hover,
+#VPContent .VPDocAside .outline-link.active {
+  color: var(--mume-gold);
+}
+
 
 .vp-doc table {
   border-collapse: collapse;
@@ -238,6 +339,7 @@ a:hover {
 
 .VPHero .name {
   font-family: Georgia, 'Times New Roman', serif;
+  color: var(--mume-gold);
   font-size: clamp(2rem, 6vw, 3.5rem);
   text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
 }
@@ -279,9 +381,22 @@ a:hover {
 .VPFeature .title {
   color: var(--mume-gold) !important;
   font-family: Georgia, serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
 /* ---------- Tags page ---------- */
+
+@media (min-width: 1920px) {
+  :root {
+    /* Maintain ultra-wide layout for homepage/other areas on very large screens */
+    --vp-layout-max-width: 2400px;
+  }
+  /* Keep documentation layout at a readable width */
+  .VPDoc {
+    --vp-layout-max-width: 1440px;
+  }
+}
 
 .tags-page {
   max-width: var(--mume-tags-max-width);
