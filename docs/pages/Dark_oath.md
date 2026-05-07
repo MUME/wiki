@@ -7,7 +7,7 @@ tags:
 ---
 This is a [Black Númenórean](./Black_Númenórean.md)-only [Ranger](./Ranger.md) [skill](./Skill.md).
 
-Through the use of a **Dark Oath**, a servant of the [Dark Lord](./Sauron.md) may pledge themselves to his will and gain evil knowledge. Those that wrap themselves in the [Dark Lord's](./Sauron.md) power can move undetected among their foes over extended distances, [call](./Call.md) [fell beasts](./Fell_Beast.md), and possess enhanced [endurance](./Endurance.md), albeit at the expense of reduced concentration.
+Through the use of a **Dark oath**, a servant of the [Dark Lord](./Sauron.md) may pledge themselves to his will and gain evil knowledge. Those that wrap themselves in the [Dark Lord's](./Sauron.md) power can move undetected among their foes over extended distances, [call](./Call.md) [fell beasts](./Fell_Beast.md), and possess enhanced [endurance](./Endurance.md), albeit at the expense of reduced concentration.
 
 Example:
 > **pray altar**
