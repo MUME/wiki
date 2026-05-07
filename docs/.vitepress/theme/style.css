@@ -98,11 +98,14 @@
 /* ---------- Typography ---------- */
 
 :root {
-  --mume-font-size-base: 15px;
+  /* VitePress (v1.6) hardcodes a 16px font-size on 'html' and 'body' in its base.css.
+     We scope our reduction to 15px to '.vp-doc' to improve documentation skimming
+     without shrinking the homepage or global navigation. */
+  --mume-font-size-doc: 15px;
 }
 
-html, body {
-  font-size: var(--mume-font-size-base);
+.vp-doc {
+  font-size: var(--mume-font-size-doc);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -189,25 +192,28 @@ a:hover {
 /* ---------- Layout Overrides ---------- */
 
 /* Increase content width to ~1000px as requested for better skimming.
-   VitePress uses 32px padding on .content, so we use 1064px to get 1000px of text. */
+   VitePress uses 32px padding on .content, so we use 1064px to get 1000px of text.
+   We use high-specificity selectors to override VitePress's scoped component styles
+   without relying too heavily on !important where possible. */
+
 @media (min-width: 960px) {
-  .VPDoc .content {
-    max-width: 1064px !important;
+  #VPContent .VPDoc .content {
+    max-width: 1064px;
   }
-  .VPDoc .container {
-    max-width: 1364px !important;
+  #VPContent .VPDoc .container {
+    max-width: 1364px;
   }
-  .VPDoc.has-aside .content-container {
-    max-width: 1064px !important;
+  #VPContent .VPDoc.has-aside .content-container {
+    max-width: 1064px;
   }
 }
 
 @media (min-width: 1440px) {
-  .VPDoc:not(.has-sidebar) .content {
-    max-width: 1064px !important;
+  #VPContent .VPDoc:not(.has-sidebar) .content {
+    max-width: 1064px;
   }
-  .VPDoc:not(.has-sidebar) .container {
-    max-width: 1364px !important;
+  #VPContent .VPDoc:not(.has-sidebar) .container {
+    max-width: 1364px;
   }
 }
 
