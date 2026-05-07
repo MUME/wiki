@@ -1,6 +1,6 @@
 ---
 title: Black Breath
-description: 'Black breath is a level 16 shaman spell.'
+description: 'Black breath is a level 12 shaman spell.'
 tags:
   - Spells
   - Shaman spells
