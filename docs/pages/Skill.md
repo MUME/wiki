@@ -32,14 +32,18 @@ Leadership
 - [Command](./Command.md)
 - [Leadership](./Leadership.md)
 
+Special
+
+- [Dark oath (Black Númenórean)](./Dark_oath.md)
+
 ## [Thief](./Thief.md)
 
 Damage
 
 - [Attack](./Attack.md)
 - [Backstab](./Backstab.md)
-- [Missile](./Missile_weapons.md)
-- [Piercing](./Piercing_weapons.md)
+- [Missile weapons](./Missile_weapons.md)
+- [Piercing weapons](./Piercing_weapons.md)
 
 Subtlety
 
@@ -65,12 +69,12 @@ Offensive
 
 Weapon Skills
 
-- [Cleaving Weapons](./Cleaving_weapons.md)
-- [Concussion Weapons](./Concussion_weapons.md)
-- [Slashing Weapons](./Slashing_weapons.md)
-- [Stabbing Weapons](./Stabbing_weapons.md)
-- [Two Handed Weapons](./Two-handed_weapons.md)
-- [Unarmed (Troll)](./Unarmed.md)
+- [Cleaving weapons](./Cleaving_weapons.md)
+- [Concussion weapons](./Concussion_weapons.md)
+- [Slashing weapons](./Slashing_weapons.md)
+- [Stabbing weapons](./Stabbing_weapons.md)
+- [Two-handed weapons](./Two-handed_weapons.md)
+- [Unarmed combat (Troll)](./Unarmed.md)
 
 Defensive
 
