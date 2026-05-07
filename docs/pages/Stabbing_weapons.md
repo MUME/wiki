@@ -24,6 +24,7 @@ happening depends on your reach and the opponent's reach: a
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Stabbing weapon](./Stabbing_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Stabbing_Weapons)
 
 <!--@include: ../includes/Skills.md-->

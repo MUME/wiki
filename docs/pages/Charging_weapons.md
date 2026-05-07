@@ -23,6 +23,7 @@ NOTE: This skill is considered useless.
 
 ## See also
 
-- [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Charging weapon](./Charging_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Charge)
 
 <!--@include: ../includes/Skills.md-->

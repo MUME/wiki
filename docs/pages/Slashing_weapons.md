@@ -12,6 +12,7 @@ they are wielded with one hand only.
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Slashing weapon](./Slashing_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Slashing_Weapons)
 
 <!--@include: ../includes/Skills.md-->

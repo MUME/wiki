@@ -13,6 +13,7 @@ weapons when they're standing with their feet firm on the ground.
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Cleaving weapon](./Cleaving_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Cleaving_Weapons)
 
 <!--@include: ../includes/Skills.md-->

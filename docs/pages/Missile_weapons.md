@@ -2,15 +2,15 @@
 title: Missile weapons
 description: 'The missile weapons skill is used for ranged combat with bows, crossbows, and slings.'
 tags:
-  - Warrior skills
   - Thief skills
   - Skills
 aliases: ["Missile"]
 ---
-The **missile weapons** skill is a [warrior](./Warrior.md) and [thief](./Thief.md) [skill](./Skill.md) used for ranged combat. Using them is more complicated than other weapon types, as they require their users to have appropriate [missiles](./Ammunition.md) on hand.
+The **missile weapons** [skill](./Skill.md) is a [thief](./Thief.md) skill used for ranged combat. Using them is more complicated than other weapon types, as they require their users to have appropriate [missiles](./Ammunition.md) on hand.
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Ranged weapon](./Ranged_weapon.md) for a list of weapons belonging to this class.
+- [Newbie Guide to Missile Weapons](./Newbie_Guide_to_Missile_Weapons.md)
 
 <!--@include: ../includes/Skills.md-->
