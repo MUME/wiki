@@ -3,7 +3,6 @@ title: Energy Drain
 description: 'NOTE: Using this spell is an evil act.'
 tags:
   - Spells
-  - Cleric spells
   - Shaman spells
 ---
 | Property | Value |
@@ -15,7 +14,7 @@ tags:
 | Casting | Very long |
 | Position | Standing, fighting |
 | Level | 13 |
-| Class | Cleric |
+| Class | Shaman |
 | Min. Mana | 15 |
 | Example | `&gt; cast 'energy drain' priest` |
 
