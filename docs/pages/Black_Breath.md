@@ -11,7 +11,7 @@ Accumulative: N/A
 Duration : No
 Casting : Very long
 Position : Standing
-Level : Level 16
+Level : Level 12
 Class : Shaman
 Min. Mana : 25
 Example: \> cast 'black breath' dwarf
