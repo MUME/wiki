@@ -17,7 +17,7 @@ tags:
 | Level | 7 |
 | Class | Cleric |
 | Min. Mana | 20 |
-| Example | `> cast 'strength' warmaster` |
+| Example | `&gt; cast 'strength' warmaster` |
 
 **Strength** is a [level](./Level.md) 7 [cleric](./Cleric.md) [spell](./Spell.md), giving the target 1-3 extra strength for a period of time. The amount of bonus strength gained depends on the caster's proficiency with the spell.
 

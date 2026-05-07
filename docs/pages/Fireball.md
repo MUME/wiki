@@ -16,7 +16,7 @@ tags:
 | Level | 15 |
 | Class | Magic User |
 | Min. Mana | 15 |
-| Example | `> cast 'fireball' gimilkhad` |
+| Example | `&gt; cast 'fireball' gimilkhad` |
 
 **Fireball** is a mid-level [mage](./Mage.md) [spell](./Spell.md), castable on characters and special [mudlled](./Mudlle.md) objects. As its name implies it lets loose a fireball hurled at the target, enveloping it in flames, causing severe damage. It is of medium speed, uses a minor amount of [mana](./Mana.md), causes much damage, and it is [storable](./Store.md), all this makes it a common spell in both [player killing](./Player_killing.md) and against mobiles. [Legend](./Legend.md) mages can usually store 2 fireballs.
 

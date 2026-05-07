@@ -13,7 +13,7 @@ description: 'Shield is a level 13 mage'
 | Level | 13 |
 | Class | Magic User |
 | Min. Mana | 30 |
-| Example | `> cast 'shield'` |
+| Example | `&gt; cast 'shield'` |
 
 **Shield** is a level 13 [mage](./Mage.md) [spell](./Spell.md) that increases the [dodge bonus](./Dodge_bonus.md) of the caster. Generally considered a must-have spell for all casters.
 

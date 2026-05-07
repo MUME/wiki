@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'identify' <object>/<mobile>/<player>` |
+| Syntax | `cast 'identify' object/&lt;mobile&gt;/&lt;player&gt;` |
 | Type | Miscellaneous |
 | Accumulative | N/A |
 | Duration | No |
@@ -16,7 +16,7 @@ tags:
 | Level | 18 |
 | Class | Magic User |
 | Min. Mana | 90 |
-| Example | `> cast 'identify' ring` |
+| Example | `&gt; cast 'identify' ring` |
 
 **Identify** is a [level](./Level.md) 18 [mage](./Mage.md) [spell](./Spell.md). When [cast](./Cast.md) on an [object](./Item.md), this spell will reveal some of the important properties of the object. It also gives the caster the magical 'key' which would be used to find instances of such objects with the '[locate](./Locate.md)' spell.
 

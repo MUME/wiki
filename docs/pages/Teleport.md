@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'teleport' <location>` |
+| Syntax | `cast 'teleport' location` |
 | Type | Long range |
 | Accumulative | N/A |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 8 |
 | Class | Magic User |
 | Min. Mana | 35 |
-| Example | `> cast 'teleport' whiqueboza` |
+| Example | `&gt; cast 'teleport' whiqueboza` |
 
 **Teleport** is a [level](./Level.md) 8 [mage](./Mage.md) [spell](./Spell.md) that allows the caster to instantly transport themselves to a target [room](./room.md). To use teleport you need to aquire magical keys for rooms. The keys are obtained by either using the [Locate Life](./Locate_Life.md) spell or the [Locate](./Locate.md) spell.
 

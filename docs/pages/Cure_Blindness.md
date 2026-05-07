@@ -17,7 +17,7 @@ tags:
 | Level | 4 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'cure blind' Sabadon` |
+| Example | `&gt; cast 'cure blind' Sabadon` |
 
 **Cure Blindness** is a level 4 [cleric](./Cleric.md) [spell](./Spell.md). It removes the effect of the [Blindness](./Blindness.md) spell from the creature it is cast on. The spell is mainly useful for PK, because very few mobs cast Blindness.
 

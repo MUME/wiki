@@ -17,7 +17,7 @@ tags:
 | Level | 2 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'detect invisibility'` |
+| Example | `&gt; cast 'detect invisibility'` |
 
 This spell can be learned from:
 

@@ -1,6 +1,6 @@
 ---
 title: Locate
-description: 'Syntax : cast ''locate'' [<key> [<max distance>]] Type : Long range'
+description: 'Syntax : cast ''locate'' [key [max distance]] Type : Long range'
 tags:
   - Help files
   - Mage spells
@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'locate' [<key> [<max distance>]]` |
+| Syntax | `cast 'locate' [key [max distance]]` |
 | Type | Long range |
 | Accumulative | N/A |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 6 |
 | Class | Magic User |
 | Min. Mana | 20 |
-| Example | `> cast 'locate' zordurhozo` |
+| Example | `&gt; cast 'locate' zordurhozo` |
 
 NOTE: \<max distance\> is given in miles.
 

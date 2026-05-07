@@ -13,10 +13,10 @@ tags:
 | Duration | No |
 | Casting | Long |
 | Position | Standing, fighting |
-| Level | 18 |
+| Level | 15 |
 | Class | Mage |
 | Min. Mana | 20 |
-| Example | `> cast 'magic blast'` |
+| Example | `&gt; cast 'magic blast'` |
 
 Black Númenorean spell only.
 

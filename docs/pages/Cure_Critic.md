@@ -17,7 +17,7 @@ tags:
 | Level | 9 |
 | Class | Cleric |
 | Min. Mana | 20 |
-| Example | `> cast 'cure critic'` |
+| Example | `&gt; cast 'cure critic'` |
 
 **Cure Critic** is a level 9 [cleric](./Cleric.md) [spell](./Spell.md). It will heal the most serious [wound](./Wound.md) of the creature it is cast upon.
 

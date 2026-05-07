@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'dispel magic' <victim | object>` |
+| Syntax | `cast 'dispel magic' &lt;victim | object&gt;` |
 | Type | Offensive, meta magic |
 | Accumulative | No |
 | Duration | No |
@@ -16,7 +16,7 @@ tags:
 | Level | 16 |
 | Class | Magic User |
 | Min. Mana | 35 |
-| Example | `> cast 'dispel magic' eket` |
+| Example | `&gt; cast 'dispel magic' eket` |
 
 This spell can be learned from:
 

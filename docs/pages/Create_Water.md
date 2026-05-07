@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'create water' <drink container>|<character>` |
+| Syntax | `cast 'create water' drink container | character` |
 | Type | Miscellaneous |
 | Accumulative | N/A |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 2 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'create water' goblet` |
+| Example | `&gt; cast 'create water' goblet` |
 
 **Create water** is a level 2 [cleric](./Cleric.md) [spell](./Spell.md). When cast on a container it will fill the container with clear [water](./Water.md).
 

@@ -16,7 +16,7 @@ tags:
 | Level | 4 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'create light' lantern` |
+| Example | `&gt; cast 'create light' lantern` |
 
 **Create Light** is a [level](./Level.md) 4 [mage](./Mage.md) [spell](./Spell.md) that can be used to replenish a light source. When cast on a [lantern](./Lantern.md), it fills it with around 2 days worth of [oil](./Oil.md).
 

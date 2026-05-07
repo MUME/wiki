@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'blindness' <victim>` |
+| Syntax | `cast 'blindness' victim` |
 | Type | Offensive, mental |
 | Accumulative | No |
 | Duration | Yes |
@@ -17,7 +17,7 @@ tags:
 | Level | 6 |
 | Class | Cleric |
 | Min. Mana | 10 |
-| Example | `> cast 'blind' troll` |
+| Example | `&gt; cast 'blind' troll` |
 
 **Blindness** is a level 6 [cleric](./Cleric.md) [spell](./Spell.md). Cast upon a victim it will blind him temporarily, thus causing his offensive and defensive capabilities to worsen. The blinded creature will also be incapable of attacking or opening and closing exits. When cast on mobs this is especially powerful with the shoot/[flee](./Flee.md) strategy . During PK a successful blind can be a likely lethal blow, because it requires superb area knowledge to escape without being able to see the [room](./room.md) descriptions. Its success rate depends primarily on the willpower of the opponent. The effects of the spell last a few minutes and can be removed with the [Cure Blindness](./Cure_Blindness.md) spell.
 

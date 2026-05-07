@@ -17,7 +17,7 @@ tags:
 | Level | 7 |
 | Class | Magic User |
 | Min. Mana | 9 |
-| Example | `> cast 'shocking grasp' wight` |
+| Example | `&gt; cast 'shocking grasp' wight` |
 
 This spell can be learned from:
 

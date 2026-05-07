@@ -16,7 +16,7 @@ tags:
 | Level | 6 |
 | Class | Magic User |
 | Min. Mana | 21 |
-| Example | `> cast 'find the path' zoquewhiya` |
+| Example | `&gt; cast 'find the path' zoquewhiya` |
 
 This spell can be learned from:
 

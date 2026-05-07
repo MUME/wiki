@@ -16,7 +16,7 @@ tags:
 | Level | 12 |
 | Class | Shaman |
 | Min. Mana | 25 |
-| Example | `> cast 'black breath' dwarf` |
+| Example | `&gt; cast 'black breath' dwarf` |
 
 ## See also
 

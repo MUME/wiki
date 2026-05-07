@@ -17,7 +17,7 @@ tags:
 | Level | 5 |
 | Class | Magic User |
 | Min. Mana | 7 |
-| Example | `> cast 'burning hands' spirit` |
+| Example | `&gt; cast 'burning hands' spirit` |
 
 **Burning hands** is a [level](./Level.md) 5 [mage](./Mage.md) [spell](./Spell.md) that does additional damage against wooden mobs (e.g. roots, trees).
 

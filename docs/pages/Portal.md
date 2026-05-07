@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'portal' <direction> <room key>` |
+| Syntax | `cast 'portal' direction room key` |
 | Type | Long range |
 | Accumulative | No |
 | Duration | Yes |
@@ -16,11 +16,11 @@ tags:
 | Level | 18 |
 | Class | Magic User |
 | Min. Mana | 90 |
-| Example | `> cast 'portal' up yaleque` |
+| Example | `&gt; cast 'portal' up yaleque` |
 
 **Portal** is a [mage](./Mage.md) [spell](./Spell.md) with [mana](./Mana.md) cost 90 that allows to move groups of people from one location to another by opening a portal from one [room](./room.md) to another. In order to cast portal, you need to use [Locate Life](./Locate_Life.md) to locate someone in the target room to get the magical key and then to:
 
-`> cast 'portal' <direction> <magical key>`
+`> cast 'portal' direction <magical key>`
 
 (where \<direction\> is the direction in the room you are in that the portal exit will get created in). The portal lasts for a few ticks and can be entered by typing:
 

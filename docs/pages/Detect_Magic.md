@@ -17,7 +17,7 @@ tags:
 | Level | 2 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'detect magic'` |
+| Example | `&gt; cast 'detect magic'` |
 
 **Detect Magic** is a low level [mage](./Mage.md) [spell](./Spell.md), castable on one's self only. It enables the caster to detect the auras left by the spells of other casters, up to several hours after those spells have been cast. It also reveals the [alignment](./Alignment.md) of the casters of those spells, whether good, neutral, or evil.
 

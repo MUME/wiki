@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'control weather' <effect>` |
+| Syntax | `cast 'control weather' effect` |
 | Type | Miscellaneous |
 | Accumulative | Yes |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 10 |
 | Class | Magic User |
 | Min. Mana | 25 |
-| Example | `> cast 'control weather' clouds more` |
+| Example | `&gt; cast 'control weather' clouds more` |
 
 **Control Weather** is a [level](./Level.md) 10 [mage](./Mage.md) [spell](./Spell.md). The main use of this spell is to create lightning storms to enable [Call Lightning](./Call_Lightning.md).
 

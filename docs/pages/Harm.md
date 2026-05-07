@@ -17,7 +17,7 @@ tags:
 | Level | 15 |
 | Class | Cleric |
 | Min. Mana | 25 |
-| Example | `> cast 'harm' cavebear` |
+| Example | `&gt; cast 'harm' cavebear` |
 
 **Harm** is a level 15 [cleric](./Cleric.md) [spell](./Spell.md). It is the most powerful attack spell for clerics, but is slow and has a high mana cost. It will cause a large amount of damage on the creature it is cast upon.
 

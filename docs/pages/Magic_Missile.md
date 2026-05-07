@@ -16,7 +16,7 @@ tags:
 | Level | 1 |
 | Class | Magic User |
 | Min. Mana | 3 |
-| Example | `> cast 'magic missile' wolf` |
+| Example | `&gt; cast 'magic missile' wolf` |
 
 **Magic Missile** is a [level](./Level.md) 1 [mage](./Mage.md) [spell](./Spell.md). It has a very short casting time and costs little [mana](./Mana.md), however it also deals a negligible amount of damage.
 

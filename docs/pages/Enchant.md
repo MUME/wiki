@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'enchant' weapon <object>` |
+| Syntax | `cast 'enchant' weapon object` |
 | Type | Miscellaneous |
 | Accumulative | No |
 | Duration | Permanent |
@@ -16,7 +16,7 @@ tags:
 | Level | 12 |
 | Class | Magic User |
 | Min. Mana | 90 |
-| Example | `> cast 'enchant' longsword` |
+| Example | `&gt; cast 'enchant' longsword` |
 
 **Enchant** is a [level](./Level.md) 12 [mage](./Mage.md) [spell](./Spell.md). It improves the [weapon](./Weapon.md) it is [cast](./Cast.md) upon:
 

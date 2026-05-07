@@ -17,7 +17,7 @@ tags:
 | Level | 8 |
 | Class | Cleric |
 | Min. Mana | 10 |
-| Example | `> cast 'poison' *Orc* psylonia` |
+| Example | `&gt; cast 'poison' *Orc* psylonia` |
 
 NOTE: This doesn't poison weapons, for that see [herblores](./Herblore.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Curse
-description: 'Syntax : cast ''curse'' [<victim> | <object>] Type : Offensive, mental'
+description: 'Syntax : cast ''curse'' [victim | object] Type : Offensive, mental'
 tags:
   - Spells
   - Cleric spells
@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'curse' [<victim> | <object>]` |
+| Syntax | `cast 'curse' [victim \| object]` |
 | Type | Offensive, mental |
 | Accumulative | No |
 | Duration | Yes (permanent on objects) |
@@ -17,7 +17,7 @@ tags:
 | Level | 10 |
 | Class | Cleric |
 | Min. Mana | 20 |
-| Example | `> cast 'curse' ring` |
+| Example | `&gt; cast 'curse' ring` |
 
 This spell can be learned from:
 

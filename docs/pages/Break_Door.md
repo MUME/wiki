@@ -16,7 +16,7 @@ tags:
 | Level | 17 |
 | Class | Cleric |
 | Min. Mana | 50 |
-| Example | `> cast 'break door' woodendoor` |
+| Example | `&gt; cast 'break door' woodendoor` |
 
 This spell can be learned from:
 

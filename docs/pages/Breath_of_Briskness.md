@@ -17,7 +17,7 @@ tags:
 | Level | 10 |
 | Class | Cleric |
 | Min. Mana | 25 |
-| Example | `> cast 'breath of briskness'` |
+| Example | `&gt; cast 'breath of briskness'` |
 
 **Breath of Briskness** is a level 10 [cleric](./Cleric.md) [spell](./Spell.md). If cast it gives a boost to the [move points](./Movement_points.md) and increases move regeneration temporarily.
 

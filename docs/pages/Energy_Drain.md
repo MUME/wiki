@@ -17,7 +17,7 @@ tags:
 | Level | 13 |
 | Class | Cleric |
 | Min. Mana | 15 |
-| Example | `> cast 'energy drain' priest` |
+| Example | `&gt; cast 'energy drain' priest` |
 
 NOTE: Using this spell is an evil act.
 

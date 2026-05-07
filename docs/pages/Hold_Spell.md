@@ -16,7 +16,7 @@ tags:
 | Level | 16 |
 | Class | Shaman |
 | Min. Mana | 25 |
-| Example | `> cast 'hold' elf` |
+| Example | `&gt; cast 'hold' elf` |
 
 ## See also
 

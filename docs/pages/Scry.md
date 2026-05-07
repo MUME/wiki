@@ -1,13 +1,13 @@
 ---
 title: Scry
-description: 'Syntax : cast ''scry'' [<room key>] Type : Long range Accumulative: N/A'
+description: 'Syntax : cast ''scry'' [room key] Type : Long range Accumulative: N/A'
 tags:
   - Mage spells
   - Spells
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'scry' [<room key>]` |
+| Syntax | `cast 'scry' [room key]` |
 | Type | Long range |
 | Accumulative | N/A |
 | Duration | No |
@@ -16,7 +16,7 @@ tags:
 | Level | 13 |
 | Class | Magic User |
 | Min. Mana | 20 |
-| Example | `> cast 'scry' zoquewhiya` |
+| Example | `&gt; cast 'scry' zoquewhiya` |
 
 This spell can be learned from:
 

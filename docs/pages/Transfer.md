@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'transfer' <recipient>` |
+| Syntax | `cast 'transfer' recipient` |
 | Type | Long range |
 | Accumulative | N/A |
 | Duration | No |
@@ -16,7 +16,7 @@ tags:
 | Level | 14 |
 | Class | Cleric |
 | Min. Mana | 50 |
-| Example | `> cast 'transfer' Aschit` |
+| Example | `&gt; cast 'transfer' Aschit` |
 
 **Transfer** is a level 14 [cleric](./Cleric.md) [spell](./Spell.md). Like [Summon](./Summon.md) it will transfer a creature or player to the location of the caster but unlike *Summon* the transfer will include the equipment.
 

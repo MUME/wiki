@@ -16,7 +16,7 @@ tags:
 | Level | 1 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'detect evil'` |
+| Example | `&gt; cast 'detect evil'` |
 
 **Detect evil** is a level 1 [cleric](./Cleric.md) [spell](./Spell.md). When cast, it will apply a long-lasting buff that shows you a red aura around [evil](./Alignment.md) creatures. Though it can give you an idea which mobiles you can kill to improve your alignment, it is overall not very useful.
 

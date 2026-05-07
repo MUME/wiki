@@ -16,7 +16,7 @@ tags:
 | Level | 18 |
 | Class | Shaman |
 | Min. Mana | 50 |
-| Example | `> cast 'raise dead' 2.corpse` |
+| Example | `&gt; cast 'raise dead' 2.corpse` |
 
 ## See also
 

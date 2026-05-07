@@ -16,7 +16,7 @@ tags:
 | Level | 12 |
 | Class | Magic User |
 | Min. Mana | 15 |
-| Example | `> cast 'call lightning' troll` |
+| Example | `&gt; cast 'call lightning' troll` |
 
 **Call Lightning** is a [level](./Level.md) 12 [mage](./Mage.md) [spell](./Spell.md). It deals a large amount of damage, but can only be cast during a lightning storm - either [created magically](./Control_Weather.md) or naturally.
 

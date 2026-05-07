@@ -16,7 +16,7 @@ tags:
 | Level | 10 |
 | Class | Magic User |
 | Min. Mana | 25 |
-| Example | `> cast 'store' fireball` |
+| Example | `&gt; cast 'store' fireball` |
 
 This spell can be learned from:
 

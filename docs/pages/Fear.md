@@ -17,7 +17,7 @@ tags:
 | Level | 15 |
 | Class | Cleric |
 | Min. Mana | 20 |
-| Example | `> cast 'fear'` |
+| Example | `&gt; cast 'fear'` |
 
 **Fear** is a level 15 [cleric](./Cleric.md) [spell](./Spell.md). It will instill a surge of fear in every creature in the same room who are not grouped with the caster. Depending on the willpower of the opponent the effect may be either none, forcing the opponent to flee or the opponents immediate [death](./Death.md). This spell is primarily useful to break up large hostile [groups](./Group.md).
 

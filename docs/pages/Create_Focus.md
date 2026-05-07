@@ -1,13 +1,13 @@
 ---
 title: Create Focus
-description: 'Syntax : cast ''create focus'' <object> Type : Special Accumulative: No'
+description: 'Syntax : cast ''create focus'' object Type : Special Accumulative: No'
 tags:
   - Help files
   - Spells
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'create focus' <object>` |
+| Syntax | `cast 'create focus' object` |
 | Type | Special |
 | Accumulative | No |
 | Duration | Permanent |
@@ -16,7 +16,7 @@ tags:
 | Class | All |
 | Level | Hero |
 | Min. Mana | Special |
-| Example | `> cast 'create focus' staff` |
+| Example | `&gt; cast 'create focus' staff` |
 
 A focus is a powerful item bound to an Istar or [Hero](./Hero.md).
 

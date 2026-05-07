@@ -16,7 +16,7 @@ tags:
 | Level | 7 |
 | Class | Magic User |
 | Min. Mana | 25 |
-| Example | `> cast 'night vision'` |
+| Example | `&gt; cast 'night vision'` |
 
 **Night Vision** is a [level](./Level.md) 7 [mage](./Mage.md) [spell](./Spell.md). It allows the caster to see the names of creatures in dark areas for a period of time.
 

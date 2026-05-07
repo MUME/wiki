@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'remove poison' <victim | food | drink>` |
+| Syntax | `cast 'remove poison' &lt;victim | food | drink&gt;` |
 | Type | Healing |
 | Accumulative | N/A |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 9 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'remove poison'` |
+| Example | `&gt; cast 'remove poison'` |
 
 **Remove poison** is a level 9 [cleric](./Cleric.md) [spell](./Spell.md). It removes the effect of any [poison](./Poison.md) from the creature it is cast upon. A person can be poisoned by [envenomed](./Envenom.md) [weapons](./Weapon.md), contaminated food or water, or poisonous animals such as some snakes and spiders. As some poisons can have very dangerous effects such as draining mana or even causing [death](./Death.md), this spell should be practiced by all casters.
 

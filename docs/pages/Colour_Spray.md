@@ -16,7 +16,7 @@ tags:
 | Level | 11 |
 | Class | Magic User |
 | Min. Mana | 13 |
-| Example | `> cast 'colour spray' assassin` |
+| Example | `&gt; cast 'colour spray' assassin` |
 
 **Colour Spray** is a [level](./Level.md) 11 [mage](./Mage.md) [spell](./Spell.md). It deals bonus damage to the undead and [orcs](./Orc.md).
 

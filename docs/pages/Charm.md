@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'charm' <victim>` |
+| Syntax | `cast 'charm' victim` |
 | Type | Offensive, mental |
 | Accumulative | No |
 | Duration | Yes |
@@ -16,7 +16,7 @@ tags:
 | Level | 14 |
 | Class | Magic User |
 | Min. Mana | 20 |
-| Example | `> cast 'charm' rabbit` |
+| Example | `&gt; cast 'charm' rabbit` |
 
 **Charm** is a [level](./Level.md) 14 [mage](./Mage.md) [spell](./Spell.md). When cast upon a [creature](./Mobile.md) it will try to gain mental control over it. If successful the caster will be able to command the charmed creature (also called charmie) for some time. To command the charmie the charmer also needs to have some experience in the [command](./Command.md) skill which is taught by the [ranger](./Ranger.md) guilds.
 

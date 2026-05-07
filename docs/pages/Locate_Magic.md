@@ -1,6 +1,6 @@
 ---
 title: Locate Magic
-description: 'Syntax : cast ''locate magic'' good|evil [<max distance>] Type : Long'
+description: 'Syntax : cast ''locate magic'' good|evil [max distance] Type : Long'
 tags:
   - Spells
   - Mage spells
@@ -8,7 +8,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'locate magic' good|evil [<max distance>]` |
+| Syntax | `cast 'locate magic' good|evil [max distance]` |
 | Type | Long range |
 | Accumulative | N/A |
 | Duration | No |
@@ -17,7 +17,7 @@ tags:
 | Level | 4 |
 | Class | Magic User |
 | Min. Mana | 20 |
-| Example | `> cast 'locate magic' evil` |
+| Example | `&gt; cast 'locate magic' evil` |
 
 NOTE: \<max distance\> is given in miles.
 

@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'cure disease' <victim | food | drink>` |
+| Syntax | `cast 'cure disease' &lt;victim | food | drink&gt;` |
 | Type | Healing |
 | Accumulative | N/A |
 | Duration | No |
@@ -16,7 +16,7 @@ tags:
 | Level | 6 |
 | Class | Cleric |
 | Min. Mana | 15 |
-| Example | `> cast 'cure disease'` |
+| Example | `&gt; cast 'cure disease'` |
 
 The spell incantation is 'judicandus eugzagz'
 

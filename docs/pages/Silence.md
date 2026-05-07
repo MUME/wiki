@@ -7,7 +7,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'silence' <victim>` |
+| Syntax | `cast 'silence' victim` |
 | Type | Offensive, mental |
 | Accumulative | No |
 | Duration | Yes |
@@ -16,7 +16,7 @@ tags:
 | Level | 17 |
 | Class | Magic User |
 | Min. Mana | 15 |
-| Example | `> cast 'silence' sage` |
+| Example | `&gt; cast 'silence' sage` |
 
 **Silence** is a [level](./Level.md) 17 [mage](./Mage.md) [spell](./Spell.md). It prevents the target from [casting](./Cast.md) spells or using any form of verbal communication ([say](./Say.md), [narrate](./Narrate.md), [tell](./Tell.md), etc). [Emotes](./Emote.md) may still be used.
 

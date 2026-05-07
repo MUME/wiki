@@ -17,7 +17,7 @@ tags:
 | Level | 9 |
 | Class | Magic User |
 | Min. Mana | 11 |
-| Example | `> cast 'lightning bolt' dragon` |
+| Example | `&gt; cast 'lightning bolt' dragon` |
 
 The power of the lightning bolt is rumoured to be especially harmful to [Black Númenóreans](./Black_Númenórean.md) due to their spurning of the Valar.
 

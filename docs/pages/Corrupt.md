@@ -6,7 +6,7 @@ tags:
 ---
 | Property | Value |
 | :--- | :--- |
-| Syntax | `cast 'corrupt' <object>` |
+| Syntax | `cast 'corrupt' object` |
 | Type | Special |
 | Accumulative | No |
 | Duration | Permanent |
@@ -15,7 +15,7 @@ tags:
 | Class | All |
 | Level | Hero |
 | Min. Mana | Special |
-| Example | `> cast 'corrupt' staff` |
+| Example | `&gt; cast 'corrupt' staff` |
 
 This ceremony tries to corrupt a good magical item, twisting it into an evil parody of itself, or to destroy it if it won't yield. Being a very powerful spell, 'corrupt' can only be cast in an appropriate place, and by a quite powerful and evil spellcaster. Certain items also aid the Necromancer in creating darkness or extending the duration of his clouds.
 

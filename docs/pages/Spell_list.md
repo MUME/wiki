@@ -19,10 +19,10 @@ description: 'Level    Magic User spells:            Cleric spells:'
 | 12 | [Call Lightning](./Call_Lightning.md) (15), [Enchant](./Enchant.md) (90) | [Black Breath](./Black_Breath.md) (25), [Dispel Evil](./Dispel_Evil.md) (20) |
 | 13 | [Scry](./Scry.md) (20), [Shield](./Shield_Spell.md) (30) | [Darkness](./Darkness.md) (25), [Energy Drain](./Energy_Drain.md) (15) |
 | 14 | [Charm](./Charm.md) (20), [Sleep](./Sleep_Spell.md) (15) | [Heal](./Heal.md) (50), [Transfer](./Transfer.md) (50) |
-| 15 | [Fireball](./Fireball.md) (15) | [Fear](./Fear.md) (20), [Harm](./Harm.md) (25) |
+| 15 | [Fireball](./Fireball.md) (15), [Magic Blast](./Magic_Blast.md) (20) | [Fear](./Fear.md) (20), [Harm](./Harm.md) (25) |
 | 16 | [Dispel Magic](./Dispel_Magic.md) (35), [Watch Room](./Watch_Room.md) (30) | [Hold](./Hold_Spell.md) (25) |
 | 17 | [Silence](./Silence.md) (15) | [Break Door](./Break_Door.md) (50), [Divination](./Divination.md) (25) |
-| 18 | [Identify](./Identify.md) (90), [Portal](./Portal.md) (90), [Magic Blast](./Magic_Blast.md) (20) | [Raise Dead](./Raise_Dead.md) (50), [Sanctuary](./Sanctuary.md) (50) |
+| 18 | [Identify](./Identify.md) (90), [Portal](./Portal.md) (90) | [Raise Dead](./Raise_Dead.md) (50), [Sanctuary](./Sanctuary.md) (50) |
 
 **Special spells:** [Create Focus](./Create_Focus.md), [Corrupt](./Corrupt.md)
 

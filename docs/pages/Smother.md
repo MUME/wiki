@@ -17,7 +17,7 @@ tags:
 | Level | 3 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'smother' man` |
+| Example | `&gt; cast 'smother' man` |
 
 This spell can be learned from:
 

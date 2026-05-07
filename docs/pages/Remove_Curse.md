@@ -17,7 +17,7 @@ tags:
 | Level | 11 |
 | Class | Cleric |
 | Min. Mana | 10 |
-| Example | `> cast 'remove curse' ring` |
+| Example | `&gt; cast 'remove curse' ring` |
 
 This spell can be learned from:
 

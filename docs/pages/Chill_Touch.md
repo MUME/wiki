@@ -17,7 +17,7 @@ tags:
 | Level | 3 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'chill touch' bear` |
+| Example | `&gt; cast 'chill touch' bear` |
 
 **Chill Touch** is a [level](./Level.md) 3 [mage](./Mage.md) [spell](./Spell.md). It deals a small amount of damage and lowers the target's [offensive bonus](./Offensive_bonus.md) by 5. The spell text is 'qpurr hajqp'.
 

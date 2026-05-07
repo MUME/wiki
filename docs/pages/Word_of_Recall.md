@@ -17,7 +17,7 @@ tags:
 | Level | 11 |
 | Class | Cleric |
 | Min. Mana | 5 |
-| Example | `> cast 'word of recall'` |
+| Example | `&gt; cast 'word of recall'` |
 
 **Word of Recall** is a level 11 [cleric](./Cleric.md) [spell](./Spell.md). It takes the caster to the closest *safe* location in the [zone](./Zone.md). *Safe* in this context means safe from mobiles but not necessarily from PK. In comparison to the [Teleport](./Teleport.md) and [Portal](./Portal.md) spells it is purely a defensive escape spell and does not allow to travel wider distances. However, it requires significantly less [mana](./Mana.md).
 

@@ -17,7 +17,7 @@ tags:
 | Level | 5 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'shroud'` |
+| Example | `&gt; cast 'shroud'` |
 
 **Shroud** is a [level](./Level.md) 5 [mage](./Mage.md) [spell](./Spell.md). If [cast](./Cast.md) on a creature, it will turn invisible for some time. This can be used to protect oneself against animals like wolves and bears and some humanoids. Most dangerous mobiles can, however, see invisible creatures. So can experienced players. Low level players can use the spell [Detect Invisibility](./Detect_Invisibility.md).
 

@@ -16,7 +16,7 @@ tags:
 | Level | 1 |
 | Class | Magic User |
 | Min. Mana | 5 |
-| Example | `> cast 'ventriloquate' bill I hate you Bert!` |
+| Example | `&gt; cast 'ventriloquate' bill I hate you Bert!` |
 
 This spell can be learned from:
 

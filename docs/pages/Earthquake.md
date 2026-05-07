@@ -17,7 +17,7 @@ tags:
 | Level | 8 |
 | Class | Magic User |
 | Min. Mana | 15 |
-| Example | `> cast 'earthquake'` |
+| Example | `&gt; cast 'earthquake'` |
 
 This spell can be learned from:
 
