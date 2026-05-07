@@ -5,15 +5,20 @@ tags:
   - Mage spells
   - Spells
 ---
-**Call Lightning** is a [level](./Level.md) 12
-[mage](./Mage.md) [spell](./Spell.md). It deals a large
-amount of damage, but can only be cast during a lightning storm - either
-[created magically](./Control_Weather.md) or naturally.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'call lightning' [victim]` |
+| Type | Offensive, physical |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing, fighting |
+| Level | 12 |
+| Class | Magic User |
+| Min. Mana | 15 |
+| Example | `> cast 'call lightning' troll` |
 
-Syntax : cast 'call lightning' \[victim Type : Offensive, physical
-Accumulative: N/A Duration : No Casting : Very long Position : Standing,
-fighting Level : Level 12 Class : Magic User Min. Mana : 15 Example: \>
-cast 'call lightning' troll
+**Call Lightning** is a [level](./Level.md) 12 [mage](./Mage.md) [spell](./Spell.md). It deals a large amount of damage, but can only be cast during a lightning storm - either [created magically](./Control_Weather.md) or naturally.
 
 This spell can be learned from:
 

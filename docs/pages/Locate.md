@@ -1,35 +1,35 @@
 ---
 title: Locate
-description: 'Syntax : cast ''locate'' [&lt;key&gt; [&lt;max distance&gt; Type : Long'
+description: 'Syntax : cast ''locate'' [<key> [<max distance>]] Type : Long range'
 tags:
   - Help files
   - Mage spells
   - Spells
 ---
-Syntax : cast 'locate' \[\&lt;key\&gt; \[\&lt;max distance\&gt; Type : Long
-range Accumulative: N/A Duration : No Casting : Very long Position :
-Standing Level : Level 6 Class : Magic User Min. Mana : 20 NOTE:
-&lt;max distance&gt; is given in miles.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'locate' [<key> [<max distance>]]` |
+| Type | Long range |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing |
+| Level | 6 |
+| Class | Magic User |
+| Min. Mana | 20 |
+| Example | `> cast 'locate' zordurhozo` |
 
-NOTE: In order to use this spell you must first find out the magical key
-of the [object](./Item.md), [mobile](./Mobile.md), or
-[room](./room.md) you are attempting to locate. (In the example
-the magical key is the "zordurhozo" part).
+NOTE: \<max distance\> is given in miles.
 
-The keys for objects, mobiles, and players can be obtained with the
-[Identify](./Identify.md) spell.
+NOTE: In order to use this spell you must first find out the magical key of the [object](./Item.md), [mobile](./Mobile.md), or [room](./room.md) you are attempting to locate. (In the example the magical key is the "zordurhozo" part).
 
-NOTE: If you cast the Locate spell with no arguments, you will get the
-magical key of the room you stand in. This key is needed when using the
-[Teleport](./Teleport.md), [Portal](./Portal.md),
-[Scry](./Scry.md) and [Watch Room](./Watch_Room.md) spells.
+The keys for objects, mobiles, and players can be obtained with the [Identify](./Identify.md) spell.
 
-A comparison between '[Locate Life](./Locate_Life.md)' and
-'LOCATE' (for locating mobiles): LOCATE LIFE: needs: name of creature
-gives: nearby locations of the creature, and their teleport keys LOCATE:
-needs: magical key of creature gives: graphical representation of those
-locations in relation to you (but no detailed information or teleport
-keys) Example: \> cast 'locate' zordurhozo
+NOTE: If you cast the Locate spell with no arguments, you will get the magical key of the room you stand in. This key is needed when using the [Teleport](./Teleport.md), [Portal](./Portal.md), [Scry](./Scry.md) and [Watch Room](./Watch_Room.md) spells.
+
+A comparison between '[Locate Life](./Locate_Life.md)' and 'LOCATE' (for locating mobiles):
+LOCATE LIFE: needs: name of creature gives: nearby locations of the creature, and their teleport keys
+LOCATE: needs: magical key of creature gives: graphical representation of those locations in relation to you (but no detailed information or teleport keys)
 
 This spell can be learned from:
 

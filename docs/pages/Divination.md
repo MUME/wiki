@@ -5,17 +5,20 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Divination** is a [cleric](./Cleric.md)
-[spell](./Spell.md) that allows you to gain information about the
-target's [level](./Level.md),
-[offensive](./Offensive_bonus.md), [dodge](./Dodge_bonus.md)
-and [parry bonuses](./Parry_bonus.md) and
-[alignment](./Alignment.md). The spell may fail if the target's
-willpower is too high.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'divination'` |
+| Type | Miscellaneous |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Extremely long |
+| Position | Standing |
+| Level | 17 |
+| Class | Cleric |
+| Min. Mana | 25 |
+| Example | `> cast 'divination' lord` |
 
-Syntax : cast 'divination' Type : Miscellaneous Accumulative: N/A
-Duration : No Casting : Extremely long Position : Standing Level : Level
-11 Class : Cleric Min. Mana : 25 Example: \> cast 'divination' lord
+**Divination** is a [cleric](./Cleric.md) [spell](./Spell.md) that allows you to gain information about the target's [level](./Level.md), [offensive](./Offensive_bonus.md), [dodge](./Dodge_bonus.md) and [parry bonuses](./Parry_bonus.md) and [alignment](./Alignment.md). The spell may fail if the target's willpower is too high.
 
 This spell can be learned from:
 

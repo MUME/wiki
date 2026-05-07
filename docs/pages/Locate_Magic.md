@@ -1,18 +1,25 @@
 ---
 title: Locate Magic
-description: 'Syntax : cast ''locate magic'' good|evil [&lt;max distance&gt; Type : Long'
+description: 'Syntax : cast ''locate magic'' good|evil [<max distance>] Type : Long'
 tags:
   - Spells
   - Mage spells
   - Shaman spells
 ---
-Syntax : cast 'locate magic' good\|evil \[\&lt;max distance\&gt; Type : Long
-range Casting : Very long Position : Standing Level : Level 4 Class :
-Magic User Min. Mana : 20
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'locate magic' good|evil [<max distance>]` |
+| Type | Long range |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing |
+| Level | 4 |
+| Class | Magic User |
+| Min. Mana | 20 |
+| Example | `> cast 'locate magic' evil` |
 
-NOTE: &lt;max distance&gt; is given in miles.
-
-Example: \> cast 'locate magic' evil
+NOTE: \<max distance\> is given in miles.
 
 This spell can be learned from:
 

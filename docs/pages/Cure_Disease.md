@@ -5,12 +5,20 @@ tags:
   - Spells
   - Cleric spells
 ---
-The spell incantation is 'judicandus eugzagz'
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'cure disease' <victim | food | drink>` |
+| Type | Healing |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing |
+| Level | 6 |
+| Class | Cleric |
+| Min. Mana | 15 |
+| Example | `> cast 'cure disease'` |
 
-Syntax : cast 'cure disease' \&lt;victim \| food \| drink\&gt; Type : Healing
-Accumulative: N/A Duration : No Casting : Very long Position : Standing
-Level : Level 6 Class : Cleric Min. Mana : 15 Example: \> cast 'cure
-disease'
+The spell incantation is 'judicandus eugzagz'
 
 This spell can be learned from:
 

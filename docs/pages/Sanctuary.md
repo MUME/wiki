@@ -5,17 +5,20 @@ tags:
   - Spells
   - Cleric spells
 ---
-**Sanctuary** (often abbreviated *sanc*) is a level 18
-[cleric](./Cleric.md) [spell](./Spell.md). If cast on a
-player it limits the maximum hit point damage that the player can suffer
-per hit. It is primarily used to protect players when attacking very
-dangerous and hard hitting mobs. The maximum hit point
-damage is dependant upon the casters wisdom and the target's willpower,
-but is usually a bit under 20 points of damage.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'sanctuary' [recipient]` |
+| Type | Defensive |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Extremely long |
+| Position | Standing |
+| Level | 18 |
+| Class | Cleric |
+| Min. Mana | 50 |
+| Example | `> cast 'sanctuary'` |
 
-Syntax : cast 'sanctuary' \[recipient Type : Defensive Accumulative:
-No Duration : Yes Casting : Extremely long Position : Standing Level :
-Level 18 Class : Cleric Min. Mana : 50 Example: \> cast 'sanctuary'
+**Sanctuary** (often abbreviated *sanc*) is a level 18 [cleric](./Cleric.md) [spell](./Spell.md). If cast on a player it limits the maximum hit point damage that the player can suffer per hit. It is primarily used to protect players when attacking very dangerous and hard hitting mobs. The maximum hit point damage is dependant upon the casters wisdom and the target's willpower, but is usually a bit under 20 points of damage.
 
 This spell can be learned from:
 

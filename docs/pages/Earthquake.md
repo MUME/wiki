@@ -6,10 +6,18 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-Syntax : cast 'earthquake' Type : Offensive, physical, area
-Accumulative: N/A Duration : No Casting : Long Position : Standing,
-fighting Level : Level 8 Class : Magic User Min. Mana : 15 Example: \>
-cast 'earthquake'
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'earthquake'` |
+| Type | Offensive, physical, area |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Long |
+| Position | Standing, fighting |
+| Level | 8 |
+| Class | Magic User |
+| Min. Mana | 15 |
+| Example | `> cast 'earthquake'` |
 
 This spell can be learned from:
 

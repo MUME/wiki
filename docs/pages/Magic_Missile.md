@@ -5,15 +5,20 @@ tags:
   - Mage spells
   - Spells
 ---
-**Magic Missile** is a [level](./Level.md) 1
-[mage](./Mage.md) [spell](./Spell.md). It has a very short
-casting time and costs little [mana](./Mana.md), however it also
-deals a negligible amount of damage.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'magic missile' [victim]` |
+| Type | Offensive spell, physical |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very short |
+| Position | Standing, fighting |
+| Level | 1 |
+| Class | Magic User |
+| Min. Mana | 3 |
+| Example | `> cast 'magic missile' wolf` |
 
-Syntax : cast 'magic missile' \[victim Type : Offensive spell,
-physical Accumulative: N/A Duration : No Casting : Very short Position :
-Standing, fighting Level : Level 1 Class : Magic User Min. Mana : 3
-Example: \> cast 'magic missile' wolf
+**Magic Missile** is a [level](./Level.md) 1 [mage](./Mage.md) [spell](./Spell.md). It has a very short casting time and costs little [mana](./Mana.md), however it also deals a negligible amount of damage.
 
 This spell can be learned from:
 

@@ -1,17 +1,23 @@
 ---
 title: Curse
-description: 'Syntax : cast ''curse'' [&lt;victim&gt; | &lt;object&gt; Type : Offensive,'
+description: 'Syntax : cast ''curse'' [<victim> | <object>] Type : Offensive, mental'
 tags:
   - Spells
   - Cleric spells
   - Shaman spells
 ---
-Syntax : cast 'curse' \[\&lt;victim\&gt; \| \&lt;object\&gt; Type : Offensive,
-mental Accumulative: No Duration : Yes (permanent on objects) Casting :
-Very long Position : Standing Level : Level 10 Class : Cleric Min. Mana
-: 20
-
-Example: \> cast 'curse' ring
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'curse' [<victim> | <object>]` |
+| Type | Offensive, mental |
+| Accumulative | No |
+| Duration | Yes (permanent on objects) |
+| Casting | Very long |
+| Position | Standing |
+| Level | 10 |
+| Class | Cleric |
+| Min. Mana | 20 |
+| Example | `> cast 'curse' ring` |
 
 This spell can be learned from:
 
@@ -23,7 +29,6 @@ This spell can be learned from:
 
 ## See also
 
-- [Corrupting](./Corrupting.md), [Remove
-  Curse](./Remove_Curse.md)
+- [Corrupting](./Corrupting.md), [Remove Curse](./Remove_Curse.md)
 
 <!--@include: ../includes/Spells.md-->

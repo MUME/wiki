@@ -5,14 +5,22 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Sense life** is a level 7 [cleric](./Cleric.md)
-[spell](./Spell.md). It will increase awareness temporarily and
-thus makes it more likely that you discover hidden or sneaking
-opponents. This is useful for clerics who usually have low perception.
-Syntax : cast 'sense life' \[self-only Type : Detection Accumulative:
-No Duration : Yes Casting : Normal Position : Standing Level : Level 7
-Class : Cleric Min. Mana : 5 Example: \> cast 'sense life' This spell
-can be learned from:
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'sense life' [self-only]` |
+| Type | Detection |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Normal |
+| Position | Standing |
+| Level | 7 |
+| Class | Cleric |
+| Min. Mana | 5 |
+| Example | `> cast 'sense life'` |
+
+**Sense life** is a level 7 [cleric](./Cleric.md) [spell](./Spell.md). It will increase awareness temporarily and thus makes it more likely that you discover hidden or sneaking opponents. This is useful for clerics who usually have low perception.
+
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|

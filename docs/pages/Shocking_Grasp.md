@@ -1,15 +1,25 @@
 ---
 title: Shocking Grasp
-description: 'Syntax : cast ''shocking grasp'' [victim Type : Offensive, physical'
+description: 'Syntax : cast ''shocking grasp'' [victim] Type : Offensive, physical'
 tags:
   - Spells
   - Mage spells
   - Shaman spells
 ---
-Syntax : cast 'shocking grasp' \[victim Type : Offensive, physical
-Accumulative: N/A Duration : No Casting : Normal Position : Standing,
-fighting Level : Level 7 Class : Magic User Min. Mana : 9 Example: \>
-cast 'shocking grasp' wight This spell can be learned from:
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'shocking grasp' [victim]` |
+| Type | Offensive, physical |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Normal |
+| Position | Standing, fighting |
+| Level | 7 |
+| Class | Magic User |
+| Min. Mana | 9 |
+| Example | `> cast 'shocking grasp' wight` |
+
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|

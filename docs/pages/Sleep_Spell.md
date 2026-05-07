@@ -2,20 +2,22 @@
 title: Sleep Spell
 description: 'Sleep is a level 14 mage'
 ---
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'sleep' <person or mobile>` |
+| Type | Offensive, mental |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Extremely long |
+| Position | Standing |
+| Level | 14 |
+| Class | Magic User |
+| Min. Mana | 15 |
+| Example | `> cast 'sleep' olog` |
 
-**Sleep** is a level 14 [mage](./Mage.md)
-[spell](./Spell.md). If successfully [cast](./Cast.md) on a
-creature, it will fall asleep and be unable to awake for some time.
-Sleep is primarily used to deactivate tough
-mobiles. It can also be used on players. Use on
-players is uncommon since it is such a long casting time, unless they
-[store](./Store.md) it. Many characters also have a good will
-defence to protect them.
+**Sleep** is a level 14 [mage](./Mage.md) [spell](./Spell.md). If successfully [cast](./Cast.md) on a creature, it will fall asleep and be unable to awake for some time. Sleep is primarily used to deactivate tough mobiles. It can also be used on players. Use on players is uncommon since it is such a long casting time, unless they [store](./Store.md) it. Many characters also have a good will defence to protect them.
 
-Syntax : cast 'sleep' \&lt;person or mobile\&gt; Type : Offensive, mental
-Accumulative: No Duration : Yes Casting : Extremely long Position :
-Standing Level : Level 14 Class : Magic User Min. Mana : 15 Example: \>
-cast 'sleep' olog This spell can be learned from:
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|

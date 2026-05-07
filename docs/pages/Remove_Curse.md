@@ -1,16 +1,23 @@
 ---
 title: Remove Curse
-description: 'Syntax : cast ''remove curse'' Type : Healing Accumulative: N/A Duration :'
+description: 'Syntax : cast ''remove curse'' Type : Healing Accumulative: N/A Duration : No'
 tags:
   - Spells
   - Cleric spells
   - Shaman spells
 ---
-Syntax : cast 'remove curse' Type : Healing Accumulative: N/A Duration :
-No Casting : Very long Position : Standing Level : Level 12 Class :
-Cleric Min. Mana : 10
-
-Example: \> cast 'remove curse' ring
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'remove curse'` |
+| Type | Healing |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing |
+| Level | 11 |
+| Class | Cleric |
+| Min. Mana | 10 |
+| Example | `> cast 'remove curse' ring` |
 
 This spell can be learned from:
 
