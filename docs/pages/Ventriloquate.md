@@ -5,10 +5,18 @@ tags:
   - Mage spells
   - Spells
 ---
-Syntax : cast 'ventriloquate' Type : Miscellaneous Accumulative: N/A
-Duration : No Casting : Very short Position : Standing Level : Level 1
-Class : Magic User Min. Mana : 5 Example: \> cast 'ventriloquate' bill I
-hate you Bert!
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'ventriloquate'` |
+| Type | Miscellaneous |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very short |
+| Position | Standing |
+| Level | 1 |
+| Class | Magic User |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'ventriloquate' bill I hate you Bert!` |
 
 This spell can be learned from:
 

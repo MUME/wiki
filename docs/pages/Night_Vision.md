@@ -5,12 +5,20 @@ tags:
   - Spells
   - Mage spells
 ---
-**Night Vision** is a [level](./Level.md) 7
-[mage](./Mage.md) [spell](./Spell.md). It allows the caster
-to see the names of creatures in dark areas for a period of time. Syntax
-: cast 'night vision' Type : Detection Accumulative: No Duration : Yes
-Casting : Normal Position : Standing Level : Level 7 Class : Magic User
-Min. Mana : 25 Example: \> cast 'night vision'
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'night vision'` |
+| Type | Detection |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Normal |
+| Position | Standing |
+| Level | 7 |
+| Class | Magic User |
+| Min. Mana | 25 |
+| Example | `&gt; cast 'night vision'` |
+
+**Night Vision** is a [level](./Level.md) 7 [mage](./Mage.md) [spell](./Spell.md). It allows the caster to see the names of creatures in dark areas for a period of time.
 
 This spell can be learned from:
 
@@ -25,7 +33,6 @@ This spell can be learned from:
 
 ## See also
 
-- [Detect Invisibility](./Detect_Invisibility.md), [Detect
-  Magic](./Detect_Magic.md)
+- [Detect Invisibility](./Detect_Invisibility.md), [Detect Magic](./Detect_Magic.md)
 
 <!--@include: ../includes/Spells.md-->

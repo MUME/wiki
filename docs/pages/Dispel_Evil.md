@@ -5,16 +5,20 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Dispel Evil** is a level 12 [cleric](./Cleric.md)
-[spell](./Spell.md). It is one of the primary attack spells for
-clerics. It does most damage if cast by a player with a very good
-[alignment](./Alignment.md) against a player with very bad align
-in a [zone](./Zone.md) with very good align.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'dispel evil' [victim]` |
+| Type | Offensive, physical |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Long |
+| Position | Standing, fighting |
+| Level | 12 |
+| Class | Cleric |
+| Min. Mana | 20 |
+| Example | `&gt; cast 'dispel evil' orc` |
 
-Syntax : cast 'dispel evil' \[victim Type : Offensive, physical
-Accumulative: N/A Duration : No Casting : Long Position : Standing,
-fighting Level : Level 12 Class : Cleric Min. Mana : 20 Example: \> cast
-'dispel evil' orc
+**Dispel Evil** is a level 12 [cleric](./Cleric.md) [spell](./Spell.md). It is one of the primary attack spells for clerics. It does most damage if cast by a player with a very good [alignment](./Alignment.md) against a player with very bad align in a [zone](./Zone.md) with very good align.
 
 This spell can be learned from:
 

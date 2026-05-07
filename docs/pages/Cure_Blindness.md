@@ -6,18 +6,22 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Cure Blindness** is a level 4 [cleric](./Cleric.md)
-[spell](./Spell.md). It removes the effect of the
-[Blindness](./Blindness.md) spell from the creature it is cast on.
-The spell is mainly useful for PK, because very few
-mobs cast Blindness.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'cure blindness' [victim]` |
+| Type | Healing |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Long |
+| Position | Standing |
+| Level | 4 |
+| Class | Cleric |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'cure blind' Sabadon` |
 
-A few practices might save your life someday! Generally only casters get
-this.
+**Cure Blindness** is a level 4 [cleric](./Cleric.md) [spell](./Spell.md). It removes the effect of the [Blindness](./Blindness.md) spell from the creature it is cast on. The spell is mainly useful for PK, because very few mobs cast Blindness.
 
-Syntax : cast 'cure blindness' \[victim Type : Healing Accumulative:
-N/A Duration : No Casting : Long Position : Standing Level : Level 4
-Class : Cleric Min. Mana : 5 Example: \> cast 'cure blind' Sabadon
+A few practices might save your life someday! Generally only casters get this.
 
 This spell can be learned from:
 

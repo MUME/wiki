@@ -2,14 +2,20 @@
 title: Shield Spell
 description: 'Shield is a level 13 mage'
 ---
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'shield' [self-only]` |
+| Type | Defensive |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Long |
+| Position | Standing |
+| Level | 13 |
+| Class | Magic User |
+| Min. Mana | 30 |
+| Example | `&gt; cast 'shield'` |
 
-**Shield** is a level 13 [mage](./Mage.md)
-[spell](./Spell.md) that increases the [dodge
-bonus](./Dodge_bonus.md) of the caster. Generally considered a
-must-have spell for all casters. Syntax : cast
-'shield' \[self-only Type : Defensive Accumulative: No Duration : Yes
-Casting : Long Position : Standing Level : Level 13 Class : Magic User
-Min. Mana : 30 Example: \> cast 'shield'
+**Shield** is a level 13 [mage](./Mage.md) [spell](./Spell.md) that increases the [dodge bonus](./Dodge_bonus.md) of the caster. Generally considered a must-have spell for all casters.
 
 This spell can be learned from:
 

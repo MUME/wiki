@@ -1,15 +1,23 @@
 ---
 title: Smother
-description: 'Syntax : cast ''smother'' [victim Type : Offensive, physical'
+description: 'Syntax : cast ''smother'' [victim] Type : Offensive, physical'
 tags:
   - Spells
   - Cleric spells
   - Shaman spells
 ---
-Syntax : cast 'smother' \[victim Type : Offensive, physical
-Accumulative: N/A Duration : Yes Casting : Short Position : Standing,
-fighting Level : Level 3 Class : Cleric Min. Mana : 5 Example: \> cast
-'smother' man
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'smother' [victim]` |
+| Type | Offensive, physical |
+| Accumulative | N/A |
+| Duration | Yes |
+| Casting | Short |
+| Position | Standing, fighting |
+| Level | 3 |
+| Class | Cleric |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'smother' man` |
 
 This spell can be learned from:
 

@@ -1,18 +1,25 @@
 ---
 title: Poison
-description: 'NOTE: This doesn''t poison weapons, for that see'
+description: 'NOTE: This doesn''t poison weapons, for that see herblores'
 tags:
   - Spells
   - Cleric spells
   - Shaman spells
 ---
-NOTE: This doesn't poison weapons, for that see
-[herblores](./Herblore.md).
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'poison' [victim [type of poison]]` |
+| Type | Offensive |
+| Accumulative | Yes |
+| Duration | Yes |
+| Casting | Long |
+| Position | Standing, fighting |
+| Level | 8 |
+| Class | Cleric |
+| Min. Mana | 10 |
+| Example | `&gt; cast 'poison' *Orc* psylonia` |
 
-Syntax : cast 'poison' \[victim \[type of poison Type : Offensive
-Accumulative: Yes Duration : Yes Casting : Long Position : Standing,
-fighting Level : Level 8 Class : Cleric Min. Mana : 10 Example: \> cast
-'poison' \*Orc\* psylonia
+NOTE: This doesn't poison weapons, for that see [herblores](./Herblore.md).
 
 This spell can be learned from:
 

@@ -1,24 +1,28 @@
 ---
 title: Create Focus
-description: 'Syntax : cast ''create focus'' &lt;object&gt; Type : Special Accumulative: No'
+description: 'Syntax : cast ''create focus'' object Type : Special Accumulative: No'
 tags:
   - Help files
   - Spells
 ---
-Syntax : cast 'create focus' \&lt;object\&gt; Type : Special Accumulative: No
-Duration : Permanent Casting : - Position : Standing; fully rested Class
-: All Level : Hero Min. Mana : Special A focus is a powerful item bound
-to an Istar or [Hero](./Hero.md).
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'create focus' object` |
+| Type | Special |
+| Accumulative | No |
+| Duration | Permanent |
+| Casting | - |
+| Position | Standing; fully rested |
+| Class | All |
+| Level | Hero |
+| Min. Mana | Special |
+| Example | `&gt; cast 'create focus' staff` |
 
-This spell creates a focus for the caster, it need not be learnt at any
-guild, but it can only be cast with the correct components and under
-special conditions.
+A focus is a powerful item bound to an Istar or [Hero](./Hero.md).
 
-Before casting the spell, some other ceremonies could be needed, such as
-casting other spells or dipping the material components in an enchanted
-pool.
+This spell creates a focus for the caster, it need not be learnt at any guild, but it can only be cast with the correct components and under special conditions.
 
-Example: cast 'create focus' staff
+Before casting the spell, some other ceremonies could be needed, such as casting other spells or dipping the material components in an enchanted pool.
 
 ## See also
 

@@ -1,13 +1,22 @@
 ---
 title: Store
-description: 'Syntax : cast ''store'' Type : Meta magic Accumulative: Special Duration :'
+description: 'Syntax : cast ''store'' Type : Meta magic Accumulative: Special Duration : Yes'
 tags:
   - Mage spells
   - Spells
 ---
-Syntax : cast 'store' Type : Meta magic Accumulative: Special Duration :
-Yes Casting : Extremely long Position : Standing Level : Level 10 Class
-: Magic User Min. Mana : 25 Example: \> cast 'store' fireball
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'store'` |
+| Type | Meta magic |
+| Accumulative | Special |
+| Duration | Yes |
+| Casting | Extremely long |
+| Position | Standing |
+| Level | 10 |
+| Class | Magic User |
+| Min. Mana | 25 |
+| Example | `&gt; cast 'store' fireball` |
 
 This spell can be learned from:
 

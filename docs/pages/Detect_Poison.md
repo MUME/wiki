@@ -6,14 +6,22 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Detect Poison** is a level 2 [cleric](./Cleric.md)
-[spell](./Spell.md). It will tell you whether an item or a pond is
-poisonous. Rather useless.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'detect poison' (victim | food | drink)` |
+| Type | Detection |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Normal |
+| Position | Standing |
+| Level | 2 |
+| Class | Cleric |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'detect poison' loaf` |
 
-Syntax : cast 'detect poison' (victim \| food \| drink) Type : Detection
-Accumulative: N/A Duration : No Casting : Normal Position : Standing
-Level : Level 2 Class : Cleric Min. Mana : 5 Example: \> cast 'detect
-poison' loaf This spell can be learned from:
+**Detect Poison** is a level 2 [cleric](./Cleric.md) [spell](./Spell.md). It will tell you whether an item or a pond is poisonous. Rather useless.
+
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|
@@ -26,7 +34,6 @@ poison' loaf This spell can be learned from:
 
 ## See also
 
-- [Remove Poison](./Remove_Poison.md), [Detect
-  Evil](./Detect_Evil.md), [Sense Life](./Sense_Life.md)
+- [Remove Poison](./Remove_Poison.md), [Detect Evil](./Detect_Evil.md), [Sense Life](./Sense_Life.md)
 
 <!--@include: ../includes/Spells.md-->

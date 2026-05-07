@@ -6,17 +6,20 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Cure Serious** is a level 5 [cleric](./Cleric.md)
-[spell](./Spell.md). It gives an increase in hit points for the
-person it is cast upon. Besides [Heal](./Heal.md) it is the
-primary healing spell for clerics. By [mages](./Mage.md) and also
-some [warriors](./Warrior.md) and [scouts](./Scout.md) it is
-used as the highest healing spell.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'cure serious' [victim]` |
+| Type | Healing |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Long |
+| Position | Standing, fighting |
+| Level | 5 |
+| Class | Cleric |
+| Min. Mana | 15 |
+| Example | `&gt; cast 'cure serious' mercenary` |
 
-Syntax : cast 'cure serious' \[victim Type : Healing Accumulative: N/A
-Duration : No Casting : Long Position : Standing, fighting Level : Level
-5 Class : Cleric Min. Mana : 15 Example: \> cast 'cure serious'
-mercenary
+**Cure Serious** is a level 5 [cleric](./Cleric.md) [spell](./Spell.md). It gives an increase in hit points for the person it is cast upon. Besides [Heal](./Heal.md) it is the primary healing spell for clerics. By [mages](./Mage.md) and also some [warriors](./Warrior.md) and [scouts](./Scout.md) it is used as the highest healing spell.
 
 This spell can be learned from:
 

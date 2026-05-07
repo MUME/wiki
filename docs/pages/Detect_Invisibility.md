@@ -6,9 +6,19 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-Syntax : cast 'detect invisibility' Type : Detection Accumulative: No
-Duration : Yes Casting : Normal Position : Standing Level : Level 2
-Class : Magic User Min. Mana : 5 Example: \> cast 'detect invisibility'
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'detect invisibility'` |
+| Type | Detection |
+| Accumulative | No |
+| Duration | Yes |
+| Casting | Normal |
+| Position | Standing |
+| Level | 2 |
+| Class | Magic User |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'detect invisibility'` |
+
 This spell can be learned from:
 
 | Guild | Sessions |
@@ -22,7 +32,6 @@ This spell can be learned from:
 
 ## See also
 
-- [Detect Magic](./Detect_Magic.md), [Night
-  Vision](./Night_Vision.md), [Shroud](./Shroud.md)
+- [Detect Magic](./Detect_Magic.md), [Night Vision](./Night_Vision.md), [Shroud](./Shroud.md)
 
 <!--@include: ../includes/Spells.md-->

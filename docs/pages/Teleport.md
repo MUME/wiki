@@ -6,17 +6,22 @@ tags:
   - Mage spells
   - Spells
 ---
-**Teleport** is a [level](./Level.md) 8 [mage](./Mage.md)
-[spell](./Spell.md) that allows the caster to instantly transport
-themselves to a target [room](./room.md). To use teleport you need
-to aquire magical keys for rooms. The keys are obtained by either using
-the [Locate Life](./Locate_Life.md) spell or the
-[Locate](./Locate.md) spell.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'teleport' location` |
+| Type | Long range |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing, Fighting |
+| Level | 8 |
+| Class | Magic User |
+| Min. Mana | 35 |
+| Example | `&gt; cast 'teleport' whiqueboza` |
 
-Syntax : cast 'teleport' \&lt;location\&gt; Type : Long range Accumulative:
-N/A Duration : No Casting : Very long Position : Standing, Fighting
-Level : Level 8 Class : Magic User Min. Mana : 35 Example: \> cast
-'teleport' whiqueboza This spell can be learned from:
+**Teleport** is a [level](./Level.md) 8 [mage](./Mage.md) [spell](./Spell.md) that allows the caster to instantly transport themselves to a target [room](./room.md). To use teleport you need to acquire magical keys. The keys are obtained by either using the [Locate Life](./Locate_Life.md) spell or the [Locate](./Locate.md) spell.
+
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|

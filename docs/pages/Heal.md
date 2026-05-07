@@ -5,18 +5,22 @@ tags:
   - Spells
   - Cleric spells
 ---
-**Heal** is a level 14 [cleric](./Cleric.md)
-[spell](./Spell.md). It gives a large boost in hit points, heals
-the first [wound](./Wound.md) and removes
-[diseases](./Disease.md) of the person cast upon. Heal has the
-highest hit point effect per mana cost. However, the mana cost is high
-and thus [Cure Serious](./Cure_Serious.md) is sometimes the better
-option if more mana is needed for other things.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'heal' [target]` |
+| Type | Healing |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Extremely long |
+| Position | Standing, fighting |
+| Level | 14 |
+| Class | Cleric |
+| Min. Mana | 50 |
+| Example | `&gt; cast 'heal' mekin` |
 
-Syntax : cast 'heal' \[target Type : Healing Accumulative: N/A
-Duration : No Casting : Extremely long Position : Standing, fighting
-Level : Level 14 Class : Cleric Min. Mana : 50 Example: \> cast 'heal'
-mekin This spell can be learned from:
+**Heal** is a level 14 [cleric](./Cleric.md) [spell](./Spell.md). It gives a large boost in hit points, heals the first [wound](./Wound.md) and removes [diseases](./Disease.md) of the person cast upon. Heal has the highest hit point effect per mana cost. However, the mana cost is high and thus [Cure Serious](./Cure_Serious.md) is sometimes the better option if more mana is needed for other things.
+
+This spell can be learned from:
 
 | Guild | Sessions |
 |-------|--------|

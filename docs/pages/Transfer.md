@@ -5,20 +5,22 @@ tags:
   - Spells
   - Cleric spells
 ---
-**Transfer** is a level 14 [cleric](./Cleric.md)
-[spell](./Spell.md). Like [Summon](./Summon.md) it will
-transfer a creature or player to the location of the caster but unlike
-*Summon* the transfer will include the
-equipment.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'transfer' recipient` |
+| Type | Long range |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Extremely long |
+| Position | Standing |
+| Level | 14 |
+| Class | Cleric |
+| Min. Mana | 50 |
+| Example | `&gt; cast 'transfer' Aschit` |
 
-Wearing a [ring](./Ring.md) (or collar for shape-shifting
-bears) can protect against being transfered
-involuntarily.
+**Transfer** is a level 14 [cleric](./Cleric.md) [spell](./Spell.md). Like [Summon](./Summon.md) it will transfer a creature or player to the location of the caster but unlike *Summon* the transfer will include the equipment.
 
-Syntax : cast 'transfer' \&lt;recipient\&gt; Type : Long range Accumulative:
-N/A Duration : No Casting : Extremely long Position : Standing Level :
-Level 14 Class : Cleric Min. Mana : 50 Example: \> cast 'transfer'
-Aschit
+Wearing a [ring](./Ring.md) (or collar for shape-shifting bears) can protect against being transferred involuntarily.
 
 This spell can be learned from:
 

@@ -5,11 +5,18 @@ tags:
   - Mage spells
   - Spells
 ---
-Syntax : cast 'find the path' Type : Long range Accumulative: N/A
-Duration : No Casting : Very long Position : Standing Level : Level 6
-Class : Magic User Min. Mana : 21
-
-Example: \> cast 'find the path' zoquewhiya
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'find the path'` |
+| Type | Long range |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Very long |
+| Position | Standing |
+| Level | 6 |
+| Class | Magic User |
+| Min. Mana | 21 |
+| Example | `&gt; cast 'find the path' zoquewhiya` |
 
 This spell can be learned from:
 

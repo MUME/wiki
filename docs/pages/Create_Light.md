@@ -5,14 +5,20 @@ tags:
   - Mage spells
   - Spells
 ---
-**Create Light** is a [level](./Level.md) 4
-[mage](./Mage.md) [spell](./Spell.md) that can be used to
-replenish a light source. When cast on a [lantern](./Lantern.md),
-it fills it with around 2 days worth of [oil](./Oil.md).
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'create light'` |
+| Type | Miscellaneous |
+| Accumulative | N/A |
+| Duration | No |
+| Casting | Long |
+| Position | Standing |
+| Level | 4 |
+| Class | Magic User |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'create light' lantern` |
 
-Syntax : cast 'create light' Type : Miscellaneous Accumulative: N/A
-Duration : No Casting : Long Position : Standing Level : Level 4 Class :
-Magic User Min. Mana : 5 Example: \> cast 'create light' lantern
+**Create Light** is a [level](./Level.md) 4 [mage](./Mage.md) [spell](./Spell.md) that can be used to replenish a light source. When cast on a [lantern](./Lantern.md), it fills it with around 2 days worth of [oil](./Oil.md).
 
 This spell can be learned from:
 

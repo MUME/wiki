@@ -6,15 +6,20 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-**Chill Touch** is a [level](./Level.md) 3 [mage](./Mage.md)
-[spell](./Spell.md). It deals a small amount of damage and lowers
-the target's [offensive bonus](./Offensive_bonus.md) by 5. The
-spell text is 'qpurr hajqp'.
+| Property | Value |
+| :--- | :--- |
+| Syntax | `cast 'chill touch' [victim]` |
+| Type | Offensive, physical |
+| Accumulative | N/A |
+| Duration | Yes |
+| Casting | Short |
+| Position | Standing, fighting |
+| Level | 3 |
+| Class | Magic User |
+| Min. Mana | 5 |
+| Example | `&gt; cast 'chill touch' bear` |
 
-Syntax : cast 'chill touch' \[victim Type : Offensive, physical
-Accumulative: N/A Duration : Yes Casting : Short Position : Standing,
-fighting Level : Level 3 Class : Magic User Min. Mana : 5 Example: \>
-cast 'chill touch' bear
+**Chill Touch** is a [level](./Level.md) 3 [mage](./Mage.md) [spell](./Spell.md). It deals a small amount of damage and lowers the target's [offensive bonus](./Offensive_bonus.md) by 5. The spell text is 'qpurr hajqp'.
 
 This spell can be learned from:
 
