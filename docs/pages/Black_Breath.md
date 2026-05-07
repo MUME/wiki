@@ -1,6 +1,6 @@
 ---
 title: Black Breath
-description: 'Syntax : cast ''black breath'' Type : Offensive, special Accumulative: N/A'
+description: 'Black breath is a level 12 shaman spell.'
 tags:
   - Spells
   - Shaman spells
