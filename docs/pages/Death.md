@@ -27,7 +27,7 @@ The kind of death a character suffers (mobdeath, pk, other) now depends
 not only on the immediate cause of the death, but also on the recent
 encounters of the dying character. Moreover, in case of pk, the code
 takes into consideration recently met friends and foes - not only those
-currently in the [room](./room.md).
+currently in the [room](./Mechanics.md#room).
 
 More precisely:
 

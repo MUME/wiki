@@ -15,7 +15,7 @@ blood is black and so hot, that when it falls, it sizzles on the floor.
 Most trolls still remain under control of [Sauron](./Sauron.md)
 and large numbers reside around the northern [Misty
 Mountains](./Misty_Mountains.md) and the
-[Trollshaws](./Trollshaws.md).
+[Trollshaws](../lore.md#trollshaws).
 
 ## Trolls in [Mume](./MUME.md)
 
@@ -24,7 +24,7 @@ The sheer might of a Troll makes them the most capable
 thinking ability, and their bulk gives them very sluggish movement.
 Trolls can only play [Warriors](./Warrior.md) effectively. Player
 trolls live within the Trollshaws in a gigantic cave-system known as the
-[Warrens](./Warrens.md). Trolls in Mume are treated differently to
+[Warrens](./Trollshaws.md#warrens). Trolls in Mume are treated differently to
 most other races:
 
 - They may not become immortal.

@@ -19,7 +19,7 @@ recover it (or tell anyone else about it). Clearly, this also applies to
 leaving your equipment or gold in the safe- keeping of another character
 whilst you go off into a risky situation. The same applies to obvious
 variations with the same intention: giving equipment to
-mobs, hiding it in [rooms](./room.md), etc.
+mobs, hiding it in [rooms](./Mechanics.md#room), etc.
 
 A slightly less obvious form of banking, is making multiple [legend
 home](./Legend_Homes.md) payments without spending any of the

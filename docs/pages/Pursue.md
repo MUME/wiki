@@ -12,7 +12,7 @@ direction it leads. This is a faster and more convenient way to follow a
 track over long distances.
 
 Also note that 'pursue' will cause you to enter the
-[room](./room.md) in question no matter what danger may lie in it.
+[room](./Mechanics.md#room) in question no matter what danger may lie in it.
 You will need to enter the command each time you wish to pursue your
 victim.
 

@@ -28,7 +28,7 @@ Khazad-dûm was increased, as many skilled [Dwarves](./Dwarf.md)
 from the Ered Luin came there after the ruin of Nogrod and Belegost.
 Early in the Second Age, mithril was discovered in Khazad-dûm, and the
 friendship between Durin's Folk and the Noldor of
-[Eregion](./Eregion.md) began. The gates of Khazad-dûm were closed
+[Eregion](../lore.md#eregion) began. The gates of Khazad-dûm were closed
 during the War of Elves and Sauron, and thus the Dwarves survived
 through the Second Age.
 

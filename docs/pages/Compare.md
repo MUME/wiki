@@ -12,7 +12,7 @@ idea of their relative merits. If used in a [shop](./Shop.md),
 objects in the shopkeeper's stock can also be compared.
 
 Comparing objects in your [inventory](./Inventory.md) or in
-[room](./room.md):
+[room](./Mechanics.md#room):
 
 ```
  > compare sword spear

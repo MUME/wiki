@@ -4,7 +4,7 @@ description: 'The marred wedding ring is an item needed for the'
 tags:
   - Quest items
 ---
-The **marred wedding ring** is an [item](./Item.md) needed for the
+The **marred wedding ring** is an [item](./Items.md#item) needed for the
 [crippled ranger](./Tower_Hills_Ranger_Guild.md)'s
 [quest](./Quest#Lost_and_Found.md). It spawns in a cave southwest
 of [Black Hill](./Black_Hill.md).

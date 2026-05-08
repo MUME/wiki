@@ -45,17 +45,17 @@ started their journeys here.
 
 - [Faldor's Fine Weapons](./Faldor_the_weaponsmith.md)
 - [Kevlar's Fine Armour](./Kevlar_the_Armourer.md)
-- [Tailor's Shop](./Harlond_Tailor.md)
+- [Tailor's Shop](./Grey_Havens.md#harlond)
 - [Herbalist](./Harlond_Herbalist.md)
-- [Grocery](./Harlond_Grocer.md)
+- [Grocery](./Grey_Havens.md#harlond)
 - [Bakery](./Harlond_Baker.md)
 
 ### Forlond
 
 - [Gildor's Fine Weapons and Armour](./Gildor_the_blacksmith.md)
 - [Forlond's Fine Jewelry](./Forlond's_Fine_Jewelry.md)
-- [Tailor's Shop](./Forlond_Tailor.md)
-- [Grocery](./Forlond_Grocer.md)
+- [Tailor's Shop](./Grey_Havens.md#forlond)
+- [Grocery](./Grey_Havens.md#forlond)
 
 ## Inns and Taverns
 

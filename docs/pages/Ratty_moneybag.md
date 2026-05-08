@@ -4,7 +4,7 @@ description: 'The ratty moneybag is an item needed for the'
 tags:
   - Quest items
 ---
-The **ratty moneybag** is an [item](./Item.md) needed for the
+The **ratty moneybag** is an [item](./Items.md#item) needed for the
 [crippled ranger](./Tower_Hills_Ranger_Guild.md)'s
 [quest](./Quest#Lost_and_Found.md). It can be
 [revealed](./Reveal.md) on a cliff ledge south of [Black

@@ -6,8 +6,8 @@ tags:
 ---
 **Weaponsmiths** tend to the weapon shops in
 [Bree](./Bree_Weaponsmith.md),
-[Fornost](./Fornost_Weaponsmith.md) and
-[Tharbad](./Tharbad_Weaponsmith.md). They are
+[Fornost](./Fornost.md#inhabitants) and
+[Tharbad](./Tharbad.md#shops). They are
 [level](./Level.md) ~19-20 mobiles.
 
 ```

@@ -4,7 +4,7 @@ description: 'A focus is an object imbued with powerful magic'
 tags:
   - Help files
 ---
-A **focus** is an [object](./Item.md) imbued with powerful magic
+A **focus** is an [object](./Items.md#item) imbued with powerful magic
 and bound to its owner. Several kinds of foci exist, each endowed with
 different powers. A [warrior](./Warrior.md) might prefer a focus
 which enhances his battle prowess or weakens his enemies, a

@@ -60,8 +60,8 @@ is below.
   - The King's Armoury
   - The Mighty Hammer Weaponry
   - [Herb Shop](./Fornost_Herbalist.md)
-  - [The Grocery](./Fornost_Grocer.md)
-  - [Small Bakery](./Fornost_Baker.md)
+  - [The Grocery](./Fornost.md#shops)
+  - [Small Bakery](./Fornost.md#shops)
 
 <!-- -->
 
@@ -101,10 +101,10 @@ Fornost.
 - Simple Servant
 - Wealthy Merchant
 - Man (intent on his business)
-- [Armourer](./Fornost_Armourer.md)
-- [Weaponsmith](./Fornost_Weaponsmith.md)
+- [Armourer](./Fornost.md#inhabitants)
+- [Weaponsmith](./Fornost.md#inhabitants)
 - [Elderly Herbalist](./Fornost_Herbalist.md)
-- [Large Grocer](./Fornost_Grocer.md)
+- [Large Grocer](./Fornost.md#shops)
 - Clerk
 - [Dúnadan Soldier](./Dúnadan_Soldier.md)
 

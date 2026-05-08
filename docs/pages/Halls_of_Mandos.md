@@ -4,7 +4,7 @@ description: 'The Halls of Mandos is a special room where all'
 tags:
   - Locations
 ---
-The **Halls of Mandos** is a special [room](./room.md) where all
+The **Halls of Mandos** is a special [room](./Mechanics.md#room) where all
 newly created whitie characters start out, and also where all whitie
 characters end up after [dying](./Death.md) or
 [unretiring](./Retire.md). In the Halls, the

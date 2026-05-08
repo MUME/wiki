@@ -12,7 +12,7 @@ read the note, you need to 'hold' the note and '[read](./Read.md)
 note'.
 
 To write a message on a bulletin [board](./Boards.md), use 'write
-&lt;subject&gt;' in the [room](./room.md) where the board is. You may
+&lt;subject&gt;' in the [room](./Mechanics.md#room) where the board is. You may
 also want to [reply](./Reply.md) to the last message you read.
 
 This command will take you into your chosen [editor](./Editor.md)

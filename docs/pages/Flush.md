@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Type **flush** \&lt;[effort](./Effort.md)\&gt; (quickly, fast, normally,
+Type **flush** \&lt;[effort](./Mechanics.md#effort)\&gt; (quickly, fast, normally,
 carefully, thoroughly) to look for [hidden](./Hide.md) people and
 [hit](./Hit.md) anyone you find (beware of hitting your
 friends...). Your chances of success will depend on your eyesight,

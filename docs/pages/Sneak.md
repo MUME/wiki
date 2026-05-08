@@ -8,7 +8,7 @@ tags:
 Usage: sneak \[on\|off
 
 **Sneak** is a [thief](./Thief.md) [skill](./Skill.md) used
-for moving in and out of [rooms](./room.md) without anyone
+for moving in and out of [rooms](./Mechanics.md#room) without anyone
 knowing. The sneak command will toggle on and off your ability to sneak.
 
 The chances of a succesful sneak depend on the terrain and the number of

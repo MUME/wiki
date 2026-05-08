@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 Makes you **follow** a person, so whenever he or she leaves a
-[room](./room.md), you leave too - and most likely in the same
+[room](./Mechanics.md#room), you leave too - and most likely in the same
 direction as your leader!
 
 If you just type "follow", with no arguments, you stop following your

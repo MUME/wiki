@@ -41,7 +41,7 @@ merely needs to '[call](./Call.md)'.
 
 ## Shops
 
-- [Bree Armourer](./Bree_Armourer.md)
+- [Bree Armourer](./Bree.md#shops)
 - [Bree Weaponsmith](./Bree_Weaponsmith.md)
 - [Bree Herbalist](./Bree_Herbalist.md)
 

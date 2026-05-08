@@ -184,7 +184,7 @@ those that help them.
 - Quest: One of the [imposing beech
   trees](./Imposing_beech_tree.md) in Fangorn has an axe stuck in
   his back. He is located in the northwestern part of the forest, quite
-  near [Leaflock](./Leaflock.md). Wait for him to turn around,
+  near [Leaflock](./Fangorn.md#unique-mobiles). Wait for him to turn around,
   then 'remove axe tree'.
 - Reward: 2000 exp
 
@@ -370,7 +370,7 @@ needs help procuring some equipment.
   traveller's cloak](./Woollen_traveller's_cloak.md), a [hunting
   knife](./Hunting_knife.md) and a
   [whetstone](./Whetstone.md). Agree to help him. All
-  [items](./Item.md) may be found nearby or bought from
+  [items](./Items.md#item) may be found nearby or bought from
   [shops](./Shop.md).
 - Reward: Leonard's notes, 1000xp
 
@@ -387,7 +387,7 @@ from a [bandit](./Bandit.md) lookout.
   leading to the White Tower. The
   [bandit](./Bandit.md) carrying the
   [note](./Crumpled,_mud-smeared_piece_of_paper.md) wanders around
-  all the [rooms](./room.md) on the plateau - watch out for the
+  all the [rooms](./Mechanics.md#room) on the plateau - watch out for the
   [dreadful snake](./Dreadful_snake.md) in the northeastern room
   if you're low [level](./Level.md). Kill him and bring the note
   back to the hunter.

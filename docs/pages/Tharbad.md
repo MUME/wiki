@@ -47,10 +47,10 @@ surrender. Tharbad's justice system is known to show little lenience.
 
 ## Shops
 
-- [Armoury](./Tharbad_Armourer.md)
+- [Armoury](./Tharbad.md#shops)
 - [Bakery](./Tharbad_Baker.md)
 - [Grocery](./Tharbad_Grocer.md)
-- [Weapon Shop](./Tharbad_Weaponsmith.md)
+- [Weapon Shop](./Tharbad.md#shops)
 - [Thieves' Shop](./Tharbad_Thieves'_Shop.md)
 
 ## Guilds

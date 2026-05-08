@@ -80,7 +80,7 @@ the second time will be treated as perjury!
 
 - 'complain &lt;me&gt;' always works. It is the only way to surrender when
   wanted. It is also the way to visit someone who is in
-  [jail](./Jail.md). Note that you are going to complain only
+  [jail](./Mechanics.md#jail). Note that you are going to complain only
   those of your crimes that have been already witnessed by the justice;
   others will still stay unreported and may get reported later, giving
   you a nasty surprise after you leave the jail!
@@ -130,4 +130,4 @@ Note however that if you die not to a kill but to
 [poison](./Poison.md), etc., and/or outside the town where you are
 wanted - the town will *not* forget that you are wanted there.
 
-See also: [Citizen](./Citizen.md), [Jail](./Jail.md)
+See also: [Citizen](./Citizen.md), [Jail](./Mechanics.md#jail)

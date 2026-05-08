@@ -147,7 +147,7 @@ A dwarf who runs a hidden mine in Eregion.
 
 ### Old Man Willow
 
-In J. R. R. Tolkien's work, [Old Man Willow](./Old_Man_Willow.md)
+In J. R. R. Tolkien's work, [Old Man Willow](./Old_Forest.md#old-man-willow)
 is an evil tree that lives in the Old Forest next to the Shire.
 
 ### The Kraken

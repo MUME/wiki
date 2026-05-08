@@ -27,7 +27,7 @@ haul up a basket. Entering the basket causes it to start descending
 towards the platform where the ghost of Galerel awaits.
 
 All 4 exits from the platform lead to the same location - the
-[room](./room.md) directly below the platform. Getting back up
+[room](./Mechanics.md#room) directly below the platform. Getting back up
 requires a fairly high [climb](./Climb.md) skill, though you will
 not take a lot of damage if you fail to climb up. Galerel himself will
 not leave the platform. When he is killed, all his items will also fall

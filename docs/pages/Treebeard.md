@@ -30,5 +30,5 @@ seven toes each and seem to root well in the ground.
 Treebeard found Merry and Pippin when they were lost in Fangorn. When he
 learned from them that Saruman was cutting down
 the forests, he led the Ents in an assault on
-[Isengard](./Isengard.md), destroying and flooding most of the
+[Isengard](../lore.md#isengard), destroying and flooding most of the
 fortress aside from the central tower, where Saruman was trapped.

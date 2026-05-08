@@ -16,7 +16,7 @@ They settled in Middle-earth mainly in Umbar
 and surrounding coastal regions. After Sauron's downfall at the
 beginning of the [Third Age](./Third_Age.md), the bloodlines of
 these Númenórean descendants mixed with other peoples, especially the
-[Haradrim](./Haradrim.md) over which they had dominion. During the
+[Haradrim](../lore.md#haradrim) over which they had dominion. During the
 first millenia of the age, they proved strong enemies of the Dúnedain of
 Gondor, but were permanently scattered when Umbar
 was taken in TA 933, and when the subsequent siege was broken in TA
@@ -41,7 +41,7 @@ BN's have a number of penalties:
 - They have no cities in which to [rent](./Rent.md). However, they
   can [camp](./Camp.md) outside and often do not pay rent.
 - They must wander in search of those
-  [guildmasters](./Guildmasters.md) of theirs who have made the
+  [guildmasters](./Help.md#guildmasters) of theirs who have made the
   trip to Eriador. No [warrior](./Warrior.md) guildmasters have
   ever been found, so their [weapon](./Weapon.md)
   [skills](./Skill.md) are limited.

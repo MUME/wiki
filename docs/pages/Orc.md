@@ -45,14 +45,14 @@ tribes in MUME:
 - Uruk-Burzruth who live in the eastern half
   of the [Mines of Moria](./Moria.md)
 - Uruk-Durbûk who reside in the mountains of
-  [Emyn-nu-Fuin](./Mirkwood.md)
+  [Emyn-nu-Fuin](../lore.md#mirkwood)
 - Uruk-Durghash who have taken over the
   western half of the [Mines of Moria](./Moria.md)
 - Uruk-Moragog who live in the upper levels of
   eastern [Moria](./Moria.md)
 - Uruk-Morgundul that reside in Red Horn
   Pass, [Vales of Anduin](./Anduin_Vale.md), and [Dol
-  Guldur](/pages/Mirkwood)
+  Guldur](../lore.md#mirkwood)
 - Uruk-Ohurk who have set up camp around the
   Ford of the River Bruinen
 - Uruk-Urughash who live in the Misty

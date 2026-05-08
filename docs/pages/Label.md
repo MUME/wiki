@@ -7,7 +7,7 @@ tags:
 ---
 With the **label** command, you can attach labels to characters or
 mobs. These labels can be used as keywords to identify
-them (when they are in the [room](./room.md)), and labels show
+them (when they are in the [room](./Mechanics.md#room)), and labels show
 within parentheses after the character's name when you see it.
 
 E.g., if you see \*an [Orc](./Orc.md)\*, you can

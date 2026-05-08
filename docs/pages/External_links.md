@@ -4,7 +4,7 @@ description: 'This page lists links to sites related to MUME and the works of JR
 tags:
   - Links
 ---
-This page lists **links** to sites that concern MUME directly, as well as sites that contribute to the works of JRR [Tolkien](./Tolkien.md).
+This page lists **links** to sites that concern MUME directly, as well as sites that contribute to the works of JRR [Tolkien](./External_links.md#tolkien).
 
 ## MUME Official & Community
 

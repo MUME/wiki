@@ -4,7 +4,7 @@ description: 'The water skin is a drink'
 tags:
   - Containers
 ---
-The **water skin** is a [drink](/pages/Drink)
+The **water skin** is a [drink](./Items.md#drink)
 [container](./Container.md) that can be worn on a
 [belt](./Belt.md). It can contain up to 4 pounds worth of liquid.
 It is worth around 20 copper, and is sold by most

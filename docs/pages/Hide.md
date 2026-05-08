@@ -9,7 +9,7 @@ Syntax: hide &lt;effort&gt;, one of quickly/fast/normally/carefully/thoroughly
 
 **Hide** is a [thief](./Thief.md) [skill](./Skill.md). When
 you type hide there is a chance that you hide in the
-[room](./room.md). If hidden, nothing can be done to you until you
+[room](./Mechanics.md#room). If hidden, nothing can be done to you until you
 are found, or you stop hiding. You stop hiding if you move; you can be
 found if someone [searches](./Search.md) for you, or if you
 perform most actions (for example if you speak). Other people may or may

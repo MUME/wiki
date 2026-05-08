@@ -5,6 +5,6 @@ tags:
   - Shopkeepers
 ---
 **Armourers** tend the armour [shops](./Shop.md) in
-[Bree](./Bree_Armourer.md), [Fornost](./Fornost_Armourer.md)
-and [Tharbad](./Tharbad_Armourer.md). They are
+[Bree](./Bree.md#shops), [Fornost](./Fornost.md#inhabitants)
+and [Tharbad](./Tharbad.md#shops). They are
 [level](./Level.md) ~18-19 mobiles.

@@ -12,8 +12,8 @@ Arrows are used by [bows](./Ranged_weapon.md).
 
 - [silver-tipped arrow](./Silver-tipped_arrow.md) - Effective vs.
   undead.
-- [ash arrow](./Ash_arrow.md)
-- [war arrow](./War_arrow.md)
+- [ash arrow](./Weapon.md#missiles)
+- [war arrow](./Weapon.md#missiles)
 - [arrow](./Arrow.md)
 - [fletched arrow](./Fletched_arrow.md)
 
@@ -21,14 +21,14 @@ Arrows are used by [bows](./Ranged_weapon.md).
 
 Bolts are used by [crossbows](./Ranged_weapon.md).
 
-- [blackened bolt](./Blackened_bolt.md)
-- [bolt](./Bolt.md)
-- [metal-cased bolt](./Metal-cased_bolt.md)
+- [blackened bolt](./Weapon.md#missiles)
+- [bolt](./Weapon.md#missiles)
+- [metal-cased bolt](./Weapon.md#missiles)
 
 ## Stones
 
 Stones are used by [slings](./Ranged_weapon.md).
 
-- [round stone](./Round_stone.md)
+- [round stone](./Weapon.md#missiles)
 
 <!--@include: ../includes/Items.md-->
