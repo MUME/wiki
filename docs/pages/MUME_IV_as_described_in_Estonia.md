@@ -288,17 +288,19 @@ you.
 
 ## CORE TERMINOLOGY:
 
-**PRAC / PRAC TIME** – this refers to periods during which you can go to guildmasters and have them assist in learning certain skills or spells. Simply find out where one is located, and spend your prac sessions with the guildmaster. For example, if you were a warrior and wanted to improve the skill parry, then you would type:
+**PRAC / PRAC TIME:** – this refers to periods during which you can go to guildmasters and have them assist in learning certain skills or spells. Simply find out where one is located, and spend your prac sessions with the guildmaster. For example, if you were a warrior and wanted to improve the skill parry, then you would type:
   prac parry
 The more pracs you have, the better your skills can become.
-Fighting — when you encounter an enemy and gain experience points from it, first use:
-CONSIDER <enemy> (“CON” for short) — to evaluate them. If the result seems positive, you may attack. The stronger you are compared to them, the better your chances.
-LOOK <enemy> (“L” for short) — lets you observe the enemy.
+
+**Fighting:** when you encounter an enemy and gain experience points from it, first use:
+  -CONSIDER <enemy> (“CON” for short) — to evaluate them. If the result seems positive, you may attack. The stronger you are compared to them, the better your chances.
+  -LOOK <enemy> (“L” for short) — lets you observe the enemy.
 You can attack using:
-KILL <enemy> (“K” for short)
+  -KILL <enemy> (“K” for short)
+  
 You and your opponent fight completely automatically, and every 0.5 seconds a violence round occurs, during which both sides use their weapons against each other. You may simply watch, or use time-sensitive commands / skills / spells.
 If you see that the situation is becoming hopeless, you can flee with:
-FLEE
+  FLEE
 Keep in mind, however, that if there are two opponents against you, then by fleeing you usually give them one free hit each.
 
 ![.exe magazine - pages 62-63](/img/exe-magazine---Pp62-63.jpg)
