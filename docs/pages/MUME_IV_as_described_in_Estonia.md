@@ -27,7 +27,7 @@ You can see it and hear some discussion with Mammoth about it on the
 Mume Podcast at around 9:00 here -
 [2](https://www.youtube.com/watch?v=UeKcevNDi2U&t=538s)
 
-![exe-magazine---Page-59](/img/exe-magazine---Page-59.jpg)
+![.exe magazine - age 51](/img/exe-magazine---Page-59.jpg)
 
 
 
@@ -65,6 +65,8 @@ the fictional realm created by **J.R.R. Tolkien**. (I recommend reading
 such works as *The Hobbit*, *The Lord of the Rings*, etc.)
 
 This is the world that holds MUME together...
+
+![.exe magazine - pages 60-61](/img/exe-magazine---Pp60-61.jpg)
 
 **How to get in? Nothing simpler:**
 
@@ -286,10 +288,20 @@ you.
 
 ## CORE TERMINOLOGY:
 
-**PRAC / PRAC TIME** – these are the periods when you can go to a
-guildmaster (teacher) to learn new spells and skills or improve them.
-During prac time, you find a guildmaster, tell them your desired skill,
-and if you have practice sessions, they will teach you.
+**PRAC / PRAC TIME** – this refers to periods during which you can go to guildmasters and have them assist in learning certain skills or spells. Simply find out where one is located, and spend your prac sessions with the guildmaster. For example, if you were a warrior and wanted to improve the skill parry, then you would type:
+  prac parry
+The more pracs you have, the better your skills can become.
+Fighting — when you encounter an enemy and gain experience points from it, first use:
+CONSIDER <enemy> (“CON” for short) — to evaluate them. If the result seems positive, you may attack. The stronger you are compared to them, the better your chances.
+LOOK <enemy> (“L” for short) — lets you observe the enemy.
+You can attack using:
+KILL <enemy> (“K” for short)
+You and your opponent fight completely automatically, and every 0.5 seconds a violence round occurs, during which both sides use their weapons against each other. You may simply watch, or use time-sensitive commands / skills / spells.
+If you see that the situation is becoming hopeless, you can flee with:
+FLEE
+Keep in mind, however, that if there are two opponents against you, then by fleeing you usually give them one free hit each.
+
+![.exe magazine - pages 62-63](/img/exe-magazine---Pp62-63.jpg)
 
 **Group combat and following players:** Group-based gameplay becomes
 easier with the help of the GROUP command – the leader uses FOLLOW to
@@ -297,6 +309,7 @@ automatically gather the party. It also helps with moving as a group –
 if you’re far away, or stuck in the middle of nowhere, you can still
 catch up to the group by typing follow leader, and you’ll be brought
 back to the group, no matter your location (unless you’re dead).
+
 **Buffer** is a tank – a player (or NPC) whose job is to soak up hits
 from enemies (the kind who end up with more bruises than teeth). Since
 enemies often attack the one who deals the most damage (i.e. who hits
