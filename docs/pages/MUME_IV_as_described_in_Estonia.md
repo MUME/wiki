@@ -293,10 +293,10 @@ you.
 The more pracs you have, the better your skills can become.
 
 **Fighting:** when you encounter an enemy and gain experience points from it, first use:
-  -CONSIDER <enemy> (“CON” for short) — to evaluate them. If the result seems positive, you may attack. The stronger you are compared to them, the better your chances.
-  -LOOK <enemy> (“L” for short) — lets you observe the enemy.
+  -CONSIDER &lt;enemy&gt;  (“CON” for short) — to evaluate them. If the result seems positive, you may attack. The stronger you are compared to them, the better your chances.
+  -LOOK &lt;enemy&gt;  (“L” for short) — lets you observe the enemy.
 You can attack using:
-  -KILL <enemy> (“K” for short)
+  -KILL &lt;enemy&gt; (“K” for short)
   
 You and your opponent fight completely automatically, and every 0.5 seconds a violence round occurs, during which both sides use their weapons against each other. You may simply watch, or use time-sensitive commands / skills / spells.
 If you see that the situation is becoming hopeless, you can flee with:
