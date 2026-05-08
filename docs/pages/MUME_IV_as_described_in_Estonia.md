@@ -27,9 +27,7 @@ You can see it and hear some discussion with Mammoth about it on the
 Mume Podcast at around 9:00 here -
 [2](https://www.youtube.com/watch?v=UeKcevNDi2U&t=538s)
 
-  image:
-    src: /img/exe-magazine---pg-59.jpg
-    alt: .exe Magazine pg 59
+![.exe Magazine pg 59](/img/exe-magazine---pg-59.jpg)
 
 ## MUD
 
