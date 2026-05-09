@@ -40,7 +40,7 @@ Some races have unique mechanics that require specialized knowledge:
 
 ## Racial Flavor
 
-- [Elven names](./pages/Elven_names.md) · [Dwarvish names](./pages/Names.md) · [Orcish names](./pages/Names.md)
+- [Elven names](./pages/Elven_names.md) · [Dwarvish names](./pages/Dwarvish_names.md) · [Orcish names](./pages/Orcish_names.md)
 - [Language](./pages/Language.md) — How communication works between the different peoples.
 
 <hr />

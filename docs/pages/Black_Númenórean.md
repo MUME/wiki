@@ -41,7 +41,7 @@ BN's have a number of penalties:
 - They have no cities in which to [rent](./Rent.md). However, they
   can [camp](./Camp.md) outside and often do not pay rent.
 - They must wander in search of those
-  [guildmasters](./Guild.md) of theirs who have made the
+  [guildmasters](./Help.md#guildmasters) of theirs who have made the
   trip to Eriador. No [warrior](./Warrior.md) guildmasters have
   ever been found, so their [weapon](./Weapon.md)
   [skills](./Skill.md) are limited.

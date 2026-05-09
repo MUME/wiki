@@ -127,7 +127,7 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Sacred Cloak\*\*
 
-` *`[`Amanrandil`](/pages/Quest.md#amanrandil_s_quest)
+` *`[`Amanrandil`](/pages/Quest#amanrandil_s_quest.md)
 
 - - Fine grey cloak\*\*
 
@@ -236,7 +236,7 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Amethyst\*\*
 
-  - Lorien: in manacup room (`[`Dagnir's Ghost quest`](/pages/Quest.md#dagnir's_ghost's_quest)`)
+  - Lorien: in manacup room (`[`Dagnir's Ghost quest`](/pages/Quest#dagnir's_ghost's_quest.md)`)
   - In the chest behind hidden 'carpet' under Cinard, Eregion
   - In OiE, from dispelling the statues that guard the forge
   - Bulag
@@ -355,16 +355,16 @@ time.
 
 - - Jewelled ring\*\* (power ring) (new change to descriptions)
 
-` *`[`Ost-in-Edhil quest`](/pages/Quest.md#ost-in-edhil)
+` *`[`Ost-in-Edhil quest`](/pages/Quest#ost-in-edhil.md)
 
 - - Azure ring\*\* (quest item ring, also counts as treasure)
 
-` *`[`Vairr the assassin, in the Anduin Vale`](/pages/Quest.md#narv's_quest)
+` *`[`Vairr the assassin, in the Anduin Vale`](/pages/Quest#narv's_quest.md)
 
 - - Golden quartzite ring\*\* (casts bless on wearer, limited charges)
     (can wear with power ring)
 
-` *`[`In Offa's chest.`](/pages/Quest.md#offa_the_scout_s_quest)
+` *`[`In Offa's chest.`](/pages/Quest#offa_the_scout_s_quest.md)
 
 - - Small tin ring (eff vs disease)\*\* (can wear with power ring)
 
@@ -470,7 +470,7 @@ time.
 
 - - Ceremonial dagger\*\*
 
-` *`[`Amanrandil`](/pages/Quest.md#amanrandil_s_quest)
+` *`[`Amanrandil`](/pages/Quest#amanrandil_s_quest.md)
 
 - - Elven dagger\*\*
 
@@ -519,7 +519,7 @@ time.
 
 - - The Hammer of Belegost\*\*
 
-` *`[`King Thorin II`](/pages/Quest.md#hammer_of_belegost_quest)
+` *`[`King Thorin II`](/pages/Quest#hammer_of_belegost_quest.md)
 
 - - Black runed sceptre\*\*
 
@@ -591,7 +591,7 @@ time.
 
 - - Blackened spear\*\*
 
-` *`[`Blackened spear quest`](/pages/Quest.md#blackened_spear_quest)
+` *`[`Blackened spear quest`](/pages/Quest#blackened_spear_quest.md)
 
 - - Steel-tipped spear\*\*
 
@@ -644,7 +644,7 @@ time.
 
 - - Yew longbow\*\*
 
-` *`[`Trapper north from Forlond`](/pages/Quest.md#trappers_s_quest)
+` *`[`Trapper north from Forlond`](/pages/Quest#trappers_s_quest.md)
   - Inside husk at Frychra (sometimes)
 
 - - Crossbow\*\*
@@ -732,7 +732,7 @@ time.
 
 - - Silvery crown\*\*
 
-` *`[`Brolg's standard quest`](/pages/Quest.md#brolg_s_standard_quest_uncomplete)
+` *`[`Brolg's standard quest`](/pages/Quest#brolg_s_standard_quest_uncomplete.md)
 
 - - Mithril circlet\*\*
 
@@ -1031,7 +1031,7 @@ time.
 
 - - A web\*\*
 
-  - Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](/pages/Quest.md#treebeard's_forest_quest)`), on the ground
+  - Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](/pages/Quest#treebeard's_forest_quest.md)`), on the ground
   - On ground near Grey spider in Mirkwood
   - On the ground under brown bears north of Anduin Vale
   - In the area under Broghha
@@ -1077,7 +1077,7 @@ time.
 
 - - Flask of miruvor\*\*
 
-` *Reward for the `[`Elven scout camp quest`](/pages/Quest.md#elven_scout_camp_quest)
+` *Reward for the `[`Elven scout camp quest`](/pages/Quest#elven_scout_camp_quest.md)
   - Reward for giving an elven dagger back to its owner which is an elven scout. (rarely)
   - Can be given to any whitie who brings and gives to Erestor or Ecthelion any of the following:
   - Twisted crown
@@ -1155,7 +1155,7 @@ miruvor than Ecthelion. - Staub//
 
 - - Fine Elven Rope\*\*
 
-  - `[`Ropemaker's Quest`](/pages/Quest.md#ropemaker's_quest)` in Lorien
+  - `[`Ropemaker's Quest`](/pages/Quest#ropemaker's_quest.md)` in Lorien
 
 //Fine elven ropes can be recovered from the botom of the slope! Tie
 rope, climb down and get rope: normally it would say "A sturdy rope is

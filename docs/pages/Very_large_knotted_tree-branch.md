@@ -30,6 +30,6 @@ It weighs twelve pounds.
 ## Other
 
 This item is needed to lift the large jar for the [Beechbone the
-Ent](./Quest.md#Beechbone_the_Ent) quest.
+Ent](./Quest#Beechbone_the_Ent.md) quest.
 
 <!--@include: ../includes/Items.md-->

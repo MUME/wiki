@@ -8,7 +8,7 @@ tags:
 dye-maker](./Dwarven_dye-maker.md) to create the
 [dye](./Sealed_jug_of_dye.md) required for the [elven
 weaver](./Ancient_weaver.md)'s
-[quest](./Quest.md#The_Elven_Weaver). It grows on an isolated
+[quest](./Quest#The_Elven_Weaver.md). It grows on an isolated
 ridge on the bank of the Nan Duin that can only be reached by
 [rope](./Rope.md) bridge.
 

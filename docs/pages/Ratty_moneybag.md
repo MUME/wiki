@@ -6,7 +6,7 @@ tags:
 ---
 The **ratty moneybag** is an [item](./Items.md#item) needed for the
 [crippled ranger](./Tower_Hills_Ranger_Guild.md)'s
-[quest](./Quest.md#Lost_and_Found). It can be
+[quest](./Quest#Lost_and_Found.md). It can be
 [revealed](./Reveal.md) on a cliff ledge south of [Black
 Hill](./Black_Hill.md), but only by characters who are currently
 on the quest.

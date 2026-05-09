@@ -20,11 +20,11 @@ and may be angered if they see you using it.
 
 ## Quests
 
-- [An Ent and an axe](./Quest.md#An_Ent_and_an_axe)
-- [Beechbone's bowl](./Quest.md#Beechbone.27s_bowl)
-- [Leaf-Cake](./Quest.md#Leaf-Cake)
-- [Poisoned Forest](./Quest.md#Poisoned_Forest)
-- [Harle and the Entwives](./Quest.md#Harle_and_the_Entwives)
+- [An Ent and an axe](./Quest#An_Ent_and_an_axe.md)
+- [Beechbone's bowl](./Quest#Beechbone.27s_bowl.md)
+- [Leaf-Cake](./Quest#Leaf-Cake.md)
+- [Poisoned Forest](./Quest#Poisoned_Forest.md)
+- [Harle and the Entwives](./Quest#Harle_and_the_Entwives.md)
 
 ## Mobiles
 

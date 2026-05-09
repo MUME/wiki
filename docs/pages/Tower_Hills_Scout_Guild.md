@@ -7,7 +7,7 @@ tags:
 An **accomplished hunter** teaches [scout](./Thief.md)
 [skills](./Skill.md) at the **Hunter's Cabin** just southeast of
 [Black Hill](./Black_Hill.md). He will reward players who
-[help](./Quest.md#Snake_Hunt) him deal with the overpopulation of
+[help](./Quest#Snake_Hunt.md) him deal with the overpopulation of
 slithering snakes in the area.
 
 ```

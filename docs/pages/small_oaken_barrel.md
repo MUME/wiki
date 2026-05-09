@@ -34,6 +34,6 @@ It weighs six stone.
 ## Other
 
 [Quest](./Quest.md) item for [the Elven
-Chief](./Quest.md#Elven_Chief).
+Chief](./Quest#Elven_Chief.md).
 
 <!--@include: ../includes/Items.md-->

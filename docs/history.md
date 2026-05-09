@@ -29,7 +29,7 @@ Each major version introduced significant new systems. Click any version for ful
 | [MUME VI](./pages/MUME_VI.md) | Mar 1996 | ANSI colors, moved to FIRE server in Norway (Jan 1998) |
 | [MUME VII](./pages/MUME_VII.md) | Apr 1999 | Chosen stats, dynamic classes, subraces |
 | [MUME VIII](./pages/MUME_VIII.md) | Jan 2002 | Beorning shapechangers, third war faction |
-| MUME IX | 2022 | Bree-land rebuild, 10 new areas, subraces expanded |
+| [MUME IX](./pages/MUME_IX.md) | 2022 | Bree-land rebuild, 10 new areas, subraces expanded |
 
 See [A Short History of MUME](./pages/History.md) for the full annotated changelog and founding narrative.
 

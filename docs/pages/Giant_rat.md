@@ -8,7 +8,7 @@ tags:
 mobiles found in various locations around Arda,
 commonly in cellars or abandoned buildings. 3
 [corpses](./Corpse.md) of giant rats are needed to complete the
-[rat infestation](./Quest.md#Rat_Infestation) quest in [Tower
+[rat infestation](./Quest#Rat_Infestation.md) quest in [Tower
 Hills](./Tower_Hills.md).
 
 ```

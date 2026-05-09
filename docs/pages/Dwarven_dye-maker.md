@@ -9,7 +9,7 @@ The **dwarven dye-maker** is a [level](./Level.md) ~11-12
 Harlond. He can procure the
 [dye](./Sealed_jug_of_dye.md) needed for the [elven
 weaver](./Ancient_weaver.md)'s
-[quest](./Quest.md#The_Elven_Weaver).
+[quest](./Quest#The_Elven_Weaver.md).
 
 ```
 A stout dwarf is here mixing dyes.
