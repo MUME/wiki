@@ -1,6 +1,6 @@
 ---
 title: Lore & Locations
-description: The world of MUME — locations, factions, history, and lore from <a name="tolkien"></a>Tolkien's Middle-earth.
+description: The world of MUME — locations, factions, history, and lore from Tolkien's Middle-earth.
 ---
 
 # Lore & Locations
@@ -101,7 +101,7 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 
 - [Races](./pages/Race.md) — The various peoples inhabiting Middle-earth.
 - [Dunlendings](./pages/Dunlendings.md) · <a name="haradrim"></a>Haradrim · <a name="easterlings"></a>Easterlings
-- <a name="tolkien"></a>Tolkien — The literary foundation of MUME.
+- Tolkien — The literary foundation of MUME.
 
 <hr />
 
