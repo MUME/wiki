@@ -606,7 +606,7 @@ strenghten the body. Finally, the large leaves of the coneflower can be
 used to wrap the mixture, producing a sort of leaf-cake.
 
 - - How to obtain:\*\* Complete the [Leaf-cake
-    quest](/pages/Quest#leaf-cake_quest.md).
+    quest](/pages/Quest.md#leaf-cake_quest).
 
 <!-- -->
 
@@ -824,7 +824,7 @@ against the infection will induce a spiritual weakness for a short
 duration.
 
 - - How to obtain:\*\* Complete the quest given by Nordri in the Blue
-    Mountains (see [Quests](/pages/Quest#nordri_s_quest.md)).
+    Mountains (see [Quests](/pages/Quest.md#nordri_s_quest)).
 
 <!-- -->
 
@@ -943,7 +943,7 @@ some clover as a base. Add a few crushed leaves of marjoram and freshly
 bought cloves, to clean the blood of its toxines and stop cramps.
 
 - - How to obtain:\*\* Complete the
-    [quest](/pages/Quest#aldereons_s_quest.md) given by Aldereon
+    [quest](/pages/Quest.md#aldereons_s_quest) given by Aldereon
     the ancient Noldo northwest of Greenholm. Aldereon will ask you to
     deliver sealed letters to his friends across Arda. The distance and
     XP/Letter will vary depending on level.

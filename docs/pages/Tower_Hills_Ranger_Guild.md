@@ -7,7 +7,7 @@ tags:
 A **crippled ranger** teaches [ranger](./General.md)
 [skills](./Skill.md) at the **Low Stone Cabin** in [Black
 Hill](./Black_Hill.md). He is looking for someone to retrieve
-[lost items](./Quest#Lost_and_Found.md) for villagers.
+[lost items](./Quest.md#Lost_and_Found) for villagers.
 
 ```
 A crippled ranger is here, deep in thought.

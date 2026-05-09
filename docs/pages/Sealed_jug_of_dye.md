@@ -6,7 +6,7 @@ tags:
 ---
 The **sealed jug of dye** is the [item](./Items.md#item) required to
 complete the [ancient weaver](./Ancient_weaver.md)'s
-[quest](./Quest#The_Elven_Weaver.md).
+[quest](./Quest.md#The_Elven_Weaver).
 
 ```
 A tightly sealed jug of dye has been set carefully here.

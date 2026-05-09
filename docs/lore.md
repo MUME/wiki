@@ -1,6 +1,6 @@
 ---
 title: Lore & Locations
-description: The world of MUME — locations, factions, history, and lore from Tolkien's Middle-earth.
+description: The world of MUME — locations, factions, history, and lore from <a name="tolkien"></a>Tolkien's Middle-earth.
 ---
 
 # Lore & Locations
@@ -58,7 +58,7 @@ const mapAreas = [
 ]
 </script>
 
-The world of MUME is a meticulous recreation of J.R.R. Tolkien's Middle-earth during the late Third Age.
+The world of MUME is a meticulous recreation of J.R.R. <a name="tolkien"></a>Tolkien's Middle-earth during the late Third Age.
 
 ## The Map
 
@@ -73,6 +73,8 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 - [Super Mobile](./pages/Super_Mobile.md) — Learn the art of "super mobility" to travel the world efficiently.
 - [MMapper](./pages/Mmapper.md) — The essential community-made mapping tool for MUME.
 - [Tharbad](./pages/Tharbad.md) — A major geographical hub connecting the north and south.
+- <a name="isengard"></a>Isengard — A major stronghold at the southern end of the Misty Mountains.
+- <a name="mirkwood"></a>Mirkwood — A vast and dark forest in the east.
 
 ## Major Locations
 
@@ -91,15 +93,15 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 | Location | Importance |
 |----------|------------|
 | [Moria](./pages/Moria.md) | The vast, dark subterranean realm of Khazad-dûm. |
-| [The Warrens](./pages/Warrens.md) | The underground lair of the Trolls. |
-| [Trollshaws](./pages/Trollshaws.md) | Wild, dangerous lands east of Bree. |
+| <a name="warrens"></a>The Warrens | The underground lair of the Trolls. |
+| <a name="trollshaws"></a>Trollshaws | Wild, dangerous lands east of Bree. |
 | [Misty Mountains](./pages/Misty_Mountains.md) | Home to various Orc tribes and ancient evils. |
 
 ## Factions & History
 
 - [Races](./pages/Race.md) — The various peoples inhabiting Middle-earth.
-- [Dunlendings](./pages/Dunlendings.md) · [Haradrim](./pages/Haradrim.md) · [Easterlings](./pages/Easterling.md)
-- [Tolkien](./pages/Tolkien.md) — The literary foundation of MUME.
+- [Dunlendings](./pages/Dunlendings.md) · <a name="haradrim"></a>Haradrim · <a name="easterlings"></a>Easterlings
+- <a name="tolkien"></a>Tolkien — The literary foundation of MUME.
 
 <hr />
 

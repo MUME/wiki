@@ -56,7 +56,7 @@ Technical data and lists for quick lookups:
 - [**Staff, Gem and Focus**](./pages/Staff,_Gem_and_Focus_guide.md) — Essential for mages and clerics.
 - [**Abbreviations**](./pages/Abbreviations.md) — Common MUME slang and shorthand.
 - [**Super Mobiles**](./pages/Super_Mobile.md) — Information on legendary enemies.
-- [**Guildmasters**](./pages/Guildmasters.md) — Where to find your trainers.
+- [**Guildmasters**](./pages/Guild.md) — Where to find your trainers.
 
 ## Advanced Strategy
 

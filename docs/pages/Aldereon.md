@@ -8,7 +8,7 @@ tags:
 Havens](./Grey_Havens.md). If you visit him and ask about
 [herblores](./Herblore.md), he will offer to teach you the Walking
 herblore in exchange for [delivering some
-letters](./Quest#Aldereon_the_Wise.md) to his acquiantances.
+letters](./Quest.md#Aldereon_the_Wise) to his acquiantances.
 
 ```
 > Aldereon the ancient Noldo stands here, gazing at a forgotten past (glowing).

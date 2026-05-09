@@ -31,6 +31,6 @@ It weighs half a pound.
 
 ## Other
 
-Quest item for [Leaf-cake](./Quest#Leaf-Cake.md).
+Quest item for [Leaf-cake](./Quest.md#Leaf-Cake).
 
 <!--@include: ../includes/Items.md-->

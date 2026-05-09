@@ -19,7 +19,7 @@ beech tree.
 ## Quest
 
 The beech tree involved in the quest [an Ent and an
-axe](./Quest#An_Ent_and_an_axe.md) has a slightly different
+axe](./Quest.md#An_Ent_and_an_axe) has a slightly different
 description:
 
 ```

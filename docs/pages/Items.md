@@ -16,7 +16,7 @@ Brushes are a type of miscellaneous item found in Middle-earth. They were histor
 Items that are consumed upon use, such as food, drink, and some herbs. These are vital for maintaining your character's health, mana, and movement points.
 
 ### Containers
-Items like [pouches](./Pouch.md) and [backpacks](./Backpack.md) used to hold other items. Choosing the right container can help with weight management and organization.
+Items like [pouches](./Belt_pouch.md) and [backpacks](./Leather_backpack.md) used to hold other items. Choosing the right container can help with weight management and organization.
 
 ### Drink
 Liquid refreshment that can be found in various containers or natural sources. Staying hydrated is important for stamina.

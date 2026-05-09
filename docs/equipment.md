@@ -23,18 +23,18 @@ Full identified stats and mechanics: [**Armour List**](./pages/Armour.md)
 | [**Legs**](./pages/Legs_items.md) | Trousers, greaves |
 | [**Feet**](./pages/Feet_items.md) | Boots, sandals |
 | [**Shield**](./pages/Shield.md) | All shields |
-| [**Back**](./pages/Cloaks.md) | Cloaks, capes |
-| [**Waist**](./pages/Belts.md) | Belts, girdles |
+| [**Back**](./pages/Cloak.md) | Cloaks, capes |
+| [**Waist**](./pages/Belt.md) | Belts, girdles |
 | [**Wrist**](./pages/Wrist_items.md) | Wristbands, bracers |
 | [**Finger**](./pages/Rings.md) | Rings |
 | [**Light**](./pages/Light.md) | Torches, lanterns |
 
 ### By Material
 
-- [**Metal Armour**](./pages/Metal_equipment.md) — Highest protection, heavy weight.
-- [**Mail Armour**](./pages/Mail_equipment.md) — Medium protection, moderate weight.
-- [**Leather Armour**](./pages/Leather_equipment.md) — Light weight, preferred by thieves and scouts.
-- [**Cloth**](./pages/Cloth_equipment.md) — Often features magical bonuses for casters.
+- [**Metal Armour**](./pages/Armour.md#metal-armour) — Highest protection, heavy weight.
+- [**Mail Armour**](./pages/Mail.md) — Medium protection, moderate weight.
+- [**Leather Armour**](./pages/Armour.md#leather-armour) — Light weight, preferred by thieves and scouts.
+- [**Cloth**](./pages/Armour.md#cloth-items) — Often features magical bonuses for casters.
 
 ## Weapons
 
@@ -62,7 +62,7 @@ Full identified stats and mechanics: [**Weapon List**](./pages/Weapon.md)
 
 ## Special Equipment
 
-- [**Quest Items**](./pages/Quest_items.md)
+- [**Quest Items**](./pages/Quest.md)
 - [**Legend Equipment**](./pages/Legend_Home_Equipment.md)
 
 ## Mechanics & Reference

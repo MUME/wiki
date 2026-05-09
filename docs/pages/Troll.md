@@ -24,7 +24,7 @@ The sheer might of a Troll makes them the most capable
 thinking ability, and their bulk gives them very sluggish movement.
 Trolls can only play [Warriors](./Warrior.md) effectively. Player
 trolls live within the Trollshaws in a gigantic cave-system known as the
-[Warrens](./Trollshaws.md#warrens). Trolls in Mume are treated differently to
+[Warrens](./../lore.md#warrens). Trolls in Mume are treated differently to
 most other races:
 
 - They may not become immortal.

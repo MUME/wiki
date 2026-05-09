@@ -6,7 +6,7 @@ tags:
 ---
 The **stout oaken stick** is the reward for completing
 [Jeraton](./Jeraton.md)'s
-[quest](./Quest#Berel_and_Jeraton.md). It slightly reduces
+[quest](./Quest.md#Berel_and_Jeraton). It slightly reduces
 movement cost when carried.
 
 ```

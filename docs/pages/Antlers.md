@@ -5,7 +5,7 @@ tags:
   - Quest items
 ---
 **Antlers** are the item required to complete the elven trapper's
-[quest](./Quest#The_Hunt.md). They can be obtained by
+[quest](./Quest.md#The_Hunt). They can be obtained by
 [butchering](./Butcher.md) the [noble
 stag](./Noble_stag.md).
 

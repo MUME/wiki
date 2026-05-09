@@ -5,7 +5,7 @@ tags:
   - Stabbing weapons
 ---
 The **longspear** is a [stabbing weapon](./Stabbing_weapon.md). It
-is a reward from the [Bandit's Note](./Quest#Bandit.27s_Note.md)
+is a reward from the [Bandit's Note](./Quest.md#Bandit.27s_Note)
 quest and can also be bought from most weaponsmiths for around 8
 [silver](./Gold.md).
 

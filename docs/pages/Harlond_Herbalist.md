@@ -8,7 +8,7 @@ The **elven herbalist** tends to the **Herbalist** shop in
 Harlond. The store is open 8am - 12pm and 1pm -
 7pm and stocks a variety of [herbs](./Herb.md) at cheap prices.
 The herbalist is looking for someone to
-[help](./Quest#Harlond_Herbalist.md) him impress a woman he loves.
+[help](./Quest.md#Harlond_Herbalist) him impress a woman he loves.
 
 ```
 > An elven herbalist is watching his merchandise here.

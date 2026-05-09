@@ -7,7 +7,7 @@ tags:
 ---
 The **pot helm** is a piece of metal equipment
 worn on the [head](./Head_items.md). It is a reward from the [Bandit's
-Note](./Quest#Bandit.27s_Note.md) quest and can also be bought
+Note](./Quest.md#Bandit.27s_Note) quest and can also be bought
 from most armourers for around 1 [gold](./Gold.md) 6 silver.
 
 ```

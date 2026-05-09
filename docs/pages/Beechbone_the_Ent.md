@@ -7,7 +7,7 @@ tags:
 **Beechbone** is a [good](./Alignment.md)
 [level](./Level.md) 28 [Ent](./Ent.md) living in
 [Fangorn](./Fangorn.md) forest. He might ask you for help in
-[retrieving](./Quest#Beechbone_the_Ent.md) a
+[retrieving](./Quest.md#Beechbone_the_Ent) a
 [bowl](./Large_clay_bowl.md) from his ruined home.
 
 ```
