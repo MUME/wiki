@@ -41,9 +41,11 @@ merely needs to '[call](./Call.md)'.
 
 ## Shops
 
-- [Bree Armourer](./Bree.md#shops)
-- [Bree Weaponsmith](./Bree_Weaponsmith.md)
-- [Bree Herbalist](./Bree_Herbalist.md)
+| Shop | Hours | Stock |
+|------|-------|-------|
+| Armoury | 7am–4pm, 6pm–9pm | Armour and clothing |
+| [Weapon Shop](./Bree_Weaponsmith.md) | 6am–3pm, 5pm–8pm | Weapons (see page for quest) |
+| [Herb Shop](./Bree_Herbalist.md) | 6am–1pm, 2pm–6pm | Herbs and potions (lowest prices after Grey Havens) |
 
 ## Guilds
 

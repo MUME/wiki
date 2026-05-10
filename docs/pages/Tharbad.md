@@ -47,11 +47,13 @@ surrender. Tharbad's justice system is known to show little lenience.
 
 ## Shops
 
-- [Armoury](./Tharbad.md#shops)
-- [Bakery](./Tharbad_Baker.md)
-- [Grocery](./Tharbad_Grocer.md)
-- [Weapon Shop](./Tharbad.md#shops)
-- [Thieves' Shop](./Tharbad_Thieves'_Shop.md)
+| Shop | Hours | Stock |
+|------|-------|-------|
+| Armoury | 8am–12pm, 2pm–6pm | Armour and clothing |
+| Weapon Shop | 7am–11am, 2pm–6pm | Weapons |
+| Bakery | 5am–11am, 1pm–6pm | Large biscuits, loaves of bread, pork-pies |
+| Grocery | 8am–12pm, 2pm–6pm | Drinks, jewellery, containers, general goods |
+| [Thieves' Shop](./Tharbad_Thieves'_Shop.md) | — | Thief supplies |
 
 ## Guilds
 

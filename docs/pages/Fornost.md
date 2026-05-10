@@ -54,14 +54,17 @@ opened.
 A list of guilds, shops, and other places to spend your hard-earned gold
 is below.
 
-- Shops
-  - [The Traveller's Shop](./Traveller's_Shop.md)
-  - [The Tailor's Shop](./Fornost_Tailor.md)
-  - The King's Armoury
-  - The Mighty Hammer Weaponry
-  - [Herb Shop](./Fornost_Herbalist.md)
-  - [The Grocery](./Fornost_Grocer.md)
-  - [Small Bakery](./Fornost_Baker.md)
+## Shops
+
+| Shop | Hours | Stock |
+|------|-------|-------|
+| [Traveller's Shop](./Traveller's_Shop.md) | — | General goods |
+| Tailor's Shop | 8am–12pm, 1pm–6pm | Clothing |
+| King's Armoury | 8am–1pm, 2pm–8pm | Armour and shields |
+| Mighty Hammer Weaponry | 8am–1pm, 2pm–6pm | Weapons |
+| [Herb Shop](./Fornost_Herbalist.md) | 6am–12pm, 1pm–7pm | Herbs (higher prices; herbalist also buys at premium) |
+| Grocery | 8am–1pm, 2pm–6pm | Foodstuffs |
+| Small Bakery | 4am–2pm | Baked goods |
 
 <!-- -->
 
@@ -104,7 +107,7 @@ Fornost.
 - [Armourer](./Fornost.md#inhabitants)
 - [Weaponsmith](./Fornost.md#inhabitants)
 - [Elderly Herbalist](./Fornost_Herbalist.md)
-- [Large Grocer](./Fornost_Grocer.md)
+- Large Grocer
 - Clerk
 - [Dúnadan Soldier](./Dúnadan_Soldier.md)
 

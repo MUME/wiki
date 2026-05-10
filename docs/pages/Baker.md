@@ -6,7 +6,7 @@ tags:
 ---
 **Bakers** tend to the bakeries in Bree,
 [Fornost](./Fornost.md) and
-[Tharbad](./Tharbad_Baker.md).
+[Tharbad](./Tharbad.md#shops).
 
 ```
 The baker looks at you calmly, wiping flour from his face with one hand.

@@ -43,19 +43,23 @@ started their journeys here.
 
 ### Harlond
 
-- [Faldor's Fine Weapons](./Faldor_the_weaponsmith.md)
-- [Kevlar's Fine Armour](./Kevlar_the_Armourer.md)
-- [Tailor's Shop](./Grey_Havens.md#harlond)
-- [Herbalist](./Harlond_Herbalist.md)
-- [Grocery](./Grey_Havens.md#harlond)
-- [Bakery](./Harlond_Baker.md)
+| Shop | Hours | Stock |
+|------|-------|-------|
+| [Faldor's Fine Weapons](./Faldor_the_weaponsmith.md) | — | Weapons |
+| [Kevlar's Fine Armour](./Kevlar_the_Armourer.md) | — | Armour |
+| Tailor's Shop | 9am–12pm, 1pm–7pm | Clothing |
+| [Herbalist](./Harlond_Herbalist.md) | — | Herbs (cheapest herb prices) |
+| Grocery | 7am–12pm, 2pm–7pm | General goods |
+| [Bakery](./Harlond_Baker.md) | — | Baked goods |
 
 ### Forlond
 
-- [Gildor's Fine Weapons and Armour](./Gildor_the_blacksmith.md)
-- [Forlond's Fine Jewelry](./Forlond's_Fine_Jewelry.md)
-- [Tailor's Shop](./Grey_Havens.md#forlond)
-- [Grocery](./Grey_Havens.md#forlond)
+| Shop | Hours | Stock |
+|------|-------|-------|
+| [Gildor's Fine Weapons and Armour](./Gildor_the_blacksmith.md) | — | Weapons and armour |
+| [Forlond's Fine Jewelry](./Forlond's_Fine_Jewelry.md) | — | Jewellery |
+| Tailor's Shop | 9am–12pm, 1pm–5pm | Clothing |
+| Grocery | 9am–12pm, 3pm–7pm | General goods |
 
 ## Inns and Taverns
 
