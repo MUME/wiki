@@ -25,6 +25,6 @@ happening depends on your reach and the opponent's reach: a
 ## See also
 
 - [Stabbing weapon](./Stabbing_weapon.md) for a list of weapons belonging to this class.
-- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#Stabbing_Weapons)
+- [Newbie Guide to Warrior Skills](./Newbie_Guide_to_Warrior_Skills.md#stabbing-weapons)
 
 <!--@include: ../includes/Skills.md-->

@@ -8,9 +8,9 @@ tags:
 He lives in Wellinghall, located in a secluded glade at the western edge
 of [Fangorn](./Fangorn.md), near the source of the Entwash.
 Bringing Harle to meet Treebeard is the objective of
-the "[Harle and the Entwives](./Quest#Harle_and_the_Entwives.md)"
+the "[Harle and the Entwives](./Quest.md#harle-and-the-entwives)"
 quest. Treebeard will also reward anyone who can find and kill the
-creature that is [poisoning](./Quest#Poisoned_Forest.md) the
+creature that is [poisoning](./Quest.md#poisoned-forest) the
 forest.
 
 ```

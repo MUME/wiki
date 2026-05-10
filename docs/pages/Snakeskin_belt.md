@@ -5,7 +5,7 @@ tags:
   - Belts
 ---
 The **snakeskin belt** is a [belt](./Belt.md). One can be earned
-as a reward for completing the [snake hunt](./Quest#Snake_Hunt.md)
+as a reward for completing the [snake hunt](./Quest.md#snake-hunt)
 quest.
 
 ```

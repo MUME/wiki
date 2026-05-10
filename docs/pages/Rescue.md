@@ -12,7 +12,7 @@ tags:
 
 ## Mechanics
 
-- **Usage:** Typing `rescue` with no argument rescues the character that is currently [buffering](../pages/MUME_IV_as_described_in_Estonia.md#group-combat-and-following-players).
+- **Usage:** Typing `rescue` with no argument rescues the character that is currently [buffering](../pages/MUME_IV_as_described_in_Estonia.md).
 - **Protection:** The skill also determines how well you can [protect](./Protect.md) people.
 - **Success:** The chance to succeed depends on your rescue skill level.
 - **Side Effects:** The rescued person will experience some dizziness.

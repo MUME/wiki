@@ -15,6 +15,6 @@ successfully.
 
 ## See also
 
-- [Troll guide](./Troll_guide.md#Unarmed_vs_Smiting)
+- [Troll guide](./Troll_guide.md)
 
 <!--@include: ../includes/Skills.md-->

@@ -4,7 +4,7 @@ description: 'The fine bottle is a drink'
 tags:
   - Containers
 ---
-The **fine bottle** is a [drink](./Food_%26_Drink#Drink.md)
+The **fine bottle** is a [drink](./Food_%26_Drink.md)
 [container](./Container.md). It can contain about 2 and a half
 pounds worth of liquid. It is worth around 7 silver
 and 50 copper. Fine bottles are sold in many general stores and taverns,

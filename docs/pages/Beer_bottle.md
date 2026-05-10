@@ -4,7 +4,7 @@ description: 'The beer bottle is a drink'
 tags:
   - Containers
 ---
-The **beer bottle** is a [drink](./Food_%26_Drink#Drink.md)
+The **beer bottle** is a [drink](./Food_%26_Drink.md)
 [container](./Container.md). It can contain a bit over 2 pounds
 worth of liquid. It is worth around 50 copper. Beer
 bottles are sold at many general stores and taverns, most often

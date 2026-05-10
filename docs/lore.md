@@ -87,6 +87,7 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 | [Grey Havens](./pages/Grey_Havens.md) | The ancient Elven port on the western coast. |
 | [The Shire](./pages/Shire.md) | The peaceful homeland of the Hobbits. |
 | [Fornost](./pages/Fornost.md) | The ruined capital of the Kingdom of Arthedain. |
+| <a name="eregion"></a>[Eregion](./pages/Eregion.md) | The ancient realm of Hollin, now ruins west of Moria. |
 
 ### The Shadow (Dark Side)
 

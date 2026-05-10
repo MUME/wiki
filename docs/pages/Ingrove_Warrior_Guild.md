@@ -6,7 +6,7 @@ tags:
 ---
 **Tymen** teaches [warrior](./Warrior.md)
 [skills](./Skill.md) at the **Home of a Hardened Warrior** in
-[Ingrove](./Anduin_Vale#Ingrove.md).
+[Ingrove](./Anduin_Vale.md#ingrove).
 
 ```
 A battle-hardened man stands alert.

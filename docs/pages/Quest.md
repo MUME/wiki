@@ -130,7 +130,7 @@ awry. Perhaps you could help the smith out?
 - Quest: If you visit the [Bree
   Weaponsmith](./Bree_Weaponsmith.md) while you are between levels
   4-9, he will ask you to help him with a problem of his related to an
-  antique [dagger](/pages/Dagger#Other.md) that was lost while being
+  antique [dagger](/pages/Dagger.md#other) that was lost while being
   transported from [Fornost](./Fornost.md). Search the forest
   northeast of Bree for the ruffian bandit who stole the dagger, kill
   him, and return the dagger to the weaponsmith.
@@ -310,7 +310,7 @@ fallen ill.
   hawkweed and [wood
   anemone](/pages/Herb), and retrieve the herbs.
 - Reward: [herbal kit](./Herbal_kit.md),
-  [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
+  [athelas](Herb.md#athelas-kingsfoil) leaves, ??? xp.
 
 ### Lost and Found
 

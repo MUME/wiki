@@ -6,7 +6,7 @@ tags:
 ---
 The **broad silver belt** is a [belt](./Belt.md) that increases
 [dodge bonus](./Dodge_bonus.md) by a small amount. It loads on the
-[wight captain](./Super_Mobile#Wight_Captain.md).
+[wight captain](./Super_Mobile.md#wight-captain).
 
 `A broad silver belt has been left here.`
 `>`**`examine belt`**

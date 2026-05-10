@@ -28,5 +28,5 @@ during a crash, after a reboot you reappear wherever you were - or in
 the close proximity. So, even if you do not want to rent, it is wise to
 move to a safe place before MUME reboots.
 
-The [Aratar](./Ainur#Aratar.md) can reboot the game at any time
+The [Aratar](./Ainur.md#aratar) can reboot the game at any time
 and for any reason, so quit bitching about it.

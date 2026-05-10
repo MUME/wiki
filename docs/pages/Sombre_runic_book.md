@@ -6,7 +6,7 @@ description: 'The sombre runic book loads on a spirit in the'
 The **sombre runic book** loads on a [spirit](./Spirit.md) in the
 library of the ruined castle south of [Fornost](./Fornost.md). It
 can be [read](./Read.md) to learn the
-[Shadows](./Herblore#Shadows.md) herblore.
+[Shadows](./Herblore.md#shadows) herblore.
 
 ```
 >look book
