@@ -1,15 +1,14 @@
 ---
 title: Old Man Willow
-description: 'Old Man Willow is a tree-beast, either an ent or a huorn, whose'
+description: 'A powerful tree-beast in the Old Forest who sings adventurers to sleep. Drops the Blue Crystal sought by Heroes.'
 tags:
   - Mobiles
-  - Stubs
 ---
-**Old Man Willow** is a tree-beast, either an ent or a huorn, whose
-heart has turned black with evil. He lives in the [Old
-Forest](/pages/Shire) and is known to sing walking creatures to
-sleep so that he can then kill them.
+**Old Man Willow** is a tree-beast — either an Ent or a Huorn — whose heart has turned black with evil. He lives deep in the [Old Forest](./Old_Forest.md) east of the [Shire](./Shire.md) and is known for singing walking creatures to sleep, making them vulnerable to his attacks.
 
-Willow is very powerful, but drops the [Blue
-Crystal](./Blue_crystal.md) that is sought by
-[Heroes](./Hero.md).
+Old Man Willow is very powerful and best avoided by lower-level players. He is notable for dropping the [Blue Crystal](./Blue_crystal.md), an item sought by [Hero-level](./Hero.md) players.
+
+## See also
+
+- [Old Forest](./Old_Forest.md) — The ancient woodland where he dwells.
+- [Treebeard](./Treebeard.md) — The eldest Ent, very different in nature from Old Man Willow.

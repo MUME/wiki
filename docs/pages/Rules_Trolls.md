@@ -7,7 +7,7 @@ Some special rules apply to trolls:
 
 - Trolls are not allowed to make a career of killing other
   darkies (including trolls) in or near
-  [Warrens](./Trollshaws.md#warrens), due to abuse of how easy it is to do
+  [Warrens](./Warrens.md), due to abuse of how easy it is to do
   so.
 
 To clarify this, the Zaugurz Orcs do not count as
