@@ -31,7 +31,7 @@ served by asking a fellow player. Posting a list of secret
 [doors](./Door.md) and mobs, or posting "mail me to get the secret
 door list", is also forbidden.
 
-5\. Do not post [items](./Item.md) for sale/wanted. Also, don't
+5\. Do not post [items](./Items.md#item) for sale/wanted. Also, don't
 advertise any out-of [MUME](./MUME.md) stuff unless it is MUME
 related: e.g. Web pages set up for MUME are ok, generic homepages and
 adverts for other MUDs are not.

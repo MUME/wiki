@@ -7,7 +7,7 @@ tags:
 The **small twisted root** is a [key](./Key.md). It loads on [Bill
 Ferny](./Bill_Ferny.md) and can be used to
 unlock the hidden wall to the east of the
-[room](./room.md) where he spawns.
+[room](./Mechanics.md#room) where he spawns.
 
 ```
 A small twisted root is sticking out of the ground here.

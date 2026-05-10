@@ -6,7 +6,7 @@ tags:
 ---
 **Katerine** teaches [scout](./Thief.md)
 [skills](./Skill.md) at the **Training Yard** in
-[Ingrove](./Anduin_Vale#Ingrove.md).
+[Ingrove](./Anduin_Vale.md#ingrove).
 
 ```
 A surprisingly tall Beorning woman stands here.

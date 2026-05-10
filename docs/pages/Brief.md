@@ -7,7 +7,7 @@ tags:
 Usage: [change](./Change.md) **brief** \[on\|off
 
 Toggle "brief mode". When in brief mode, you don't see the descriptions
-of the [room](./room.md) you are in; only the name of the room,
+of the [room](./Mechanics.md#room) you are in; only the name of the room,
 and the people and objects in there. Unless you are very familiar with
 the area in which you travel, however, it is not advisable to use this
 command. Frequently, you will find small, but vital hints in the

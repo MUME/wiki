@@ -9,7 +9,7 @@ tags:
 [thief](./Thief.md).*
 
 The '<b>scout</b> &lt;direction&gt;' command allows one to examine a
-neighbouring [room](./room.md) (in that direction).
+neighbouring [room](./Mechanics.md#room) (in that direction).
 
 Most of the time you will examine that room without going into it.
 However, if the exit is some kind of one-way, you will end up in the

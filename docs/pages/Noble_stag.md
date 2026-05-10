@@ -11,7 +11,7 @@ Forlond. He will attempt to
 [corpse](./Corpse.md) can be [butchered](./Butcher.md) to
 produce [antlers](./Antlers.md), a [pelt](./Fine_pelt.md)
 and some [meat](./Meat.md). Acquiring these antlers is the
-objective for the [quest](./Quest#The_Hunt.md) given by the elven
+objective for the [quest](./Quest.md#the-hunt) given by the elven
 trapper.
 
 ```

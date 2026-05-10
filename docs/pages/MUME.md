@@ -5,6 +5,8 @@ description: 'MUME is a free multiplayer roleplaying game based upon J.R.R. Tolk
 
 # What is MUME?
 
+![Gandalf at the Bridge of Khazad-dûm](/img/Main_Gandalf.png)
+
 MUME is a free multiplayer roleplaying game based upon J.R.R. Tolkien's
 Middle-earth that has been continuously enhanced since fall '91.
 

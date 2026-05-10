@@ -5,8 +5,8 @@ tags:
   - Shopkeepers
 ---
 **Elven grocers** tend the grocery stores in
-[Harlond](./Harlond_Grocer.md) and
-[Forlond](./Forlond_Grocer.md).
+[Harlond](./Grey_Havens.md#harlond) and
+[Forlond](./Grey_Havens.md#forlond).
 
 ```
 > An elven grocer is standing here, quietly humming to herself.

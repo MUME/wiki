@@ -40,17 +40,17 @@ usually have moderate strength requirements.
 
 ## Artefacts
 
-- [Silvery broadsword](./Weapon.md#Silvery_Broadsword) (Mithvegil)
+- [Silvery broadsword](./Weapon.md#slashing-weapons) (Mithvegil)
 - [Broad elven blade](./Glamdring.md) (Glamdring,
   Beater)
 - [Slender elven sword](./Orcrist.md) (Orcrist,
   Biter)
-- [Great black scimitar](./Weapon.md#Great_Black_Scimitar) (GBS,
+- [Great black scimitar](./Weapon.md#two-handed-weapons) (GBS,
   ElfHewer, Hewer)
-- [Gleaming broadsword](./Weapon.md#Gleaming_broadsword)
-- [Black sword](./Weapon.md#Black_sword)
-- [Morgul blade](./Weapon.md#Morgul_blade)
-- [Black many-tailed whip](./Weapon.md#Black_many-tailed_whip)
+- [Gleaming broadsword](./Weapon.md#slashing-weapons)
+- [Black sword](./Weapon.md#slashing-weapons)
+- [Morgul blade](./Weapon.md#slashing-weapons)
+- [Black many-tailed whip](./Weapon.md#slashing-weapons)
 
 ## Identified Gear
 

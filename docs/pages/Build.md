@@ -6,7 +6,7 @@ tags:
   - Help files
 ---
 These commands are used by M level maiar or lower to manipulate the
-**building** of new god [rooms](./room.md) or [legend
+**building** of new god [rooms](./Mechanics.md#room) or [legend
 homes](./Legend_Homes.md).
 
 'build info' will show the status of the room.

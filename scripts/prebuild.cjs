@@ -10,7 +10,8 @@ const tasks = [
     { name: 'Metadata Generation', script: 'gather-pages.cjs' },
     { name: 'Stub Detection', script: 'check-stubs.cjs' },
     { name: 'Filename Validation', script: 'check-content.cjs' },
-    { name: 'Markdown Content Validation', script: 'check-markdown.cjs' }
+    { name: 'Markdown Content Validation', script: 'check-markdown.cjs' },
+    { name: 'Link & Anchor Validation', script: 'check-links.js' }
 ];
 
 console.log('\x1b[1m%s\x1b[0m', 'Running prebuild tasks...\n');

@@ -23,8 +23,8 @@ secrets of being a good chef.
 - roast duck
 - grilled swordfish
 - [beer bottles](./Beer_bottle.md) full of
-  [beer](./Food_%26_Drink#Alcohol.md)
+  [beer](./Food_%26_Drink.md)
 - [ceramic cups](./Ceramic_cup.md) full of
-  [tea](./Food_%26_Drink#Drink.md)
+  [tea](./Food_%26_Drink.md)
 - wine glasses full of wine
  

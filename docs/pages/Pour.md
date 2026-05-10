@@ -19,5 +19,5 @@ Example:
 
 `> pour fountain skin`
 
-See also: [Drink](./Drink.md), [Empty](./Empty.md)
+See also: [Drink](./Items.md#drink), [Empty](./Empty.md)
  

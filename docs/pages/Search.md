@@ -7,7 +7,7 @@ tags:
 ---
 **Search** is a [thief](./Thief.md) [skill](./Skill.md) that
 allows you to search for otherwise [hidden](./Hide.md) people,
-exits and objects in the [room](./room.md).
+exits and objects in the [room](./Mechanics.md#room).
 
 With a given direction, you search for a secret door in that way. The
 better you are, the more likely you will find something (if there is

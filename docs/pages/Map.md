@@ -14,7 +14,7 @@ local grocery or travellers shop.
 The **map** command is used to view your nearby surrounding areas.
 Several options exist in order to view specific things:
 
-- 'map [rooms](./room.md)' displays your surroundings, only works
+- 'map [rooms](./Mechanics.md#room)' displays your surroundings, only works
   with good visibility.
 - 'map weather' displays the nearby weather, see
   [weather](./Weather.md) for details.

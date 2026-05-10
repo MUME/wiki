@@ -130,7 +130,7 @@ awry. Perhaps you could help the smith out?
 - Quest: If you visit the [Bree
   Weaponsmith](./Bree_Weaponsmith.md) while you are between levels
   4-9, he will ask you to help him with a problem of his related to an
-  antique [dagger](/pages/Dagger#Other.md) that was lost while being
+  antique [dagger](/pages/Dagger.md#other) that was lost while being
   transported from [Fornost](./Fornost.md). Search the forest
   northeast of Bree for the ruffian bandit who stole the dagger, kill
   him, and return the dagger to the weaponsmith.
@@ -184,7 +184,7 @@ those that help them.
 - Quest: One of the [imposing beech
   trees](./Imposing_beech_tree.md) in Fangorn has an axe stuck in
   his back. He is located in the northwestern part of the forest, quite
-  near [Leaflock](./Leaflock.md). Wait for him to turn around,
+  near [Leaflock](./Fangorn.md#unique-mobiles). Wait for him to turn around,
   then 'remove axe tree'.
 - Reward: 2000 exp
 
@@ -310,7 +310,7 @@ fallen ill.
   hawkweed and [wood
   anemone](/pages/Herb), and retrieve the herbs.
 - Reward: [herbal kit](./Herbal_kit.md),
-  [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
+  [athelas](Herb.md#athelas-kingsfoil) leaves, ??? xp.
 
 ### Lost and Found
 
@@ -370,7 +370,7 @@ needs help procuring some equipment.
   traveller's cloak](./Woollen_traveller's_cloak.md), a [hunting
   knife](./Hunting_knife.md) and a
   [whetstone](./Whetstone.md). Agree to help him. All
-  [items](./Item.md) may be found nearby or bought from
+  [items](./Items.md#item) may be found nearby or bought from
   [shops](./Shop.md).
 - Reward: Leonard's notes, 1000xp
 
@@ -387,7 +387,7 @@ from a [bandit](./Bandit.md) lookout.
   leading to the White Tower. The
   [bandit](./Bandit.md) carrying the
   [note](./Crumpled,_mud-smeared_piece_of_paper.md) wanders around
-  all the [rooms](./room.md) on the plateau - watch out for the
+  all the [rooms](./Mechanics.md#room) on the plateau - watch out for the
   [dreadful snake](./Dreadful_snake.md) in the northeastern room
   if you're low [level](./Level.md). Kill him and bring the note
   back to the hunter.

@@ -9,7 +9,7 @@ mobiles found in [Malardil's
 Castle](/pages/Malardil). They can
 [sneak](./Sneak.md). They load with 8 silver,
 a [piercing weapon](./Piercing_weapon.md), a
-[buckler](./Shield#Buckler.md), a
+[buckler](./Shield.md#buckler), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
 [ring](./Ring.md) and some basic cloth equipment.
 

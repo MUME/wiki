@@ -7,7 +7,7 @@ tags:
 **Roots** are passive [level](./Level.md) 12
 [plants](./Plant.md). They can trap players, causing them to be
 pulled back instantly when they attempt to leave the
-[room](./room.md).
+[room](./Mechanics.md#room).
 
 ```
 Some roots lie here waiting to ensnare weary travellers.

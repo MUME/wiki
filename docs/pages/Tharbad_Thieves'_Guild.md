@@ -7,7 +7,7 @@ tags:
 A **thief** teaches [thief](./Thief.md) [skills](./Skill.md)
 at the **Thieves' Guild** in [Tharbad](./Tharbad.md). The entrance
 is located behind a hidden brick opposite the [weapon
-shop](./Tharbad_Weaponsmith.md).
+shop](./Tharbad.md#shops).
 
 ```
 A thief is waiting here to teach his art.

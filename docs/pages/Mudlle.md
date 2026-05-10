@@ -7,7 +7,7 @@ description: 'Mudlle (MUD Language for Little Extensions) is the online'
 programming language designed especially for [MUME](./MUME.md).
 
 It allows the creation of intelligent mobiles,
-[rooms](./room.md), and objects. One example of a mudlled object
+[rooms](./Mechanics.md#room), and objects. One example of a mudlled object
 is the whetstone (if you are lucky enough to find one). Mudlle is quite
 similar to the programming language Scheme (a Lisp dialect).
 

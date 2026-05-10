@@ -4,7 +4,9 @@ description: 'Trolls have the greatest physical might. These huge figures may be
 tags:
   - Playable races
 ---
-!Cave_troll Of all Sauron's servants,
+![Cave Troll](/img/Cave_troll.jpg)
+
+Of all Sauron's servants,
 **Trolls** have the greatest physical might. These huge figures may be
 the corrupted form of tree spirits, created by
 Morgoth in the [Great
@@ -15,7 +17,7 @@ blood is black and so hot, that when it falls, it sizzles on the floor.
 Most trolls still remain under control of [Sauron](./Sauron.md)
 and large numbers reside around the northern [Misty
 Mountains](./Misty_Mountains.md) and the
-[Trollshaws](./Trollshaws.md).
+[Trollshaws](../lore.md#trollshaws).
 
 ## Trolls in [Mume](./MUME.md)
 

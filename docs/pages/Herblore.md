@@ -62,8 +62,8 @@ who will lose an important part of his skills. It can of course be used
 to poison your arrows or your blade.
 
 **Ingredients:** a long, sticky bit of flesh, [some violet
-berries](./Herb#Belladonna.md), and [a red
-mushroom](./Herb#Red_mushroom_.2F_Agaric_mushroom.md)
+berries](./Herb.md#belladonna), and [a red
+mushroom](./Herb.md#red-mushroom--agaric-mushroom)
 
 ## Drake-slumber
 
@@ -398,10 +398,10 @@ Alternatively kill the assassin behind tangle near Wight Captain. Can
 load on the assassin, but it's rare.
 
 - - Ingredients:\*\* 2x
-    [blackberries](/pages/Herb#blackberries.md), [lily
-    petals](/pages/Herb#water-lily.md), [figwort
-    petals](/pages/Herb#figwort_turtlehead.md), [athelas
-    leaves](/pages/Herb#athelas.md)
+    [blackberries](/pages/Herb.md#blackberries), [lily
+    petals](/pages/Herb.md#water-lily), [figwort
+    petals](/pages/Herb.md#figwort-turtlehead), [athelas
+    leaves](/pages/Herb.md#athelas-kingsfoil)
 
 <!-- -->
 
@@ -792,11 +792,11 @@ Crude orkish horn worked for me - Kaspar
 
 - - Ingredients:\*\*
 
-[tincture of oil](/pages/Herb#tincture_of_oil.md),
-[paprika](/pages/Herb#paprika_pepper.md), [rose
-petals](/pages/Herb#red_rose.md), [vanilla
-bean](/pages/Herb#vanilla.md), [rosemary
-leaves](/pages/Herb#rosemary.md) x2.
+[tincture of oil](/pages/Herb.md),
+[paprika](/pages/Herb.md#paprika), [rose
+petals](/pages/Herb.md#red-rose), [vanilla
+bean](/pages/Herb.md#vanilla), [rosemary
+leaves](/pages/Herb.md#rosemary) x2.
 
 - - Product: \*\* a vial of scented oil (lasted 71 minutes)
 
@@ -824,7 +824,7 @@ against the infection will induce a spiritual weakness for a short
 duration.
 
 - - How to obtain:\*\* Complete the quest given by Nordri in the Blue
-    Mountains (see [Quests](/pages/Quest#nordri_s_quest.md)).
+    Mountains (see [Quests](/pages/Quest.md#nordri-the-shopkeeper)).
 
 <!-- -->
 
@@ -866,8 +866,8 @@ loads the strength lore.
 
 - - Ingredients:\*\*
 
-[clover](/pages/Herb#clover.md),
-[paprika](/pages/Herb#paprika_pepper.md), [comfrey
+[clover](/pages/Herb.md#clover),
+[paprika](/pages/Herb.md#paprika), [comfrey
 root](/pages/Herb#comfrey.md).
 
 - - Product: \*\*
@@ -916,9 +916,9 @@ leader in goblin caves near Fork)
 
 - - Ingredients:\*\*
 
-[tarragon leaves](/pages/Herb#tarragon_estragon.md), [ginseng
+[tarragon leaves](/pages/Herb.md#tarragon), [ginseng
 root](/pages/Herb#ginseng.md),
-[clover](/pages/Herb#clover.md).
+[clover](/pages/Herb.md#clover).
 
 - - Product: \*\*
 
@@ -943,17 +943,17 @@ some clover as a base. Add a few crushed leaves of marjoram and freshly
 bought cloves, to clean the blood of its toxines and stop cramps.
 
 - - How to obtain:\*\* Complete the
-    [quest](/pages/Quest#aldereons_s_quest.md) given by Aldereon
+    [quest](/pages/Quest.md#aldereon-the-wise) given by Aldereon
     the ancient Noldo northwest of Greenholm. Aldereon will ask you to
     deliver sealed letters to his friends across Arda. The distance and
     XP/Letter will vary depending on level.
 
 <!-- -->
 
-- - Ingredients:\*\* [clover](/pages/Herb#clover.md), [juniper
+- - Ingredients:\*\* [clover](/pages/Herb.md#clover), [juniper
     berries](/pages/Herb#juniper.md), [marjoram
     leaves](/pages/Herb#marjoram.md) and
-    [cloves](/pages/Herb#cloves.md).
+    [cloves](/pages/Herb.md#cloves).
 
 <!-- -->
 
@@ -1000,9 +1000,9 @@ will succumb to its negative effects.
 
 <!-- -->
 
-- - Ingredients:\*\* [hemlock](/pages/Herb#hemlock.md),
-    [inkberries](/pages/Herb#inkberries.md), [frog
-    tongue](/pages/Herb#frog_tongue.md).
+- - Ingredients:\*\* [hemlock](/pages/Herb.md#hemlock),
+    [inkberries](/pages/Herb.md#inkberries), [frog
+    tongue](/pages/Herb.md).
 
 <!-- -->
 
@@ -1131,9 +1131,9 @@ his skills. It can of course be used to poison arrows or blades.
 
 <!-- -->
 
-- - Ingredients:\*\* [belladonna](/pages/Herb#belladonna.md),
-    [bright red mushroom](/pages/Herb#bright_red_mushroom.md),
-    [frog tongue](/pages/Herb#frog_tongue.md).
+- - Ingredients:\*\* [belladonna](/pages/Herb.md#belladonna),
+    [bright red mushroom](/pages/Herb.md),
+    [frog tongue](/pages/Herb.md).
 
 <!-- -->
 

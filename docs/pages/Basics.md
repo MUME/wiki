@@ -72,7 +72,7 @@ Wake, Stand - If you sleep, rest
 or fall down you will need to wake and/or stand before performing
 certain actions such as walking or fighting.
 
-[Drink](./Drink.md), [Eat](./Eat.md) - You can drink out of
+[Drink](./Items.md#drink), [Eat](./Eat.md) - You can drink out of
 a fountain by typing 'drink fountain' or drink out of a cup such as are
 in the newbie kits by typing 'drink cup'. To eat some bread you can type
 'eat bread'. If you are hungry or thirsty you will not be able to

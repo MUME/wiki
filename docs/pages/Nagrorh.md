@@ -15,7 +15,7 @@ spectres will [follow](./Follow.md) him. He loads 5
 [gold](./Gold.md), an [enruned robe](./Enruned_robe.md), a
 [mace](./Mace.md) and the [black bone
 key](./Black_bone_key.md) that unlocks the door south of the
-[room](./room.md) where he spawns. The room contains a chest with
+[room](./Mechanics.md#room) where he spawns. The room contains a chest with
 either a [broadsword](./Broadsword.md) or [large metal full
 shield](./Large_metal_full_shield.md) in it.
 

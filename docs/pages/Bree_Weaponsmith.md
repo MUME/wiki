@@ -7,7 +7,7 @@ tags:
 The **weaponsmith** tends to the **Weapon Shop** in
 [Bree](./Bree.md). The store is open from 6am to 3pm and 5pm to
 8pm. The weaponsmith might ask adventurers to help recover his [lost
-dagger](./Quest#Bree_Weaponsmith.md).
+dagger](./Quest.md#bree-weaponsmith).
 
 ```
 A weaponsmith stands here.

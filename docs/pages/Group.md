@@ -27,7 +27,7 @@ do not have to be the leader and the grouper, though that is the norm.
 The first person that uses the 'follow' command will be the last one who
 enters a room in a group.
 
-When entering a [room](./room.md), the first person is called the
+When entering a [room](./Mechanics.md#room), the first person is called the
 'tank' or 'buffer'. It is him/her who is first targeted by mobiles,
 while successive followers will be also hit. Should someone
 [flee](./Flee.md) or [die](./Death.md), the first person to

@@ -6,13 +6,13 @@ tags:
   - Help files
 ---
 The "**exits**" command shows information about the currently visible
-exits out of your [room](./room.md). Note that some exits may be
+exits out of your [room](./Mechanics.md#room). Note that some exits may be
 hidden and will require you to use your wits to discover them.
 
 With "**change autoexits**" you can set whether to show (brief) exit
 information each time you enter a room.
 
-For both commands, the [direction](./Direction.md) (north, east,
+For both commands, the [direction](./Mechanics.md#direction) (north, east,
 ...) will be surrounded by certain flags showing (a)
 [door](./Door.md) information and (b)
 [terrain](./Terrain.md) information.

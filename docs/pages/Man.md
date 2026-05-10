@@ -6,7 +6,9 @@ tags:
   - Playable races
 aliases: ["Men"]
 ---
-![Aragorn As with our own world, **man** is
+![Aragorn](/img/Aragorn.jpg)
+
+As with our own world, **man** is
 the most varied of the races. While one may be kind and gentle, another
 may be vicious and evil. Man is the 'standard' race, and are competent
 at most professions.
@@ -24,6 +26,8 @@ being [Beornings](./Beorning.md) and [Black
 Númenóreans](./Black_Númenórean.md). More commonly seen, though,
 are the [Eriadoran](./Eriadoran.md),
 [Dúnedain](./Dúnedain.md), and [Rohirrim](./Rohirrim.md).
+
+![Strider](/img/Strider.jpg)
 
 ## Men in [Mume](./MUME.md)
 

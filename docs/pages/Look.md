@@ -28,7 +28,7 @@ Important: 'look at [corpse](./Corpse.md)' will not show the
 [container](./Container.md) (e.g. corpse, pouch, ...) use
 '[examine](./Examine.md) &lt;container&gt;' or 'look in &lt;object&gt;'.
 
-"look around" will search your surrounding [rooms](./room.md) for
+"look around" will search your surrounding [rooms](./Mechanics.md#room) for
 light or smoke.
 
 See Also: [Read](./Read.md)

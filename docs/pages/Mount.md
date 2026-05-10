@@ -89,7 +89,7 @@ If you are leading a [mount](./Mount.md), the
 **abandon** command will make it stop following you. The mount will
 remember its previous [rider](/pages/Ride), so you can resume
 leading it by typing "lead". If you abandon your mount but remain in the
-[room](./room.md) with it, others will not be able to lead it
+[room](./Mechanics.md#room) with it, others will not be able to lead it
 away. They can, however, ride the mount and then control it out of the
 room.
 

@@ -5,10 +5,10 @@ tags:
   - Miscellaneous equipment
 ---
 The **thin parchment** can be [read](./Read.md) to learn the
-[antidote](./Herblore#Antidote.md) herblore. It loads on the chief
+[antidote](./Herblore.md#antidote) herblore. It loads on the chief
 of the Hillmen Village near [Rivendell](./Rivendell.md), and on
 the [assassin](./Assassin.md) near the [Wight
-Captain](./Super_Mobile#Wight_Captain.md)'s crypt.
+Captain](./Super_Mobile.md#wight-captain)'s crypt.
 
 ```
 A thin parchment with strange symbols lies in the dust.

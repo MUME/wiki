@@ -7,7 +7,7 @@ tags:
 ---
 **Morthan Blacksoul** is a bandit who has set up an obstruction on the
 [Greenway](./Greenway.md) to rob unsuspecting travellers. If you
-enter his [room](./room.md), he will demand some
+enter his [room](./Mechanics.md#room), he will demand some
 [gold](./Gold.md) from you, and spam-close the
 exits until you pay him. While not initially aggressive, if you attack
 him, he will remember it and attack the next time he sees you. He loads

@@ -38,7 +38,7 @@ A: Type "[pour](./Pour.md) [water](./Water.md)
 [skin](./Water_skin.md)", "pour well skin", "pour fountain skin",
 etc. In MUME command structure, words like 'in', 'from', etc. are
 usually omitted. So, you drink from the skin by typing
-"[drink](/pages/Drink) skin".
+"[drink](./Items.md#drink) skin".
 
 **Q: How do I see what I have?**
 

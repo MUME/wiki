@@ -8,7 +8,7 @@ tags:
 Syntax: **catchup** \[&lt;number&gt;\|&lt;name&gt;
 
 This command is used to mark all messages on a bulletin board up to the
-number given as read. It can only be used in a [room](./room.md)
+number given as read. It can only be used in a [room](./Mechanics.md#room)
 with a bulletin [board](./Boards.md) (but see also
 [news](./News.md)).
 

@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-If you lose interest in a carried [item](./Item.md), you can
+If you lose interest in a carried [item](./Items.md#item), you can
 **drop** it on the ground. Examples: \> drop bottle \> drop all (drops
 everything you are carrying) Dropping objects in a certain location in
 [Bree](./Bree.md) is a good way to get rid of unwanted things

@@ -4,7 +4,7 @@ description: 'container. It can contain a bit over 2 pounds'
 tags:
   - Containers
 ---
-The **pint** is a [drink](./Food_%26_Drink#Drink.md)
+The **pint** is a [drink](./Food_%26_Drink.md)
 [container](./Container.md). It can contain a bit over 2 pounds
 worth of liquid. It is worth around 15 copper.
 Pints are sold in many taverns, most often containing ale.

@@ -13,7 +13,7 @@ from 1pm to 2am.
 
 - [pastries](./Pastry.md)
 - [bottles](./Bottle.md) full of
-  [ale](./Food_%26_Drink#Alcohol.md)
+  [ale](./Food_%26_Drink.md)
 - [fine bottles](./Fine_bottle.md) full of wine
 - [ceramic cups](./Ceramic_cup.md) full of
-  [tea](./Food_%26_Drink#Drink.md)
+  [tea](./Food_%26_Drink.md)
