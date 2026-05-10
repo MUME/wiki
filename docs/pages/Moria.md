@@ -14,6 +14,8 @@ tags:
     song." 
 ```
 
+![Fellowship in Moria](/img/Moria_fellowship.jpg)
+
 Greatest of the Dwarf-halls, the mansion and folk-home of Durin's Folk,
 was carved by Durin I early in the First Age in the caves overlooking
 Azanulbizar. Here is located the tomb of Durin, and here dwelt the heart
@@ -51,6 +53,8 @@ stars, and to depths unknown and terrible. They erected spans across
 bottom-less pits and enchanting canyons, and fashioned vaults in caves
 larger than many citadels. Now its chambers are dark and its builders
 are gone.
+
+![Dwarven statue in Moria](/img/Dwarven_statue.jpg)
 
 Huge and grand, forbidding and mysterious, shrouded by its very nature
 and with the passage of time, this ancient underground Dwarf-city

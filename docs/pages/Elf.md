@@ -48,6 +48,8 @@ the [Tower Hills](./Tower_Hills.md), [Bree](./Bree.md),
 
 ## Subraces
 
+![Elf female](/img/Elf_Female_pink.jpg)
+
 The three subraces have their own unique modifiers.
 
 ### Silvan

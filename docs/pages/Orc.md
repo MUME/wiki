@@ -6,7 +6,9 @@ tags:
   - Playable races
 aliases: ["Uruk-Tarkhnarb"]
 ---
-![Uruk-hai **Orcs**, also known as
+![Uruk-hai](/img/Uruk-hai.jpg)
+
+**Orcs**, also known as
 **Goblins**, are foul creatures that were created by Morgoth in the
 First Age. Through his evil power, it is said he corrupted the beautiful
 [Elves](./Elf.md) and transformed them into his servants of evil,

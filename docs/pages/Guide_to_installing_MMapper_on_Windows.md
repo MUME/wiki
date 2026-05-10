@@ -39,10 +39,7 @@ Make sure you allow the mapper to get past your local firewall. Mac
 users will need to right click and hit Open twice to get past the
 security nag.
 
-<figure>
-!Mmapper2_2.png
-<figcaption>Image:Mmapper2_2.png</figcaption>
-</figure>
+![MMapper running](/img/Mmapper2_2.png)
 
 **3. Load a map**
 
@@ -50,10 +47,7 @@ A map is included with the package named arda.mm2. It will load
 automatically, but if not, load it by clicking "File", "Open" and then
 selecting the file name.
 
-<figure>
-!Mmapper2_3.png
-<figcaption>Image:Mmapper2_3.png</figcaption>
-</figure>
+![Loading a map in MMapper](/img/Mmapper2_3.png)
 
 **4. Configure your mud client**
 
@@ -62,12 +56,8 @@ connect to your own computer (or there is also a basic built-in client).
 As you already know, MUME runs at mume.org on port 4242. The mapper runs
 on your own computer at the same port and because of this you need to
 direct your client to localhost on port 4242 (not in secure mode).
-thumb
 
-<figure>
-!Mmapper2_4.png
-<figcaption>Image:Mmapper2_4.png</figcaption>
-</figure>
+![Configuring your mud client to connect through MMapper](/img/Mmapper2_4.png)
 
 **5. Enjoy!**
 
@@ -76,10 +66,7 @@ occasionally loses sync with where you are: this is probably not a bug,
 it's probably because the map or rooms have changed slightly, or it
 could be because you turned off terrain in the prompt, or xml mode.)
 
-<figure>
-!Mmapper2_6.png
-<figcaption>Image:Mmapper2_6.png</figcaption>
-</figure>
+![MMapper synced and tracking your location](/img/Mmapper2_6.png)
 
 **6. Still having problems??**
 

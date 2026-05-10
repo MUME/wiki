@@ -3,9 +3,8 @@ title: Race
 description: 'Ring](TheLordoftheRings:TheFellowshipoftheRing(film) "wikilink")'
 ---
 
-!Fellowship in *The Lord of the Rings: The
-Fellowship of the
-Ring*
+![Fellowship](/img/Fellowship.jpg)
+
 There are nine different **races** you can play on MUME.
 
 Five of these belong to the good side (a.k.a. "whities"). They are Men,

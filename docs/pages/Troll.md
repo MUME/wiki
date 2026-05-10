@@ -4,7 +4,9 @@ description: 'Trolls have the greatest physical might. These huge figures may be
 tags:
   - Playable races
 ---
-!Cave_troll Of all Sauron's servants,
+![Cave Troll](/img/Cave_troll.jpg)
+
+Of all Sauron's servants,
 **Trolls** have the greatest physical might. These huge figures may be
 the corrupted form of tree spirits, created by
 Morgoth in the [Great

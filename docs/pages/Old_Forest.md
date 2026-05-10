@@ -4,6 +4,8 @@ description: 'Ancient and dangerous woodland east of the Shire. Home to Old Man 
 tags:
   - Locations
 ---
+![Aldea forest](/img/Aldea_forest.jpg)
+
 The **Old Forest** is a mysterious and dangerous woodland located east of the [Shire](./Shire.md) and west of [Bree](./Bree.md). It is known for its shifting paths and ancient, ill-willed trees — few who enter return without stories of paths that move and trees that whisper in the dark.
 
 ## Geography

@@ -4,7 +4,7 @@ description: 'Wargs are large evil semi-intelligent wolf-hounds. They are probab
 tags:
   - Mobiles
 ---
-!warg
+![Warg](/img/Warg.jpg)
 
 **Wargs** are large evil semi-intelligent wolf-hounds. They are probably
 descended from Draugluin's werewolves, or of the

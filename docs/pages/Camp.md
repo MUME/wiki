@@ -5,10 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-<figure>
-!campfire.jpg
-<figcaption>Image:campfire.jpg</figcaption>
-</figure>
+![Campfire](/img/Campfire.jpg)
 
 \[Delayed Command
 

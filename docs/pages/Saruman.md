@@ -4,6 +4,8 @@ description: 'Saruman the White, head of the Istari order and lord of Isengard. 
 tags:
   - Mobiles
 ---
+![Saruman](/img/Saruman.jpg)
+
 **Saruman the White** (also called Curunír in Elvish) is the head of the order of [Wizards](./Istari.md) (Istari) and the lord of [Isengard](./Isengard.md). Originally charged by the Valar with opposing Sauron, he turned to his own ambitions and was eventually overthrown by the [Ents](./Fangorn.md) of Fangorn.
 
 ## In MUME
