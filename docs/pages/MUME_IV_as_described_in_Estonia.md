@@ -68,9 +68,6 @@ This is the world that holds MUME together...
 
 ![.exe magazine - pages 60-61](/img/exe-magazine---pp60-61.jpg)
 
-![.exe magazine - page 59](/img/exe-magazine---Page-59.jpg)
-
-
 **How to get in? Nothing simpler:**
 
 telnet 128.178.77.5 4242
