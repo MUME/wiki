@@ -66,7 +66,7 @@ such works as *The Hobbit*, *The Lord of the Rings*, etc.)
 
 This is the world that holds MUME together...
 
-![.exe magazine - pages 60-61](/img/exe-magazine---Pp60-61.jpg)
+![.exe magazine - pages 60-61](/img/exe-magazine---pp60-61.jpg)
 
 **How to get in? Nothing simpler:**
 
@@ -303,7 +303,7 @@ If you see that the situation is becoming hopeless, you can flee with:
   FLEE
 Keep in mind, however, that if there are two opponents against you, then by fleeing you usually give them one free hit each.
 
-![.exe magazine - pages 62-63](/img/exe-magazine---Pp62-63.jpg)
+![.exe magazine - pages 62-63](/img/exe-magazine---pp62-63.jpg)
 
 **Group combat and following players:** Group-based gameplay becomes
 easier with the help of the GROUP command – the leader uses FOLLOW to
