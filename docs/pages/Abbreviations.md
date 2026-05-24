@@ -7,24 +7,26 @@ tags:
 
 ## Mobs & NPCs
 
-* **BBT :** Bill, Bert, and Tom (some mobs, or the place where they stand)
-* **bw :** bloodwight (a mob)
-* **chief :** Chief of Tharbad (a mob)
-* **dk :** The Dead Knight (a mob)
-* **ep :** evil priest (an npc/place)
-* **er :** www.elvenrunes.com (a website)
-* **gc :** The ghostly captain (a mob)
-* **gcm :** grey cloaked man (a mob)
-* **GG :** Great Goblin (a mob)
-* **lord :** The wight-lord (a mob)
-* **MA :** Master Assassin (a mob)
-* **nag, naggy :** Nagrorh (a mob)
-* **necro :** necromancer (a mob)
-* **noble(s) :** wight-noble(s) (a mob)
-* **rog :** The Balrog (a mob)
-* **sk :** Spirit Knight (a mob)
-* **una, unq :** Unqalome (a mob)
-* **wc :** wight captain (a mob)
+| Abbreviation | Meaning |
+| :--- | :--- |
+| **BBT** | Bill, Bert, and Tom (some mobs, or the place where they stand) |
+| **bw** | bloodwight (a mob) |
+| **chief** | Chief of Tharbad (a mob) |
+| **dk** | The Dead Knight (a mob) |
+| **ep** | evil priest (an npc/place) |
+| **er** | www.elvenrunes.com (a website) |
+| **gc** | The ghostly captain (a mob) |
+| **gcm** | grey cloaked man (a mob) |
+| **GG** | Great Goblin (a mob) |
+| **lord** | The wight-lord (a mob) |
+| **MA** | Master Assassin (a mob) |
+| **nag, naggy** | Nagrorh (a mob) |
+| **necro** | necromancer (a mob) |
+| **noble(s)** | wight-noble(s) (a mob) |
+| **rog** | The Balrog (a mob) |
+| **sk** | Spirit Knight (a mob) |
+| **una, unq** | Unqalome (a mob) |
+| **wc** | wight captain (a mob) |
 
 ---
 
@@ -63,7 +65,7 @@ tags:
 | **rofl** | rolls on the floor laughing |
 | **rotfl** | rolls on the floor laughing |
 | **roflmao** | rofl + my a\*\* off |
-| **roflmfao**| rofl + my f\*cking a\*\* off |
+| **roflmfao** | rofl + my f\*cking a\*\* off |
 | **RtFM** | Read the F\*cking Manual |
 | **tbh** | to be honest |
 | **tnx** | thanks |
@@ -100,7 +102,7 @@ tags:
 | **eq** | equipment |
 | **exp / xp** | experience points |
 | **gm, gms** | guildmaster |
-| **hardon(s)**| hardened ranger(s) |
+| **hardon(s)** | hardened ranger(s) |
 | **heavy** | thick/heavy armour (usually) |
 | **hide** | smelly piece of worm hide |
 | **HoB** | Hammer of Belegost |
@@ -133,8 +135,8 @@ tags:
 | **pc** | player character |
 | **pelf(s)** | elf/elves |
 | **per** | perception |
-| **pk / pkill**| player killer / to kill another player |
-| **powerranger**| hardened ranger |
+| **pk / pkill** | player killer / to kill another player |
+| **powerranger** | hardened ranger |
 | **str** | strength |
 | **thick** | thick/heavy armour (usually) |
 | **tnl** | (xp/mp) to next level |
@@ -164,7 +166,7 @@ tags:
 | **bda** | blackened dwarven axe |
 | **bej** | bejewelled shield |
 | **bhc** | black, hooded cloak |
-| **bhb, bhsb**| black horn short bow |
+| **bhb, bhsb** | black horn short bow |
 | **black** | black scroll |
 | **blue** | blue scroll |
 | **bms** | black metal staff |
@@ -188,7 +190,7 @@ tags:
 | **gbs** | great black scimitar |
 | **gilded** | gilded rounded shield |
 | **gleaming** | gleaming belt/broadsword |
-| **glowsword**| Artifact glowing sword (Sting etc..) |
+| **glowsword** | Artifact glowing sword (Sting etc..) |
 | **grey** | fine grey cloak |
 | **hbm** | huge, black mace |
 | **hsb** | huge silvery bracer |
@@ -256,7 +258,7 @@ tags:
 | **sd** | stonedoor |
 | **sppi** | Sign of the Prancing Pony Inn |
 | **ssc** | Small Stream Crossing |
-| **rd, rdell**| Rivendell |
+| **rd, rdell** | Rivendell |
 | **tbad** | Tharbad |
 | **tmt** | Trail meets the Tributary |
 | **vt** | Vale Tower |
@@ -267,16 +269,18 @@ tags:
 
 ## Lore
 
-* **CT :** Christopher Tolkien
-* **FotR, FR :** The Fellowship of the Ring
-* **HoME :** The History of Middle-earth
-* **JRRT :** J.R.R. Tolkien
-* **LotR :** The Lord of the Rings
-* **NoME :** The Nature of Middle-earth
-* **RotK, RK :** The Return of the King
-* **(The) Silm :** The Silmarillion
-* **(T)TT :** The Two Towers
-* **UnTa, UT :** Unfinished Tales
+| Abbreviation | Meaning |
+| :--- | :--- |
+| **CT** | Christopher Tolkien |
+| **FotR, FR** | The Fellowship of the Ring |
+| **HoME** | The History of Middle-earth |
+| **JRRT** | J.R.R. Tolkien |
+| **LotR** | The Lord of the Rings |
+| **NoME** | The Nature of Middle-earth |
+| **RotK, RK** | The Return of the King |
+| **(The) Silm** | The Silmarillion |
+| **(T)TT** | The Two Towers |
+| **UnTa, UT** | Unfinished Tales |
 
 ---
 
