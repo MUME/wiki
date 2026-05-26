@@ -9,7 +9,7 @@ A **Morgul blade** is a terrifying weapon used by the Nazgûl and their most pow
 
 ## Fell Beast Calling
 
-One of the most dark and powerful uses of a Morgul blade is to [call](./Call.md) a [fell beast](./Fell_Beast.md). By using the blade, a servant of [Sauron](./Sauron.md) may summon one of these winged terrors to serve as a mount.
+One of the darkest and most powerful uses of a Morgul blade is to [call](./Call.md) a [fell beast](./Fell_Beast.md). By using the blade, a servant of [Sauron](./Sauron.md) may summon one of these winged terrors to serve as a mount.
 
 Note that highly skilled [Rangers](./Ranger.md) who have taken the [Dark Oath](./Dark_oath.md) can call a fell beast even without possessing a Morgul blade.
 
