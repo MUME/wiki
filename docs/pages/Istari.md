@@ -36,7 +36,7 @@ assist new players. At level 26 or higher, a player may ascend to
 immortality by again sailing west to Valinor and listening to the
 Ainulindalë once again.
 
-Once a player undertakes the quest he has no more than 90 real life days
+Once a player undertakes the quest, he has no more than 90 real-life days
 in which to complete it. A player on the Istar Quest has certain
 advantages over normal characters - for example, they need no longer
 consume food or water, their spells become less expensive, and they
