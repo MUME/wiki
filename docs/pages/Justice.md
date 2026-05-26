@@ -38,7 +38,8 @@ An action can be a crime only in a town or its immediate environs:
 <!-- -->
 
 - Attacking a player (not wanted and not [Orc](./Orc.md)) or a
-  mobile citizen.
+  mobile citizen. (Note: Same-side player killing is a crime in all
+  towns.)
 
 <!-- -->
 

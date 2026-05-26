@@ -18,6 +18,10 @@ tags:
 | Min. Mana | 35 |
 | Example | `&gt; cast 'dispel magic' eket` |
 
+**Dispel Magic** is a meta-magic spell used to remove magical effects from a person or an object.
+
+When cast on yourself, Dispel Magic is guaranteed to not remove [enchantments](./Enchant.md) from items in your inventory.
+
 This spell can be learned from:
 
 | Guild | Sessions |

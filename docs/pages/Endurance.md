@@ -14,7 +14,7 @@ tags:
 - **Hardiness:** Allows you to suffer more damage in combat.
 - **Vigour:** You can travel farther before becoming exhausted.
 - **Healing:** Your body is rejuvenated, meaning scars heal faster and wounds wane.
-- **Second Wind:** The most adept practitioners can even gain a "second wind" of vigour.
+- **Second Wind:** The most adept practitioners can even gain a "second wind" of vigour. This ability provides a temporary boost to [movement points](./Movement.md) when you are exhausted.
 
 ## Affinity
 

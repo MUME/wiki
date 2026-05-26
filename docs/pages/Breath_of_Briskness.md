@@ -29,6 +29,8 @@ The first effect is an immediate distribution of movement points. At higher leve
 
 The second effect is to boost move point regeneration. This effect is not reduced by the number of targets, so everyone will receive the full effect regardless of group size. At higher levels the boost can last up to 6 minutes and will be slightly stronger than the boost of a forest green cloak. The effect will stack with any other move regen boosts, such as equipment like the mentioned cloak, walking and travelling herblores, and rest and sleep.
 
+The [Black Breath](./Black_Breath.md) spell will cancel the effects of Breath of Briskness.
+
 This spell can be learned from:
 
 | Guild | Sessions |

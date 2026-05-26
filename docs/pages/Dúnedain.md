@@ -13,4 +13,9 @@ possess great stature and long life.
 
 Dúnedain enclaves in Eriador are few now, and only Fornost is of note.
 Many wander the wilderness protecting the good people of Middle-earth,
-and are called [Rangers](./Ranger.md). <!--@include: ../includes/ClassRace.md-->
+and are called [Rangers](./Ranger.md).
+
+Characters with the Natural Teacher perk will find that they are
+restricted from teaching their pupils some of the more advanced skills.
+
+<!--@include: ../includes/ClassRace.md-->

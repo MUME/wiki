@@ -17,7 +17,8 @@ Moonlight, either direct or indirect o - Darkness
 
 - movement - Display R if you are [riding](/pages/Ride), r if you
   are being ridden, W if you are trying to [swim](./Swim.md), S if
-  you are trying to [sneak](./Sneak.md), c if you are
+  you are trying to [sneak](./Sneak.md), H if you are
+  [hiding](./Hide.md), c if you are
   [climbing](./Climb.md) safely, and C if you're climbing
   no-matter-what.
 - [terrain](./Terrain.md) - Display a symbol representing the

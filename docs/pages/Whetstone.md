@@ -1,14 +1,22 @@
 ---
 title: Whetstone
-description: 'Whetstones are small hard stones used for sharpening your weapon. To use'
+description: 'Whetstones are small hard stones used for sharpening your weapon.'
 tags:
   - Help files
+  - Commands
+aliases: ["Whet"]
 ---
-Whetstones are small hard stones used for sharpening your weapon. To use
-them: o You have to either wear the whetstone on your belt or hold it in
-your hand. o You have to WIELD the weapon you want to mend. o You then
-use the command WHET to get your weapon back into good shape. o Note
-that using them requires a great deal of time and energy so you will
-lose movement points. o If no whetstone is available you can certainly
-mend your weapon at a local weaponsmith's shop. See Also:
-[Mend](./Mend.md), [Wield](./Wield.md)
+**Whetstones** are small hard stones used for sharpening your
+[weapon](./Weapon.md). To use them:
+
+- You have to either wear the whetstone on your [belt](./Belt.md)
+  or [hold](./Hold.md) it in your hand.
+- You have to '[wield](./Wield.md)' the weapon you want to mend.
+- You then use the command 'whet' to get your weapon back into good
+  shape.
+- Note that using them requires a great deal of time and energy so you
+  will lose [movement points](./Movement_points.md).
+- If no whetstone is available you can certainly [mend](./Mend.md)
+  your weapon at a local weaponsmith's shop.
+
+See Also: [Mend](./Mend.md), [Wield](./Wield.md)

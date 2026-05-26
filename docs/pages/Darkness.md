@@ -23,6 +23,8 @@ From time to time, the Necromancer causes dark clouds to spread from his fortres
 
 It is said that powerful, evil sorcerers can cooperate with the Necromancer in creating or extending the duration of his clouds. The details of the rituals involved are a well-guarded secret.
 
+The **Darkness** spell shrouds the immediate area in shadow. It can affect the visibility of the sky and the lighting within a room.
+
 ## See also
 
 - [Bless](./Bless.md), [Protection From Evil](./Protection_From_Evil.md), [Sanctuary](./Sanctuary.md), Strength

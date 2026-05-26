@@ -16,8 +16,8 @@ you are riding a [mount](./Mount.md).
 Movement points are per default displayed in your
 [prompt](./Prompt.md). As long as you are somewhat rested, nothing
 will be shown. As you get more and more tired, one of the following
-words is displayed (in descending order of power): Tired, Slow, Weak,
-Fainting, Exhausted. The exact number of movement points can be
+words is displayed (in descending order of power): Unwearied, Steadfast,
+Tired, Slow, Weak, Fainting, Exhausted. The exact number of movement points can be
 displayed with the [score](./Score.md) and [info](./Info.md)
 commands.
 

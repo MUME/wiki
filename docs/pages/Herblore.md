@@ -20,7 +20,8 @@ herbalists and by some other skilled people.
 # Poisons
 
 In order to poison an opponent you need the poison vial and the
-[envenom](./Envenom.md) skill.
+[envenom](./Envenom.md) skill. Black Númenóreans receive a bonus
+when using herblore to create antidotes.
 
 ## Arachnia
 
@@ -84,6 +85,8 @@ Leaves, flowers and fruit of the hemlock plant will weaken the animal,
 slowing its heart and suppressing its breathing. A single fly agaric
 mushroom is also needed - the flesh of this bright red fungus is said to
 bring on dizziness and a lack of coordination, followed by a deep sleep.
+
+The herblore 'Stock' will reveal the contents of a container.
 
 To complete the brew one white fruit of the baneberry plant is needed.
 This strong poison will weaken the creature, and should further assist
