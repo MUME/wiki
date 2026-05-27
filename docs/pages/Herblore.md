@@ -86,8 +86,6 @@ slowing its heart and suppressing its breathing. A single fly agaric
 mushroom is also needed - the flesh of this bright red fungus is said to
 bring on dizziness and a lack of coordination, followed by a deep sleep.
 
-The herblore 'Stock' will reveal the contents of a container.
-
 To complete the brew one white fruit of the baneberry plant is needed.
 This strong poison will weaken the creature, and should further assist
 in bringing about dizziness and poor flow of the blood.
