@@ -19,7 +19,7 @@ Vials of poison can be found in Arda; but as they do not last long, it
 is better to learn the [herblore](./Herblore.md) which allows you
 to produce the vials.
 
-Some [races](./Race.md) are more resistant to the poisons used on
+Some [races](../races.md) are more resistant to the poisons used on
 envenomed weapons. It varies of course for each type of poison but
 [trolls](./Troll.md) are immune to the poisons used while
 [dwarves](./Dwarf.md) and [orcs](./Orc.md) are more

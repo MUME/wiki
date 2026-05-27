@@ -9,7 +9,7 @@ aliases: ["Strength"]
 [Strength Spell.*
 
 **Statistics** are a set of numbers that describes your character.
-Statistics may depend on a character's level, [race](./Race.md),
+Statistics may depend on a character's level, [race](../races.md),
 [skills](./Skill.md) practiced, age, and other factors.
 
 Most statistics depend on a character's **base abilities**:
@@ -52,7 +52,7 @@ of other areas.
 
 ## See also
 
-- [Race](./Race.md), [Age](./Age.md)
+- [Race](../races.md), [Age](./Age.md)
 
 ## Guides
 

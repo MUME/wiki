@@ -11,7 +11,7 @@ tags:
 **Rangers** are heroes of the free people of Arda who willingly help new
 players out with questions and other things. A Ranger (unlike
 [Istari](./Istari.md)) has the right to deny a newbie help and can
-also be fully involved in the [race](./Race.md) wars. Rangers,
+also be fully involved in the [race](../races.md) wars. Rangers,
 however, are supposed to set a good example among whitie heroes --- and
 will hence be severely punished by Elbereth or the Valar if he or she
 misbehaves.

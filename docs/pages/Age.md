@@ -20,7 +20,7 @@ Your initial age depends on your base statistics: characters more suited
 to the life of a [warrior](./Warrior.md) start out younger; those
 more suited to spellcasting begin adventuring at an older age.
 
-Aging rate depends on [races](./Race.md) (see 'help races' for
+Aging rate depends on [races](../races.md) (see 'help races' for
 more information). Ages shown in the previous table refer to Men
 (excluding Dúnedain); for other races the following table applies.
 
@@ -37,4 +37,4 @@ ages 3 times slower, and a Hobbit 1.5 times slower.
 
 ## See also
 
-- [Races](./Race.md)
+- [Races](../races.md)

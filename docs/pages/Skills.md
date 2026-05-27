@@ -15,6 +15,6 @@ reading a help file, check out the "See Also" section at the bottom.
 | 3. | [Practice](./Practice.md) | How your character learns most skills. |
 | 4. | [Learn](./Learn.md) | An alternative to [Practice](./Practice.md). |
 | 5. | [Guild](./Guild.md) | Guild information. |
-| 6. | [Race](./Race.md) | Information about races. |
+| 6. | [Race](../races.md) | Information about races. |
 
 <!--@include: ../includes/Skills.md-->

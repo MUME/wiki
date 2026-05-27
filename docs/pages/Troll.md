@@ -58,13 +58,19 @@ Since they are not true Olog-Hai, they suffer
 Player-controlled Trolls can be of three distinct strains, each with unique combat bonuses.
 
 ### Hill Troll
-- **Bonuses:** They deal extra damage to stunned opponents when wielding one-handed or two-handed **concussion weapons**. They get a higher offensive bonus when in an aggressive or berserk **mood**. They have the unique ability to **burrow** under certain conditions.
+- **Brutality:** Deal extra damage to stunned opponents with **concussion weapons**.
+- **Ferocity:** Higher offensive bonus when in an aggressive or berserk **mood**.
+- **Utility:** Unique ability to **burrow** under certain conditions.
 
 ### Cave Troll
-- **Bonuses:** Slightly increased hit point regeneration, which is further enhanced when in a cave or tunnel. Their massive **bashes** can cause victims to hurtle and collide with nearby targets. This "hurtle" effect is more likely if the Troll is dextrous and has mastered their weapon class.
+- **Regeneration:** Increased hit point regeneration, especially in caves or tunnels.
+- **Shockwave:** Massive **bashes** can cause victims to hurtle and collide with nearby targets.
+- **Skill:** Hurtle effect is more likely with high dexterity and weapon mastery.
 
 ### Mountain Troll
-- **Bonuses:** They sometimes hit nearby targets with wild attacks when engaged in combat (even when blinded). They are highly efficient with battle rams. They can **shake trees**, push boulders, drag corpses, and dig more swiftly and effortlessly than others.
+- **Wild Attacks:** Sometimes hit nearby targets with wild attacks (even when blinded).
+- **Siege Craft:** Highly efficient with battle rams.
+- **Might:** Can **shake trees**, push boulders, and dig more effortlessly.
 
 ## Opinion
 

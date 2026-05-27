@@ -38,15 +38,26 @@ Orcs in MUME are treated differently from the other races:
 
 ### Tarkhnarb
 The most common Orcs, dwelling in Goblin Gate. Tunnel-born and fierce in group combat.
-- **Bonuses:** Empowered when grouped with their own kind. High proficiency in mixing **Orkish herblores**. They have a natural affinity for climbing in caves and tunnels. When linked to the wraith-world through **Raise Dead**, they gain increased mana regeneration and awareness. Bloodlust increases their offensive bonus when fighting Free Peoples.
+- **Group Strength:** Empowered when grouped with their own kind.
+- **Herblore:** High proficiency in mixing **Orkish herblores**.
+- **Terrain:** Natural affinity for climbing in caves and tunnels.
+- **Wraith Link:** Increased mana regeneration and awareness when using **Raise Dead**.
+- **Battle Fury:** Bloodlust increases offensive bonus when fighting Free Peoples.
 
 ### Morruhk
 Known as "snufflers," these Orcs from the western Misty Mountains are renowned for their keen sense of smell and well-trained Wargs.
-- **Bonuses:** Empowered when grouped with their own kind. Greatly increased **track** skill on foot. Skilled riders are less likely to fall from their mounts. They can call slavering Wargs to their side that can **bash** doors on command. Bloodlust increases their tracking skill when fighting Free Peoples.
+- **Group Strength:** Empowered when grouped with their own kind.
+- **Tracking:** Greatly increased **track** skill on foot.
+- **Horsemanship:** Skilled riders are less likely to fall from their mounts.
+- **Warg Mastery:** Can call slavering Wargs that can **bash** doors on command.
+- **Battle Fury:** Bloodlust increases tracking skill when fighting Free Peoples.
 
 ### Zaugurz
 A tribe of hardened Orcs from the far north who have little fear of the wintry cold. They are renegades, at war with both the Free Peoples and the Slaves of Sauron.
-- **Bonuses:** Able to move through **snow** more easily. Heightened pain tolerance allows them to fight through injuries with reduced hindrance. They have fearless resolve (rarely succumb to **fear**) and can unleash a frenzied bloodlust that increases agility and speed.
+- **Cold Adaptation:** Able to move through **snow** more easily.
+- **Pain Tolerance:** Fight through injuries with reduced hindrance.
+- **Fearless:** Rarely succumb to **fear** effects.
+- **Frenzied Bloodlust:** Unleash a bloodlust that increases agility and speed.
 
 ## Other Tribes
 

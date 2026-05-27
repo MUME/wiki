@@ -54,18 +54,24 @@ The three sub-races of Elves have their own unique modifiers and cultural traits
 
 ### Silvan
 Wood Elves who dwell in [Lothlórien](./Lothlórien.md) and Mirkwood. Secretive and dangerous archers.
-- **Bonuses:** Natural affinity for **missile weapons** and surviving in the **wilderness**. They **track** significantly faster in forests and move through them as if on a trail (unless gripped by the Shadow). They gain a bonus to **parry** when wielding ranged weapons.
+- **Archery:** Natural affinity for **missile weapons**.
+- **Wilderness:** Fast **tracking** and easier movement in forests.
+- **Combat:** Bonus to **parry** when wielding ranged weapons.
 - **Aging:** 2.5 times slower than common men.
 
 ### Sinda
 The "Grey Elves," descendants of the Teleri. Found in the [Grey Havens](./Grey_Havens.md), Rivendell, and Mirkwood.
-- **Bonuses:** Can **repair** most armour to flawless using a cross-pein hammer. They can un-equip shields during **combat**. They have a natural affinity for **leadership** and the **Great Eagles** will carry them further than anyone else.
+- **Craftsmanship:** Can **repair** most armour to flawless using a cross-pein hammer.
+- **Combat:** Can un-equip shields during **combat**.
+- **Leadership:** Natural affinity for leading others.
+- **Great Eagles:** Carried further by Eagles than anyone else.
 - **Aging:** 3.0 times slower than common men.
 
 ### Noldo
 The greatest of Elves in lore and craft, who once dwelt in the Undying Lands.
-- **Bonuses:** Natural sensitivity to magic (passive **Detect Magic**). They have access to a unique quest to add a minor gem socket to a **focus**.
-- **Special:** Free passage through the statues at Ost-in-Edhil.
+- **Sixth Sense:** Natural passive **Detect Magic** ability.
+- **Craftsmanship:** Unique quest to add a minor gem socket to a **focus**.
+- **Ancient Lore:** Free passage through the statues at Ost-in-Edhil.
 - **Aging:** 3.5 times slower than common men.
 
 See also: [Elven names](./Elven_names.md),

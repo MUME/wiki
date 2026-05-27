@@ -8,7 +8,7 @@ tags:
 In the [Halls of Mandos](./Halls_of_Mandos.md), the **pray**
 command is used to transport yourself to one of the main
 [towns](./Hometowns.md) and cities of [Middle-earth](./Location). The locations to which you may choose
-to pray are dictated by your [race](./Race.md) and
+to pray are dictated by your [race](../races.md) and
 [citizenships](./Citizen.md). The first time you pray, or if you
 have no citizenships for any other reason, you may pray only to the
 hometowns for your race, and will be made a citizen of that place,

@@ -65,7 +65,7 @@ quite a shock if you didn't read [FAQ2](./FAQ2.md).
 - Rules - List of rules
 - [Rules PK](./Rules_PK.md) - MUME allows but regulates player
   killing, with the player killing being towards enemy
-  [races](./Race.md) such as Elves vs.
+  [races](../races.md) such as Elves vs.
   [Orcs](./Orc.md)
 - [Travel points](/pages/Newbie_Guide_Travel_Points) - Travel points needed for
   higher levels

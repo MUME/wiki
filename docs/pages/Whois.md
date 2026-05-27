@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 The **whois** command gives you some information about a player. You can
-see his [race](./Race.md), his [class](./Class.md) and
+see his [race](../races.md), his [class](./Class.md) and
 [level](./Level.md) (unless he is
 [incognito](./Incognito.md)), his self-supplied description,
 roughly from which part of the (real) world he is playing and about how

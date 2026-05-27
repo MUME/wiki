@@ -45,24 +45,35 @@ The sub-races of Men have additional modifications and unique bonuses.
 
 ### Eriadoran
 The common people of northwestern Middle-earth, often centered around [Bree](./Bree.md). Recommended for beginners.
-- **Bonuses:** Start with **5 bonus practice points**. Friendly [inns](./Inn.md) treat them as locals for [rent](./Rent.md). Easier to obtain [Tharbad citizenship](./Tharbad.md).
+- **Practices:** Start with **5 bonus practice points**.
+- **Hospitality:** Friendly [inns](./Inn.md) treat them as locals for [rent](./Rent.md).
+- **Citizenship:** Easier to obtain [Tharbad citizenship](./Tharbad.md).
 
 ### Rohirrim
 The Horse-lords of [Rohan](./Rohan.md). Stern and fierce, they are masters of cavalry.
-- **Bonuses:** Start with a bonus to the **Ride** skill. Increased combat effectiveness when using stabbing weapons while mounted. Their mounts are more obedient and less likely to throw them. Cheaper rent in Rohan.
+- **Horsemanship:** Start with a bonus to the **Ride** skill. Their mounts are more obedient and less likely to throw them.
+- **Cavalry Combat:** Increased effectiveness when using stabbing weapons while mounted.
+- **Hometown:** Cheaper rent in Rohan.
 
 ### Dúnedain
 The "Men of the West," survivors of Númenor. They are tall, long-lived, and noble.
-- **Bonuses:** Natural sensitivity to evil (passive **Detect Evil**). Master swordsmen with better defense when using bladed weapons. Excellent trackers and natural teachers who can share ranger knowledge with followers. They are friends of the Elves and can pray to Rivendell without visiting it first.
+- **Sixth Sense:** Natural passive **Detect Evil** ability.
+- **Swordsmanship:** Better defense when using bladed weapons.
+- **Wilderness:** Excellent trackers and natural teachers who share ranger knowledge with followers.
+- **Elven Friends:** Can pray to Rivendell without visiting it first and are welcomed in Lórien more easily.
 
 ### Beorning
 Shapeshifters from the Anduin Vale who can transform into great bears.
-- **Features:** Can use the **metamorph** command to change into a Bear. Bears have massive strength and health, cause vicious bare-paw damage, and can **forage** for food.
+- **Metamorphosis:** Can use the **metamorph** command to change into a Bear.
+- **Bear Might:** Massive strength and health, causing vicious bare-paw damage.
+- **Survival:** Can **forage** for food and water.
 - **Note:** Bears have severe equipment restrictions and cannot cast spells.
 
 ### Black Númenórean
 Corrupted descendants of Númenor who serve the Shadow.
-- **Features:** Allied with Orcs and Trolls. Increased mana regeneration and lower spell backfire rate under magical **darkness**. Vials of poison and envenomed weapons last twice as long.
-- **Penalties:** Cannot become immortal, suffer from depression, and must wander as they have no cities for rent (they use the **camp** skill instead).
+- **Necromancy:** Increased mana regeneration and lower backfire rate under magical **darkness**.
+- **Venom Mastery:** Vials of poison and envenomed weapons last twice as long. High proficiency in mixing poison/antidote herblores.
+- **Fell Beasts:** Carried further by Fell Beasts than anyone else.
+- **Penalties:** Cannot become immortal, suffer from depression, and must **camp** instead of using city rents.
 
 <!--@include: ../includes/ClassRace.md-->

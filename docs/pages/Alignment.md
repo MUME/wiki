@@ -20,7 +20,7 @@ extreme you are, the less penalty you suffer.
 IMPORTANT: Note that the evil folks cannot enter some good
 cities and may be hunted by certain protectors of the
 western lands. Thus being an evil character of a good
-[race](./Race.md) is likely to make your life hard and may often
+[race](../races.md) is likely to make your life hard and may often
 get you killed. The more evil you are, the more likely you are to
 suffer.
 

@@ -26,7 +26,7 @@ types: shallow water, deep water, and the most interesting of all,
 places totally underwater.
 
 Of the three the easiest ones to cross is shallow water. Shallow water
-is water that any [race](./Race.md) can wade across without use of
+is water that any [race](../races.md) can wade across without use of
 equipment or a skill. Fords across deep rivers are sections where the
 water has become shallow enough to wade or in some places to
 [ride](/pages/Ride) across.

@@ -52,7 +52,7 @@ Is affected by
   - Some special items (such as the [stout oaken
     stick](./Stout_oaken_stick.md))
   - The [Terrain](./Terrain.md) in combination with its
-    [Race](./Race.md) modifiers
+    [Race](../races.md) modifiers
   - Special room modifiers (such as on the redhorn pass)
   - The [weather](./Weather.md) (such as snow)
   - [Sneaking](./Sneak.md)

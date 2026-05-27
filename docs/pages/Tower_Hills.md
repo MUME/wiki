@@ -12,7 +12,7 @@ in the area. As a relatively safe region with several low
 destination for new players to [pray](./Pray.md) to. New
 characters praying to Tower Hills will be
 granted [citizenship](./Citizen.md) for a location fitting their
-[race](./Race.md) ([Grey Havens](./Grey_Havens.md) for
+[race](../races.md) ([Grey Havens](./Grey_Havens.md) for
 [elves](./Elf.md), [Fornost](./Fornost.md) for
 humans, etc).
 

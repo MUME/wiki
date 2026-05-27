@@ -10,7 +10,7 @@ The origin of **hobbits** is uncertain, though it's known that they
 existed long before coming to their current main home in the
 [Shire](./Shire.md). Hobbits are a small folk, being about half
 the size of a [man](./Man.md). They fear other
-[races](./Race.md), treating them with superstition. However, they
+[races](../races.md), treating them with superstition. However, they
 are a very-strong willed people, who when forced to fight can do so with
 vigour. It's recorded how the Shire Hobbits managed to defend their home
 from an [Orcish](./Orc.md) attack many years ago. There are only
@@ -44,14 +44,19 @@ Hills](./Tower_Hills.md), [Fornost](./Fornost.md), or
 
 #### Harfoot
 The most common and typical breed of Hobbit. They are shorter and smaller than other breeds, with brown skin.
-- **Bonuses:** Exceptional at **scouting** without being noticed. Their small size gives them an increased chance to avoid being **bashed**. They can **escape** combat faster and suffer a reduced penalty when escaping from multiple opponents.
+- **Scouting:** Exceptional at scouting without being noticed.
+- **Evasion:** Small size gives them an increased chance to avoid being **bashed**.
+- **Escape:** Can escape combat faster and suffer a reduced penalty when escaping from multiple opponents.
 
 #### Stoor
 The heftiest of Hobbits and the only breed that can grow facial hair. They prefer to dwell near marshes and rivers.
-- **Bonuses:** Natural affinity for **swimming** and **endurance**. Their feet are especially leathery, making them more resilient to physical damage (high absorption).
+- **Survival:** Natural affinity for **swimming** and **endurance**.
+- **Resilience:** Leathery feet make them more resilient to physical damage (high absorption).
 
 #### Fallohide
 Taller and slimmer than other Hobbits, with a more adventurous spirit and a fair complexion.
-- **Bonuses:** They and their followers always receive the full amount of **travel points**. They are well-versed in herbs and **herblores**, with a proficiency bonus for mixing potions equal to two **kit** upgrades. When smoking **pipe-weed**, they never have a negative experience and have a higher chance of a gratifying result.
+- **Travel:** Always receive the full amount of **travel points** (for themselves and followers).
+- **Herblore:** High proficiency in mixing potions (equal to two **kit** upgrades).
+- **Pipe-weed:** Never have a negative smoking experience; higher chance of a gratifying result.
 
 <!--@include: ../includes/ClassRace.md-->

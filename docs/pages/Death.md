@@ -20,7 +20,7 @@ your equipment from your
 [corpse](./Corpse.md). However, whatever killed you may kill you
 again if you are not cautious, and other players may also take your
 items from the corpse. If you are below level 6 and of a good
-[race](./Race.md), you are entitled to a new [newbie
+[race](../races.md), you are entitled to a new [newbie
 kit](/guides) every time you die.
 
 The kind of death a character suffers (mobdeath, pk, other) depends
