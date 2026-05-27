@@ -34,26 +34,21 @@ are allied with [orcs](./Orc.md) and [trolls](./Troll.md)
 who directly or indirectly serve the will of
 [Sauron](./Sauron.md).
 
-BN's have a number of penalties:
+BNs have a number of unique features that distinguish them from other Men.
 
-- They can't become immortal.
-- They generally have worse stats than other [men](./Man.md).
-- They have no cities in which to [rent](./Rent.md). However, they
-  can [camp](./Camp.md) outside and often do not pay rent.
-- They must wander in search of those
-  [guildmasters](./Guildmasters.md) of theirs who have made the
-  trip to Eriador. No [warrior](./Warrior.md) guildmasters have
-  ever been found, so their [weapon](./Weapon.md)
-  [skills](./Skill.md) are limited.
-- When they die they return to a secret place and
-  [pray](./Pray.md) for a new life. Where they find themselves
-  afterwards, only the [Ainur](./Ainur.md) know.
-- They can suffer from [depression](./Depression.md).
-- A BN will see free peoples by name or race only eg. \*an Elf\*. They
-  can however see and group both orcs and trolls, thus proving to be
-  valuable aides.
-- BNs are ineffective vs. [Lightning Bolt](./Lightning_Bolt.md)
-  (they take extra damage).
+### Bonuses
+- **Necromancer's Favor:** Increased **mana regeneration** and a decreased chance to **backfire** spells when under magical **darkness**.
+- **Venom Mastery:** Carried vials of **poison** and envenomed weapons last twice as long. They mix herblores that produce poison or antidotes with a proficiency bonus equal to two **kit** upgrades.
+- **Fell Beasts:** These dark creatures will carry Black Númenóreans further than anyone else.
+- **Allies of Shadow:** They can see and group both Orcs and Trolls, acting as valuable leaders and aides to the Forces of the Shadow.
+
+### Penalties
+- **Mortal:** They cannot become immortal.
+- **Wanderers:** No cities for [rent](./Rent.md). They must **camp** outside or in secret places.
+- **Limited Training:** No warrior guildmasters are found in Eriador, limiting their weapon skills. They must wander to find their other guildmasters.
+- **Spiritual Ailments:** They can suffer from [depression](./Depression.md), which reduces willpower and mana.
+- **Vision:** They see Free Peoples by name or race only (e.g., *an Elf*).
+- **Vulnerability:** They take extra damage from [Lightning Bolt](./Lightning_Bolt.md).
 
 ### Opinion
 

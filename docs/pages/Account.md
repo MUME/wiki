@@ -14,7 +14,7 @@ You can see your account menu when logging into your account and typing
 that list of your characters you will also see if one of your characters
 has unread [mails](./Mail.md).
 
-You can also sort the characters by: side, [race](./Race.md),
+You can also sort the characters by: side, [race](../races.md),
 [level](./Level.md), alphabetic, or logon. Just type "account
 &lt;field&gt;" to do so.
 

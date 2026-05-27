@@ -32,7 +32,7 @@ PB into DB, which is of arguable benefit in such small amounts, but a
 benefit none the less because you will end up with slightly more
 defence. Dwarves are said to gain an even greater
 boost to OB when in berserk mood, compared to other
-[races](./Race.md), although the actual benefits of this are very
+[races](../races.md), although the actual benefits of this are very
 limited.
 
 <!--@include: ../includes/Items.md-->

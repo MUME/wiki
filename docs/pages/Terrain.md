@@ -15,7 +15,7 @@ Brush . - Field ~ - Water = - Tunnel f - Forest W - Rapids O - Cavern
 At the moment, the symbols used in 'map' and 'map global' are different,
 due to historical reasons...
 
-Different [races](./Race.md) find it easier or harder to move in
+Different [races](../races.md) find it easier or harder to move in
 different terrains. The 'easier' and 'harder' below refer to the Human
 norm. \| Field Forest Hill Swamp Mountain
 -------+---------------------------------------- Elves \| . easier . .

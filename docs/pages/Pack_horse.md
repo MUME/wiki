@@ -8,7 +8,7 @@ tags:
 [rideable](/pages/Ride) mobs, found in various
 places around [Arda](./Arda.md). Pack horses are probably the most
 often used [mount](./Mount.md) for the larger
-[races](./Race.md) among the Free People, due to being commonly
+[races](../races.md) among the Free People, due to being commonly
 available, stronger than mules or
 ponies, and more reliable than
 [horses](./Horse.md).

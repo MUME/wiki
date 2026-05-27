@@ -100,7 +100,7 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 
 ## Factions & History
 
-- [Races](./pages/Race.md) — The various peoples inhabiting Middle-earth.
+- [Races](./races.md) — The various peoples inhabiting Middle-earth.
 - [Dunlendings](./pages/Dunlendings.md) · <a name="haradrim"></a>Haradrim · <a name="easterlings"></a>Easterlings
 - Tolkien — The literary foundation of MUME.
 

@@ -9,7 +9,7 @@ aliases: ["Strength"]
 [Strength Spell.*
 
 **Statistics** are a set of numbers that describes your character.
-Statistics may depend on a character's level, [race](./Race.md),
+Statistics may depend on a character's level, [race](../races.md),
 [skills](./Skill.md) practiced, age, and other factors.
 
 Most statistics depend on a character's **base abilities**:
@@ -26,25 +26,33 @@ Most statistics depend on a character's **base abilities**:
 
 ## Racial Stats
 
-Different races have different effects on their basic statistics, as you
-can see in the table below. STR CON DEX PER INT WIS WIL AGE
-------------------------------------------------------- Man -- -- -- --
--- -- -- Dúnadan 1.5 Other 1.0 Elf -1 -1 +1 +1 +1 -- -1 Noldo 3.5 Sinda
-3.0 Silvan 2.5 Half-Elf -1 -- -- -- -- +1 -- 2.0 Dwarf +1 +1 -1 -1 -- -1
-+1 2.0 Hobbit -2 +1 +1 -- -1 -- +1 1.5
-------------------------------------------------------- Bear +4 +2 +3 +2
--4 -2 -4 1.0 ------------------------------------------------------- Orc
-(\*) +2 +2 -- -- -3 -2 -2 2.0 Troll +7 +4 -3 -2 -3 -3 -3 2.0 Númenórean
--- -- -- -- -- -1 -2 1.5
-------------------------------------------------------- (\*) Both
-Tarkhnarb and Zaugurz
+Different races have different effects on their basic statistics, as shown in the table below.
+
+| Race | STR | INT | WIS | DEX | CON | WIL | PER | Age |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Man** | — | — | — | — | — | — | — | |
+|  *Dúnadan* | | | | | | | | 1.5 |
+|  *Other* | | | | | | | | 1.0 |
+| **Elf** | -1 | +1 | — | +1 | -1 | -1 | +1 | |
+|  *Noldo* | | | | | | | | 3.5 |
+|  *Sinda* | | | | | | | | 3.0 |
+|  *Silvan* | | | | | | | | 2.5 |
+| **Half-Elf** | -1 | — | +1 | — | — | — | — | 2.0 |
+| **Dwarf** | +1 | — | -1 | -1 | +1 | +1 | -1 | 2.0 |
+| **Hobbit** | -2 | -1 | — | +1 | +1 | +1 | — | 1.5 |
+| **Bear** | +4 | -4 | -2 | +3 | +2 | -4 | +2 | 1.0 |
+| **Orc** (\*) | +2 | -3 | -2 | — | +2 | -2 | — | 2.0 |
+| **Troll** | +7 | -3 | -3 | -3 | +4 | -3 | -2 | 2.0 |
+| **Black Númenórean** | — | — | -1 | — | — | -2 | — | 1.5 |
+
+(\*) Tarkhnarb, Morruhk, and Zaugurz.
 
 Other than these, there are effects on height and weight and a variety
 of other areas.
 
 ## See also
 
-- [Race](./Race.md), [Age](./Age.md)
+- [Race](../races.md), [Age](./Age.md)
 
 ## Guides
 

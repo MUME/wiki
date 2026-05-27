@@ -53,7 +53,7 @@ change is slow (it should take about one RL month to see some effects)
 and it is impossible to improve or worsen your stats too far from their
 starting point. The order in which you improve or neglect your stats is
 irrelevant. You cannot train stats beyond the limits of your
-[race](./Race.md).
+[race](../races.md).
 
 The 'train status' command shows your current choices.
 

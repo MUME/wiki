@@ -17,15 +17,13 @@ live in the [Anduin Vale](./Anduin_Vale.md), at the foot of the
 ## Beornings in MUME
 
 In [MUME](./MUME.md), Beornings are very similar to other white
-side [races](./Race.md) of men, except for their ability to
+side [races](../races.md) of men, except for their ability to
 *metamorph* into bears.
 
 At higher levels, Beornings will preferably fight in their bear form,
 unarmed, and with little need for equipment.
 
-Beornings have a bonus on the [wilderness](./Wilderness.md) skill
-(+25% without any pracs) and they are the only race which can [start the
-game](./Pray.md) in the Andiun Vale.
+Beornings start the game with a bonus in the **Wilderness** skill. This bonus does not make practicing wilderness less effective. They are the only race which can [start the game](./Pray.md) in the Anduin Vale.
 
 ### Metamorph
 
@@ -45,32 +43,19 @@ moon) bears can metamorph as far as [Bree](./Bree.md) or
 [Tharbad](./Tharbad.md), but more realistically the range is
 [Rivendell](./Rivendell.md), [Moria](./Moria.md),
 [Fangorn](./Fangorn.md), and for lower levels limited to the
-Anduin Value.
+ Anduin Vale.
 
-Bears automatically return to human form after some time (which depends
-on the same factors as above). A bear can try to "return" to human form
-before the time limit expires; failed attempts can cause fatigue.
+Bears automatically return to human form after some time (which depends on the same factors as above). A bear can try to "return" to human form before the time limit expires; failed attempts can cause fatigue.
 
-While in bear form, Beornings have increased strength and other
-"physical" stats:
-
+### Bear Form Features
+- **Stat Boosts:** Massive increase to physical power at the cost of mental faculties.
 | STR | CON | DEX | PER | INT | WIS | WIL |
-|-----|-----|-----|-----|-----|-----|-----|
-| +4  | +2  | +3  | +2  | -4  | -2  | -4  |
-
-This makes the maximum strength a near rival for that of
-[Trolls](./Troll.md). Also, like trolls, bears do not have
-[mana](./Mana.md), and are incapable of using weapons or spells.
-Many skills have no effect on the character in bear form. They use their
-paws and claws to fight, and their bulk to [bash](./Bash.md).
-
-Bears have a special [forage](https://mume.org/help/forage) command
-which will provide food and water from the current room.
-
-They also get OB bonuses for being in the same room with other friendly
-bears (mobs or players): 1 bear +3ob, 2 bears +5ob, 3+ bear +6ob. This
-however only applies for other bears that are either higher level than
-the player's character and/or which are legend level.
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| +4 | +2 | +3 | +2 | -4 | -2 | -4 |
+- **Combat:** Vicious bare-paw damage and powerful **bashes**. Reduced **parry** ability due to lack of shields.
+- **Group Strength:** Empowered by the presence of other friendly bears (+3 [OB](./Offensive_bonus.md) for 1 bear, +5 for 2, +6 for 3+). Applies to bears of higher or legend level.
+- **Survival:** Access to the **forage** command to find food and water in the wild.
+- **Restrictions:** Cannot cast spells, use weapons, or wear most equipment.
 
 ## External Information
 

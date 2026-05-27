@@ -8,7 +8,7 @@ tags:
 Syntax: **suggest** (a) **name** (for) (a) &lt;gender&gt; &lt;race&gt;
 
 This command accesses [MUME](./MUME.md)'s name generator and
-suggests a name for the specified sex/[race](./Race.md).
+suggests a name for the specified sex/[race](../races.md).
 
 Example:
 
