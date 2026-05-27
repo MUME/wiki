@@ -28,6 +28,6 @@ immortal Elf; he founded [Rivendell](./Rivendell.md).
 
 Half-elves are more common in MUME. They resemble Humans more so than
 Elves, and like their mortal parentage are quite competent in most
-classes.
+classes. They are not immune to disease.
 
 <!--@include: ../includes/ClassRace.md-->
