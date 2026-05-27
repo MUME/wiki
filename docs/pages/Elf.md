@@ -50,31 +50,23 @@ the [Tower Hills](./Tower_Hills.md), [Bree](./Bree.md),
 
 ![Elf female](/img/Elf_Female_pink.jpg)
 
-The three subraces have their own unique modifiers.
+The three sub-races of Elves have their own unique modifiers and cultural traits.
 
 ### Silvan
-
-- Base 10% [wilderness](./Wilderness.md) skill
-- Base 10% [missile](./Weapon.md#missile-weapons) skill
-- Bonus for [track](./Track.md) when tracking in forests
-- 10[PB](./Parry.md) when wielding a ranged weapon
-- [Movement point](./Movement_points.md) cost reduction in forests
-- Third slowest aging of all races (2.5 times slower than common men)
+Wood Elves who dwell in [Lothlórien](./Lothlórien.md) and Mirkwood. Secretive and dangerous archers.
+- **Bonuses:** Natural affinity for **missile weapons** and surviving in the **wilderness**. They **track** significantly faster in forests and move through them as if on a trail (unless gripped by the Shadow). They gain a bonus to **parry** when wielding ranged weapons.
+- **Aging:** 2.5 times slower than common men.
 
 ### Sinda
-
-- Can repair most armour to flawless on their own with the use of a
-  cross-pein hammer.
-- Can un-equip shields in combat
-- Base 10% [leadership](./Leadership.md) skill
-- Increased maximum distance when using the [Great
-  Eagles](./Great_Eagle.md).
-- Second slowest aging of all races (3 times slower than common men)
+The "Grey Elves," descendants of the Teleri. Found in the [Grey Havens](./Grey_Havens.md), Rivendell, and Mirkwood.
+- **Bonuses:** Can **repair** most armour to flawless using a cross-pein hammer. They can un-equip shields during **combat**. They have a natural affinity for **leadership** and the **Great Eagles** will carry them further than anyone else.
+- **Aging:** 3.0 times slower than common men.
 
 ### Noldo
-
-- Free passage through statues at Ost-in-Edhil.
-- Slowest aging of all races (3.5 times slower than common men)
+The greatest of Elves in lore and craft, who once dwelt in the Undying Lands.
+- **Bonuses:** Natural sensitivity to magic (passive **Detect Magic**). They have access to a unique quest to add a minor gem socket to a **focus**.
+- **Special:** Free passage through the statues at Ost-in-Edhil.
+- **Aging:** 3.5 times slower than common men.
 
 See also: [Elven names](./Elven_names.md),
 [Elvish](./Elvish.md)

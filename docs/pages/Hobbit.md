@@ -40,32 +40,18 @@ Hobbits can start the game in the [Shire](./Shire.md), the [Tower
 Hills](./Tower_Hills.md), [Fornost](./Fornost.md), or
 [Bree](./Bree.md).
 
-### Subraces
-
-#### Stoor
-
-In the time of MUME Stoor Hobbits main settlement areas are the Shire's
-Eastfarthing and Buckland close to the Brandywine River. They are
-particularly stout and adapt at living close to bodies of water. In MUME
-this subrace has the following modifications:
-
-- Base [Swim](./Swim.md) Skill: 25%
-- Base [Endurance](./Endurance.md) Skill: 10%
-- Feet have a higher absorption value (unknown how much, like fine
-  chain?, fine metal?)
-
-#### Fallohid
-
-- When led by a Fallohid Hobbit, others get the full [travel
-  points](/pages/Newbie_Guide_Travel_Points) amount.
-- When a Fallohid Hobbit follows someone, they still get the full amount
-  of Travel points.
-- For mixing herblores they get a bonus for both
-  success and possiblty to create 2 portions (allegedly equals +2
-  [kit](./Herbal_kit.md) upgrades)
-- Smoking pipe-weed will never fail and chance for
-  higher mana gain is increased.
+### Sub-races
 
 #### Harfoot
+The most common and typical breed of Hobbit. They are shorter and smaller than other breeds, with brown skin.
+- **Bonuses:** Exceptional at **scouting** without being noticed. Their small size gives them an increased chance to avoid being **bashed**. They can **escape** combat faster and suffer a reduced penalty when escaping from multiple opponents.
+
+#### Stoor
+The heftiest of Hobbits and the only breed that can grow facial hair. They prefer to dwell near marshes and rivers.
+- **Bonuses:** Natural affinity for **swimming** and **endurance**. Their feet are especially leathery, making them more resilient to physical damage (high absorption).
+
+#### Fallohide
+Taller and slimmer than other Hobbits, with a more adventurous spirit and a fair complexion.
+- **Bonuses:** They and their followers always receive the full amount of **travel points**. They are well-versed in herbs and **herblores**, with a proficiency bonus for mixing potions equal to two **kit** upgrades. When smoking **pipe-weed**, they never have a negative experience and have a higher chance of a gratifying result.
 
 <!--@include: ../includes/ClassRace.md-->

@@ -27,6 +27,7 @@ These are the primary "guilds" where you can train. Most players "multi-class" b
 
 Building a successful character requires understanding the underlying mechanics.
 
+- [Playable Races](./races.md) — Start by choosing the race that defines your potential.
 - [Guide to Advanced Statistics](./pages/Guide_to_advanced_character_statistics.md) — How strength, dexterity, and weight affect your performance.
 - [Practicing](./pages/Practice.md) — How to spend your limited practice points effectively.
 - [Spell List](./pages/Spell_list.md) — Full list of magical abilities and their requirements.

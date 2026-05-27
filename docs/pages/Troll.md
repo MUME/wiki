@@ -53,47 +53,18 @@ themselves as a great troll. It is certainly better than Lord of Trolls.
 Since they are not true Olog-Hai, they suffer
 [Sundeath](./Sundeath.md) just like other trolls.
 
-## Subraces
+## Sub-races
 
-The three subraces have the following modifiers:
+Player-controlled Trolls can be of three distinct strains, each with unique combat bonuses.
 
-- MUME Hill Trolls\1
+### Hill Troll
+- **Bonuses:** They deal extra damage to stunned opponents when wielding one-handed or two-handed **concussion weapons**. They get a higher offensive bonus when in an aggressive or berserk **mood**. They have the unique ability to **burrow** under certain conditions.
 
-------------------------------------------------------------------------
+### Cave Troll
+- **Bonuses:** Slightly increased hit point regeneration, which is further enhanced when in a cave or tunnel. Their massive **bashes** can cause victims to hurtle and collide with nearby targets. This "hurtle" effect is more likely if the Troll is dextrous and has mastered their weapon class.
 
-- MUME's Hill Trolls have a number of bonuses. These include:
-
-* They deal extra damage to stunned opponents when wielding a one-handed or two-handed concussion weapon.
-
-* They enjoy storming into battle and get a higher offensive bonus when aggressive or berserk.
-
-`* They can burrow under certain conditions.`
-
-- MUME Cave Trolls \[1
-
-------------------------------------------------------------------------
-
-MUME's Cave Trolls have a number of bonuses. These include:
-
-* They have slightly increased hit point regeneration. This bonus is increased when in a cave or tunnel.
-
-* They have huge bashes which may cause the victim to hurtle and collide with a nearby engaged target.
-
-`* Cave Trolls are more likely to cause their bashed victims to hurtle into other targets if they are dextrous and have mastered their weapon class.`
-
-- MUME Mountain Trolls \[1
-
-------------------------------------------------------------------------
-
-MUME's Mountain Trolls have a number of bonuses. These include:
-
-* They will sometimes hit nearby targets with wild attacks when engaged in combat.
-
-* They are highly efficient with battle rams, moving them with increased speed and reduced move cost.
-
-* They can shake trees, push boulders, drag corpses, use slow doors, and dig more swiftly and effortlessly.
-
-`* Mountain Trolls are more likely to use wild attacks against other targets if they are dextrous and have mastered their weapon class. They are able to do so even when blinded!`
+### Mountain Troll
+- **Bonuses:** They sometimes hit nearby targets with wild attacks when engaged in combat (even when blinded). They are highly efficient with battle rams. They can **shake trees**, push boulders, drag corpses, and dig more swiftly and effortlessly than others.
 
 ## Opinion
 
