@@ -20,7 +20,8 @@ herbalists and by some other skilled people.
 # Poisons
 
 In order to poison an opponent you need the poison vial and the
-[envenom](./Envenom.md) skill.
+[envenom](./Envenom.md) skill. Black Númenóreans receive a bonus
+when using herblore to create antidotes.
 
 ## Arachnia
 

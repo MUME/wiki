@@ -13,8 +13,8 @@ This command will compare your [level](./Level.md) with the target
 estimate, which is by no means exact. Consider does not take [hit
 points](./Hit_points.md)/special attacks/damage into account.
 
-If used on an object, you will be told an estimate of its weight, and
-possibly some other information.
+If used on an object, you will be told an estimate of its weight, its
+material, and possibly some other information.
 
 Example:
 
@@ -38,7 +38,8 @@ You would need a lot of luck and
     great equipment!                     Your level plus three
 Do you feel lucky, punk?                 "    "     "    four or five
 Are you mad?!                            "    "     "    six or seven
-  You ARE mad!!                            "    "     "    eight or more
+You ARE mad!!                            "    "     "    eight to ten
+Catastrophic!                            "    "     "    eleven or more
 ```
 
 See also: [Hit](./Hit.md), [Shoot](./Shoot.md),

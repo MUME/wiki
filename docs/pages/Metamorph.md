@@ -9,15 +9,13 @@ Usage: **metamorph** &lt;animal&gt;
 
 **return** \[to return to real form
 
-Upon becoming a [hero](./Hero.md) ([level](./Level.md) 21+)
-characters gain the ability to choose to take the
-Istar Quest, and seek immortality. The first step of
-this involves the apprentice levels known as metamorph levels. At the
-levels of shapechanger (21) and metamorph (22), the character can only
-gain [experience](./Experience.md) while in the form of an animal.
-The animals which the player may become are dependent on both his level
-and his [alignment](./Alignment.md). For example, a good player of
-level 22 can metamorph into an eagle.
+In the past, becoming a [hero](./Hero.md) ([level](./Level.md) 21+)
+allowed characters to take the Istar Quest, which involved apprentice
+levels known as metamorph levels. However, the metamorph command has
+been removed from the Istar Quest to better align the quest with its
+intent of helping new players.
+
+[Beornings](./Beorning.md) can still metamorph into a Bear.
 
 Each meta form has unique advantages and disadvantages over the others,
 and the meta form does not retain any of the [skills](./Skill.md)
@@ -31,8 +29,6 @@ saved, you must return to your normal form. However, any
 [gold](./Gold.md) or equipment carried by
 the meta form will be lost upon return. Metas have no autowimpy mode,
 but can [flee](./Flee.md) manually if they choose.
-
-[Beornings](./Beorning.md) can also metamorph into a Bear.
 
 See Also: [Legend](./Legend.md), [Istari](./Istari.md),
 Istar Quest

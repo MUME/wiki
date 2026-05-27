@@ -27,23 +27,21 @@ new players of simple rules, and to teach them the basics of gameplay.
 
 ## The Istar Quest
 
-Any player at level 21 or higher, and with a sufficiently high
+Any player at level 20 or higher, and with a sufficiently high
 [alignment](./Alignment.md), may opt to take the Istar Quest by
 sailing west to Valinor, and visiting the Istari Sanctuary, where they
 may listen to the Ainulindalë. If they are successful, they will be
-returned to level 21 and must spend the next two levels of their quest
-in the Meta levels (see [Metamorph](./Metamorph.md)). Starting at
-level 23, they can progress as an Istar in humanoid form, whose primary
-task is to assist new players, or continue as a metamorph. At level 26
-or higher, a player may ascend to immortality by again sailing west to
-Valinor and listening to the Ainulindalë once again.
+reset to level 21. Their primary role from this point forward is to
+assist new players. At level 26 or higher, a player may ascend to
+immortality by again sailing west to Valinor and listening to the
+Ainulindalë once again.
 
-Once a player undertakes the quest he has no more than 15 MUME years (90
-real life days) in which to complete it. A player on the Istar Quest has
-certain advantages over normal characters - for example, they need no
-longer consume food or water, and their spells become less expensive.
-They also gain the ability to change into animal form (see
-[Metamorph](./Metamorph.md)). As such, and since he is in effect
+Once a player undertakes the quest, he has no more than 90 real-life days
+in which to complete it. A player on the Istar Quest has certain
+advantages over normal characters - for example, they need no longer
+consume food or water, their spells become less expensive, and they
+gain citizenship in all Free Folk towns. They are also magically versed
+in all [languages](./Language.md). As such, and since he is in effect
 an apprentice immortal, during the quest, the player is bound by far
 stricter rules than normal characters.
 
@@ -92,15 +90,13 @@ metamorph and istar.
 
 ### During the Quest
 
-- During level 21/22 you gain experience and travel points only in meta
-  form
-- During level 23/24/25 you can still do as above. In addition you can
-  also gain XP/TP in normal form, but only indirectly as a percentage of
-  XP/TP gained by low level player who are members of your group.
-- To see the options that you can meta into, just type the 'meta'
-  command. To return into your normal form, use the 'return' command.
-- The XP/TP that you are gaining in meta is accumulated and only
-  'delivered' to your character once you return.
+- An Istar only gains [experience](./Experience.md) when leading a
+  [group](./Group.md) of players in non-Minion lands.
+- The more they lead, the more experience they receive.
+- They gain more experience from leading [novices](./Newbie_Guide_Leveling_1_to_12.md)
+  and champions than [heroes](./Hero.md). Leading [legends](./Legend.md)
+  provides very little experience.
+- You can monitor your remaining time using the `time` command.
 - You can only gain XP in good or neutral zones.
 
 ### Completing the Quest
@@ -112,28 +108,6 @@ metamorph and istar.
 
 
 ::: details Spoiler
-- The meta form can use none of your class specific skills. XP will be
-  gained by simply hitting mobs.
-- You cannot swim or climb in meta form. You can, however, enter open
-  water if you are carrying a boat.
-- Any equipment you are carrying in normal form, will not be available
-  any longer in meta form, until you return
-- Any equipment you pick up in meta form will be dropped (even coins)
-  when you return. You can then pick it up.
-- You cannot communicate while in meta, i.e. you will not see narrates,
-  nor can you send or receive tells.
-- Many other commands (like 'info') will not work.
-- Your meta form does not benefit from spells like armor, bless, or
-  shield. However, spell effects will continue to tick down in the
-  background, and if they did not yet expire when you return to normal
-  form, they will be active again.
-- Specific meta forms always have identical stats regardless what stats
-  you chose for your character.
-- Conversion between meta and normal form may fail. It seems to be most
-  successful when at maximum movement points.
-- When converting between meta and normal form, your amount of HP/MP
-  changes and the current points are rescaled so that the percentage of
-  maximum before and after the conversion stays the same.
 - When you initiate the quest you are receiving an Istari wand which is
   an improved version of a focused staff.
 - If you lose the wand (for example because it is looted in pk), you

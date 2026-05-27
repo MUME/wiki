@@ -16,6 +16,8 @@ Things you should know about experience points:
 
 * When you fight a monster within a group, the experience is split among the members of the group who are present. Likewise, the knowledge gained is split proportionately.
 
+* When you defeat an enemy player, the experience gained is shared among all your enemies in the room.
+
 We strongly discourage the killing of other players of the same side if
 you are not an Orc, but the choice is yours.
 

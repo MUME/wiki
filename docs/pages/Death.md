@@ -23,7 +23,7 @@ items from the corpse. If you are below level 6 and of a good
 [race](./Race.md), you are entitled to a new [newbie
 kit](/guides) every time you die.
 
-The kind of death a character suffers (mobdeath, pk, other) now depends
+The kind of death a character suffers (mobdeath, pk, other) depends
 not only on the immediate cause of the death, but also on the recent
 encounters of the dying character. Moreover, in case of pk, the code
 takes into consideration recently met friends and foes - not only those
@@ -31,13 +31,14 @@ currently in the [room](./Mechanics.md#room).
 
 More precisely:
 
-- You suffer pk-death if you die when \*an Enemy\* is present, or soon
-  after you encountered \*enemies\*, or soon after you received massive
-  damage from a PC; no matter what the actual cause of death is. This
-  means, if you drown, fall, or get whacked by a mob
-  while escaping \*an Enemy\*, it is considered pk death. "Soon" and
-  "while" depend on the specific conditions: on how many enemies you
-  met, on how badly they wounded you, and so on.
+- You suffer pk-death if enemies have contributed significantly to your
+  damage, or if you die soon after encountering \*enemies\* or receiving
+  massive damage from a PC; no matter what the actual cause of death is.
+  This means if you drown, fall, or are finished by a mob while
+  escaping \*an Enemy\*, it is considered a pk death. "Soon" and
+  "while" depend on the specific conditions: the amount of damage
+  dealt by enemies versus mobs, how many enemies you met, how badly
+  they wounded you, and so on.
 
 <!-- -->
 

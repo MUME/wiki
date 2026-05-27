@@ -27,6 +27,8 @@ gems of a particular class can be embedded. For instance, a staff can
 only hold 1 usable gem. Similarly, an enchanted staff can only hold 1
 major gem but adding a focus increases this to 2 major gems.
 
+You cannot embed the same type of gem twice in the same item.
+
 ## Major Gems
 
 - corberyl - spell attack

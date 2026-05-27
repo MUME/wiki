@@ -30,6 +30,8 @@ The **missile weapons** [skill](./Skill.md) is a [thief](./Thief.md) skill that 
 - Keep ammunition in a [container](./Container.md) to save inventory slots; you can load from a container directly.
 - Ranged attacks work at range — you can shoot mobs before they close to melee distance.
 
+Missile weapons deal additional essence damage when used against creatures of the opposing side.
+
 ## See also
 
 - [Ranged weapon](./Ranged_weapon.md) — Full list of ranged weapons.

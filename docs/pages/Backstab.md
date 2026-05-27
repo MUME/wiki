@@ -29,6 +29,9 @@ with a higher chance of success, even if you are not hiding or sneaking.
 If you try and backstab someone who can see you, you will get a nasty
 surprise.
 
+Highly skilled backstabbers may prevent their victims from letting out a
+dying cry if the backstab is fatal.
+
 Example:
 
 `> backstab ruffian`
