@@ -32,9 +32,6 @@ surprise.
 Highly skilled backstabbers may prevent their victims from letting out a
 dying cry if the backstab is fatal.
 
-Furthermore, a skilled thief can backstab someone who is already in
-combat, provided the thief is not engaged with the target.
-
 Example:
 
 `> backstab ruffian`
