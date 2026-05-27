@@ -24,10 +24,10 @@ items from the corpse. If you are below level 6 and of a good
 kit](/guides) every time you die.
 
 The kind of death a character suffers (mobdeath, pk, other) depends
-not only on the immediate cause of the death, but also on the weight of
-each source of damage received during the encounter. The code considers
-recently met friends and foes—not only those currently in the
-[room](./room.md).
+not only on the immediate cause of the death, but also on the recent
+encounters of the dying character. Moreover, in case of pk, the code
+takes into consideration recently met friends and foes - not only those
+currently in the [room](./Mechanics.md#room).
 
 More precisely:
 

@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 With the **dictionary** command, you can get a short description of
-names and concepts from [Tolkien](./Tolkien.md)'s works.
+names and concepts from [Tolkien](./External_links.md#tolkien)'s works.
 
 Example:
 

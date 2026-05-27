@@ -38,7 +38,7 @@ and they cannot be wielded together with anything more than a buckler.
 ## Artefacts
 
 - Axe of Durin
-- [Great black scimitar](./Weapon.md#Great_Black_Scimitar)
+- [Great black scimitar](./Weapon.md#two-handed-weapons)
 - Huge flaming sword
 - Black runed sceptre
 

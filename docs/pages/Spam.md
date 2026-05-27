@@ -13,7 +13,7 @@ encourage everyone to use this 'superbrief' mode (so type 'spam' once).
 
 What it does:
 
-- Won't show [room](./room.md) descriptions on
+- Won't show [room](./Mechanics.md#room) descriptions on
   '[look](./Look.md)'. They are still available typing the command
   '[examine](./Examine.md)'.
 - Won't show [ridden](/pages/Ride) mounts in a room (since they are

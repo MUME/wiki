@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 With **acts**, you can tell others what you are up to at the moment.
-Usually when people see you in the [room](./room.md) they see:
+Usually when people see you in the [room](./Mechanics.md#room) they see:
 
 ` Gandalf is standing here.`
 

@@ -27,7 +27,7 @@ It weighs about one pound.
 
 A different item with the same name is required for the [Bree
 Weaponsmith](./Bree_Weaponsmith.md)
-[quest](./Quest#Bree_Weaponsmith.md). Its description is as
+[quest](./Quest.md#bree-weaponsmith). Its description is as
 follows:
 
 `> `**`examine dagger`**

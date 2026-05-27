@@ -16,7 +16,7 @@ They settled in Middle-earth mainly in Umbar
 and surrounding coastal regions. After Sauron's downfall at the
 beginning of the [Third Age](./Third_Age.md), the bloodlines of
 these Númenórean descendants mixed with other peoples, especially the
-[Haradrim](./Haradrim.md) over which they had dominion. During the
+[Haradrim](../lore.md#haradrim) over which they had dominion. During the
 first millenia of the age, they proved strong enemies of the Dúnedain of
 Gondor, but were permanently scattered when Umbar
 was taken in TA 933, and when the subsequent siege was broken in TA

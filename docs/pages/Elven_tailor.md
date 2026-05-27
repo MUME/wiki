@@ -5,8 +5,8 @@ tags:
   - Shopkeepers
 ---
 **Elven tailors** tend the tailor's [shops](./Shop.md) in
-[Harlond](./Harlond_Tailor.md) and
-[Forlond](./Forlond_Tailor.md).
+[Harlond](./Grey_Havens.md#harlond) and
+[Forlond](./Grey_Havens.md#forlond).
 
 ```
 An elven tailor is standing here, tidying his selection.

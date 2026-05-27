@@ -26,4 +26,4 @@ It weighs half a pound.
 
 Commonly loads on [animated skeletons](./Animated_skeleton.md) and
 [skeletal warriors](./Skeletal_warrior.md). Ingredient for the
-[Shadows](./Herblore#Shadows.md) herblore.
+[Shadows](./Herblore.md#shadows) herblore.

@@ -5,8 +5,8 @@ tags:
   - Shopkeepers
 ---
 **Bakers** tend to the bakeries in Bree,
-[Fornost](./Fornost_Baker.md) and
-[Tharbad](./Tharbad_Baker.md).
+[Fornost](./Fornost.md) and
+[Tharbad](./Tharbad.md#shops).
 
 ```
 The baker looks at you calmly, wiping flour from his face with one hand.

@@ -6,7 +6,7 @@ tags:
 ---
 **Ilyne** teaches [ranger](./General.md)
 [skills](./Skill.md) at the **Traveller's Hut** in
-[Ingrove](./Anduin_Vale#Ingrove.md).
+[Ingrove](./Anduin_Vale.md#ingrove).
 
 ```
 A well-tanned woman watches you with caution.

@@ -35,7 +35,7 @@ private mail to the author. Example:
  rep q b m                     reply quoted to last message by mail
 ```
 
-Obviously, you must be in the same [room](./room.md) as the board
+Obviously, you must be in the same [room](./Mechanics.md#room) as the board
 you wish to write on for this command to work.
 
 See also: [Boards](./Boards.md), [Mark](./Mark.md),

@@ -8,9 +8,9 @@ tags:
 He lives in Wellinghall, located in a secluded glade at the western edge
 of [Fangorn](./Fangorn.md), near the source of the Entwash.
 Bringing Harle to meet Treebeard is the objective of
-the "[Harle and the Entwives](./Quest#Harle_and_the_Entwives.md)"
+the "[Harle and the Entwives](./Quest.md#harle-and-the-entwives)"
 quest. Treebeard will also reward anyone who can find and kill the
-creature that is [poisoning](./Quest#Poisoned_Forest.md) the
+creature that is [poisoning](./Quest.md#poisoned-forest) the
 forest.
 
 ```
@@ -30,5 +30,5 @@ seven toes each and seem to root well in the ground.
 Treebeard found Merry and Pippin when they were lost in Fangorn. When he
 learned from them that Saruman was cutting down
 the forests, he led the Ents in an assault on
-[Isengard](./Isengard.md), destroying and flooding most of the
+[Isengard](../lore.md#isengard), destroying and flooding most of the
 fortress aside from the central tower, where Saruman was trapped.

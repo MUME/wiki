@@ -6,7 +6,7 @@ description: 'Cast is a delayed command for issuing a magical'
 Cast is a [delayed](./Delayed.md) command for issuing a magical
 [spell](./Spell.md).
 
-**cast \[\&lt;[effort](./Effort.md)\&gt; 'spell name' \&lt;target&gt;**
+**cast \[\&lt;[effort](./Mechanics.md#effort)\&gt; 'spell name' \&lt;target&gt;**
 
 Note that the name of the spell must be enclosed by apostrophes (').
 Also, the spell name doesn't need to be typed fully -
@@ -69,7 +69,7 @@ cast reliably with minimal mana and without backfire.
 ## Effort
 
 [Casting](./Cast.md) also takes an optional
-\&lt;[effort](./Effort.md)\&gt; parameter, just before the name of the
+\&lt;[effort](./Mechanics.md#effort)\&gt; parameter, just before the name of the
 spell. You can cast a spell more slowly but with greater effects, or
 quickly but with a higher chance of backfire. The possible efforts are:
 

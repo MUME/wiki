@@ -6,11 +6,11 @@ tags:
   - Locations
 ---
 **Fangorn** is the home of the [Ents](./Ent.md). It is a large
-forested area, located between [Isengard](./Isengard.md) and
+forested area, located between [Isengard](../lore.md#isengard) and
 [Lorién](./Lothlórien.md), and is mainly populated by ents, huorns and
 other [plants](./Plant.md). [Riding](./Ride.md) and
 [scouting](./Scout.md) is not possible in most
-[rooms](./room.md). [Drinking](./Drink.md) from the streams
+[rooms](./Mechanics.md#room). [Drinking](./Items.md#drink) from the streams
 and rivers in Fangorn grants a "refreshment" buff, the exact effects of
 which are not known, though it seems to increase
 [regeneration](./Regeneration.md). Beware when lighting
@@ -20,11 +20,11 @@ and may be angered if they see you using it.
 
 ## Quests
 
-- [An Ent and an axe](./Quest#An_Ent_and_an_axe.md)
-- [Beechbone's bowl](./Quest#Beechbone.27s_bowl.md)
-- [Leaf-Cake](./Quest#Leaf-Cake.md)
-- [Poisoned Forest](./Quest#Poisoned_Forest.md)
-- [Harle and the Entwives](./Quest#Harle_and_the_Entwives.md)
+- [An Ent and an axe](./Quest.md#an-ent-and-an-axe)
+- [Beechbone's bowl](./Quest.md#beechbones-bowl)
+- [Leaf-Cake](./Quest.md#leafcake)
+- [Poisoned Forest](./Quest.md#poisoned-forest)
+- [Harle and the Entwives](./Quest.md#harle-and-the-entwives)
 
 ## Mobiles
 
@@ -32,7 +32,7 @@ and may be angered if they see you using it.
 
 - [Treebeard](./Treebeard.md)
 - [Beechbone the Ent](./Beechbone_the_Ent.md)
-- [Leaflock](./Leaflock.md)
+- [Leaflock](./Fangorn.md#unique-mobiles)
 - [Strange tree](./Strange_tree.md)
 
 ### Ents & huorns
@@ -56,7 +56,7 @@ Many varieties of [Ents](./Ent.md) and huorns inhabit the forest, including:
 - [Clump of roots](./Clump_of_roots.md)
 - [Giant green fungus](./Giant_green_fungus.md)
 - [Mass of vines](./Mass_of_vines.md)
-- [Massive roots](./Massive_roots.md)
+- [Massive roots](./Fangorn.md#plants)
 - [Rooting stems](./Rooting_stems.md)
 - [Tangly shrub](./Tangly_shrub.md)
 - [Thick tangle of vines](./Thick_tangle_of_vines.md)

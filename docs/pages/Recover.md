@@ -15,4 +15,4 @@ You can also 'recover all': this will make you get all visible missiles,
 no matter if they are yours or not.
 
 See also: [Shoot](./Shoot.md), [Archery](./Archery.md),
-[Missile Weapons](./Missile_weapons.md)
+[Missile Weapons](./Weapon.md#missile-weapons)

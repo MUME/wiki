@@ -13,5 +13,5 @@ slow down a lot.
 
 NOTE: Most food will decompose after a certain amount of time.
 
-See Also: [Drink](./Drink.md),
+See Also: [Drink](./Items.md#drink),
 [Regeneration](./Regeneration.md)

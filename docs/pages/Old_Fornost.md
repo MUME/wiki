@@ -35,7 +35,7 @@ spiders](./Huge,_poisonous_spider.md) and
 hallways. While most of the mobs in the area are stationary, be aware
 that some [ghosts](./Ghost.md) and [skeletal
 warriors](./Skeletal_warrior.md) roam the halls. The
-[Kraken](./Super_Mobile#The_Kraken.md) makes its lair in the
+[Kraken](./Super_Mobile.md#the-kraken) makes its lair in the
 flooded cellar.
 
 <!--@include: ../includes/Place.md-->

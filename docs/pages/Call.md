@@ -21,7 +21,7 @@ citizen.
 In some towns the gatekeepers are not particularly scrupulous and may
 allow you to get in or out for a **bribe**. To bribe them, type, for
 example, 'bribe 5 [gold](./Gold.md)' in the gatekeeper's
-[room](./room.md) or on the other side of the gate.
+[room](./Mechanics.md#room) or on the other side of the gate.
 
 Gates may also be found in less civilised parts of
 [Arda](./Arda.md). These will open only if the inhabitants of the

@@ -10,7 +10,7 @@ tags:
 [MUME](./MUME.md). Unlike most other weapon
 [skills](./Skill.md), missile is a [thief](./Thief.md)
 skill. To use a missile weapon (a bow, a
-[crossbow](./Crossbow.md) or a [sling](./Sling.md)):
+[crossbow](./Weapon.md#missile-weapons) or a [sling](./Sling.md)):
 
 1\) Get some [missiles](./Ammunition.md) of the correct type,
 arrows for a bow, bolts for a crossbow, stones for a sling;

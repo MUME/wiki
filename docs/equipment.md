@@ -31,10 +31,10 @@ Full identified stats and mechanics: [**Armour List**](./pages/Armour.md)
 
 ### By Material
 
-- [**Metal Armour**](./pages/Metal_equipment.md) — Highest protection, heavy weight.
-- [**Mail Armour**](./pages/Mail_equipment.md) — Medium protection, moderate weight.
-- [**Leather Armour**](./pages/Leather_equipment.md) — Light weight, preferred by thieves and scouts.
-- [**Cloth**](./pages/Cloth_equipment.md) — Often features magical bonuses for casters.
+- [**Metal Armour**](./pages/Armour.md#metal) — Highest protection, heavy weight. Includes plate, breastplates, and fine/sturdy variants.
+- [**Chain Mail**](./pages/Armour.md#chain) — Low abs percent but high max absorb. Scale mail and white chain mail are notable variants.
+- [**Leather Armour**](./pages/Armour.md#leather) — Light weight, preferred by scouts and thieves. Rigid leather offers more protection than soft leather.
+- [**Cloth**](./pages/Armour.md#cloth) — No physical absorption, but adds dodge bonus. Magical cloth items (white robe, grey tunic) are favoured by spellcasters.
 
 ## Weapons
 

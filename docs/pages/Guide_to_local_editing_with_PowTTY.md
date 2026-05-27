@@ -11,19 +11,13 @@ Download powtty from Elvenrunes and run the program. In the example I
 have already run mmapper2 and loaded a map, but that step is unnecessary
 for using local editing.
 
-<figure>
-!Localediting_1.png
-<figcaption>Image:Localediting_1.png</figcaption>
-</figure>
+![PowTTY running with mmapper2](/img/Localediting_1.png)
 
 **2. Enabling local editing in the client**
 
 Click the "PowTTY" tab and then enable the local editing option.
 
-<figure>
-!Localediting_2.png
-<figcaption>Image:Localediting_2.png</figcaption>
-</figure>
+![Enabling local editing in PowTTY](/img/Localediting_2.png)
 
 **3. Saving the session for future use**
 
@@ -32,20 +26,14 @@ to be directed from Mume towards mmapper2. In the Session tab I then
 enter in a session name to save it under and then click "Save" to save
 it for later use. Finally I click "Open" to run PowTTY.
 
-<figure>
-!Localediting_3.png
-<figcaption>Image:Localediting_3.png</figcaption>
-</figure>
+![Saving the session in PowTTY](/img/Localediting_3.png)
 
 **4. Enabling local editing in the game**
 
 Type "change editor" and verify that it is currently set to mume. If
 not, then type: change editor mume
 
-<figure>
-!Localediting_4.png
-<figcaption>Image:Localediting_4.png</figcaption>
-</figure>
+![Enabling local editing in-game with change editor](/img/Localediting_4.png)
 
 **5. Using notepad to edit files**
 
@@ -55,10 +43,7 @@ notepad. You will be able to change the text file and then click "File",
 "Save" to send it back to mume or just close notepad to cancel the
 current editing session.
 
-<figure>
-!Localediting_5.png
-<figcaption>Image:Localediting_5.png</figcaption>
-</figure>
+![Notepad opening for local editing](/img/Localediting_5.png)
 
 **6. ANSI color**
 

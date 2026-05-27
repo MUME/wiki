@@ -10,7 +10,7 @@ locations around [Arda](./Arda.md). They are incorporeal and
 cannot be [bashed](./Bash.md). The can cast [Lightning
 Bolt](./Lightning_Bolt.md). Most of them load with a common
 [weapon](./Weapon.md), and will also pick up
-[items](./Item.md) from the ground.
+[items](./Items.md#item) from the ground.
 
 ```
 A dark intangible shadow turns to face you.

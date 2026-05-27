@@ -8,7 +8,7 @@ tags:
 The **where** command is really two commands.
 
 Typing 'where' without an argument lists the players potentially visible
-to you in your current zone. (A zone is a 10\*10 [room](./room.md)
+to you in your current zone. (A zone is a 10\*10 [room](./Mechanics.md#room)
 area.) This list will not include players of the opposite side in the
 war ([elves](./Elf.md) will not see where [orcs](./Orc.md)
 are). Those players who are [hidden](./Hide.md) or successfully

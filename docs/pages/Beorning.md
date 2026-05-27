@@ -4,7 +4,9 @@ description: 'Bears, are a race of men who are capable of'
 tags:
   - Playable races
 ---
-!Bear_roar **Beornings**, also known as
+![Bear Roar](/img/Bear_roar.jpg)
+
+**Beornings**, also known as
 **Bears**, are a race of [men](./Man.md) who are capable of
 transforming into huge, powerful bears. The most notable and well-known
 Beorning in Tolkien is Beorn who appears for his

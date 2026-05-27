@@ -23,7 +23,7 @@ round. However, your victim gets a small delay during which he can't
 flee either.
 
 A flee attempt will only succeed if there is a clear exit in the
-[room](./room.md), and even then you may well
+[room](./Mechanics.md#room), and even then you may well
 [panic](./Panic.md) and fail to flee. You cannot choose which way
 you will flee, and fleeing will often result in a temporary feeling of
 panic. When you are in a state of panic you will find that your

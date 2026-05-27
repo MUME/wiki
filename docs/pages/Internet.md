@@ -16,7 +16,7 @@ The Internet Protocol (IP) is the method or protocol by which data is
 sent from one computer to another on the Internet. Each host (computer,
 router etc) on the Internet has at least one IP address that uniquely
 identifies it from all other computers on the Internet. When you send or
-receive data (for example, receiving a long [room](./room.md)
+receive data (for example, receiving a long [room](./Mechanics.md#room)
 description in [MUME](./MUME.md)), the message gets divided into
 little chunks called packets. Each of these packets contains both the
 sender's Internet address and the receiver's address. Any packet is sent

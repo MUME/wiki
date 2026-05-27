@@ -47,8 +47,8 @@ used by [thieves](./Thief.md).
 ## Artifacts
 
 - [the Elven shortsword with a runic
-  inscription](./Sting.md)
-  ([Sting](./Sting.md))
+  inscription](./Weapon.md#piercing-weapons)
+  ([Sting](./Weapon.md#piercing-weapons))
 
 ## Identified Gear
 

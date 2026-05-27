@@ -4,9 +4,8 @@ description: 'Ring](TheLordoftheRings:TheFellowshipoftheRing(film) "wikilink")'
 tags:
   - Playable races
 ---
-!Hobbits in *The Lord of the Rings: The
-Fellowship of the
-Ring*
+![Hobbits](/img/Hobbits.jpg)
+
 The origin of **hobbits** is uncertain, though it's known that they
 existed long before coming to their current main home in the
 [Shire](./Shire.md). Hobbits are a small folk, being about half

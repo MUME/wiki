@@ -4,7 +4,7 @@ description: 'A death trap is a room where anyone who enters'
 tags:
   - Help files
 ---
-A **death trap** is a [room](./room.md) where anyone who enters
+A **death trap** is a [room](./Mechanics.md#room) where anyone who enters
 dies immediately. Examples of death traps are bottomless pits, gaping
 precipices, or lava-filled lakes. Upon entering a death trap, you will
 have one chance to retrace your steps. Failure means instant death; your

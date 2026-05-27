@@ -9,7 +9,7 @@ Syntax: **reveal** &lt;object&gt;, reveal &lt;character&gt;, reveal all or revea
 &lt;effort&gt;
 
 Reveal &lt;object&gt; allows you to find an object you've
-[hidden](./Hide.md) in a [room](./room.md). You must know
+[hidden](./Hide.md) in a [room](./Mechanics.md#room). You must know
 what to look for in order to get it back, but you can dig up someone
 else's treasure if you wish.
 

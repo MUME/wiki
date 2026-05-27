@@ -18,9 +18,7 @@ heuristical tracking engine, based on a state machine with a tiny bit of
 scripting available. After XML support made all of the above obsolete,
 the non-XML mode was removed and replaced with an XML parser.
 
-|                                                           |
-|-----------------------------------------------------------|
-| right |
+![PandoraMapper screenshot](/img/PandoraMapperScreenshot.png)
 
 ## Main features
 

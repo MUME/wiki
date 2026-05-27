@@ -35,7 +35,7 @@ It weighs eleven pounds.
 
 A focused [staff](./Staff.md) functions as a light source and
 decreases the chance for enemies to resist your
-[spells](./Spell.md). Some [items](./Item.md) can be
+[spells](./Spell.md). Some [items](./Items.md#item) can be
 [embedded](./Embed.md) in the staff to empower it further. The
 list of items is as follows:
 

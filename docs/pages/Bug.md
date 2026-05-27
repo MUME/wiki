@@ -40,7 +40,7 @@ The gatekeeper says 'does it seem I work here?'
 ```
 
 - There is no need to state whereabouts in [Arda](./Arda.md) the
-  [room](./room.md) is you are posting from. That is recorded and
+  [room](./Mechanics.md#room) is you are posting from. That is recorded and
   displayed in your post automatically.
 
 <!-- -->
@@ -57,7 +57,7 @@ The gatekeeper says 'does it seem I work here?'
 
 <!-- -->
 
-- MUME is based on [Tolkien](./Tolkien.md)'s (British) English.
+- MUME is based on [Tolkien](./External_links.md#tolkien)'s (British) English.
   Some words, like recognised, may seem strange to American English
   speakers, but are not typos. Check &lt;http://www.m-w.com&gt; if you are in
   doubt.

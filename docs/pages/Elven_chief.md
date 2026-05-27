@@ -7,7 +7,7 @@ tags:
 The **elven chief** is the chief of a small village near [Grey
 Havens](./Grey_Havens.md), just east of the Tower Hills. He is
 quite the wine enthusiast, and would be very grateful to adventurers who
-can [return](./Quest#Elven_Chief.md) his lost barrel of wine.
+can [return](./Quest.md#elven-chief) his lost barrel of wine.
 
 ```
 The elven village chief is here, lost in pensive contemplation.
