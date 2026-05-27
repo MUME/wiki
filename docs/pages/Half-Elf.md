@@ -28,8 +28,4 @@ Half-elves are more common in MUME. They resemble Humans more so than
 Elves, and like their mortal parentage are quite competent in most
 classes.
 
-In recognition of their heritage from Eärendil, Half-elves receive
-a bonus when traveling through the [Blue Mountains](./Blue_Mountains.md).
-Furthermore, they are now immune to disease.
-
 <!--@include: ../includes/ClassRace.md-->
