@@ -18,7 +18,7 @@ tags:
 | Min. Mana | 90 |
 | Example | `&gt; cast 'portal' yaleque` |
 
-**Portal** is a [mage](./Mage.md) [spell](./Spell.md) with [mana](./Mana.md) cost 90 that allows to move groups of people from one location to another by opening a portal from one [room](./room.md) to another. In order to cast portal, you need to use [Locate Life](./Locate_Life.md) to locate someone in the target room to get the magical key and then to:
+**Portal** is a [mage](./Mage.md) [spell](./Spell.md) with [mana](./Mana.md) cost 90 that allows you to move groups of people from one location to another by opening a portal from one [room](./room.md) to another. In order to cast portal, you need to use [Locate Life](./Locate_Life.md) to locate someone in the target room to get the magical key and then to:
 
 `> cast 'portal' <magical key>`
 
