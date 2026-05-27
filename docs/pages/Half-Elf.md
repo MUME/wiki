@@ -29,7 +29,9 @@ immortal Elf; he founded [Rivendell](./Rivendell.md).
 Half-elves are more common in MUME. They resemble Humans more so than Elves, and like their mortal parentage are quite competent in most classes. Unlike Elves, they are not immune to disease.
 
 ### Features
-- **Versatility:** Resembling both parents, they are well-balanced and excel at being versatile casters.
+- **Disease Resistance:** Partial immunity to diseases; ailments take only half the usual time to run their course.
+- **Star of Eärendil:** Under the celestial light of the Star of Eärendil, they receive reduced costs for **healing spells** and increased skill with **weapons**.
+- **Versatility:** Bonuses to **spellcasting** and defending against spells, both of which are influenced by their **mood**.
 - **Aging:** They age 2 times slower than common men.
 - **Stat Bonuses:** They receive a +1 bonus to **Wisdom** but suffer a -1 penalty to **Strength**.
 
