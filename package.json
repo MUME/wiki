@@ -10,7 +10,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "@playwright/test": "^1.61.1",
+    "@playwright/test": "^1.62.1",
     "@vitejs/plugin-vue": "^6.0.8",
     "playwright": "^1.62.1",
     "vitepress": "^1.6.3"
