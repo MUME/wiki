@@ -77,7 +77,8 @@ Caras Galadhon #       |  knock to enter
 ## Access
 
 Elves and half-elves can start here and also enter Lothlórien without
-citizenship. Other races need to be lead in by elves. Regardless of race
+citizenship. Other races need to be lead in by elves or an
+[Istar](./Istari.md) of good standing. Regardless of race
 and citizenship, you cannot enter without at least neutral
 [alignment](./Alignment.md).
 
