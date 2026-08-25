@@ -4,16 +4,14 @@ description: 'MUME has two modes of displaying information to the players. Eithe
 tags:
   - Help files
 ---
-MUME has two modes of displaying information to the players. Either it
-uses the 7 bits of standard ASCII, or the 8 bit Latin-1 (iso 8859-1)
-character set.
+MUME has different modes of displaying information to the players, using one of three character sets: 7-bit standard ASCII, 8-bit Latin-1 (ISO 8859-1), or UTF-8.
 
-Your current character set is changed using one of: \> change charset
-ascii \> change charset latin-1 If your terminal doesn't support
-Latin-1, you should do "change charset ascii" to get rid of garbled
-characters. In this mode, MUME changes accented characters into their
-unaccented 7 bit version (or the closest match available; e.g., the
-copyright sign gets replaced by 'C').
+Your current character encoding is changed using one of:
+- `change encoding ascii`
+- `change encoding latin-1`
+- `change encoding utf-8`
+
+If your terminal doesn't support Latin-1 or UTF-8, use `change encoding ascii` to display unaccented 7-bit characters (or closest match available).
 
 Using "change charset latin-1", MUME will send you accented characters.
 
