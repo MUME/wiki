@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Usage: **flee** \[on\|off\|yes\|no
+Usage: **flee** \[on\|off\|yes\|no\]
 
 If you are fighting, and you want to leave the fight, you may type
 'flee' or 'flee on'. Then you will almost immediately attempt to flee
@@ -15,7 +15,7 @@ automatically scheduled until you get out of the fight somehow or type
 
 Fleeing when not engaged is immediate. The delay between flee attempts
 (called also 'flee round') while in a fight is modified by your
-[dexterity, your encumbrance and your
+dexterity, your encumbrance and your
 [attack](./Attack.md) skill.
 
 When you attack someone, you can't flee from the fight for a full flee

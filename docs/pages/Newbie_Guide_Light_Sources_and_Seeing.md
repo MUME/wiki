@@ -269,7 +269,7 @@ The **darkness** will shrink and contract after several hours (real life
 minutes), returning to normal. Very much like in the Lord of the Rings
 movies when darkness was spreading out from Mordor.
 
-If you use the map darkness you'll see the extent of Saruon's Darkness
+If you use the map darkness you'll see the extent of Sauron's Darkness
 near you. If you use map global darkness, you'll see the entire map and
 any of Sauron's Darkness there.
 

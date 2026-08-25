@@ -219,7 +219,7 @@ It is fine to mix ammunition types in a missile container. For example
 you can have bolts and metal-cased bolts in a bolt case mixed in. Or ash
 arrows with war arrows or normal arrows.
 
-There is a limit the the maximum amount of ammunition any missile
+There is a limit to the maximum amount of ammunition any missile
 container can hold, and it can even vary on the type or types of
 missiles you have in it. It is based off the ammunition weight, so
 missile containers can over all hold more lighter ammunition then
