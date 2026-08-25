@@ -19,6 +19,8 @@ If you have more than one person on your list, or if you already are
 person to be protected knows the [escape](./Escape.md) skill, the
 chance of success improves.
 
+If the person to be protected is in the same group as the attacker, you will not intercept the blow.
+
 Only physical attacks (hit, [bash](./Bash.md) and
 [kick](./Kick.md)) are affected by this command.
 

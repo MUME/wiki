@@ -23,7 +23,7 @@ After sneaking successfully, you are [hidden](./Hide.md) from the
 people in the room, but if they look for you they will find you
 instantly.
 
-You move slower when sneaking.
+You move slower when sneaking. When you stop sneaking (e.g., due to fleeing), you cannot sneak again for a short time until your sneak indicator updates in the prompt.
 
 Examples:
 
