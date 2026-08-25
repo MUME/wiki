@@ -14,11 +14,11 @@ tags:
 | Casting | Very long |
 | Position | Standing |
 | Level | 12 |
-| Class | Shaman |
+| Class | Cleric |
 | Min. Mana | 25 |
 | Example | `&gt; cast 'black breath' dwarf` |
 
-**Black Breath** is a debilitating spell used by [Shamans](./Shaman.md). It strikes fear into the heart of the victim and drains their strength.
+**Black Breath** is a debilitating spell used by [Clerics](./Cleric.md). It causes weakness and despair in others, draining mana and movement from nearby non-party members to heal the caster and boost their mobility.
 
 Casting Black Breath on a target will instantly remove any [Breath of Briskness](./Breath_of_Briskness.md) effect they may have.
 
