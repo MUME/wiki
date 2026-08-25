@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Usage: **flee** \[on\|off\|yes\|no
+Usage: **flee** \[on\|off\|yes\|no\]
 
 If you are fighting, and you want to leave the fight, you may type
 'flee' or 'flee on'. Then you will almost immediately attempt to flee
@@ -15,7 +15,7 @@ automatically scheduled until you get out of the fight somehow or type
 
 Fleeing when not engaged is immediate. The delay between flee attempts
 (called also 'flee round') while in a fight is modified by your
-[dexterity, your encumbrance and your
+dexterity, your encumbrance and your
 [attack](./Attack.md) skill.
 
 When you attack someone, you can't flee from the fight for a full flee
@@ -23,7 +23,7 @@ round. However, your victim gets a small delay during which he can't
 flee either.
 
 A flee attempt will only succeed if there is a clear exit in the
-[room](./Mechanics.md#room), and even then you may well
+[room](./Mechanics.md), and even then you may well
 [panic](./Panic.md) and fail to flee. You cannot choose which way
 you will flee, and fleeing will often result in a temporary feeling of
 panic. When you are in a state of panic you will find that your

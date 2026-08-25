@@ -31,7 +31,7 @@ are the [Eriadoran](./Eriadoran.md),
 
 ## Men in [Mume](./MUME.md)
 
-Men within Mume are the only race with with the ability to excel in any
+Men within Mume are the only race with the ability to excel in any
 class. As in Tolkien, they are one of the most common races. Men within
 Mume have some perks that other races don't have:
 

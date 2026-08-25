@@ -107,7 +107,7 @@ the Dwarven mines. If you smelt, you usually need wood...
     is a maze, (if you go east then west, there's no guarantee that
     you'll return to from where you came). If you need to get out of it
     in a hurry, go north and west until you eventually find the room
-    with the boat and shrub, then head east to to the trail.
+    with the boat and shrub, then head east to the trail.
 
 - Reward: 15 silver, ??? exp.
 

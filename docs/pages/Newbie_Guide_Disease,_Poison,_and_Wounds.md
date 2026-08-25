@@ -283,7 +283,7 @@ The message from this poison is: - poison (type: arachnia) You feel
 sleepy. This poison does a medium to large amount of move point damage.
 
 It can also FORCE your character to rest, FORCE your character to sleep
-that you can wake up from, or at higher levels, sleep you with with a
+that you can wake up from, or at higher levels, sleep you with a
 magical sleep effect that you cannot wake up from.
 
 It lowers Str and Con and can affect your stats like this:

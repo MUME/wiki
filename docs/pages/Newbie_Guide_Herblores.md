@@ -443,7 +443,7 @@ Only the honey needs to be crushed first to use.
 
 You will need to **butcher** corpses to get some of these ingredients.
 
-Only Saruon's followers can **drain** a corpse of blood, and then you
+Only Sauron's followers can **drain** a corpse of blood, and then you
 need an evil priest to help preserve it.
 
 ------------------------------------------------------------------------

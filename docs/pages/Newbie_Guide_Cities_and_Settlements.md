@@ -38,11 +38,11 @@ find inside and outside of the cities and settlements in the game.
 
 ------------------------------------------------------------------------
 
-## **Where do Saruon's forces live?**
+## **Where do Sauron's forces live?**
 
 The focus of this guide is where the **dwarves**, **elves**,
 **hobbit**s, and **men** live. But I'll briefly mention some details
-about where Saruon's strongholds are.
+about where Sauron's strongholds are.
 
 **Troll**'s main lair are the Troll Warrens, under the Trollshaws
 forest. Pretty close to where Bill, Bert, and Tom were in The Hobbit
