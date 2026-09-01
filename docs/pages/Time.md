@@ -23,7 +23,7 @@ time).
 | 1 month | 12 hours (30 days) |
 | 1 year | 6 days (360 days) |
 
-MUME's time starts in the year 2850 of the Third Age, when Gandalf entered Dol Guldur and retrieved the key to the Lonely Mountain from Thráin II.
+MUME's time starts in the year 2850 of the Third Age, when Gandalf entered Dol Guldur and retrieved the key to the Lonely Mountain from Thráin II. The MUME time is occasionally reset to this date, most recently (for the thirteenth time) on August 31, 2026.
 
 See also: [Day](./Day.md), [Month](./Month.md),
 [Tick](./Tick.md)
