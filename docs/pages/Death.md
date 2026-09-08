@@ -9,7 +9,7 @@ tags:
 Dying is a normal part of learning MUME:
 - **Retrieving Gear**: Return to your `corpse` and type `get all corpse`.
 - **Ask for Help**: If you died in a dangerous area, use `narrate` or `tell` to ask friendly players for help. Experienced players are happy to escort you back!
-- **Newbie Kits**: Good-aligned characters below level 6 receive a free newbie kit on re-login after death.
+- **Newbie Kits**: Eligible Free People characters below level 6 can request another newbie kit after death by praying to the Ainur and asking an immortal.
 For more first-hour survival tips, see the [**Quick Start Guide**](./Quick_Start.md).
 :::
 

@@ -64,7 +64,7 @@ You can use your numeric keypad for rapid movement! Many players also use [MMapp
 | View worn gear | **`equipment`** | `eq` | Displays items currently worn or held. |
 | View carried gear | **`inventory`** | `i` | Displays items inside your bags or hands. |
 | Hold a weapon | **`wield`** | `wield sword` | Wields a weapon in your hand. |
-| Draw / Sheathe | **`draw`** / **`sheathe`** | `draw sheath` / `sheathe` | Draws or sheathes a weapon (requires a sheath/scabbard). |
+| Draw / Sheathe | **`draw`** / **`sheathe`** | `draw sheath` / `sheathe` | Draws or sheathes a weapon; a sheath is needed for sheathed weapons, while bows and inventory weapons can also be drawn directly. |
 | Wear armor | **`wear`** | `wear shield` / `wear all` | Wears clothing, armor, or shields. |
 | Belt items | **`wear`** | `wear lantern belt` | Attaches lanterns, flasks, or pouches to your belt. |
 | Remove gear | **`remove`** | `remove helmet` | Takes off worn gear so you can drop or store it. |
@@ -139,7 +139,7 @@ You can also join the active official [**MUME Discord Server**](https://discord.
 Death is a learning experience in MUME, not the end of your adventure!
 
 1. **Your Body Becomes a Corpse**:
-   When you die, your worn and carried equipment stays on your `corpse` at the location where you fell.
+   In most cases, your worn and carried equipment stays on your `corpse` at the location where you fell, but death-trap deaths do not leave a recoverable corpse, and corpse recovery is not guaranteed.
 2. **Re-appearing in Mandos or Town**:
    You will reappear safely in a starter hall or town.
 3. **Retrieving Your Gear**:
