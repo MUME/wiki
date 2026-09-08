@@ -5,6 +5,10 @@ tags:
   - Guides
   - Newbie Help
 ---
+::: tip First-Hour Quick Start
+Brand new to MUME? Start with our [**Quick Start & Command Cheat Sheet**](./Quick_Start.md) before diving into stat customization!
+:::
+
 This is a basic and simplified guide to how and why you should choose
 your base abilities for different classes. As such it is mostly aimed at
 helping those new players that prefer to choose their own base abilities
