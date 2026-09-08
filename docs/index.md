@@ -10,13 +10,18 @@ hero:
     alt: Gandalf
   actions:
     - theme: brand
-      text: Get Started
-      link: /guides
+      text: Quick Start Guide
+      link: /pages/Quick_Start
     - theme: alt
       text: Play MUME
       link: https://mume.org/
 
 features:
+  - icon: 🚀
+    title: New Player Quick Start
+    details: First time playing MUME or a text-based MUD? Check out our First Hour Survival Guide, command cheat sheet, and tips on combat and death recovery.
+    link: /pages/Quick_Start
+    linkText: Read Quick Start Guide
   - icon: ⚔️
     title: Classes & Races
     details: MUME uses a unique practice-based system. Choose your race to define your potential, then spend practices to define your class.

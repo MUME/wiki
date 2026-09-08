@@ -4,6 +4,11 @@ description: 'Q: I don''t understand anything that''s going on! Help!'
 tags:
   - FAQS
 ---
+
+::: tip New Player Quick Start
+For a structured first-hour survival guide and command cheat sheet, see the [**Quick Start Guide**](./Quick_Start.md). To reduce fast-scrolling screen text, use `change spam all`.
+:::
+
 **Q: I don't understand anything that's going on! Help!**
 
 A: Now that you have successfully created a character, you may still

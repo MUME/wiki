@@ -4,6 +4,15 @@ description: 'Dying on MUME (except in the case of'
 tags:
   - Help files
 ---
+
+::: tip Don't Panic! Equipment & Recovery Tips
+Dying is a normal part of learning MUME:
+- **Retrieving Gear**: Return to your `corpse` and type `get all corpse`.
+- **Ask for Help**: If you died in a dangerous area, use `narrate` or `tell` to ask friendly players for help. Experienced players are happy to escort you back!
+- **Newbie Kits**: Eligible Free People characters below level 6 can request another newbie kit after death by praying to the Ainur and asking an immortal.
+For more first-hour survival tips, see the [**Quick Start Guide**](./Quick_Start.md).
+:::
+
 **Dying** on [MUME](./MUME.md) (except in the case of
 [trolls](./Troll.md) turned to stone by the sun) does not mean the
 loss of all gains of the character. You can lose no more than the
