@@ -1,28 +1,19 @@
 ---
 title: Brief
-description: 'Usage: change brief [on|off'
+description: 'Usage: change spam description [on|off]'
 tags:
   - Help files
 ---
-Usage: [change](./Change.md) **brief** \[on\|off
+# Brief / Change Brief
 
-Toggle "brief mode". When in brief mode, you don't see the descriptions
-of the [room](./Mechanics.md#room) you are in; only the name of the room,
-and the people and objects in there. Unless you are very familiar with
-the area in which you travel, however, it is not advisable to use this
-command. Frequently, you will find small, but vital hints in the
-descriptions of the rooms: more attention to your surroundings could
-mean the difference between life and [death](./Death_trap.md)!
+Usage: **change spam description** `[on|off]` *(formerly `change brief`)*
 
-Note: When you use the command '[examine](./Examine.md)', you
-always see the description of a room (with or without 'brief' mode).
+Toggle "brief mode" for room descriptions. When active, room descriptions are hidden when you move between rooms, showing only the room name, exits, inhabitants, and objects.
 
-It is helpful if players remain in brief mode when they know an area
-well, as it reduces CPU load.
+::: warning CAUTION FOR NEW PLAYERS
+Unless you are very familiar with the area in which you travel, it is **not advisable** to hide room descriptions. Frequently, vital hints for quests, secret exits, and hidden danger are written in room descriptions!
+:::
 
-With "brief mode" off, MUME will also show you what
-[language](./Language.md) other people are speaking, provided that
-they aren't speaking the same language as you and that you know the
-language being spoken well enough.
+Note: When you use the command **`examine`**, you will always see the full description of a room regardless of brief settings.
 
-See also: [Compact](./Compact.md), [Spam](./Spam.md)
+See also: [Compact](./Compact.md), [Spam](./Spam.md), [Change](./Change.md)

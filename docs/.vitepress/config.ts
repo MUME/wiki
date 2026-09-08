@@ -64,6 +64,7 @@ export default defineConfig({
     siteTitle: 'MUME Wiki',
 
     nav: [
+      { text: 'Quick Start', link: '/pages/Quick_Start' },
       { text: 'Guides', link: '/guides' },
       { text: 'Equipment', link: '/equipment' },
       { text: 'Classes', link: '/classes' },
@@ -211,6 +212,7 @@ export default defineConfig({
     },
 
     socialLinks: [
+      { icon: 'discord', link: 'https://discord.gg/XkZN55am9a' },
       { icon: 'github', link: githubUrl },
     ],
 

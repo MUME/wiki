@@ -3,6 +3,13 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
+::: tip New Player Questing
+Quests are a great way to earn experience, gold, and useful items!
+- **Getting Started**: Early quests (like the Shopkeeper's daughter in the Shire or the Bree Weaponsmith) give clear instructions and lead you through starter zones.
+- **Reading Room Descriptions**: Quest clues, NPCs, and secret items are often described in room text.
+- **Need Syntax Help?**: See the [**Command Cheat Sheet**](./Quick_Start.md) for how to ask NPCs questions (`ask <NPC> <topic>`).
+:::
+
 Several mobiles on [MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a

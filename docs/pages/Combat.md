@@ -4,6 +4,15 @@ description: 'For your character to successfully survive combat with the fierce'
 tags:
   - Help files
 ---
+
+::: tip Managing Combat Speed & Auto-Flee
+Combat in MUME can move fast!
+- Set your auto-flee HP: `change wimpy 15`
+- Reduce combat screen spam: `change spam fight on`
+- Always check targets before fighting: `consider <mob>`
+For a full beginner overview, see the [**Quick Start Guide**](./Quick_Start.md).
+:::
+
 For your character to successfully survive **combat** with the fierce
 [creatures](./Mobile.md) of [Arda](./Arda.md), it is
 important that you as a player feel confident with the use of the

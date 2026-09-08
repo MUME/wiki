@@ -1,12 +1,13 @@
 ---
 title: Compact
-description: 'Usage: change compact [on|off'
+description: 'Usage: change compact [on|off]'
 tags:
   - Help files
 ---
-Usage: [change](./Change.md) **compact** \[on\|off
+# Compact / Change Compact
 
-If you have a small display you might want to use this command. It turns
-off (or on) the extra newline after output to your screen.
+Usage: **change compact** `[on|off]`
 
-See also: [Brief](./Brief.md), [Spam](./Spam.md)
+If you have a small display or terminal window, you can use `change compact` to toggle whether MUME inserts an extra newline before your command prompt. Turning compact mode `on` removes extra blank lines to save vertical screen space.
+
+See also: [Brief](./Brief.md), [Spam](./Spam.md), [Prompt](./Prompt.md), [Change](./Change.md)

@@ -1,12 +1,17 @@
 ---
 title: Basics
-description: 'This is a brief outline of some of the basic commands that are used in'
+description: 'This is a brief outline of some of the basic commands that are used in MUME.'
 tags:
   - Help files
 ---
+
+::: tip Looking for a Quick Command Cheat Sheet?
+If you are a new player looking for a categorized syntax table and quick survival steps, visit the [**Quick Start & Command Cheat Sheet**](./Quick_Start.md)!
+:::
+
 This is a brief outline of some of the basic commands that are used in
-Mume. Further help is available for each of them by clicking on the
-name, an example '[Look](./Look.md)'. Most of these commands will
+MUME. Further help is available for each of them by clicking on the
+name, for example '[Look](./Look.md)'. Most of these commands will
 be self-evident once you have seen the name, but please read or at least
 skim the help on them. The FAQ files provide help on related commands to
 those mentioned below and explain solutions to common problems such as

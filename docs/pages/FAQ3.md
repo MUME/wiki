@@ -4,6 +4,11 @@ description: 'Q: How do I hold my weapon?'
 tags:
   - FAQS
 ---
+
+::: tip Command Cheat Sheet
+Looking for an easy syntax reference for equipment, bags, and trading? Check out the [**Command Cheat Sheet**](./Quick_Start.md). Remember that giving items uses `give [item] [person]`!
+:::
+
 **Q: How do I hold my weapon?**
 
 A: Type '[wield](./Wield.md) sword' (for example).
