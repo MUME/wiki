@@ -81,11 +81,91 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
+        disableQueryPersistence: true,
+        detailedView: true,
         miniSearch: {
           searchOptions: {
-            fuzzy: 0.2,
+            fuzzy: (term: string) => (term.length > 2 ? 0.2 : false),
             prefix: true,
+            boost: { title: 4, titles: 2, text: 1 },
+            combineWith: 'AND',
           },
+          _splitIntoSections(filePath, html) {
+            const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+            const headingContentRegex = /(.*?)(?:<a.*? href="#(.*?)".*?>.*?<\/a>)/i
+
+            function clearHtmlTags(str: string) {
+              return str.replace(/<[^>]*>/g, '').trim()
+            }
+
+            const matches = Array.from(html.matchAll(headingRegex))
+            const sections: Array<{ anchor: string; titles: string[]; text: string }> = []
+
+            if (matches.length === 0) {
+              const text = clearHtmlTags(html)
+              if (text) {
+                const h1Match = html.match(/<h1[^>]*>(.*?)<\/h1>/i)
+                const title = h1Match ? clearHtmlTags(h1Match[1]) : ''
+                sections.push({ anchor: '', titles: title ? [title] : [], text })
+              }
+              return sections
+            }
+
+            const parts = html.split(headingRegex)
+            const preamble = parts[0] ? clearHtmlTags(parts[0]) : ''
+
+            let parentTitles: string[] = []
+            let firstHeadingTitle = ''
+
+            for (let i = 1; i < parts.length; i += 3) {
+              const level = parseInt(parts[i]) - 1
+              const heading = parts[i + 1]
+              const headingResult = headingContentRegex.exec(heading)
+              const title = clearHtmlTags(headingResult?.[1] ?? '').trim()
+              const anchor = headingResult?.[2] ?? ''
+              const content = clearHtmlTags(parts[i + 2] ?? '')
+
+              if (!firstHeadingTitle && title) firstHeadingTitle = title
+
+              let titles = parentTitles.slice(0, level)
+              titles[level] = title
+              titles = titles.filter(Boolean)
+
+              sections.push({ anchor, titles, text: content })
+
+              if (level === 0) {
+                parentTitles = [title]
+              } else {
+                parentTitles[level] = title
+              }
+            }
+
+            if (preamble && sections.length > 0) {
+              sections.unshift({ anchor: '', titles: firstHeadingTitle ? [firstHeadingTitle] : [], text: preamble })
+            }
+
+            return sections
+          },
+        },
+        _render(src, env, md) {
+          const html = md.render(src, env)
+          if (env.frontmatter?.search === false) return ''
+
+          let metaText = ''
+          if (env.frontmatter?.title) {
+            metaText += `\n<h1>${env.frontmatter.title}</h1>`
+          }
+          if (Array.isArray(env.frontmatter?.aliases) && env.frontmatter.aliases.length > 0) {
+            metaText += `\n<p>Aliases: ${env.frontmatter.aliases.join(', ')}</p>`
+          }
+          if (Array.isArray(env.frontmatter?.tags) && env.frontmatter.tags.length > 0) {
+            metaText += `\n<p>Tags: ${env.frontmatter.tags.join(', ')}</p>`
+          }
+          if (env.frontmatter?.description) {
+            metaText += `\n<p>${env.frontmatter.description}</p>`
+          }
+
+          return metaText ? html + metaText : html
         },
       },
     },
