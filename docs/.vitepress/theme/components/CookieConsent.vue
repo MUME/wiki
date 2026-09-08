@@ -62,10 +62,15 @@ onMounted(() => {
   const getStoredConsent = (): string | null => {
     try {
       const ls = localStorage.getItem(CONSENT_KEY)
-      if (ls) return ls
+      if (ls === 'granted' || ls === 'denied') return ls
     } catch {}
     const match = document.cookie.match(new RegExp('(?:^|; )' + CONSENT_KEY + '=([^;]*)'))
-    return match ? decodeURIComponent(match[1]) : null
+    if (!match) return null
+    try {
+      return decodeURIComponent(match[1])
+    } catch {
+      return null
+    }
   }
 
   const savedConsent = getStoredConsent()
