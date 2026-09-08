@@ -8,7 +8,7 @@ tags:
 ::: tip Managing Combat Speed & Auto-Flee
 Combat in MUME can move fast!
 - Set your auto-flee HP: `change wimpy 15`
-- Reduce combat screen spam: `change spam fight on`
+- Reduce screen text speed: `change spam all`
 - Always check targets before fighting: `consider <mob>`
 For a full beginner overview, see the [**Quick Start Guide**](./Quick_Start.md).
 :::

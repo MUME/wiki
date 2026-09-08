@@ -6,7 +6,7 @@ tags:
 ---
 
 ::: tip New Player Quick Start
-For a structured first-hour survival guide and command cheat sheet, see the [**Quick Start Guide**](./Quick_Start.md). To reduce fast-scrolling screen text, use `change spam fight on`.
+For a structured first-hour survival guide and command cheat sheet, see the [**Quick Start Guide**](./Quick_Start.md). To reduce fast-scrolling screen text, use `change spam all`.
 :::
 
 **Q: I don't understand anything that's going on! Help!**
