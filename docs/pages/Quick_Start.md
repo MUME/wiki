@@ -24,8 +24,8 @@ When you enter Middle-earth for the first time, follow these immediate setup ste
 
 1. **Set Your Auto-Flee Safety (`change wimpy`)**:
    Type `change wimpy 15`. If your health drops below 15 Hit Points, your character will automatically attempt to flee combat to keep you alive.
-2. **Reduce Text Velocity (`change spam fight`)**:
-   Combat moves quickly. Type `change spam fight on` to hide missed attack messages and keep combat readable.
+2. **Reduce Text Velocity (`change spam all`)**:
+   Text moves quickly during combat and group movement. Type `change spam all` (or `change spam fight on`) to hide unnecessary text and keep the screen clean and readable.
 3. **Check Your Character (`score` & `stat`)**:
    Type `score` (or `sc`) to see your current Health (HP), Mana, and Movement points. Type `stat` to check your combat attributes and experience needed for your next level.
 4. **Look Around (`look` & `exits`)**:
