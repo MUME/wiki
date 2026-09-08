@@ -171,21 +171,33 @@ export default defineConfig({
           },
         },
         _render(src, env, md) {
-          const html = md.render(src, env)
+          // Omit recirculation includes (e.g. <!--@include: ../includes/Spells.md-->) from search indexing
+          const cleanSrc = src.replace(/<!--@include:\s*.*?-->/gi, '')
+          const html = md.render(cleanSrc, env)
           if (env.frontmatter?.search === false) return ''
+
+          const escapeHtml = (str: string) =>
+            str
+              .replace(/&/g, '&amp;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+              .replace(/"/g, '&quot;')
+              .replace(/'/g, '&#39;')
 
           let metaText = ''
           if (env.frontmatter?.title) {
-            metaText += `\n<h1>${env.frontmatter.title}</h1>`
+            metaText += `\n<h1>${escapeHtml(String(env.frontmatter.title))}</h1>`
           }
           if (Array.isArray(env.frontmatter?.aliases) && env.frontmatter.aliases.length > 0) {
-            metaText += `\n<p>Aliases: ${env.frontmatter.aliases.join(', ')}</p>`
+            const escapedAliases = env.frontmatter.aliases.map((a: unknown) => escapeHtml(String(a))).join(', ')
+            metaText += `\n<p>Aliases: ${escapedAliases}</p>`
           }
           if (Array.isArray(env.frontmatter?.tags) && env.frontmatter.tags.length > 0) {
-            metaText += `\n<p>Tags: ${env.frontmatter.tags.join(', ')}</p>`
+            const escapedTags = env.frontmatter.tags.map((t: unknown) => escapeHtml(String(t))).join(', ')
+            metaText += `\n<p>Tags: ${escapedTags}</p>`
           }
           if (env.frontmatter?.description) {
-            metaText += `\n<p>${env.frontmatter.description}</p>`
+            metaText += `\n<p>${escapeHtml(String(env.frontmatter.description))}</p>`
           }
 
           return metaText ? html + metaText : html

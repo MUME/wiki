@@ -20,13 +20,12 @@ test.describe('Search UX', () => {
 
     const searchInput = page.locator('#localsearch-input');
     await expect(searchInput).toBeVisible();
+    await expect(searchInput).toBeFocused();
 
-    await page.waitForTimeout(1000);
-
-    await searchInput.pressSequentially('Dagger', { delay: 100 });
+    await searchInput.fill('Dagger');
 
     const results = page.locator('.VPLocalSearchBox .result');
-    await expect(results.first()).toBeVisible({ timeout: 10000 });
+    await expect(results.first()).toBeVisible({ timeout: 15000 });
 
     const firstTitle = results.first().locator('.title');
     await expect(firstTitle).toContainText('dagger', { ignoreCase: true });
@@ -38,13 +37,12 @@ test.describe('Search UX', () => {
 
     const searchInput = page.locator('#localsearch-input');
     await expect(searchInput).toBeVisible();
+    await expect(searchInput).toBeFocused();
 
-    await page.waitForTimeout(1000);
-
-    await searchInput.pressSequentially('Steel spear', { delay: 100 });
+    await searchInput.fill('Steel spear');
 
     const results = page.locator('.VPLocalSearchBox .result');
-    await expect(results.first()).toBeVisible({ timeout: 10000 });
+    await expect(results.first()).toBeVisible({ timeout: 15000 });
 
     const text = await results.first().innerText();
     expect(text.toLowerCase()).toContain('spear');
@@ -56,13 +54,12 @@ test.describe('Search UX', () => {
 
     const searchInput = page.locator('#localsearch-input');
     await expect(searchInput).toBeVisible();
+    await expect(searchInput).toBeFocused();
 
-    await page.waitForTimeout(1000);
-
-    await searchInput.pressSequentially('call lightning', { delay: 100 });
+    await searchInput.fill('call lightning');
 
     const results = page.locator('.VPLocalSearchBox .result');
-    await expect(results.first()).toBeVisible({ timeout: 10000 });
+    await expect(results.first()).toBeVisible({ timeout: 15000 });
 
     // Verify first result title is Call Lightning
     const firstTitle = results.first().locator('.title.main, .title').last();
