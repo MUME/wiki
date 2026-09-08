@@ -87,7 +87,7 @@ export default defineConfig({
           searchOptions: {
             fuzzy: (term: string) => (term.length > 2 ? 0.2 : false),
             prefix: true,
-            boost: { title: 4, titles: 2, text: 1 },
+            boost: { title: 8, titles: 4, text: 1 },
             combineWith: 'AND',
           },
           _splitIntoSections(filePath, html) {
@@ -98,15 +98,29 @@ export default defineConfig({
               return str.replace(/<[^>]*>/g, '').trim()
             }
 
+            function isGenericHeading(title: string) {
+              const lower = title.toLowerCase().replace(/[:\s]+$/, '')
+              return [
+                'see also',
+                'references',
+                'external links',
+                'navigation',
+                'related',
+                'related pages',
+                'related links',
+              ].includes(lower)
+            }
+
+            const h1Match = html.match(/<h1[^>]*>(.*?)<\/h1>/i)
+            const mainPageTitle = h1Match ? clearHtmlTags(h1Match[1]) : ''
+
             const matches = Array.from(html.matchAll(headingRegex))
             const sections: Array<{ anchor: string; titles: string[]; text: string }> = []
 
             if (matches.length === 0) {
               const text = clearHtmlTags(html)
               if (text) {
-                const h1Match = html.match(/<h1[^>]*>(.*?)<\/h1>/i)
-                const title = h1Match ? clearHtmlTags(h1Match[1]) : ''
-                sections.push({ anchor: '', titles: title ? [title] : [], text })
+                sections.push({ anchor: '', titles: mainPageTitle ? [mainPageTitle] : [], text })
               }
               return sections
             }
@@ -114,34 +128,43 @@ export default defineConfig({
             const parts = html.split(headingRegex)
             const preamble = parts[0] ? clearHtmlTags(parts[0]) : ''
 
-            let parentTitles: string[] = []
-            let firstHeadingTitle = ''
+            let parentTitles: string[] = mainPageTitle ? [mainPageTitle] : []
+            let firstHeadingTitle = mainPageTitle
 
             for (let i = 1; i < parts.length; i += 3) {
               const level = parseInt(parts[i]) - 1
               const heading = parts[i + 1]
               const headingResult = headingContentRegex.exec(heading)
-              const title = clearHtmlTags(headingResult?.[1] ?? '').trim()
+              const rawTitle = clearHtmlTags(headingResult?.[1] ?? '').trim()
               const anchor = headingResult?.[2] ?? ''
               const content = clearHtmlTags(parts[i + 2] ?? '')
 
-              if (!firstHeadingTitle && title) firstHeadingTitle = title
+              if (!rawTitle) continue
+
+              const isGeneric = isGenericHeading(rawTitle)
+              const sectionTitle = isGeneric ? (parentTitles[0] || mainPageTitle || rawTitle) : rawTitle
+
+              if (!firstHeadingTitle && !isGeneric) firstHeadingTitle = rawTitle
 
               let titles = parentTitles.slice(0, level)
-              titles[level] = title
+              titles[level] = sectionTitle
               titles = titles.filter(Boolean)
+              if (titles.length === 0 && mainPageTitle) titles = [mainPageTitle]
 
               sections.push({ anchor, titles, text: content })
 
-              if (level === 0) {
-                parentTitles = [title]
-              } else {
-                parentTitles[level] = title
+              if (!isGeneric) {
+                if (level === 0) {
+                  parentTitles = [rawTitle]
+                } else {
+                  parentTitles[level] = rawTitle
+                }
               }
             }
 
             if (preamble && sections.length > 0) {
-              sections.unshift({ anchor: '', titles: firstHeadingTitle ? [firstHeadingTitle] : [], text: preamble })
+              const rootTitle = mainPageTitle || firstHeadingTitle
+              sections.unshift({ anchor: '', titles: rootTitle ? [rootTitle] : [], text: preamble })
             }
 
             return sections

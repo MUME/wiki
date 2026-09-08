@@ -652,8 +652,20 @@ a:hover {
   font-size: 1.05rem;
 }
 
+.VPLocalSearchBox .title.main {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
 .VPLocalSearchBox .titles {
   gap: 0.4rem;
+  align-items: center;
+}
+
+.VPLocalSearchBox .titles .title:not(.main) {
+  font-size: 0.9rem;
+  color: var(--mume-text-muted);
+  font-weight: normal;
 }
 
 .VPLocalSearchBox .excerpt {
