@@ -81,11 +81,126 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
+        disableQueryPersistence: true,
+        detailedView: true,
         miniSearch: {
           searchOptions: {
-            fuzzy: 0.2,
+            fuzzy: (term: string) => (term.length > 2 ? 0.2 : false),
             prefix: true,
+            boost: { title: 8, titles: 4, text: 1 },
+            combineWith: 'AND',
           },
+          _splitIntoSections(filePath, html) {
+            const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+            const headingContentRegex = /(.*?)(?:<a.*? href="#(.*?)".*?>.*?<\/a>)/i
+
+            function clearHtmlTags(str: string) {
+              return str.replace(/<[^>]*>/g, '').trim()
+            }
+
+            function isGenericHeading(title: string) {
+              const lower = title.toLowerCase().replace(/[:\s]+$/, '')
+              return [
+                'see also',
+                'references',
+                'external links',
+                'navigation',
+                'related',
+                'related pages',
+                'related links',
+              ].includes(lower)
+            }
+
+            const h1Match = html.match(/<h1[^>]*>(.*?)<\/h1>/i)
+            const mainPageTitle = h1Match ? clearHtmlTags(h1Match[1]) : ''
+
+            const matches = Array.from(html.matchAll(headingRegex))
+            const sections: Array<{ anchor: string; titles: string[]; text: string }> = []
+
+            if (matches.length === 0) {
+              const text = clearHtmlTags(html)
+              if (text) {
+                sections.push({ anchor: '', titles: mainPageTitle ? [mainPageTitle] : [], text })
+              }
+              return sections
+            }
+
+            const parts = html.split(headingRegex)
+            const preamble = parts[0] ? clearHtmlTags(parts[0]) : ''
+
+            let parentTitles: string[] = mainPageTitle ? [mainPageTitle] : []
+            let firstHeadingTitle = mainPageTitle
+
+            for (let i = 1; i < parts.length; i += 3) {
+              const level = parseInt(parts[i]) - 1
+              const heading = parts[i + 1]
+              const headingResult = headingContentRegex.exec(heading)
+              const rawTitle = clearHtmlTags(headingResult?.[1] ?? '').trim()
+              const anchor = headingResult?.[2] ?? ''
+              const content = clearHtmlTags(parts[i + 2] ?? '')
+
+              if (!rawTitle) continue
+
+              const isGeneric = isGenericHeading(rawTitle)
+              const sectionTitle = isGeneric ? (parentTitles[0] || mainPageTitle || rawTitle) : rawTitle
+
+              if (!firstHeadingTitle && !isGeneric) firstHeadingTitle = rawTitle
+
+              let titles = parentTitles.slice(0, level)
+              titles[level] = sectionTitle
+              titles = titles.filter(Boolean)
+              if (titles.length === 0 && mainPageTitle) titles = [mainPageTitle]
+
+              sections.push({ anchor, titles, text: content })
+
+              if (!isGeneric) {
+                if (level === 0) {
+                  parentTitles = [rawTitle]
+                } else {
+                  parentTitles[level] = rawTitle
+                }
+              }
+            }
+
+            if (preamble && sections.length > 0) {
+              const rootTitle = mainPageTitle || firstHeadingTitle
+              sections.unshift({ anchor: '', titles: rootTitle ? [rootTitle] : [], text: preamble })
+            }
+
+            return sections
+          },
+        },
+        _render(src, env, md) {
+          // Omit recirculation includes (e.g. <!--@include: ../includes/Spells.md-->) from search indexing
+          const cleanSrc = src.replace(/<!--@include:\s*.*?-->/gi, '')
+          const html = md.render(cleanSrc, env)
+          if (env.frontmatter?.search === false) return ''
+
+          const escapeHtml = (str: string) =>
+            str
+              .replace(/&/g, '&amp;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;')
+              .replace(/"/g, '&quot;')
+              .replace(/'/g, '&#39;')
+
+          let metaText = ''
+          if (env.frontmatter?.title) {
+            metaText += `\n<h1>${escapeHtml(String(env.frontmatter.title))}</h1>`
+          }
+          if (Array.isArray(env.frontmatter?.aliases) && env.frontmatter.aliases.length > 0) {
+            const escapedAliases = env.frontmatter.aliases.map((a: unknown) => escapeHtml(String(a))).join(', ')
+            metaText += `\n<p>Aliases: ${escapedAliases}</p>`
+          }
+          if (Array.isArray(env.frontmatter?.tags) && env.frontmatter.tags.length > 0) {
+            const escapedTags = env.frontmatter.tags.map((t: unknown) => escapeHtml(String(t))).join(', ')
+            metaText += `\n<p>Tags: ${escapedTags}</p>`
+          }
+          if (env.frontmatter?.description) {
+            metaText += `\n<p>${escapeHtml(String(env.frontmatter.description))}</p>`
+          }
+
+          return metaText ? html + metaText : html
         },
       },
     },
