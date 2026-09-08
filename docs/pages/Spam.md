@@ -41,4 +41,4 @@ Where `<field>` can be one of:
 When you use the command **`examine`**, you will always see the full description of a room, ridden mounts, and wielded weapons regardless of your `change spam` settings.
 :::
 
-See also: [Brief](./Brief.md), [Compact](./Compact.md), [Prompt](./Prompt.md), [Rules Spam](./Rules_Spam.md)
+See also: [Compact](./Compact.md), [Prompt](./Prompt.md), [Rules Spam](./Rules_Spam.md)

@@ -10,4 +10,4 @@ Usage: **change compact** `[on|off]`
 
 If you have a small display or terminal window, you can use `change compact` to toggle whether MUME inserts an extra newline before your command prompt. Turning compact mode `on` removes extra blank lines to save vertical screen space.
 
-See also: [Brief](./Brief.md), [Spam](./Spam.md), [Prompt](./Prompt.md), [Change](./Change.md)
+See also: [Spam](./Spam.md), [Prompt](./Prompt.md), [Change](./Change.md)
