@@ -10,7 +10,7 @@ hero:
     alt: Gandalf
   actions:
     - theme: brand
-      text: Get Started (Quick Start)
+      text: Quick Start Guide
       link: /pages/Quick_Start
     - theme: alt
       text: Play MUME
