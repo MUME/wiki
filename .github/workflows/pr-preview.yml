@@ -1,14 +1,13 @@
 name: PR Preview
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, synchronize, reopened]
 
-# pull_request_target runs in the base repo context (has write access).
-# We check out the PR head to build it, which is acceptable for a public
-# markdown wiki where the build step only runs VitePress on markdown files.
+# pull_request runs in an unprivileged context without repository secrets or write permissions
+# for fork pull requests, preventing security vulnerabilities when checking out untrusted code.
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   preview:
@@ -16,8 +15,6 @@ jobs:
     steps:
       - name: Checkout PR
         uses: actions/checkout@v7
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v7
