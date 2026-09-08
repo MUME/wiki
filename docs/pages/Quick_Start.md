@@ -80,7 +80,8 @@ You can use your numeric keypad for rapid movement! Many players also use [MMapp
 | :--- | :--- | :--- |
 | **`eat`** | `eat bread` | Satisfies hunger so your HP and Movement regenerate. |
 | **`drink`** | `drink fountain` / `drink skin` | Drinks water directly from a fountain or waterskin. |
-| **`pour`** / **`fill`** | `pour fountain skin` / `fill skin` | Fills your waterskin from a water source or well. |
+| **`pour`** | `pour fountain skin` | Transfers liquid (e.g. pouring water from a fountain into a waterskin). |
+| **`fill`** | `fill lantern` | Refills your lantern with oil from a flask or oil source. *(Use `pour` for water skins!)* |
 | **`cook`** | `cook meat` | Cooks raw meat at a campfire or stove. |
 | **`camp`** | `camp` | Sets up a campfire in the wilderness. |
 | **`rest`** | `rest` | Sit down to recover HP, Mana, and Movement faster. |
@@ -89,17 +90,15 @@ You can use your numeric keypad for rapid movement! Many players also use [MMapp
 
 ---
 
-### 4. NPCs, Animals & Shops
+### 4. NPCs & Shops
 
 | Task | Command Syntax | Example |
 | :--- | :--- | :--- |
-| Ask about topic | **`ask <NPC> <topic>`** | `ask innkeeper news` |
+| Ask about quest/topic | **`ask <NPC> <topic>`** | `ask innkeeper quest` |
 | View shop goods | **`list`** | `list` |
 | Buy an item | **`buy <item>`** | `buy bread` |
 | Sell an item | **`sell <item>`** | `sell pelt` |
 | Change posture | **`change mood <mood>`** | `change mood aggressive` / `wimpy` / `normal` / `prudent` |
-| Follow companion | **`follow <target>`** | `follow pony` |
-| Command pet | **`order <pet> <command>`** | `order dog follow me` |
 
 ---
 
@@ -146,7 +145,7 @@ Death is a learning experience in MUME, not the end of your adventure!
 3. **Retrieving Your Gear**:
    Return to where you died and type `get all corpse`.
 4. **Asking for Help**:
-   If you died in a dangerous area, ask on `narrate` for help! Higher level players will gladly escort you back to retrieve your belongings.
+   If you died in a dangerous area or can't reach your corpse, ask on `narrate` in-game or post in the [**MUME Discord Server**](https://discord.gg/XkZN55am9a)! Higher level players will gladly escort you back to retrieve your belongings.
 
 ---
 
@@ -154,4 +153,4 @@ Death is a learning experience in MUME, not the end of your adventure!
 
 - **Read Room Descriptions**: Hints for hidden doors, quest items, or NPC locations are often described in text.
 - **Track Travel Points**: Exploring new regions grants Travel Points (`info`) which award bonus experience!
-- **Getting Unstuck**: If a quest is confusing or you aren't sure where to go next, check the [Quest Guide](./Quest.md) or ask friendly players in town.
+- **Getting Unstuck**: If a quest is confusing or you aren't sure where to go next, check the [Quest Guide](./Quest.md) or ask friendly players in town or on Discord.
