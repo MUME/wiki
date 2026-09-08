@@ -2,6 +2,7 @@
 import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import NotFound from './NotFound.vue'
+import CookieConsent from './components/CookieConsent.vue'
 
 const { Layout } = DefaultTheme
 const { frontmatter } = useData()
@@ -17,6 +18,9 @@ const { frontmatter } = useData()
     </template>
     <template #not-found>
       <NotFound />
+    </template>
+    <template #layout-bottom>
+      <CookieConsent />
     </template>
   </Layout>
 </template>
