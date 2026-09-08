@@ -154,3 +154,7 @@ Death is a learning experience in MUME, not the end of your adventure!
 - **Read Room Descriptions**: Hints for hidden doors, quest items, or NPC locations are often described in text.
 - **Track Travel Points**: Exploring new regions grants Travel Points (`info`) which award bonus experience!
 - **Getting Unstuck**: If a quest is confusing or you aren't sure where to go next, check the [Quest Guide](./Quest.md) or ask friendly players in town or on Discord.
+
+---
+
+<!--@include: ../includes/Guides.md-->
