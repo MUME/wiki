@@ -41,3 +41,6 @@ you wish to write on for this command to work.
 See also: [Boards](./Boards.md), [Mark](./Mark.md),
 [Read](./Read.md), [Tail](./Tail.md),
 [Write](./Write.md)
+
+## External Links
+- [Official MUME Help: Reply](https://mume.org/help/reply)

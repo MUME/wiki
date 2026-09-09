@@ -27,3 +27,6 @@ Ainu for help.
 | 12. | [REIMBURSEMENT](./Rules_Reimbursement.md) | When losing anything (e.g. XP) you will _NOT_ get a reimbursement unless caused by a reproducible bug. |
 
 </div>
+
+## External Links
+- [Official MUME Help: Rules](https://mume.org/help/rules)

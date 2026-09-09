@@ -51,3 +51,6 @@ list. Ainu see /help change.
 > change colour fight
 > change language westron
 ```
+
+## External Links
+- [Official MUME Help: Change](https://mume.org/help/change)

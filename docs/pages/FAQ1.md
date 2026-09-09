@@ -74,3 +74,6 @@ means that hostile player trolls are at a certain Bend in a certain Road
 which, experience teaches us, is often a battle site.
 [Abbreviations](./Abbreviations.md) will list many common
 abbreviations.
+
+## External Links
+- [Official MUME Help: FAQ1](https://mume.org/help/faq1)

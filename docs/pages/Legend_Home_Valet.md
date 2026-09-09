@@ -21,3 +21,6 @@ Equipment](./Legend_Home_Equipment.md), [Legend Home
 Prices](./Legend_Home_Prices.md), [Friend](./Friend.md),
 [Hovels](./Hovels.md) and [Legend Home
 Doors](./Legend_Home_Doors.md)
+
+## External Links
+- [Official MUME Help: Legend Home Valet](https://mume.org/help/legend_home_valet)

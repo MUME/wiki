@@ -25,3 +25,6 @@ Example:
 `> remove 1046`
 
 See also: [Write](./Write.md)
+
+## External Links
+- [Official MUME Help: Remove](https://mume.org/help/remove)

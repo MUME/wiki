@@ -12,3 +12,6 @@ and 'listen all' set and remove everything.
 See Also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Shout](./Shout.md), [Narrate](./Narrate.md),
 [Sing](./Sing.md)
+
+## External Links
+- [Official MUME Help: Listen](https://mume.org/help/listen)

@@ -76,3 +76,6 @@ level refer to characters under level 20.
 
 5\) [Sauron-listed](./Sauron's_List.md) people cannot rent retire
 and can only be retired in exceptional circumstances.
+
+## External Links
+- [Official MUME Help: Retire](https://mume.org/help/retire)

@@ -36,3 +36,6 @@ Examples:
 ```
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Sneak](https://mume.org/help/sneak)

@@ -60,3 +60,6 @@ Great armourers who are cool-headed and deliberate in battle. They are heavy-set
 - **Utility:** Greatly increased bonus to bashing **exits**.
 
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Dwarf](https://mume.org/help/dwarf)

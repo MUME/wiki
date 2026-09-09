@@ -96,3 +96,6 @@ merely needs to '[call](./Call.md)'.
 ```
 
 <!--@include: ../includes/Place.md-->
+
+## External Links
+- [Official MUME Help: Bree](https://mume.org/help/bree)

@@ -44,3 +44,6 @@ Catastrophic!                            "    "     "    eleven or more
 
 See also: [Hit](./Hit.md), [Shoot](./Shoot.md),
 [Cast](./Cast.md)
+
+## External Links
+- [Official MUME Help: Consider](https://mume.org/help/consider)

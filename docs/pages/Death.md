@@ -68,3 +68,6 @@ Conversely, the enemies you were fleeing from will gain some.
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Death](https://mume.org/help/death)

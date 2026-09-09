@@ -47,3 +47,6 @@ we suggest the following web sites which offer random name generators:
 - [Namechanges](./Namechanges.md)
 - [Roleplay](./Roleplay.md)
 - [Rules Names](./Rules_Names.md)
+
+## External Links
+- [Official MUME Help: Names](https://mume.org/help/names)

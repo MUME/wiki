@@ -13,4 +13,6 @@ Example:
 > pull lever
 > push stone
 ```
- 
+
+## External Links
+- [Official MUME Help: Pull](https://mume.org/help/pull)

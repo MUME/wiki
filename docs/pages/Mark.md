@@ -18,3 +18,6 @@ and 'unmark last' can also be used.
 
 See also: [Reply](./Reply.md), [Tail](./Tail.md),
 [Write](./Write.md)
+
+## External Links
+- [Official MUME Help: Mark](https://mume.org/help/mark)

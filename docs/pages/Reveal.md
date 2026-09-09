@@ -42,3 +42,6 @@ Examples:
 ```
 
 See also: [Hide](./Hide.md), [Search](./Search.md)
+
+## External Links
+- [Official MUME Help: Reveal](https://mume.org/help/reveal)

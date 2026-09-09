@@ -37,4 +37,6 @@ For following a track over several rooms:
 ```
 
 See also: [Track](./Track.md)
- 
+
+## External Links
+- [Official MUME Help: Pursue](https://mume.org/help/pursue)

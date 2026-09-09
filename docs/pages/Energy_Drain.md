@@ -32,3 +32,6 @@ This spell can be learned from:
   [Smother](./Smother.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Energy Drain](https://mume.org/help/energy_drain)

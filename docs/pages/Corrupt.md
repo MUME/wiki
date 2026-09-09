@@ -26,3 +26,6 @@ Before beginning the ceremony, the target item must be weakened with a curse, or
 - [Curse](./Curse.md), [Darkness](./Darkness.md), [Corrupting](./Corrupting.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Corrupt](https://mume.org/help/corrupt)

@@ -23,3 +23,6 @@ to play than other classes.
 
 <!--@include: ../includes/Spells.md-->
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Mage](https://mume.org/help/mage)

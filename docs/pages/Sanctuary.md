@@ -33,3 +33,6 @@ This spell can be learned from:
 - [Armour](./Armour_Spell.md), [Shield](./Shield_Spell.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Sanctuary](https://mume.org/help/sanctuary)

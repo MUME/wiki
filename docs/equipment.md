@@ -70,3 +70,6 @@ Full identified stats and mechanics: [**Weapon List**](./pages/Weapon.md)
 - [**Condition**](./pages/Whetstone.md) — Keeping your weapons sharp and gear repaired.
 - [**Enchanting**](./pages/Enchant.md) — Improving your equipment via magic.
 - [**Equipment Terminology**](./pages/Other_equipment.md) — Explanation of flags like Magic, Nosell, Eff vs.
+
+## External Links
+- [Official MUME Help: equipment](https://mume.org/help/equipment)

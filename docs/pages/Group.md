@@ -58,3 +58,6 @@ NOTE: Only mobs who follow or are [ridden](/pages/Ride) by a player
 member of the group can be grouped.
 
 See also: [Experience](./Experience.md)
+
+## External Links
+- [Official MUME Help: Group](https://mume.org/help/group)

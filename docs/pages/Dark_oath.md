@@ -20,3 +20,6 @@ To master this skill, good health, an iron will and good eyesight are required.
 - [Call beast](./Call.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Dark oath](https://mume.org/help/dark_oath)

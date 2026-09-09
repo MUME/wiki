@@ -39,3 +39,6 @@ This spell can be learned from:
 - [Detect Invisibility](./Detect_Invisibility.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Shroud](https://mume.org/help/shroud)

@@ -23,3 +23,6 @@ tags:
 - [Black Breath](./Black_Breath.md), [Command](./Command.md), [Hold](./Hold_Spell.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Raise Dead](https://mume.org/help/raise_dead)

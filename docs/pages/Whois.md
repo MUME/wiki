@@ -29,3 +29,6 @@ Whois](./Rules_Whois.md).
 
 See also: [Description](./Description.md), [Who](./Who.md),
 [Incognito](./Incognito.md), [Rl Areas](./RL_Areas.md)
+
+## External Links
+- [Official MUME Rules: Whois](https://mume.org/rules/whois)

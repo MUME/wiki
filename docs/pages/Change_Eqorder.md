@@ -15,3 +15,6 @@ equipment order.
 
 See also: Equipment, [Equipment
 Format](./Equipment_Format.md)
+
+## External Links
+- [Official MUME Help: Change Eqorder](https://mume.org/help/change_eqorder)

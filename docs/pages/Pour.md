@@ -20,4 +20,6 @@ Example:
 `> pour fountain skin`
 
 See also: [Drink](./Items.md#drink), [Empty](./Empty.md)
- 
+
+## External Links
+- [Official MUME Help: Pour](https://mume.org/help/pour)

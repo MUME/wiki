@@ -30,3 +30,6 @@ This spell can be learned from:
 | [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 8 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Fear](https://mume.org/help/fear)

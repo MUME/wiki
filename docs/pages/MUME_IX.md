@@ -29,3 +29,6 @@ MUME IX also added modern protocol support including TLS-encrypted connections, 
 - [History](../history.md) — Full MUME version timeline.
 - [MUME VIII](./MUME_VIII.md) — The previous major version (2002).
 - [MUME IX: Summary of Changes](https://mume.org/about/m9) — Official summary on mume.org.
+
+## External Links
+- [Official MUME Help: MUME IX](https://mume.org/help/mume_ix)

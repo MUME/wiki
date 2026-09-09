@@ -22,3 +22,6 @@ regeneration is faster if you are [resting](./Rest.md) or
 
 See Also: [Hit points](./Hit_points.md), [Movement
 points](./Movement_points.md), [Prompt](./Prompt.md)
+
+## External Links
+- [Official MUME Help: Mana](https://mume.org/help/mana)

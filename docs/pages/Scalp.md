@@ -13,3 +13,6 @@ higher level characters. Once a corpse has been scalped, this will be
 obvious for others to see.
 
 See also: [Butcher](./Butcher.md), [Milk](./Milk.md)
+
+## External Links
+- [Official MUME Help: Scalp](https://mume.org/help/scalp)

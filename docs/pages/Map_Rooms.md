@@ -11,3 +11,6 @@ immediate outdoor surroundings.
 See [Terrain](./Terrain.md) for symbols used.
 
 See also: [Map](./Map.md)
+
+## External Links
+- [Official MUME Help: Map Rooms](https://mume.org/help/map_rooms)

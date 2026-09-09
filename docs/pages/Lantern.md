@@ -19,3 +19,6 @@ It weighs a couple of pounds.
 ```
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Lantern](https://mume.org/help/lantern)

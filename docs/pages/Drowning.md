@@ -15,3 +15,6 @@ swimming. On the contrary, the brave ones who dive into underwater
 caverns, or in the depths of a lake, might find themselves
 [dead](./Death.md) if they are not excellent swimmers, or if they
 tarry too long.
+
+## External Links
+- [Official MUME Help: Drowning](https://mume.org/help/drowning)

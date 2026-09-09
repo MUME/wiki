@@ -35,3 +35,6 @@ This spell can be learned from:
   Poison](./Remove_Poison.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Poison](https://mume.org/help/poison)

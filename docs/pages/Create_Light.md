@@ -38,3 +38,6 @@ This spell can be learned from:
   [Night Vision](./Night_Vision.md), [Store](./Store.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Create Light](https://mume.org/help/create_light)

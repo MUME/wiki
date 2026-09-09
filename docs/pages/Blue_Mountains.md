@@ -145,3 +145,6 @@ of the map.
 ```
 
 <!--@include: ../includes/Place.md-->
+
+## External Links
+- [Official MUME Help: Blue Mountains](https://mume.org/help/blue_mountains)

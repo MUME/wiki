@@ -33,3 +33,6 @@ tags:
 See also: [Kick](./Kick.md), [Rescue](./Rescue.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Bash](https://mume.org/help/bash)

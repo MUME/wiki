@@ -23,3 +23,6 @@ Before mixing, you can [crush](./Crush.md) herbs to prepare them. The resulting 
 - [Herbal kit](./Herbal_kit.md) — The container required for mixing.
 - [Crush](./Crush.md) — Preparing herbs before mixing.
 - [Drink](./Drink.md) — Consuming the resulting draught.
+
+## External Links
+- [Official MUME Help: Mix](https://mume.org/help/mix)

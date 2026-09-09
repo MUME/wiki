@@ -16,4 +16,6 @@ homes](./Legend_Homes.md).
 Major help is available under the object 'Mortal's Guide to Building'
 that will be given by [Ainur](./Ainur.md) when the rooms are
 attributed.
- 
+
+## External Links
+- [Official MUME Help: Build](https://mume.org/help/build)

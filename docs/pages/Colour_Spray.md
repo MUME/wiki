@@ -39,3 +39,6 @@ This spell can be learned from:
   [Earthquake](./Earthquake.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Colour Spray](https://mume.org/help/colour_spray)

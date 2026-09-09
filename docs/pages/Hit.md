@@ -24,3 +24,6 @@ Also consider that killing beings who are "[good](./Alignment.md)"
 (innocent citizens, for example) might make you more evil or might also
 get you in trouble with the local [justice](./Justice.md)
 officers.
+
+## External Links
+- [Official MUME Help: Hit](https://mume.org/help/hit)

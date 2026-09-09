@@ -18,3 +18,6 @@ when your shot kills the opponent.
 See also: [Archery](./Archery.md), [Recover](./Recover.md),
 Missile, [Load](./Load.md), [Target
 Shooting](./Target_Shooting.md)
+
+## External Links
+- [Official MUME Help: Shoot](https://mume.org/help/shoot)

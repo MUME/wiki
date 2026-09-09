@@ -41,3 +41,6 @@ This spell can be learned from:
   [Earthquake](./Earthquake.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Magic Missile](https://mume.org/help/magic_missile)

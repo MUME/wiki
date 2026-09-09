@@ -14,4 +14,6 @@ NOTE: If you want to fill a [water skin](./Water_skin.md), use the
 Example:
 
 `> fill lantern`
- 
+
+## External Links
+- [Official MUME Help: Fill](https://mume.org/help/fill)

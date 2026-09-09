@@ -14,3 +14,6 @@ If your [link](./Link.md) drops while you are affected by noquit,
 other players will still be able to damage you while noquit lasts;
 moreover, if you are a [Troll](./Troll.md) and lose link while you
 have noquit, you are vulnerable to [sundeath](./Sundeath.md).
+
+## External Links
+- [Official MUME Help: Noquit](https://mume.org/help/noquit)

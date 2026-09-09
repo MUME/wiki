@@ -22,3 +22,6 @@ citizenship. Some may require payment, others will give it free
 depending on [alignment](./Alignment.md). However, make sure you
 have no outstanding crimes when you try to obtain
 citizenship, else you may lose it just as fast.
+
+## External Links
+- [Official MUME Help: Citizen](https://mume.org/help/citizen)

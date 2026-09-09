@@ -25,3 +25,6 @@ tags:
 See also: [Command](./Command.md), [Ranger](./Ranger.md), [Ride](./Ride.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Leadership](https://mume.org/help/leadership)

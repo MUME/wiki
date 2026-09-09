@@ -44,3 +44,6 @@ This spell can be learned from:
 - [Dispel Magic](./Dispel_Magic.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Enchant](https://mume.org/help/enchant)

@@ -16,3 +16,6 @@ however using them to spam communication channels is a bad idea.
 - [Rules Channels](./Rules_Channels.md),
   [Command](./Command.md), [Order](./Order.md),
   [Charm](./Charm.md)
+
+## External Links
+- [Official MUME Help: Pet](https://mume.org/help/pet)

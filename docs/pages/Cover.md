@@ -23,4 +23,6 @@ Example:
 ```
 
 See also: [Light](./Light.md)
- 
+
+## External Links
+- [Official MUME Help: Cover](https://mume.org/help/cover)

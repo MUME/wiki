@@ -31,3 +31,6 @@ This spell can be learned from:
 | [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 8 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Detect Evil](https://mume.org/help/detect_evil)

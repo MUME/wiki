@@ -27,3 +27,6 @@ You recover a bolt from a crossbow.
 
 See also: [Shoot](./Shoot.md), [Archery](./Archery.md),
 [Recover](./Recover.md), Missile
+
+## External Links
+- [Official MUME Help: Load](https://mume.org/help/load)

@@ -232,3 +232,6 @@ An incomplete list of the fauna indigenous to the area around Fornost
 ```
 
 <!--@include: ../includes/Place.md-->
+
+## External Links
+- [Official MUME Help: Fornost](https://mume.org/help/fornost)

@@ -37,3 +37,6 @@ Zaugurz Orcs do not get any kit at all.
 
 See also: Newbie, [Pray](./Pray.md),
 Rangers, [Names](./Names.md)
+
+## External Links
+- [Official MUME Help: Kit](https://mume.org/help/kit)

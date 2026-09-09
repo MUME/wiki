@@ -18,3 +18,6 @@ Syntax: 'drain corpse'
 See also: [Bury](./Bury.md), [Burn](./Burn.md),
 [Decapitate](./Decapitate.md), [Drain](./Drain.md),
 [Hang](./Hang.md)
+
+## External Links
+- [Official MUME Help: Drain](https://mume.org/help/drain)

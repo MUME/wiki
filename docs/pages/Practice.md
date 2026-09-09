@@ -64,3 +64,6 @@ Examples:
 
 `> practice`
 `> practice `[`ride`](/pages/Ride)
+
+## External Links
+- [Official MUME Help: Practice](https://mume.org/help/practice)

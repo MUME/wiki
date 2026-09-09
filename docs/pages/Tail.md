@@ -15,3 +15,6 @@ for &lt;num&gt; is one screenful - 21, for a standard terminal.
 
 See also: [Boards](./Boards.md), [Read](./Read.md),
 [Mail](./Mail.md)
+
+## External Links
+- [Official MUME Help: Tail](https://mume.org/help/tail)

@@ -19,3 +19,6 @@ Example:
 
 "assist" by itself will make you assist a [group](./Group.md)
 member.
+
+## External Links
+- [Official MUME Help: Assist](https://mume.org/help/assist)

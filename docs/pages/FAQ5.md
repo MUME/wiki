@@ -112,3 +112,6 @@ Reading a mail is a matter of typing 'read &lt;number&gt;'.
 To write a mail you use 'write &lt;topic&gt; @&lt;name&gt;' an example being 'write
 Lets discuss a playing time @Huntar'. The same editor used in writing on
 boards will be used.
+
+## External Links
+- [Official MUME Help: FAQ5](https://mume.org/help/faq5)

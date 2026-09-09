@@ -74,3 +74,6 @@ It might also be worth noting that having a 0% packet loss link when
 using a ping-program (a program that uses the ICMP echo-request and
 echo-reply messages), does not guarantee you will have 0% packet loss
 over a TCP session (such as a connection to MUME).
+
+## External Links
+- [Official MUME Help: Internet](https://mume.org/help/internet)

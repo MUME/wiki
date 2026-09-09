@@ -33,3 +33,6 @@ This spell can be learned from:
 See also: [Darkness](./Darkness.md), [Protection From Evil](./Protection_From_Evil.md), [Sanctuary](./Sanctuary.md), Strength
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Bless](https://mume.org/help/bless)

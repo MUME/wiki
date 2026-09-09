@@ -46,3 +46,6 @@ that he claims to be his true followers are player killers. Telling him
 '[list' will provide a list of player killers.
 
 See also: Rules-Sauron
+
+## External Links
+- [Official MUME Rules: Sauron](https://mume.org/rules/sauron)

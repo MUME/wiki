@@ -26,3 +26,6 @@ The following FAQ files for new players are also available:
 
 See also: Newbie, Basics,
 [Advanced](./Advanced.md), Features
+
+## External Links
+- [Official MUME Help: FAQ](https://mume.org/help/faq)

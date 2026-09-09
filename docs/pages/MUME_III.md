@@ -8,3 +8,6 @@ features: \* Mudlle, MUME's online programming language \* Weather
 system \* Shops \* 1-100 playable levels \* MUME Protocol for clients,
 allowing remote editing \* Diseases \* Justice system \* Troll race \*
 Travel points
+
+## External Links
+- [Official MUME Help: MUME III](https://mume.org/help/mume_iii)

@@ -13,3 +13,6 @@ Example: \> hold lantern
 
 - [Wear](./Wear.md), [Wield](./Wield.md),
   [Remove](./Remove.md)
+
+## External Links
+- [Official MUME Help: Hold](https://mume.org/help/hold)

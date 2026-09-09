@@ -55,3 +55,6 @@ Examples:
 > wield sword      -> wield longsword
 > wield %sword     -> wield sword
 ```
+
+## External Links
+- [Official MUME Help: Alias](https://mume.org/help/alias)

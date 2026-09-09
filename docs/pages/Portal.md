@@ -40,3 +40,6 @@ This spell can be learned from:
 | [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 14 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Portal](https://mume.org/help/portal)

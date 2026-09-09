@@ -16,4 +16,6 @@ Example:
  > hold eye
  > use eye dwarf
 ```
- 
+
+## External Links
+- [Official MUME Help: Use](https://mume.org/help/use)

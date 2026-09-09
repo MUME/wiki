@@ -25,3 +25,6 @@ when you reroll.
 Rerolling will automatically give you a reset of practices as well.
 
 See also: [Retire](./Retire.md), [Train](./Train.md)
+
+## External Links
+- [Official MUME Help: Reroll](https://mume.org/help/reroll)

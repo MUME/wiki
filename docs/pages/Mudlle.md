@@ -29,3 +29,6 @@ event_command);
 - Wikipedia on [Mudlle](http://en.wikipedia.org/wiki/Mudlle)
 - Wikipedia on
   [Scheme](http://en.wikipedia.org/wiki/Scheme_(programming_language))
+
+## External Links
+- [Official MUME Help: Mudlle](https://mume.org/help/mudlle)

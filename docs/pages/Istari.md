@@ -120,3 +120,6 @@ metamorph and istar.
 
 See also: [Ainur](./Ainur.md), [Hero](./Hero.md),
 [Legend](./Legend.md), [Metamorph](./Metamorph.md)
+
+## External Links
+- [Official MUME Help: Istari](https://mume.org/help/istari)

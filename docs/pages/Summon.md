@@ -34,3 +34,6 @@ This spell can be learned from:
 - [Transfer](./Transfer.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Summon](https://mume.org/help/summon)

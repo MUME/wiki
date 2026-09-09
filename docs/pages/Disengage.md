@@ -13,3 +13,6 @@ the opponent directly and taking his strokes (the
 
 See also: [Escape](./Escape.md), [Flee](./Flee.md),
 [Wimpy](./Wimpy.md)
+
+## External Links
+- [Official MUME Help: Disengage](https://mume.org/help/disengage)

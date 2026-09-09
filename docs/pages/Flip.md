@@ -14,3 +14,6 @@ If, on the other hand, you don't know what alternative to take, you can
 This is one way of deciding how to split
 equipment (from PK or
 [Smobs](./Super_Mobile.md)).
+
+## External Links
+- [Official MUME Help: Flip](https://mume.org/help/flip)

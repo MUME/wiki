@@ -25,3 +25,6 @@ Examples:
 ```
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Pick](https://mume.org/help/pick)

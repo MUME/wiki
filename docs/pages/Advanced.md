@@ -78,3 +78,6 @@ See also: Newbie, Basics,
 [FAQ3](./FAQ3.md), [FAQ4](./FAQ4.md),
 [FAQ5](./FAQ5.md), Features,
 Rules
+
+## External Links
+- [Official MUME Help: Advanced](https://mume.org/help/advanced)

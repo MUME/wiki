@@ -25,3 +25,6 @@ Movement points regenerate while resting or sleeping. Resting is faster than sta
 - [Movement points](./Movement_points.md) — Full reference on MP costs and regeneration.
 - [Direction](./Direction.md) — The movement commands.
 - [EquipmentLoadList](./EquipmentLoadList.md) — How encumbrance affects carrying capacity and movement.
+
+## External Links
+- [Official MUME Help: Movement](https://mume.org/help/movement)

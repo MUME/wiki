@@ -93,3 +93,6 @@ useful.
 
 <!--@include: ../includes/Skills.md-->
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Thief](https://mume.org/help/thief)

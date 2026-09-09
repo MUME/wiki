@@ -60,3 +60,6 @@ The 'train status' command shows your current choices.
 NOTE: Unlike [rerolls](./Reroll.md), training does not affect your
 [practice](./Practice.md) percentages. The percentage to which you
 can practice a skill is only based on your reference abilities.
+
+## External Links
+- [Official MUME Help: Train](https://mume.org/help/train)

@@ -37,3 +37,6 @@ This spell can be learned from:
 - [Remove Poison](./Remove_Poison.md), [Detect Evil](./Detect_Evil.md), [Sense Life](./Sense_Life.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Detect Poison](https://mume.org/help/detect_poison)

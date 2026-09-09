@@ -23,3 +23,6 @@ Typing `levels` shows a table of XP thresholds, helping you gauge how far you ar
 - [Hero](./Hero.md) — The tier unlocked at level 21.
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Levels](https://mume.org/help/levels)

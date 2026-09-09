@@ -15,3 +15,6 @@ NOTE: Most food will decompose after a certain amount of time.
 
 See Also: [Drink](./Items.md#drink),
 [Regeneration](./Regeneration.md)
+
+## External Links
+- [Official MUME Help: Food](https://mume.org/help/food)

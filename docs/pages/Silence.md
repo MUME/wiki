@@ -28,3 +28,6 @@ This spell can be learned from:
 | [Lórien Mage Guild](./Lórien_Mage_Guild.md) | 4 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Silence](https://mume.org/help/silence)

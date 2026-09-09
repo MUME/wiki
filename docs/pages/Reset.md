@@ -11,4 +11,6 @@ board, marking all messages as unread.
 See also: [Boards](./Boards.md), [Catchup](./Catchup.md),
 [Read](./Read.md), [Reply](./Reply.md),
 [Write](./Write.md)
- 
+
+## External Links
+- [Official MUME Help: Reset](https://mume.org/help/reset)

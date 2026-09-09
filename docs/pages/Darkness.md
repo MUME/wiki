@@ -30,3 +30,6 @@ The **Darkness** spell shrouds the immediate area in shadow. It can affect the v
 - [Bless](./Bless.md), [Protection From Evil](./Protection_From_Evil.md), [Sanctuary](./Sanctuary.md), Strength
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Darkness](https://mume.org/help/darkness)

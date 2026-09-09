@@ -11,3 +11,6 @@ nearest obvious exit to the outside. Typing leave while on a
 allow you to exit it and go about your business.
 
 See also: [Enter](./Enter.md)
+
+## External Links
+- [Official MUME Help: Leave](https://mume.org/help/leave)

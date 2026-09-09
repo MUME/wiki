@@ -24,4 +24,6 @@ restrictions on what commands other players can be ordered to perform
 though.
 
 See Also: [Command](./Command.md), [Charm](./Charm.md)
- 
+
+## External Links
+- [Official MUME Help: Order](https://mume.org/help/order)

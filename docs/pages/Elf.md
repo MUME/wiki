@@ -78,3 +78,6 @@ See also: [Elven names](./Elven_names.md),
 [Elvish](./Elvish.md)
 
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Elf](https://mume.org/help/elf)

@@ -16,3 +16,6 @@ opened to reveal their contents.
 See also: [Drag](./Drag.md), [Burn](./Burn.md),
 [Decapitate](./Decapitate.md), [Drain](./Drain.md),
 [Hang](./Hang.md)
+
+## External Links
+- [Official MUME Help: Bury](https://mume.org/help/bury)

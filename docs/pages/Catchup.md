@@ -24,4 +24,6 @@ Example:
 See also: [Boards](./Boards.md), [Mark](./Mark.md),
 [Read](./Read.md), [Reply](./Reply.md),
 [Write](./Write.md)
- 
+
+## External Links
+- [Official MUME Help: Catchup](https://mume.org/help/catchup)

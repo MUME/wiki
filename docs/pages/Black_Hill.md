@@ -25,3 +25,6 @@ Havens](./Grey_Havens.md).
 ## Inns and Taverns
 
 - [The Foaming Mug](./Foaming_Mug.md)
+
+## External Links
+- [Official MUME Help: Black Hill](https://mume.org/help/black_hill)

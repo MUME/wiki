@@ -30,3 +30,6 @@ move to a safe place before MUME reboots.
 
 The [Aratar](./Ainur.md#aratar) can reboot the game at any time
 and for any reason, so quit bitching about it.
+
+## External Links
+- [Official MUME Help: Reboot](https://mume.org/help/reboot)

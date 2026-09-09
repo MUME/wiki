@@ -19,4 +19,6 @@ course, you can't expect to recover a rope from below: you are trusting
 your weight to the knot.
 
 See also: [Climb](./Climb.md)
- 
+
+## External Links
+- [Official MUME Help: Rope](https://mume.org/help/rope)

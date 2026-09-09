@@ -26,3 +26,6 @@ Putting your gold in a moneybag prevents it from being
 [stolen](./Steal.md) by mobiles.
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Moneybag](https://mume.org/help/moneybag)

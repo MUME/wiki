@@ -35,3 +35,6 @@ This spell can be learned from:
 - [Detect Magic](./Detect_Magic.md), [Night Vision](./Night_Vision.md), [Shroud](./Shroud.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Detect Invisibility](https://mume.org/help/detect_invisibility)

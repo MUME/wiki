@@ -15,3 +15,6 @@ wear baldric back You put a leather baldric on your back. \> wear
 baldric quiver You put a leather baldric over your shoulder. See also:
 [Remove](./Remove.md), Equipment,
 [Mend](./Mend.md)
+
+## External Links
+- [Official MUME Help: Wear](https://mume.org/help/wear)

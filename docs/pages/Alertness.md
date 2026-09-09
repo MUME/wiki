@@ -13,3 +13,6 @@ A high alertness setting will also improve your peripheral vision when
 you are involved in a thick melee.
 
 See also: [Awareness](./Awareness.md)
+
+## External Links
+- [Official MUME Help: Alertness](https://mume.org/help/alertness)

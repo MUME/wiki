@@ -32,3 +32,6 @@ points.
 If you walk into a death trap after you recently met \*an Enemy\*, you
 may suffer a pkill death. See [Death](./Death.md) for more
 details.
+
+## External Links
+- [Official MUME Help: Death trap](https://mume.org/help/death_trap)

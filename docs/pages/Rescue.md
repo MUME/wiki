@@ -28,3 +28,6 @@ Learning the [escape](./Escape.md) skill has beneficial effects on the person be
 See also: [Bash](./Bash.md), [Kick](./Kick.md), [Group](./Group.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Rescue](https://mume.org/help/rescue)

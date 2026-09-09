@@ -158,3 +158,6 @@ rooms by itself!).
 Research and articles about the history of Mume.
 
 [Archive](./Archive.md)
+
+## External Links
+- [Official MUME Help: History](https://mume.org/help/history)

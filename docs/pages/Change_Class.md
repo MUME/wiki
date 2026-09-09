@@ -35,3 +35,6 @@ Ok.
 ```
 
 See Also: [Class](./Class.md)
+
+## External Links
+- [Official MUME Help: Change Class](https://mume.org/help/change_class)

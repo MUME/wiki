@@ -37,3 +37,6 @@ use the "weather local" command.
 It is rumoured powerful magic may alter the course of the local weather.
 
 See also: [Map](./Map.md), [Ancient Maps](./Ancient_Maps.md)
+
+## External Links
+- [Official MUME Help: Weather](https://mume.org/help/weather)

@@ -14,4 +14,6 @@ Common causes for bansites include:
 - [Multiplaying](./Rules_Accounts.md)
 - Inapproriate [names](./Rules_Names.md) for characters
 - Repeatedly breaking any rule or rules
- 
+
+## External Links
+- [Official MUME Help: Bansite](https://mume.org/help/bansite)

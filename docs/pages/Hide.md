@@ -58,3 +58,6 @@ from time to time by evil spirits, but nobody knows for sure.
 [Back to skill list](./Skill.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Hide](https://mume.org/help/hide)

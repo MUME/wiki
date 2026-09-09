@@ -29,3 +29,6 @@ Before casting the spell, some other ceremonies could be needed, such as casting
 - [Focus](./Focus.md), [Staff](./Staff.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Create Focus](https://mume.org/help/create_focus)

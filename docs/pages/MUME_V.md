@@ -9,3 +9,6 @@ MUME V was launched in August 1994, and included:
 reduce MUME bandwidth usage \* MUME moves from the Database lab to the
 Math department \* Critical hits \* Orc Shamans \* Tracking system \*
 Line of Sight
+
+## External Links
+- [Official MUME Help: MUME V](https://mume.org/help/mume_v)

@@ -66,3 +66,6 @@ probably know the answer.
 
 There are Aratar without this precise job description too, but they have
 assignments and responsibilities (just not in plainsight for mortals).
+
+## External Links
+- [Official MUME Help: Ainur](https://mume.org/help/ainur)

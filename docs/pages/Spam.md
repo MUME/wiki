@@ -42,3 +42,6 @@ When you use the command **`examine`**, you will always see the full description
 :::
 
 See also: [Compact](./Compact.md), [Prompt](./Prompt.md), [Rules Spam](./Rules_Spam.md)
+
+## External Links
+- [Official MUME Rules: Spam](https://mume.org/rules/spam)

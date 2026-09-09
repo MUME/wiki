@@ -29,3 +29,6 @@ can use the butcher command to produce "food" from the corpses of dead
 players.
 
 See also: [Milk](./Milk.md), [Cook](./Cook.md)
+
+## External Links
+- [Official MUME Help: Butcher](https://mume.org/help/butcher)

@@ -24,3 +24,6 @@ or "drop everyone" to try to shake off everyone:
 
 See also: [Get](./Get.md), [Put](./Put.md),
 Abandon
+
+## External Links
+- [Official MUME Help: Drop](https://mume.org/help/drop)

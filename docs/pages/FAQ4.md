@@ -36,3 +36,6 @@ food. Cooking will also work if you wear your pan on your belt.
 
 Q: "How do I use the fishing rod?" A: Sit on or next to a lake or
 stream, hold the rod, and type "fish".
+
+## External Links
+- [Official MUME Help: FAQ4](https://mume.org/help/faq4)

@@ -15,3 +15,6 @@ Examples: \>exa pouch pouch (used) : a wooden pipe some sweet-smelling
 dried mauve petals some sweet-smelling dried mauve petals \>look in
 pouch pouch (used) : two piles of sweet-smelling dried mauve petals a
 wooden pipe
+
+## External Links
+- [Official MUME Help: Examine](https://mume.org/help/examine)

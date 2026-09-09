@@ -15,3 +15,6 @@ points and [hit points](./Hit_points.md).
 
 Remember: Backfiring a low level spell will not cause great harm,
 backfiring a level 15 spell is another story...
+
+## External Links
+- [Official MUME Help: Backfire](https://mume.org/help/backfire)

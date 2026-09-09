@@ -27,3 +27,6 @@ This spell can be learned from:
 | [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Find the Path](https://mume.org/help/find_the_path)

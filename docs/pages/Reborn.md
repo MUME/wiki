@@ -19,3 +19,6 @@ If you died to what looks like a [bug](./Bug.md), don't use the
 reimburse you.
 
 See also: [Sundeath](./Sundeath.md), [Troll](./Troll.md)
+
+## External Links
+- [Official MUME Help: Reborn](https://mume.org/help/reborn)

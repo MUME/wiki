@@ -12,3 +12,6 @@ friends...). Your chances of success will depend on your eyesight,
 hearing and sense of smell, as well as your skill in searching.
 
 See also: [Search](./Search.md), [Reveal](./Reveal.md)
+
+## External Links
+- [Official MUME Help: Flush](https://mume.org/help/flush)

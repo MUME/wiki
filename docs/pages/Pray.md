@@ -69,3 +69,6 @@ Example:
 `> pray Harry won't open the gate for me, even if I am citizen`
 
 See also: [Narrate](./Narrate.md), [Sing](./Sing.md)
+
+## External Links
+- [Official MUME Help: Pray](https://mume.org/help/pray)

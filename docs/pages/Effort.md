@@ -26,3 +26,6 @@ Effort is used with:
 
 - [Hide](./Hide.md) — Hiding yourself or objects.
 - [Search](./Search.md) — Searching rooms for hidden exits or items.
+
+## External Links
+- [Official MUME Help: Effort](https://mume.org/help/effort)

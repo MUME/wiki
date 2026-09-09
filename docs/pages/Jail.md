@@ -20,3 +20,6 @@ When a jailed character logs in, they find themselves in a jail cell and cannot 
 - [Justice](./Justice.md) — The justice rating system that triggers jailing.
 - [Citizen](./Citizen.md) — NPCs whose protection the justice system enforces.
 - [Cities](./Cities.md) — The towns where the jail mechanic applies.
+
+## External Links
+- [Official MUME Help: Jail](https://mume.org/help/jail)

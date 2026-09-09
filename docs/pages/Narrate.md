@@ -33,3 +33,6 @@ Example:
 See also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Shout](./Shout.md), [Listen](./Listen.md),
 [Sing](./Sing.md), [Ignore](./Ignore.md)
+
+## External Links
+- [Official MUME Help: Narrate](https://mume.org/help/narrate)

@@ -18,4 +18,6 @@ view wizretired         show the list of retired immortals
 view war                show the current balance of power
 view warlords           show the list of warlords
 ```
- 
+
+## External Links
+- [Official MUME Help: View](https://mume.org/help/view)

@@ -33,3 +33,6 @@ This spell can be learned from:
 - [Corrupting](./Corrupting.md), [Curse](./Curse.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Remove Curse](https://mume.org/help/remove_curse)

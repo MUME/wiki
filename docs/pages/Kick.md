@@ -25,3 +25,6 @@ Kicking can be quite useful for the lonely warrior fighting foul spectres. When 
 [Back to skill list](./Skill.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Kick](https://mume.org/help/kick)

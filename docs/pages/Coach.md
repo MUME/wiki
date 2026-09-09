@@ -44,3 +44,6 @@ son Pete, which connect [Fornost](./Fornost.md) to
 at some intermediate points. More coaches might be added in the future.
 
 See also: Buy, [Ferry](./Ferry.md)
+
+## External Links
+- [Official MUME Help: Coach](https://mume.org/help/coach)

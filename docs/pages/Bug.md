@@ -90,4 +90,6 @@ Remember to put a line break (hit enter) at the end of each line (after
 Also, if it is an idea, you must check [NOIDEA](./NOIDEA.md) first
 to see whether you are wasting your time. Any idea which is ruled
 no-idea will be deleted on sight, so save your time.
- 
+
+## External Links
+- [Official MUME Help: Bug](https://mume.org/help/bug)

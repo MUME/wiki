@@ -16,3 +16,6 @@ Syntax: cut \[down corpse
 See also: [Burn](./Burn.md), [Bury](./Bury.md),
 [Decapitate](./Decapitate.md), [Drag](./Drag.md),
 [Drain](./Drain.md)
+
+## External Links
+- [Official MUME Help: Hang](https://mume.org/help/hang)

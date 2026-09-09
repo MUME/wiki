@@ -27,4 +27,6 @@ Only physical attacks (hit, [bash](./Bash.md) and
 Example: protect lists who you will try to protect protect frodo toggles
 wether you will try to protect Frodo or not protect myself clears the
 list of people you will protect
- 
+
+## External Links
+- [Official MUME Help: Protect](https://mume.org/help/protect)

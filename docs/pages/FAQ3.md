@@ -83,3 +83,6 @@ may decide that you are not there unless you show yourself. If the only
 thing wrong with the item is that it is the wrong size for you, you can
 type 'resize &lt;item&gt;' and get it back immediately,
 without wait.
+
+## External Links
+- [Official MUME Help: FAQ3](https://mume.org/help/faq3)

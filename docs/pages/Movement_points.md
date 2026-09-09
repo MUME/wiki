@@ -97,3 +97,6 @@ points:
 - Monitor your movement points and rest before they get too low. If you
   are out of moves and an aggressive mob or player enters your room you
   will not be able to flee.
+
+## External Links
+- [Official MUME Help: Movement points](https://mume.org/help/movement_points)

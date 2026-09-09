@@ -11,3 +11,6 @@ Examples: \> get warsword \> get all (takes all objects on the ground)
 \> get bread sack (gets a 'bread' from a 'sack') \> get all.bread sack
 (gets all 'bread's from the 'sack') See also: [Drop](./Drop.md),
 [Put](./Put.md)
+
+## External Links
+- [Official MUME Help: Get](https://mume.org/help/get)

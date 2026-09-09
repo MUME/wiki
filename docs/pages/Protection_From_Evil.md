@@ -33,3 +33,6 @@ See also: [Bless](./Bless.md), [Darkness](./Darkness.md),
 [Sanctuary](./Sanctuary.md), Strength
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Protection From Evil](https://mume.org/help/protection_from_evil)
