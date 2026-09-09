@@ -15,3 +15,6 @@ variable.
 
 See also: [Change](./Change.md), [Change
 Editor](./Change_Editor.md)
+
+## External Links
+- [Official MUME Help: Change Pager](https://mume.org/help/change_pager)

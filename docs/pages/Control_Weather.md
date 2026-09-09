@@ -37,3 +37,6 @@ This spell can be learned from:
 | [Rivendell Mage Guild](./Rivendell_Mage_Guild.md) | 3 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Control Weather](https://mume.org/help/control_weather)

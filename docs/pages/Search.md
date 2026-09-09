@@ -29,3 +29,6 @@ Examples:
 ```
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Search](https://mume.org/help/search)

@@ -16,3 +16,6 @@ no matter if they are yours or not.
 
 See also: [Shoot](./Shoot.md), [Archery](./Archery.md),
 [Missile Weapons](./Weapon.md#missile-weapons)
+
+## External Links
+- [Official MUME Help: Recover](https://mume.org/help/recover)

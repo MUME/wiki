@@ -13,3 +13,6 @@ Examples: \> put the dagger in the bag \> put all in bag (put everything
 certain type in a container) \> put sword room.sack (put sword in the
 first sack in room) See also: [Get](./Get.md),
 [Drop](./Drop.md)
+
+## External Links
+- [Official MUME Help: Put](https://mume.org/help/put)

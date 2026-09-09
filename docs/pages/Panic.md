@@ -11,3 +11,6 @@ abilities are reduced. Though the durations of multiple panics are not
 cumulative, their effects on your ability to fight are.
 
 See Also: [Flee](./Flee.md), [Escape](./Escape.md)
+
+## External Links
+- [Official MUME Help: Panic](https://mume.org/help/panic)

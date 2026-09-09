@@ -60,3 +60,6 @@ Some races have unique mechanics that require specialized knowledge:
 <hr />
 
 <ClassRace />
+
+## External Links
+- [Official MUME Help: races](https://mume.org/help/races)

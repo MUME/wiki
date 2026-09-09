@@ -11,3 +11,6 @@ hand, you can raise hands to raise two hands, raise eyebrow to raise an
 eyebrow, or raise eyebrows to raise both eyebrows.
 
 See also: [Socials](./Socials.md)
+
+## External Links
+- [Official MUME Help: Raise](https://mume.org/help/raise)

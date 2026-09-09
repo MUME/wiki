@@ -25,4 +25,6 @@ Examples:
 ```
 
 See also: [Cast](./Cast.md)
- 
+
+## External Links
+- [Official MUME Help: Recite](https://mume.org/help/recite)

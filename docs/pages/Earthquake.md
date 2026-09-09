@@ -36,3 +36,6 @@ This spell can be learned from:
   [Call Lightning](./Call_Lightning.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Earthquake](https://mume.org/help/earthquake)

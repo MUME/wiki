@@ -28,3 +28,6 @@ trophy wolf
 trophy elrond
 trophy #      <- display all killed player characters
 ```
+
+## External Links
+- [Official MUME Help: Trophy](https://mume.org/help/trophy)

@@ -20,3 +20,6 @@ Example:
 See also: [Shout](./Shout.md), [Tell](./Tell.md),
 [Narrate](./Narrate.md), [Sing](./Sing.md),
 [Ignore](./Ignore.md)
+
+## External Links
+- [Official MUME Help: Yell](https://mume.org/help/yell)

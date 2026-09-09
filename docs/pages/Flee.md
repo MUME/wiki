@@ -61,3 +61,6 @@ disadvantages.
 See also: [Disengage](./Disengage.md),
 [Escape](./Escape.md), [Panic](./Panic.md),
 [Wimpy](./Wimpy.md)
+
+## External Links
+- [Official MUME Help: Flee](https://mume.org/help/flee)

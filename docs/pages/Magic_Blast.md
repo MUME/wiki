@@ -27,3 +27,6 @@ Skilled mages are less likely to accidentally dispel their own [Sanctuary](./San
 Note: Magic Blast will not affect your own [charmed](./Charm.md) followers if they are in the same room as you.
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Magic Blast](https://mume.org/help/magic_blast)

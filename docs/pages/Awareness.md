@@ -25,3 +25,6 @@ poorest of conditions. (95% awareness allows night-vision)
 [Back to skill list](./Skill.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Awareness](https://mume.org/help/awareness)

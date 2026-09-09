@@ -34,3 +34,6 @@ Separation](./Rules_Character_Separation.md)).
 Beyond this, we would hope that players who enjoy role-playing will come
 together for mutual enjoyment. Please use the Idea
 command to suggest ways in which management can help.
+
+## External Links
+- [Official MUME Help: Roleplay](https://mume.org/help/roleplay)

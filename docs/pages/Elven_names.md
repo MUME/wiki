@@ -47,3 +47,6 @@ derivation, Dwarves, [Orcs](./Orc.md), and
   - [Elvish](./Elvish.md)
 - [Roleplay](./Roleplay.md)
 - [Rules Names](./Rules_Names.md)
+
+## External Links
+- [Official MUME Help: Elven names](https://mume.org/help/elven_names)

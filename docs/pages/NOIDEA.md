@@ -135,3 +135,6 @@ implementors) and ruled to never appear as long as they draw breath:
   nature, would act to supercede
 
 `the NOIDEA category`
+
+## External Links
+- [Official MUME Help: NOIDEA](https://mume.org/help/noidea)

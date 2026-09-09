@@ -17,3 +17,6 @@ dragging. Some objects may be dragged too.
 See also: [Burn](./Burn.md), [Decapitate](./Decapitate.md),
 [Drain](./Drain.md), [Hang](./Hang.md),
 [Bury](./Bury.md)
+
+## External Links
+- [Official MUME Help: Drag](https://mume.org/help/drag)

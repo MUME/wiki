@@ -28,3 +28,6 @@ Commands](./Editor_Commands.md).
 
 See also: [Change Editor](./Change_Editor.md), [Local
 Editor](./Local_Editor.md), [Write](./Write.md)
+
+## External Links
+- [Official MUME Help: Editor](https://mume.org/help/editor)

@@ -32,3 +32,6 @@ practice into it so you can see other people's
 [inventories](./Inventory.md).
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Steal](https://mume.org/help/steal)

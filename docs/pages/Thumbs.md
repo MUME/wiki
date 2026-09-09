@@ -11,3 +11,6 @@ with a minor twist. You can either thumbs up &lt;someone&gt; or thumbs down
 someone.
 
 See also: [Socials](./Socials.md)
+
+## External Links
+- [Official MUME Help: Thumbs](https://mume.org/help/thumbs)

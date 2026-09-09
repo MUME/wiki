@@ -20,3 +20,6 @@ Pebbles may be searched for on the ground, if you are using a sling: use
 REVEAL STONE. See also: Missile,
 [Shoot](./Shoot.md), [Recover](./Recover.md),
 [Load](./Load.md), [Target Shooting](./Target_Shooting.md)
+
+## External Links
+- [Official MUME Help: Archery](https://mume.org/help/archery)

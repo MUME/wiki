@@ -30,3 +30,6 @@ Example:
 `> poison axe`
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Envenom](https://mume.org/help/envenom)

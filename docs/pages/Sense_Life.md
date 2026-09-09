@@ -32,3 +32,6 @@ This spell can be learned from:
 | [Tharbad Cleric Guild](./Tharbad_Cleric_Guild.md) | 9 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Sense Life](https://mume.org/help/sense_life)

@@ -15,3 +15,6 @@ leader.
 Examples: \> follow frostblade \> follow See also:
 [Group](./Group.md), [Drop](./Drop.md),
 Abandon
+
+## External Links
+- [Official MUME Help: Follow](https://mume.org/help/follow)

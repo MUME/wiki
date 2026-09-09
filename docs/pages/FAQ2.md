@@ -58,3 +58,6 @@ played for a length of time which depends on your
 couple days. A level 2 character will last for five days; a level 3 for
 10, and so on. The amount of rent money you have does not affect this.
 [Legend](./Legend.md) characters (26 or more) will never delete.
+
+## External Links
+- [Official MUME Help: FAQ2](https://mume.org/help/faq2)

@@ -17,3 +17,6 @@ in your hands.
 See also: [Boards](./Boards.md), [Write](./Write.md),
 [Mail](./Mail.md), [Tail](./Tail.md),
 [Libraries](./Libraries.md), [Mark](./Mark.md)
+
+## External Links
+- [Official MUME Help: Read](https://mume.org/help/read)

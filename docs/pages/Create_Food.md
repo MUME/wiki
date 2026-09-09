@@ -34,3 +34,6 @@ This spell can be learned from:
 - [Create Water](./Create_Water.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Create Food](https://mume.org/help/create_food)

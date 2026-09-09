@@ -27,3 +27,6 @@ MUME's time starts in the year 2850 of the Third Age, when Gandalf entered Dol G
 
 See also: [Day](./Day.md), [Month](./Month.md),
 [Tick](./Tick.md)
+
+## External Links
+- [Official MUME Help: Time](https://mume.org/help/time)

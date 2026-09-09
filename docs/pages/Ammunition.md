@@ -32,3 +32,6 @@ Stones are used by [slings](./Ranged_weapon.md).
 - [round stone](./Weapon.md#missiles)
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Ammunition](https://mume.org/help/ammunition)

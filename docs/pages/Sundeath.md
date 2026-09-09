@@ -20,3 +20,6 @@ These deaths are "permanent" and reduce the character to
 [level](./Level.md) one.
 
 See also: [Reborn](./Reborn.md)
+
+## External Links
+- [Official MUME Help: Sundeath](https://mume.org/help/sundeath)

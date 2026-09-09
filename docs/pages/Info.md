@@ -20,3 +20,6 @@ see also: [Score](./Score.md), Stat,
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Info](https://mume.org/help/info)

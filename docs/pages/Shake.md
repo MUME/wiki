@@ -11,3 +11,6 @@ which will shake your head at someone, or you can shake hands &lt;someone&gt;
 which will shake its hands.
 
 See also: [Socials](./Socials.md)
+
+## External Links
+- [Official MUME Help: Shake](https://mume.org/help/shake)

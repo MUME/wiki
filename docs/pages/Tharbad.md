@@ -121,3 +121,6 @@ Docks  ,|       Knife Bar          Shop  |      |           |      to lower
                                     |   |
                                   South Gate
 ``` <!--@include: ../includes/Place.md-->
+
+## External Links
+- [Official MUME Help: Tharbad](https://mume.org/help/tharbad)

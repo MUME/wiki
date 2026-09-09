@@ -23,3 +23,6 @@ Belts are primarily sought for their move regeneration or dodge bonuses. The gol
 - [Equipment](../equipment.md) — Overview of all equipment categories.
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Belts](https://mume.org/help/belts)

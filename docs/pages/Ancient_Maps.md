@@ -73,3 +73,6 @@ description: 'Map of Arda before the Change of the World'
 ## See also:
 
 - [Arda](./Arda.md)
+
+## External Links
+- [Official MUME Help: Ancient Maps](https://mume.org/help/ancient_maps)

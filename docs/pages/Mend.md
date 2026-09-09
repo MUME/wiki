@@ -38,3 +38,6 @@ necessary tools to do so.
 
 See also: [Shop](./Shop.md), [Whetstone](./Whetstone.md),
 [State](./State.md)
+
+## External Links
+- [Official MUME Help: Mend](https://mume.org/help/mend)

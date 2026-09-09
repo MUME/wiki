@@ -33,3 +33,6 @@ This spell can be learned from:
   Drain](./Energy_Drain.md), [Harm](./Harm.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Smother](https://mume.org/help/smother)

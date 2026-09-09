@@ -91,3 +91,6 @@ citizenship in Anduin Vale (if any) and you will forget most of the
 languages you have learned.
 
 *MUME VIII planners and coders: Dáin, Gothmog, Frór, and Manwë.*
+
+## External Links
+- [Official MUME Help: MUME VIII](https://mume.org/help/mume_viii)

@@ -21,3 +21,6 @@ to do something (fight, for instance) at your command.
   Dead](./Raise_Dead.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Command](https://mume.org/help/command)

@@ -37,3 +37,6 @@ This spell can be learned from:
   Vision](./Night_Vision.md), [Store](./Store.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Call Familiar](https://mume.org/help/call_familiar)

@@ -120,3 +120,6 @@ bonus](./Dodge_bonus.md)).
 
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Shield](https://mume.org/help/shield)

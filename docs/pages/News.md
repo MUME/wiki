@@ -45,4 +45,6 @@ News are archived after a RL year: these entries will not be listed in
 You can also receive the latest news via the RSS feed.
 
 See also: [Read](./Read.md), [View](./View.md)
- 
+
+## External Links
+- [Official MUME Help: News](https://mume.org/help/news)

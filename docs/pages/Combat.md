@@ -42,3 +42,6 @@ help file, check out the "See Also" section at the bottom.
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Combat](https://mume.org/help/combat)

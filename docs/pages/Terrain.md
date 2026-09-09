@@ -23,3 +23,6 @@ harder Dwarves\| . harder . . easier Hobbits\| easier . . . harder Orcs
 \| . harder easier harder easier Trolls \| easier . . . easier
 
 See Also: [Movement points](./Movement_points.md)
+
+## External Links
+- [Official MUME Help: Terrain](https://mume.org/help/terrain)

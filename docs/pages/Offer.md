@@ -41,3 +41,6 @@ the game crashes or reboots.
 See also: [Camp](./Camp.md), [Inn](./Inn.md),
 Receptionist, [Noquit](./Noquit.md),
 [Link](./Link.md), [Hometowns](./Hometowns.md)
+
+## External Links
+- [Official MUME Help: Offer](https://mume.org/help/offer)

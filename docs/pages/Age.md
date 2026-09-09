@@ -38,3 +38,6 @@ ages 3 times slower, and a Hobbit 1.5 times slower.
 ## See also
 
 - [Races](../races.md)
+
+## External Links
+- [Official MUME Help: Age](https://mume.org/help/age)

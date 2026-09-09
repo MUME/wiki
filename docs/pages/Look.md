@@ -32,3 +32,6 @@ Important: 'look at [corpse](./Corpse.md)' will not show the
 light or smoke.
 
 See Also: [Read](./Read.md)
+
+## External Links
+- [Official MUME Help: Look](https://mume.org/help/look)

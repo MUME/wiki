@@ -23,3 +23,6 @@ on a table, including a [hatchet](./Hatchet.md), a [hunting
 knife](./Hunting_knife.md), torches, and some
 food like [apples](./Apple.md) and
 [bread](./Loaf_of_bread.md).
+
+## External Links
+- [Official MUME Help: Halls of Mandos](https://mume.org/help/halls_of_mandos)

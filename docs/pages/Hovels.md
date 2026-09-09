@@ -18,3 +18,6 @@ See also: [Legend Homes](./Legend_Homes.md), [Legend Home
 Equipment](./Legend_Home_Equipment.md), [Legend Home
 Valet](./Legend_Home_Valet.md), [Friend](./Friend.md),
 [Legend Home Doors](./Legend_Home_Doors.md)
+
+## External Links
+- [Official MUME Help: Hovels](https://mume.org/help/hovels)

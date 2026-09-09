@@ -34,3 +34,6 @@ TP, [Sauron](./Sauron.md)
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Experience](https://mume.org/help/experience)

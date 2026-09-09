@@ -11,3 +11,6 @@ concentrate is impaired for a while.
 
 Being vanquished by an opponent also leads to (longer lasting)
 depression.
+
+## External Links
+- [Official MUME Help: Depression](https://mume.org/help/depression)

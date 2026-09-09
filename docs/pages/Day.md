@@ -8,3 +8,6 @@ Day names: (Dunedain) (Sindarin) "Sterday" "Orgilion" "Sunday" "Oranor"
 "Monday" "Orithil" "Trewsday" "Orgaladhad" "Hevensday" "Ormenel"
 "Mersday" "Orbelain" "Highday" "Oraearon" See also:
 [Time](./Time.md), [Month](./Month.md)
+
+## External Links
+- [Official MUME Help: Day](https://mume.org/help/day)

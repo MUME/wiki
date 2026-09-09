@@ -72,4 +72,6 @@ Mappers](./Rules_Mappers.md) for further details.
 
 See also: [Map Rooms](./Map_Rooms.md),
 [Weather](./Weather.md)
- 
+
+## External Links
+- [Official MUME Help: Map](https://mume.org/help/map)

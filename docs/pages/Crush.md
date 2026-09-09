@@ -10,4 +10,6 @@ powder. To do this, type "crush &lt;plant&gt;".
 
 See also: Potions,
 Herblores
- 
+
+## External Links
+- [Official MUME Help: Crush](https://mume.org/help/crush)

@@ -16,3 +16,6 @@ See also: [Dodge bonus](./Dodge_bonus.md),
 [Parry](./Parry.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Dodge](https://mume.org/help/dodge)

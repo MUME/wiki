@@ -285,3 +285,6 @@ tags:
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Abbreviations](https://mume.org/help/abbreviations)

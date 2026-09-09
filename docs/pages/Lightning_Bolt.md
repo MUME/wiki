@@ -42,3 +42,6 @@ This spell can be learned from:
   [Earthquake](./Earthquake.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Lightning Bolt](https://mume.org/help/lightning_bolt)

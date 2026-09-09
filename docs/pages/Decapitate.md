@@ -19,3 +19,6 @@ Example:
 See also: [Burn](./Burn.md), [Bury](./Bury.md),
 [Drag](./Drag.md), [Drain](./Drain.md),
 [Hang](./Hang.md)
+
+## External Links
+- [Official MUME Help: Decapitate](https://mume.org/help/decapitate)

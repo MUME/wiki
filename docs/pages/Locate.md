@@ -43,3 +43,6 @@ This spell can be learned from:
 See also: [Locate Magic](./Locate_Magic.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Locate](https://mume.org/help/locate)

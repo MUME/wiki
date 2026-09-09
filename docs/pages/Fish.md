@@ -18,3 +18,6 @@ grayling may have wandered into it's grasp and onto your supper plate.
 Example: \> fish \> use net, get net See also: [Milk](./Milk.md),
 [Butcher](./Butcher.md), [Camp](./Camp.md),
 [Cook](./Cook.md)
+
+## External Links
+- [Official MUME Help: Fish](https://mume.org/help/fish)

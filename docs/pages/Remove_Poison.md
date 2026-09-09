@@ -41,3 +41,6 @@ This spell can be learned from:
   [Heal](./Heal.md), [Poison](./Poison.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Remove Poison](https://mume.org/help/remove_poison)

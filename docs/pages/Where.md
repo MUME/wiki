@@ -21,4 +21,6 @@ looking for tracks as you move (as opposed to 'track').
 
 Characters who chose to toggle '[incognito](./Incognito.md) where'
 on are also not shown.
- 
+
+## External Links
+- [Official MUME Help: Where](https://mume.org/help/where)

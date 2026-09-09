@@ -39,3 +39,6 @@ Example:
 [Back to skill list](./Skill.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Backstab](https://mume.org/help/backstab)

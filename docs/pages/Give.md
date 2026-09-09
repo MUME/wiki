@@ -17,4 +17,6 @@ Note that the monetary units (copper, silver, gold) are different for
 Elves.
 
 See also: Money, [Steal](./Steal.md)
- 
+
+## External Links
+- [Official MUME Help: Give](https://mume.org/help/give)

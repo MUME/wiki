@@ -152,3 +152,6 @@ Rules
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Basics](https://mume.org/help/basics)

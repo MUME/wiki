@@ -24,3 +24,6 @@ damage](./Sanctuary.md) to allies and
 
 <!--@include: ../includes/Spells.md-->
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Cleric](https://mume.org/help/cleric)

@@ -57,3 +57,6 @@ or more specific *info %q*
 - You are evil, you could be a decent follower of Sauron. - Almost max
   evil
 - You are totally corrupted by the Evilness of Morgoth! - Max evil
+
+## External Links
+- [Official MUME Help: Alignment](https://mume.org/help/alignment)

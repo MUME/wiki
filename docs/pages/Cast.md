@@ -87,3 +87,6 @@ normal". You can however "change spellcasting" to choose a new default.
 - [Prompt](./Prompt.md), [Backfire](./Backfire.md), [Spell
   List](./Spell.md), [Change
   Spellcasting](./Change_Spellcasting.md)
+
+## External Links
+- [Official MUME Help: Cast](https://mume.org/help/cast)

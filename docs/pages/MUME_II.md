@@ -8,3 +8,6 @@ for adding "special" code to the game (that later, fortunately, was
 replaced by mudlle).
 
 Istari and foci were added, as were Orcs, causing the War to begin.
+
+## External Links
+- [Official MUME Help: MUME II](https://mume.org/help/mume_ii)

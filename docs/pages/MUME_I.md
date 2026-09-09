@@ -8,3 +8,6 @@ the Swiss Federal Institute of Technology in Lausanne, Database lab.
 
 It was a modified copy of DikuMUD, with the MUME-unique features
 trophies and cross-class practicing.
+
+## External Links
+- [Official MUME Help: MUME I](https://mume.org/help/mume_i)

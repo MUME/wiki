@@ -13,3 +13,6 @@ Tolkien's other major works include *The Silmarillion* (published posthumously),
 - [MUME](./MUME.md) — The game based on his work.
 - [Lore](../lore.md) — In-game lore hub covering the regions and peoples of Middle-earth.
 - [J. R. R. Tolkien on Wikipedia](https://en.wikipedia.org/wiki/J._R._R._Tolkien)
+
+## External Links
+- [Official MUME Help: Tolkien](https://mume.org/help/tolkien)

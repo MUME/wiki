@@ -81,3 +81,6 @@ current skill and hit points.
 - [Swim](./Swim.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Climb](https://mume.org/help/climb)

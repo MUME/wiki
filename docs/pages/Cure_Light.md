@@ -41,3 +41,6 @@ This spell can be learned from:
   Poison](./Remove_Poison.md), [Heal](./Heal.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Cure Light](https://mume.org/help/cure_light)

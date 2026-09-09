@@ -30,3 +30,6 @@ as well.
 
 See also: [Focus](./Focus.md), [Embed](./Embed.md), [Create
 Focus](./Create_Focus.md)
+
+## External Links
+- [Official MUME Help: Staff](https://mume.org/help/staff)

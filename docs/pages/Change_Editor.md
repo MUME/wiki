@@ -16,3 +16,6 @@ POWWOWEDITOR environment variable.
 See also: [Change](./Change.md), [Change
 Pager](./Change_Pager.md), [Editor](./Editor.md), [Local
 Editor](./Local_Editor.md)
+
+## External Links
+- [Official MUME Help: Change Editor](https://mume.org/help/change_editor)

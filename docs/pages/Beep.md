@@ -14,4 +14,6 @@ Example:
 
 With '[change](./Change.md) beep' you can set whether you want
 other players to be able to beep you.
- 
+
+## External Links
+- [Official MUME Help: Beep](https://mume.org/help/beep)

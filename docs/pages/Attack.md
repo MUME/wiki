@@ -19,3 +19,6 @@ are forced to flee from combat.
 [Back to skill list](./Skill.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Attack](https://mume.org/help/attack)

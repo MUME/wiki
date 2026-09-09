@@ -59,3 +59,6 @@ West, never to return.
 ```
 
 <!--@include: ../includes/Place.md-->
+
+## External Links
+- [Official MUME Help: Shire](https://mume.org/help/shire)

@@ -12,3 +12,6 @@ when it can't find the recipient.
 
 Note that occasionally pigeons may get lost and neither deliver the
 item, nor come back to the owner.
+
+## External Links
+- [Official MUME Help: Pigeon](https://mume.org/help/pigeon)

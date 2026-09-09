@@ -19,3 +19,6 @@ Note that highly skilled [Rangers](./Ranger.md) who have taken the [Dark Oath](.
 - [Fell Beast](./Fell_Beast.md)
 - [Dark Oath](./Dark_oath.md)
 - [Black Breath](./Black_Breath.md)
+
+## External Links
+- [Official MUME Help: Morgul blade](https://mume.org/help/morgul_blade)

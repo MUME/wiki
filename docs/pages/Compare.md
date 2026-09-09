@@ -28,4 +28,6 @@ Comparing objects in a shop:
 ```
 
 See also: [Consider](./Consider.md), Show
- 
+
+## External Links
+- [Official MUME Help: Compare](https://mume.org/help/compare)

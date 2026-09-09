@@ -47,3 +47,6 @@ messages. Type "catchup" and then read the messages with "read
 See also: [Read](./Read.md), [Write](./Write.md),
 [Mail](./Mail.md), [Tail](./Tail.md), [Rules
 Boards](./Rules_Boards.md)
+
+## External Links
+- [Official MUME Help: Boards](https://mume.org/help/boards)

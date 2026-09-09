@@ -20,3 +20,6 @@ eq W show what you are holding in your hands eq WSHbcahlfnF-qB the
 default eq display eq Fn hblaHfc WSw q-B a sane eq display See also:
 Equipment, [Change
 Eqorder](./Change_Eqorder.md)
+
+## External Links
+- [Official MUME Help: Equipment Format](https://mume.org/help/equipment_format)

@@ -33,3 +33,6 @@ open and close the door upon your command for an additional 750 gold and
 
 See also: [Legend Homes](./Legend_Homes.md), [Legend Home
 Prices](./Legend_Home_Prices.md), [Friend](./Friend.md)
+
+## External Links
+- [Official MUME Help: Legend Home Doors](https://mume.org/help/legend_home_doors)

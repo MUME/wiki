@@ -41,3 +41,6 @@ on.
 
 See also: [Decapitate](./Decapitate.md), [Drag](./Drag.md),
 [Drain](./Drain.md), [Hang](./Hang.md)
+
+## External Links
+- [Official MUME Help: Corpse](https://mume.org/help/corpse)

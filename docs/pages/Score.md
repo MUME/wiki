@@ -15,3 +15,6 @@ Format](/pages/Newbie_Guide_Accessing_Game_Information)
 ---
 
 <!--@include: ../includes/Guides.md-->
+
+## External Links
+- [Official MUME Help: Score](https://mume.org/help/score)

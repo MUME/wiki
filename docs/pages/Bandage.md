@@ -35,3 +35,6 @@ The conditions of the bandage will deteriorate with time, so it is a
 good idea to replace old bandages from time to time.
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Bandage](https://mume.org/help/bandage)

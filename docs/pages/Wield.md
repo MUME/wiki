@@ -20,3 +20,6 @@ one hand.
 See also: [Remove](./Remove.md),
 Equipment, [Draw](./Draw.md),
 [Justice](./Justice.md)
+
+## External Links
+- [Official MUME Help: Wield](https://mume.org/help/wield)

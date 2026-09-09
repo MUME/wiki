@@ -15,4 +15,6 @@ use the empty command:
 
 See also: [Get](./Get.md), [Pour](./Pour.md),
 Herblores
- 
+
+## External Links
+- [Official MUME Help: Empty](https://mume.org/help/empty)

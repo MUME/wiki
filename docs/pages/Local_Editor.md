@@ -37,3 +37,6 @@ the MUME website.
 
 See also: [Change Editor](./Change_Editor.md), Guide to local
 editing with PowTTY‎
+
+## External Links
+- [Official MUME Help: Local Editor](https://mume.org/help/local_editor)

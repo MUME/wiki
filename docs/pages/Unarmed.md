@@ -18,3 +18,6 @@ successfully.
 - [Troll guide](./Troll_guide.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Unarmed](https://mume.org/help/unarmed)

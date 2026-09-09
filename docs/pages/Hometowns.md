@@ -22,3 +22,6 @@ These are the races town officials recognize as being at home:
 
 Darkie officials have no racial prejudices (apart from hatred of
 others).
+
+## External Links
+- [Official MUME Help: Hometowns](https://mume.org/help/hometowns)

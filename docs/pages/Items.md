@@ -31,3 +31,6 @@ Used to open locked doors and containers. Keeping a well-organized keyring is a 
 Special items required to complete specific quests. These often cannot be sold and are highly valued for the progression they offer.
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Items](https://mume.org/help/items)

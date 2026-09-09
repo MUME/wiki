@@ -29,3 +29,6 @@ This spell can be learned from:
 | [Rivendell Cleric Guild](./Rivendell_Cleric_Guild.md) | 2 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Divination](https://mume.org/help/divination)

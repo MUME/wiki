@@ -16,3 +16,6 @@ they most likely will not return your tell.
 Setting up your linkdrop can enable you to remain unidle.
 
 See also: Void, [Linkdrop](./Linkdrop.md)
+
+## External Links
+- [Official MUME Help: Idle](https://mume.org/help/idle)

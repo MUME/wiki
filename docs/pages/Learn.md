@@ -25,3 +25,6 @@ To stop teaching, hit &lt;return&gt;
 To learn a skill type 'learn &lt;skill&gt;' when someone is teaching it.
 
 See also: [Practice](./Practice.md), [Guild](./Guild.md)
+
+## External Links
+- [Official MUME Help: Learn](https://mume.org/help/learn)

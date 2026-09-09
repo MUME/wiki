@@ -46,3 +46,6 @@ In PK charmies do not see an enemy player under their name but not under the key
   [Command](./Command.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Charm](https://mume.org/help/charm)

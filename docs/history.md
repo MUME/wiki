@@ -114,3 +114,6 @@ From the beginning, players built tools to help navigate MUME's sprawling world.
 - [MUME IX: Summary of Changes](https://mume.org/about/m9) — official summary of additions since MUME VIII
 - [Web News](https://mume.org/news/web) — chronological log of infrastructure and website changes since 1997
 - [Archive](./pages/Archive.md) — research articles and historical resources about MUME
+
+## External Links
+- [Official MUME Help: history](https://mume.org/help/history)

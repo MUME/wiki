@@ -33,3 +33,6 @@ Example:
 
 See also: [Cook](./Cook.md), [Look](./Look.md),
 [Sleep](./Sleep.md), [Rent](./Rent.md)
+
+## External Links
+- [Official MUME Help: Camp](https://mume.org/help/camp)

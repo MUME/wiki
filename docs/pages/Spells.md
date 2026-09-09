@@ -25,3 +25,6 @@ briskness', 'armour', and 'shield'.
 | 8. | [Cleric](./Cleric.md) | Explanation of what a cleric is. |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Spells](https://mume.org/help/spells)

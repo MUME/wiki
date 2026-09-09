@@ -23,3 +23,6 @@ tags:
 See also: [Warrior](./Warrior.md), [Parry](./Parry.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Endurance](https://mume.org/help/endurance)

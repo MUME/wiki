@@ -32,3 +32,6 @@ Example: \> swim Ok, from now you'll try to swim. W \> swim You won't
 try to swim anymore. \>
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Swim](https://mume.org/help/swim)

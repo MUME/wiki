@@ -31,3 +31,6 @@ Hills](./Tower_Hills.md), [Fornost](./Fornost.md), or
 [Bree](./Bree.md).
 
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Rohirrim](https://mume.org/help/rohirrim)

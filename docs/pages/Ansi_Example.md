@@ -35,3 +35,6 @@ CHARACTER______________
 See also: [Colour](./Colour.md),
 [Ansicodes](./Ansicodes.md), [Change](./Change.md),
 [Map](./Map.md)
+
+## External Links
+- [Official MUME Help: Ansi Example](https://mume.org/help/ansi_example)

@@ -30,3 +30,6 @@ This spell can be learned from:
 - [Bash](./Bash.md), [Block Door](./Block_Door.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Break Door](https://mume.org/help/break_door)

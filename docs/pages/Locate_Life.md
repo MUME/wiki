@@ -30,3 +30,6 @@ This spell can be learned from:
 | [Tharbad Mage Guild](./Tharbad_Mage_Guild.md) | 3 |
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Locate Life](https://mume.org/help/locate_life)

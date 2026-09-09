@@ -31,3 +31,6 @@ characters.
 See also: [Listen](./Listen.md), [Shout](./Shout.md),
 [Sing](./Sing.md), [Tell](./Tell.md),
 [Yell](./Yell.md)
+
+## External Links
+- [Official MUME Help: Ignore](https://mume.org/help/ignore)

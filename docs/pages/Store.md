@@ -34,3 +34,6 @@ This spell can be learned from:
   Vision](./Night_Vision.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Store](https://mume.org/help/store)

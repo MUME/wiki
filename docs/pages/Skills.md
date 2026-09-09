@@ -18,3 +18,6 @@ reading a help file, check out the "See Also" section at the bottom.
 | 6. | [Race](../races.md) | Information about races. |
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Skills](https://mume.org/help/skills)

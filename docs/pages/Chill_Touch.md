@@ -41,3 +41,6 @@ This spell can be learned from:
   [Earthquake](./Earthquake.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Chill Touch](https://mume.org/help/chill_touch)

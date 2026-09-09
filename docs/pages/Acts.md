@@ -24,3 +24,6 @@ automatically when you sit, stand,
 Abusing acts to give misleading information might lead to punishment.
 
 See also: [Emote](./Emote.md), [Socials](./Socials.md)
+
+## External Links
+- [Official MUME Help: Acts](https://mume.org/help/acts)

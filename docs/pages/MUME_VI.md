@@ -10,3 +10,6 @@ contained these new features:
 100 rooms \* Perception \* New hide/sneak/backstab system \* MUME is now
 hosted by the FIRE in Norway (January 98). \* The third arm (holding the
 lantern) was amputated \* New focus system
+
+## External Links
+- [Official MUME Help: MUME VI](https://mume.org/help/mume_vi)

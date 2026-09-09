@@ -27,3 +27,6 @@ description: 'Level    Magic User spells:            Cleric spells:'
 **Special spells:** [Create Focus](./Create_Focus.md), [Corrupt](./Corrupt.md)
 
 See also [Spells](./Spells.md)
+
+## External Links
+- [Official MUME Help: Spell list](https://mume.org/help/spell_list)

@@ -27,3 +27,6 @@ Learning wilderness helps reduce the amount of work required to travel. The ease
 [Ride](./Ride.md), [Awareness](./Awareness.md), [Track](./Track.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Wilderness](https://mume.org/help/wilderness)

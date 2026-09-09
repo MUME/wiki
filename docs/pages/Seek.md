@@ -20,3 +20,6 @@ things. Of course being an [elf](./Elf.md) helps, but
 [alignment](./Alignment.md) to do so.
 
 See also: [Rivendell](./Rivendell.md)
+
+## External Links
+- [Official MUME Help: Seek](https://mume.org/help/seek)

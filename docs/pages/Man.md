@@ -77,3 +77,6 @@ Corrupted descendants of Númenor who serve the Shadow.
 - **Penalties:** Cannot become immortal, suffer from depression, and must **camp** instead of using city rents.
 
 <!--@include: ../includes/ClassRace.md-->
+
+## External Links
+- [Official MUME Help: Man](https://mume.org/help/man)

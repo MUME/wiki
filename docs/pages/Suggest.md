@@ -14,4 +14,6 @@ Several functions can be reached through the **suggest** command;
 
 - Suggest cookies - Suggest a text for fortune
   cookies.
- 
+
+## External Links
+- [Official MUME Help: Suggest](https://mume.org/help/suggest)

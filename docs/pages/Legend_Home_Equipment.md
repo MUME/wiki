@@ -22,3 +22,6 @@ See also: [Legend Homes](./Legend_Homes.md), [Legend Home
 Valet](./Legend_Home_Valet.md), [Legend Home
 Prices](./Legend_Home_Prices.md), [Legend Home
 Locations](/pages/Legend_Home_Equipment)
+
+## External Links
+- [Official MUME Help: Legend Home Equipment](https://mume.org/help/legend_home_equipment)

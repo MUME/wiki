@@ -19,3 +19,6 @@ you're linkless.
 Of course, if you are already linkless, you cannot gain a novoid flag.
 
 See also: [Noquit](./Noquit.md)
+
+## External Links
+- [Official MUME Help: Novoid](https://mume.org/help/novoid)

@@ -24,4 +24,6 @@ is easier to scout it unnoticed, even while not hidden.
 
 The detail level of the scouted room, how you are seen when discovered,
 and the scouting delays depend upon the size of the involved rooms.
- 
+
+## External Links
+- [Official MUME Help: Scout](https://mume.org/help/scout)

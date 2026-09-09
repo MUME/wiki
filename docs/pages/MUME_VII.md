@@ -202,3 +202,6 @@ now, they only affect the knowledge of languages, but some other small
 effects will be added in a foreseeable future.
 
 *The MUME 7 Hack^H^H^H^H Development Team.*
+
+## External Links
+- [Official MUME Help: MUME VII](https://mume.org/help/mume_vii)

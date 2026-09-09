@@ -40,3 +40,6 @@ This spell can be learned from:
   Poison](./Remove_Poison.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Cure Disease](https://mume.org/help/cure_disease)

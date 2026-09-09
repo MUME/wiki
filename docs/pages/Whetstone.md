@@ -20,3 +20,6 @@ aliases: ["Whet"]
   your weapon at a local weaponsmith's shop.
 
 See Also: [Mend](./Mend.md), [Wield](./Wield.md)
+
+## External Links
+- [Official MUME Help: Whetstone](https://mume.org/help/whetstone)

@@ -51,3 +51,6 @@ track in a very limited area near their spawn location, while others may
 follow you for larger distances.
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Track](https://mume.org/help/track)

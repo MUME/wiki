@@ -11,3 +11,6 @@ shelter. You can also follow 'enter' with an argument; for example,
 enter [coaches](./Coach.md).
 
 See also: [Leave](./Leave.md)
+
+## External Links
+- [Official MUME Help: Enter](https://mume.org/help/enter)

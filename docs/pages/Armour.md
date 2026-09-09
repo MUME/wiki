@@ -446,3 +446,6 @@ Fine metal = crimson, black, green and white metal
 
 
 <!--@include: ../includes/Items.md-->
+
+## External Links
+- [Official MUME Help: Armour](https://mume.org/help/armour)

@@ -33,3 +33,6 @@ This spell can be learned from:
 See also: [Portal](./Portal.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Teleport](https://mume.org/help/teleport)

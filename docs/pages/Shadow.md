@@ -10,3 +10,6 @@ corpse they once occupied.
 
 You can refer to these shadows by adding -shadow to the name of their
 previous owner: for example, "troll-shadow".
+
+## External Links
+- [Official MUME Help: Shadow](https://mume.org/help/shadow)

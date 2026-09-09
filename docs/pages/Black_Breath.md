@@ -27,3 +27,6 @@ Casting Black Breath on a target will instantly remove any [Breath of Briskness]
 - [Hold](./Hold_Spell.md), [Raise Dead](./Raise_Dead.md)
 
 <!--@include: ../includes/Spells.md-->
+
+## External Links
+- [Official MUME Help: Black Breath](https://mume.org/help/black_breath)

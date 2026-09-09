@@ -22,3 +22,6 @@ tags:
 See also: [Dodge](./Dodge.md), [Warrior](./Warrior.md)
 
 <!--@include: ../includes/Skills.md-->
+
+## External Links
+- [Official MUME Help: Parry](https://mume.org/help/parry)

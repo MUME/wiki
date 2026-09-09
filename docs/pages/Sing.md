@@ -24,3 +24,6 @@ Example:
 See also: [Tell](./Tell.md), [Yell](./Yell.md),
 [Shout](./Shout.md), [Listen](./Listen.md),
 [Ignore](./Ignore.md)
+
+## External Links
+- [Official MUME Help: Sing](https://mume.org/help/sing)

@@ -16,3 +16,6 @@ Knocking does not open the door; it simply produces a sound that NPCs or other p
 - Opening doors before passing through (the `open` command).
 - [Direction](./Direction.md) — Movement direction commands.
 - [room](./room.md) — The basic unit of location.
+
+## External Links
+- [Official MUME Help: Knock](https://mume.org/help/knock)

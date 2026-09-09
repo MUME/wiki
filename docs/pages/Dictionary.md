@@ -27,4 +27,6 @@ plur.   plural
 ```
 
 Note: the dictionary is very far from complete right now
- 
+
+## External Links
+- [Official MUME Help: Dictionary](https://mume.org/help/dictionary)
