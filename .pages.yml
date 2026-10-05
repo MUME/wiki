@@ -1,5 +1,3 @@
-# Browser editor configuration: https://pagescms.org/docs/configuration/
-# Keep category choices aligned with docs/pages frontmatter.
 media:
   - name: images
     label: Images
@@ -8,134 +6,721 @@ media:
     categories:
       - image
 content:
-  - name: pages
-    label: Wiki pages
-    type: collection
-    path: docs/pages
-    format: yaml-frontmatter
-    subfolders: false
-    filename:
-      template: "{primary}.md"
-      field: create
-    operations:
-      rename: false
-      delete: false
-    view:
-      primary: title
-      fields:
-        - title
-        - tags
-      search:
-        - title
-        - aliases
-      sort:
-        - title
-      default:
-        sort: title
-        order: asc
-    fields:
-      - name: title
-        label: Page title
-        type: string
-        required: true
-      - name: description
-        label: Short description
-        type: text
-        description: Optional one-sentence summary for search engines.
-      - name: aliases
-        label: Other names for this page
-        type: string
-        list: true
-      - name: tags
-        label: Categories
-        type: select
-        options:
-          multiple: true
-          values:
-            - Arms items
-            - Basics
-            - Belts
-            - Boats
-            - Body items
-            - Charging weapons
-            - Cheat Sheet
-            - Cities
-            - Classes
-            - Cleaving weapons
-            - Cleric spells
-            - Clients
-            - Cloaks
-            - Cloth equipment
-            - Commands
-            - Concussion weapons
-            - Consumables
-            - Containers
-            - Ents
-            - Equipment
-            - Equipment by slot
-            - FAQS
-            - Feet items
-            - Guides
-            - Guildmasters
-            - Hands items
-            - Head items
-            - Help files
-            - Help_files
-            - History
-            - Inns
-            - Items
-            - Keys
-            - Leather equipment
-            - Legend homes
-            - Legend_homes
-            - Legs items
-            - Links
-            - Locations
-            - Lore
-            - Mage spells
-            - Mail equipment
-            - Mechanics
-            - Metal equipment
-            - Miscellaneous equipment
-            - Missile weapons
-            - Mobiles
-            - Mobiles with unknown level
-            - Neck items
-            - Newbie
-            - Newbie Help
-            - Piercing weapons
-            - Places
-            - Plants
-            - Playable races
-            - Quest items
-            - Races
-            - Ranger skills
-            - Rings
-            - Shaman spells
-            - Shields
-            - Shopkeepers
-            - Shops
-            - Skills
-            - Slashing weapons
-            - Smiting weapons
-            - Software
-            - Spells
-            - Stabbing weapons
-            - Statistics
-            - Thief skills
-            - Uncategorized items
-            - Warrior skills
-            - Weapons
-            - Wrist items
-      - name: autolink
-        label: Automatically link names of other wiki pages
-        type: boolean
-        default: true
-      - name: body
-        label: Page content (Markdown)
-        type: text
-        description: "Share mortal knowledge only. Hide spoilers inside ::: details
-          Spoiler blocks. Keep existing includes and components intact. Check your changes before saving to main; a successful site build publishes them directly."
+  - name: software
+    label: Software
+    type: group
+    items:
+      - name: software-c-z
+        label: C-Z
+        type: collection
+        path: docs/pages/Software/C-Z
+        format: yaml-frontmatter
+        subfolders: false
+        filename: &a1
+          template: "{primary}.md"
+          field: create
+        operations: &a2
+          rename: false
+          delete: false
+        view: &a3
+          primary: title
+          fields:
+            - title
+            - tags
+          search:
+            - title
+            - aliases
+          sort:
+            - title
+          default:
+            sort: title
+            order: asc
+        fields: &a4
+          - name: title
+            label: Page title
+            type: string
+            required: true
+          - name: description
+            label: Short description
+            type: text
+            description: Optional one-sentence summary for search engines.
+          - name: aliases
+            label: Other names for this page
+            type: string
+            list: true
+          - name: tags
+            label: Categories
+            type: select
+            options:
+              multiple: true
+              values:
+                - Arms items
+                - Basics
+                - Belts
+                - Boats
+                - Body items
+                - Charging weapons
+                - Cheat Sheet
+                - Cities
+                - Classes
+                - Cleaving weapons
+                - Cleric spells
+                - Clients
+                - Cloaks
+                - Cloth equipment
+                - Commands
+                - Concussion weapons
+                - Consumables
+                - Containers
+                - Ents
+                - Equipment
+                - Equipment by slot
+                - FAQS
+                - Feet items
+                - Guides
+                - Guildmasters
+                - Hands items
+                - Head items
+                - Help files
+                - Help_files
+                - History
+                - Inns
+                - Items
+                - Keys
+                - Leather equipment
+                - Legend homes
+                - Legend_homes
+                - Legs items
+                - Links
+                - Locations
+                - Lore
+                - Mage spells
+                - Mail equipment
+                - Mechanics
+                - Metal equipment
+                - Miscellaneous equipment
+                - Missile weapons
+                - Mobiles
+                - Mobiles with unknown level
+                - Neck items
+                - Newbie
+                - Newbie Help
+                - Piercing weapons
+                - Places
+                - Plants
+                - Playable races
+                - Quest items
+                - Races
+                - Ranger skills
+                - Rings
+                - Shaman spells
+                - Shields
+                - Shopkeepers
+                - Shops
+                - Skills
+                - Slashing weapons
+                - Smiting weapons
+                - Software
+                - Spells
+                - Stabbing weapons
+                - Statistics
+                - Thief skills
+                - Uncategorized items
+                - Warrior skills
+                - Weapons
+                - Wrist items
+          - name: autolink
+            label: Automatically link names of other wiki pages
+            type: boolean
+            default: true
+          - name: body
+            label: Page content
+            type: rich-text
+            options:
+              format: markdown
+              switcher: true
+              media: images
+            description: "Share mortal knowledge only. Hide spoilers inside ::: details
+              Spoiler blocks. Use Source mode for spoilers, includes, HTML,
+              scripts and components; visual editing of these constructs is
+              unverified. Check your changes before saving to main; a successful
+              site build publishes them directly."
+  - name: guides
+    label: Guides
+    type: group
+    items:
+      - name: guides-c-g
+        label: C-G
+        type: collection
+        path: docs/pages/Guides/C-G
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-h
+        label: H
+        type: collection
+        path: docs/pages/Guides/H
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-1
+        label: N-1
+        type: collection
+        path: docs/pages/Guides/N-1
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-2
+        label: N-2
+        type: collection
+        path: docs/pages/Guides/N-2
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-3
+        label: N-3
+        type: collection
+        path: docs/pages/Guides/N-3
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-4
+        label: N-4
+        type: collection
+        path: docs/pages/Guides/N-4
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-5
+        label: N-5
+        type: collection
+        path: docs/pages/Guides/N-5
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-6
+        label: N-6
+        type: collection
+        path: docs/pages/Guides/N-6
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-7
+        label: N-7
+        type: collection
+        path: docs/pages/Guides/N-7
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-n-8
+        label: N-8
+        type: collection
+        path: docs/pages/Guides/N-8
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: guides-q-t
+        label: Q-T
+        type: collection
+        path: docs/pages/Guides/Q-T
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: commands
+    label: Commands
+    type: group
+    items:
+      - name: commands-a-g
+        label: A-G
+        type: collection
+        path: docs/pages/Commands/A-G
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: commands-h-q
+        label: H-Q
+        type: collection
+        path: docs/pages/Commands/H-Q
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: commands-r-y
+        label: R-Y
+        type: collection
+        path: docs/pages/Commands/R-Y
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: spells
+    label: Spells
+    type: group
+    items:
+      - name: spells-b-n
+        label: B-N
+        type: collection
+        path: docs/pages/Spells/B-N
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: spells-p-w
+        label: P-W
+        type: collection
+        path: docs/pages/Spells/P-W
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: skills
+    label: Skills
+    type: group
+    items:
+      - name: skills-a-w
+        label: A-W
+        type: collection
+        path: docs/pages/Skills/A-W
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: equipment
+    label: Equipment
+    type: group
+    items:
+      - name: equipment-a-b
+        label: A-B
+        type: collection
+        path: docs/pages/Equipment/A-B
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: equipment-c-g
+        label: C-G
+        type: collection
+        path: docs/pages/Equipment/C-G
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: equipment-h-o
+        label: H-O
+        type: collection
+        path: docs/pages/Equipment/H-O
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: equipment-p-r
+        label: P-R
+        type: collection
+        path: docs/pages/Equipment/P-R
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: equipment-s-w
+        label: S-W
+        type: collection
+        path: docs/pages/Equipment/S-W
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: equipment-y
+        label: Y
+        type: collection
+        path: docs/pages/Equipment/Y
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: mobiles
+    label: Mobiles
+    type: group
+    items:
+      - name: mobiles-a-e
+        label: A-E
+        type: collection
+        path: docs/pages/Mobiles/A-E
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: mobiles-f-h
+        label: F-H
+        type: collection
+        path: docs/pages/Mobiles/F-H
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: mobiles-i-r
+        label: I-R
+        type: collection
+        path: docs/pages/Mobiles/I-R
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: mobiles-s-y
+        label: S-Y
+        type: collection
+        path: docs/pages/Mobiles/S-Y
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: locations
+    label: Locations
+    type: group
+    items:
+      - name: locations-a-i
+        label: A-I
+        type: collection
+        path: docs/pages/Locations/A-I
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: locations-l-w
+        label: L-W
+        type: collection
+        path: docs/pages/Locations/L-W
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: races
+    label: Races
+    type: group
+    items:
+      - name: races-b-z
+        label: B-Z
+        type: collection
+        path: docs/pages/Races/B-Z
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: classes
+    label: Classes
+    type: group
+    items:
+      - name: classes-a-z
+        label: A-Z
+        type: collection
+        path: docs/pages/Classes/A-Z
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+        exclude:
+          - .gitkeep
+  - name: lore
+    label: Lore
+    type: group
+    items:
+      - name: lore-m-t
+        label: M-T
+        type: collection
+        path: docs/pages/Lore/M-T
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+  - name: reference
+    label: Reference
+    type: group
+    items:
+      - name: reference-a-1
+        label: A-1
+        type: collection
+        path: docs/pages/Reference/A-1
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-a-2
+        label: A-2
+        type: collection
+        path: docs/pages/Reference/A-2
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-b
+        label: B
+        type: collection
+        path: docs/pages/Reference/B
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-c-d
+        label: C-D
+        type: collection
+        path: docs/pages/Reference/C-D
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-e-f
+        label: E-F
+        type: collection
+        path: docs/pages/Reference/E-F
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-g-1
+        label: G-1
+        type: collection
+        path: docs/pages/Reference/G-1
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-g-2
+        label: G-2
+        type: collection
+        path: docs/pages/Reference/G-2
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-h-k
+        label: H-K
+        type: collection
+        path: docs/pages/Reference/H-K
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-l
+        label: L
+        type: collection
+        path: docs/pages/Reference/L
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-m-1
+        label: M-1
+        type: collection
+        path: docs/pages/Reference/M-1
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-m-2
+        label: M-2
+        type: collection
+        path: docs/pages/Reference/M-2
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-n
+        label: N
+        type: collection
+        path: docs/pages/Reference/N
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-o-q
+        label: O-Q
+        type: collection
+        path: docs/pages/Reference/O-Q
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-r
+        label: R
+        type: collection
+        path: docs/pages/Reference/R
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-s-1
+        label: S-1
+        type: collection
+        path: docs/pages/Reference/S-1
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-s-2
+        label: S-2
+        type: collection
+        path: docs/pages/Reference/S-2
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-s-3
+        label: S-3
+        type: collection
+        path: docs/pages/Reference/S-3
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-s-4
+        label: S-4
+        type: collection
+        path: docs/pages/Reference/S-4
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-t-v
+        label: T-V
+        type: collection
+        path: docs/pages/Reference/T-V
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-w-x
+        label: W-X
+        type: collection
+        path: docs/pages/Reference/W-X
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
+      - name: reference-z
+        label: Z
+        type: collection
+        path: docs/pages/Reference/Z
+        format: yaml-frontmatter
+        subfolders: false
+        filename: *a1
+        operations: *a2
+        view: *a3
+        fields: *a4
 settings:
   content:
     merge: true

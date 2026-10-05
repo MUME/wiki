@@ -1,4 +1,6 @@
 import fs from 'fs';
+import routes from './routes.cjs';
+const { publicRoute } = routes;
 import path from 'path';
 import { execSync } from 'child_process';
 
@@ -39,7 +41,7 @@ function getFiles(dir, extension, fileList = []) {
 // Add all markdown files as valid paths
 const allMdFiles = getFiles('docs', '.md');
 allMdFiles.forEach(file => {
-    let relPath = '/' + path.relative('docs', file).replace(/\.md$/, '').replace(/\\/g, '/');
+    let relPath = publicRoute(path.relative('docs', file));
     if (relPath.endsWith('/index')) relPath = relPath.slice(0, -6) || '/';
     validPaths.add(relPath);
 });
@@ -65,7 +67,7 @@ const anchorIndex = new Map();
 
 allMdFiles.forEach(file => {
     const content = fs.readFileSync(file, 'utf-8');
-    let relPath = '/' + path.relative('docs', file).replace(/\.md$/, '').replace(/\\/g, '/');
+    let relPath = publicRoute(path.relative('docs', file));
     if (relPath.endsWith('/index')) relPath = relPath.slice(0, -6) || '/';
 
     const anchors = new Set();
@@ -123,8 +125,9 @@ let deadAnchors = 0;
 allMdFiles.forEach(file => {
     const content = fs.readFileSync(file, 'utf-8');
     const dir = path.dirname(file);
-    const relDir = dir.replace(/^docs\/?/, '');
-    let filePath = '/' + path.relative('docs', file).replace(/\.md$/, '').replace(/\\/g, '/');
+    const source = path.relative('docs', file).replace(/\\/g, '/');
+    const relDir = source.startsWith('pages/') ? 'pages' : path.posix.dirname(source).replace(/^\.$/, '');
+    let filePath = publicRoute(path.relative('docs', file));
     if (filePath.endsWith('/index')) filePath = filePath.slice(0, -6) || '/';
 
     // Improved regex to handle balanced parentheses (1 level deep)

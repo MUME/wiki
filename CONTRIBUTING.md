@@ -37,7 +37,7 @@ Secret information here...
 
 A maintainer must connect the repository first (see below). Editors can sign in with GitHub or accept a Pages CMS email invitation from a maintainer. If you do not have editor access, use the GitHub pull request route below.
 
-Trusted members edit directly on **`main`**. Accept your invitation, open the wiki repository in Pages CMS, select `main`, and choose **Wiki pages** to edit an existing page or create one. Use **Images** to upload pictures. Check your content and spoilers before saving.
+Trusted members edit directly on **`main`**. Accept your invitation, open the wiki repository in Pages CMS, select `main`, and choose the **topic → alphabetic collection** for the article to edit an existing page or create one. Use **Images** to upload pictures. Check your content and spoilers before saving.
 
 **Saving commits your changes directly to `main` and triggers the site build and deployment.** Your edit appears on the live wiki after deployment succeeds; there is no branch preparation, pull request, or per-edit maintainer approval. If saving is denied or the site does not update after deployment, contact a maintainer. See the [browser editing guide](https://docs.mume.org/wiki/pages/Contributing) for detailed steps.
 
@@ -67,6 +67,14 @@ Local development requires [Docker](https://www.docker.com/).
 
 The existing deployment workflow runs on pushes to `main`. A saved edit remains in Git history even if validation or deployment fails; fix or revert the offending change and let deployment run again. Editors can ask a maintainer for help with failed builds or rollbacks.
 
-The schema edits only `docs/pages/` and uploads images to `docs/public/img/`, writing `/img/…` URLs. Page bodies use plain text to preserve VitePress containers, includes, HTML, and Vue components; a visual rich-text round trip has not been validated for these constructs. Unknown frontmatter keys are preserved with `settings.content.merge`.
+The schema edits only `docs/pages/` and uploads images to `docs/public/img/`, writing `/img/…` URLs. Page bodies offer WYSIWYG editing with Markdown output and an Editor/Source switch. Use Source mode for spoilers, includes, HTML, script examples, and Vue components; visual-editor round trips have not been validated for these constructs. Inspect the source before saving. Unknown frontmatter keys are preserved with `settings.content.merge`.
 
 Page renaming and deletion are disabled in the CMS to avoid breaking links. New filenames must use the wiki convention (e.g. `Grey_Havens.md`); replace the suggested filename if needed, and omit leading `A`, `An`, or `The`. Section indexes and shared includes remain maintained through GitHub. When introducing a category, update the category choices in `.pages.yml` alongside the content.
+
+## Topic collection rollout
+
+Articles are organized into topic collections. Choose its alphabetic collection by the filename, not the title. Each article has one home; preserve its tags for overlapping categories. Existing public URLs stay `/wiki/pages/<Filename>` even when the source is nested. Do not rename articles. The initial collection targets (50 pages or 64 KiB of Markdown) are conservative test targets, not Pages CMS limits.
+
+A trusted editor must verify fresh loading and reloading for every leaf collection, an edit saved to `main`, a new page with a unique filename, successful deployment, and the resulting live pages. Record the commit, deployment URL, collection, editor, date, and fresh-load evidence in `migration/ROLLOUT.md`. A cached success alone does not pass: [Pages CMS fetches whole folders when their cache is untrusted](https://pagescms.org/docs/development/caching/).
+
+Inspect every leaf collection live and compare the baseline after deployment. Split failing collections deterministically; stop and investigate if a single-page collection fails. Revert a failed migration commit. Future URL changes require a separate redirect plan and verified permanent HTTP redirects; existing browser legacy redirects are not HTTP 301/308 redirects. Monitor Search Console where access is available.

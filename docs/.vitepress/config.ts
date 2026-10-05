@@ -2,6 +2,18 @@ import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
 import { slugify } from './shared'
+import { createRequire } from 'node:module'
+const require = createRequire(import.meta.url)
+const { getMarkdownFiles } = require('../../scripts/utils.cjs')
+const { publicRoute, topicFor, topicRoute } = require('../../scripts/routes.cjs')
+const sources = getMarkdownFiles(path.resolve(__dirname, '../pages')).map((file: string) => path.relative(path.resolve(__dirname, '..'), file).replace(/\\/g, '/'))
+const names = new Set<string>()
+for (const source of sources) {
+  const name = path.basename(source)
+  if (names.has(name)) throw new Error('Duplicate article filename: ' + name)
+  names.add(name)
+}
+const preview = (process.env.VITEPRESS_BASE ?? '/wiki/').includes('/pr-') || process.env.WIKI_PREVIEW === 'true'
 
 let pagesMeta = { terms: {}, paths: [], tags: {} }
 try {
@@ -9,6 +21,12 @@ try {
 } catch (e) {}
 const sortedTerms = Object.keys(pagesMeta.terms || {}).sort((a, b) => b.length - a.length)
 const validPaths = new Set(pagesMeta.paths || [])
+const termsByUrl = new Map<string, string[]>()
+for (const [term, url] of Object.entries(pagesMeta.terms || {})) {
+  const terms = termsByUrl.get(url as string) || []
+  terms.push(term)
+  termsByUrl.set(url as string, terms)
+}
 
 const editRepo = process.env.EDIT_REPO || 'MUME/wiki'
 const editBranch = process.env.EDIT_BRANCH || 'main'
@@ -49,12 +67,22 @@ export default defineConfig({
   description: 'A community wiki and guide to surviving in Multi-Users in Middle-earth.',
   base: process.env.VITEPRESS_BASE ?? '/wiki/',
   cleanUrls: true,
-  lastUpdated: true,
-  sitemap: {
-    hostname: 'https://docs.mume.org/wiki/'
+  rewrites: (source) => source.startsWith('pages/') ? publicRoute(source).slice(1) + '.md' : source,
+  transformPageData(pageData) {
+    const source = pageData.filePath || pageData.relativePath
+    if (source.startsWith('pages/')) {
+      const topic = topicFor(pageData.frontmatter.tags || [])
+      pageData.frontmatter.wikiTopic = topic
+      pageData.frontmatter.wikiTopicRoute = topicRoute(topic)
+    }
+    pageData.frontmatter.head ??= []
+    if (!preview) pageData.frontmatter.head.push(['link', { rel: 'canonical', href: 'https://docs.mume.org/wiki' + publicRoute(source) }])
   },
+  lastUpdated: true,
+  sitemap: preview ? undefined : { hostname: 'https://docs.mume.org/wiki/' },
 
   head: [
+    ...(preview ? [['meta', { name: 'robots', content: 'noindex, nofollow' }]] as any : []),
     ['link', { rel: 'icon', type: 'image/png', href: '/img/Main_Gandalf.png' }],
     ['meta', { name: 'theme-color', content: '#1a1410' }],
   ],
@@ -71,6 +99,8 @@ export default defineConfig({
       { text: 'Races', link: '/races' },
       { text: 'More',
         items: [
+          { text: 'All topics', link: '/topics' },
+          { text: 'Software', link: '/topics/software' },
           { text: 'Lore', link: '/lore' },
           { text: 'History', link: '/history' },
           { text: 'Tags', link: '/tags' },
@@ -230,6 +260,18 @@ export default defineConfig({
 
   markdown: {
     config(md) {
+      // Relative links retain the original flat published context after a source move.
+      md.core.ruler.after('inline', 'canonical-links', (state) => {
+        if (!state.env.relativePath?.startsWith('pages/')) return
+        for (const token of state.tokens) for (const child of token.children || []) {
+          if (child.type !== 'link_open') continue
+          const href = child.attrGet('href')
+          if (href && !/^(?:[a-z]+:|\/|#)/i.test(href)) {
+            const [target, suffix = ''] = href.split(/(?=[#?])/s, 2)
+            child.attrSet('href', '/' + path.posix.normalize('pages/' + target) + suffix)
+          }
+        }
+      })
       // 1. Core auto-linking for text
       md.core.ruler.after('inline', 'auto-link', (state) => {
         if (state.env.frontmatter?.autolink === false) {
@@ -237,7 +279,7 @@ export default defineConfig({
         }
 
         const currentUrl = state.env.relativePath
-          ? '/' + state.env.relativePath.replace(/\.md$/, '').replace(/\\/g, '/')
+          ? publicRoute(state.env.relativePath)
           : '';
         const usedTerms = new Set();
 
@@ -252,14 +294,12 @@ export default defineConfig({
                 if (href.startsWith('/')) {
                   absoluteHref = href.replace(/\.md$/, '');
                 } else {
-                  const dir = path.dirname(state.env.relativePath || '');
+                  const dir = path.posix.dirname(publicRoute(state.env.relativePath || '').slice(1));
                   absoluteHref = '/' + path.join(dir, href).replace(/\.md$/, '').replace(/\\/g, '/');
                   if (absoluteHref === '/.') absoluteHref = '/';
                 }
-                for (const [term, url] of Object.entries(pagesMeta.terms || {})) {
-                  if (url === absoluteHref || url === absoluteHref.replace('/pages/', '/')) {
-                    usedTerms.add(term);
-                  }
+                for (const url of [absoluteHref, absoluteHref.replace('/pages/', '/')]) {
+                  for (const term of termsByUrl.get(url) || []) usedTerms.add(term);
                 }
               }
             }
@@ -282,6 +322,7 @@ export default defineConfig({
             if (isInLink) continue;
 
             const text = child.content;
+            const lowerText = text.toLowerCase();
             let bestMatch = null;
             let bestIndex = -1;
 
@@ -290,7 +331,7 @@ export default defineConfig({
               const targetUrl = pagesMeta.terms[term];
               if (targetUrl === currentUrl || targetUrl === currentUrl.replace('/pages/', '/')) continue;
 
-              const index = text.toLowerCase().indexOf(term);
+              const index = lowerText.indexOf(term);
               if (index !== -1) {
                 const before = index > 0 ? text[index - 1] : ' ';
                 const after = index + term.length < text.length ? text[index + term.length] : ' ';

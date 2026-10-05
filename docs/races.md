@@ -60,3 +60,5 @@ Some races have unique mechanics that require specialized knowledge:
 <hr />
 
 <ClassRace />
+
+<TopicArticles topic="Races" />

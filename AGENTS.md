@@ -30,11 +30,11 @@ docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
 
 ## Pages CMS
 
-[`.pages.yml`](.pages.yml) configures browser editing for `docs/pages/` and images in `docs/public/img/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for app installation, editor invitations, and trusted-editor access and direct publishing to `main`. Keep its category choices aligned with existing frontmatter tags. Preserve the plain-text body editor: VitePress spoilers, includes, and components require lossless Markdown. Metadata extraction uses YAML parsing to support CMS list serialization.
+[`.pages.yml`](.pages.yml) configures browser editing for `docs/pages/` and images in `docs/public/img/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for app installation, editor invitations, and trusted-editor access and direct publishing to `main`. Keep its category choices aligned with existing frontmatter tags. The body uses rich-text Markdown with an Editor/Source switch at the user’s request. Use Source mode for VitePress spoilers, includes, HTML and components; rich-text round trips require live validation. Metadata extraction uses YAML parsing to support CMS list serialization.
 
 ## Adding or editing pages
 
-All wiki pages live in [`docs/pages/`](docs/pages/). Each is a standard Markdown file with YAML frontmatter:
+All wiki pages live in topic/alphabetic leaf folders under [`docs/pages/`](docs/pages/). Each topic has a Pages CMS group with one collection per leaf folder. Use the appropriate topic and filename range when creating a page; the public URL stays `/wiki/pages/<Filename>` regardless of its source folder. Each is a standard Markdown file with YAML frontmatter:
 
 ```yaml
 ---
@@ -128,7 +128,7 @@ Open a pull request — GitHub Actions will build your changes. Once a maintaine
 This file (`AGENTS.md`) is read automatically by Claude Code, OpenAI Codex, Gemini CLI, and other agents that support the `AGENTS.md` convention. Keep it up to date so agents have accurate project context.
 
 Key facts for agents:
-- All wiki content is in `docs/pages/*.md` — edit there, not in `_pages/` (legacy source)
+- All wiki content is in `docs/pages/**/*.md` — edit there, not in `_pages/` (legacy source)
 - Images live in `docs/public/img/` and are referenced as `/img/filename`
 - Dev server: `docker compose up dev` (port 5174)
 - Build command: `docker compose up --build wiki` (port 4173); or `npm run docs:build` inside the container

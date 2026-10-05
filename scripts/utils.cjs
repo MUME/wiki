@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const YAML = require('yaml');
+const { publicRoute } = require('./routes.cjs');
 const { EXCLUDED_FOR_CONTENT_SCAN } = require('./constants.cjs');
 
 /**
@@ -101,7 +102,7 @@ function extractMetadata(fullPath, docsDir) {
     return {
         title,
         name: fileName.replace(/_/g, ' '),
-        url: urlPrefix + fileName,
+        url: publicRoute(relativePath),
         aliases,
         tags,
         autolink,
