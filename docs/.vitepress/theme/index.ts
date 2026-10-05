@@ -3,6 +3,7 @@ import DefaultTheme from 'vitepress/theme'
 import Layout from './Layout.vue'
 import NotFound from './NotFound.vue'
 import ImageMap from './components/ImageMap.vue'
+import TopicArticles from './components/TopicArticles.vue'
 import StubNotice from './components/StubNotice.vue'
 import CookieConsent from './components/CookieConsent.vue'
 import './style.css'
@@ -16,6 +17,7 @@ export default {
     app.component('ImageMap', ImageMap)
     app.component('NotFound', NotFound)
     app.component('StubNotice', StubNotice)
+    app.component('TopicArticles', TopicArticles)
     app.component('CookieConsent', CookieConsent)
 
     // Handle 404 redirection from public/404.html shim

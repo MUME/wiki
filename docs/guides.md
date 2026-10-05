@@ -76,3 +76,5 @@ Deep dives into specific playstyles and builds:
 ## Help improve the wiki
 
 [Contributing](./pages/Contributing.md) explains how to edit with Pages CMS or GitHub and follow the content and spoiler rules.
+
+<TopicArticles topic="Guides" />

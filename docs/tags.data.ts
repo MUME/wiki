@@ -1,4 +1,6 @@
 import { createContentLoader } from 'vitepress'
+import { createRequire } from 'node:module'
+const { publicRoute } = createRequire(import.meta.url)('../scripts/routes.cjs')
 
 interface TagEntry {
   title: string
@@ -9,7 +11,7 @@ export interface TagsData {
   [tag: string]: TagEntry[]
 }
 
-export default createContentLoader('pages/*.md', {
+export default createContentLoader('pages/**/*.md', {
   transform(rawData): TagsData {
     const map: TagsData = {}
     for (const page of rawData) {
@@ -19,7 +21,7 @@ export default createContentLoader('pages/*.md', {
         if (!map[tag]) map[tag] = []
         map[tag].push({
           title: page.frontmatter?.title ?? page.url.split('/').pop() ?? page.url,
-          url: page.url,
+          url: publicRoute(page.url.replace(/^\//, '').replace(/\.html$/, '')),
         })
       }
     }

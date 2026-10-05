@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const YAML = require('yaml');
+const { publicRoute } = require('./routes.cjs');
 const { EXCLUDED_FOR_CONTENT_SCAN } = require('./constants.cjs');
 
 /**
@@ -78,11 +79,6 @@ function extractMetadata(fullPath, docsDir) {
     const relativePath = path.relative(docsDir, fullPath);
     const fileName = path.basename(fullPath, '.md');
 
-    let urlPrefix = '/';
-    if (relativePath.startsWith('pages' + path.sep)) {
-        urlPrefix = '/pages/';
-    }
-
     const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
     let title = '';
     let aliases = [];
@@ -101,7 +97,7 @@ function extractMetadata(fullPath, docsDir) {
     return {
         title,
         name: fileName.replace(/_/g, ' '),
-        url: urlPrefix + fileName,
+        url: publicRoute(relativePath),
         aliases,
         tags,
         autolink,

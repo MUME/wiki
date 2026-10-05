@@ -108,3 +108,5 @@ Navigating the vast wilderness of Middle-earth is a skill in itself.
 
 ### Browse More
 [Full Locations Index](./tags.md)
+
+<TopicArticles topic="Lore" />

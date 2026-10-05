@@ -11,6 +11,9 @@
         This page does not exist yet.
       </p>
 
+      <label>New page collection
+        <select v-model="newCollection"><option v-for="folder in meta.collections" :key="folder" :value="folder">{{ folder.replace('pages/', '') }}</option></select>
+      </label>
       <div class="not-found-actions">
         <a :href="withBase('/pages/Contributing')" class="action-btn secondary">
           Contribute with Pages CMS
@@ -30,7 +33,7 @@
         </a>
         <a
           v-else
-          :href="`https://github.com/${editRepo}/new/${editBranch}/docs/pages`"
+          :href="`https://github.com/${editRepo}/new/${editBranch}/docs/${newCollection}`"
           target="_blank"
           rel="noopener"
           class="action-btn secondary"
@@ -55,10 +58,12 @@
 </template>
 
 <script setup lang="ts">
+import meta from '../../public/pages-meta.json'
 import { onMounted, ref, computed } from 'vue'
 import { inBrowser, useData, withBase } from 'vitepress'
 
 const { site } = useData()
+const newCollection = ref(meta.collections.find(folder => folder.startsWith('pages/Reference/')) || meta.collections[0])
 const pageName = ref('')
 const rawSlug = ref('')
 
@@ -70,17 +75,16 @@ const createUrl = computed(() => {
   const filename = rawSlug.value.replace(/\s+/g, '_') + '.md'
   const stub = [
     '---',
-    `title: ${rawSlug.value}`,
+    `title: ${JSON.stringify(rawSlug.value)}`,
     'description: ',
-    'tags:',
-    '  - ',
+    'tags: []',
     '---',
     '',
     `# ${rawSlug.value}`,
     '',
     '<!-- Add content here -->',
   ].join('\n')
-  return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
+  return `https://github.com/${editRepo}/new/${editBranch}/docs/${newCollection.value}?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
 function goBack() {

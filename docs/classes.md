@@ -44,3 +44,5 @@ If you're looking for a specific playstyle, these community-written guides are e
 <hr />
 
 <ClassRace />
+
+<TopicArticles topic="Classes" />

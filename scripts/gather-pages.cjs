@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const { getMarkdownFiles, extractMetadata } = require('./utils.cjs');
 
+const { topics, topicFor, publicRoute } = require('./routes.cjs');
+
 const docsDir = path.resolve('docs');
 const publicDir = path.resolve(docsDir, 'public');
 
@@ -12,6 +14,10 @@ if (!fs.existsSync(publicDir)) {
 const allMdFiles = getMarkdownFiles(docsDir);
 const allPages = allMdFiles
     .filter(f => !f.endsWith('tags.md'))
+    .sort((a,b) => {
+      const left = publicRoute(path.relative(docsDir,a)), right = publicRoute(path.relative(docsDir,b));
+      return left < right ? -1 : left > right ? 1 : 0;
+    })
     .map(f => extractMetadata(f, docsDir));
 
 const termMap = {};
@@ -22,6 +28,8 @@ const tagsMap = {};
 for (const p of allPages) {
     paths.add(p.url);
     if (p.isStub) stubs.add(p.url);
+
+    if (p.url.startsWith('/topics/')) continue;
 
     const titleLower = p.title.toLowerCase();
     const nameLower = p.name.toLowerCase();
@@ -43,7 +51,10 @@ for (const p of allPages) {
 paths.add('/');
 paths.add('/tags');
 
+const topicPages = Object.fromEntries(topics.map(topic => [topic, allPages.filter(p => p.url.startsWith('/pages/') && topicFor(p.tags) === topic).sort((a,b) => a.title.localeCompare(b.title)).map(p => ({title:p.title,url:p.url}))]));
 const output = {
+    topics: topicPages,
+    collections: require('yaml').parse(fs.readFileSync('.pages.yml','utf8')).content.flatMap(group => group.items || [group]).map(leaf => leaf.path.replace(/^docs\//, '')).sort(),
     terms: termMap,
     paths: Array.from(paths),
     stubs: Array.from(stubs),

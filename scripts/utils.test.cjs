@@ -37,12 +37,32 @@ test('CMS block lists and inline frontmatter produce the same metadata', () => {
 
 test('Pages CMS category choices cover all existing wiki categories', () => {
     const config = YAML.parse(fs.readFileSync(path.join(__dirname, '../.pages.yml'), 'utf8'));
-    const pages = config.content.find(entry => entry.name === 'pages');
+    const pages = config.content[0].items[0];
     const choices = new Set(pages.fields.find(field => field.name === 'tags').options.values);
     const docs = path.join(__dirname, '../docs');
     for (const file of getMarkdownFiles(path.join(docs, 'pages'))) {
         for (const tag of extractMetadata(file, docs).tags) {
             assert.ok(choices.has(tag), `${file}: category ${tag} missing from Pages CMS`);
         }
+    }
+});
+
+test('Every article has exactly one CMS leaf collection and a unique public filename', () => {
+    const config = YAML.parse(fs.readFileSync(path.join(__dirname, '../.pages.yml'), 'utf8'));
+    const leaves = config.content.flatMap(group => group.items);
+    const names = new Set();
+    for (const file of getMarkdownFiles('docs/pages')) {
+        assert.equal(leaves.filter(leaf => path.dirname(file) === leaf.path).length, 1, file);
+        assert.ok(!names.has(path.basename(file)), 'Duplicate article filename: ' + file);
+        names.add(path.basename(file));
+    }
+    for (const leaf of leaves) {
+        assert.equal(leaf.subfolders, false);
+        assert.equal(leaf.operations.rename, false);
+        assert.equal(leaf.operations.delete, false);
+        const body = leaf.fields.find(field => field.name === 'body');
+        assert.equal(body.type, 'rich-text');
+        assert.equal(body.options.format, 'markdown');
+        assert.equal(body.options.switcher, true);
     }
 });
