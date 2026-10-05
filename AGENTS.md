@@ -28,6 +28,10 @@ docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
 # then commit package.json and package-lock.json
 ```
 
+## Pages CMS
+
+[`.pages.yml`](.pages.yml) configures browser editing for `docs/pages/` and images in `docs/public/img/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for app installation, editor invitations, and trusted-editor access and direct publishing to `main`. Keep its category choices aligned with existing frontmatter tags. Preserve the plain-text body editor: VitePress spoilers, includes, and components require lossless Markdown. Metadata extraction uses YAML parsing to support CMS list serialization.
+
 ## Adding or editing pages
 
 All wiki pages live in [`docs/pages/`](docs/pages/). Each is a standard Markdown file with YAML frontmatter:

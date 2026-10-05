@@ -13,6 +13,7 @@
     "@playwright/test": "^1.63.0",
     "@vitejs/plugin-vue": "^6.0.9",
     "playwright": "^1.63.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "yaml": "^2.9.1"
   }
 }

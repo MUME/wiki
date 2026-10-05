@@ -39,9 +39,7 @@ const isStub = computed(() => {
 })
 
 const editUrl = computed(() => {
-  const repo = typeof __EDIT_REPO__ !== 'undefined' ? __EDIT_REPO__ : 'MUME/wiki'
-  const branch = typeof __EDIT_BRANCH__ !== 'undefined' ? __EDIT_BRANCH__ : 'main'
-  return `https://github.com/${repo}/edit/${branch}/docs/${page.value.relativePath}`
+  return withBase('/pages/Contributing')
 })
 </script>
 

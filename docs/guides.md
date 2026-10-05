@@ -72,3 +72,7 @@ Deep dives into specific playstyles and builds:
 - [**Moria Strategies**](./pages/MoriaStrategies.md) — Surviving the Mines of Moria.
 - [**PK Guide**](./pages/Rules_PK.md) — Player vs. Player combat rules.
 - [**Leveling Guide**](./pages/Level.md) — Experience and leveling information.
+
+## Help improve the wiki
+
+[Contributing](./pages/Contributing.md) explains how to edit with Pages CMS or GitHub and follow the content and spoiler rules.

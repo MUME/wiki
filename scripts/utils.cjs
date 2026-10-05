@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const YAML = require('yaml');
 const { EXCLUDED_FOR_CONTENT_SCAN } = require('./constants.cjs');
 
 /**
@@ -82,40 +83,18 @@ function extractMetadata(fullPath, docsDir) {
         urlPrefix = '/pages/';
     }
 
-    const fmMatch = content.match(/^---([\s\S]*?)---/);
+    const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
     let title = '';
     let aliases = [];
     let tags = [];
     let autolink = true;
     if (fmMatch) {
-        const fm = fmMatch[1];
-        const titleMatch = fm.match(/^title:\s*(.*)$/m);
-        if (titleMatch) title = normalizeTitle(titleMatch[1]);
-
-        const aliasesMatch = fm.match(/^aliases:\s*\[(.*)\]/m);
-        if (aliasesMatch) {
-            aliases = aliasesMatch[1].split(',').map(s => s.trim().replace(/^['"](.*)['"]$/, '$1'));
-        }
-
-        const autolinkMatch = fm.match(/^autolink:\s*(.*)$/m);
-        if (autolinkMatch) {
-            const val = autolinkMatch[1].trim().toLowerCase();
-            autolink = val !== 'false' && val !== 'no' && val !== 'off';
-        }
-
-        // Handle tags in frontmatter
-        const tagsMatch = fm.match(/^tags:\s*\[(.*)\]/m);
-        if (tagsMatch) {
-            tags = tagsMatch[1].split(',').map(s => s.trim().replace(/^['"](.*)['"]$/, '$1'));
-        } else {
-            // Check for multiline tags
-            const multilineTagsMatch = fm.match(/^tags:\s*\n((?:\s*-\s*.*\n?)*)/m);
-            if (multilineTagsMatch) {
-                tags = multilineTagsMatch[1].split('\n')
-                    .map(s => s.replace(/^\s*-\s*/, '').trim())
-                    .filter(s => s.length > 0);
-            }
-        }
+        // CMS editors serialize lists as block YAML and may quote strings.
+        const fm = YAML.parse(fmMatch[1]) || {};
+        title = typeof fm.title === 'string' ? fm.title.trim() : '';
+        aliases = Array.isArray(fm.aliases) ? fm.aliases.filter(s => typeof s === 'string') : [];
+        tags = Array.isArray(fm.tags) ? fm.tags.filter(s => typeof s === 'string') : [];
+        autolink = ![false, 'false', 'no', 'off'].includes(fm.autolink);
     }
     if (!title) title = fileName.replace(/_/g, ' ');
 

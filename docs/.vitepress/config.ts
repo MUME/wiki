@@ -74,6 +74,7 @@ export default defineConfig({
           { text: 'Lore', link: '/lore' },
           { text: 'History', link: '/history' },
           { text: 'Tags', link: '/tags' },
+          { text: 'Contribute', link: '/pages/Contributing' },
           { text: 'Homepage', link: 'https://mume.org/' },
         ]
       }

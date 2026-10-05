@@ -12,6 +12,9 @@
       </p>
 
       <div class="not-found-actions">
+        <a :href="withBase('/pages/Contributing')" class="action-btn secondary">
+          Contribute with Pages CMS
+        </a>
         <button class="action-btn primary" @click="openSearch()">
           Search for "{{ pageName || 'this topic' }}"
         </button>
@@ -43,7 +46,7 @@
 
       <p class="not-found-hint">
         MUME Wiki is a community project. If you know about this topic,
-        <a :href="createUrl || `https://github.com/${editRepo}`" target="_blank" rel="noopener">
+        <a :href="withBase('/pages/Contributing')">
           contribute a page
         </a>!
       </p>

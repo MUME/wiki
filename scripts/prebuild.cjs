@@ -7,6 +7,7 @@ const path = require('path');
  */
 
 const tasks = [
+    { name: 'Pages CMS & Metadata Checks', script: 'utils.test.cjs' },
     { name: 'Metadata Generation', script: 'gather-pages.cjs' },
     { name: 'Stub Detection', script: 'check-stubs.cjs' },
     { name: 'Filename Validation', script: 'check-content.cjs' },

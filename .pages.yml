@@ -1,0 +1,141 @@
+# Browser editor configuration: https://pagescms.org/docs/configuration/
+# Keep category choices aligned with docs/pages frontmatter.
+media:
+  - name: images
+    label: Images
+    input: docs/public/img
+    output: /img
+    categories:
+      - image
+content:
+  - name: pages
+    label: Wiki pages
+    type: collection
+    path: docs/pages
+    format: yaml-frontmatter
+    subfolders: false
+    filename:
+      template: "{primary}.md"
+      field: create
+    operations:
+      rename: false
+      delete: false
+    view:
+      primary: title
+      fields:
+        - title
+        - tags
+      search:
+        - title
+        - aliases
+      sort:
+        - title
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Page title
+        type: string
+        required: true
+      - name: description
+        label: Short description
+        type: text
+        description: Optional one-sentence summary for search engines.
+      - name: aliases
+        label: Other names for this page
+        type: string
+        list: true
+      - name: tags
+        label: Categories
+        type: select
+        options:
+          multiple: true
+          values:
+            - Arms items
+            - Basics
+            - Belts
+            - Boats
+            - Body items
+            - Charging weapons
+            - Cheat Sheet
+            - Cities
+            - Classes
+            - Cleaving weapons
+            - Cleric spells
+            - Clients
+            - Cloaks
+            - Cloth equipment
+            - Commands
+            - Concussion weapons
+            - Consumables
+            - Containers
+            - Ents
+            - Equipment
+            - Equipment by slot
+            - FAQS
+            - Feet items
+            - Guides
+            - Guildmasters
+            - Hands items
+            - Head items
+            - Help files
+            - Help_files
+            - History
+            - Inns
+            - Items
+            - Keys
+            - Leather equipment
+            - Legend homes
+            - Legend_homes
+            - Legs items
+            - Links
+            - Locations
+            - Lore
+            - Mage spells
+            - Mail equipment
+            - Mechanics
+            - Metal equipment
+            - Miscellaneous equipment
+            - Missile weapons
+            - Mobiles
+            - Mobiles with unknown level
+            - Neck items
+            - Newbie
+            - Newbie Help
+            - Piercing weapons
+            - Places
+            - Plants
+            - Playable races
+            - Quest items
+            - Races
+            - Ranger skills
+            - Rings
+            - Shaman spells
+            - Shields
+            - Shopkeepers
+            - Shops
+            - Skills
+            - Slashing weapons
+            - Smiting weapons
+            - Software
+            - Spells
+            - Stabbing weapons
+            - Statistics
+            - Thief skills
+            - Uncategorized items
+            - Warrior skills
+            - Weapons
+            - Wrist items
+      - name: autolink
+        label: Automatically link names of other wiki pages
+        type: boolean
+        default: true
+      - name: body
+        label: Page content (Markdown)
+        type: text
+        description: "Share mortal knowledge only. Hide spoilers inside ::: details
+          Spoiler blocks. Keep existing includes and components intact. Check your changes before saving to main; a successful site build publishes them directly."
+settings:
+  content:
+    merge: true

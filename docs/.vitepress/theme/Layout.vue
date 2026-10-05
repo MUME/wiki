@@ -1,5 +1,5 @@
 <script setup>
-import { useData } from 'vitepress'
+import { useData, withBase } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import NotFound from './NotFound.vue'
 import CookieConsent from './components/CookieConsent.vue'
@@ -18,6 +18,9 @@ const { frontmatter } = useData()
     </template>
     <template #not-found>
       <NotFound />
+    </template>
+    <template #doc-footer-before>
+      <p><a :href="withBase('/pages/Contributing')">Contribute with Pages CMS or GitHub</a></p>
     </template>
     <template #layout-bottom>
       <CookieConsent />

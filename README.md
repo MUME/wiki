@@ -8,5 +8,6 @@ We welcome contributions from everyone! Whether you want to fix a typo, add new 
 
 The guidelines include:
 - **Wiki Rules**: Important rules about mortal knowledge and spoilers.
-- **Editing via GitHub**: Simple steps for non-coders to edit content directly.
+- **Pages CMS**: Trusted members edit and publish directly in their browser, with email invitations available for editors without GitHub accounts.
+- **Editing via GitHub**: Other contributors submit changes through pull requests for review.
 - **Technical Setup**: Links to development instructions for coders.
