@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { getMarkdownFiles, extractMetadata } = require('./utils.cjs');
 
-const { topics, topicFor, topicRoute } = require('./routes.cjs');
+const { topics, topicFor, publicRoute } = require('./routes.cjs');
 
 const docsDir = path.resolve('docs');
 const publicDir = path.resolve(docsDir, 'public');
@@ -15,7 +15,6 @@ const allMdFiles = getMarkdownFiles(docsDir);
 const allPages = allMdFiles
     .filter(f => !f.endsWith('tags.md'))
     .sort((a,b) => {
-      const { publicRoute } = require('./routes.cjs');
       const left = publicRoute(path.relative(docsDir,a)), right = publicRoute(path.relative(docsDir,b));
       return left < right ? -1 : left > right ? 1 : 0;
     })

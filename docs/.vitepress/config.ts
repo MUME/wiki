@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 import fs from 'fs'
 import path from 'path'
-import { slugify } from './shared'
 import { createRequire } from 'node:module'
 const require = createRequire(import.meta.url)
 const { getMarkdownFiles } = require('../../scripts/utils.cjs')
@@ -20,7 +19,6 @@ try {
   pagesMeta = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8'))
 } catch (e) {}
 const sortedTerms = Object.keys(pagesMeta.terms || {}).sort((a, b) => b.length - a.length)
-const validPaths = new Set(pagesMeta.paths || [])
 const termsByUrl = new Map<string, string[]>()
 for (const [term, url] of Object.entries(pagesMeta.terms || {})) {
   const terms = termsByUrl.get(url as string) || []

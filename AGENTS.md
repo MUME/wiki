@@ -30,7 +30,7 @@ docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
 
 ## Pages CMS
 
-[`.pages.yml`](.pages.yml) configures browser editing for `docs/pages/` and images in `docs/public/img/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for app installation, editor invitations, and trusted-editor access and direct publishing to `main`. Keep its category choices aligned with existing frontmatter tags. The body uses rich-text Markdown with an Editor/Source switch at the user’s request. Use Source mode for VitePress spoilers, includes, HTML and components; rich-text round trips require live validation. Metadata extraction uses YAML parsing to support CMS list serialization.
+[`.pages.yml`](.pages.yml) configures browser editing for `docs/pages/` and images in `docs/public/img/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for app installation, editor invitations, and trusted-editor access and direct publishing to `main`. Keep its category choices aligned with existing frontmatter tags. The body uses rich-text Markdown with an Editor/Source switch. Use Source mode for VitePress spoilers, includes, HTML and components and preserve their Markdown syntax. Metadata extraction uses YAML parsing to support CMS list serialization.
 
 ## Adding or editing pages
 
@@ -68,7 +68,7 @@ Use relative Markdown links with the `.md` extension:
 [Back to classes](../classes.md)
 ```
 
-Do **not** use wikilink syntax `[text](Page "wikilink")` — the migration script converts those but the VitePress site uses standard links.
+Do **not** use wikilink syntax `[text](Page "wikilink")` — the VitePress site uses standard Markdown links.
 
 ## Adding images
 

@@ -142,8 +142,7 @@ content:
               media: images
             description: "Share mortal knowledge only. Hide spoilers inside ::: details
               Spoiler blocks. Use Source mode for spoilers, includes, HTML,
-              scripts and components; visual editing of these constructs is
-              unverified. Check your changes before saving to main; a successful
+              scripts and components. Check your changes before saving to main; a successful
               site build publishes them directly."
   - name: guides
     label: Guides

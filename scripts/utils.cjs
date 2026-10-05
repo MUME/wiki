@@ -79,11 +79,6 @@ function extractMetadata(fullPath, docsDir) {
     const relativePath = path.relative(docsDir, fullPath);
     const fileName = path.basename(fullPath, '.md');
 
-    let urlPrefix = '/';
-    if (relativePath.startsWith('pages' + path.sep)) {
-        urlPrefix = '/pages/';
-    }
-
     const fmMatch = content.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
     let title = '';
     let aliases = [];
