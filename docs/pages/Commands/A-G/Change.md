@@ -13,11 +13,12 @@ Use 'change &lt;parameter&gt;', where &lt;parameter&gt; is one of the following:
 |-----------|-------------|
 | [ALERTNESS](./Alertness.md) | changes how much attention you pay to hidden people |
 | ANSIFILTER | turns removal of special characters in whoises on and off |
-| [CHARSET](./Charset.md) | selects which character set your terminal supports |
+| [CHARSET](./Charset.md) | selects which character set you want to receive |
 | [CLASS](./Change_Class.md) | changes your class |
 | [COLOUR](./Colour.md) | highlights certain text in color to make it more noticeable |
 | [DESCRIPTION](./Description.md) | changes the description others see when they look at you |
 | [EDITOR](./Change_Editor.md) | selects your editor for writing text |
+| ENCODING | selects character encoding to use for text from the MUD |
 | [EQORDER](./Change_Eqorder.md) | customise equipment display order |
 | HEIGHT | sets the number of lines before a page break for [PAGER](./Change_Pager.md) |
 | HTML | toggle to use the WWW-connection (disabled) |
