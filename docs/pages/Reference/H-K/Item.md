@@ -3,6 +3,10 @@ title: Item
 description: 'Items are objects that can be carried in your inventory in MUME. Covers equipment, consumables, containers, quest items, and miscellaneous objects.'
 tags:
   - Mechanics
+last_updated: 2026-10-27
+external_resources:
+  - https://mume.org/help/items
+  - https://mume.org/help/specifying_objects
 ---
 **Items** in [MUME](./MUME.md) are objects that can be carried in your [inventory](./Inventory.md). Items encompass everything from weapons and armour to food, herbs, keys, and quest tokens.
 
@@ -31,5 +35,6 @@ Items can carry flags that affect their behaviour:
 
 - [Equipment](../equipment.md) — Full equipment hub.
 - [Inventory](./Inventory.md) — Managing carried items.
+- [Specifying objects](./Specifying_objects.md) — Syntax for targeting objects and selecting decaying items (`oldest.`).
 
 <!--@include: ../../../includes/Items.md-->

@@ -439,6 +439,7 @@ Protection From Evil
 - Killing a lot of neutral mobs will eventually lower align
 - Keywords for items, mobs can be combined, ie guard-uruk, shining-shirt
   &lt;https://mume.org/news/game/2702.php&gt;
+- For items that decay due to age, use `oldest.` or `o.` (e.g. `eat oldest.bread` or `eat o.bread`) to target the item that will decay soonest (<https://mume.org/news/game/2800.php>). See [Specifying objects](./Specifying_objects.md).
 - One wp makes you visible to warlords on the other side
 
 ## New character tips
