@@ -38,7 +38,7 @@ see when you log in.
 game. Type **who ranger** to see them, if any are logged in.
 
 You can gain more then one **newbie kit** if you happen to die, until
-level 5.
+level 13.
 
 A newbie kit is a collection of some gear, equipment, weapon, food, and
 drink to help you.

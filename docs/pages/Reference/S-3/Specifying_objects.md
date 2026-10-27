@@ -22,11 +22,11 @@ get 2.sword
 ```
 Picks up the second sword in the room.
 
-"First" and "second" here refer to the order you see them in when you type `examine`.
+"First" and "second" here refer strictly to the order you see items in when you type `examine`.
 
-Some [commands](./Command.md) will allow you to use an [object](./Item.md) that is either worn (in your [equipment](../equipment.md)), in your [inventory](./Inventory.md), or in your room. In that case, all three locations are searched, in that order.
+Some [commands](./Command.md) allow you to interact with an [object](./Item.md) that is either worn (in your [equipment](../equipment.md)), in your [inventory](./Inventory.md), or in your room. In that case, all three locations are searched in that exact order (equipment, then inventory, then room).
 
-Note that the `look` and `examine` commands may show [objects](./Item.md) in a different order, as `look` may rearrange them or show several of the same objects on a single line (e.g. *There are two swords here.*).
+Note that the `look` command may group identical items on a single line (e.g., *There are two swords here.*) or display them in a different arrangement. For reliable ordinal selection (`1.sword`, `2.sword`), always use the item sequence listed by `examine`.
 
 ## Keywords
 
