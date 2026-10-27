@@ -23,11 +23,11 @@ If the [Ainur](./Ainur.md) do not approve of your name, no one
 will kit you.
 
 Young players of the Free People of Arda are able to get a newbie kit as
-needed until they are level 13. Normally you can receive only one kit
+needed up to level 13. Normally you can receive only one kit
 until you are killed, at which point you can either try to recover the
 equipment in your corpse or ask for another kit and try again. Once you
 are above level 13 you are expected to be able to ask other mortals for
-assistance so no more kits are given unless you have never received one.
+assistance, so no more kits are given unless you have never received one.
 
 Please note that you drop all your items to the ground when you leave
 the game by using the "[Quit](./Quit.md)" command. In order to

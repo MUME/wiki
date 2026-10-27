@@ -37,8 +37,9 @@ see when you log in.
 **Ranger**s are players who volunteer to help out newer players to the
 game. Type **who ranger** to see them, if any are logged in.
 
-You can gain more then one **newbie kit** if you happen to die, until
-level 13.
+Young Free People characters can gain more than one **newbie kit** if they happen
+to die, up to level 13. (Dark Lord soldiers can receive only one kit ever, and
+Zaugurz Orcs receive none.)
 
 A newbie kit is a collection of some gear, equipment, weapon, food, and
 drink to help you.
