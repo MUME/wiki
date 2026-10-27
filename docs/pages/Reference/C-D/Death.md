@@ -3,13 +3,17 @@ title: Death
 description: 'Dying on MUME (except in the case of'
 tags:
   - Help files
+last_updated: 2026-10-27
+external_resources:
+  - https://mume.org/help/death
+  - https://mume.org/help/kit
 ---
 
 ::: tip Don't Panic! Equipment & Recovery Tips
 Dying is a normal part of learning MUME:
 - **Retrieving Gear**: Return to your `corpse` and type `get all corpse`.
 - **Ask for Help**: If you died in a dangerous area, use `narrate` or `tell` to ask friendly players for help. Experienced players are happy to escort you back!
-- **Newbie Kits**: Eligible Free People characters below level 6 can request another newbie kit after death by praying to the Ainur and asking an immortal.
+- **Newbie Kits**: Eligible Free People characters up to level 13 can request another newbie kit after death by praying to the Ainur and asking an immortal.
 For more first-hour survival tips, see the [**Quick Start Guide**](./Quick_Start.md).
 :::
 
@@ -28,7 +32,7 @@ If you did not die to a deathtrap, you may stand a chance at recovering
 your equipment from your
 [corpse](./Corpse.md). However, whatever killed you may kill you
 again if you are not cautious, and other players may also take your
-items from the corpse. If you are below level 6 and of a good
+items from the corpse. If you are up to level 13 and of a good
 [race](../races.md), you are entitled to a new [newbie
 kit](/guides) every time you die.
 

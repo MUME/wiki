@@ -3,29 +3,31 @@ title: Kit
 description: 'Newbie kits consist of helpful items for young adventurers just starting'
 tags:
   - Help files
+last_updated: 2026-10-27
+external_resources:
+  - https://mume.org/help/kit
+  - https://mume.org/news/game/2800.php
 ---
 Newbie kits consist of helpful items for young adventurers just starting
 out in MUME. Normally a newbie kit will consist of a weapon of some
 sort, a shield, some meat and bread, a cup of water and maybe a map of a
 nearby city.
 
-In order to receive a newbie kit, simply pray to
-the Ainur and nicely ask for one. It is not an automatic process so
-please do not continue asking right away if you don't immediately
-receive a kit. Spam-praying 'kit' is not appreciated; if an immortal is
-not looking at the screen, praying ten times does not speed up the
-matter.
+In order to receive a newbie kit, simply pray to the Ainur and nicely ask for
+one. If no [Ainur](./Ainur.md) are available, requests from young Free People will
+receive a kit automatically (the autokitter fulfills requests in no more than 20
+seconds). Spam-praying 'kit' is not appreciated; praying ten times does not
+speed up the matter.
 
 If the [Ainur](./Ainur.md) do not approve of your name, no one
-will kit you. Sometimes there aren't any immortals on at all to be able
-to grant you your request so be patient.
+will kit you.
 
 Young players of the Free People of Arda are able to get a newbie kit as
-needed until they are level 5. Normally you can receive only one kit
+needed up to level 13. Normally you can receive only one kit
 until you are killed, at which point you can either try to recover the
 equipment in your corpse or ask for another kit and try again. Once you
-are above level 5 you are expected to be able to ask other mortals for
-assistance so no more kits are given unless you have never received one.
+are above level 13 you are expected to be able to ask other mortals for
+assistance, so no more kits are given unless you have never received one.
 
 Please note that you drop all your items to the ground when you leave
 the game by using the "[Quit](./Quit.md)" command. In order to
